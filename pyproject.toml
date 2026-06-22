@@ -1,0 +1,21 @@
+[project]
+name = "norsk-lemma"
+version = "1.2.0"
+description = "Pipeline for generating English lemma glosses from Ordbokene Bokmål data."
+readme = "README.md"
+requires-python = ">=3.12"
+license = "Apache-2.0"
+dependencies = [
+    "requests>=2.31",
+    "tqdm>=4.66",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.0",
+    "pytest>=9.0",
+    "ruff>=0.14",
+]
