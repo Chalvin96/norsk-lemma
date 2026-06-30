@@ -1,0 +1,122 @@
+{
+  "source_article_id": 126409,
+  "lemmas": [
+    {
+      "lemma": "mellomlager",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 122938,
+      "is_sub_article": false,
+      "primary_translation": "temporary storage / cache",
+      "word_forms": [
+        {
+          "word_form": "mellomlager",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$lOm$%lA:$g@r",
+              "ipa": "ˈmɛlɔmˌlɑːgər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mellomlageret",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "mellomlagra",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "mellomlagrene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "mellomlagre",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$lOm$%lA:$gr@",
+              "ipa": "ˈmɛlɔmˌlɑːgrə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ef7ebd655b2e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef7ebd655b2e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef7ebd655b2e.mp3",
+            "text": "mellomlager",
+            "source": "generated",
+            "content_sha256": "9c86c2546027623d15e4546dcd34e1993fae3fe1939122dea151a09b2239aa5f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "midlertidig lagringsplass",
+      "translation": "temporary storage space",
+      "examples": [
+        "varene ble oppbevart på mellomlageret",
+        "et mellomlager for fyllmasser av stein"
+      ]
+    },
+    {
+      "text": "i datamaskin: lagringsenhet eller minne som gir rask tilgang til data som skal brukes snart, eller som er ofte i bruk",
+      "translation": "in a computer: storage unit or memory that provides quick access to data that is about to be used or is frequently used",
+      "examples": []
+    },
+    {
+      "text": "cache, hurtigminne",
+      "translation": "cache, fast memory",
+      "examples": [
+        "maskinen har et stort mellomlager og jobber raskt",
+        "den kopierte teksten ligger i mellomlageret"
+      ]
+    }
+  ]
+}

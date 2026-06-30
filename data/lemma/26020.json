@@ -1,0 +1,80 @@
+{
+  "source_article_id": 26020,
+  "lemmas": [
+    {
+      "lemma": "indikativisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31001,
+      "is_sub_article": false,
+      "primary_translation": "indicative",
+      "word_forms": [
+        {
+          "word_form": "indikativisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$kA$\"ti:$vI$sk",
+              "ipa": "ɪndɪkɑˈtɪːvɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "indikativiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$kA$\"ti:$vI$sk@",
+              "ipa": "ɪndɪkɑˈtɪːvɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f758cd79fd6d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f758cd79fd6d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f758cd79fd6d.mp3",
+            "text": "indikativisk",
+            "source": "generated",
+            "content_sha256": "652487842c6b65850668edf964b4fee18a6298149f635634e0f1ed980f404b47",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i grammatikk: som står i indikativ",
+      "translation": "in grammar: pertaining to the indicative mood",
+      "examples": [
+        "indikativiske verbformer"
+      ]
+    }
+  ]
+}

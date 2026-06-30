@@ -1,0 +1,87 @@
+{
+  "source_article_id": 5952,
+  "lemmas": [
+    {
+      "lemma": "billedlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 7009,
+      "is_sub_article": false,
+      "primary_translation": "figurative / pictorial",
+      "word_forms": [
+        {
+          "word_form": "billedlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$l@d$lI",
+              "ipa": "ˈbɪlədlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "billedlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$l@d$lI$@",
+              "ipa": "ˈbɪlədlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a7705b905cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a7705b905cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a7705b905cf.mp3",
+            "text": "billedlig",
+            "source": "generated",
+            "content_sha256": "a02acbf96dd1c8383cd4ffc7cebbb931caefcce28d63add13c22a08509d2cdf0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er uttrykt som bilde",
+      "translation": "expressed as a picture",
+      "examples": []
+    },
+    {
+      "text": "allegorisk, figurlig, overført",
+      "translation": "allegorical, figurative, transferred",
+      "examples": [
+        "billedlig tale",
+        "et billedlig uttrykk",
+        "billedlig talt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "source_article_id": 67446,
+  "lemmas": [
+    {
+      "lemma": "velfødd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77846,
+      "is_sub_article": false,
+      "primary_translation": "well-fed",
+      "word_forms": [
+        {
+          "word_form": "velfødd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEl$%f9d",
+              "ipa": "ˈvɛlˌfœd",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "velfødde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEl$%f9$d@",
+              "ipa": "ˈvɛlˌfœdə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9fd16d675425.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9fd16d675425.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9fd16d675425.mp3",
+            "text": "velfødd",
+            "source": "generated",
+            "content_sha256": "bf275bad3a871fdf0ed796de9160c4c2a970e015badb4020a7f0f72a4f5b963e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som får godt med mat",
+      "translation": "well-fed",
+      "examples": []
+    },
+    {
+      "text": "i godt hold",
+      "translation": "",
+      "examples": [
+        "få et velfødd barn",
+        "en velfødd gris"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "source_article_id": 44170,
+  "lemmas": [
+    {
+      "lemma": "parasittisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51134,
+      "is_sub_article": false,
+      "primary_translation": "parasitic",
+      "word_forms": [
+        {
+          "word_form": "parasittisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"sI$tI$sk",
+              "ipa": "pɑrɑˈsɪtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "parasittiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"sI$tI$sk@",
+              "ipa": "pɑrɑˈsɪtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c80717ae71a7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c80717ae71a7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c80717ae71a7.mp3",
+            "text": "parasittisk",
+            "source": "generated",
+            "content_sha256": "5fe6296bf3e3fdbc6d7e6ca534ce935d5a466b2761f52fd042e4054512988504",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som snylter",
+      "translation": "parasitic",
+      "examples": []
+    },
+    {
+      "text": "jamfør parasitt",
+      "translation": "parasite",
+      "examples": [
+        "en parasittisk sopp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source_article_id": 125160,
+  "lemmas": [
+    {
+      "lemma": "nappes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 2010312,
+      "is_sub_article": false,
+      "primary_translation": "to tussle",
+      "word_forms": [
+        {
+          "word_form": "nappes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$p@s",
+              "ipa": "ˈnɑpəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "napptes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2cf946d6e309.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2cf946d6e309.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2cf946d6e309.mp3",
+            "text": "nappes",
+            "source": "generated",
+            "content_sha256": "37ca64df9552a8df817e682b9d6e0649d8f275c8ec8f88c1ece10a19f34dfd90",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "prøve krefter, slåss",
+      "translation": "to try one's strength, to fight",
+      "examples": [
+        "det skal vi nappes om, skrek trollet"
+      ]
+    }
+  ]
+}

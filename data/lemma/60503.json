@@ -1,0 +1,89 @@
+{
+  "source_article_id": 60503,
+  "lemmas": [
+    {
+      "lemma": "testosteron",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 69186,
+      "is_sub_article": false,
+      "primary_translation": "male sex hormone",
+      "word_forms": [
+        {
+          "word_form": "testosteron",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$stU$st@$\"ru:n",
+              "ipa": "təstʊstəˈruːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "testosteronet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "testosterona",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "testosteronene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d735088e9e29.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d735088e9e29.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d735088e9e29.mp3",
+            "text": "testosteron",
+            "source": "generated",
+            "content_sha256": "daf9c33728c754dde27fa4c332345523500c17719a825557d0fcfc00da58d8a7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mannlig kjønnshormon som dannes i testikkel",
+      "translation": "male sex hormone produced in the testicle",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 42155,
+  "lemmas": [
+    {
+      "lemma": "omlydt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49249,
+      "is_sub_article": false,
+      "primary_translation": "umlauted",
+      "word_forms": [
+        {
+          "word_form": "omlydt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Om$%lYt",
+              "ipa": "ˈɔmˌlʏt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omlydte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Om$%lY$t@",
+              "ipa": "ˈɔmˌlʏtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "594fb22cf795.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/594fb22cf795.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/594fb22cf795.mp3",
+            "text": "omlydt",
+            "source": "generated",
+            "content_sha256": "7d6a65822856f38c8cd203dfc56c2c0764092caf9f89867306811b2ea323c7c2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er forandret ved omlyd",
+      "translation": "that which has been changed by umlaut",
+      "examples": [
+        "en omlydt vokal"
+      ]
+    }
+  ]
+}

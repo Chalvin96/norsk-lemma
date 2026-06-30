@@ -1,0 +1,81 @@
+{
+  "source_article_id": 68073,
+  "lemmas": [
+    {
+      "lemma": "vestlandsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 78596,
+      "is_sub_article": false,
+      "primary_translation": "Western Norwegian",
+      "word_forms": [
+        {
+          "word_form": "vestlandsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$%stlAnsk",
+              "ipa": "ˈvɛˌstlɑnsk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vestlandske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$%stlAn$sk@",
+              "ipa": "ˈvɛˌstlɑnskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "41670904cab6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41670904cab6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41670904cab6.mp3",
+            "text": "vestlandsk",
+            "source": "generated",
+            "content_sha256": "8508f59967a03efab3f50f27b1c88f4df61805fc64c196afaf78f871cc7782e7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Vestlandet og vestlendinger",
+      "translation": "relating to Western Norway and its inhabitants",
+      "examples": [
+        "vestlandske fjordbygder",
+        "vestlandske fiskere"
+      ]
+    }
+  ]
+}

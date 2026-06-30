@@ -1,0 +1,86 @@
+{
+  "source_article_id": 54430,
+  "lemmas": [
+    {
+      "lemma": "slibrig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 62716,
+      "is_sub_article": false,
+      "primary_translation": "slippery / indecent",
+      "word_forms": [
+        {
+          "word_form": "slibrig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Sli:$brI",
+              "ipa": "ˈʃlɪːbrɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "slibrige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Sli:$brI$@",
+              "ipa": "ˈʃlɪːbrɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b6ef33af3faa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b6ef33af3faa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b6ef33af3faa.mp3",
+            "text": "slibrig",
+            "source": "generated",
+            "content_sha256": "4274e55b704c5ac765b40346606f652358d767e9e213fe47193d622a51df49dc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "glatt, sleip",
+      "translation": "slippery, slick",
+      "examples": []
+    },
+    {
+      "text": "uanstendig, grisete griset",
+      "translation": "indecent, dirty",
+      "examples": [
+        "slibrige vitser",
+        "slibrig snakk"
+      ]
+    }
+  ]
+}

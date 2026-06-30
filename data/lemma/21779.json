@@ -1,0 +1,98 @@
+{
+  "source_article_id": 21779,
+  "lemmas": [
+    {
+      "lemma": "gårsdag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 25433,
+      "is_sub_article": false,
+      "primary_translation": "yesterday",
+      "word_forms": [
+        {
+          "word_form": "gårsdag",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"go:s`$%dA:g",
+              "ipa": "ˈgoːʂˌdɑːg",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gårsdagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"go:s`$%dA:$g@n",
+              "ipa": "ˈgoːʂˌdɑːgən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gårsdager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "gårsdagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b749aab9b3f2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b749aab9b3f2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b749aab9b3f2.mp3",
+            "text": "gårsdag",
+            "source": "generated",
+            "content_sha256": "1a69d6b689d46f2bfce78c3f37c2dc46b139cd28dba97cd090e06a9ca6f1b94d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i bestemt form entall: dagen i går",
+      "translation": "in the definite singular form: yesterday",
+      "examples": [
+        "gårsdagen var fæl",
+        "gårsdagens strabaser"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "source_article_id": 18543,
+  "lemmas": [
+    {
+      "lemma": "fyr",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 21672,
+      "is_sub_article": false,
+      "primary_translation": "guy",
+      "word_forms": [
+        {
+          "word_form": "fyr",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fy:r",
+              "ipa": "ˈfyːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fyren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fy:$n`=",
+              "ipa": "ˈfyːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fyrer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fy:$r@r",
+              "ipa": "ˈfyːrər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fyrene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fy:$n`=$@",
+              "ipa": "ˈfyːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "247cc7d95676.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/247cc7d95676.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/247cc7d95676.mp3",
+            "text": "fyr",
+            "source": "generated",
+            "content_sha256": "de42b02fcf66d1db4f054b3dd421ce6be138dfacd64f606c2f5ff4ba341449e4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mann, kar",
+      "translation": "man, fellow",
+      "examples": [
+        "en hyggelig fyr",
+        "en sleip fyr",
+        "hva slags fyr var det?"
+      ]
+    }
+  ]
+}

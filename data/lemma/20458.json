@@ -1,0 +1,87 @@
+{
+  "source_article_id": 20458,
+  "lemmas": [
+    {
+      "lemma": "godmodig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 23896,
+      "is_sub_article": false,
+      "primary_translation": "good-natured",
+      "word_forms": [
+        {
+          "word_form": "godmodig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu:$%mu:$dI",
+              "ipa": "ˈguːˌmuːdɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "godmodige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu:$%mu:$dI$@",
+              "ipa": "ˈguːˌmuːdɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c66997c3287d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c66997c3287d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c66997c3287d.mp3",
+            "text": "godmodig",
+            "source": "generated",
+            "content_sha256": "812f345dea437fd6db2f236121ce2a51001081e6ec157ecf08c525a5b4a19ae7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har eller er preget av et vennlig sinnelag",
+      "translation": "having or characterized by a friendly disposition",
+      "examples": []
+    },
+    {
+      "text": "godslig og tålmodig",
+      "translation": "good-natured and patient",
+      "examples": [
+        "et godmodig menneske",
+        "godmodig erting",
+        "godmodig latter"
+      ]
+    }
+  ]
+}

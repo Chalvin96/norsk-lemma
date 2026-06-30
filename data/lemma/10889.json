@@ -1,0 +1,80 @@
+{
+  "source_article_id": 10889,
+  "lemmas": [
+    {
+      "lemma": "drikkfeldig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12727,
+      "is_sub_article": false,
+      "primary_translation": "alcoholic / drunkard",
+      "word_forms": [
+        {
+          "word_form": "drikkfeldig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "drIk$\"fEl$dI",
+              "ipa": "drɪkˈfɛldɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drikkfeldige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "drIk$\"fEl$dI$@",
+              "ipa": "drɪkˈfɛldɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7232e271a898.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7232e271a898.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7232e271a898.mp3",
+            "text": "drikkfeldig",
+            "source": "generated",
+            "content_sha256": "6768392bea531a10d2c142e2595d0f68ad6e2cf59b95e3702b03d57f2b880274",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forfallen til alkohol",
+      "translation": "prone to alcohol",
+      "examples": [
+        "hovedpersonen i boka er en trist og drikkfeldig politimann"
+      ]
+    }
+  ]
+}

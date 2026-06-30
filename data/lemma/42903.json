@@ -1,0 +1,97 @@
+{
+  "source_article_id": 42903,
+  "lemmas": [
+    {
+      "lemma": "østrogen",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 81204,
+      "is_sub_article": false,
+      "primary_translation": "estrogenic",
+      "word_forms": [
+        {
+          "word_form": "østrogen",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "9$strU$\"ge:n",
+              "ipa": "œstrʊˈgeːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "østrogene",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "9$strU$\"ge:$n@",
+              "ipa": "œstrʊˈgeːnə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "østrogent",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "9$strU$\"ge:nt",
+              "ipa": "œstrʊˈgeːnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2bfd7b1d98b9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2bfd7b1d98b9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2bfd7b1d98b9.mp3",
+            "text": "østrogen",
+            "source": "generated",
+            "content_sha256": "e1704fa893608c4f27668868110bd1bb60c775acd6b2bbcbccca6707d81ed31d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder østrogen",
+      "translation": "concerning estrogen",
+      "examples": [
+        "østrogene hormoner"
+      ]
+    }
+  ]
+}

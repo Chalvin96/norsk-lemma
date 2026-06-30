@@ -1,0 +1,81 @@
+{
+  "source_article_id": 33498,
+  "lemmas": [
+    {
+      "lemma": "lagdelt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39304,
+      "is_sub_article": false,
+      "primary_translation": "layered",
+      "word_forms": [
+        {
+          "word_form": "lagdelt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA:g$%de:lt",
+              "ipa": "ˈlɑːgˌdeːlt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lagdelte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA:g$%de:l$t@",
+              "ipa": "ˈlɑːgˌdeːltə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "15bbd1fe68a1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15bbd1fe68a1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15bbd1fe68a1.mp3",
+            "text": "lagdelt",
+            "source": "generated",
+            "content_sha256": "2e8e53b238c717c68bc8311a4ca6f60beada433fc6239a6bc2f5450f5248a884",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er delt i lag",
+      "translation": "divided into layers",
+      "examples": [
+        "en lagdelt bergart",
+        "lagdelte samfunn"
+      ]
+    }
+  ]
+}

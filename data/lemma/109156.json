@@ -1,0 +1,110 @@
+{
+  "source_article_id": 109156,
+  "lemmas": [
+    {
+      "lemma": "datamodell",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 93444,
+      "is_sub_article": false,
+      "primary_translation": "data model / simulation model",
+      "word_forms": [
+        {
+          "word_form": "datamodell",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$mU$%dEl",
+              "ipa": "ˈdɑːtɑmʊˌdɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "datamodellen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$mU$%dE$ln=",
+              "ipa": "ˈdɑːtɑmʊˌdɛln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "datamodeller",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$mU$%dE$l@r",
+              "ipa": "ˈdɑːtɑmʊˌdɛlər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "datamodellene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "882fc0eaf38b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/882fc0eaf38b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/882fc0eaf38b.mp3",
+            "text": "datamodell",
+            "source": "generated",
+            "content_sha256": "dc5ddc48dd2a2601edfc61359104b2b04d2b493596fa297d80280eb3b68b62dd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "modell som illusterer hvordan en database er oppbygd",
+      "translation": "model illustrating how a database is structured",
+      "examples": []
+    },
+    {
+      "text": "digitalt program som etterligner virkelige fenomener, og som ved hjelp av data kan simulere ulike scenarioer",
+      "translation": "digital program that imitates real phenomena, and which can simulate different scenarios using data",
+      "examples": [
+        "lage datamodell av solsystemet",
+        "resultatet er regnet ut av en datamodell"
+      ]
+    }
+  ]
+}

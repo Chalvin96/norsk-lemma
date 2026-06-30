@@ -1,0 +1,98 @@
+{
+  "source_article_id": 116696,
+  "lemmas": [
+    {
+      "lemma": "havis",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 105398,
+      "is_sub_article": false,
+      "primary_translation": "sea ice",
+      "word_forms": [
+        {
+          "word_form": "havis",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hA:$%vi:s",
+              "ipa": "ˈhɑːˌvɪːs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "havisen",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hA:$%vi:$sn=",
+              "ipa": "ˈhɑːˌvɪːsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "haviser",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "havisene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e4d9478d30b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e4d9478d30b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e4d9478d30b.mp3",
+            "text": "havis",
+            "source": "generated",
+            "content_sha256": "e481f222a29cb21a7dcd0888b068313b22a732e788b8b075b9bde0e6b1cc8ab7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grov is av havvann",
+      "translation": "rough ice formed from seawater",
+      "examples": [
+        "global oppvarming smelter havisen"
+      ]
+    }
+  ]
+}

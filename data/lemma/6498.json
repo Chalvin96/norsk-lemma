@@ -1,0 +1,96 @@
+{
+  "source_article_id": 6498,
+  "lemmas": [
+    {
+      "lemma": "blodprosent",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7661,
+      "is_sub_article": false,
+      "primary_translation": "hemoglobin level",
+      "word_forms": [
+        {
+          "word_form": "blodprosent",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$prU$%sEnt",
+              "ipa": "ˈbluːprʊˌsɛnt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blodprosenten",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$prU$%sEn$tn=",
+              "ipa": "ˈbluːprʊˌsɛntn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blodprosenter",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "blodprosentene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0e790cbc3b19.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0e790cbc3b19.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0e790cbc3b19.mp3",
+            "text": "blodprosent",
+            "source": "generated",
+            "content_sha256": "717b3717cca566ca93a83a148b0a4b3516289f79f0090cae215364b7dba85660",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "verdi som angir det relative innholdet av hemoglobin i blodet",
+      "translation": "value indicating the relative content of hemoglobin in the blood",
+      "examples": []
+    }
+  ]
+}

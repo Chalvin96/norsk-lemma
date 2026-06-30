@@ -1,0 +1,131 @@
+{
+  "source_article_id": 50221,
+  "lemmas": [
+    {
+      "lemma": "satellitt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 57610,
+      "is_sub_article": false,
+      "primary_translation": "satellite",
+      "word_forms": [
+        {
+          "word_form": "satellitt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sA$t@$\"lIt",
+              "ipa": "sɑtəˈlɪt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "satellitten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sA$t@$\"lI$tn=",
+              "ipa": "sɑtəˈlɪtn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "satellitter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sA$t@$\"lI$t@r",
+              "ipa": "sɑtəˈlɪtər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "satellittene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sA$t@$\"lI$tn=$@",
+              "ipa": "sɑtəˈlɪtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d266b5f3d70e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d266b5f3d70e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d266b5f3d70e.mp3",
+            "text": "satellitt",
+            "source": "generated",
+            "content_sha256": "223c72e88beef1586c4c1ada64d68b43752f2fcb42cf926392cc967ae8848d57",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "himmellegeme som går i bane rundt en planet",
+      "translation": "celestial body orbiting a planet",
+      "examples": [
+        "månen er en satellitt til jorda"
+      ]
+    },
+    {
+      "text": "objekt som er plassert i bane rundt et himmellegeme",
+      "translation": "object placed in orbit around a celestial body",
+      "examples": []
+    },
+    {
+      "text": "jamfør sambandssatellitt",
+      "translation": "communications satellite",
+      "examples": [
+        "amerikanerne skjøt opp en ny satellitt i går",
+        "kringkasting via satellitt"
+      ]
+    },
+    {
+      "text": "enhet eller geografisk område som er styrt av andre",
+      "translation": "entity or geographical area controlled by others",
+      "examples": [
+        "fordele arbeidplasser mellom en sentral i Oslo og en satellitt et annet sted"
+      ]
+    }
+  ]
+}

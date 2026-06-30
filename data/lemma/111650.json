@@ -1,0 +1,96 @@
+{
+  "source_article_id": 111650,
+  "lemmas": [
+    {
+      "lemma": "dumpinganklage",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 94625,
+      "is_sub_article": false,
+      "primary_translation": "dumping accusation",
+      "word_forms": [
+        {
+          "word_form": "dumpinganklage",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dumpinganklagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dumpinganklager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dUm$pIN$AN$%klA:$g@r",
+              "ipa": "ˈdʊmpɪŋɑŋˌklɑːgər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dumpinganklagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d9m$pIN$AN$%klA:$g@$n@",
+              "ipa": "ˈdœmpɪŋɑŋˌklɑːgənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "513fef422154.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/513fef422154.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/513fef422154.mp3",
+            "text": "dumpinganklage",
+            "source": "generated",
+            "content_sha256": "78c03c67263538be3aa52b1da7a146ccfcd461674e9827207551868c63d41a30"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "anklage om dumping dumping",
+      "translation": "accusation of dumping",
+      "examples": [
+        "hindre en ny dumpinganklage"
+      ]
+    }
+  ]
+}

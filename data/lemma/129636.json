@@ -1,0 +1,78 @@
+{
+  "source_article_id": 129636,
+  "lemmas": [
+    {
+      "lemma": "levendefødt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 120214,
+      "is_sub_article": false,
+      "primary_translation": "live-born",
+      "word_forms": [
+        {
+          "word_form": "levendefødt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "levendefødte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$v@n$d@$%f9$t@",
+              "ipa": "ˈleːvəndəˌfœtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f166a532cf3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f166a532cf3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f166a532cf3.mp3",
+            "text": "levendefødt",
+            "source": "generated",
+            "content_sha256": "48d313a5aa2045b7e1437016cbcd2109f6e43a30f6867050492c0652d88ba471"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lever ved fødselen",
+      "translation": "living at birth",
+      "examples": []
+    },
+    {
+      "text": "motsatt dødfødt daudfødt",
+      "translation": "stillborn",
+      "examples": [
+        "levendefødte barn",
+        "måle barnedødelighet per 1000 levendefødte"
+      ]
+    }
+  ]
+}

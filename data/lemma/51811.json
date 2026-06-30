@@ -1,0 +1,98 @@
+{
+  "source_article_id": 51811,
+  "lemmas": [
+    {
+      "lemma": "sjakk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 59554,
+      "is_sub_article": false,
+      "primary_translation": "chess",
+      "word_forms": [
+        {
+          "word_form": "sjakk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SAk",
+              "ipa": "ˈʃɑk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sjakken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SA$k@n",
+              "ipa": "ˈʃɑkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sjakker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "sjakkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "93ca290e0db3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93ca290e0db3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93ca290e0db3.mp3",
+            "text": "sjakk",
+            "source": "generated",
+            "content_sha256": "feb4de692612666aae0de2e2c13690b67973b203bbb93ecaadb400356aec6b54",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brettspill brettspell for to personer med 32 svarte og 32 hvite felt, der hver spiller har 16 svarte eller hvite brikker med ulike funksjoner og skal ta motstanderens brikker, og vinner er den som tar motstanderens konge",
+      "translation": "board game for two people with 32 black and 32 white squares, where each player has 16 black or white pieces with different functions and must capture the opponent's pieces, and the winner is the one who captures the opponent's king",
+      "examples": [
+        "spille sjakk",
+        "spille et parti sjakk"
+      ]
+    }
+  ]
+}

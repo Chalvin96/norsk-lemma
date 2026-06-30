@@ -1,0 +1,81 @@
+{
+  "source_article_id": 3055,
+  "lemmas": [
+    {
+      "lemma": "atlantisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3619,
+      "is_sub_article": false,
+      "primary_translation": "Atlantic",
+      "word_forms": [
+        {
+          "word_form": "atlantisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "At$\"lAn$tI$sk",
+              "ipa": "ɑtˈlɑntɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "atlantiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "At$\"lAn$tI$sk@",
+              "ipa": "ɑtˈlɑntɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "935faacb4cd4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/935faacb4cd4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/935faacb4cd4.mp3",
+            "text": "atlantisk",
+            "source": "generated",
+            "content_sha256": "1d65b21eea5279ab625eaa26f0365400a5cf35bcdefdef583b5b2f529ac53490",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Atlanterhavet og landene omkring",
+      "translation": "concerning the Atlantic Ocean and the surrounding countries",
+      "examples": [
+        "atlantiske fiskeslag",
+        "en atlantisk forsvarsallianse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source_article_id": 46411,
+  "lemmas": [
+    {
+      "lemma": "proforma",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2252530,
+      "is_sub_article": false,
+      "primary_translation": "pro forma",
+      "word_forms": [
+        {
+          "word_form": "proforma",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"fOr$mA",
+              "ipa": "prʊˈfɔrmɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "396c34ca1ade.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396c34ca1ade.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396c34ca1ade.mp3",
+            "text": "proforma",
+            "source": "generated",
+            "content_sha256": "bed2ee41299d94d210a2d0f02f863d8d45ef7ef85479c735590b3698df8065d9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rent formelt",
+      "translation": "purely formal",
+      "examples": []
+    },
+    {
+      "text": "uten reelt innhold",
+      "translation": "without real content",
+      "examples": [
+        "proforma ekteskap",
+        "en proforma utlysning",
+        "gifte seg proforma"
+      ]
+    }
+  ]
+}

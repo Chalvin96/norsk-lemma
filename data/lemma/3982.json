@@ -1,0 +1,80 @@
+{
+  "source_article_id": 3982,
+  "lemmas": [
+    {
+      "lemma": "aztekisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4746,
+      "is_sub_article": false,
+      "primary_translation": "Aztec",
+      "word_forms": [
+        {
+          "word_form": "aztekisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"ste:$kI$sk",
+              "ipa": "ɑˈsteːkɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "aztekiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"ste:$kI$sk@",
+              "ipa": "ɑˈsteːkɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a8e49509bd89.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a8e49509bd89.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a8e49509bd89.mp3",
+            "text": "aztekisk",
+            "source": "generated",
+            "content_sha256": "e759ba7104ec225ba1fd0f69d07c6ec88bab5b02edb7ed75b8bbbd0c84082754",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder azteker",
+      "translation": "relating to the Aztecs",
+      "examples": [
+        "aztekisk kultur"
+      ]
+    }
+  ]
+}

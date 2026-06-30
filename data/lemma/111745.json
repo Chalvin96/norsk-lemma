@@ -1,0 +1,81 @@
+{
+  "source_article_id": 111745,
+  "lemmas": [
+    {
+      "lemma": "datastyrt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 93481,
+      "is_sub_article": false,
+      "primary_translation": "computer-controlled",
+      "word_forms": [
+        {
+          "word_form": "datastyrt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%sty:t`",
+              "ipa": "ˈdɑːtɑˌstyːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "datastyrte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%sty:$t`@",
+              "ipa": "ˈdɑːtɑˌstyːʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4c46d16664bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4c46d16664bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4c46d16664bc.mp3",
+            "text": "datastyrt",
+            "source": "generated",
+            "content_sha256": "f199d701880ce612af62d8a9d2331705cb43fc0922dc207f7b2b8ee01a0d630f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som styrer seg selv ved hjelp av datateknologi",
+      "translation": "controlled by computer technology",
+      "examples": [
+        "en datastyrt robot",
+        "datastyrte støvsugere"
+      ]
+    }
+  ]
+}

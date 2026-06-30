@@ -1,0 +1,76 @@
+{
+  "source_article_id": 16141,
+  "lemmas": [
+    {
+      "lemma": "foreldes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 18715,
+      "is_sub_article": false,
+      "primary_translation": "become prematurely old",
+      "word_forms": [
+        {
+          "word_form": "foreldes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"rEl$d@s",
+              "ipa": "fɔˈrɛldəs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "foreldedes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"rEl$d@$d@s",
+              "ipa": "fɔˈrɛldədəs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "51af11c4e02b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/51af11c4e02b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/51af11c4e02b.mp3",
+            "text": "foreldes",
+            "source": "generated",
+            "content_sha256": "88fe2c8f8195a91c2242b02c20d4b957b566e71f6175871fe28872ec202982f9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli for gammel eller utidsmessig",
+      "translation": "become too old prematurely",
+      "examples": []
+    }
+  ]
+}

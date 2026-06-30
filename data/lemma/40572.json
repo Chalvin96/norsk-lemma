@@ -1,0 +1,112 @@
+{
+  "source_article_id": 40572,
+  "lemmas": [
+    {
+      "lemma": "negasjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47495,
+      "is_sub_article": false,
+      "primary_translation": "negation",
+      "word_forms": [
+        {
+          "word_form": "negasjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "n@$gA$\"Su:n",
+              "ipa": "nəgɑˈʃuːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "negasjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "n@$gA$\"Su:$nn=",
+              "ipa": "nəgɑˈʃuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "negasjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "n@$gA$\"Su:$n@r",
+              "ipa": "nəgɑˈʃuːnər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "negasjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "n@$gA$\"Su:$nn=$@",
+              "ipa": "nəgɑˈʃuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dd199136c96f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd199136c96f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd199136c96f.mp3",
+            "text": "negasjon",
+            "source": "generated",
+            "content_sha256": "59744d4c9f7a9bbf0f8b621ae7a9ff63012bd3202f487b732ce9f8afe492870b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i logikk: nekting, opphevelse",
+      "translation": "in logic: denial, annulment",
+      "examples": [
+        "påstandens negasjon",
+        "‘ikke’ og ‘aldri’ er negasjoner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_article_id": 2103,
+  "lemmas": [
+    {
+      "lemma": "anslagsvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2633,
+      "is_sub_article": false,
+      "primary_translation": "estimated",
+      "word_forms": [
+        {
+          "word_form": "anslagsvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"An$SlA:g$%svi:s",
+              "ipa": "ˈɑnʃlɑːgˌsvɪːs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "anslagsvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e2c16750bc59.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e2c16750bc59.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e2c16750bc59.mp3",
+            "text": "anslagsvis",
+            "source": "generated",
+            "content_sha256": "1f0087cb396db4666050c593281e614837469e8c166fb70ee60ea3b31fcaacd6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grovt regnet",
+      "translation": "roughly estimated",
+      "examples": []
+    },
+    {
+      "text": "jamfør anslag",
+      "translation": "estimated",
+      "examples": [
+        "den anslagsvise avstanden",
+        "anslagsvis 20 prosent av befolkningen"
+      ]
+    }
+  ]
+}

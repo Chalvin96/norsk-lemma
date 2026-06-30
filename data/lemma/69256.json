@@ -1,0 +1,80 @@
+{
+  "source_article_id": 69256,
+  "lemmas": [
+    {
+      "lemma": "væskefylt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 80079,
+      "is_sub_article": false,
+      "primary_translation": "liquid-filled",
+      "word_forms": [
+        {
+          "word_form": "væskefylt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$sk@$%fYlt",
+              "ipa": "ˈvɛskəˌfʏlt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "væskefylte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$sk@$%fYl$t@",
+              "ipa": "ˈvɛskəˌfʏltə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0fd25ef2c9ce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0fd25ef2c9ce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0fd25ef2c9ce.mp3",
+            "text": "væskefylt",
+            "source": "generated",
+            "content_sha256": "5cc522fd824d33e8fca8ce12ca8d1738f09debbfc7836040e42d18da20c07191",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er fylt av væske",
+      "translation": "filled with liquid",
+      "examples": [
+        "væskefylte blemmer"
+      ]
+    }
+  ]
+}

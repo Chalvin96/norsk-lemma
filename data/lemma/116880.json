@@ -1,0 +1,81 @@
+{
+  "source_article_id": 116880,
+  "lemmas": [
+    {
+      "lemma": "helseskadelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 105897,
+      "is_sub_article": false,
+      "primary_translation": "unhealthy",
+      "word_forms": [
+        {
+          "word_form": "helseskadelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEl$s@$%skA:$d@$lI",
+              "ipa": "ˈhɛlsəˌskɑːdəlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "helseskadelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEl$s@$%skA:$d@$lI$@",
+              "ipa": "ˈhɛlsəˌskɑːdəlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "906fbd776dcb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/906fbd776dcb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/906fbd776dcb.mp3",
+            "text": "helseskadelig",
+            "source": "generated",
+            "content_sha256": "1abf2515e0bc8fe50b175d0121721f1ba20baf75c3fd43310081bd7f84ed1b9c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skadelig for helse",
+      "translation": "harmful to health",
+      "examples": [
+        "røyking er helseskadelig",
+        "bli utsatt for et helseskadelig miljø"
+      ]
+    }
+  ]
+}

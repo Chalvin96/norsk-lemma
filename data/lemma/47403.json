@@ -1,0 +1,95 @@
+{
+  "source_article_id": 47403,
+  "lemmas": [
+    {
+      "lemma": "rand",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 54467,
+      "is_sub_article": false,
+      "primary_translation": "South African rand",
+      "word_forms": [
+        {
+          "word_form": "rand",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rAn",
+              "ipa": "ˈrɑn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "randen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rA$nn=",
+              "ipa": "ˈrɑnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "randene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rA$nn=$@",
+              "ipa": "ˈrɑnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "44704c04534c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/44704c04534c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/44704c04534c.mp3",
+            "text": "rand",
+            "source": "generated",
+            "content_sha256": "d811d20747a3c5653d2749655b7582a4755e4992081d19066a1f44d910840924",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "myntenhet i Sør-Afrika",
+      "translation": "currency unit in South Africa",
+      "examples": [
+        "1 rand = 100 cent"
+      ]
+    }
+  ]
+}

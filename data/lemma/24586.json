@@ -1,0 +1,80 @@
+{
+  "source_article_id": 24586,
+  "lemmas": [
+    {
+      "lemma": "hunisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 28996,
+      "is_sub_article": false,
+      "primary_translation": "Hunnic",
+      "word_forms": [
+        {
+          "word_form": "hunisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"h}:$nI$sk",
+              "ipa": "ˈhʉːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "huniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"h}:$nI$sk@",
+              "ipa": "ˈhʉːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2f412a2ed9c2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f412a2ed9c2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f412a2ed9c2.mp3",
+            "text": "hunisk",
+            "source": "generated",
+            "content_sha256": "4a3c7e202ef10bde1bf1d30b075a7eb9f715420b7a56b2755279e3a14325ca75",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder huner",
+      "translation": "concerning Huns",
+      "examples": [
+        "de huniske kongene"
+      ]
+    }
+  ]
+}

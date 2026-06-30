@@ -1,0 +1,86 @@
+{
+  "source_article_id": 65425,
+  "lemmas": [
+    {
+      "lemma": "utjenlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75027,
+      "is_sub_article": false,
+      "primary_translation": "unfit / impractical",
+      "word_forms": [
+        {
+          "word_form": "utjenlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"tje:n$lI",
+              "ipa": "ʉˈtjeːnlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "utjenlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"tje:n$lI$@",
+              "ipa": "ʉˈtjeːnlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "add89f2663d3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/add89f2663d3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/add89f2663d3.mp3",
+            "text": "utjenlig",
+            "source": "generated",
+            "content_sha256": "20e85c5c85fc75479cabd4d441218135b85907aeb87f347bb03773e45a483b27",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke hjelper eller duger til formålet",
+      "translation": "that does not help or is not suitable for the purpose",
+      "examples": []
+    },
+    {
+      "text": "upraktisk, tungvint tungvinn",
+      "translation": "impractical, cumbersome",
+      "examples": [
+        "utjenlig som  menneskeføde",
+        "en utjenlig ordning"
+      ]
+    }
+  ]
+}

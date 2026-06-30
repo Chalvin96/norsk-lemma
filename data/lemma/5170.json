@@ -1,0 +1,85 @@
+{
+  "source_article_id": 5170,
+  "lemmas": [
+    {
+      "lemma": "belest",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6081,
+      "is_sub_article": false,
+      "primary_translation": "learned / knowledgeable",
+      "word_forms": [
+        {
+          "word_form": "belest",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"le:$st",
+              "ipa": "bəˈleːst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "beleste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"le:$st@",
+              "ipa": "bəˈleːstə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "53d98a099847.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53d98a099847.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53d98a099847.mp3",
+            "text": "belest",
+            "source": "generated",
+            "content_sha256": "a691a868db409bc55d0644055f4bb91e7d5bd6fea0c30e2e6e489f7bb541f3b0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "preget av boklig lærdom",
+      "translation": "characterized by bookish learning",
+      "examples": []
+    },
+    {
+      "text": "lærd, kunnskapsrik",
+      "translation": "learned, knowledgeable",
+      "examples": [
+        "en belest person"
+      ]
+    }
+  ]
+}

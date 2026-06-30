@@ -1,0 +1,118 @@
+{
+  "source_article_id": 54795,
+  "lemmas": [
+    {
+      "lemma": "smerte",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 63134,
+      "is_sub_article": false,
+      "primary_translation": "pain / suffering",
+      "word_forms": [
+        {
+          "word_form": "smerte",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm{$t`@",
+              "ipa": "ˈsmæʈə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "smerten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm{$t`n`=",
+              "ipa": "ˈsmæʈɳ̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "smerter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm{$t`@r",
+              "ipa": "ˈsmæʈər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "smertene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm{$t`n`=$@",
+              "ipa": "ˈsmæʈɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "726ea380d866.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/726ea380d866.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/726ea380d866.mp3",
+            "text": "smerte",
+            "source": "generated",
+            "content_sha256": "a356c1cf19a2e47dd4fe411ab1016e6d3210b62db105a2608c35dccf6b74d6d5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe som gjør vondt",
+      "translation": "something that hurts",
+      "examples": []
+    },
+    {
+      "text": "pine, lidelse",
+      "translation": "agony, suffering",
+      "examples": [
+        "kjenne en stikkende smerte i hodet",
+        "ha smerter i hele kroppen",
+        "vente med lengsel og smerte"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "source_article_id": 13303,
+  "lemmas": [
+    {
+      "lemma": "etternavn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 15455,
+      "is_sub_article": false,
+      "primary_translation": "surname",
+      "word_forms": [
+        {
+          "word_form": "etternavn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$t@$%n`Avn",
+              "ipa": "ˈɛtəˌɳɑvn",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "etternavnet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$t@$%n`Av$n@",
+              "ipa": "ˈɛtəˌɳɑvnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "etternavna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$t@$%n`Av$nA",
+              "ipa": "ˈɛtəˌɳɑvnɑ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "etternavnene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$t@$%n`Av$nn=$@",
+              "ipa": "ˈɛtəˌɳɑvnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b9684e1453b6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b9684e1453b6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b9684e1453b6.mp3",
+            "text": "etternavn",
+            "source": "generated",
+            "content_sha256": "6a4654a9edbff8db80199c33a4ade7eb57c9e55b2957f9e19fa1cca69148b89a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "siste del av fullt navn på en person (felles for flere i familien)",
+      "translation": "the last part of a person's full name (common to several family members)",
+      "examples": []
+    },
+    {
+      "text": "familienavn, slektsnavn",
+      "translation": "family name, surname",
+      "examples": []
+    },
+    {
+      "text": "jamfør fornavn, personnavn og mellomnavn",
+      "translation": "given name, personal name, and middle name",
+      "examples": [
+        "skifte etternavn",
+        "hun har tatt morens etternavn som mellomnavn",
+        "kan du stave etternavnet ditt?"
+      ]
+    }
+  ]
+}

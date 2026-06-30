@@ -1,0 +1,86 @@
+{
+  "source_article_id": 36299,
+  "lemmas": [
+    {
+      "lemma": "lyrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42126,
+      "is_sub_article": false,
+      "primary_translation": "lyrical / emotional",
+      "word_forms": [
+        {
+          "word_form": "lyrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ly:$rI$sk",
+              "ipa": "ˈlyːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lyriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ly:$rI$sk@",
+              "ipa": "ˈlyːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c912cdc1fb5c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c912cdc1fb5c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c912cdc1fb5c.mp3",
+            "text": "lyrisk",
+            "source": "generated",
+            "content_sha256": "7cd1ee7d6ad99fff95d9a8be7e56caa9c09a9feb7b7642564664cafa2e2ef91e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har med lyrikk å gjøre",
+      "translation": "related to lyric poetry",
+      "examples": []
+    },
+    {
+      "text": "følelsesfull, stemningsfull",
+      "translation": "emotional, atmospheric",
+      "examples": [
+        "en lyrisk naturskildring",
+        "lyrisk musikk"
+      ]
+    }
+  ]
+}

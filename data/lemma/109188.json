@@ -1,0 +1,104 @@
+{
+  "source_article_id": 109188,
+  "lemmas": [
+    {
+      "lemma": "bakvegg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 88406,
+      "is_sub_article": false,
+      "primary_translation": "back wall",
+      "word_forms": [
+        {
+          "word_form": "bakvegg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "bakveggen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$%kvE$g@n",
+              "ipa": "ˈbɑːˌkvɛgən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bakvegger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "bakveggene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8d00e1de8d58.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d00e1de8d58.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d00e1de8d58.mp3",
+            "text": "bakvegg",
+            "source": "generated",
+            "content_sha256": "b0ef8cf34d709f25ca0d179da36296f083b7b37529fc7119bff9cf599fc0090b"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vegg lengst unna en",
+      "translation": "wall furthest from you",
+      "examples": []
+    },
+    {
+      "text": "vegg som befinner seg bak noe eller noen",
+      "translation": "wall located behind something or someone",
+      "examples": [
+        "tilskuerne lente seg mot bakveggen",
+        "projisere en film mot bakveggen",
+        "maleriet dekket hele bakveggen"
+      ]
+    },
+    {
+      "text": "vegg som utgjør baksiden av en ting eller et synsfelt",
+      "translation": "wall that forms the back of an object or a field of vision",
+      "examples": [
+        "bakveggen til nyrene",
+        "med fjellet som bakvegg"
+      ]
+    }
+  ]
+}

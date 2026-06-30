@@ -1,0 +1,109 @@
+{
+  "source_article_id": 128341,
+  "lemmas": [
+    {
+      "lemma": "spiseplass",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 141939,
+      "is_sub_article": false,
+      "primary_translation": "eating place / restaurant",
+      "word_forms": [
+        {
+          "word_form": "spiseplass",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spi:$s@$%plAs",
+              "ipa": "ˈspɪːsəˌplɑs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "spiseplassen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spi:$s@$%plA$sn=",
+              "ipa": "ˈspɪːsəˌplɑsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "spiseplasser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "spiseplassene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "59836da2e582.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59836da2e582.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59836da2e582.mp3",
+            "text": "spiseplass",
+            "source": "generated",
+            "content_sha256": "02527c63c280651b9ee424a3cffa2f85b6e4a181dce9355881f2d98dfffe59fc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "plass der en kan spise",
+      "translation": "place where one can eat",
+      "examples": [
+        "spiseplassene i kantina"
+      ]
+    },
+    {
+      "text": "sted der det blir servert mat mot betaling",
+      "translation": "place where food is served for payment",
+      "examples": []
+    },
+    {
+      "text": "restaurant, kafé",
+      "translation": "restaurant, café",
+      "examples": [
+        "de skal åpne en ny spiseplass i byen"
+      ]
+    }
+  ]
+}

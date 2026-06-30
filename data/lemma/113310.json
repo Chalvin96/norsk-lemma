@@ -1,0 +1,80 @@
+{
+  "source_article_id": 113310,
+  "lemmas": [
+    {
+      "lemma": "epidemiologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 95916,
+      "is_sub_article": false,
+      "primary_translation": "epidemiological",
+      "word_forms": [
+        {
+          "word_form": "epidemiologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$pI$d@$mI$U$\"lo:$gI$sk",
+              "ipa": "ɛpɪdəmɪʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "epidemiologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$pI$d@$mI$U$\"lo:$gI$sk@",
+              "ipa": "ɛpɪdəmɪʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "acd6d722c4bb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/acd6d722c4bb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/acd6d722c4bb.mp3",
+            "text": "epidemiologisk",
+            "source": "generated",
+            "content_sha256": "92c3ee0aa03cb50cc70e93deaf95eda47a267bd1511cdfa6858d9e7bc352138d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder epidemiologi",
+      "translation": "relating to epidemiology",
+      "examples": [
+        "epidemiologiske studier"
+      ]
+    }
+  ]
+}

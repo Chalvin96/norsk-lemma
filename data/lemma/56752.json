@@ -1,0 +1,81 @@
+{
+  "source_article_id": 56752,
+  "lemmas": [
+    {
+      "lemma": "statistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 65264,
+      "is_sub_article": false,
+      "primary_translation": "statistical",
+      "word_forms": [
+        {
+          "word_form": "statistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "stA$\"tI$stI$sk",
+              "ipa": "stɑˈtɪstɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "statistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "stA$\"tI$stI$sk@",
+              "ipa": "stɑˈtɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e39588883b1e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e39588883b1e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e39588883b1e.mp3",
+            "text": "statistisk",
+            "source": "generated",
+            "content_sha256": "5055e333696cf6cbff8475478e2b1f6da7e968cb251e288425c9740e86a63bf6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bygger på eller har sammenheng med statistikk",
+      "translation": "based on or related to statistics",
+      "examples": [
+        "statistiske opplysninger",
+        "bevise noe statistisk"
+      ]
+    }
+  ]
+}

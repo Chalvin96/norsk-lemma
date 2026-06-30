@@ -1,0 +1,97 @@
+{
+  "source_article_id": 39094,
+  "lemmas": [
+    {
+      "lemma": "morgenkaffe",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45843,
+      "is_sub_article": false,
+      "primary_translation": "morning coffee",
+      "word_forms": [
+        {
+          "word_form": "morgenkaffe",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$n`=$%kA$f@",
+              "ipa": "ˈmoːɳ̩ˌkɑfə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morgenkaffen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$n`=$%kA$f@n",
+              "ipa": "ˈmoːɳ̩ˌkɑfən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morgenkaffer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "morgenkaffene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "660d7c1163ea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/660d7c1163ea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/660d7c1163ea.mp3",
+            "text": "morgenkaffe",
+            "source": "generated",
+            "content_sha256": "996ed30675d6e66586e9bf085ae951b640848de5bbfadfa0d8e383098fd496b0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kaffe en drikker om morgenen",
+      "translation": "coffee drunk in the morning",
+      "examples": [
+        "nyte morgenkaffe"
+      ]
+    }
+  ]
+}

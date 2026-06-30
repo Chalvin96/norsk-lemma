@@ -1,0 +1,81 @@
+{
+  "source_article_id": 68466,
+  "lemmas": [
+    {
+      "lemma": "vindtett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 79028,
+      "is_sub_article": false,
+      "primary_translation": "windproof",
+      "word_forms": [
+        {
+          "word_form": "vindtett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$%tEt",
+              "ipa": "ˈvɪnˌtɛt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vindtette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$%tE$t@",
+              "ipa": "ˈvɪnˌtɛtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f5f2ad921ce3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f5f2ad921ce3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f5f2ad921ce3.mp3",
+            "text": "vindtett",
+            "source": "generated",
+            "content_sha256": "35133c21933a183a2c2f58b1bfd16eb0c3531beb5c9593a24e3871a27f6ba3cb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som holder vinden ute",
+      "translation": "that keeps the wind out",
+      "examples": [
+        "en vindtett anorakk",
+        "ta på vindtette klær"
+      ]
+    }
+  ]
+}

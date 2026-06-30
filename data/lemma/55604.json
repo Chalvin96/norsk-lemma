@@ -1,0 +1,78 @@
+{
+  "source_article_id": 55604,
+  "lemmas": [
+    {
+      "lemma": "somres",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 64010,
+      "is_sub_article": false,
+      "primary_translation": "to become summer",
+      "word_forms": [
+        {
+          "word_form": "somres",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sOm$r@s",
+              "ipa": "ˈsɔmrəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "somredes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sOm$r@$d@s",
+              "ipa": "ˈsɔmrədəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "64f805610da4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64f805610da4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64f805610da4.mp3",
+            "text": "somres",
+            "source": "generated",
+            "content_sha256": "12b3c7166e34ae34db9ed622f86d740f71cf966fcd048aebf6c1af5340fc2b88",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli sommer",
+      "translation": "to become summer",
+      "examples": [
+        "det somres i liene"
+      ]
+    }
+  ]
+}

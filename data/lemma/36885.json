@@ -1,0 +1,81 @@
+{
+  "source_article_id": 36885,
+  "lemmas": [
+    {
+      "lemma": "manifest",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 43279,
+      "is_sub_article": false,
+      "primary_translation": "manifest",
+      "word_forms": [
+        {
+          "word_form": "manifest",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$nI$\"fE$st",
+              "ipa": "mɑnɪˈfɛst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "manifeste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$nI$\"fE$st@",
+              "ipa": "mɑnɪˈfɛstə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a2accd363e23.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2accd363e23.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2accd363e23.mp3",
+            "text": "manifest",
+            "source": "generated",
+            "content_sha256": "a15abf9e3c56738ff3e2e9d1c8b843b53f27b9f75e20d326569a0e89b5d88bd8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "åpenbar, klar, tydelig",
+      "translation": "obvious, clear, evident",
+      "examples": [
+        "manifeste nevrotiske trekk",
+        "en manifest sannhet"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # scripts/translate.py
 
-Reads article JSON files from `articles/` and generates import-ready lemma payloads in `lemma/`. Translations are generated in batches via an LLM on [OpenRouter](https://openrouter.ai).
+Reads article JSON files from `data/articles/` and generates import-ready lemma payloads in `lemma/`. Translations are generated in batches via an LLM on [OpenRouter](https://openrouter.ai).
 
 ## Requirements
 
@@ -20,13 +20,13 @@ export OPENROUTER_API_KEY=sk-or-...
 uv run python scripts/translate.py
 ```
 
-If `articles/` is missing or empty, the script downloads and unpacks the Bokmålsordboka source archive from [`https://ord.uib.no/bm/fil/article.tar.gz`](https://ord.uib.no/bm/fil/article.tar.gz) first. It is safe to interrupt and re-run because existing `lemma/*.json` files are skipped unless you pass `--force`.
+If `data/articles/` is missing or empty, the script downloads and unpacks the Bokmålsordboka source archive from [`https://ord.uib.no/bm/fil/article.tar.gz`](https://ord.uib.no/bm/fil/article.tar.gz) first. It is safe to interrupt and re-run because existing `lemma/*.json` files are skipped unless you pass `--force`.
 
 ## Options
 
 | Flag | Default | Description |
 |------|---------|-------------|
-| `--articles-dir` | `articles/` | Path to the article JSON directory |
+| `--articles-dir` | `data/articles/` | Path to the article JSON directory |
 | `--lemma-dir` | `lemma/` | Path to the generated lemma JSON directory |
 | `--model` | `google/gemini-2.5-flash-lite` | OpenRouter model to use |
 | `--batch-size` | `10` | Articles per API request |
@@ -66,6 +66,35 @@ Use a different model:
 ```bash
 uv run python scripts/translate.py --model anthropic/claude-haiku-4-5
 ```
+
+Generate lemma audio after `lemma/` has been exported:
+
+Requires a Google Cloud service account with the `Cloud Text-to-Speech User` role. Export the
+credentials before running:
+
+```bash
+export GOOGLE_APPLICATION_CREDENTIALS=/path/to/service-account.json
+```
+
+Add this to `~/.bashrc` to avoid setting it every session.
+
+```bash
+uv run --group audio python scripts/generate_audio.py --list-voices --language-code nb-NO
+uv run --group audio python scripts/generate_audio.py --voice nb-NO-Chirp3-HD-Aoede --dry-run
+uv run --group audio python scripts/generate_audio.py --voice nb-NO-Chirp3-HD-Aoede --limit 20
+```
+
+Full-corpus generation requires an explicit cost confirmation:
+
+```bash
+uv run --group audio python scripts/generate_audio.py \
+  --voice nb-NO-Chirp3-HD-Aoede \
+  --confirm-cost
+```
+
+Audio generation leaves `lemma/` unchanged, writes MP3 files under
+`data/audio/lemma/google/{voice}/`, writes a manifest under `data/audio/`, and writes
+audio-enriched release JSON under `dist/lemma-with-audio/`.
 
 ## Output format
 

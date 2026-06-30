@@ -1,0 +1,119 @@
+{
+  "source_article_id": 23606,
+  "lemmas": [
+    {
+      "lemma": "hin",
+      "hgno": 0,
+      "pos": "DET",
+      "source_lemma_id": 27812,
+      "is_sub_article": false,
+      "primary_translation": "the other / distant in time",
+      "word_forms": [
+        {
+          "word_form": "hin",
+          "tags_json": [
+            "Dem",
+            "Masc",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hIn",
+              "ipa": "ˈhɪn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hi",
+          "tags_json": [
+            "Dem",
+            "Fem",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hAn$dl=$sIn$stI$%tu0$t@",
+              "ipa": "ˈhɑndl̩sɪnstɪˌtʉtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hint",
+          "tags_json": [
+            "Dem",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hInt",
+              "ipa": "ˈhɪnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hine",
+          "tags_json": [
+            "Dem",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hi:$n@",
+              "ipa": "ˈhɪːnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "20ccae940090.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20ccae940090.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20ccae940090.mp3",
+            "text": "hin",
+            "source": "generated",
+            "content_sha256": "74a16cb7f02558413a9060fa19f2ebec82002a32e2718861b46da08e2cd68175",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "den andre av to",
+      "translation": "the second of two",
+      "examples": []
+    },
+    {
+      "text": "i flertall: de andre av flere",
+      "translation": "in plural: the others of several",
+      "examples": [
+        "først røk den ene støttebjelken, så hin",
+        "i hine første år etter århundreskiftet"
+      ]
+    },
+    {
+      "text": "som er fjernt i tid",
+      "translation": "that is distant in time",
+      "examples": [
+        "50 år er gått siden hin høstdag"
+      ]
+    }
+  ]
+}

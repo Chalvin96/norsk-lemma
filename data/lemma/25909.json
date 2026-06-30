@@ -1,0 +1,95 @@
+{
+  "source_article_id": 25909,
+  "lemmas": [
+    {
+      "lemma": "impedans",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 30879,
+      "is_sub_article": false,
+      "primary_translation": "impedance",
+      "word_forms": [
+        {
+          "word_form": "impedans",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$p@$\"dAns",
+              "ipa": "ɪmpəˈdɑns",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "impedansen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$p@$\"dAn$sn=",
+              "ipa": "ɪmpəˈdɑnsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "impedanser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "impedansene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "938e31d1b060.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/938e31d1b060.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/938e31d1b060.mp3",
+            "text": "impedans",
+            "source": "generated",
+            "content_sha256": "b6671dfca96c3157f69fb1e9f2e2b5ed1276a3f2ce7094e7ba99dd1c925407db",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "samlet motstand i en elektrisk krets der det går vekselstrøm, målt i ohm",
+      "translation": "total resistance in an electric circuit with alternating current, measured in ohms",
+      "examples": []
+    }
+  ]
+}

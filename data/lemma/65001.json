@@ -1,0 +1,87 @@
+{
+  "source_article_id": 65001,
+  "lemmas": [
+    {
+      "lemma": "ustemt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74439,
+      "is_sub_article": false,
+      "primary_translation": "unvoiced / untuned",
+      "word_forms": [
+        {
+          "word_form": "ustemt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%stEmt",
+              "ipa": "ˈʉːˌstɛmt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ustemte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%stEm$t@",
+              "ipa": "ˈʉːˌstɛmtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a2562701e3d5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2562701e3d5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2562701e3d5.mp3",
+            "text": "ustemt",
+            "source": "generated",
+            "content_sha256": "460dbc6954db2d83feeb66d8ab73b45b0c3d26193bd0e3b65bf911def0dff409",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er stemme rett",
+      "translation": "",
+      "examples": [
+        "pianoet er ustemt"
+      ]
+    },
+    {
+      "text": "om språklyd: som blir uttalt uten bruk av stemmebåndene",
+      "translation": "",
+      "examples": [
+        "‘p’ er en ustemt konsonant"
+      ]
+    }
+  ]
+}

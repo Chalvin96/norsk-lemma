@@ -1,0 +1,86 @@
+{
+  "source_article_id": 37251,
+  "lemmas": [
+    {
+      "lemma": "maskinmessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43675,
+      "is_sub_article": false,
+      "primary_translation": "mechanical / like a machine",
+      "word_forms": [
+        {
+          "word_form": "maskinmessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"Si:n$%mE$sI",
+              "ipa": "mɑˈʃɪːnˌmɛsɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "maskinmessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"Si:n$%mE$sI$@",
+              "ipa": "mɑˈʃɪːnˌmɛsɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0ddc32fe3505.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0ddc32fe3505.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0ddc32fe3505.mp3",
+            "text": "maskinmessig",
+            "source": "generated",
+            "content_sha256": "10327b2ada210467b9bc6f3f0f2499d29f45e3c926e6b6e1bec6389132eb5b64",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en maskin",
+      "translation": "like a machine",
+      "examples": []
+    },
+    {
+      "text": "som en robot",
+      "translation": "like a robot",
+      "examples": [
+        "maskinmessig behandling",
+        "arbeide maskinmessig"
+      ]
+    }
+  ]
+}

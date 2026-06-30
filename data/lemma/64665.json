@@ -1,0 +1,85 @@
+{
+  "source_article_id": 64665,
+  "lemmas": [
+    {
+      "lemma": "uomtvistelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74039,
+      "is_sub_article": false,
+      "primary_translation": "indisputable",
+      "word_forms": [
+        {
+          "word_form": "uomtvistelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$Om$\"tvI$st@$lI",
+              "ipa": "ʉɔmˈtvɪstəlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "uomtvistelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$Om$\"tvI$st@$lI$@",
+              "ipa": "ʉɔmˈtvɪstəlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d938ca40a23a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d938ca40a23a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d938ca40a23a.mp3",
+            "text": "uomtvistelig",
+            "source": "generated",
+            "content_sha256": "cb9fba450de9b002a0fefbebc96fc06270e1a4666f94e815bac7fa4ef36b26da",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det ikke kan strides om",
+      "translation": "that cannot be disputed",
+      "examples": []
+    },
+    {
+      "text": "jamfør tviste",
+      "translation": "indisputable",
+      "examples": [
+        "et uomtvistelig faktum"
+      ]
+    }
+  ]
+}

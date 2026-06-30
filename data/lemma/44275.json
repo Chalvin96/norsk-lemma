@@ -1,0 +1,99 @@
+{
+  "source_article_id": 44275,
+  "lemmas": [
+    {
+      "lemma": "partiell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51242,
+      "is_sub_article": false,
+      "primary_translation": "partial / total",
+      "word_forms": [
+        {
+          "word_form": "partiell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pAt`$SI$\"El",
+              "ipa": "pɑʈʃɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "partielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pAt`$SI$\"E$l@",
+              "ipa": "pɑʈʃɪˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "partielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pAt`$SI$\"Elt",
+              "ipa": "pɑʈʃɪˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a7f3141f528.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a7f3141f528.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a7f3141f528.mp3",
+            "text": "partiell",
+            "source": "generated",
+            "content_sha256": "d0410fae0d4bb180b9c3c8416a141e090856f26fc171cee3695d3fe2c6779021",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "delvis, ufullstendig",
+      "translation": "partial, incomplete",
+      "examples": []
+    },
+    {
+      "text": "motsatt total",
+      "translation": "total",
+      "examples": [
+        "en partiell solformørkelse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_article_id": 410,
+  "lemmas": [
+    {
+      "lemma": "ahistorisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1196,
+      "is_sub_article": false,
+      "primary_translation": "ahistorical",
+      "word_forms": [
+        {
+          "word_form": "ahistorisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$hI$%stu:$rI$sk",
+              "ipa": "ˈɑːhɪˌstuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ahistoriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$hI$%stu:$rI$sk@",
+              "ipa": "ˈɑːhɪˌstuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5b09176c1b2a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b09176c1b2a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b09176c1b2a.mp3",
+            "text": "ahistorisk",
+            "source": "generated",
+            "content_sha256": "357319b5f82a99a44554fa667fb53724ee0d9071ae908314dc25dd8a054510ae",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uavhengig av historiske omstendigheter",
+      "translation": "independent of historical circumstances",
+      "examples": [
+        "ahistoriske framstillinger",
+        "en ahistorisk problemstilling"
+      ]
+    }
+  ]
+}

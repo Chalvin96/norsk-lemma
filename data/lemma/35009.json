@@ -1,0 +1,81 @@
+{
+  "source_article_id": 35009,
+  "lemmas": [
+    {
+      "lemma": "levelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 40750,
+      "is_sub_article": false,
+      "primary_translation": "livable / endurable",
+      "word_forms": [
+        {
+          "word_form": "levelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$v@$lI",
+              "ipa": "ˈleːvəlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "levelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$v@$lI$@",
+              "ipa": "ˈleːvəlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ebc443ad6fff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ebc443ad6fff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ebc443ad6fff.mp3",
+            "text": "levelig",
+            "source": "generated",
+            "content_sha256": "16637bdb0828ccd7315658cae31a39060747080e45b1695c11196a80c51f4e02",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det er mulig å leve eller holde ut i",
+      "translation": "possible to live or endure",
+      "examples": [
+        "levelige kår",
+        "gjøre livet levelig for noen"
+      ]
+    }
+  ]
+}

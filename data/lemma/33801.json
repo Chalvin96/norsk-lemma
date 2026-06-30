@@ -1,0 +1,95 @@
+{
+  "source_article_id": 33801,
+  "lemmas": [
+    {
+      "lemma": "langgrunn",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39651,
+      "is_sub_article": false,
+      "primary_translation": "shallow",
+      "word_forms": [
+        {
+          "word_form": "langgrunn",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lAN$%gru0n",
+              "ipa": "ˈlɑŋˌgrʉn",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "langgrunne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lAN$%gru0$n@",
+              "ipa": "ˈlɑŋˌgrʉnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "langgrunt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lAN$%gru0nt",
+              "ipa": "ˈlɑŋˌgrʉnt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f72f0244695d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f72f0244695d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f72f0244695d.mp3",
+            "text": "langgrunn",
+            "source": "generated",
+            "content_sha256": "1dddef9c942342d4630b152b8a9094bc1308157d8698ec827c532a78d76b5da1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er grunn fra stranda og langt utover",
+      "translation": "which is shallow from the beach far out",
+      "examples": [
+        "langgrunn sjø",
+        "det er langgrunt her"
+      ]
+    }
+  ]
+}

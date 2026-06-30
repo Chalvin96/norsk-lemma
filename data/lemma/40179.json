@@ -1,0 +1,105 @@
+{
+  "source_article_id": 40179,
+  "lemmas": [
+    {
+      "lemma": "nasal",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 47040,
+      "is_sub_article": false,
+      "primary_translation": "nasal",
+      "word_forms": [
+        {
+          "word_form": "nasal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sA:l",
+              "ipa": "nɑˈsɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nasale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sA:$l@",
+              "ipa": "nɑˈsɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nasalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sA:lt",
+              "ipa": "nɑˈsɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dd9eca4d51f3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd9eca4d51f3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd9eca4d51f3.mp3",
+            "text": "nasal",
+            "source": "generated",
+            "content_sha256": "f58cfae1c4b4f91854ca13b48a88cc5d347c21a190d204fccc0b22336f38186d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til nesen",
+      "translation": "relating to the nose",
+      "examples": [
+        "en veldig nasal stemme",
+        "en nasal vaksine med nesedråper"
+      ]
+    },
+    {
+      "text": "om språklyd: som blir frambrakt gjennom nesen",
+      "translation": "for a speech sound: produced through the nose",
+      "examples": [
+        "nasale vokaler"
+      ]
+    }
+  ]
+}

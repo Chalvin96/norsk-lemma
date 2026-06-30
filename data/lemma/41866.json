@@ -1,0 +1,80 @@
+{
+  "source_article_id": 41866,
+  "lemmas": [
+    {
+      "lemma": "ohmsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48952,
+      "is_sub_article": false,
+      "primary_translation": "Ohmic",
+      "word_forms": [
+        {
+          "word_form": "ohmsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:msk",
+              "ipa": "ˈuːmsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ohmske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:m$sk@",
+              "ipa": "ˈuːmskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cbf61e85cfe6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cbf61e85cfe6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cbf61e85cfe6.mp3",
+            "text": "ohmsk",
+            "source": "generated",
+            "content_sha256": "83d62eca720bab9ead0adf0dd86b5f7ad480be614dd95556e7c894ac868c3e36",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder ohm",
+      "translation": "relating to ohm",
+      "examples": [
+        "ohmsk motstand"
+      ]
+    }
+  ]
+}

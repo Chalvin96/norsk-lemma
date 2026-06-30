@@ -1,0 +1,80 @@
+{
+  "source_article_id": 7701,
+  "lemmas": [
+    {
+      "lemma": "brukervennlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 9121,
+      "is_sub_article": false,
+      "primary_translation": "user-friendly",
+      "word_forms": [
+        {
+          "word_form": "brukervennlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br}:$k@r$%vEn$lI",
+              "ipa": "ˈbrʉːkərˌvɛnlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "brukervennlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br}:$k@r$%vEn$lI$@",
+              "ipa": "ˈbrʉːkərˌvɛnlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6768e2e0682c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6768e2e0682c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6768e2e0682c.mp3",
+            "text": "brukervennlig",
+            "source": "generated",
+            "content_sha256": "fdd6a070d5b6a0f4828f1529109e6cd7a1ea3bdf0622f492c503c0b256f01830",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er lett å bruke",
+      "translation": "that is easy to use",
+      "examples": [
+        "en brukervennlig mobiltelefon"
+      ]
+    }
+  ]
+}

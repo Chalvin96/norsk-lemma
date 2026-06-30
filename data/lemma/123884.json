@@ -1,0 +1,90 @@
+{
+  "source_article_id": 123884,
+  "lemmas": [
+    {
+      "lemma": "omstart",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 127608,
+      "is_sub_article": false,
+      "primary_translation": "restart",
+      "word_forms": [
+        {
+          "word_form": "omstart",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$%stA:t`",
+              "ipa": "ˈɔmˌstɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omstarten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "omstarter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "omstartene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8b04e2b283db.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8b04e2b283db.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8b04e2b283db.mp3",
+            "text": "omstart",
+            "source": "generated",
+            "content_sha256": "a4799908d0582b1eb85f1cd98f609e447aa7b537d6ebd7466c0fb292626b24a7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å starte på nytt",
+      "translation": "the act of starting over",
+      "examples": [
+        "ta en omstart på en server"
+      ]
+    }
+  ]
+}

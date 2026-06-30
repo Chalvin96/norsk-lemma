@@ -1,0 +1,91 @@
+{
+  "source_article_id": 41638,
+  "lemmas": [
+    {
+      "lemma": "nørdst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48768,
+      "is_sub_article": false,
+      "primary_translation": "northernmost",
+      "word_forms": [
+        {
+          "word_form": "nørdst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"n{rdst",
+              "ipa": "ˈnærdst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nørdste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"n{rd$st@",
+              "ipa": "ˈnærdstə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d8bbd28ee09c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d8bbd28ee09c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d8bbd28ee09c.mp3",
+            "text": "nørdst",
+            "source": "generated",
+            "content_sha256": "442cdf07125a932854a6930f8f407cfd9e3cd4a1050417b0b36d248ec524de3a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er lengst nord",
+      "translation": "being furthest north",
+      "examples": []
+    },
+    {
+      "text": "nordligst",
+      "translation": "northernmost",
+      "examples": []
+    },
+    {
+      "text": "jamfør nordlig",
+      "translation": "northern",
+      "examples": [
+        "den nørdste delen av bygda",
+        "kommunene nørdst i Gudbrandsdalen"
+      ]
+    }
+  ]
+}

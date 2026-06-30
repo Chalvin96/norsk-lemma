@@ -1,0 +1,94 @@
+{
+  "source_article_id": 58282,
+  "lemmas": [
+    {
+      "lemma": "sukkerfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 83338,
+      "is_sub_article": false,
+      "primary_translation": "sugar-free",
+      "word_forms": [
+        {
+          "word_form": "sukkerfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sU$k@r$%fri:",
+              "ipa": "ˈsʊkərˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sukkerfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sU$k@r$%fri:$@",
+              "ipa": "ˈsʊkərˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sukkerfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sU$k@r$%frIt",
+              "ipa": "ˈsʊkərˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "59b4691c887c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59b4691c887c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59b4691c887c.mp3",
+            "text": "sukkerfri",
+            "source": "generated",
+            "content_sha256": "8e91705ed3cdb1031ffce0e56a3e05314f0a08577fdf094da2d9999a35f6c7c1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten sukker",
+      "translation": "without sugar",
+      "examples": [
+        "sukkerfri tyggegummi"
+      ]
+    }
+  ]
+}

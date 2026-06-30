@@ -1,0 +1,122 @@
+{
+  "source_article_id": 23569,
+  "lemmas": [
+    {
+      "lemma": "hilsen",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 27769,
+      "is_sub_article": false,
+      "primary_translation": "greeting / wish for good luck",
+      "word_forms": [
+        {
+          "word_form": "hilsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$sn=",
+              "ipa": "ˈhɪlsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hilsenen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$sn=$@n",
+              "ipa": "ˈhɪlsn̩ən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hilsener",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$sn=$@r",
+              "ipa": "ˈhɪlsn̩ər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hilsenene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$sn=$@$n@",
+              "ipa": "ˈhɪlsn̩ənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e17b004bea23.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e17b004bea23.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e17b004bea23.mp3",
+            "text": "hilsen",
+            "source": "generated",
+            "content_sha256": "84578524d60eec02e0be1d9d1ade3f742570c836c6e1193ec384058427ff3b0d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å hilse",
+      "translation": "the act of greeting",
+      "examples": [
+        "militær hilsen",
+        "gjengjelde en hilsen",
+        "flaggborgen ble senket som en siste hilsen"
+      ]
+    },
+    {
+      "text": "ønske om hell og lykke",
+      "translation": "wish for good luck",
+      "examples": [
+        "sende noen sin hilsen",
+        "overbringe en hilsen",
+        "med vennlig hilsen …"
+      ]
+    }
+  ]
+}

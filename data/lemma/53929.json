@@ -1,0 +1,116 @@
+{
+  "source_article_id": 53929,
+  "lemmas": [
+    {
+      "lemma": "skvis",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62184,
+      "is_sub_article": false,
+      "primary_translation": "difficult situation / bridge term",
+      "word_forms": [
+        {
+          "word_form": "skvis",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skvi:s",
+              "ipa": "ˈskvɪːs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skvisen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skvi:$sn=",
+              "ipa": "ˈskvɪːsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skviser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skvi:$s@r",
+              "ipa": "ˈskvɪːsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skvisene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skvi:$sn=$@",
+              "ipa": "ˈskvɪːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "290f63d8ff60.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/290f63d8ff60.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/290f63d8ff60.mp3",
+            "text": "skvis",
+            "source": "generated",
+            "content_sha256": "561e70da44a65229e0965dad6a0a8206c44006b1d2f06239bb453fd46846d03b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vanskelig situasjon",
+      "translation": "difficult situation",
+      "examples": [
+        "komme i skvis"
+      ]
+    },
+    {
+      "text": "i bridge: det at en spiller ut en farge som en motspiller ikke har, og derfor må kaste et ellers vinnende kort",
+      "translation": "in bridge: the act of a player playing out a suit that an opponent does not have, and therefore having to discard an otherwise winning card",
+      "examples": []
+    }
+  ]
+}

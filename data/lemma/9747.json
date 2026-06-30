@@ -1,0 +1,98 @@
+{
+  "source_article_id": 9747,
+  "lemmas": [
+    {
+      "lemma": "densitet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11468,
+      "is_sub_article": false,
+      "primary_translation": "density",
+      "word_forms": [
+        {
+          "word_form": "densitet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@n$sI$\"te:t",
+              "ipa": "dənsɪˈteːt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "densiteten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@n$sI$\"te:$tn=",
+              "ipa": "dənsɪˈteːtn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "densiteter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "densitetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f7935ea3ba6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f7935ea3ba6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f7935ea3ba6.mp3",
+            "text": "densitet",
+            "source": "generated",
+            "content_sha256": "c6a08642ba9ad528faa533df201f7bd6195f53d7b1c3ed6bf33477349db413ec",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tetthet til et stoff, uttrykt ved masse dividert med volum",
+      "translation": "density of a substance, expressed as mass divided by volume",
+      "examples": [
+        "kvikksølv har en densitet på 13,546 g/cm3",
+        "ulike treslag har ulik densitet"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_article_id": 55075,
+  "lemmas": [
+    {
+      "lemma": "snedden",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 63425,
+      "is_sub_article": false,
+      "primary_translation": "nimble",
+      "word_forms": [
+        {
+          "word_form": "snedden",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"snE$dn=",
+              "ipa": "ˈsnɛdn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "snedne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"snEd$n@",
+              "ipa": "ˈsnɛdnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sneddent",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"snE$dn=t",
+              "ipa": "ˈsnɛdn̩t",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e49c2c1f51a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e49c2c1f51a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e49c2c1f51a.mp3",
+            "text": "snedden",
+            "source": "generated",
+            "content_sha256": "00951afa1fd3da9e103c6bcb710bc330ffdb892661068e90d0fcdc26b15b46a0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "snerten, nett",
+      "translation": "nimble, neat",
+      "examples": [
+        "en snedden jente",
+        "en snedden kjole"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 46983,
+  "lemmas": [
+    {
+      "lemma": "pyknisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54027,
+      "is_sub_article": false,
+      "primary_translation": "stocky",
+      "word_forms": [
+        {
+          "word_form": "pyknisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pY$knI$sk",
+              "ipa": "ˈpʏknɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pykniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pY$knI$sk@",
+              "ipa": "ˈpʏknɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "547d8a7ff2cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/547d8a7ff2cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/547d8a7ff2cf.mp3",
+            "text": "pyknisk",
+            "source": "generated",
+            "content_sha256": "e519340a6120774bbb4f337c3396d97f64bd5f89f8ebffef4ae42c2aeb955f01",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tett, undersetsig",
+      "translation": "stocky, stout",
+      "examples": [
+        "pyknisk kroppstype"
+      ]
+    }
+  ]
+}

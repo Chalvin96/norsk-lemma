@@ -1,0 +1,104 @@
+{
+  "source_article_id": 3098,
+  "lemmas": [
+    {
+      "lemma": "atomær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3666,
+      "is_sub_article": false,
+      "primary_translation": "atomic / uncompounded",
+      "word_forms": [
+        {
+          "word_form": "atomær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$tU$\"m{:r",
+              "ipa": "ɑtʊˈmæːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "atomære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$tU$\"m{:$r@",
+              "ipa": "ɑtʊˈmæːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "atomært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$tU$\"m{:t`",
+              "ipa": "ɑtʊˈmæːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43920bad8718.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43920bad8718.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43920bad8718.mp3",
+            "text": "atomær",
+            "source": "generated",
+            "content_sha256": "9468bdb0e11482b15e783cb24d58086e1adba5e9eb898553c2fb9fdf0264ad49",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fins i atomform",
+      "translation": "existing in atomic form",
+      "examples": [
+        "atomære grunnstoffer"
+      ]
+    },
+    {
+      "text": "om utsagn: usammensatt",
+      "translation": "concerning a statement: uncompounded",
+      "examples": [
+        "atomære setninger"
+      ]
+    }
+  ]
+}

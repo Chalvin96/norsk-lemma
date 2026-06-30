@@ -1,0 +1,119 @@
+{
+  "source_article_id": 64146,
+  "lemmas": [
+    {
+      "lemma": "ulv",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 73472,
+      "is_sub_article": false,
+      "primary_translation": "wolf",
+      "word_forms": [
+        {
+          "word_form": "ulv",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0lv",
+              "ipa": "ˈʉlv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ulven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0l$v@n",
+              "ipa": "ˈʉlvən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ulver",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0l$v@r",
+              "ipa": "ˈʉlvər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ulvene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0l$v@$n@",
+              "ipa": "ˈʉlvənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "db909c181c36.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db909c181c36.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db909c181c36.mp3",
+            "text": "ulv",
+            "source": "generated",
+            "content_sha256": "128b383e9c3e101f1c587441c33de4558e87b22e28f4d68e8a01e7e3f8f5c2dc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rovdyr av hundefamilien med gråhvit eller gråbrun pels",
+      "translation": "predatory animal of the dog family with gray-white or gray-brown fur",
+      "examples": []
+    },
+    {
+      "text": "Canis lupus",
+      "translation": "wolf",
+      "examples": [
+        "få øye på en ulv",
+        "ulven tar elg",
+        "ulvens hyl",
+        "norsk ulv"
+      ]
+    }
+  ]
+}

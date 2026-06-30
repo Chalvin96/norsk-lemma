@@ -1,0 +1,80 @@
+{
+  "source_article_id": 123965,
+  "lemmas": [
+    {
+      "lemma": "operettesanger",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 127744,
+      "is_sub_article": false,
+      "primary_translation": "operetta singer",
+      "word_forms": [
+        {
+          "word_form": "operettesanger",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "operettesangeren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "operettesangere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "operettesangerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5bea1907eaea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bea1907eaea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bea1907eaea.mp3",
+            "text": "operettesanger",
+            "source": "generated",
+            "content_sha256": "fd4cdb5700e14a055076af4d422b84bb121c617b84dcd42d45e0adaf4243b85f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sanger som synger i operette",
+      "translation": "a singer who sings in operettas",
+      "examples": []
+    }
+  ]
+}

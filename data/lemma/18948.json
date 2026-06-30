@@ -1,0 +1,80 @@
+{
+  "source_article_id": 18948,
+  "lemmas": [
+    {
+      "lemma": "galvanisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22125,
+      "is_sub_article": false,
+      "primary_translation": "galvanic",
+      "word_forms": [
+        {
+          "word_form": "galvanisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gAl$\"vA:$nI$sk",
+              "ipa": "gɑlˈvɑːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "galvaniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gAl$\"vA:$nI$sk@",
+              "ipa": "gɑlˈvɑːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "56a54b36a906.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56a54b36a906.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56a54b36a906.mp3",
+            "text": "galvanisk",
+            "source": "generated",
+            "content_sha256": "e0209430675598e04741e47d9bbddea4d72e8b3eb8b5c89e2a389a1cdc3d466f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kjemisk framstilt elektrisk strøm",
+      "translation": "relating to chemically produced electric current",
+      "examples": [
+        "galvanisk strøm"
+      ]
+    }
+  ]
+}

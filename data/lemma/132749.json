@@ -1,0 +1,98 @@
+{
+  "source_article_id": 132749,
+  "lemmas": [
+    {
+      "lemma": "førsteperson",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2980734,
+      "is_sub_article": false,
+      "primary_translation": "first person",
+      "word_forms": [
+        {
+          "word_form": "førsteperson",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "førstepersonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f9s`$t`@$p@$%s`u:$nn=",
+              "ipa": "ˈfœʂʈəpəˌʂuːnn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "førstepersoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "førstepersonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f567f42ec36b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f567f42ec36b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f567f42ec36b.mp3",
+            "text": "førsteperson",
+            "source": "generated",
+            "content_sha256": "754f3adce06b2de99fac63633675c8f9ca02191df5343139e2afd92aeced6f93"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "synsvinkel som er knyttet til en jeg-person",
+      "translation": "point of view associated with a first-person narrator",
+      "examples": [
+        "snakke om seg selv i førsteperson",
+        "boka er skrevet i førsteperson"
+      ]
+    },
+    {
+      "text": "grammatisk trekk som angir at et utsagn gjelder avsenderen eller en gruppe der avsenderen inngår",
+      "translation": "grammatical feature indicating that a statement concerns the sender or a group including the sender",
+      "examples": [
+        "'jeg' og 'vi' er begge førsteperson",
+        "skrive noe i 1. person entall"
+      ]
+    }
+  ]
+}

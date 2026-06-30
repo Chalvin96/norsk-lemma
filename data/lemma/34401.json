@@ -1,0 +1,95 @@
+{
+  "source_article_id": 34401,
+  "lemmas": [
+    {
+      "lemma": "løen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42538,
+      "is_sub_article": false,
+      "primary_translation": "shaggy / unreliable",
+      "word_forms": [
+        {
+          "word_form": "løen",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l2:$@n",
+              "ipa": "ˈløːən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "løene",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l2:$@$n@",
+              "ipa": "ˈløːənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "løent",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l2:$@nt",
+              "ipa": "ˈløːənt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2e3e3754d404.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e3e3754d404.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e3e3754d404.mp3",
+            "text": "løen",
+            "source": "generated",
+            "content_sha256": "f673287654e822e8bbd6e2f7c9d2a010ce7d2c84d2c2167a915b4d3bfa67ee56",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "upålitelig, av tvilsom karakter",
+      "translation": "unreliable, of dubious character",
+      "examples": []
+    }
+  ]
+}

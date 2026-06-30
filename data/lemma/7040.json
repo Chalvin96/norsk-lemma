@@ -1,0 +1,136 @@
+{
+  "source_article_id": 7040,
+  "lemmas": [
+    {
+      "lemma": "borg",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 8253,
+      "is_sub_article": false,
+      "primary_translation": "castle / fortification",
+      "word_forms": [
+        {
+          "word_form": "borg",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bOrg",
+              "ipa": "ˈbɔrg",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "borgen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bOr$g@n",
+              "ipa": "ˈbɔrgən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "borger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bOr$g@r",
+              "ipa": "ˈbɔrgər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "borgene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bOr$g@$n@",
+              "ipa": "ˈbɔrgənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "borga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bOr$gA",
+              "ipa": "ˈbɔrgɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f34fdde18fb7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f34fdde18fb7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f34fdde18fb7.mp3",
+            "text": "borg",
+            "source": "generated",
+            "content_sha256": "443ca9252e4a94dce7f651451aea541c37a5abccef2de647e8ba82e04d0d9e9d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(befestet) slott",
+      "translation": "(fortified) castle",
+      "examples": []
+    },
+    {
+      "text": "festningsverk med tårn og ringmur",
+      "translation": "fortification with towers and a ring wall",
+      "examples": [
+        "borgene ved Rhinen"
+      ]
+    }
+  ]
+}

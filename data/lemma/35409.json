@@ -1,0 +1,107 @@
+{
+  "source_article_id": 35409,
+  "lemmas": [
+    {
+      "lemma": "liter",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 41180,
+      "is_sub_article": false,
+      "primary_translation": "liter",
+      "word_forms": [
+        {
+          "word_form": "liter",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"li:$t@r",
+              "ipa": "ˈlɪːtər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "literen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"li:$t@n`",
+              "ipa": "ˈlɪːtəɳ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "literne",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"li:$t@$n`@",
+              "ipa": "ˈlɪːtəɳə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a9d28cd381ae.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a9d28cd381ae.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a9d28cd381ae.mp3",
+            "text": "liter",
+            "source": "generated",
+            "content_sha256": "b024f900fe9f147d29d4e19eb87f2056042a55384b3b3813644cacac635d25de",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "metrisk målenhet for rominnhold",
+      "translation": "metric unit of volume",
+      "examples": []
+    },
+    {
+      "text": "symbol l",
+      "translation": "symbol l",
+      "examples": []
+    },
+    {
+      "text": "jamfør desiliter og hektoliter",
+      "translation": "deciliter and hectoliter",
+      "examples": [
+        "1 liter = 1 dm3",
+        "to liter melk",
+        "et fem liters spann"
+      ]
+    }
+  ]
+}

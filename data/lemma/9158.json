@@ -1,0 +1,80 @@
+{
+  "source_article_id": 9158,
+  "lemmas": [
+    {
+      "lemma": "daktylisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 10826,
+      "is_sub_article": false,
+      "primary_translation": "dactylic",
+      "word_forms": [
+        {
+          "word_form": "daktylisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dAk$\"ty:$lI$sk",
+              "ipa": "dɑkˈtyːlɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "daktyliske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dAk$\"ty:$lI$sk@",
+              "ipa": "dɑkˈtyːlɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "df87f65d0e31.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df87f65d0e31.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df87f65d0e31.mp3",
+            "text": "daktylisk",
+            "source": "generated",
+            "content_sha256": "a9dccafe731ce0c645c95ec3190b3b7fc49082af6af16e07134a60d0e8a2385a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller inneholder daktyl",
+      "translation": "relating to or containing a dactyl",
+      "examples": [
+        "daktylisk versemål"
+      ]
+    }
+  ]
+}

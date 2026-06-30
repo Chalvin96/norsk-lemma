@@ -1,0 +1,81 @@
+{
+  "source_article_id": 44155,
+  "lemmas": [
+    {
+      "lemma": "paralytisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51119,
+      "is_sub_article": false,
+      "primary_translation": "paralytic",
+      "word_forms": [
+        {
+          "word_form": "paralytisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"ly:$tI$sk",
+              "ipa": "pɑrɑˈlyːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "paralytiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"ly:$tI$sk@",
+              "ipa": "pɑrɑˈlyːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "36bb71761441.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/36bb71761441.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/36bb71761441.mp3",
+            "text": "paralytisk",
+            "source": "generated",
+            "content_sha256": "6a63f85aa543d5092660ba2c862e1f444c2e2d3c392e174ceb113282be49cddf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fører eller har ført til lammelse",
+      "translation": "causing or having caused paralysis",
+      "examples": [
+        "paralytisk gift",
+        "virkningen var paralytisk"
+      ]
+    }
+  ]
+}

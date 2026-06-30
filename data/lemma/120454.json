@@ -1,0 +1,98 @@
+{
+  "source_article_id": 120454,
+  "lemmas": [
+    {
+      "lemma": "krigsskade",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 117106,
+      "is_sub_article": false,
+      "primary_translation": "war damage",
+      "word_forms": [
+        {
+          "word_form": "krigsskade",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krIgs$%skA:$d@",
+              "ipa": "ˈkrɪgsˌskɑːdə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "krigsskaden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "krigsskader",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krIgs$%skA:$d@r",
+              "ipa": "ˈkrɪgsˌskɑːdər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "krigsskadene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ca4082fac44f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca4082fac44f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca4082fac44f.mp3",
+            "text": "krigsskade",
+            "source": "generated",
+            "content_sha256": "4ef24bc9036c385401032c307e4fad9880f37bf9c68f99ce69600d9c72b08b8d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skade som følge av krigshandlinger",
+      "translation": "damage as a result of acts of war",
+      "examples": [
+        "de psykiske senvirkningene av krigsskader",
+        "erstatning for krigsskade på eiendom"
+      ]
+    }
+  ]
+}

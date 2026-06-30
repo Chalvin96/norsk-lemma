@@ -1,0 +1,103 @@
+{
+  "source_article_id": 58383,
+  "lemmas": [
+    {
+      "lemma": "superb",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 66841,
+      "is_sub_article": false,
+      "primary_translation": "superb / excellent",
+      "word_forms": [
+        {
+          "word_form": "superb",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"p{rb",
+              "ipa": "sʉˈpærb",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "superbe",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"p{r$b@",
+              "ipa": "sʉˈpærbə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "superbt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"p{rbt",
+              "ipa": "sʉˈpærbt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6150cab9615d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6150cab9615d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6150cab9615d.mp3",
+            "text": "superb",
+            "source": "generated",
+            "content_sha256": "2556a368caaa08539c39645d6dc0e331afcba06fc87d9f7b9e14feaa6ab90f1d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært bra",
+      "translation": "very good",
+      "examples": []
+    },
+    {
+      "text": "ypperlig, praktfull",
+      "translation": "excellent, magnificent",
+      "examples": [
+        "en superb middag",
+        "den superbe utsikten"
+      ]
+    }
+  ]
+}

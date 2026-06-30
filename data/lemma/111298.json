@@ -1,0 +1,111 @@
+{
+  "source_article_id": 111298,
+  "lemmas": [
+    {
+      "lemma": "diskonteringsrente",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163287,
+      "is_sub_article": false,
+      "primary_translation": "discount rate",
+      "word_forms": [
+        {
+          "word_form": "diskonteringsrente",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skOn$\"te:$rINs$%rEn$t@",
+              "ipa": "dɪskɔnˈteːrɪŋsˌrɛntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "diskonteringsrenten",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skOn$\"te:$rINs$%rEn$tn=",
+              "ipa": "dɪskɔnˈteːrɪŋsˌrɛntn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "diskonteringsrenter",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "diskonteringsrentene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "diskonteringsrenta",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "af3bc608a0ec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af3bc608a0ec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af3bc608a0ec.mp3",
+            "text": "diskonteringsrente",
+            "source": "generated",
+            "content_sha256": "bc7478260b7d61bd1175b1ae69d8fb8ec3079abee7981719d4394e1443d9a9d7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avkastningskrav som benyttes for å beregne nåverdi av framtidig kontantstrøm",
+      "translation": "required rate of return used to calculate the present value of future cash flow",
+      "examples": [
+        "metode for å fastsette diskonteringsrenten",
+        "en høy diskonteringsrente"
+      ]
+    }
+  ]
+}

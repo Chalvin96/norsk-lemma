@@ -1,0 +1,173 @@
+{
+  "source_article_id": 130262,
+  "lemmas": [
+    {
+      "lemma": "talegjenkjenning",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2849637,
+      "is_sub_article": false,
+      "primary_translation": "speech recognition / voice recognition",
+      "word_forms": [
+        {
+          "word_form": "talegjenkjenning",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tA:$l@$j@n$%CE$nIN",
+              "ipa": "ˈtɑːləjənˌçɛnɪŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "talegjenkjenninga",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "talegjenkjenninger",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "talegjenkjenningene",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "talegjenkjenningen",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a43137af9c0e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a43137af9c0e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a43137af9c0e.mp3",
+            "text": "talegjenkjenning",
+            "source": "generated",
+            "content_sha256": "addaad11d3682d519de5f1bc687478b4a57797e63997e74580fcdc678b78b49e",
+            "tone": 2
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "talegjenkjennelse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3080455,
+      "is_sub_article": false,
+      "primary_translation": "speech recognition / voice recognition",
+      "word_forms": [
+        {
+          "word_form": "talegjenkjennelse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "talegjenkjennelsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "talegjenkjennelser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "talegjenkjennelsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "62ec0b99fe31.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62ec0b99fe31.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62ec0b99fe31.mp3",
+            "text": "talegjenkjennelse",
+            "source": "generated",
+            "content_sha256": "b3ba5266765a2ab8335980d90722026ff8af5fc9aa80b6db6dc8ea2b4c21a28c"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bruk av datateknologi til å gjenkjenne og registrere muntlig språk, for eksempel for å styre app eller gjøre talt tekst om til skreven tekst",
+      "translation": "use of computer technology to recognize and record spoken language, for example to control an app or convert spoken text to written text",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra stemmegjenkjenning stemmegjenkjennelse",
+      "translation": "",
+      "examples": []
+    }
+  ]
+}

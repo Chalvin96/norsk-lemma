@@ -1,0 +1,80 @@
+{
+  "source_article_id": 121619,
+  "lemmas": [
+    {
+      "lemma": "ledigmeldt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 119798,
+      "is_sub_article": false,
+      "primary_translation": "registered as unemployed",
+      "word_forms": [
+        {
+          "word_form": "ledigmeldt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "ledigmeldte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$dI$%mEl$t@",
+              "ipa": "ˈleːdɪˌmɛltə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "98075daf60d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/98075daf60d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/98075daf60d0.mp3",
+            "text": "ledigmeldt",
+            "source": "generated",
+            "content_sha256": "7e342dfec80ff8f1e121824dd3c43de8fff8690f4f9796b1389a2f37d0a9fed8"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "meldt ledig",
+      "translation": "",
+      "examples": [
+        "ledigmeldt arbeidskraft",
+        "tallet på nye ledigmeldte har økt"
+      ]
+    },
+    {
+      "text": "meldt ledig",
+      "translation": "registered as unemployed",
+      "examples": [
+        "ledigmeldte stillinger"
+      ]
+    }
+  ]
+}

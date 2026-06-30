@@ -1,0 +1,94 @@
+{
+  "source_article_id": 14089,
+  "lemmas": [
+    {
+      "lemma": "feberfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82394,
+      "is_sub_article": false,
+      "primary_translation": "fever-free",
+      "word_forms": [
+        {
+          "word_form": "feberfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fe:$b@r$%fri:",
+              "ipa": "ˈfeːbərˌfrɪː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "feberfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fe:$b@r$%fri:$@",
+              "ipa": "ˈfeːbərˌfrɪːə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "feberfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fe:$b@r$%frIt",
+              "ipa": "ˈfeːbərˌfrɪt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2769a346dd6e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2769a346dd6e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2769a346dd6e.mp3",
+            "text": "feberfri",
+            "source": "generated",
+            "content_sha256": "c3c148cb7103b58a2b92fafe59c0a9eb079f5c5bd9178f716ce6729a24fd8b53",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kvitt feberen",
+      "translation": "free of fever",
+      "examples": [
+        "pasienten er feberfri"
+      ]
+    }
+  ]
+}

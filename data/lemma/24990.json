@@ -1,0 +1,138 @@
+{
+  "source_article_id": 24990,
+  "lemmas": [
+    {
+      "lemma": "hypotagme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29505,
+      "is_sub_article": false,
+      "primary_translation": "hypotactic connection",
+      "word_forms": [
+        {
+          "word_form": "hypotagme",
+          "tags_json": [
+            "Neuter",
+            "n2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"\"tAg$m@",
+              "ipa": "hʏpʊˈtɑgmə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hypotagmet",
+          "tags_json": [
+            "Neuter",
+            "n2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"\"tAg$m@",
+              "ipa": "hʏpʊˈtɑgmə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hypotagmer",
+          "tags_json": [
+            "Neuter",
+            "n2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"\"tAg$m@r",
+              "ipa": "hʏpʊˈtɑgmər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hypotagma",
+          "tags_json": [
+            "Neuter",
+            "n2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"\"tAg$mA",
+              "ipa": "hʏpʊˈtɑgmɑ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hypotagmene",
+          "tags_json": [
+            "Neuter",
+            "n2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"\"tAg$m@$n@",
+              "ipa": "hʏpʊˈtɑgmənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3455ef992ee6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3455ef992ee6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3455ef992ee6.mp3",
+            "text": "hypotagme",
+            "source": "generated",
+            "content_sha256": "fde1b743dc99009becf07c08ba9ecfd47aedf460f6a05102c7bd2b2502c73a6c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forbindelse mellom to ledd der det ene leddet er underordnet det andre",
+      "translation": "connection between two elements where one element is subordinate to the other",
+      "examples": []
+    },
+    {
+      "text": "hypotaktisk forbindelse",
+      "translation": "hypotactic connection",
+      "examples": []
+    },
+    {
+      "text": "jamfør katatagme, paratagme og syntagme",
+      "translation": "paratactic, hypotactic, and syntagmatic",
+      "examples": [
+        "‘den eldste datteren’ er et hypotagme fordi adjektivet ‘eldste’ er underordnet substantivet ‘datteren’"
+      ]
+    }
+  ]
+}

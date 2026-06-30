@@ -1,0 +1,107 @@
+{
+  "source_article_id": 30080,
+  "lemmas": [
+    {
+      "lemma": "klestørk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35484,
+      "is_sub_article": false,
+      "primary_translation": "drying clothes / dry weather",
+      "word_forms": [
+        {
+          "word_form": "klestørk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kle:$%st9rk",
+              "ipa": "ˈkleːˌstœrk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klestørken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kle:$%st9r$k@n",
+              "ipa": "ˈkleːˌstœrkən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klestørker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "klestørkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1bbb0d9e5286.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1bbb0d9e5286.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1bbb0d9e5286.mp3",
+            "text": "klestørk",
+            "source": "generated",
+            "content_sha256": "4f0a830280c424d22e224c476ecb3341262e1532ff3b9432caf9be890fe9d992",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tørking av vasket tøy",
+      "translation": "drying of washed laundry",
+      "examples": []
+    },
+    {
+      "text": "tørt vær",
+      "translation": "dry weather",
+      "examples": [
+        "det er god klestørk i dag"
+      ]
+    },
+    {
+      "text": "klær som henger til tørk",
+      "translation": "clothes hanging to dry",
+      "examples": []
+    }
+  ]
+}

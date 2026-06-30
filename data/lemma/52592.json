@@ -1,0 +1,97 @@
+{
+  "source_article_id": 52592,
+  "lemmas": [
+    {
+      "lemma": "skattbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 60651,
+      "is_sub_article": false,
+      "primary_translation": "taxable",
+      "word_forms": [
+        {
+          "word_form": "skattbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skAt$%bA:r",
+              "ipa": "ˈskɑtˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skattbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skAt$%bA:$r@",
+              "ipa": "ˈskɑtˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skattbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skAt$%bA:t`",
+              "ipa": "ˈskɑtˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4a69a7c37129.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4a69a7c37129.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4a69a7c37129.mp3",
+            "text": "skattbar",
+            "source": "generated",
+            "content_sha256": "6f9dd7850b191da8f6039f8c6f0677e051f5ed753772b5b2ea285f46e68dcab2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det skal betales skatt av",
+      "translation": "on which tax must be paid",
+      "examples": [
+        "skattbar inntekt"
+      ]
+    }
+  ]
+}

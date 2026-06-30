@@ -1,0 +1,90 @@
+{
+  "source_article_id": 107520,
+  "lemmas": [
+    {
+      "lemma": "antidepressiv",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 160925,
+      "is_sub_article": false,
+      "primary_translation": "antidepressant",
+      "word_forms": [
+        {
+          "word_form": "antidepressiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"An$tI$d@$pr@$%si:v",
+              "ipa": "ˈɑntɪdəprəˌsɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "antidepressive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"An$tI$d@$pr@$%si:$v@",
+              "ipa": "ˈɑntɪdəprəˌsɪːvə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "antidepressivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c9f232a512e5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c9f232a512e5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c9f232a512e5.mp3",
+            "text": "antidepressiv",
+            "source": "generated",
+            "content_sha256": "49dc47abfaa250f4b5faa562e54d8a060b1d7bccca6587238ca0f94110b3789e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som motvirker depresjon",
+      "translation": "counteracting depression",
+      "examples": [
+        "et antidepressivt middel"
+      ]
+    }
+  ]
+}

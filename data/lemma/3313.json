@@ -1,0 +1,105 @@
+{
+  "source_article_id": 3313,
+  "lemmas": [
+    {
+      "lemma": "automatikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3937,
+      "is_sub_article": false,
+      "primary_translation": "automatic mechanism / self-development",
+      "word_forms": [
+        {
+          "word_form": "automatikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$mA$\"tIk",
+              "ipa": "æ͡ʉtʊmɑˈtɪk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "automatikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$mA$\"tI$k@n",
+              "ipa": "æ͡ʉtʊmɑˈtɪkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "automatikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "automatikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "81203f6ef1ad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81203f6ef1ad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81203f6ef1ad.mp3",
+            "text": "automatikk",
+            "source": "generated",
+            "content_sha256": "d9a96a17dbbcc8fce93a3a80d56bf2ad1fcb441f8e3d7c983ffbb7e45588bd39",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "automatisk virkende mekanisme",
+      "translation": "automatically acting mechanism",
+      "examples": [
+        "automatikken i et ur"
+      ]
+    },
+    {
+      "text": "utvikling som går av seg selv",
+      "translation": "development that proceeds on its own",
+      "examples": [
+        "automatikken mellom priser og lønninger",
+        "det er ingen automatikk i det"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "source_article_id": 113353,
+  "lemmas": [
+    {
+      "lemma": "folkenavn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 164264,
+      "is_sub_article": false,
+      "primary_translation": "ethnonym / folk name",
+      "word_forms": [
+        {
+          "word_form": "folkenavn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "folkenavnet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "folkenavna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "folkenavnene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "89474fee1216.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89474fee1216.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89474fee1216.mp3",
+            "text": "folkenavn",
+            "source": "generated",
+            "content_sha256": "b889575a8a9bcf058b288d98ae5753f20fd157e8e01d9c5d2ae48dc114cff02e"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "navn på folkeslag",
+      "translation": "name of a people",
+      "examples": [
+        "folkenavnet ‘gotere’"
+      ]
+    },
+    {
+      "text": "navn som ikke er offisiell betegnelse, men som blir brukt blant folk",
+      "translation": "name that is not an official designation but is used among people",
+      "examples": [
+        "‘fjellgras’ er et folkenavn for islandslav"
+      ]
+    }
+  ]
+}

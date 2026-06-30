@@ -1,0 +1,119 @@
+{
+  "source_article_id": 44372,
+  "lemmas": [
+    {
+      "lemma": "passiv",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 51340,
+      "is_sub_article": false,
+      "primary_translation": "passive voice",
+      "word_forms": [
+        {
+          "word_form": "passiv",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA$sIv",
+              "ipa": "ˈpɑsɪv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "passiven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA$sI$v@n",
+              "ipa": "ˈpɑsɪvən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "passiver",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA$sI$v@r",
+              "ipa": "ˈpɑsɪvər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "passivene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA$sI$v@$n@",
+              "ipa": "ˈpɑsɪvənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "970f1bfc104a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/970f1bfc104a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/970f1bfc104a.mp3",
+            "text": "passiv",
+            "source": "generated",
+            "content_sha256": "505c7c974840f449840ec4d25ffa78b158ba2f76693cea5ce45e12b83fa758eb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "verbalform som uttrykker at det grammatiske subjektet er gjenstand for verbalhandlingen",
+      "translation": "verbal form expressing that the grammatical subject is the object of the verbal action",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra aktiv",
+      "translation": "active",
+      "examples": [
+        "i setningen ‘fisken fanges med garn’ står verbalet i passiv",
+        "‘åpne’ heter i passiv ‘åpnes’ eller ‘bli åpnet’",
+        "skrive en setning om fra aktiv til passiv",
+        "finn alle passivene i teksten!"
+      ]
+    }
+  ]
+}

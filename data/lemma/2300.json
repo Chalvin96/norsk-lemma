@@ -1,0 +1,81 @@
+{
+  "source_article_id": 2300,
+  "lemmas": [
+    {
+      "lemma": "anvendelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2831,
+      "is_sub_article": false,
+      "primary_translation": "useful / usable",
+      "word_forms": [
+        {
+          "word_form": "anvendelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"vE$n@$lI$@",
+              "ipa": "ɑnˈvɛnəlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "anvendelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"vE$n@$lI$@",
+              "ipa": "ɑnˈvɛnəlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7b6e3f635c84.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b6e3f635c84.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b6e3f635c84.mp3",
+            "text": "anvendelig",
+            "source": "generated",
+            "content_sha256": "7f6b18c87d9248ee90f41a2aeda66934a0e3a9d15d3e6ce0ebe8748c51e2957e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nyttig, tjenlig",
+      "translation": "useful, suitable",
+      "examples": [
+        "en anvendelig grønnsak",
+        "disse buksene er svært anvendelige"
+      ]
+    }
+  ]
+}

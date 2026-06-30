@@ -1,0 +1,89 @@
+{
+  "source_article_id": 110961,
+  "lemmas": [
+    {
+      "lemma": "bussavgang",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 92521,
+      "is_sub_article": false,
+      "primary_translation": "bus departure",
+      "word_forms": [
+        {
+          "word_form": "bussavgang",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "bussavgangen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "bussavganger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bu0$sA:v$%gAN$@r",
+              "ipa": "ˈbʉsɑːvˌgɑŋər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bussavgangene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9bb64293207a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9bb64293207a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9bb64293207a.mp3",
+            "text": "bussavgang",
+            "source": "generated",
+            "content_sha256": "1872a1b7cdaf0fff98380c3a047ae33a66bdd8ff091cd1cd0503f1adabd68742"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avreise for en buss",
+      "translation": "departure of a bus",
+      "examples": [
+        "siste bussavgang fra sentrum er kl. 21.30"
+      ]
+    }
+  ]
+}

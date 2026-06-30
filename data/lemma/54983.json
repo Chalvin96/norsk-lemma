@@ -1,0 +1,103 @@
+{
+  "source_article_id": 54983,
+  "lemmas": [
+    {
+      "lemma": "småpen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 63289,
+      "is_sub_article": false,
+      "primary_translation": "somewhat pretty / unremarkable",
+      "word_forms": [
+        {
+          "word_form": "småpen",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%pe:n",
+              "ipa": "ˈsmoːˌpeːn",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "småpene",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%pe:$n@",
+              "ipa": "ˈsmoːˌpeːnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "småpent",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%pe:nt",
+              "ipa": "ˈsmoːˌpeːnt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7dff11e69816.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7dff11e69816.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7dff11e69816.mp3",
+            "text": "småpen",
+            "source": "generated",
+            "content_sha256": "cc087776fb74a92ab31262fe80b9cd3095fc6d9469fb10c95f3b2f9a5452ad33",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pen eller respektabel, men uten noe spesielt særpreg",
+      "translation": "pretty or respectable, but without any special distinctiveness",
+      "examples": []
+    },
+    {
+      "text": "jamfør små-",
+      "translation": "somewhat pretty",
+      "examples": [
+        "jenta var småpen",
+        "et småpent skihopp"
+      ]
+    }
+  ]
+}

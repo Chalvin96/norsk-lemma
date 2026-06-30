@@ -1,0 +1,111 @@
+{
+  "source_article_id": 54584,
+  "lemmas": [
+    {
+      "lemma": "slums",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 62909,
+      "is_sub_article": false,
+      "primary_translation": "slovenly person",
+      "word_forms": [
+        {
+          "word_form": "slums",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Slu0ms",
+              "ipa": "ˈʃlʉms",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "slumsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SlUm$sn=",
+              "ipa": "ˈʃlʊmsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "slumser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SlUm$s@r",
+              "ipa": "ˈʃlʊmsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "slumsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SlUm$sn=$@",
+              "ipa": "ˈʃlʊmsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b42b5b027838.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b42b5b027838.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b42b5b027838.mp3",
+            "text": "slums",
+            "source": "generated",
+            "content_sha256": "d2a6ca110dcce1d877eb0f9be66c1f53073ac44f11ca3b89ece8c3f568092872",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "slumsete slumset person",
+      "translation": "a slovenly, unkempt person",
+      "examples": [
+        "han er en slums"
+      ]
+    }
+  ]
+}

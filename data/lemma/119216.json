@@ -1,0 +1,104 @@
+{
+  "source_article_id": 119216,
+  "lemmas": [
+    {
+      "lemma": "kaffemaskin",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 111948,
+      "is_sub_article": false,
+      "primary_translation": "coffee machine",
+      "word_forms": [
+        {
+          "word_form": "kaffemaskin",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$f@$mA$%Si:n",
+              "ipa": "ˈkɑfəmɑˌʃɪːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kaffemaskinen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$f@$mA$%Si:$nn=",
+              "ipa": "ˈkɑfəmɑˌʃɪːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kaffemaskiner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$f@$mA$%Si:$n@r",
+              "ipa": "ˈkɑfəmɑˌʃɪːnər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kaffemaskinene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2e411c539d08.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e411c539d08.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e411c539d08.mp3",
+            "text": "kaffemaskin",
+            "source": "generated",
+            "content_sha256": "84d42baeb0a23713baf69ed6a9d3a1c5c0e0cdd5160010221834dfeec5b48cc5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "elektrisk maskin som lager kaffe",
+      "translation": "electric machine that makes coffee",
+      "examples": [
+        "hente en kaffe fra kaffemaskinen på jobben"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 12306,
+  "lemmas": [
+    {
+      "lemma": "elegisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14380,
+      "is_sub_article": false,
+      "primary_translation": "elegiac",
+      "word_forms": [
+        {
+          "word_form": "elegisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"le:$gI$sk",
+              "ipa": "ɛˈleːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "elegiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"le:$gI$sk@",
+              "ipa": "ɛˈleːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "57865b1194c8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57865b1194c8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57865b1194c8.mp3",
+            "text": "elegisk",
+            "source": "generated",
+            "content_sha256": "360851d41b8da3cf072f75b08ccb6f1ca4dccd6bdbfe4e92227edb52d3e6b54e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "klagende, vemodig",
+      "translation": "lamenting, mournful",
+      "examples": [
+        "en elegisk folkevise"
+      ]
+    }
+  ]
+}

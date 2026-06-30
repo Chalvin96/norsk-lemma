@@ -1,0 +1,83 @@
+{
+  "source_article_id": 60096,
+  "lemmas": [
+    {
+      "lemma": "tekkes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 68758,
+      "is_sub_article": false,
+      "primary_translation": "please / ingratiate",
+      "word_forms": [
+        {
+          "word_form": "tekkes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tE$k@s",
+              "ipa": "ˈtɛkəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tektes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tEk$t@s",
+              "ipa": "ˈtɛktəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "93edda4ad2c8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93edda4ad2c8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93edda4ad2c8.mp3",
+            "text": "tekkes",
+            "source": "generated",
+            "content_sha256": "56c3280ed070e3136fdee261fa00eb7969b362eb524e81b41232b3fc3131485e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(prøve å) gjøre til lags",
+      "translation": "(try to) please",
+      "examples": []
+    },
+    {
+      "text": "innynde seg hos",
+      "translation": "ingratiate oneself with",
+      "examples": [
+        "han gjør alt for å tekkes sine overordnede"
+      ]
+    }
+  ]
+}

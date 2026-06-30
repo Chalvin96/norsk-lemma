@@ -1,0 +1,98 @@
+{
+  "source_article_id": 123601,
+  "lemmas": [
+    {
+      "lemma": "nedrykk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47444,
+      "is_sub_article": false,
+      "primary_translation": "relegation",
+      "word_forms": [
+        {
+          "word_form": "nedrykk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:$%drYk",
+              "ipa": "ˈneːˌdrʏk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nedrykket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:$%drY$k@",
+              "ipa": "ˈneːˌdrʏkə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nedrykka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nedrykkene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5c923ec17037.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5c923ec17037.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5c923ec17037.mp3",
+            "text": "nedrykk",
+            "source": "generated",
+            "content_sha256": "caab26adb2d0ecadac2483a8739f3f0ec6c50c2875861e29913d1c673482b6f4",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i idrett: det å rykke ned til en lavere divisjon",
+      "translation": "in sports: the act of being relegated to a lower division",
+      "examples": [
+        "laget kjemper for å unngå nedrykk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "source_article_id": 123952,
+  "lemmas": [
+    {
+      "lemma": "omsorgsperson",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 127584,
+      "is_sub_article": false,
+      "primary_translation": "caregiver",
+      "word_forms": [
+        {
+          "word_form": "omsorgsperson",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$sOrg$sp@$%s`u:n",
+              "ipa": "ˈɔmsɔrgspəˌʂuːn",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omsorgspersonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$sOrg$sp@$%s`u:$nn=",
+              "ipa": "ˈɔmsɔrgspəˌʂuːnn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omsorgspersoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$sOrg$sp@$%s`u:$n@r",
+              "ipa": "ˈɔmsɔrgspəˌʂuːnər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omsorgspersonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bd9e41ace554.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bd9e41ace554.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bd9e41ace554.mp3",
+            "text": "omsorgsperson",
+            "source": "generated",
+            "content_sha256": "999b6b2dbbb8b6321932d5df4e7ff169d39887dca0b2ace315b9bcf143642436",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som har omsorg for noen",
+      "translation": "person who cares for someone",
+      "examples": [
+        "foreldre eller andre omsorgspersoner"
+      ]
+    }
+  ]
+}

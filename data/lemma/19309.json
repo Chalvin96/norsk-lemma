@@ -1,0 +1,78 @@
+{
+  "source_article_id": 19309,
+  "lemmas": [
+    {
+      "lemma": "gaussisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22581,
+      "is_sub_article": false,
+      "primary_translation": "Gaussian",
+      "word_forms": [
+        {
+          "word_form": "gaussisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gE*u0$sI$sk",
+              "ipa": "ˈgæ͡ʉsɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gaussiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gE*u0$sI$sk@",
+              "ipa": "ˈgæ͡ʉsɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a0817f8bbfd1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0817f8bbfd1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0817f8bbfd1.mp3",
+            "text": "gaussisk",
+            "source": "generated",
+            "content_sha256": "e6afa46f6a0188873e227c2a5ef11553e197af6becf7e6e27a8095059243778d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som følger gausskurve Gauss-kurve",
+      "translation": "following a Gaussian curve",
+      "examples": []
+    }
+  ]
+}

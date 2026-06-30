@@ -1,0 +1,112 @@
+{
+  "source_article_id": 11793,
+  "lemmas": [
+    {
+      "lemma": "egn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 13776,
+      "is_sub_article": false,
+      "primary_translation": "area/region",
+      "word_forms": [
+        {
+          "word_form": "egn",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"{*In",
+              "ipa": "ˈæ͡ɪn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "egnen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"{*I$nn=",
+              "ipa": "ˈæ͡ɪnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "egner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"{*I$n@r",
+              "ipa": "ˈæ͡ɪnər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "egnene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"{*I$nn=$@",
+              "ipa": "ˈæ͡ɪnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f2ffde2f6bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f2ffde2f6bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f2ffde2f6bc.mp3",
+            "text": "egn",
+            "source": "generated",
+            "content_sha256": "22828c03b9c9a529e12fbbd838623c5c1ebc51177592e6fa8bb56a0461f26ff7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "strøk, område",
+      "translation": "area, region",
+      "examples": [
+        "her i egnen",
+        "i sydlige egner"
+      ]
+    }
+  ]
+}

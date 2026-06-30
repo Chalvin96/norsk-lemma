@@ -1,0 +1,80 @@
+{
+  "source_article_id": 65868,
+  "lemmas": [
+    {
+      "lemma": "utsvett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75596,
+      "is_sub_article": false,
+      "primary_translation": "sweaty",
+      "word_forms": [
+        {
+          "word_form": "utsvett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:t$%svEt",
+              "ipa": "ˈʉːtˌsvɛt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "utsvette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:t$%svE$t@",
+              "ipa": "ˈʉːtˌsvɛtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "790c9adb70a5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/790c9adb70a5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/790c9adb70a5.mp3",
+            "text": "utsvett",
+            "source": "generated",
+            "content_sha256": "e951284cb2d064c55c22199659f249cc45d60d7813afe35125c2ef31a8285c4b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sterkt svett, våt av svette",
+      "translation": "very sweaty, wet with sweat",
+      "examples": [
+        "komme løpende, andpusten og utsvett"
+      ]
+    }
+  ]
+}

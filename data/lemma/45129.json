@@ -1,0 +1,111 @@
+{
+  "source_article_id": 45129,
+  "lemmas": [
+    {
+      "lemma": "plank",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 52103,
+      "is_sub_article": false,
+      "primary_translation": "plank (lumber)",
+      "word_forms": [
+        {
+          "word_form": "plank",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"plANk",
+              "ipa": "ˈplɑŋk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "planken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"plAN$k@n",
+              "ipa": "ˈplɑŋkən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "planker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"plAN$k@r",
+              "ipa": "ˈplɑŋkər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "plankene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"plAN$k@$n@",
+              "ipa": "ˈplɑŋkənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ed7d06c1af93.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed7d06c1af93.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed7d06c1af93.mp3",
+            "text": "plank",
+            "source": "generated",
+            "content_sha256": "b97f28b7441d3160810addef109948d509ad2745c00079903327a6210da50397",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skurlast skurdlast av planker",
+      "translation": "sawn timber, sawn lumber of planks",
+      "examples": [
+        "en last plank"
+      ]
+    }
+  ]
+}

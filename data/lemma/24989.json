@@ -1,0 +1,129 @@
+{
+  "source_article_id": 24989,
+  "lemmas": [
+    {
+      "lemma": "hyponym",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29504,
+      "is_sub_article": false,
+      "primary_translation": "hyponym / hypernym",
+      "word_forms": [
+        {
+          "word_form": "hyponym",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"ny:m",
+              "ipa": "hʏpʊˈnyːm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hyponymet",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"ny:$m@",
+              "ipa": "hʏpʊˈnyːmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hyponyma",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"ny:$mA",
+              "ipa": "hʏpʊˈnyːmɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hyponymer",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"ny:$m@r",
+              "ipa": "hʏpʊˈnyːmər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hyponymene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"ny:$m@$n@",
+              "ipa": "hʏpʊˈnyːmənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "832b3b54ef31.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/832b3b54ef31.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/832b3b54ef31.mp3",
+            "text": "hyponym",
+            "source": "generated",
+            "content_sha256": "29ab5bb2d0da53f58feee4c183e92d2c5b8c6347b4d6710beb6dea07ee3bccd4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ord for noe som hører til en finere inndeling av et mer omfattende begrep",
+      "translation": "word for something belonging to a finer division of a more comprehensive concept",
+      "examples": [
+        "‘spurv’ er et hyponym til ‘fugl’"
+      ]
+    }
+  ]
+}

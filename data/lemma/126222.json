@@ -1,0 +1,80 @@
+{
+  "source_article_id": 126222,
+  "lemmas": [
+    {
+      "lemma": "ressursmessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 133680,
+      "is_sub_article": false,
+      "primary_translation": "resource-wise",
+      "word_forms": [
+        {
+          "word_form": "ressursmessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"su0$%s`mE$sI",
+              "ipa": "rəˈsʉˌʂmɛsɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ressursmessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"su0$%s`mE$sI$@",
+              "ipa": "rəˈsʉˌʂmɛsɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1fe74cb3565f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1fe74cb3565f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1fe74cb3565f.mp3",
+            "text": "ressursmessig",
+            "source": "generated",
+            "content_sha256": "522dd721ade373ca5ab22ecc35c527390a6a072e11a446bd930de54dd8013aa6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder ressurs",
+      "translation": "concerning resources",
+      "examples": [
+        "ha stor ressursmessig betydning"
+      ]
+    }
+  ]
+}

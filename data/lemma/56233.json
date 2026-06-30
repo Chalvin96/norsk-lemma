@@ -1,0 +1,80 @@
+{
+  "source_article_id": 56233,
+  "lemmas": [
+    {
+      "lemma": "spondeisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64720,
+      "is_sub_article": false,
+      "primary_translation": "spondaic",
+      "word_forms": [
+        {
+          "word_form": "spondeisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spOn$\"de:$I$sk",
+              "ipa": "spɔnˈdeːɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "spondeiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spOn$\"de:$I$sk@",
+              "ipa": "spɔnˈdeːɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "53621f037626.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53621f037626.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53621f037626.mp3",
+            "text": "spondeisk",
+            "source": "generated",
+            "content_sha256": "e98c02f8921b30a8f95e77746058463fd3dae81d3203651f2a7b3f6607aae8c5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller er satt sammen av spondé sponde",
+      "translation": "relating to or composed of spondees",
+      "examples": [
+        "spondeisk versemål"
+      ]
+    }
+  ]
+}

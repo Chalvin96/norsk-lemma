@@ -1,0 +1,81 @@
+{
+  "source_article_id": 31759,
+  "lemmas": [
+    {
+      "lemma": "kortsynt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 37344,
+      "is_sub_article": false,
+      "primary_translation": "short-sighted",
+      "word_forms": [
+        {
+          "word_form": "kortsynt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kOt`$%sy:nt",
+              "ipa": "ˈkɔʈˌsyːnt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kortsynte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kOt`$%sy:n$t@",
+              "ipa": "ˈkɔʈˌsyːntə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "17928117ee9a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17928117ee9a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17928117ee9a.mp3",
+            "text": "kortsynt",
+            "source": "generated",
+            "content_sha256": "def60a94f9e7f61b1c97f245bb2e1ec84cf48e120085d17d830a3bf9ae4dc1cb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som mangler framsynthet",
+      "translation": "lacking foresight",
+      "examples": [
+        "vi mennesker er kortsynte",
+        "en kortsynt politikk"
+      ]
+    }
+  ]
+}

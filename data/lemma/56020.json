@@ -1,0 +1,99 @@
+{
+  "source_article_id": 56020,
+  "lemmas": [
+    {
+      "lemma": "spesiell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64471,
+      "is_sub_article": false,
+      "primary_translation": "special",
+      "word_forms": [
+        {
+          "word_form": "spesiell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sp@$sI$\"El",
+              "ipa": "spəsɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "spesielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sp@$sI$\"E$l@",
+              "ipa": "spəsɪˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "spesielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sp@$sI$\"Elt",
+              "ipa": "spəsɪˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4fbf667cdc9e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4fbf667cdc9e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4fbf667cdc9e.mp3",
+            "text": "spesiell",
+            "source": "generated",
+            "content_sha256": "0ed459d1b3ee1bc1c5d1ab1897f5b4e2c8e98b65380db71d744fa2a4053b8231",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særskilt, bestemt, særegen",
+      "translation": "particular, specific, peculiar",
+      "examples": [
+        "en spesiell anledning",
+        "ha en spesiell form for humor",
+        "ha spesielle anlegg for noe",
+        "boka er for spesiell til å vekke allmenn interesse",
+        "han er noe spesiell",
+        "spesielt vil jeg understreke hva som må gjøres"
+      ]
+    }
+  ]
+}

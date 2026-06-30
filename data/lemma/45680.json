@@ -1,0 +1,80 @@
+{
+  "source_article_id": 45680,
+  "lemmas": [
+    {
+      "lemma": "portugisisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 52684,
+      "is_sub_article": false,
+      "primary_translation": "Portuguese",
+      "word_forms": [
+        {
+          "word_form": "portugisisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$t`u0$\"gi:$sI$sk",
+              "ipa": "pʊʈʉˈgɪːsɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "portugisiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$t`u0$\"gi:$sI$sk@",
+              "ipa": "pʊʈʉˈgɪːsɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "583042590382.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/583042590382.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/583042590382.mp3",
+            "text": "portugisisk",
+            "source": "generated",
+            "content_sha256": "08365bbc32d832d38b61614a79d9a8ad9b03e09a2cbffa00676c2c82c8dca1bf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Portugal og portugisere",
+      "translation": "relating to Portugal and Portuguese people",
+      "examples": [
+        "portugisisk fotball"
+      ]
+    }
+  ]
+}

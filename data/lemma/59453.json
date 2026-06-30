@@ -1,0 +1,90 @@
+{
+  "source_article_id": 59453,
+  "lemmas": [
+    {
+      "lemma": "såkalt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67785,
+      "is_sub_article": false,
+      "primary_translation": "so-called",
+      "word_forms": [
+        {
+          "word_form": "såkalt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"so:$%kAlt",
+              "ipa": "ˈsoːˌkɑlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "såkalte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"so:$%kAl$t@",
+              "ipa": "ˈsoːˌkɑltə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e5d9fd35f6f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e5d9fd35f6f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e5d9fd35f6f.mp3",
+            "text": "såkalt",
+            "source": "generated",
+            "content_sha256": "07be0d98446676350df989b4904773c3c18673df40e66566b1043ff372176590",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt for å vise at et ord eller uttrykk er nytt, ukjent eller spesielt",
+      "translation": "used to indicate that a word or expression is new, unknown, or special",
+      "examples": [
+        "vi har flere såkalte medietek",
+        "prisene er regnet ut fra såkalte basispunkter",
+        "de såkalte frie radikalene"
+      ]
+    },
+    {
+      "text": "brukt for å vise skepsis, tvil eller ironi",
+      "translation": "used to indicate skepticism, doubt, or irony",
+      "examples": [
+        "stedets såkalte hotell",
+        "såkalt moderne kunst"
+      ]
+    }
+  ]
+}

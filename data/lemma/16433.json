@@ -1,0 +1,80 @@
+{
+  "source_article_id": 16433,
+  "lemmas": [
+    {
+      "lemma": "forknytt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19061,
+      "is_sub_article": false,
+      "primary_translation": "resigned",
+      "word_forms": [
+        {
+          "word_form": "forknytt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"knYt",
+              "ipa": "fɔrˈknʏt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forknytte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"knY$t@",
+              "ipa": "fɔrˈknʏtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "917b3ebdd5aa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/917b3ebdd5aa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/917b3ebdd5aa.mp3",
+            "text": "forknytt",
+            "source": "generated",
+            "content_sha256": "3927fa9ae8498f0db11ad1da2f45041359e1e2322a0192a23db65167716d4485",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forsagt, motløs motlaus, spak",
+      "translation": "resigned, disheartened, submissive",
+      "examples": [
+        "sitte stille og forknytt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 20269,
+  "lemmas": [
+    {
+      "lemma": "glimtvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 23687,
+      "is_sub_article": false,
+      "primary_translation": "intermittent",
+      "word_forms": [
+        {
+          "word_form": "glimtvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glIm$%tvi:s",
+              "ipa": "ˈglɪmˌtvɪːs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "glimtvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b803cefa96f3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b803cefa96f3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b803cefa96f3.mp3",
+            "text": "glimtvis",
+            "source": "generated",
+            "content_sha256": "615b9e9785cb8b1497aa1b76519f0e4b665476177e5bdfdaf512a6bca6a20c00",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i glimt",
+      "translation": "in flashes",
+      "examples": []
+    },
+    {
+      "text": "av og til, nå og da",
+      "translation": "now and then, occasionally",
+      "examples": [
+        "glimtvise inntrykk",
+        "glimtvis gjorde han det bra",
+        "huske noe glimtvis"
+      ]
+    }
+  ]
+}

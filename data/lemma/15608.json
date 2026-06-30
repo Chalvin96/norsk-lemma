@@ -1,0 +1,110 @@
+{
+  "source_article_id": 15608,
+  "lemmas": [
+    {
+      "lemma": "flyt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 18118,
+      "is_sub_article": false,
+      "primary_translation": "flow / coherence",
+      "word_forms": [
+        {
+          "word_form": "flyt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:t",
+              "ipa": "ˈflyːt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "flyten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$tn=",
+              "ipa": "ˈflyːtn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "flyter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$t@r",
+              "ipa": "ˈflyːtər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "flytene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "40cbe61a9d30.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40cbe61a9d30.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40cbe61a9d30.mp3",
+            "text": "flyt",
+            "source": "generated",
+            "content_sha256": "aff9b00307d6afb89bdb3cda8c1b62bbcc2bf5a696596aabbba792251d6a3a50",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det at noe flyter jevnt",
+      "translation": "the fact that something flows smoothly",
+      "examples": []
+    },
+    {
+      "text": "sammenheng, orden",
+      "translation": "cohesion, order",
+      "examples": [
+        "få flyt i trafikken",
+        "flyt i framstillingen"
+      ]
+    }
+  ]
+}

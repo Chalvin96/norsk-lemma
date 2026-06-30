@@ -1,0 +1,177 @@
+{
+  "source_article_id": 123120,
+  "lemmas": [
+    {
+      "lemma": "morgendogg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 124266,
+      "is_sub_article": false,
+      "primary_translation": "morning dew",
+      "word_forms": [
+        {
+          "word_form": "morgendogg",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "morgendoggen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "morgendogger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "morgendoggene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "morgendogga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b2c656773d6d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b2c656773d6d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b2c656773d6d.mp3",
+            "text": "morgendogg",
+            "source": "generated",
+            "content_sha256": "fa73bddc866dccb8a9543c340ba040c048f1499bf73afbf9d9ec0cbf4c63b1c7"
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "morgendugg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 124267,
+      "is_sub_article": false,
+      "primary_translation": "morning dew",
+      "word_forms": [
+        {
+          "word_form": "morgendugg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$n`=$%d`u0g",
+              "ipa": "ˈmoːɳ̩ˌɖʉg",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morgenduggen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$n`=$%d`u0$g@n",
+              "ipa": "ˈmoːɳ̩ˌɖʉgən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morgendugger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "morgenduggene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9e787e9943fb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e787e9943fb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e787e9943fb.mp3",
+            "text": "morgendugg",
+            "source": "generated",
+            "content_sha256": "a4d7c65796d5b914f99e143f9a4d6dd310da6f64142d22f103416803485215a9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dogg dugg som ligger om morgenen",
+      "translation": "dew that lies in the morning",
+      "examples": [
+        "strå med morgendogg"
+      ]
+    }
+  ]
+}

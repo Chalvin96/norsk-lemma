@@ -1,0 +1,102 @@
+{
+  "source_article_id": 19051,
+  "lemmas": [
+    {
+      "lemma": "gangrenøs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22279,
+      "is_sub_article": false,
+      "primary_translation": "gangrenous",
+      "word_forms": [
+        {
+          "word_form": "gangrenøs",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gAn$gr@$\"n2:s",
+              "ipa": "gɑngrəˈnøːs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gangrenøse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gAn$gr@$\"n2:$s@",
+              "ipa": "gɑngrəˈnøːsə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gangrenøst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gAn$gr@$\"n2:$st",
+              "ipa": "gɑngrəˈnøːst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5872f9daae5b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5872f9daae5b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5872f9daae5b.mp3",
+            "text": "gangrenøs",
+            "source": "generated",
+            "content_sha256": "b35d121f5faa56e185a73f3be2d131fc73d5105df2e7070a2e146614cd69fe14",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "angrepet av koldbrann",
+      "translation": "affected by gangrene",
+      "examples": []
+    },
+    {
+      "text": "som ligner koldbrann",
+      "translation": "resembling gangrene",
+      "examples": [
+        "et gangrenøst sår"
+      ]
+    }
+  ]
+}

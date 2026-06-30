@@ -1,0 +1,86 @@
+{
+  "source_article_id": 57048,
+  "lemmas": [
+    {
+      "lemma": "stereofonisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 83956,
+      "is_sub_article": false,
+      "primary_translation": "stereophonic",
+      "word_forms": [
+        {
+          "word_form": "stereofonisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "st@$r@$U$\"fu:$nI$sk",
+              "ipa": "stərəʊˈfuːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "stereofoniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "st@$r@$U$\"fu:$nI$sk@",
+              "ipa": "stərəʊˈfuːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6e07e4663c3f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e07e4663c3f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e07e4663c3f.mp3",
+            "text": "stereofonisk",
+            "source": "generated",
+            "content_sha256": "ab75c17783145ecf0d312f739169a5b7bb7b7d5c79fb46b70a11b9630aa455e1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder stereofoni",
+      "translation": "relating to stereophony",
+      "examples": []
+    },
+    {
+      "text": "som gir romfølelse",
+      "translation": "creating a sense of space",
+      "examples": [
+        "stereofonisk lyd",
+        "stereofonisk effekt"
+      ]
+    }
+  ]
+}

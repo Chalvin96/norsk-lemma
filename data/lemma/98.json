@@ -1,0 +1,95 @@
+{
+  "source_article_id": 98,
+  "lemmas": [
+    {
+      "lemma": "abstrakt",
+      "hgno": 3,
+      "pos": "ADJ",
+      "source_lemma_id": 892,
+      "is_sub_article": false,
+      "primary_translation": "abstract / conceptual",
+      "word_forms": [
+        {
+          "word_form": "abstrakt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ab$\"strAkt",
+              "ipa": "ɑbˈstrɑkt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "abstrakte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ab$\"strAk$t@",
+              "ipa": "ɑbˈstrɑktə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4176887eab10.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4176887eab10.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4176887eab10.mp3",
+            "text": "abstrakt",
+            "source": "generated",
+            "content_sha256": "fc50490b41891684bb75c114a1f9c95fcb9a4c6084a782ead9010488beebe391",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bare kan fattes gjennom tanken",
+      "translation": "that can only be grasped through thought",
+      "examples": []
+    },
+    {
+      "text": "løsreven fra det sanselige",
+      "translation": "detached from the sensory",
+      "examples": [
+        "abstrakt tenkning",
+        "abstrakte begreper",
+        "matematikk er en abstrakt vitenskap"
+      ]
+    },
+    {
+      "text": "i språkvitenskap: som betegner en egenskap, tilstand eller handling",
+      "translation": "denoting a quality, state, or action",
+      "examples": [
+        "i abstrakt betydning av ordet",
+        "‘skjønnhet’ er et abstrakt substantiv"
+      ]
+    }
+  ]
+}

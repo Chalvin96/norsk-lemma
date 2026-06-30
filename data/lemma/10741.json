@@ -1,0 +1,80 @@
+{
+  "source_article_id": 10741,
+  "lemmas": [
+    {
+      "lemma": "drakonisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12563,
+      "is_sub_article": false,
+      "primary_translation": "draconian",
+      "word_forms": [
+        {
+          "word_form": "drakonisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "drA$\"ku:$nI$sk",
+              "ipa": "drɑˈkuːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drakoniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "drA$\"ku:$nI$sk@",
+              "ipa": "drɑˈkuːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "79fc6c87090a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/79fc6c87090a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/79fc6c87090a.mp3",
+            "text": "drakonisk",
+            "source": "generated",
+            "content_sha256": "9b5e1d5ec568d675eb0b815b60864b2016271d6915b2fc487429d57999db91b3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uvanlig streng",
+      "translation": "unusually strict",
+      "examples": [
+        "en drakonisk lov"
+      ]
+    }
+  ]
+}

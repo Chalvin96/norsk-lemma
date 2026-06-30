@@ -1,0 +1,97 @@
+{
+  "source_article_id": 128503,
+  "lemmas": [
+    {
+      "lemma": "skoleskyss",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 139482,
+      "is_sub_article": false,
+      "primary_translation": "school transport",
+      "word_forms": [
+        {
+          "word_form": "skoleskyss",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sku:$l@$%SYs",
+              "ipa": "ˈskuːləˌʃʏs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skoleskyssen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sku:$l@$%SY$sn=",
+              "ipa": "ˈskuːləˌʃʏsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skoleskysser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "skoleskyssene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "81d023a78c83.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81d023a78c83.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81d023a78c83.mp3",
+            "text": "skoleskyss",
+            "source": "generated",
+            "content_sha256": "0da9c5e94fdac1ee337dc4f7b2bf758ad50170388f4f4c33bf1df98072d4be9a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "offentlig skyss av skoleelever",
+      "translation": "public transport of school pupils",
+      "examples": [
+        "gratis skoleskyss"
+      ]
+    }
+  ]
+}

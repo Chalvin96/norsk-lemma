@@ -1,0 +1,88 @@
+{
+  "source_article_id": 70006,
+  "lemmas": [
+    {
+      "lemma": "baud",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 89042,
+      "is_sub_article": false,
+      "primary_translation": "baud",
+      "word_forms": [
+        {
+          "word_form": "baud",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bE*u0d",
+              "ipa": "ˈbæ͡ʉd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bauden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "bauder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "baudene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ec9a2774f593.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec9a2774f593.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec9a2774f593.mp3",
+            "text": "baud",
+            "source": "generated",
+            "content_sha256": "64f6918eba15ca51b459ac7df6d5581141d1fe351864d5ac780aa464c41d74ca",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enhet for hastighet ved overføring av digitale signaler",
+      "translation": "unit for speed in transmitting digital signals",
+      "examples": []
+    }
+  ]
+}

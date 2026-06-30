@@ -1,0 +1,67 @@
+{
+  "source_article_id": 55605,
+  "lemmas": [
+    {
+      "lemma": "somt",
+      "hgno": 0,
+      "pos": "DET",
+      "source_lemma_id": 64011,
+      "is_sub_article": false,
+      "primary_translation": "something",
+      "word_forms": [
+        {
+          "word_form": "somt",
+          "tags_json": [
+            "Quant",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "somme",
+          "tags_json": [
+            "Quant",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sO$m@",
+              "ipa": "ˈsɔmə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2b1bbae98239.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2b1bbae98239.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2b1bbae98239.mp3",
+            "text": "somt",
+            "source": "generated",
+            "content_sha256": "6d4458500bfd20d206c15f228bebca8d879a60b80ba8d0ba9081149e6c2ee956"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe, en del",
+      "translation": "something, a part",
+      "examples": [
+        "somt av det er bra",
+        "somt kunne gjøres bedre"
+      ]
+    }
+  ]
+}

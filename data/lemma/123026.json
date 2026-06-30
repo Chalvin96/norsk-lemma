@@ -1,0 +1,111 @@
+{
+  "source_article_id": 123026,
+  "lemmas": [
+    {
+      "lemma": "motorkraft",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 124433,
+      "is_sub_article": false,
+      "primary_translation": "engine power",
+      "word_forms": [
+        {
+          "word_form": "motorkraft",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"tu:r$%krAft",
+              "ipa": "mʊˈtuːrˌkrɑft",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "motorkraften",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"tu:r$%krAf$tn=",
+              "ipa": "mʊˈtuːrˌkrɑftn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "motorkrefter",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "motorkreftene",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "motorkrafta",
+          "tags_json": [
+            "Fem",
+            "m., f.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e08af712b253.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e08af712b253.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e08af712b253.mp3",
+            "text": "motorkraft",
+            "source": "generated",
+            "content_sha256": "384775fe21e87bb354b81f0c4bfbb8abb6cfe49756415ba7674336fcf49adfbe",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "drivkraft som en motor yter",
+      "translation": "driving force that an engine produces",
+      "examples": [
+        "miste motorkraften",
+        "båten hadde for svak motorkraft i store bølger"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source_article_id": 63299,
+  "lemmas": [
+    {
+      "lemma": "tysk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 72430,
+      "is_sub_article": false,
+      "primary_translation": "German",
+      "word_forms": [
+        {
+          "word_form": "tysk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tY$sk",
+              "ipa": "ˈtʏsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tyske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tY$sk@",
+              "ipa": "ˈtʏskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ded661065a13.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ded661065a13.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ded661065a13.mp3",
+            "text": "tysk",
+            "source": "generated",
+            "content_sha256": "8ece3234eccf6f2545709b8d3809ab3ddf45c9b4d426ab2fbb8f0dcc9b653f1d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Tyskland og tyskere",
+      "translation": "relating to Germany and German people",
+      "examples": [
+        "tysk kultur",
+        "den tyske presidenten"
+      ]
+    },
+    {
+      "text": "som gjelder språket eller faget tysk",
+      "translation": "relating to the German language or subject",
+      "examples": [
+        "tysk ordbok"
+      ]
+    }
+  ]
+}

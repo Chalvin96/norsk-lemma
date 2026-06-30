@@ -1,0 +1,80 @@
+{
+  "source_article_id": 2913,
+  "lemmas": [
+    {
+      "lemma": "askenasisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3466,
+      "is_sub_article": false,
+      "primary_translation": "Ashkenazi",
+      "word_forms": [
+        {
+          "word_form": "askenasisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$sk@$\"nA:$sI$sk",
+              "ipa": "ɑskəˈnɑːsɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "askenasiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$sk@$\"nA:$sI$sk@",
+              "ipa": "ɑskəˈnɑːsɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e9cea437987e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9cea437987e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9cea437987e.mp3",
+            "text": "askenasisk",
+            "source": "generated",
+            "content_sha256": "865192dcc9d1841381e2c27d71df4cb2205dcefd50a523ff56a5d6f800fbd913",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er eller gjelder askenas",
+      "translation": "relating to or concerning Ashkenazi",
+      "examples": [
+        "askenasiske jøder"
+      ]
+    }
+  ]
+}

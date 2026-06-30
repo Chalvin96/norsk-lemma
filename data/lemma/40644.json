@@ -1,0 +1,78 @@
+{
+  "source_article_id": 40644,
+  "lemmas": [
+    {
+      "lemma": "nepalsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47571,
+      "is_sub_article": false,
+      "primary_translation": "Nepalese",
+      "word_forms": [
+        {
+          "word_form": "nepalsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "n@$\"pA:lsk",
+              "ipa": "nəˈpɑːlsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nepalske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "n@$\"pA:l$sk@",
+              "ipa": "nəˈpɑːlskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e0887ec944eb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e0887ec944eb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e0887ec944eb.mp3",
+            "text": "nepalsk",
+            "source": "generated",
+            "content_sha256": "1433de77d65d854172a32430786cf1dc96e77769a7e802d7ab2cab98948602a2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Nepal og nepalere",
+      "translation": "relating to Nepal and Nepalese people",
+      "examples": []
+    }
+  ]
+}

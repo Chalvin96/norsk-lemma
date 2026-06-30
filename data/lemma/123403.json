@@ -1,0 +1,90 @@
+{
+  "source_article_id": 123403,
+  "lemmas": [
+    {
+      "lemma": "nyrebetennelse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 126695,
+      "is_sub_article": false,
+      "primary_translation": "kidney inflammation",
+      "word_forms": [
+        {
+          "word_form": "nyrebetennelse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$r@$b@$%tE$nl=$s@",
+              "ipa": "ˈnyːrəbəˌtɛnl̩sə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nyrebetennelsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nyrebetennelser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nyrebetennelsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a0a7df11ec20.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0a7df11ec20.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0a7df11ec20.mp3",
+            "text": "nyrebetennelse",
+            "source": "generated",
+            "content_sha256": "bfb4fe1d881bf50396d34434753e2c59261b8f8933159f52ceeff3df40f3c7f1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "betennelse i nyre",
+      "translation": "inflammation of the kidney",
+      "examples": [
+        "kronisk nyrebetennelse"
+      ]
+    }
+  ]
+}

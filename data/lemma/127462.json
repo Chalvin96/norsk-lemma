@@ -1,0 +1,97 @@
+{
+  "source_article_id": 127462,
+  "lemmas": [
+    {
+      "lemma": "seriestart",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 137266,
+      "is_sub_article": false,
+      "primary_translation": "series start time",
+      "word_forms": [
+        {
+          "word_form": "seriestart",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"se:$rI$@$%stA:t`",
+              "ipa": "ˈseːrɪəˌstɑːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "seriestarten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"se:$rI$@$%stA:$t`n`=",
+              "ipa": "ˈseːrɪəˌstɑːʈɳ̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "seriestarter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "seriestartene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b6eca0380e74.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b6eca0380e74.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b6eca0380e74.mp3",
+            "text": "seriestart",
+            "source": "generated",
+            "content_sha256": "41f5fc3e1ba1b7c8fdefa739f8b946524a3d04da892f3f0e8852e93aacf41875",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tidspunkt da en serie starter",
+      "translation": "time when a series starts",
+      "examples": [
+        "spillerne er samlet til trening før seriestart"
+      ]
+    }
+  ]
+}

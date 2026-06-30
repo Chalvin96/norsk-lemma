@@ -1,0 +1,120 @@
+{
+  "source_article_id": 45987,
+  "lemmas": [
+    {
+      "lemma": "premie",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 52994,
+      "is_sub_article": false,
+      "primary_translation": "prize / insurance premium",
+      "word_forms": [
+        {
+          "word_form": "premie",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pre:$mI$@",
+              "ipa": "ˈpreːmɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "premien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pre:$mI$@n",
+              "ipa": "ˈpreːmɪən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "premier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pre:$mI$@r",
+              "ipa": "ˈpreːmɪər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "premiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pre:$mI$@$n@",
+              "ipa": "ˈpreːmɪənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b3be240c8d59.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b3be240c8d59.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b3be240c8d59.mp3",
+            "text": "premie",
+            "source": "generated",
+            "content_sha256": "05aee3423c4b2a9bc8a268c7dc2e1d7c646c527fb685b2e6327052d5afc21927",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "belønning, pris",
+      "translation": "reward, prize",
+      "examples": [
+        "hun vant mange premier i turn",
+        "det var sølvtøy i premie",
+        "det er store premier i tipping"
+      ]
+    },
+    {
+      "text": "avgift for forsikring",
+      "translation": "fee for insurance",
+      "examples": [
+        "selskapet hever premiene"
+      ]
+    }
+  ]
+}

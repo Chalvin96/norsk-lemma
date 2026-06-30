@@ -1,0 +1,117 @@
+{
+  "source_article_id": 120920,
+  "lemmas": [
+    {
+      "lemma": "kveldsvakt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 118239,
+      "is_sub_article": false,
+      "primary_translation": "evening watch",
+      "word_forms": [
+        {
+          "word_form": "kveldsvakt",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvEl$%svAkt",
+              "ipa": "ˈkvɛlˌsvɑkt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kveldsvakten",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kveldsvakter",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kveldsvaktene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvEl$%svAk$tn=$@",
+              "ipa": "ˈkvɛlˌsvɑktn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kveldsvakta",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d367b0b2cba1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d367b0b2cba1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d367b0b2cba1.mp3",
+            "text": "kveldsvakt",
+            "source": "generated",
+            "content_sha256": "5c1ee9dd296eab5192a6af42eb2ef5dcc56129c66209c66521f078a4bcf0b340",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vakt om kvelden",
+      "translation": "watch in the evening",
+      "examples": [
+        "være på kveldsvakt"
+      ]
+    },
+    {
+      "text": "person som har vakt om kvelden",
+      "translation": "person who is on duty in the evening",
+      "examples": [
+        "kveldsvakten kom på jobb klokka 17"
+      ]
+    }
+  ]
+}

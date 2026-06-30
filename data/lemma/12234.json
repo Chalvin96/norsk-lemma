@@ -1,0 +1,116 @@
+{
+  "source_article_id": 12234,
+  "lemmas": [
+    {
+      "lemma": "eland",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 14270,
+      "is_sub_article": false,
+      "primary_translation": "eland",
+      "word_forms": [
+        {
+          "word_form": "eland",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$lAn",
+              "ipa": "ˈeːlɑn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "elanden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$lA$nn=",
+              "ipa": "ˈeːlɑnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "elander",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$lA$n@r",
+              "ipa": "ˈeːlɑnər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "elandene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$lA$nn=$@",
+              "ipa": "ˈeːlɑnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6bc74970c2d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6bc74970c2d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6bc74970c2d0.mp3",
+            "text": "eland",
+            "source": "generated",
+            "content_sha256": "a9525b9c884d9192e25a97bff5034372992050a1662347ec8cbe8355412e67c9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stor antilope med lange, spiralvridde horn som lever i Øst- og Sør-Afrika",
+      "translation": "large antelope with long, spirally twisted horns found in East and Southern Africa",
+      "examples": []
+    },
+    {
+      "text": "Taurotragus oryx",
+      "translation": "eland antelope",
+      "examples": [
+        "sebra og eland"
+      ]
+    }
+  ]
+}

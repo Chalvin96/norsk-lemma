@@ -1,0 +1,90 @@
+{
+  "source_article_id": 111376,
+  "lemmas": [
+    {
+      "lemma": "båtskyss",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 90639,
+      "is_sub_article": false,
+      "primary_translation": "boat transport",
+      "word_forms": [
+        {
+          "word_form": "båtskyss",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bo:t$%SYs",
+              "ipa": "ˈboːtˌʃʏs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "båtskyssen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "båtskysser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "båtskyssene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "29539999ded4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/29539999ded4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/29539999ded4.mp3",
+            "text": "båtskyss",
+            "source": "generated",
+            "content_sha256": "f79df56325fb4c591ace60cba8fbf66f08ed04d05852657ed40e071238258d2b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "transport med båt",
+      "translation": "transport by boat",
+      "examples": [
+        "få båtskyss over fjorden"
+      ]
+    }
+  ]
+}

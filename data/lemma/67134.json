@@ -1,0 +1,129 @@
+{
+  "source_article_id": 67134,
+  "lemmas": [
+    {
+      "lemma": "vegg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 77377,
+      "is_sub_article": false,
+      "primary_translation": "wall",
+      "word_forms": [
+        {
+          "word_form": "vegg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vEg",
+              "ipa": "ˈvɛg",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "veggen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vE$g@n",
+              "ipa": "ˈvɛgən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vegger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$g@r",
+              "ipa": "ˈvɛgər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "veggene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$g@$n@",
+              "ipa": "ˈvɛgənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a2c0cd285f17.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2c0cd285f17.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2c0cd285f17.mp3",
+            "text": "vegg",
+            "source": "generated",
+            "content_sha256": "3a9465e0ce7b5f2402836d9efa5c5652f0f4bb872ba45c15ee29869a81a0e0b3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "loddrett avgrensning av en bygning utad",
+      "translation": "vertical boundary of a building externally",
+      "examples": []
+    },
+    {
+      "text": "loddrett flate som skiller mellom rom",
+      "translation": "vertical surface that separates rooms",
+      "examples": [
+        "skillevegg, stuevegg, yttervegg, tømmervegg",
+        "luke i veggen mellom stua og kjøkkenet",
+        "tapetsere, male en vegg",
+        "rødmalte låvevegger",
+        "skodda var tjukk som en vegg",
+        "holde misnøyen innenfor husets fire vegger",
+        "prate opp ad vegger og ned ad stolper"
+      ]
+    },
+    {
+      "text": "(loddrett) side(flate)",
+      "translation": "(vertical) side (surface)",
+      "examples": [
+        "bukvegg, fjellvegg, sylindervegg"
+      ]
+    }
+  ]
+}

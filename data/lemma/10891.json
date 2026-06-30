@@ -1,0 +1,112 @@
+{
+  "source_article_id": 10891,
+  "lemmas": [
+    {
+      "lemma": "drill",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 81437,
+      "is_sub_article": false,
+      "primary_translation": "drill / drill bit",
+      "word_forms": [
+        {
+          "word_form": "drill",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drIl",
+              "ipa": "ˈdrɪl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drillen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drI$ln=",
+              "ipa": "ˈdrɪln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "driller",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drI$l@r",
+              "ipa": "ˈdrɪlər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drillene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drI$ln=$@",
+              "ipa": "ˈdrɪln̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9103f39013c3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9103f39013c3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9103f39013c3.mp3",
+            "text": "drill",
+            "source": "generated",
+            "content_sha256": "3f845982d15f753f3805a94ee9d15e36195a017db979d5dfeadf1b2aece0be7b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "håndholdt redskap til boring av mindre hull",
+      "translation": "a handheld tool for drilling small holes",
+      "examples": [
+        "elektrisk drill",
+        "bore hull i veggen med drillen"
+      ]
+    }
+  ]
+}

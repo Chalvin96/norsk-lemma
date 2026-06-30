@@ -1,0 +1,98 @@
+{
+  "source_article_id": 52320,
+  "lemmas": [
+    {
+      "lemma": "sjøsterk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 60355,
+      "is_sub_article": false,
+      "primary_translation": "not seasick / seaworthy",
+      "word_forms": [
+        {
+          "word_form": "sjøsterk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%st{rk",
+              "ipa": "ˈʃøːˌstærk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sjøsterke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%st{r$k@",
+              "ipa": "ˈʃøːˌstærkə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sjøsterkt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%st{rkt",
+              "ipa": "ˈʃøːˌstærkt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ece5c4acd6dd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ece5c4acd6dd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ece5c4acd6dd.mp3",
+            "text": "sjøsterk",
+            "source": "generated",
+            "content_sha256": "c688d47ae9bbcdbb01276b57bb0bba6d67035948c945a1a0d8c0f593c9e29bf5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke blir sjøsyk",
+      "translation": "one who does not get seasick",
+      "examples": [
+        "han er sjøsterk og liker seiling",
+        "et sjøsterkt skip"
+      ]
+    }
+  ]
+}

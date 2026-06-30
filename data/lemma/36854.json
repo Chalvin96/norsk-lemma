@@ -1,0 +1,104 @@
+{
+  "source_article_id": 36854,
+  "lemmas": [
+    {
+      "lemma": "mangelfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43249,
+      "is_sub_article": false,
+      "primary_translation": "deficient / incomplete",
+      "word_forms": [
+        {
+          "word_form": "mangelfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mAN$@l$%fu0l",
+              "ipa": "ˈmɑŋəlˌfʉl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mangelfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mAN$@l$%fu0$l@",
+              "ipa": "ˈmɑŋəlˌfʉlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mangelfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mAN$@l$%fu0lt",
+              "ipa": "ˈmɑŋəlˌfʉlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5e0605a4b361.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5e0605a4b361.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5e0605a4b361.mp3",
+            "text": "mangelfull",
+            "source": "generated",
+            "content_sha256": "edea57b911e0766511d6fa70e0b25ecd1339e6369cfbe75c2c507ac1d3774b73",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har mangler",
+      "translation": "having deficiencies",
+      "examples": []
+    },
+    {
+      "text": "ufullkommen, ufullstendig",
+      "translation": "imperfect, incomplete",
+      "examples": [
+        "mangelfulle kunnskaper",
+        "mangelfulle opplysninger",
+        "systemet er mangelfullt utbygd"
+      ]
+    }
+  ]
+}

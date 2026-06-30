@@ -1,0 +1,88 @@
+{
+  "source_article_id": 3879,
+  "lemmas": [
+    {
+      "lemma": "avstengt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4626,
+      "is_sub_article": false,
+      "primary_translation": "blocked off / separated",
+      "word_forms": [
+        {
+          "word_form": "avstengt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%stENt",
+              "ipa": "ˈɑːvˌstɛŋt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "avstengte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%stEN$t@",
+              "ipa": "ˈɑːvˌstɛŋtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "939e31817f31.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/939e31817f31.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/939e31817f31.mp3",
+            "text": "avstengt",
+            "source": "generated",
+            "content_sha256": "b6e6ac699117e3a60787f44cf416da2d8fc654f3d82155f8e175a9ebcb6ea410",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stengt av, stengt igjen",
+      "translation": "blocked off, closed off",
+      "examples": [
+        "et avstengt rom",
+        "en avstengt bygd"
+      ]
+    },
+    {
+      "text": "brukt som adverb: skilt fra andre",
+      "translation": "used as: separated from others",
+      "examples": [
+        "leve avstengt"
+      ]
+    }
+  ]
+}

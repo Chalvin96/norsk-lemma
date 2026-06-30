@@ -1,0 +1,95 @@
+{
+  "source_article_id": 50845,
+  "lemmas": [
+    {
+      "lemma": "sen",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 58518,
+      "is_sub_article": false,
+      "primary_translation": "sen (currency)",
+      "word_forms": [
+        {
+          "word_form": "sen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E$sn=",
+              "ipa": "ˈɛsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "senen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"se:$nn=",
+              "ipa": "ˈseːnn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "senene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"se:$nn=$@",
+              "ipa": "ˈseːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "88d5e8bde1c2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88d5e8bde1c2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88d5e8bde1c2.mp3",
+            "text": "sen",
+            "source": "generated",
+            "content_sha256": "e2b70217c088f10055f4e6a4efdfe73460f6e837940b35331e35488a08101c3b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "myntenhet i flere østasiatiske land",
+      "translation": "monetary unit in several East Asian countries",
+      "examples": [
+        "i Japan er 1 sen = 1/100 yen"
+      ]
+    }
+  ]
+}

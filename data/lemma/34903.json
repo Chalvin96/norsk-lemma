@@ -1,0 +1,81 @@
+{
+  "source_article_id": 34903,
+  "lemmas": [
+    {
+      "lemma": "leselig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 40623,
+      "is_sub_article": false,
+      "primary_translation": "readable",
+      "word_forms": [
+        {
+          "word_form": "leselig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@$lI",
+              "ipa": "ˈleːsəlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "leselige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@$lI$@",
+              "ipa": "ˈleːsəlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ede89919b522.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ede89919b522.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ede89919b522.mp3",
+            "text": "leselig",
+            "source": "generated",
+            "content_sha256": "2f2185b8f1fa4dd37424a6ba030c79ace68191db67ef6d1267bf46e39f1f9c95",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er mulig eller verdt å lese",
+      "translation": "that which is possible or worth reading",
+      "examples": [
+        "leselig håndskrift",
+        "avhandlingen er ikke engang leselig for fagfolk"
+      ]
+    }
+  ]
+}

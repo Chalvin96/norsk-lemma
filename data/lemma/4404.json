@@ -1,0 +1,112 @@
+{
+  "source_article_id": 4404,
+  "lemmas": [
+    {
+      "lemma": "banker",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5207,
+      "is_sub_article": false,
+      "primary_translation": "sure winner (in games)",
+      "word_forms": [
+        {
+          "word_form": "banker",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAN$k@r",
+              "ipa": "ˈbɑŋkər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankeren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAN$k@n`",
+              "ipa": "ˈbɑŋkəɳ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAN$k@$r@",
+              "ipa": "ˈbɑŋkərə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAN$k@$n`@",
+              "ipa": "ˈbɑŋkəɳə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43db8ed6fc76.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43db8ed6fc76.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43db8ed6fc76.mp3",
+            "text": "banker",
+            "source": "generated",
+            "content_sha256": "195b62f3e32320a175f6c58f32526b7dd12179243390ea0b035c94c75e2fc7af",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særlig i spill: favoritt, sikker vinner",
+      "translation": "in games: favorite, sure winner",
+      "examples": [
+        "denne spilleren er en banker",
+        "servere en banker til dessert"
+      ]
+    }
+  ]
+}

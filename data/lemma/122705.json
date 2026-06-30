@@ -1,0 +1,103 @@
+{
+  "source_article_id": 122705,
+  "lemmas": [
+    {
+      "lemma": "matvaretrygghet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2006160,
+      "is_sub_article": false,
+      "primary_translation": "food safety",
+      "word_forms": [
+        {
+          "word_form": "matvaretrygghet",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mA:$tvA$r@$trYg$%he:t",
+              "ipa": "ˈmɑːtvɑrətrʏgˌheːt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "matvaretryggheten",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "matvaretryggheter",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "matvaretrygghetene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "matvaretryggheta",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "06b2390e6838.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/06b2390e6838.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/06b2390e6838.mp3",
+            "text": "matvaretrygghet",
+            "source": "generated",
+            "content_sha256": "f4266d43223def74f56fa2426b9dd03018c047cab610675a08760049211c2553",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "trygghet for at matvarer ikke framkaller sykdom",
+      "translation": "safety that food products do not cause illness",
+      "examples": [
+        "økologisk mat er underlagt kravene om matvaretrygghet"
+      ]
+    }
+  ]
+}

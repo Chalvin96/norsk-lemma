@@ -1,0 +1,82 @@
+{
+  "source_article_id": 118255,
+  "lemmas": [
+    {
+      "lemma": "interessert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167144,
+      "is_sub_article": false,
+      "primary_translation": "interested",
+      "word_forms": [
+        {
+          "word_form": "interessert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$tr@$\"se:t`",
+              "ipa": "ɪntrəˈseːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "interesserte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$t@$r@$\"se:$t`@",
+              "ipa": "ɪntərəˈseːʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "618617e02f68.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/618617e02f68.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/618617e02f68.mp3",
+            "text": "interessert",
+            "source": "generated",
+            "content_sha256": "b713cec2c56a1cad22805186d48578f2bed82a0d86f43db2a207b78d02323639",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har interesse for eller er opptatt av noe",
+      "translation": "having interest in or being occupied with something",
+      "examples": [
+        "et interessert publikum",
+        "ha våkne og interesserte elever",
+        "alle interesserte er velkomne til seminaret"
+      ]
+    }
+  ]
+}

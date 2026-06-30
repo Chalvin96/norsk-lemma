@@ -1,0 +1,88 @@
+{
+  "source_article_id": 33351,
+  "lemmas": [
+    {
+      "lemma": "kynisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39148,
+      "is_sub_article": false,
+      "primary_translation": "cynical / ruthless / disillusioned",
+      "word_forms": [
+        {
+          "word_form": "kynisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Cy:$nI$sk",
+              "ipa": "ˈçyːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kyniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Cy:$nI$sk@",
+              "ipa": "ˈçyːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "27cd419eb8c0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/27cd419eb8c0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/27cd419eb8c0.mp3",
+            "text": "kynisk",
+            "source": "generated",
+            "content_sha256": "1bb29ed0af1f9e8b24f4607e5074052ac1126188c0e6caa58f3ccf8e57094640",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kjennetegner kynisme",
+      "translation": "characterized by cynicism",
+      "examples": [
+        "kynisk filosofi"
+      ]
+    },
+    {
+      "text": "kald og hensynsløs",
+      "translation": "cold and ruthless",
+      "examples": [
+        "han er hard og kynisk",
+        "en kynisk plan"
+      ]
+    }
+  ]
+}

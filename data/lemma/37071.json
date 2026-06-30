@@ -1,0 +1,99 @@
+{
+  "source_article_id": 37071,
+  "lemmas": [
+    {
+      "lemma": "marin",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43488,
+      "is_sub_article": false,
+      "primary_translation": "marine",
+      "word_forms": [
+        {
+          "word_form": "marin",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"ri:n",
+              "ipa": "mɑˈrɪːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "marine",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"\"ri:$n@",
+              "ipa": "mɑˈrɪːnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "marint",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"ri:nt",
+              "ipa": "mɑˈrɪːnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cb53161d07f7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cb53161d07f7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cb53161d07f7.mp3",
+            "text": "marin",
+            "source": "generated",
+            "content_sha256": "db977fb49fc4aba1f8799f055470f4531a9ca18a9784b8d1fd8e0bfaf91daf8a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder havet",
+      "translation": "relating to the sea",
+      "examples": [
+        "marin økologi",
+        "marine snegler",
+        "marine planter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source_article_id": 43276,
+  "lemmas": [
+    {
+      "lemma": "ordre",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 50139,
+      "is_sub_article": false,
+      "primary_translation": "command / order (goods)",
+      "word_forms": [
+        {
+          "word_form": "ordre",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Or$dr@",
+              "ipa": "ˈɔrdrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ordren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Or$dr@n",
+              "ipa": "ˈɔrdrən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ordrer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Or$dr@r",
+              "ipa": "ˈɔrdrər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ordrene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Or$dr@$n@",
+              "ipa": "ˈɔrdrənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4805a337a0ba.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4805a337a0ba.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4805a337a0ba.mp3",
+            "text": "ordre",
+            "source": "generated",
+            "content_sha256": "365a4dd3e9f7348b8042b251d5928322afb43913fa72f240354510d5eb79ed65",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "befaling, påbud",
+      "translation": "command, order",
+      "examples": [
+        "gi ordre om noe",
+        "lystre ordre",
+        "en ordre er en ordre"
+      ]
+    },
+    {
+      "text": "bestilling på varer",
+      "translation": "order for goods",
+      "examples": [
+        "bedriften fikk store ordrer fra utlandet",
+        "annullere en ordre"
+      ]
+    }
+  ]
+}

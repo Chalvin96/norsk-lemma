@@ -1,0 +1,119 @@
+{
+  "source_article_id": 120248,
+  "lemmas": [
+    {
+      "lemma": "kontraktere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 168255,
+      "is_sub_article": false,
+      "primary_translation": "contract",
+      "word_forms": [
+        {
+          "word_form": "kontraktere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kontrakterer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kontrakteres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kontrakterte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kontraktert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kontrakterende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kontrakter",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"trAk$t@r",
+              "ipa": "kɔnˈtrɑktər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d60c501dc9f9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d60c501dc9f9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d60c501dc9f9.mp3",
+            "text": "kontraktere",
+            "source": "generated",
+            "content_sha256": "dd96e63c3fda665c197d60d5f9c1ddbab8c346613dfa246bc9c56d19a744da12"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "inngå kontrakt med",
+      "translation": "to enter into a contract with",
+      "examples": [
+        "kontraktere en ny ferje",
+        "kontrakterte medarbeidere"
+      ]
+    }
+  ]
+}

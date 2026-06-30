@@ -1,0 +1,89 @@
+{
+  "source_article_id": 12718,
+  "lemmas": [
+    {
+      "lemma": "engelsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 14819,
+      "is_sub_article": false,
+      "primary_translation": "English (people/culture) / English (language/subject)",
+      "word_forms": [
+        {
+          "word_form": "engelsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"EN$@lsk",
+              "ipa": "ˈɛŋəlsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "engelske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"EN$@l$sk@",
+              "ipa": "ˈɛŋəlskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6a2885fb8d52.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a2885fb8d52.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a2885fb8d52.mp3",
+            "text": "engelsk",
+            "source": "generated",
+            "content_sha256": "de98fa7e861f99354ba93635da52cdf71c1789c840fe1fdf2c90f9c22d45f3d3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder England (eller Storbritannia) og engelskmenn",
+      "translation": "relating to England (Great Britain) and English people",
+      "examples": [
+        "engelsk kultur",
+        "den engelske kongen"
+      ]
+    },
+    {
+      "text": "som gjelder språket eller faget engelsk",
+      "translation": "relating to the English language or the subject of English",
+      "examples": [
+        "engelsk ordbok",
+        "engelsk stil"
+      ]
+    }
+  ]
+}

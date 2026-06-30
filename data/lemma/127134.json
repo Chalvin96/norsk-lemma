@@ -1,0 +1,105 @@
+{
+  "source_article_id": 127134,
+  "lemmas": [
+    {
+      "lemma": "samtaletid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2034788,
+      "is_sub_article": false,
+      "primary_translation": "conversation time / call duration",
+      "word_forms": [
+        {
+          "word_form": "samtaletid",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "samtaletiden",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "samtaletider",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "samtaletidene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "samtaletida",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "87998cf18765.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87998cf18765.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87998cf18765.mp3",
+            "text": "samtaletid",
+            "source": "generated",
+            "content_sha256": "63afcad9cdd0c5a512a909a765726758cc70294761cb87e2d6bd6a03a11ca98a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tidsrom som er avsatt til samtale",
+      "translation": "period of time allocated for conversation",
+      "examples": []
+    },
+    {
+      "text": "jamfør treffetid",
+      "translation": "meeting time",
+      "examples": []
+    },
+    {
+      "text": "tid en bruker på telefonsamtaler i løpet av et bestemt tidsrom",
+      "translation": "time spent on phone calls during a specific period",
+      "examples": [
+        "en gjennomsnittlig samtaletid på ti minutter hver dag"
+      ]
+    }
+  ]
+}

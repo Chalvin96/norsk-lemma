@@ -1,0 +1,82 @@
+{
+  "source_article_id": 56445,
+  "lemmas": [
+    {
+      "lemma": "språklig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64934,
+      "is_sub_article": false,
+      "primary_translation": "linguistic",
+      "word_forms": [
+        {
+          "word_form": "språklig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spro:$klI",
+              "ipa": "ˈsproːklɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "språklige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spro:$klI$@",
+              "ipa": "ˈsproːklɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2756cb38edc8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2756cb38edc8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2756cb38edc8.mp3",
+            "text": "språklig",
+            "source": "generated",
+            "content_sha256": "29c1d1c2792eb281495e1c9449ee9d5302eaf0ee665c1e7945327d3710d33bb1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder språk",
+      "translation": "relating to language",
+      "examples": [
+        "språklig mangfold",
+        "språklig og litterær analyse av en tekst",
+        "språklig var besvarelsen utmerket"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source_article_id": 1782,
+  "lemmas": [
+    {
+      "lemma": "angivelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2276,
+      "is_sub_article": false,
+      "primary_translation": "alleged",
+      "word_forms": [
+        {
+          "word_form": "angivelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"ji:$v@$lI",
+              "ipa": "ɑnˈjɪːvəlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "angivelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"ji:$v@$lI$@",
+              "ipa": "ɑnˈjɪːvəlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "09cb9e9c41a5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09cb9e9c41a5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09cb9e9c41a5.mp3",
+            "text": "angivelig",
+            "source": "generated",
+            "content_sha256": "2cdc7e061f784e0753a68e5df43be9f8b60a452bed7bde9f4070f14998eada67",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "påstått, etter sigende",
+      "translation": "alleged, reportedly",
+      "examples": [
+        "det angivelige formålet",
+        "uten angivelig grunn",
+        "den angivelige faren"
+      ]
+    }
+  ]
+}

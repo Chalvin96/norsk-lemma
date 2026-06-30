@@ -1,0 +1,88 @@
+{
+  "source_article_id": 107647,
+  "lemmas": [
+    {
+      "lemma": "maskinkode",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 122286,
+      "is_sub_article": false,
+      "primary_translation": "machine code",
+      "word_forms": [
+        {
+          "word_form": "maskinkode",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"Si:n$%ku:$d@",
+              "ipa": "mɑˈʃɪːnˌkuːdə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "maskinkoden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "maskinkoder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "maskinkodene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c01d9e4ce93.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c01d9e4ce93.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c01d9e4ce93.mp3",
+            "text": "maskinkode",
+            "source": "generated",
+            "content_sha256": "20d728ae42e3cd172e1d02f61651b33a93a622e99134c8e54560c3e9415cf87e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enkel binær kode som kan leses av prosessoren i en datamaskin",
+      "translation": "simple binary code that can be read by a computer's processor",
+      "examples": []
+    }
+  ]
+}

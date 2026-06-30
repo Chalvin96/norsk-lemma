@@ -1,0 +1,88 @@
+{
+  "source_article_id": 44359,
+  "lemmas": [
+    {
+      "lemma": "passelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51327,
+      "is_sub_article": false,
+      "primary_translation": "suitable / just enough",
+      "word_forms": [
+        {
+          "word_form": "passelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pA$s@$lI",
+              "ipa": "ˈpɑsəlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "passelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pA$s@$lI$@",
+              "ipa": "ˈpɑsəlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5acf45e88e8c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5acf45e88e8c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5acf45e88e8c.mp3",
+            "text": "passelig",
+            "source": "generated",
+            "content_sha256": "25c3a9cd9ea4caf0a773325499876952472dc48b5ded8361f86d28eacff8a696",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har rett størrelse",
+      "translation": "having the right size",
+      "examples": []
+    },
+    {
+      "text": "som akkurat strekker til",
+      "translation": "just enough",
+      "examples": [
+        "et passelig nivå",
+        "nå er det passelig kaldt",
+        "leiligheten er passelig stor",
+        "hun er sånn passelig fornøyd"
+      ]
+    }
+  ]
+}

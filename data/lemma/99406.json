@@ -1,0 +1,89 @@
+{
+  "source_article_id": 99406,
+  "lemmas": [
+    {
+      "lemma": "repetitiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 133571,
+      "is_sub_article": false,
+      "primary_translation": "repetitive",
+      "word_forms": [
+        {
+          "word_form": "repetitiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "repetitive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"pE$tI$%ti:$v@",
+              "ipa": "rəˈpɛtɪˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "repetitivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"pE$tI$%ti:vt",
+              "ipa": "rəˈpɛtɪˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8c820b7dfb1d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c820b7dfb1d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c820b7dfb1d.mp3",
+            "text": "repetitiv",
+            "source": "generated",
+            "content_sha256": "101cfe43421c1fe6e30011c7065a699c4f2c6333d6a8442e1ba7a435fb11c879"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjentar seg",
+      "translation": "that repeats itself",
+      "examples": [
+        "repetitive gitarriff"
+      ]
+    }
+  ]
+}

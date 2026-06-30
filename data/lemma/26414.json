@@ -1,0 +1,115 @@
+{
+  "source_article_id": 26414,
+  "lemmas": [
+    {
+      "lemma": "innfart",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 31442,
+      "is_sub_article": false,
+      "primary_translation": "inward traffic",
+      "word_forms": [
+        {
+          "word_form": "innfart",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"In$%fAt`",
+              "ipa": "ˈɪnˌfɑʈ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innfarten",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"In$%fA$t`n`=",
+              "ipa": "ˈɪnˌfɑʈɳ̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innfarter",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "innfartene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "innfarta",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9ad0e011f5bb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ad0e011f5bb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ad0e011f5bb.mp3",
+            "text": "innfart",
+            "source": "generated",
+            "content_sha256": "c19488fdc82d7b2681ed9866332c72c1c2d04bcaec8b899d332d867522b8c39a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ferdsel eller trafikk inn mot et sted",
+      "translation": "travel or traffic into a place",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra utfart",
+      "translation": "in contrast to outward travel",
+      "examples": [
+        "stor innfart til byene etter skoleferien"
+      ]
+    }
+  ]
+}

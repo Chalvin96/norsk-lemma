@@ -1,0 +1,81 @@
+{
+  "source_article_id": 123463,
+  "lemmas": [
+    {
+      "lemma": "nedkjørt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 125720,
+      "is_sub_article": false,
+      "primary_translation": "worn out",
+      "word_forms": [
+        {
+          "word_form": "nedkjørt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:d$%C2:t`",
+              "ipa": "ˈneːdˌçøːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nedkjørte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:d$%C2:$t`@",
+              "ipa": "ˈneːdˌçøːʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aaecfdf96fb7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aaecfdf96fb7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aaecfdf96fb7.mp3",
+            "text": "nedkjørt",
+            "source": "generated",
+            "content_sha256": "91fb12cf8f1432f149d38e41ffb6fc4ca6c6882b14fd87a3df92c40c11baf3ab",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utslitt, svekket",
+      "translation": "worn out, weakened",
+      "examples": [
+        "etter tre uker på fylla var han helt nedkjørt",
+        "en nedkjørt økonomi"
+      ]
+    }
+  ]
+}

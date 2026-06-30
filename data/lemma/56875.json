@@ -1,0 +1,81 @@
+{
+  "source_article_id": 56875,
+  "lemmas": [
+    {
+      "lemma": "stedlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 65404,
+      "is_sub_article": false,
+      "primary_translation": "local",
+      "word_forms": [
+        {
+          "word_form": "stedlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ste:d$lI",
+              "ipa": "ˈsteːdlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "stedlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ste:d$lI$@",
+              "ipa": "ˈsteːdlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a4362bc5132e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4362bc5132e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4362bc5132e.mp3",
+            "text": "stedlig",
+            "source": "generated",
+            "content_sha256": "802ae8e3f50b73faa26d1449f52e672a37f0875957ff10dc0871803290fb7567",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller hører til et bestemt sted",
+      "translation": "concerning or belonging to a particular place",
+      "examples": [
+        "den stedlige ungdom",
+        "de stedlige forhold"
+      ]
+    }
+  ]
+}

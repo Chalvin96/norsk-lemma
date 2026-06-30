@@ -1,0 +1,87 @@
+{
+  "source_article_id": 56243,
+  "lemmas": [
+    {
+      "lemma": "sporadisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64729,
+      "is_sub_article": false,
+      "primary_translation": "sporadic / occasional",
+      "word_forms": [
+        {
+          "word_form": "sporadisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spU$\"rA:$dI$sk",
+              "ipa": "spʊˈrɑːdɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sporadiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spU$\"rA:$dI$sk@",
+              "ipa": "spʊˈrɑːdɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "74ceeceb4b4e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/74ceeceb4b4e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/74ceeceb4b4e.mp3",
+            "text": "sporadisk",
+            "source": "generated",
+            "content_sha256": "261a44ca41a391bd5bfb5eca343781968a67376186a129fde91e62ca3a1fea3f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spredt, tilfeldig",
+      "translation": "scattered, random",
+      "examples": []
+    },
+    {
+      "text": "av og til",
+      "translation": "occasionally",
+      "examples": [
+        "sporadiske strømbrudd",
+        "ha sporadisk kontakt med gamle venner",
+        "vi har bare truffet hverandre sporadisk"
+      ]
+    }
+  ]
+}

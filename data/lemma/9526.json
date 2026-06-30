@@ -1,0 +1,85 @@
+{
+  "source_article_id": 9526,
+  "lemmas": [
+    {
+      "lemma": "dekadisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11234,
+      "is_sub_article": false,
+      "primary_translation": "decimal / decade-related",
+      "word_forms": [
+        {
+          "word_form": "dekadisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"kA:$dI$sk",
+              "ipa": "dəˈkɑːdɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dekadiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"kA:$dI$sk@",
+              "ipa": "dəˈkɑːdɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9b42505ea37f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9b42505ea37f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9b42505ea37f.mp3",
+            "text": "dekadisk",
+            "source": "generated",
+            "content_sha256": "6275a134d3d388d412512c7db87118af677f251448e4d4699a95497fe1781d7b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bygger på tallet ti",
+      "translation": "based on the number ten",
+      "examples": []
+    },
+    {
+      "text": "som gjelder en dekade",
+      "translation": "relating to a decade",
+      "examples": [
+        "tallsystemet vårt er dekadisk"
+      ]
+    }
+  ]
+}

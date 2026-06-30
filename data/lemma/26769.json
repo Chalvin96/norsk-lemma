@@ -1,0 +1,80 @@
+{
+  "source_article_id": 26769,
+  "lemmas": [
+    {
+      "lemma": "inntrykt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31871,
+      "is_sub_article": false,
+      "primary_translation": "dented",
+      "word_forms": [
+        {
+          "word_form": "inntrykt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%trYkt",
+              "ipa": "ˈɪnˌtrʏkt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "inntrykte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%trYk$t@",
+              "ipa": "ˈɪnˌtrʏktə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2635676ea0cc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2635676ea0cc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2635676ea0cc.mp3",
+            "text": "inntrykt",
+            "source": "generated",
+            "content_sha256": "05d76098672f687144219c0e7f8e7ea7cecf73746b99f7ff36f5d35d6aeafd9a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er trykt inn",
+      "translation": "pressed in, dented",
+      "examples": [
+        "hele fronten på bilen er inntrykt"
+      ]
+    }
+  ]
+}

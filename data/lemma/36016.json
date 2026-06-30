@@ -1,0 +1,104 @@
+{
+  "source_article_id": 36016,
+  "lemmas": [
+    {
+      "lemma": "luksus",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 41821,
+      "is_sub_article": false,
+      "primary_translation": "luxury",
+      "word_forms": [
+        {
+          "word_form": "luksus",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0k$su0s",
+              "ipa": "ˈlʉksʉs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "luksusen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0k$su0$sn=",
+              "ipa": "ˈlʉksʉsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "luksuser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "luksusene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "413ed70013ae.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/413ed70013ae.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/413ed70013ae.mp3",
+            "text": "luksus",
+            "source": "generated",
+            "content_sha256": "d348bd90521c59c5a1c46108329aeab0fc5e23083565d5dc01067ff6328cfc95",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "overdreven prakt",
+      "translation": "excessive splendor",
+      "examples": []
+    },
+    {
+      "text": "overdrevent forbruk",
+      "translation": "excessive consumption",
+      "examples": [
+        "unne seg litt luksus",
+        "boblebadet er ren luksus",
+        "de lever et liv i luksus"
+      ]
+    }
+  ]
+}

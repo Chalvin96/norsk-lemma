@@ -1,0 +1,127 @@
+{
+  "source_article_id": 61183,
+  "lemmas": [
+    {
+      "lemma": "tjener",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 69966,
+      "is_sub_article": false,
+      "primary_translation": "servant / server",
+      "word_forms": [
+        {
+          "word_form": "tjener",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tje:$n@r",
+              "ipa": "ˈtjeːnər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tjeneren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tje:$n@n`",
+              "ipa": "ˈtjeːnəɳ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tjenere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tje:$n@$r@",
+              "ipa": "ˈtjeːnərə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tjenerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tje:$n@$n`@",
+              "ipa": "ˈtjeːnəɳə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "207266a1648e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/207266a1648e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/207266a1648e.mp3",
+            "text": "tjener",
+            "source": "generated",
+            "content_sha256": "99bc04d1542cf8942bf4b45cc7959dff08fdf0c8be798a305d6293deff1c491e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som er ansatt i større hus for å oppvarte herskapet og ta seg av praktiske gjøremål",
+      "translation": "person employed in a large house to attend to the needs of the household and handle practical matters",
+      "examples": [
+        "et gods med mange tjenere",
+        "kongens trofaste tjener"
+      ]
+    },
+    {
+      "text": "i overført betydning: person som følger viljen til noe eller noen",
+      "translation": "person who follows the will of something or someone",
+      "examples": [
+        "en folkets tjener",
+        "naturens lojale tjener"
+      ]
+    },
+    {
+      "text": "datamaskin som lagrer og leverer innhold til andre datamaskiner",
+      "translation": "computer that stores and delivers content to other computers",
+      "examples": [
+        "en tjener med mange prosessorer"
+      ]
+    }
+  ]
+}

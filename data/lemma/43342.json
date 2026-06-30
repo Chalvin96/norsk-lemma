@@ -1,0 +1,117 @@
+{
+  "source_article_id": 43342,
+  "lemmas": [
+    {
+      "lemma": "orkan",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 50206,
+      "is_sub_article": false,
+      "primary_translation": "hurricane",
+      "word_forms": [
+        {
+          "word_form": "orkan",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$\"kA:n",
+              "ipa": "ɔrˈkɑːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "orkanen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$\"kA:$nn=",
+              "ipa": "ɔrˈkɑːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "orkaner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$\"kA:$n@r",
+              "ipa": "ɔrˈkɑːnər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "orkanene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$\"kA:$nn=$@",
+              "ipa": "ɔrˈkɑːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "412de980f522.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/412de980f522.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/412de980f522.mp3",
+            "text": "orkan",
+            "source": "generated",
+            "content_sha256": "88e8502cb1a146a442371195eb4e3ece0e946540cfe6961c578c6c5da7d177d4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vind med hastighet over 32,6 m/s",
+      "translation": "wind with a speed over 32.6 m/s",
+      "examples": []
+    },
+    {
+      "text": "svært sterk vind",
+      "translation": "very strong wind",
+      "examples": [
+        "det er meldt orkan på kysten",
+        "vind av orkans styrke"
+      ]
+    }
+  ]
+}

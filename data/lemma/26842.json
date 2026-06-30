@@ -1,0 +1,85 @@
+{
+  "source_article_id": 26842,
+  "lemmas": [
+    {
+      "lemma": "insolvent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82702,
+      "is_sub_article": false,
+      "primary_translation": "insolvent / unable to pay debts",
+      "word_forms": [
+        {
+          "word_form": "insolvent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$sOl$\"vEnt",
+              "ipa": "ɪnsɔlˈvɛnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "insolvente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$sOl$\"vEn$t@",
+              "ipa": "ɪnsɔlˈvɛntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0d919d62434b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d919d62434b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d919d62434b.mp3",
+            "text": "insolvent",
+            "source": "generated",
+            "content_sha256": "0dae13a485f528bdbd96cd50c8a00e61aa5cf8492b5bfa784664d6343c160cc5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er i stand til å betale gjelden sin",
+      "translation": "unable to pay one's debts",
+      "examples": []
+    },
+    {
+      "text": "ikke solvent",
+      "translation": "not solvent",
+      "examples": [
+        "firmaet er insolvent"
+      ]
+    }
+  ]
+}

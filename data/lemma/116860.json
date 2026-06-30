@@ -1,0 +1,83 @@
+{
+  "source_article_id": 116860,
+  "lemmas": [
+    {
+      "lemma": "helsesvak",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 166204,
+      "is_sub_article": false,
+      "primary_translation": "poorly / sickly",
+      "word_forms": [
+        {
+          "word_form": "helsesvak",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEl$s@$%svA:k",
+              "ipa": "ˈhɛlsəˌsvɑːk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "helsesvake",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "helsesvakt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "427215037e41.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/427215037e41.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/427215037e41.mp3",
+            "text": "helsesvak",
+            "source": "generated",
+            "content_sha256": "8070686aba759e5972fca59787e56305d94e4f2b54fae30260b0fbfc94a621e2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har dårlig helse",
+      "translation": "having poor health",
+      "examples": [
+        "han har vært helsesvak hele livet"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "source_article_id": 300,
+  "lemmas": [
+    {
+      "lemma": "affære",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1087,
+      "is_sub_article": false,
+      "primary_translation": "affair / love affair",
+      "word_forms": [
+        {
+          "word_form": "affære",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"f{:$r@",
+              "ipa": "ɑˈfæːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "affæren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"\"f{:$n`=",
+              "ipa": "ɑˈfæːɳ̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "affærer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"\"f{:$r@r",
+              "ipa": "ɑˈfæːrər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "affærene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"\"f{:$n`=$@",
+              "ipa": "ɑˈfæːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b550c0b8d4aa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b550c0b8d4aa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b550c0b8d4aa.mp3",
+            "text": "affære",
+            "source": "generated",
+            "content_sha256": "1a19685ec31a41ce1e1b2aed4087dc089b527d56d4e4b6ef1244d896d1575700",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sak, gjøremål, hendelse hending",
+      "translation": "matter, task, event, happening",
+      "examples": [
+        "en pinlig affære",
+        "vedlikehold kan bli en dyr affære",
+        "ha en affære med noen"
+      ]
+    }
+  ]
+}

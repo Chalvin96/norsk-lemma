@@ -1,0 +1,80 @@
+{
+  "source_article_id": 40512,
+  "lemmas": [
+    {
+      "lemma": "nedlåst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47421,
+      "is_sub_article": false,
+      "primary_translation": "locked down",
+      "word_forms": [
+        {
+          "word_form": "nedlåst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:d$%lo:$st",
+              "ipa": "ˈneːdˌloːst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nedlåste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:d$%lo:$st@",
+              "ipa": "ˈneːdˌloːstə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6bec8dc6aa27.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6bec8dc6aa27.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6bec8dc6aa27.mp3",
+            "text": "nedlåst",
+            "source": "generated",
+            "content_sha256": "191f5d2a8b39b64c4e5c4e60c326922ea7accba494fee731dc0e51fefbb506e3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er låst ned",
+      "translation": "locked down",
+      "examples": [
+        "sølvet lå nedlåst i en kiste"
+      ]
+    }
+  ]
+}

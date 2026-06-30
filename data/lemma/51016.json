@@ -1,0 +1,85 @@
+{
+  "source_article_id": 51016,
+  "lemmas": [
+    {
+      "lemma": "sentrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 58705,
+      "is_sub_article": false,
+      "primary_translation": "central / in the middle",
+      "word_forms": [
+        {
+          "word_form": "sentrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sEn$trI$sk",
+              "ipa": "ˈsɛntrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sentriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sEn$trI$sk@",
+              "ipa": "ˈsɛntrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9aeea0c16bbb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9aeea0c16bbb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9aeea0c16bbb.mp3",
+            "text": "sentrisk",
+            "source": "generated",
+            "content_sha256": "2648d675ac120e7f978e7260688b244d726ee90b0575267da1773d817ee00def",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som foregår i sentrum av noe",
+      "translation": "occurring in the center of something",
+      "examples": []
+    },
+    {
+      "text": "midt i noe",
+      "translation": "in the middle of something",
+      "examples": [
+        "brua ble åpnet for enveistrafikk med sentrisk kjøring"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source_article_id": 25873,
+  "lemmas": [
+    {
+      "lemma": "imbesil",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 157741,
+      "is_sub_article": false,
+      "primary_translation": "stupid / idiotic",
+      "word_forms": [
+        {
+          "word_form": "imbesil",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "imbesile",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "imbesilt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$b@$\"sIlt",
+              "ipa": "ɪmbəˈsɪlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a39a59be9edb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a39a59be9edb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a39a59be9edb.mp3",
+            "text": "imbesil",
+            "source": "generated",
+            "content_sha256": "7caf6fc6e0372682568e004e66fcf27ee04f798c479bff061b0a22afdaedf778"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tåpelig, dum",
+      "translation": "foolish, stupid",
+      "examples": []
+    },
+    {
+      "text": "idiotisk",
+      "translation": "idiotic",
+      "examples": [
+        "en gjeng imbesile medarbeidere",
+        "en imbesil forbikjøring"
+      ]
+    }
+  ]
+}

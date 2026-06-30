@@ -1,0 +1,112 @@
+{
+  "source_article_id": 4217,
+  "lemmas": [
+    {
+      "lemma": "bakterie",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5004,
+      "is_sub_article": false,
+      "primary_translation": "bacterium",
+      "word_forms": [
+        {
+          "word_form": "bakterie",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$\"te:$rI$@",
+              "ipa": "bɑkˈteːrɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bakterien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$\"te:$rI$@n",
+              "ipa": "bɑkˈteːrɪən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bakterier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$\"te:$rI$@r",
+              "ipa": "bɑkˈteːrɪər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bakteriene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$\"te:$rI$@$n@",
+              "ipa": "bɑkˈteːrɪənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "90623fa74443.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90623fa74443.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90623fa74443.mp3",
+            "text": "bakterie",
+            "source": "generated",
+            "content_sha256": "590b3a1d5402ced7e751175065db211004bd16482ea3f6448605c5b2a196dbb8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mikroskopisk, av og til sykdomsframkallende, ofte encellet organisme",
+      "translation": "microscopic, sometimes disease-causing, often single-celled organism",
+      "examples": [
+        "basiller og bakterier",
+        "oppblomstring av bakterier i mat"
+      ]
+    }
+  ]
+}

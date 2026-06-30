@@ -1,0 +1,78 @@
+{
+  "source_article_id": 12336,
+  "lemmas": [
+    {
+      "lemma": "elektrokjemisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14410,
+      "is_sub_article": false,
+      "primary_translation": "electrochemical",
+      "word_forms": [
+        {
+          "word_form": "elektrokjemisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"lEk$trU$%Ce:$mI$sk",
+              "ipa": "ɛˈlɛktrʊˌçeːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "elektrokjemiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"lEk$trU$%Ce:$mI$sk@",
+              "ipa": "ɛˈlɛktrʊˌçeːmɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "58a933de1bba.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/58a933de1bba.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/58a933de1bba.mp3",
+            "text": "elektrokjemisk",
+            "source": "generated",
+            "content_sha256": "82b319920a6f571fede8553dea964d2be926130c606ff3068dd22a74f61d30fb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder elektrokjemi",
+      "translation": "relating to electrochemistry",
+      "examples": []
+    }
+  ]
+}

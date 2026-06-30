@@ -1,0 +1,166 @@
+{
+  "source_article_id": 32554,
+  "lemmas": [
+    {
+      "lemma": "kubere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 38191,
+      "is_sub_article": false,
+      "primary_translation": "cube (calculate volume) / cube (math)",
+      "word_forms": [
+        {
+          "word_form": "kubere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"be:$r@",
+              "ipa": "kʉˈbeːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kuberer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"be:$r@r",
+              "ipa": "kʉˈbeːrər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kuberes",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"be:$r@s",
+              "ipa": "kʉˈbeːrəs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kuberte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"be:$t`@",
+              "ipa": "kʉˈbeːʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kubert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"be:t`",
+              "ipa": "kʉˈbeːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kuberende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"be:$n`=$@",
+              "ipa": "kʉˈbeːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kuber",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"be:r",
+              "ipa": "kʉˈbeːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1a5d40cf13ff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a5d40cf13ff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a5d40cf13ff.mp3",
+            "text": "kubere",
+            "source": "generated",
+            "content_sha256": "40b140491a648c5aeb8c4788f253006886027d0b76902d3860ba31485f7c24be",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "regne ut kubikkinnhold av et legeme eller en masse",
+      "translation": "calculate the cubic content of a body or mass",
+      "examples": []
+    },
+    {
+      "text": "opphøye i tredje potens",
+      "translation": "raise to the third power",
+      "examples": [
+        "kubere et tall"
+      ]
+    }
+  ]
+}

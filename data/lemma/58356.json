@@ -1,0 +1,99 @@
+{
+  "source_article_id": 58356,
+  "lemmas": [
+    {
+      "lemma": "sund",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 66810,
+      "is_sub_article": false,
+      "primary_translation": "broken",
+      "word_forms": [
+        {
+          "word_form": "sund",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"su0n",
+              "ipa": "ˈsʉn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sunde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"su0n$d@",
+              "ipa": "ˈsʉndə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sundt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"su0nt",
+              "ipa": "ˈsʉnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "298f61b1bb85.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/298f61b1bb85.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/298f61b1bb85.mp3",
+            "text": "sund",
+            "source": "generated",
+            "content_sha256": "7340eb8b971b7116fc518f0d3669c4a3f7fc01c972bc8c625b2cdb4d5c3cfead",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er i stykker",
+      "translation": "broken",
+      "examples": [
+        "sunde klær",
+        "slå sund noe",
+        "vindusruta gikk sund"
+      ]
+    }
+  ]
+}

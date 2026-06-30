@@ -1,0 +1,104 @@
+{
+  "source_article_id": 131157,
+  "lemmas": [
+    {
+      "lemma": "søndagskveld",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 135146,
+      "is_sub_article": false,
+      "primary_translation": "Sunday evening",
+      "word_forms": [
+        {
+          "word_form": "søndagskveld",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9n$dA:g$%skvEl",
+              "ipa": "ˈsœndɑːgˌskvɛl",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "søndagskvelden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s9n$dA:g$%skvE$ln=",
+              "ipa": "ˈsœndɑːgˌskvɛln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "søndagskvelder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "søndagskveldene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s9n$dA:g$%skvE$ln=$@",
+              "ipa": "ˈsœndɑːgˌskvɛln̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "56dc54fc0168.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56dc54fc0168.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56dc54fc0168.mp3",
+            "text": "søndagskveld",
+            "source": "generated",
+            "content_sha256": "4762bb261bce151adcd17078592dd45dcadb66fd2c9fed0bff0af8fd6042adc7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kveld på en søndag",
+      "translation": "evening on a Sunday",
+      "examples": [
+        "det regnet hele søndagskvelden"
+      ]
+    }
+  ]
+}

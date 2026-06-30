@@ -1,0 +1,81 @@
+{
+  "source_article_id": 63776,
+  "lemmas": [
+    {
+      "lemma": "ufarlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73020,
+      "is_sub_article": false,
+      "primary_translation": "harmless",
+      "word_forms": [
+        {
+          "word_form": "ufarlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"fA:$l`I",
+              "ipa": "ʉˈfɑːɭɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ufarlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"fA:$l`I$@",
+              "ipa": "ʉˈfɑːɭɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f1de709ff9b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f1de709ff9b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f1de709ff9b.mp3",
+            "text": "ufarlig",
+            "source": "generated",
+            "content_sha256": "197971b7bb7f7dd91ca7d9f8954df1982520e86856306201d58926cfd478fbe9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er farlig",
+      "translation": "that is not dangerous",
+      "examples": [
+        "en ufarlig sykdom",
+        "ufarlig farvann"
+      ]
+    }
+  ]
+}

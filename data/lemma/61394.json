@@ -1,0 +1,94 @@
+{
+  "source_article_id": 61394,
+  "lemmas": [
+    {
+      "lemma": "tollfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 83385,
+      "is_sub_article": false,
+      "primary_translation": "duty-free",
+      "word_forms": [
+        {
+          "word_form": "tollfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tOl$%fri:",
+              "ipa": "ˈtɔlˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tollfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tOl$%fri:$@",
+              "ipa": "ˈtɔlˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tollfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tOl$%frIt",
+              "ipa": "ˈtɔlˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "be4f15852150.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be4f15852150.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be4f15852150.mp3",
+            "text": "tollfri",
+            "source": "generated",
+            "content_sha256": "08e4f8cde3d17602b7cd8d5feb15cd76242ebab1219485ecd73cfde08f70ea36",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det ikke er toll for",
+      "translation": "on which there is no customs duty",
+      "examples": [
+        "tollfrie varer"
+      ]
+    }
+  ]
+}

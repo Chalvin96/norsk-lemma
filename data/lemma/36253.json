@@ -1,0 +1,85 @@
+{
+  "source_article_id": 36253,
+  "lemmas": [
+    {
+      "lemma": "lymfatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42083,
+      "is_sub_article": false,
+      "primary_translation": "lymphatic",
+      "word_forms": [
+        {
+          "word_form": "lymfatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lYm$\"fA:$tI$sk",
+              "ipa": "lʏmˈfɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lymfatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lYm$\"fA:$tI$sk@",
+              "ipa": "lʏmˈfɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a4b0142b1559.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4b0142b1559.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4b0142b1559.mp3",
+            "text": "lymfatisk",
+            "source": "generated",
+            "content_sha256": "6c5a087003443d2d3797a5ceab4122b677ff52f5510f74c531dd64180759c35c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder lymfen",
+      "translation": "relating to lymph",
+      "examples": []
+    },
+    {
+      "text": "som det fins lymfeceller i",
+      "translation": "containing lymph cells",
+      "examples": [
+        "lymfatisk vev"
+      ]
+    }
+  ]
+}

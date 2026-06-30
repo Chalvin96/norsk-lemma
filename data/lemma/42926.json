@@ -1,0 +1,92 @@
+{
+  "source_article_id": 42926,
+  "lemmas": [
+    {
+      "lemma": "øvrig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 81240,
+      "is_sub_article": false,
+      "primary_translation": "remaining / the rest",
+      "word_forms": [
+        {
+          "word_form": "øvrig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"2:$vrI",
+              "ipa": "ˈøːvrɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "øvrige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"2:$vrI$@",
+              "ipa": "ˈøːvrɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9ffa2fd55aeb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ffa2fd55aeb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ffa2fd55aeb.mp3",
+            "text": "øvrig",
+            "source": "generated",
+            "content_sha256": "ef338ee4d803769a3ae12516009a1ea35f2f83cc2c1ac06a7a878fd04d626d30",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er igjen",
+      "translation": "remaining",
+      "examples": []
+    },
+    {
+      "text": "som utgjør en rest",
+      "translation": "constituting a remainder",
+      "examples": [
+        "hun lot det øvrige arbeidet ligge til neste dag"
+      ]
+    },
+    {
+      "text": "brukt som substantiv: det eller de andre",
+      "translation": "used as a noun: the other",
+      "examples": [
+        "fem personer ble syke, mens de øvrige holdt seg friske"
+      ]
+    }
+  ]
+}

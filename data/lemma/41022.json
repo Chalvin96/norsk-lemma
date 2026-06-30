@@ -1,0 +1,81 @@
+{
+  "source_article_id": 41022,
+  "lemmas": [
+    {
+      "lemma": "nordisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47992,
+      "is_sub_article": false,
+      "primary_translation": "Nordic",
+      "word_forms": [
+        {
+          "word_form": "nordisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nUr$dI$sk",
+              "ipa": "ˈnʊrdɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nordiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nUr$dI$sk@",
+              "ipa": "ˈnʊrdɪskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "276c67f5975b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/276c67f5975b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/276c67f5975b.mp3",
+            "text": "nordisk",
+            "source": "generated",
+            "content_sha256": "f30c8345c75cfc886611b8d479a2a7873f88422fb912e6ccc9ad57c540080e58",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til eller gjelder Norden",
+      "translation": "belonging to or concerning the Nordic countries",
+      "examples": [
+        "de nordiske landene",
+        "nordisk samarbeid"
+      ]
+    }
+  ]
+}

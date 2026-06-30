@@ -1,0 +1,97 @@
+{
+  "source_article_id": 30907,
+  "lemmas": [
+    {
+      "lemma": "koma",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 36411,
+      "is_sub_article": false,
+      "primary_translation": "coma",
+      "word_forms": [
+        {
+          "word_form": "koma",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku:$mA",
+              "ipa": "ˈkuːmɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "komaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku:$mA$@n",
+              "ipa": "ˈkuːmɑən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "komaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "komaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cedc9534a4c1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cedc9534a4c1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cedc9534a4c1.mp3",
+            "text": "koma",
+            "source": "generated",
+            "content_sha256": "d3ef29b55d5f32bf8b1715944c694e1f51a22aa2a28d12935563c5ec594411c2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "langvarig, dyp bevisstløshet",
+      "translation": "prolonged, deep unconsciousness",
+      "examples": [
+        "pasienten lå i koma"
+      ]
+    }
+  ]
+}

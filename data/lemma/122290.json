@@ -1,0 +1,105 @@
+{
+  "source_article_id": 122290,
+  "lemmas": [
+    {
+      "lemma": "lydopptak",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 121369,
+      "is_sub_article": false,
+      "primary_translation": "sound recording",
+      "word_forms": [
+        {
+          "word_form": "lydopptak",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$dOp$%tA:k",
+              "ipa": "ˈlyːdɔpˌtɑːk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lydopptaket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$dOp$%tA:$k@",
+              "ipa": "ˈlyːdɔpˌtɑːkə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lydopptaka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lydopptakene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$dOp$%tA:$k@$n@",
+              "ipa": "ˈlyːdɔpˌtɑːkənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4b87ae4280e3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b87ae4280e3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b87ae4280e3.mp3",
+            "text": "lydopptak",
+            "source": "generated",
+            "content_sha256": "87ca73b15042fa6ea8552f8e301531fd8adcf5531c480d0ea07594af997eea5f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "opptak av lyd",
+      "translation": "recording of sound",
+      "examples": [
+        "lytte til lydopptak fra krigen"
+      ]
+    }
+  ]
+}

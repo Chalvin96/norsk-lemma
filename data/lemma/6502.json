@@ -1,0 +1,103 @@
+{
+  "source_article_id": 6502,
+  "lemmas": [
+    {
+      "lemma": "blodrød",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 7665,
+      "is_sub_article": false,
+      "primary_translation": "blood-red",
+      "word_forms": [
+        {
+          "word_form": "blodrød",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%r2:",
+              "ipa": "ˈbluːˌrøː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blodrøde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%r2:$@",
+              "ipa": "ˈbluːˌrøːə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blodrødt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%r9t",
+              "ipa": "ˈbluːˌrœt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ed833140418b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed833140418b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed833140418b.mp3",
+            "text": "blodrød",
+            "source": "generated",
+            "content_sha256": "e679f5207a545826e5a75de4124c429b80cda10d72481d3e6cdd9254607828b1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rød som blod",
+      "translation": "red as blood",
+      "examples": []
+    },
+    {
+      "text": "dyp rød",
+      "translation": "deep red",
+      "examples": [
+        "bli blodrød i ansiktet",
+        "blomstene var blodrøde"
+      ]
+    }
+  ]
+}

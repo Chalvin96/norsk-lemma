@@ -1,0 +1,95 @@
+{
+  "source_article_id": 70861,
+  "lemmas": [
+    {
+      "lemma": "euro",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 156697,
+      "is_sub_article": false,
+      "primary_translation": "euro",
+      "word_forms": [
+        {
+          "word_form": "euro",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E*u0$rU",
+              "ipa": "ˈæ͡ʉrʊ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "euroen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E*u0$rU$@n",
+              "ipa": "ˈæ͡ʉrʊən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "euroene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E*u0$rU$@$n@",
+              "ipa": "ˈæ͡ʉrʊənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7cf61d6106c7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7cf61d6106c7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7cf61d6106c7.mp3",
+            "text": "euro",
+            "source": "generated",
+            "content_sha256": "47156c003cc1af1e4720e5f83e4fdb41715f6973b2ce947df6ff00ffa57bc081",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "felles myntenhet i EU",
+      "translation": "common currency unit in the EU",
+      "examples": [
+        "betale med euro"
+      ]
+    }
+  ]
+}

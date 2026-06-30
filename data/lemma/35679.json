@@ -1,0 +1,112 @@
+{
+  "source_article_id": 35679,
+  "lemmas": [
+    {
+      "lemma": "lokal",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 41464,
+      "is_sub_article": false,
+      "primary_translation": "local transport / radio",
+      "word_forms": [
+        {
+          "word_form": "lokal",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:l",
+              "ipa": "lʊˈkɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lokalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:$ln=",
+              "ipa": "lʊˈkɑːln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lokaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:$l@r",
+              "ipa": "lʊˈkɑːlər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lokalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:$ln=$@",
+              "ipa": "lʊˈkɑːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "40956dce314e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40956dce314e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40956dce314e.mp3",
+            "text": "lokal",
+            "source": "generated",
+            "content_sha256": "5fda38fbd8babd61400341bbcd6fd448e25d9cbb23b9eaa62f57d4cf6bc6353d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortform av lokalbåt, lokalradio eller lignende",
+      "translation": "short form of local boat, local radio",
+      "examples": [
+        "ta lokalen over fjorden",
+        "høre nyheter på lokalen"
+      ]
+    }
+  ]
+}

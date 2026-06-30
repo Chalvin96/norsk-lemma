@@ -1,0 +1,104 @@
+{
+  "source_article_id": 62620,
+  "lemmas": [
+    {
+      "lemma": "trykksvak",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 71660,
+      "is_sub_article": false,
+      "primary_translation": "unstressed / stressed syllable",
+      "word_forms": [
+        {
+          "word_form": "trykksvak",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trYk$%svA:k",
+              "ipa": "ˈtrʏkˌsvɑːk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trykksvake",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trYk$%svA:$k@",
+              "ipa": "ˈtrʏkˌsvɑːkə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trykksvakt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trYk$%svA:kt",
+              "ipa": "ˈtrʏkˌsvɑːkt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5242a0d7ce5a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5242a0d7ce5a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5242a0d7ce5a.mp3",
+            "text": "trykksvak",
+            "source": "generated",
+            "content_sha256": "97a96e16dced8fa90f37e9e126916fe029723e5da8a0b9cf18a5ea56e547d92f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om stavelse: som uttales med minst trykk",
+      "translation": "stressed (syllable)",
+      "examples": []
+    },
+    {
+      "text": "motsatt trykksterk",
+      "translation": "",
+      "examples": [
+        "i mange fremmedord er første stavelse trykksvak",
+        "trykksvake småord",
+        "bortfall av trykksvake vokaler"
+      ]
+    }
+  ]
+}

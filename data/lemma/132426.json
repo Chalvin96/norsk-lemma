@@ -1,0 +1,81 @@
+{
+  "source_article_id": 132426,
+  "lemmas": [
+    {
+      "lemma": "tilmålt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 146503,
+      "is_sub_article": false,
+      "primary_translation": "allotted / portioned",
+      "word_forms": [
+        {
+          "word_form": "tilmålt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%mo:lt",
+              "ipa": "ˈtɪlˌmoːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tilmålte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%mo:l$t@",
+              "ipa": "ˈtɪlˌmoːltə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "078637c423b7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/078637c423b7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/078637c423b7.mp3",
+            "text": "tilmålt",
+            "source": "generated",
+            "content_sha256": "9ee5c83c7e620f63d15ac33be4026fdc7cd69e6432ce5182f5006b48af4a2759",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er tildelt eller porsjonert ut",
+      "translation": "assigned or portioned out",
+      "examples": [
+        "alle fikk sin tilmålte rasjon",
+        "tilmålt taletid"
+      ]
+    }
+  ]
+}

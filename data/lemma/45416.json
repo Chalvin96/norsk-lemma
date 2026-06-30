@@ -1,0 +1,80 @@
+{
+  "source_article_id": 45416,
+  "lemmas": [
+    {
+      "lemma": "polaroid",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 52400,
+      "is_sub_article": false,
+      "primary_translation": "polarizing",
+      "word_forms": [
+        {
+          "word_form": "polaroid",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lA$rU$\"i:d",
+              "ipa": "pʊlɑrʊˈɪːd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "polaroide",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lA$rU$\"i:$d@",
+              "ipa": "pʊlɑrʊˈɪːdə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "41bcef90d942.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41bcef90d942.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41bcef90d942.mp3",
+            "text": "polaroid",
+            "source": "generated",
+            "content_sha256": "ff96cfc04908390887c6a74bfe54ffe517bdf5f678b531e2cf7e61ccd2e2c88e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er bygd opp av krystall som er orientert samme vei og dermed polarisere lysstråler",
+      "translation": "made of crystals oriented the same way, thus polarizing light rays",
+      "examples": [
+        "polaroide solbriller"
+      ]
+    }
+  ]
+}

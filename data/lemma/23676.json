@@ -1,0 +1,97 @@
+{
+  "source_article_id": 23676,
+  "lemmas": [
+    {
+      "lemma": "historisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27886,
+      "is_sub_article": false,
+      "primary_translation": "historical",
+      "word_forms": [
+        {
+          "word_form": "historisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hI$\"stu:$rI$sk",
+              "ipa": "hɪˈstuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "historiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hI$\"stu:$rI$sk@",
+              "ipa": "hɪˈstuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "94b246bc319e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/94b246bc319e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/94b246bc319e.mp3",
+            "text": "historisk",
+            "source": "generated",
+            "content_sha256": "86e98068bd7998ff928aee16aa66416169c43a090182e01cb5c65b52ec286b42",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som angår historien, som har historie til emne eller formål",
+      "translation": "concerning history, having history as subject or purpose",
+      "examples": [
+        "ha store historiske kunnskaper",
+        "historisk forskning",
+        "et historisk atlas",
+        "en historisk roman",
+        "et historisk museum"
+      ]
+    },
+    {
+      "text": "som er omtalt i historien, kjent fra historien, som historien gir sikker kunnskap om",
+      "translation": "mentioned in history, known from history, about which history provides certain knowledge",
+      "examples": [
+        "i historisk tid",
+        "her på Eidsvoll er vi på historisk grunn",
+        "en historisk begivenhet",
+        "et historisk faktum",
+        "boka gir et historisk korrekt bilde av hendingene",
+        "ha historisk betydning",
+        "et historisk øyeblikk"
+      ]
+    }
+  ]
+}

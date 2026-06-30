@@ -1,0 +1,81 @@
+{
+  "source_article_id": 48401,
+  "lemmas": [
+    {
+      "lemma": "rettslig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 55595,
+      "is_sub_article": false,
+      "primary_translation": "legal",
+      "word_forms": [
+        {
+          "word_form": "rettslig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rEt$slI",
+              "ipa": "ˈrɛtslɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "rettslige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rEt$SlI$@",
+              "ipa": "ˈrɛtʃlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f3e29c938bb8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3e29c938bb8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3e29c938bb8.mp3",
+            "text": "rettslig",
+            "source": "generated",
+            "content_sha256": "a1222fe9a2aa19e416e596088dd3492a43dd4940b0dbf4417714753f1894bbae",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som angår rettsvesenet, domstolene eller rettsreglene",
+      "translation": "concerning the legal system, courts, or legal rules",
+      "examples": [
+        "rettslig gransking",
+        "rettslig forhør"
+      ]
+    }
+  ]
+}

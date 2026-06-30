@@ -1,0 +1,97 @@
+{
+  "source_article_id": 123141,
+  "lemmas": [
+    {
+      "lemma": "lærlingplass",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 118824,
+      "is_sub_article": false,
+      "primary_translation": "apprenticeship position",
+      "word_forms": [
+        {
+          "word_form": "lærlingplass",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l{:$l`IN$%plAs",
+              "ipa": "ˈlæːɭɪŋˌplɑs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lærlingplassen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lærlingplasser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l{:$l`IN$%plA$s@r",
+              "ipa": "ˈlæːɭɪŋˌplɑsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lærlingplassene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f9253742d5f9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f9253742d5f9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f9253742d5f9.mp3",
+            "text": "lærlingplass",
+            "source": "generated",
+            "content_sha256": "71404fb7329daa57fdae5a9e3ddc43b76291d41e332a2498faf41df4ce8dcd31",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stilling som lærling",
+      "translation": "a position as an apprentice",
+      "examples": [
+        "sikre flere lærlingplasser i distriktene"
+      ]
+    }
+  ]
+}

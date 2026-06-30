@@ -1,0 +1,91 @@
+{
+  "source_article_id": 21664,
+  "lemmas": [
+    {
+      "lemma": "gyldig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25306,
+      "is_sub_article": false,
+      "primary_translation": "valid / sound",
+      "word_forms": [
+        {
+          "word_form": "gyldig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jYl$dI",
+              "ipa": "ˈjʏldɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gyldige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jYl$dI$@",
+              "ipa": "ˈjʏldɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "554eff1d9811.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/554eff1d9811.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/554eff1d9811.mp3",
+            "text": "gyldig",
+            "source": "generated",
+            "content_sha256": "0ac982c2256bf5db769c1abd98667b6708dc677b03cbeb8a14d2ea87f4417f2f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bindende, som gjelder, gangbar, valid, lovlig",
+      "translation": "binding, applicable, valid, legal",
+      "examples": [
+        "en gyldig avtale",
+        "passet er ikke gyldig lenger",
+        "billetten er gyldig hele dagen",
+        "ha gyldig grunn til forfall"
+      ]
+    },
+    {
+      "text": "i filosofi: holdbar, analytisk",
+      "translation": "sound, analytical",
+      "examples": [
+        "et gyldig resonnement",
+        "en gyldig slutning"
+      ]
+    }
+  ]
+}

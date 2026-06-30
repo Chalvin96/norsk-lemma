@@ -1,0 +1,81 @@
+{
+  "source_article_id": 35904,
+  "lemmas": [
+    {
+      "lemma": "luftavkjølt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41696,
+      "is_sub_article": false,
+      "primary_translation": "air-cooled",
+      "word_forms": [
+        {
+          "word_form": "luftavkjølt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0f$tA:v$%C2:lt",
+              "ipa": "ˈlʉftɑːvˌçøːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "luftavkjølte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0f$tA:v$%C2:l$t@",
+              "ipa": "ˈlʉftɑːvˌçøːltə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4dae4ebc8e10.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4dae4ebc8e10.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4dae4ebc8e10.mp3",
+            "text": "luftavkjølt",
+            "source": "generated",
+            "content_sha256": "22a56c3e6eb53e58de811f28210ab271bf1c36e8264049975991648f4db8326f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avkjølt med luft",
+      "translation": "cooled by air",
+      "examples": [
+        "en luftavkjølt motor",
+        "enorme, luftavkjølte shoppingsentre"
+      ]
+    }
+  ]
+}

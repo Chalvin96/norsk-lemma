@@ -1,0 +1,112 @@
+{
+  "source_article_id": 9335,
+  "lemmas": [
+    {
+      "lemma": "datavirus",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11015,
+      "is_sub_article": false,
+      "primary_translation": "computer virus",
+      "word_forms": [
+        {
+          "word_form": "datavirus",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%vi:$ru0s",
+              "ipa": "ˈdɑːtɑˌvɪːrʉs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dataviruset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%vi:$ru0$s@",
+              "ipa": "ˈdɑːtɑˌvɪːrʉsə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "datavirusa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%vi:$ru0$sA",
+              "ipa": "ˈdɑːtɑˌvɪːrʉsɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "datavirusene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%vi:$ru0$sn=$@",
+              "ipa": "ˈdɑːtɑˌvɪːrʉsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c4d53e7033eb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c4d53e7033eb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c4d53e7033eb.mp3",
+            "text": "datavirus",
+            "source": "generated",
+            "content_sha256": "fd50165335e88aced9d346c0dc8a25556b4ecaea99622c6400996cfe40e4a378",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skjult dataprogram som kan spre seg selv og gjøre skade på datafiler, programmer og operativsystemer",
+      "translation": "hidden computer program that can spread itself and cause damage to data files, programs, and operating systems",
+      "examples": [
+        "fila kan inneholde datavirus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source_article_id": 36759,
+  "lemmas": [
+    {
+      "lemma": "malmfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43146,
+      "is_sub_article": false,
+      "primary_translation": "ore-rich / resonant",
+      "word_forms": [
+        {
+          "word_form": "malmfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mAlm$%fu0l",
+              "ipa": "ˈmɑlmˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "malmfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mAlm$%fu0$l@",
+              "ipa": "ˈmɑlmˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "malmfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mAlm$%fu0lt",
+              "ipa": "ˈmɑlmˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fe750a50eb06.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe750a50eb06.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe750a50eb06.mp3",
+            "text": "malmfull",
+            "source": "generated",
+            "content_sha256": "8282d7d4cf9cf1707b2580a37d35cf92378834c48f7408ee1e08ec0d95eb7546",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rik på malm",
+      "translation": "rich in ore",
+      "examples": []
+    },
+    {
+      "text": "kraftig, klangfull",
+      "translation": "powerful, resonant",
+      "examples": [
+        "malmfull sang"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "source_article_id": 63338,
+  "lemmas": [
+    {
+      "lemma": "tø",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 72580,
+      "is_sub_article": false,
+      "primary_translation": "melt/thaw",
+      "word_forms": [
+        {
+          "word_form": "tø",
+          "tags_json": [
+            "v4",
+            "Inf",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t2:",
+              "ipa": "ˈtøː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tør",
+          "tags_json": [
+            "v4",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t2:r",
+              "ipa": "ˈtøːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tøs",
+          "tags_json": [
+            "v4",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t2:s",
+              "ipa": "ˈtøːs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tødde",
+          "tags_json": [
+            "v4",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"t9$d@",
+              "ipa": "ˈtœdə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tødd",
+          "tags_json": [
+            "v4",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t9d",
+              "ipa": "ˈtœd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tøende",
+          "tags_json": [
+            "v4",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"t2:$@$n@",
+              "ipa": "ˈtøːənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ee9cbbf194fa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee9cbbf194fa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee9cbbf194fa.mp3",
+            "text": "tø",
+            "source": "generated",
+            "content_sha256": "15b77907215f6b1aa798ff5947fe0bc3c57b62a887b7086dec7f27f210034979",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "smelte, tine",
+      "translation": "to melt, thaw",
+      "examples": [
+        "det tør",
+        "snøen tør"
+      ]
+    }
+  ]
+}

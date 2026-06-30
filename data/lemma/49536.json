@@ -1,0 +1,80 @@
+{
+  "source_article_id": 49536,
+  "lemmas": [
+    {
+      "lemma": "rålendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 56664,
+      "is_sub_article": false,
+      "primary_translation": "damp and marshy terrain",
+      "word_forms": [
+        {
+          "word_form": "rålendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ro:$%lEnt",
+              "ipa": "ˈroːˌlɛnt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "rålendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ro:$%lEn$t@",
+              "ipa": "ˈroːˌlɛntə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "649a91490364.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/649a91490364.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/649a91490364.mp3",
+            "text": "rålendt",
+            "source": "generated",
+            "content_sha256": "76d39ab433e225f27c107383fef72f2f9ce72f1435c35e1b9d4e94681f238564",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om terreng: fuktig og myrete",
+      "translation": "of terrain: damp and marshy",
+      "examples": [
+        "rålendt jord"
+      ]
+    }
+  ]
+}

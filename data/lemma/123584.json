@@ -1,0 +1,70 @@
+{
+  "source_article_id": 123584,
+  "lemmas": [
+    {
+      "lemma": "nygresk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 126548,
+      "is_sub_article": false,
+      "primary_translation": "modern Greek / ancient Greek",
+      "word_forms": [
+        {
+          "word_form": "nygresk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nygreske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2e542439026d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e542439026d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e542439026d.mp3",
+            "text": "nygresk",
+            "source": "generated",
+            "content_sha256": "f7c53c92d3d3741da1158b180ed29f4e9829a723c4df234b6137004980a7f6c4"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder det gresk språket brukt i Hellas i dag",
+      "translation": "concerning the Greek language used in Greece today",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra gammelgresk gammalgresk og klassisk gresk",
+      "translation": "ancient Greek, Hellenistic Greek, and classical Greek",
+      "examples": [
+        "har du lest noe av den nygreske litteraturen?"
+      ]
+    }
+  ]
+}

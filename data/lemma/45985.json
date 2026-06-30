@@ -1,0 +1,103 @@
+{
+  "source_article_id": 45985,
+  "lemmas": [
+    {
+      "lemma": "prematur",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 52993,
+      "is_sub_article": false,
+      "primary_translation": "premature",
+      "word_forms": [
+        {
+          "word_form": "prematur",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pr@$mA$\"t}:r",
+              "ipa": "prəmɑˈtʉːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "premature",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pr@$mA$\"tu:r",
+              "ipa": "prəmɑˈtuːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prematurt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pr@$mA$\"t}:t`",
+              "ipa": "prəmɑˈtʉːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b4aa24cfaeaa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b4aa24cfaeaa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b4aa24cfaeaa.mp3",
+            "text": "prematur",
+            "source": "generated",
+            "content_sha256": "96bec3f06f45a5a66e74d5b354be80b9d175df655e4bda17e6aa7765cdb19462",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som skjer før tiden",
+      "translation": "happening before time",
+      "examples": []
+    },
+    {
+      "text": "for tidlig født",
+      "translation": "born prematurely",
+      "examples": [
+        "prematur fødsel",
+        "barnet ble født prematurt"
+      ]
+    }
+  ]
+}

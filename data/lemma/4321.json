@@ -1,0 +1,98 @@
+{
+  "source_article_id": 4321,
+  "lemmas": [
+    {
+      "lemma": "banal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5112,
+      "is_sub_article": false,
+      "primary_translation": "banal",
+      "word_forms": [
+        {
+          "word_form": "banal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"nA:l",
+              "ipa": "bɑˈnɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "banale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"nA:$l@",
+              "ipa": "bɑˈnɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "banalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"nA:lt",
+              "ipa": "bɑˈnɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d9e8012c75e3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d9e8012c75e3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d9e8012c75e3.mp3",
+            "text": "banal",
+            "source": "generated",
+            "content_sha256": "d487a0b43a07e55ac2637ce883e63d1096e815b096668a13dee5fa06f8c30c5d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dagligdags, forslitt, ordinær",
+      "translation": "everyday, worn-out, ordinary",
+      "examples": [
+        "et banalt dikt",
+        "budskapet er enkelt på grensen til det banale"
+      ]
+    }
+  ]
+}

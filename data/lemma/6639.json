@@ -1,0 +1,103 @@
+{
+  "source_article_id": 6639,
+  "lemmas": [
+    {
+      "lemma": "blytung",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 7809,
+      "is_sub_article": false,
+      "primary_translation": "heavy as lead",
+      "word_forms": [
+        {
+          "word_form": "blytung",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bly:$%tUN",
+              "ipa": "ˈblyːˌtʊŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blytunge",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bly:$%tUN$@",
+              "ipa": "ˈblyːˌtʊŋə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blytungt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bly:$%tUNt",
+              "ipa": "ˈblyːˌtʊŋt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "985cbfaac32e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/985cbfaac32e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/985cbfaac32e.mp3",
+            "text": "blytung",
+            "source": "generated",
+            "content_sha256": "c845b705cb7f9ceb597c1020dd132cf603d2156cf7684111befa4b0210b00f66",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tung som bly",
+      "translation": "heavy as lead",
+      "examples": []
+    },
+    {
+      "text": "svært tung",
+      "translation": "very heavy",
+      "examples": [
+        "kofferten var blytung",
+        "slite blytungt"
+      ]
+    }
+  ]
+}

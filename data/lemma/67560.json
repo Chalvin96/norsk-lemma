@@ -1,0 +1,79 @@
+{
+  "source_article_id": 67560,
+  "lemmas": [
+    {
+      "lemma": "vemmes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 77985,
+      "is_sub_article": false,
+      "primary_translation": "feel disgust",
+      "word_forms": [
+        {
+          "word_form": "vemmes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$m@s",
+              "ipa": "ˈvɛməs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vemtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEm$t@s",
+              "ipa": "ˈvɛmtəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c5f0391fdfe0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c5f0391fdfe0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c5f0391fdfe0.mp3",
+            "text": "vemmes",
+            "source": "generated",
+            "content_sha256": "c876e777c291db8c89be68762ebf896d020eff909daf30d141ea60972d285368",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "føle avsky",
+      "translation": "to feel disgust",
+      "examples": [
+        "vemmes ved tanken på blod",
+        "jeg vemmes over egen framferd"
+      ]
+    }
+  ]
+}

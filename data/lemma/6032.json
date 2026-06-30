@@ -1,0 +1,129 @@
+{
+  "source_article_id": 6032,
+  "lemmas": [
+    {
+      "lemma": "binom",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7109,
+      "is_sub_article": false,
+      "primary_translation": "binomial",
+      "word_forms": [
+        {
+          "word_form": "binom",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"nu:m",
+              "ipa": "bɪˈnuːm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "binomet",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"nu:$m@",
+              "ipa": "bɪˈnuːmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "binoma",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"nu:$mA",
+              "ipa": "bɪˈnuːmɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "binomer",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"nu:$m@r",
+              "ipa": "bɪˈnuːmər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "binomene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"nu:$m@$n@",
+              "ipa": "bɪˈnuːmənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d8664e6d99d6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d8664e6d99d6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d8664e6d99d6.mp3",
+            "text": "binom",
+            "source": "generated",
+            "content_sha256": "04fdf9893eb83dd38b4f72a23f5431544acc0d25351f2926725d9b3ca5412feb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "matematisk uttrykk som er sammensatt av to ledd med + eller – imellom",
+      "translation": "mathematical expression composed of two terms with + or – in between",
+      "examples": [
+        "(a–b) er et binom"
+      ]
+    }
+  ]
+}

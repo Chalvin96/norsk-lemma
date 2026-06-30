@@ -1,0 +1,81 @@
+{
+  "source_article_id": 31003,
+  "lemmas": [
+    {
+      "lemma": "kommunistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 36514,
+      "is_sub_article": false,
+      "primary_translation": "communist",
+      "word_forms": [
+        {
+          "word_form": "kommunistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$mu0$\"nI$stI$sk",
+              "ipa": "kʊmʉˈnɪstɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kommunistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$mu0$\"nI$stI$sk@",
+              "ipa": "kʊmʉˈnɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7b57e5688a1f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b57e5688a1f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b57e5688a1f.mp3",
+            "text": "kommunistisk",
+            "source": "generated",
+            "content_sha256": "704ebb6388804d1f25c4b30f2caceddca8fd4b0fff10b5de01fa170cd68cb9ad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kommunisme og kommunister",
+      "translation": "relating to communism and communists",
+      "examples": [
+        "Det kommunistiske manifest",
+        "Kina er fortsatt et kommunistisk land"
+      ]
+    }
+  ]
+}

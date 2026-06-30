@@ -1,0 +1,102 @@
+{
+  "source_article_id": 642,
+  "lemmas": [
+    {
+      "lemma": "akustikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1440,
+      "is_sub_article": false,
+      "primary_translation": "acoustics",
+      "word_forms": [
+        {
+          "word_form": "akustikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$ku0$\"stIk",
+              "ipa": "ɑkʉˈstɪk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "akustikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$ku0$\"stI$k@n",
+              "ipa": "ɑkʉˈstɪkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "akustikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "akustikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "34dbe97b6150.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/34dbe97b6150.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/34dbe97b6150.mp3",
+            "text": "akustikk",
+            "source": "generated",
+            "content_sha256": "beb40e69e87f47d0ef14df8772f381f5da09a07401319221b6f6e05cb8004e3c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i i fysikk: læren om lyd(bølger)",
+      "translation": "the study of sound (waves)",
+      "examples": []
+    },
+    {
+      "text": "lydforhold i et rom",
+      "translation": "sound conditions in a room",
+      "examples": [
+        "det var god, dårlig akustikk i konsertsalen"
+      ]
+    }
+  ]
+}

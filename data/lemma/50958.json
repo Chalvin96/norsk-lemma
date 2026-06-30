@@ -1,0 +1,95 @@
+{
+  "source_article_id": 50958,
+  "lemmas": [
+    {
+      "lemma": "sensuell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 58645,
+      "is_sub_article": false,
+      "primary_translation": "sensual",
+      "word_forms": [
+        {
+          "word_form": "sensuell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@n$su0$\"El",
+              "ipa": "sənsʉˈɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sensuelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@n$su0$\"E$l@",
+              "ipa": "sənsʉˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sensuelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@n$su0$\"Elt",
+              "ipa": "sənsʉˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a767716fbe39.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a767716fbe39.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a767716fbe39.mp3",
+            "text": "sensuell",
+            "source": "generated",
+            "content_sha256": "bde3c5b66871df9c13d6ea3369b06dae1c505ff2166a8839ac3f034cb69ef39c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er preget av eller vitner om erotikk",
+      "translation": "characterized by or showing eroticism",
+      "examples": [
+        "ha sensuelle lepper",
+        "danse en sensuell tango"
+      ]
+    }
+  ]
+}

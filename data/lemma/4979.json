@@ -1,0 +1,111 @@
+{
+  "source_article_id": 4979,
+  "lemmas": [
+    {
+      "lemma": "begynner",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5832,
+      "is_sub_article": false,
+      "primary_translation": "beginner",
+      "word_forms": [
+        {
+          "word_form": "begynner",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"jY$n@r",
+              "ipa": "bəˈjʏnər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "begynneren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"jY$n@n`",
+              "ipa": "bəˈjʏnəɳ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "begynnere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"jY$n@$r@",
+              "ipa": "bəˈjʏnərə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "begynnerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"jY$n@$n`@",
+              "ipa": "bəˈjʏnəɳə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2790fe2a097a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2790fe2a097a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2790fe2a097a.mp3",
+            "text": "begynner",
+            "source": "generated",
+            "content_sha256": "308dd369eb66a72188a9819f80904bd7607d227fa1bab8d7c17d032281bd1d45",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som begynne med noe",
+      "translation": "person who starts something",
+      "examples": [
+        "et kurs for begynnere"
+      ]
+    }
+  ]
+}

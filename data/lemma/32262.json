@@ -1,0 +1,87 @@
+{
+  "source_article_id": 32262,
+  "lemmas": [
+    {
+      "lemma": "kromatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 37874,
+      "is_sub_article": false,
+      "primary_translation": "chromatic",
+      "word_forms": [
+        {
+          "word_form": "kromatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krU$\"mA:$tI$sk",
+              "ipa": "krʊˈmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kromatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krU$\"mA:$tI$sk@",
+              "ipa": "krʊˈmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d23742dc618f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d23742dc618f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d23742dc618f.mp3",
+            "text": "kromatisk",
+            "source": "generated",
+            "content_sha256": "a431b54ab21a22e0969959a1fb045331cf71cd52295760b0842972a1cb0acd4a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i musikk: som går i eller er delt inn i halvtonetrinn",
+      "translation": "in: proceeding in or divided into semitone steps",
+      "examples": [
+        "kromatisk skala"
+      ]
+    },
+    {
+      "text": "i fysikk: som gjelder farger og fargespredning",
+      "translation": "relating to colors and color dispersion",
+      "examples": [
+        "kromatisk avvik"
+      ]
+    }
+  ]
+}

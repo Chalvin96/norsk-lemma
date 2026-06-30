@@ -1,0 +1,103 @@
+{
+  "source_article_id": 123748,
+  "lemmas": [
+    {
+      "lemma": "nynning",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 126632,
+      "is_sub_article": false,
+      "primary_translation": "humming",
+      "word_forms": [
+        {
+          "word_form": "nynning",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nY$nIN",
+              "ipa": "ˈnʏnɪŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nynningen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nynninger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nynningene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nynninga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cc520171fa83.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc520171fa83.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc520171fa83.mp3",
+            "text": "nynning",
+            "source": "generated",
+            "content_sha256": "7390845810c14fcea86970d67d86f84e4e89bb41c39e7072d26893d08854b1ec",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å nynne",
+      "translation": "the act of humming",
+      "examples": [
+        "sangen starter med svak nynning"
+      ]
+    }
+  ]
+}

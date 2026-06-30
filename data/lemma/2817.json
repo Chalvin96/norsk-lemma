@@ -1,0 +1,82 @@
+{
+  "source_article_id": 2817,
+  "lemmas": [
+    {
+      "lemma": "artsfattig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3361,
+      "is_sub_article": false,
+      "primary_translation": "species-poor",
+      "word_forms": [
+        {
+          "word_form": "artsfattig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"At`s$%fA$tI",
+              "ipa": "ˈɑʈsˌfɑtɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "artsfattige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"At`s$%fA$tI$@",
+              "ipa": "ˈɑʈsˌfɑtɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f70bd3ffeeac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f70bd3ffeeac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f70bd3ffeeac.mp3",
+            "text": "artsfattig",
+            "source": "generated",
+            "content_sha256": "fab9a25f548e10a68ce083037afc81b801d52ba6a30f261afb772e211aa22d01",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det fins få arter i eller som har få arter",
+      "translation": "in which few species are found, having few species",
+      "examples": [
+        "en artsfattig sjøbunn",
+        "artsfattig bestand",
+        "bjørnefamilien er artsfattig"
+      ]
+    }
+  ]
+}

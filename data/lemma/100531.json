@@ -1,0 +1,76 @@
+{
+  "source_article_id": 100531,
+  "lemmas": [
+    {
+      "lemma": "samles",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 160111,
+      "is_sub_article": false,
+      "primary_translation": "gather / come together",
+      "word_forms": [
+        {
+          "word_form": "samles",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAm$l@s",
+              "ipa": "ˈsɑmləs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "samledes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "80ebf01d8b38.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/80ebf01d8b38.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/80ebf01d8b38.mp3",
+            "text": "samles",
+            "source": "generated",
+            "content_sha256": "1a3e86cdbdca7d72d683dc6204748729b1b16c97cf289c2951e605b90f6c021e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "komme sammen",
+      "translation": "to come together",
+      "examples": []
+    },
+    {
+      "text": "samle seg",
+      "translation": "to gather",
+      "examples": [
+        "hele familien samles rundt middagsbordet"
+      ]
+    }
+  ]
+}

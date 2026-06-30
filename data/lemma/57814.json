@@ -1,0 +1,114 @@
+{
+  "source_article_id": 57814,
+  "lemmas": [
+    {
+      "lemma": "strå",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 66152,
+      "is_sub_article": false,
+      "primary_translation": "straw / grass stem",
+      "word_forms": [
+        {
+          "word_form": "strå",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stro:",
+              "ipa": "ˈstroː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "strået",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stro:$@",
+              "ipa": "ˈstroːə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "stråa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stro:$A",
+              "ipa": "ˈstroːɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "stråene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stro:$@$n@",
+              "ipa": "ˈstroːənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a0db155525e8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0db155525e8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0db155525e8.mp3",
+            "text": "strå",
+            "source": "generated",
+            "content_sha256": "73890f5102cc4894b00eb2a03d5d94561bd05eb8c159424094fdc7415b078574",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(avrevet og tørket) stengel av gress",
+      "translation": "(detached and dried) stem of grass",
+      "examples": [
+        "tygge på et strå",
+        "byggen var kort i strået",
+        "et tak av strå"
+      ]
+    }
+  ]
+}

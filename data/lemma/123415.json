@@ -1,0 +1,66 @@
+{
+  "source_article_id": 123415,
+  "lemmas": [
+    {
+      "lemma": "Nav-ansatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2007369,
+      "is_sub_article": false,
+      "primary_translation": "Nav-employed",
+      "word_forms": [
+        {
+          "word_form": "Nav-ansatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "Nav-ansatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c79db366413a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c79db366413a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c79db366413a.mp3",
+            "text": "Nav-ansatt",
+            "source": "generated",
+            "content_sha256": "5afbb775aaa32de41feb6651a5ccb6f06a3bafdf5e9ca64ab46fbedc216c8b0d"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er ansatt på et Nav-kontor",
+      "translation": "employed at a Nav office",
+      "examples": [
+        "den Nav-ansatte mannen",
+        "bli ringt opp av en Nav-ansatt"
+      ]
+    }
+  ]
+}

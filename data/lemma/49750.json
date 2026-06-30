@@ -1,0 +1,118 @@
+{
+  "source_article_id": 49750,
+  "lemmas": [
+    {
+      "lemma": "salme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 57082,
+      "is_sub_article": false,
+      "primary_translation": "hymn",
+      "word_forms": [
+        {
+          "word_form": "salme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAl$m@",
+              "ipa": "ˈsɑlmə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "salmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAl$m@n",
+              "ipa": "ˈsɑlmən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "salmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAl$m@r",
+              "ipa": "ˈsɑlmər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "salmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAl$m@$n@",
+              "ipa": "ˈsɑlmənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ea792bd98fd6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea792bd98fd6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea792bd98fd6.mp3",
+            "text": "salme",
+            "source": "generated",
+            "content_sha256": "9176e2cf8dbab854d2fe49a9c651889aa73090fc7ebd57a36eee83141b07821e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sang som blir sunget ved gudstjeneste, under religiøse møter eller lignende",
+      "translation": "song sung at a church service, during religious meetings or similar",
+      "examples": [
+        "synge en salme av Petter Dass"
+      ]
+    },
+    {
+      "text": "sang fra Salmenes bok i Det gamle testamentet",
+      "translation": "song from the Book of Psalms in the Old Testament",
+      "examples": [
+        "Davids salmer"
+      ]
+    }
+  ]
+}

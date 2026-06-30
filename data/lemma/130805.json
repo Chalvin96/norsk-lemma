@@ -1,0 +1,102 @@
+{
+  "source_article_id": 130805,
+  "lemmas": [
+    {
+      "lemma": "survey",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2020371,
+      "is_sub_article": false,
+      "primary_translation": "survey",
+      "word_forms": [
+        {
+          "word_form": "survey",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s9$\"v{*I",
+              "ipa": "sœˈvæ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "surveyen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s2:r$vA*I$@n",
+              "ipa": "ˈsøːrvɑ͡ɪən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "surveyer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "surveyene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "990cb3f65d6d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/990cb3f65d6d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/990cb3f65d6d.mp3",
+            "text": "survey",
+            "source": "generated",
+            "content_sha256": "b86fa3a8784f03a5a836c6487eabea2fbf02de81c09f02fae677e3549345e26d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spørreundersøkelse",
+      "translation": "opinion poll",
+      "examples": []
+    },
+    {
+      "text": "jamfør surveyundersøkelse",
+      "translation": "survey research",
+      "examples": [
+        "surveyen er gjennomført i flere land"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_article_id": 26057,
+  "lemmas": [
+    {
+      "lemma": "indolent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31038,
+      "is_sub_article": false,
+      "primary_translation": "indolent / indifferent",
+      "word_forms": [
+        {
+          "word_form": "indolent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dU$\"lEnt",
+              "ipa": "ɪndʊˈlɛnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "indolente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dU$\"lEn$t@",
+              "ipa": "ɪndʊˈlɛntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "53bf1efbdef1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53bf1efbdef1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53bf1efbdef1.mp3",
+            "text": "indolent",
+            "source": "generated",
+            "content_sha256": "30d5a96fd7232e850e3a14e443c88cf861d5d04f91750c3473ac27e3134864a4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "treg treig, lat",
+      "translation": "slow, sluggish, lazy",
+      "examples": [
+        "han satt døsig og indolent i sofaen",
+        "under den indolente overflaten lå ambisjonene"
+      ]
+    }
+  ]
+}

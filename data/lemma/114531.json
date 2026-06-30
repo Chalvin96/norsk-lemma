@@ -1,0 +1,104 @@
+{
+  "source_article_id": 114531,
+  "lemmas": [
+    {
+      "lemma": "fyllingsgrad",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 165002,
+      "is_sub_article": false,
+      "primary_translation": "filling degree / occupancy rate",
+      "word_forms": [
+        {
+          "word_form": "fyllingsgrad",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fY$lIN$%sgrA:d",
+              "ipa": "ˈfʏlɪŋˌsgrɑːd",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fyllingsgraden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fY$lIN$%sgrA:$dn=",
+              "ipa": "ˈfʏlɪŋˌsgrɑːdn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fyllingsgrader",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "fyllingsgradene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ec43bd197a17.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec43bd197a17.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec43bd197a17.mp3",
+            "text": "fyllingsgrad",
+            "source": "generated",
+            "content_sha256": "07932e7bfadcfe51a86cf2652937736d5baa4379c13b5f99cd1fe09002d33db5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forhold mellom det aktuelle vanninnholdet i et reguleringsmagasin og vanninnholdet ved fullt magasin, målt i prosent av fullt magasin",
+      "translation": "ratio between the current water content in a reservoir and the water content when the reservoir is full, measured in percent of a full reservoir",
+      "examples": [
+        "fyllingsgraden i vannmagasinet er på 77 prosent"
+      ]
+    },
+    {
+      "text": "forhold mellom antall passasjerer på et kommunikasjonsmiddel og det tillatte antall",
+      "translation": "ratio between the number of passengers on a means of transport and the permitted number",
+      "examples": [
+        "fyllingsgraden på toget gjennom jula var høy"
+      ]
+    }
+  ]
+}

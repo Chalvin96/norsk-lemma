@@ -1,0 +1,81 @@
+{
+  "source_article_id": 3186,
+  "lemmas": [
+    {
+      "lemma": "audiologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3760,
+      "is_sub_article": false,
+      "primary_translation": "audiological",
+      "word_forms": [
+        {
+          "word_form": "audiologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$dI$U$\"lo:$gI$sk",
+              "ipa": "æ͡ʉdɪʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "audiologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$dI$U$\"lo:$gI$sk@",
+              "ipa": "æ͡ʉdɪʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2cce943580bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2cce943580bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2cce943580bf.mp3",
+            "text": "audiologisk",
+            "source": "generated",
+            "content_sha256": "d7f21e190f14c25eef5ec1b6017fa5a765bf7d45bc7173dee1b61da60813b19a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder audiologi",
+      "translation": "relating to audiology",
+      "examples": [
+        "et audiologisk laboratorium",
+        "audiologiske hjelpemidler"
+      ]
+    }
+  ]
+}

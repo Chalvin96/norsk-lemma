@@ -1,0 +1,82 @@
+{
+  "source_article_id": 111580,
+  "lemmas": [
+    {
+      "lemma": "direktesendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163407,
+      "is_sub_article": false,
+      "primary_translation": "live broadcast",
+      "word_forms": [
+        {
+          "word_form": "direktesendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"rEk$t@$%sEnt",
+              "ipa": "dɪˈrɛktəˌsɛnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "direktesendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"rEk$t@$%sEn$t@",
+              "ipa": "dɪˈrɛktəˌsɛntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f7bb24a62ee1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f7bb24a62ee1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f7bb24a62ee1.mp3",
+            "text": "direktesendt",
+            "source": "generated",
+            "content_sha256": "4b4dc563826673b2ad1ae3aec4ed1c7e29b95792e4c97ee5a23b197976f6211d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "overført som direktesending",
+      "translation": "broadcast live",
+      "examples": [
+        "direktesendt radio",
+        "et direktesendt intervju",
+        "se direktesendte fotballkamper på tv"
+      ]
+    }
+  ]
+}

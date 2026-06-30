@@ -1,0 +1,103 @@
+{
+  "source_article_id": 47673,
+  "lemmas": [
+    {
+      "lemma": "redaksjonell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54763,
+      "is_sub_article": false,
+      "primary_translation": "editorial",
+      "word_forms": [
+        {
+          "word_form": "redaksjonell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$dAk$SU$\"nEl",
+              "ipa": "rədɑkʃʊˈnɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "redaksjonelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$dAk$SU$\"nE$l@",
+              "ipa": "rədɑkʃʊˈnɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "redaksjonelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$dAk$SU$\"nElt",
+              "ipa": "rədɑkʃʊˈnɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e27a24faa730.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e27a24faa730.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e27a24faa730.mp3",
+            "text": "redaksjonell",
+            "source": "generated",
+            "content_sha256": "c6dbccd1635dbfb9fdb44901f4eab903781078e98cc6fdf88db39f5bf4885130",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til eller utgår fra en redaksjon",
+      "translation": "pertaining to or originating from an editorial office",
+      "examples": [
+        "en redaksjonell artikkel",
+        "redaksjonelt innhold",
+        "avisens redaksjonelle syn"
+      ]
+    },
+    {
+      "text": "som gjelder redigering",
+      "translation": "concerning editing",
+      "examples": [
+        "gjøre redaksjonelle endringer i en tekst"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "source_article_id": 16718,
+  "lemmas": [
+    {
+      "lemma": "forrest",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19387,
+      "is_sub_article": false,
+      "primary_translation": "foremost / first",
+      "word_forms": [
+        {
+          "word_form": "forrest",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fO$r@$st",
+              "ipa": "ˈfɔrəst",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forreste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fO$r@$st@",
+              "ipa": "ˈfɔrəstə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c5b41c641a9f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c5b41c641a9f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c5b41c641a9f.mp3",
+            "text": "forrest",
+            "source": "generated",
+            "content_sha256": "78d121f86d3223aeab5e015d6137c669de64b227a0a0af075072c5f29ca4fbcd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lengst fram",
+      "translation": "furthest forward",
+      "examples": [
+        "i forreste rekke",
+        "den forreste vogna på toget",
+        "sitte forrest i bussen",
+        "gå forrest i toget"
+      ]
+    }
+  ]
+}

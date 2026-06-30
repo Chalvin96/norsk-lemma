@@ -1,0 +1,87 @@
+{
+  "source_article_id": 47205,
+  "lemmas": [
+    {
+      "lemma": "rabid",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54259,
+      "is_sub_article": false,
+      "primary_translation": "rabid / very intense",
+      "word_forms": [
+        {
+          "word_form": "rabid",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rA$\"bi:d",
+              "ipa": "rɑˈbɪːd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "rabide",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rA$\"bi:$d@",
+              "ipa": "rɑˈbɪːdə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b07f8b94125a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b07f8b94125a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b07f8b94125a.mp3",
+            "text": "rabid",
+            "source": "generated",
+            "content_sha256": "4ee2ddbc889ac9331dead82d553bc31e5ed8f2e5554c68387e0e91d74f20e96e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er smittet av rabies",
+      "translation": "infected with rabies",
+      "examples": [
+        "en rabid rev"
+      ]
+    },
+    {
+      "text": "svært intens",
+      "translation": "very intense",
+      "examples": [
+        "rabide fans"
+      ]
+    }
+  ]
+}

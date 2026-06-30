@@ -1,0 +1,85 @@
+{
+  "source_article_id": 33344,
+  "lemmas": [
+    {
+      "lemma": "kymrisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 39139,
+      "is_sub_article": false,
+      "primary_translation": "Cymric / Welsh",
+      "word_forms": [
+        {
+          "word_form": "kymrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kYm$rI$sk",
+              "ipa": "ˈkʏmrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kymriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kYm$rI$sk@",
+              "ipa": "ˈkʏmrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7224048875ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7224048875ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7224048875ab.mp3",
+            "text": "kymrisk",
+            "source": "generated",
+            "content_sha256": "8475f96a5fab96fba07757f50e3220240a2df1ba64aa52cffc7e1745ba6c67a1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kymrer",
+      "translation": "relating to the Cymry",
+      "examples": []
+    },
+    {
+      "text": "velsk, walisisk",
+      "translation": "Welsh",
+      "examples": [
+        "kymrisk språk"
+      ]
+    }
+  ]
+}

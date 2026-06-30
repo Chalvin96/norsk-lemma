@@ -1,0 +1,119 @@
+{
+  "source_article_id": 19661,
+  "lemmas": [
+    {
+      "lemma": "gir",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 22944,
+      "is_sub_article": false,
+      "primary_translation": "gear / gear stick",
+      "word_forms": [
+        {
+          "word_form": "gir",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gi:r",
+              "ipa": "ˈgɪːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "giret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gi:$r@",
+              "ipa": "ˈgɪːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gira",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gi:$rA",
+              "ipa": "ˈgɪːrɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "girene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gi:$n`=$@",
+              "ipa": "ˈgɪːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5a9492395fec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a9492395fec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a9492395fec.mp3",
+            "text": "gir",
+            "source": "generated",
+            "content_sha256": "8af8aac0980daa3917c3a84d942a1ad8704b482cbae191df96a16dffb8ad686e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tannhjulsutveksling som overfører roterende bevegelser fra én veksel til en annen, og som tillater varierende hastighet",
+      "translation": "gear mechanism that transmits rotational motion from one shaft to another, allowing for varying speed",
+      "examples": []
+    },
+    {
+      "text": "jamfør utveksling",
+      "translation": "gear ratio",
+      "examples": [
+        "sette bilen i første gir",
+        "skifte gir",
+        "kjøpe sykkel med ti gir"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "source_article_id": 62051,
+  "lemmas": [
+    {
+      "lemma": "trekk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 70962,
+      "is_sub_article": false,
+      "primary_translation": "draft / airflow",
+      "word_forms": [
+        {
+          "word_form": "trekk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trEk",
+              "ipa": "ˈtrɛk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trekken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trE$k@n",
+              "ipa": "ˈtrɛkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trekker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"trE$k@r",
+              "ipa": "ˈtrɛkər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trekkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trE$k@$n@",
+              "ipa": "ˈtrɛkənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "69430e88bd07.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69430e88bd07.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69430e88bd07.mp3",
+            "text": "trekk",
+            "source": "generated",
+            "content_sha256": "d96f25d7b09c0f6e0b4308a44f3f5e417e341698c8f76c43c76a0a1520d4006e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "luftstrøm utenfra som lager et kaldt drag gjennom en dør, et vindu, en sprekk eller lignende",
+      "translation": "airflow from outside creating a cold draft through a door, window, or crack",
+      "examples": [
+        "det står trekk fra døra",
+        "kjenne trekken fra vinduet"
+      ]
+    },
+    {
+      "text": "tilførsel av luft til peis, ovn eller lignende",
+      "translation": "supply of air to a fireplace, stove, or the like",
+      "examples": [
+        "stenge for trekken",
+        "få god trekk i peisen"
+      ]
+    }
+  ]
+}

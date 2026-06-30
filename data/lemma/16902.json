@@ -1,0 +1,81 @@
+{
+  "source_article_id": 16902,
+  "lemmas": [
+    {
+      "lemma": "forslått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19622,
+      "is_sub_article": false,
+      "primary_translation": "bruised / injured",
+      "word_forms": [
+        {
+          "word_form": "forslått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"s`lOt",
+              "ipa": "fɔˈʂlɔt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forslåtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"s`lO$t@",
+              "ipa": "fɔˈʂlɔtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "141afe81b84b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/141afe81b84b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/141afe81b84b.mp3",
+            "text": "forslått",
+            "source": "generated",
+            "content_sha256": "ce62438ddf26a35e7059fd53c3f4a7253685099cb742b251b9bd5cdd8846468c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har slått seg eller blitt slått",
+      "translation": "having hurt oneself or been hurt",
+      "examples": [
+        "han var stygt forslått",
+        "bli funnet blodig og forslått"
+      ]
+    }
+  ]
+}

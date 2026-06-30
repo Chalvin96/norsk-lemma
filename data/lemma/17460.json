@@ -1,0 +1,99 @@
+{
+  "source_article_id": 17460,
+  "lemmas": [
+    {
+      "lemma": "fraktal",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 20234,
+      "is_sub_article": false,
+      "primary_translation": "fractal (adjective)",
+      "word_forms": [
+        {
+          "word_form": "fraktal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "frAk$\"tA:l",
+              "ipa": "frɑkˈtɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fraktale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "frAk$\"tA:$l@",
+              "ipa": "frɑkˈtɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fraktalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "frAk$\"tA:lt",
+              "ipa": "frɑkˈtɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "55256e3d352b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/55256e3d352b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/55256e3d352b.mp3",
+            "text": "fraktal",
+            "source": "generated",
+            "content_sha256": "3891333feb9e42333491d3dbd48d5325ee6702c0d7e124c75c89650c2c7dc0ee",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har egenskapene til en fraktal",
+      "translation": "having the properties of a fractal",
+      "examples": [
+        "fraktal geometri",
+        "fraktal kurve",
+        "fraktalt mønster"
+      ]
+    }
+  ]
+}

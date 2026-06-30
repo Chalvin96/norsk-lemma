@@ -1,0 +1,86 @@
+{
+  "source_article_id": 14028,
+  "lemmas": [
+    {
+      "lemma": "fatalistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 16261,
+      "is_sub_article": false,
+      "primary_translation": "fatalistic/accepting fate",
+      "word_forms": [
+        {
+          "word_form": "fatalistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$tA$\"lI$stI$sk",
+              "ipa": "fɑtɑˈlɪstɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fatalistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$tA$\"lI$stI$sk@",
+              "ipa": "fɑtɑˈlɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "01fccdf90844.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/01fccdf90844.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/01fccdf90844.mp3",
+            "text": "fatalistisk",
+            "source": "generated",
+            "content_sha256": "cf63bdb36952ec00b070b581dd48cf226aa09c50bdbcf8c3498a67f0076e0d78",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder fatalisme",
+      "translation": "relating to fatalism",
+      "examples": []
+    },
+    {
+      "text": "som finner seg i skjebnen",
+      "translation": "accepting one's fate",
+      "examples": [
+        "ha et fatalistisk syn på tilværelsen",
+        "med fatalistisk ro"
+      ]
+    }
+  ]
+}

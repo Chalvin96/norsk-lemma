@@ -1,0 +1,86 @@
+{
+  "source_article_id": 10410,
+  "lemmas": [
+    {
+      "lemma": "djevelsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12153,
+      "is_sub_article": false,
+      "primary_translation": "devilish / eerie / insidious",
+      "word_forms": [
+        {
+          "word_form": "djevelsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dje:$v@lsk",
+              "ipa": "ˈdjeːvəlsk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "djevelske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dje:$v@l$sk@",
+              "ipa": "ˈdjeːvəlskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e90a711918d2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e90a711918d2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e90a711918d2.mp3",
+            "text": "djevelsk",
+            "source": "generated",
+            "content_sha256": "2fc3e8058ebef31225245c0db6abd8d233c89e07d56453a14c5eb72ddd96fc37",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ligner eller minner om djevelen",
+      "translation": "resembling or reminiscent of the devil",
+      "examples": []
+    },
+    {
+      "text": "utspekulert ond",
+      "translation": "eerie",
+      "examples": [
+        "djevelske makter",
+        "en djevelsk plan"
+      ]
+    }
+  ]
+}

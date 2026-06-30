@@ -1,0 +1,102 @@
+{
+  "source_article_id": 43181,
+  "lemmas": [
+    {
+      "lemma": "optikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 50036,
+      "is_sub_article": false,
+      "primary_translation": "optics",
+      "word_forms": [
+        {
+          "word_form": "optikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Op$\"tIk",
+              "ipa": "ɔpˈtɪk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "optikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Op$\"tI$k@n",
+              "ipa": "ɔpˈtɪkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "optikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "optikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "895be0acefc7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/895be0acefc7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/895be0acefc7.mp3",
+            "text": "optikk",
+            "source": "generated",
+            "content_sha256": "05ce15fd83bddc33d669308550a193d8f768c0f17d2f722acf337e4d0e385ae6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lære om lyset og synsfenomenene",
+      "translation": "study of light and visual phenomena",
+      "examples": []
+    },
+    {
+      "text": "linsesystem i et optisk instrument",
+      "translation": "lens system in an optical instrument",
+      "examples": [
+        "kameraet har en avansert optikk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source_article_id": 2802,
+  "lemmas": [
+    {
+      "lemma": "artistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3347,
+      "is_sub_article": false,
+      "primary_translation": "artistic",
+      "word_forms": [
+        {
+          "word_form": "artistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"t`I$stI$sk",
+              "ipa": "ɑˈʈɪstɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "artistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"t`I$stI$sk@",
+              "ipa": "ɑˈʈɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "591936c22e53.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/591936c22e53.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/591936c22e53.mp3",
+            "text": "artistisk",
+            "source": "generated",
+            "content_sha256": "104b62b7e7a172244e75b73006fcf8ad2e75acb98b788978b8d04aef873bbb6e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kunsterisk form",
+      "translation": "concerning artistic form",
+      "examples": [
+        "en forestilling med artistisk preg"
+      ]
+    },
+    {
+      "text": "som gjelder virksomhet som artist",
+      "translation": "concerning the activity of an artist",
+      "examples": [
+        "artistisk direktør for musikkfestivalen",
+        "artistisk dyktighet",
+        "en artistisk utformet skisse"
+      ]
+    }
+  ]
+}

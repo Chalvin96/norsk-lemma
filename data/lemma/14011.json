@@ -1,0 +1,80 @@
+{
+  "source_article_id": 14011,
+  "lemmas": [
+    {
+      "lemma": "fastklemt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 16240,
+      "is_sub_article": false,
+      "primary_translation": "wedged fast",
+      "word_forms": [
+        {
+          "word_form": "fastklemt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fA$%stklEmt",
+              "ipa": "ˈfɑˌstklɛmt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fastklemte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fA$%stklEm$t@",
+              "ipa": "ˈfɑˌstklɛmtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7f82931f9cfd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7f82931f9cfd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7f82931f9cfd.mp3",
+            "text": "fastklemt",
+            "source": "generated",
+            "content_sha256": "1ef00d4aa4679673f2745ad96852626231459b9428fa11d526e397c0129f3ad9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "klemt fast",
+      "translation": "wedged fast",
+      "examples": [
+        "han satt fastklemt i bilen etter kollisjonen"
+      ]
+    }
+  ]
+}

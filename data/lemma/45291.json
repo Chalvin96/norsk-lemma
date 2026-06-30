@@ -1,0 +1,111 @@
+{
+  "source_article_id": 45291,
+  "lemmas": [
+    {
+      "lemma": "plosiv",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 52271,
+      "is_sub_article": false,
+      "primary_translation": "stop consonant",
+      "word_forms": [
+        {
+          "word_form": "plosiv",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "plU$\"si:v",
+              "ipa": "plʊˈsɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "plosiven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "plU$\"si:$v@n",
+              "ipa": "plʊˈsɪːvən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "plosiver",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "plU$\"si:$v@r",
+              "ipa": "plʊˈsɪːvər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "plosivene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "plU$\"si:$v@$n@",
+              "ipa": "plʊˈsɪːvənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d170f6eb3bfc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d170f6eb3bfc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d170f6eb3bfc.mp3",
+            "text": "plosiv",
+            "source": "generated",
+            "content_sha256": "8ddc3e3213f11342bb61b657fbf2e01d0037aa84908304f986df2ded069adac7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språklyd som dannes ved stenging og plutselig åpning av luftstrømmen",
+      "translation": "speech sound formed by stopping and suddenly releasing the airflow",
+      "examples": [
+        "‘k’ er en plosiv"
+      ]
+    }
+  ]
+}

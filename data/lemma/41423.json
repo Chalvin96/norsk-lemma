@@ -1,0 +1,80 @@
+{
+  "source_article_id": 41423,
+  "lemmas": [
+    {
+      "lemma": "nytestamentlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48421,
+      "is_sub_article": false,
+      "primary_translation": "New Testament",
+      "word_forms": [
+        {
+          "word_form": "nytestamentlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$t@$stA$%mEnt$lI",
+              "ipa": "ˈnyːtəstɑˌmɛntlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nytestamentlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$t@$stA$%mEnt$lI$@",
+              "ipa": "ˈnyːtəstɑˌmɛntlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0446db2ad149.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0446db2ad149.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0446db2ad149.mp3",
+            "text": "nytestamentlig",
+            "source": "generated",
+            "content_sha256": "8ce14cababb52687b0d8bc37d0893400ad894cb9ba7b90bad0afa598bd1c6a70",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Det nye testamentet",
+      "translation": "pertaining to the New Testament",
+      "examples": [
+        "de nytestamentlige skriftene"
+      ]
+    }
+  ]
+}

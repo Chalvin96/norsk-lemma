@@ -1,0 +1,80 @@
+{
+  "source_article_id": 8076,
+  "lemmas": [
+    {
+      "lemma": "bulgarsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 9597,
+      "is_sub_article": false,
+      "primary_translation": "Bulgarian",
+      "word_forms": [
+        {
+          "word_form": "bulgarsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bu0l$gA$s`k",
+              "ipa": "ˈbʉlgɑʂk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bulgarske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bu0l$\"gA:$s`k@",
+              "ipa": "bʉlˈgɑːʂkə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8db96e78c646.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8db96e78c646.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8db96e78c646.mp3",
+            "text": "bulgarsk",
+            "source": "generated",
+            "content_sha256": "37617a6a29d50dc0b2e9a982399defe379a12c390e0855e44e638e4d3c5adf2b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Bulgaria og bulgarere",
+      "translation": "concerning Bulgaria and Bulgarians",
+      "examples": [
+        "en bulgarsk landsby"
+      ]
+    }
+  ]
+}

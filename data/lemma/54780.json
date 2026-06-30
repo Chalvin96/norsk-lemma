@@ -1,0 +1,80 @@
+{
+  "source_article_id": 54780,
+  "lemmas": [
+    {
+      "lemma": "smeltelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 63112,
+      "is_sub_article": false,
+      "primary_translation": "meltable",
+      "word_forms": [
+        {
+          "word_form": "smeltelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smEl$t@$lI",
+              "ipa": "ˈsmɛltəlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "smeltelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smEl$t@$lI$@",
+              "ipa": "ˈsmɛltəlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "314517d01d81.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/314517d01d81.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/314517d01d81.mp3",
+            "text": "smeltelig",
+            "source": "generated",
+            "content_sha256": "e497ba026348bdd0ddd9e528c1a5e44df73e22c3d53378bb58d4150948561c02",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lar seg smelte",
+      "translation": "that can be melted",
+      "examples": [
+        "et lett smeltelig metall"
+      ]
+    }
+  ]
+}

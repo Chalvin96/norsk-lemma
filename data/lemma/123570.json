@@ -1,0 +1,83 @@
+{
+  "source_article_id": 123570,
+  "lemmas": [
+    {
+      "lemma": "nybyggersamfunn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 126507,
+      "is_sub_article": false,
+      "primary_translation": "settler community",
+      "word_forms": [
+        {
+          "word_form": "nybyggersamfunn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nybyggersamfunnet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nybyggersamfunna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nybyggersamfunnene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ce8c6b7db134.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce8c6b7db134.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce8c6b7db134.mp3",
+            "text": "nybyggersamfunn",
+            "source": "generated",
+            "content_sha256": "c34c7fd0c9cd9616702f3d6ed8099b8e0f33d48a1a90f728b072d82bbbfc837f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "samfunn av nybygger",
+      "translation": "community of settlers",
+      "examples": [
+        "de norske nybyggersamfunnene i Midtvesten"
+      ]
+    }
+  ]
+}

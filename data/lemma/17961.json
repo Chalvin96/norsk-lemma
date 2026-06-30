@@ -1,0 +1,112 @@
+{
+  "source_article_id": 17961,
+  "lemmas": [
+    {
+      "lemma": "fridag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 21046,
+      "is_sub_article": false,
+      "primary_translation": "day off",
+      "word_forms": [
+        {
+          "word_form": "fridag",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fri:$%dA:g",
+              "ipa": "ˈfrɪːˌdɑːg",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fridagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fri:$%dA:$g@n",
+              "ipa": "ˈfrɪːˌdɑːgən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fridager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fri:$%dA:$g@r",
+              "ipa": "ˈfrɪːˌdɑːgər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fridagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fri:$%dA:$g@$n@",
+              "ipa": "ˈfrɪːˌdɑːgənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a62342542490.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a62342542490.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a62342542490.mp3",
+            "text": "fridag",
+            "source": "generated",
+            "content_sha256": "6a3caee984b674e1eb7842d7d36245db367215cebe42bf8ff71035084f8340fd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dag da en har fri fra arbeid, skole eller andre plikter",
+      "translation": "day off from work, school, or other duties",
+      "examples": [
+        "ta seg en fridag",
+        "det er min fridag"
+      ]
+    }
+  ]
+}

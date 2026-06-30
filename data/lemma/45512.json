@@ -1,0 +1,100 @@
+{
+  "source_article_id": 45512,
+  "lemmas": [
+    {
+      "lemma": "polyfoni",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 52498,
+      "is_sub_article": false,
+      "primary_translation": "polyphony / homophony",
+      "word_forms": [
+        {
+          "word_form": "polyfoni",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$fU$\"ni:",
+              "ipa": "pʊlɪfʊˈnɪː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "polyfonien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$fU$\"ni:$@n",
+              "ipa": "pʊlɪfʊˈnɪːən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "polyfonier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "polyfoniene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "553d6c8c7edb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/553d6c8c7edb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/553d6c8c7edb.mp3",
+            "text": "polyfoni",
+            "source": "generated",
+            "content_sha256": "6a06ad7d995d78f599f0f9ddd2eabd2c5437351d6033adf4eac9d524f005edd6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "musikk der to eller flere stemmer blir framført samtidig",
+      "translation": "music where two or more voices are performed simultaneously",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra homofoni",
+      "translation": "homophony",
+      "examples": []
+    }
+  ]
+}

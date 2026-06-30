@@ -1,0 +1,97 @@
+{
+  "source_article_id": 131442,
+  "lemmas": [
+    {
+      "lemma": "tankflåte",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 145080,
+      "is_sub_article": false,
+      "primary_translation": "tanker fleet",
+      "word_forms": [
+        {
+          "word_form": "tankflåte",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tANk$%flo:$t@",
+              "ipa": "ˈtɑŋkˌfloːtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tankflåten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tANk$%flo:$tn=",
+              "ipa": "ˈtɑŋkˌfloːtn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tankflåter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "tankflåtene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "61b9fd3fc1c8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/61b9fd3fc1c8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/61b9fd3fc1c8.mp3",
+            "text": "tankflåte",
+            "source": "generated",
+            "content_sha256": "4133d52f7ed1350778c71e95b9609955798450e2e9045eb38d9eedfef0381f3c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "flåte av tankskip",
+      "translation": "fleet of tankers",
+      "examples": [
+        "den norske tankflåten"
+      ]
+    }
+  ]
+}

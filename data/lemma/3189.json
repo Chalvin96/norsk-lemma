@@ -1,0 +1,111 @@
+{
+  "source_article_id": 3189,
+  "lemmas": [
+    {
+      "lemma": "auditiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3763,
+      "is_sub_article": false,
+      "primary_translation": "auditory",
+      "word_forms": [
+        {
+          "word_form": "auditiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E*u0$dI$%ti:v",
+              "ipa": "ˈæ͡ʉdɪˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "auditive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E*u0$dI$%ti:$v@",
+              "ipa": "ˈæ͡ʉdɪˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "auditivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E*u0$dI$%ti:vt",
+              "ipa": "ˈæ͡ʉdɪˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3ead8a7d8807.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ead8a7d8807.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ead8a7d8807.mp3",
+            "text": "auditiv",
+            "source": "generated",
+            "content_sha256": "b87b77d41b6282e99c55e9763c886ddcea435d7083a531b076559ec304719c43",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder hørselen",
+      "translation": "relating to hearing",
+      "examples": [
+        "auditive virkemidler",
+        "auditiv stimulering",
+        "auditive hallusinasjoner"
+      ]
+    },
+    {
+      "text": "om person: som oppfatter, husker og lærer best ved hjelp av hørselen",
+      "translation": "for a person: perceiving, remembering, and learning best through hearing",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra motorisk og visuell",
+      "translation": "as opposed to motor or visual",
+      "examples": [
+        "et auditivt barn"
+      ]
+    }
+  ]
+}

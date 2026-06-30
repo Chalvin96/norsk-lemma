@@ -1,0 +1,80 @@
+{
+  "source_article_id": 27479,
+  "lemmas": [
+    {
+      "lemma": "jambisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32577,
+      "is_sub_article": false,
+      "primary_translation": "iambic",
+      "word_forms": [
+        {
+          "word_form": "jambisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jAm$bI$sk",
+              "ipa": "ˈjɑmbɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jambiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jAm$bI$sk@",
+              "ipa": "ˈjɑmbɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a6bea14731a8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6bea14731a8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6bea14731a8.mp3",
+            "text": "jambisk",
+            "source": "generated",
+            "content_sha256": "0d9e55788ca55e433b492f6260bc40a9687280baf40e05819d2263d34874fc2a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er basert på jambe",
+      "translation": "based on a iamb",
+      "examples": [
+        "jambisk versemål"
+      ]
+    }
+  ]
+}

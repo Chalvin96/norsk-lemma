@@ -1,0 +1,92 @@
+{
+  "source_article_id": 25206,
+  "lemmas": [
+    {
+      "lemma": "høres",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 30123,
+      "is_sub_article": false,
+      "primary_translation": "to sound / to seem",
+      "word_forms": [
+        {
+          "word_form": "høres",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$r@s",
+              "ipa": "ˈhøːrəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hørtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$t`@s",
+              "ipa": "ˈhøːʈəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0ef6e4ddc38d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0ef6e4ddc38d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0ef6e4ddc38d.mp3",
+            "text": "høres",
+            "source": "generated",
+            "content_sha256": "2824a1461aa0f5cc386f0fc6631a7d4d01bb2dbe0e986e5a247767b934b71eeb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lyde slik at en oppfatter det",
+      "translation": "to sound so that one perceives it",
+      "examples": [
+        "bankingen hørtes gjennom veggen",
+        "det høres på dialekten"
+      ]
+    },
+    {
+      "text": "gi inntrykk av",
+      "translation": "to give the impression of",
+      "examples": []
+    },
+    {
+      "text": "låte, virke, framstå fremstå",
+      "translation": "to sound, seem, appear",
+      "examples": [
+        "det høres enkelt ut",
+        "vi hørtes sikkert helt latterlige ut"
+      ]
+    }
+  ]
+}

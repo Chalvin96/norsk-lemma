@@ -1,0 +1,80 @@
+{
+  "source_article_id": 55551,
+  "lemmas": [
+    {
+      "lemma": "solvendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 63955,
+      "is_sub_article": false,
+      "primary_translation": "sun-facing / south-facing",
+      "word_forms": [
+        {
+          "word_form": "solvendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"su:l$%vEnt",
+              "ipa": "ˈsuːlˌvɛnt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "solvendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"su:l$%vEn$t@",
+              "ipa": "ˈsuːlˌvɛntə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "db9dac388c3c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db9dac388c3c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db9dac388c3c.mp3",
+            "text": "solvendt",
+            "source": "generated",
+            "content_sha256": "6f4656d11f1dea0ac24e6349207e0426a62e189db0824e183c81691ca0abbb32",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som vender mot sola",
+      "translation": "facing the sun",
+      "examples": [
+        "huset har stor, solvendt terasse"
+      ]
+    }
+  ]
+}

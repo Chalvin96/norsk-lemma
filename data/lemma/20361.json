@@ -1,0 +1,93 @@
+{
+  "source_article_id": 20361,
+  "lemmas": [
+    {
+      "lemma": "g-moll",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 22011,
+      "is_sub_article": false,
+      "primary_translation": "G minor",
+      "word_forms": [
+        {
+          "word_form": "g-moll",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ge:$%mOl",
+              "ipa": "ˈgeːˌmɔl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "g-mollen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "g-moller",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "g-mollene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "12f2e8100d87.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/12f2e8100d87.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/12f2e8100d87.mp3",
+            "text": "g-moll",
+            "source": "generated",
+            "content_sha256": "fa54a351a7df16b39d69ccad93b9d7bee092ac81d45deaf117375e3d0a87c85a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "toneart med G g til grunntone og B b for h og e",
+      "translation": "key with G as the root note and B for H and E",
+      "examples": []
+    },
+    {
+      "text": "parallelltoneart til B-dur",
+      "translation": "relative minor key to B major",
+      "examples": []
+    }
+  ]
+}

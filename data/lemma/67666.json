@@ -1,0 +1,93 @@
+{
+  "source_article_id": 67666,
+  "lemmas": [
+    {
+      "lemma": "ventelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 78126,
+      "is_sub_article": false,
+      "primary_translation": "expected / reasonable / likely",
+      "word_forms": [
+        {
+          "word_form": "ventelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEn$t@$lI",
+              "ipa": "ˈvɛntəlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ventelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEn$t@$lI$@",
+              "ipa": "ˈvɛntəlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ca646950cd38.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca646950cd38.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca646950cd38.mp3",
+            "text": "ventelig",
+            "source": "generated",
+            "content_sha256": "fd5105256c1f0180e7f6a7ae3b38409e01878ba3fb17fbfa84c7ccc294528230",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er å vente",
+      "translation": "that is to be expected",
+      "examples": []
+    },
+    {
+      "text": "rimelig",
+      "translation": "reasonable",
+      "examples": [
+        "det var ventelig, det"
+      ]
+    },
+    {
+      "text": "brukt som adverb: trolig trulig, sannsynligvis",
+      "translation": "used: probably, likely",
+      "examples": [
+        "prisene vil ventelig stadig gå opp",
+        "det er ventelig for sent"
+      ]
+    }
+  ]
+}

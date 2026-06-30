@@ -1,0 +1,86 @@
+{
+  "source_article_id": 9601,
+  "lemmas": [
+    {
+      "lemma": "delaktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11313,
+      "is_sub_article": false,
+      "primary_translation": "involved / co-responsible / complicit",
+      "word_forms": [
+        {
+          "word_form": "delaktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"lAk$tI",
+              "ipa": "dəˈlɑktɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "delaktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"lAk$tI$@",
+              "ipa": "dəˈlɑktɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2ee955726a8c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ee955726a8c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ee955726a8c.mp3",
+            "text": "delaktig",
+            "source": "generated",
+            "content_sha256": "4e6409251f4710ce8e6f179f2b2b6710296400bce8fee773061bff9852ac74b6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er med på eller er innblandet i",
+      "translation": "being part of or involved in",
+      "examples": []
+    },
+    {
+      "text": "medansvarlig, medskyldig, implisere",
+      "translation": "co-responsible, complicit, imply",
+      "examples": [
+        "være delaktig i smugling",
+        "la publikum føle seg delaktig i forestillingen"
+      ]
+    }
+  ]
+}

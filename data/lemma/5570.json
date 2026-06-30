@@ -1,0 +1,98 @@
+{
+  "source_article_id": 5570,
+  "lemmas": [
+    {
+      "lemma": "bestyr",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 6547,
+      "is_sub_article": false,
+      "primary_translation": "care / trouble",
+      "word_forms": [
+        {
+          "word_form": "bestyr",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"sty:r",
+              "ipa": "bəˈstyːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bestyret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "bestyra",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "bestyrene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ac7466f12196.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac7466f12196.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac7466f12196.mp3",
+            "text": "bestyr",
+            "source": "generated",
+            "content_sha256": "8256f59f6d46a1d3fe26ea5033e48db81959cab4d75ca1bfea7eda855ca27ae2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stell, syssel",
+      "translation": "care, business",
+      "examples": [
+        "hun har nok med det daglige bestyr"
+      ]
+    },
+    {
+      "text": "bry, oppstyr",
+      "translation": "trouble, fuss",
+      "examples": [
+        "volde bestyr"
+      ]
+    }
+  ]
+}

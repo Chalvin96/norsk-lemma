@@ -1,0 +1,80 @@
+{
+  "source_article_id": 67005,
+  "lemmas": [
+    {
+      "lemma": "vatikansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77221,
+      "is_sub_article": false,
+      "primary_translation": "Vatican",
+      "word_forms": [
+        {
+          "word_form": "vatikansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vA$tI$\"kA:nsk",
+              "ipa": "vɑtɪˈkɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vatikanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vA$tI$\"kA:n$sk@",
+              "ipa": "vɑtɪˈkɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c2cb474afb91.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2cb474afb91.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2cb474afb91.mp3",
+            "text": "vatikansk",
+            "source": "generated",
+            "content_sha256": "236f7dce33b3472b535e43eb184aa35587782ef637dab5ce6f60300075f65e98",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller hører til Vatikanet",
+      "translation": "relating to or belonging to the Vatican",
+      "examples": [
+        "det vatikanske arkivet"
+      ]
+    }
+  ]
+}

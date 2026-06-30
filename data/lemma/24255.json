@@ -1,0 +1,118 @@
+{
+  "source_article_id": 24255,
+  "lemmas": [
+    {
+      "lemma": "hoste",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 28610,
+      "is_sub_article": false,
+      "primary_translation": "cough",
+      "word_forms": [
+        {
+          "word_form": "hoste",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hU$st@",
+              "ipa": "ˈhʊstə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hosten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hU$stn=",
+              "ipa": "ˈhʊstn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hoster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hU$st@r",
+              "ipa": "ˈhʊstər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hostene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hU$stn=$@",
+              "ipa": "ˈhʊstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "93a7b08b5fb7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93a7b08b5fb7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93a7b08b5fb7.mp3",
+            "text": "hoste",
+            "source": "generated",
+            "content_sha256": "fcf7cbf5322c5f53529a96d1e5b2b3410261147132b75799dbae24a2e6e7a278",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å hoste",
+      "translation": "the act of coughing",
+      "examples": []
+    },
+    {
+      "text": "tilstand da en hoster",
+      "translation": "condition of coughing",
+      "examples": [
+        "han er plaget av en stygg hoste",
+        "hosten holdt henne våken om natten",
+        "hoste er et typisk symptom på bronkitt"
+      ]
+    }
+  ]
+}

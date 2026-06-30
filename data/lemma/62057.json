@@ -1,0 +1,101 @@
+{
+  "source_article_id": 62057,
+  "lemmas": [
+    {
+      "lemma": "trekkfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 70969,
+      "is_sub_article": false,
+      "primary_translation": "draft-free / tax-exempt",
+      "word_forms": [
+        {
+          "word_form": "trekkfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trEk$%fri:",
+              "ipa": "ˈtrɛkˌfrɪː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trekkfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trEk$%fri:$@",
+              "ipa": "ˈtrɛkˌfrɪːə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trekkfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trEk$%frIt",
+              "ipa": "ˈtrɛkˌfrɪt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "156683c03c54.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/156683c03c54.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/156683c03c54.mp3",
+            "text": "trekkfri",
+            "source": "generated",
+            "content_sha256": "b707d099c891a7f65724a3a979c9f2afb6f2a957545e64c05308c58bd16599f6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke gir eller har trekk",
+      "translation": "that does not give or have drafts",
+      "examples": [
+        "trekkfrie vinduer"
+      ]
+    },
+    {
+      "text": "som det ikke blir trukket skatt eller lignende av",
+      "translation": "from which no tax or similar is deducted",
+      "examples": [
+        "få trekkfri kostgodtgjøring"
+      ]
+    }
+  ]
+}

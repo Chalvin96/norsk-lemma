@@ -1,0 +1,91 @@
+{
+  "source_article_id": 1593,
+  "lemmas": [
+    {
+      "lemma": "anaforisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2062,
+      "is_sub_article": false,
+      "primary_translation": "anaphoric (referring back)",
+      "word_forms": [
+        {
+          "word_form": "anaforisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$nA$\"fu:$rI$sk",
+              "ipa": "ɑnɑˈfuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "anaforiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$nA$\"fu:$rI$sk@",
+              "ipa": "ɑnɑˈfuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f3fbf676f48.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f3fbf676f48.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f3fbf676f48.mp3",
+            "text": "anaforisk",
+            "source": "generated",
+            "content_sha256": "a2de937d67e7b07174157a6774a27c78e0a6fd0d45bc4e7212af82409ed135c3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om stil: som bruker anaforer",
+      "translation": "in style: using anaphora",
+      "examples": []
+    },
+    {
+      "text": "som viser tilbake til noe tidligere i den språklige konteksten",
+      "translation": "referring back to something earlier in the linguistic context",
+      "examples": []
+    },
+    {
+      "text": "for eksempel hun som viser tilbake til jenta i setningen",
+      "translation": "for example, 'she' referring back to 'the girl' in the sentence",
+      "examples": [
+        "jenta slo seg, men hun gråt ikke",
+        "anaforiske pronomen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_article_id": 9886,
+  "lemmas": [
+    {
+      "lemma": "despotisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11612,
+      "is_sub_article": false,
+      "primary_translation": "despotic / domineering",
+      "word_forms": [
+        {
+          "word_form": "despotisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"spu:$tI$sk",
+              "ipa": "dəˈspuːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "despotiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"spu:$tI$sk@",
+              "ipa": "dəˈspuːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1cadbfc7937d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1cadbfc7937d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1cadbfc7937d.mp3",
+            "text": "despotisk",
+            "source": "generated",
+            "content_sha256": "01f7cc4d930d5c4c9ab9e55202a423c7913bc28649a9b3a9b2d0d8bc16a38ba9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "eneveldig, tyrannisk",
+      "translation": "absolute, tyrannical",
+      "examples": [
+        "et despotisk styre",
+        "en despotisk far"
+      ]
+    }
+  ]
+}

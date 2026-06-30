@@ -1,0 +1,95 @@
+{
+  "source_article_id": 39129,
+  "lemmas": [
+    {
+      "lemma": "morsarv",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45880,
+      "is_sub_article": false,
+      "primary_translation": "maternal inheritance",
+      "word_forms": [
+        {
+          "word_form": "morsarv",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu:$%s`Arv",
+              "ipa": "ˈmuːˌʂɑrv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morsarven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu:$%s`Ar$v@n",
+              "ipa": "ˈmuːˌʂɑrvən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morsarver",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "morsarvene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4e77b0848d81.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e77b0848d81.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e77b0848d81.mp3",
+            "text": "morsarv",
+            "source": "generated",
+            "content_sha256": "d75bcbfa322ebd4b0f7737ac3720d015defa425f2583b516d98852a7b95865e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "arv fra mor til barn",
+      "translation": "inheritance from mother to child",
+      "examples": []
+    }
+  ]
+}

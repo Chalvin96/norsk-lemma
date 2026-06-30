@@ -1,0 +1,94 @@
+{
+  "source_article_id": 69303,
+  "lemmas": [
+    {
+      "lemma": "vågsom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 79888,
+      "is_sub_article": false,
+      "primary_translation": "daring, risky",
+      "word_forms": [
+        {
+          "word_form": "vågsom",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vo:g$sOm",
+              "ipa": "ˈvoːgsɔm",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vågsomme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vo:g$sO$m@",
+              "ipa": "ˈvoːgsɔmə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vågsomt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vo:g$sOmt",
+              "ipa": "ˈvoːgsɔmt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9020ab4a011b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9020ab4a011b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9020ab4a011b.mp3",
+            "text": "vågsom",
+            "source": "generated",
+            "content_sha256": "d412fcd2b70bdb40db78b64f842706609e596237f7afa64e86e8b95149d96d39",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dristig, risikabel",
+      "translation": "daring, risky",
+      "examples": [
+        "vågsom fjellklatring"
+      ]
+    }
+  ]
+}

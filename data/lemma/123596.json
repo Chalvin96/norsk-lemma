@@ -1,0 +1,80 @@
+{
+  "source_article_id": 123596,
+  "lemmas": [
+    {
+      "lemma": "nykokt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 126613,
+      "is_sub_article": false,
+      "primary_translation": "freshly boiled",
+      "word_forms": [
+        {
+          "word_form": "nykokt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%kUkt",
+              "ipa": "ˈnyːˌkʊkt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nykokte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%kUk$t@",
+              "ipa": "ˈnyːˌkʊktə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fb2685bf74a1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb2685bf74a1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb2685bf74a1.mp3",
+            "text": "nykokt",
+            "source": "generated",
+            "content_sha256": "cb6a616adc65b79638dad19e6c9f21e888540f075a8b7c8e57e0e1d5f3dc1ca9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som nettopp har koke",
+      "translation": "that has just been boiled",
+      "examples": [
+        "kaffen er nykokt"
+      ]
+    }
+  ]
+}

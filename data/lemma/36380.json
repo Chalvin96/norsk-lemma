@@ -1,0 +1,80 @@
+{
+  "source_article_id": 36380,
+  "lemmas": [
+    {
+      "lemma": "lysregulert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42226,
+      "is_sub_article": false,
+      "primary_translation": "traffic-light-controlled",
+      "word_forms": [
+        {
+          "word_form": "lysregulert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:s$r@$gu0$%le:t`",
+              "ipa": "ˈlyːsrəgʉˌleːʈ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lysregulerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:s$r@$gu0$%le:$t`@",
+              "ipa": "ˈlyːsrəgʉˌleːʈə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dc87a20fdfea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc87a20fdfea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc87a20fdfea.mp3",
+            "text": "lysregulert",
+            "source": "generated",
+            "content_sha256": "5af113cbd638ecbb761bf16412ab7e984e4b8f32dc576446baa6c647a81ad18c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bruker trafikklys for å regulere trafikken",
+      "translation": "regulated by traffic lights",
+      "examples": [
+        "krysset er lysregulert"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 59510,
+  "lemmas": [
+    {
+      "lemma": "tabellarisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68136,
+      "is_sub_article": false,
+      "primary_translation": "tabular",
+      "word_forms": [
+        {
+          "word_form": "tabellarisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$b@$\"lA:$rI$sk",
+              "ipa": "tɑbəˈlɑːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tabellariske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$b@$\"lA:$rI$sk@",
+              "ipa": "tɑbəˈlɑːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9ecdae0d8cbc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ecdae0d8cbc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ecdae0d8cbc.mp3",
+            "text": "tabellarisk",
+            "source": "generated",
+            "content_sha256": "7c63334ef8ecbee7e885b264ab4cf17a5971312a984ecde5d1b4937a518baee8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i tabellform",
+      "translation": "in table form",
+      "examples": [
+        "en tabellarisk oversikt over årsregnskapet"
+      ]
+    }
+  ]
+}

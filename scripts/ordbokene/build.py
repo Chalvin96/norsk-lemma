@@ -4,7 +4,7 @@ from collections import defaultdict, deque
 from typing import Any
 
 from .extract import extract_cross_reference, extract_definitions
-from .settings import KNOWN_POS
+from .settings import KNOWN_POS, UD_TAG_ALIASES
 
 MORPHOLOGY_TAGS = {
     "Masc": "Masc",
@@ -60,11 +60,12 @@ def build_lemma(
             if isinstance(paradigm, dict):
                 tags.extend(str(tag) for tag in paradigm.get("tags", []))
 
-        pos = next((tag for tag in tags if tag in KNOWN_POS), None)
+        normalized_tags = [UD_TAG_ALIASES.get(tag, tag) for tag in tags]
+        pos = next((tag for tag in normalized_tags if tag in KNOWN_POS), None)
         is_expression = "EXPR" in tags
         word_forms = [
-            {"word_form": form, "tags_json": form_tags}
-            for form, form_tags in _collect_word_forms(lemma).items()
+            {"word_form": form, "tags_json": tags, "pronunciation": pron}
+            for form, (tags, pron) in _collect_word_forms(lemma).items()
         ]
         lemma_entries.append(
             {
@@ -99,8 +100,11 @@ def build_lemma(
     }
 
 
-def _collect_word_forms(lemma_data: dict[str, Any]) -> dict[str, list[str]]:
-    forms: dict[str, list[str]] = {}
+def _collect_word_forms(
+    lemma_data: dict[str, Any],
+) -> dict[str, tuple[list[str], list[dict[str, Any]]]]:
+    """Return {word_form: (tags, pronunciation)} for every inflected form."""
+    forms: dict[str, tuple[list[str], list[dict[str, Any]]]] = {}
     lemma_morph_tags: list[str] = []
 
     for paradigm in lemma_data.get("paradigm_info", []):
@@ -119,10 +123,17 @@ def _collect_word_forms(lemma_data: dict[str, Any]) -> dict[str, list[str]]:
             if not word_form:
                 continue
             tags = _merge_tags(paradigm_tags, list(inflection.get("tags", [])))
+            pron: list[dict[str, Any]] = inflection.get("pronunciation") or []
             existing = forms.get(word_form)
-            forms[word_form] = tags if existing is None else _merge_tags(existing, tags)
+            if existing is None:
+                forms[word_form] = (tags, pron)
+            else:
+                forms[word_form] = (_merge_tags(existing[0], tags), existing[1] or pron)
 
-    forms.setdefault(lemma_data.get("lemma", ""), _merge_tags(lemma_morph_tags, ["Inf"]))
+    lemma_word = lemma_data.get("lemma", "")
+    if lemma_word and lemma_word not in forms:
+        lemma_pron: list[dict[str, Any]] = lemma_data.get("pronunciation") or []
+        forms[lemma_word] = (lemma_morph_tags, lemma_pron)
     return forms
 
 

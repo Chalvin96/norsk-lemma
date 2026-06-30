@@ -1,0 +1,81 @@
+{
+  "source_article_id": 47204,
+  "lemmas": [
+    {
+      "lemma": "rabiat",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54258,
+      "is_sub_article": false,
+      "primary_translation": "furious / fanatical",
+      "word_forms": [
+        {
+          "word_form": "rabiat",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rA$bI$\"A:t",
+              "ipa": "rɑbɪˈɑːt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "rabiate",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rA$bI$\"A:$t@",
+              "ipa": "rɑbɪˈɑːtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fc1164de1a25.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc1164de1a25.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc1164de1a25.mp3",
+            "text": "rabiat",
+            "source": "generated",
+            "content_sha256": "26a9422e6a4cb3fd0124ffe3661307ce087f683e08ef86c589f89513eb70b8f7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rasende",
+      "translation": "furious",
+      "examples": [
+        "et rabiat angrep",
+        "han var helt rabiat"
+      ]
+    }
+  ]
+}

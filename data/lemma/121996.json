@@ -1,0 +1,82 @@
+{
+  "source_article_id": 121996,
+  "lemmas": [
+    {
+      "lemma": "kapitalsterk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 112403,
+      "is_sub_article": false,
+      "primary_translation": "capital-rich",
+      "word_forms": [
+        {
+          "word_form": "kapitalsterk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kapitalsterke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$pI$\"tA:l$%st{r$k@",
+              "ipa": "kɑpɪˈtɑːlˌstærkə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kapitalsterkt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c1ea297108b8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c1ea297108b8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c1ea297108b8.mp3",
+            "text": "kapitalsterk",
+            "source": "generated",
+            "content_sha256": "2da5ea9fc99e183bd12a1914e20a72e1e62b40a7124b1babd31b69c07c11d81d"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har stor kapital",
+      "translation": "having large capital",
+      "examples": [
+        "bedriften har kapitalsterke eiere"
+      ]
+    }
+  ]
+}

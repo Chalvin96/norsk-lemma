@@ -1,0 +1,95 @@
+{
+  "source_article_id": 20341,
+  "lemmas": [
+    {
+      "lemma": "glyserin",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 23764,
+      "is_sub_article": false,
+      "primary_translation": "glycerol (older term)",
+      "word_forms": [
+        {
+          "word_form": "glyserin",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "glY$s@$\"ri:n",
+              "ipa": "glʏsəˈrɪːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "glyserinen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "glY$s@$\"ri:$nn=",
+              "ipa": "glʏsəˈrɪːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "glyseriner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "glyserinene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "91958001761a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/91958001761a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/91958001761a.mp3",
+            "text": "glyserin",
+            "source": "generated",
+            "content_sha256": "7180049cacb78af8aa22d514ae766e11e7ed37966c1e99692b53d0e590b712ef",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "eldre betegnelse for glyserol",
+      "translation": "older term for glycerol",
+      "examples": []
+    }
+  ]
+}

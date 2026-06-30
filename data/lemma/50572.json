@@ -1,0 +1,95 @@
+{
+  "source_article_id": 50572,
+  "lemmas": [
+    {
+      "lemma": "sekvensiell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 58034,
+      "is_sub_article": false,
+      "primary_translation": "sequential",
+      "word_forms": [
+        {
+          "word_form": "sekvensiell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$kv@n$sI$\"El",
+              "ipa": "səkvənsɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sekvensielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$kv@n$sI$\"E$l@",
+              "ipa": "səkvənsɪˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sekvensielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$kv@n$sI$\"Elt",
+              "ipa": "səkvənsɪˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "051e09513839.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/051e09513839.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/051e09513839.mp3",
+            "text": "sekvensiell",
+            "source": "generated",
+            "content_sha256": "b82d368035cd31f49319b61158dcd6ac756fd6fbbafb26091fdc2598f8e1c89b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i sekvens",
+      "translation": "in sequence",
+      "examples": [
+        "en sekvensiell girkasse",
+        "selskapet har opplevd en sekvensiell vekst i salget"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_article_id": 59645,
+  "lemmas": [
+    {
+      "lemma": "taktfast",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68266,
+      "is_sub_article": false,
+      "primary_translation": "rhythmic",
+      "word_forms": [
+        {
+          "word_form": "taktfast",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tAkt$%fA$st",
+              "ipa": "ˈtɑktˌfɑst",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "taktfaste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tAkt$%fA$st@",
+              "ipa": "ˈtɑktˌfɑstə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1845ab6215f3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1845ab6215f3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1845ab6215f3.mp3",
+            "text": "taktfast",
+            "source": "generated",
+            "content_sha256": "623a6c684d6bbf1630e7c6a028f924add00b79fdadb323d55341d8dadba7bc3e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som følger eller finner sted i en markert takt",
+      "translation": "following or taking place in a marked rhythm",
+      "examples": [
+        "en taktfast marsj",
+        "taktfast klapping"
+      ]
+    }
+  ]
+}

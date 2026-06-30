@@ -1,0 +1,83 @@
+{
+  "source_article_id": 41127,
+  "lemmas": [
+    {
+      "lemma": "norskfødt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48104,
+      "is_sub_article": false,
+      "primary_translation": "Norwegian-born",
+      "word_forms": [
+        {
+          "word_form": "norskfødt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$%s`kf9t",
+              "ipa": "ˈnɔˌʂkfœt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "norskfødte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$%s`kf9$t@",
+              "ipa": "ˈnɔˌʂkfœtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2a98aa8ff4ad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a98aa8ff4ad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a98aa8ff4ad.mp3",
+            "text": "norskfødt",
+            "source": "generated",
+            "content_sha256": "5b985d427645b229360804895cc774659b0b11a6b25f7a694dc48d3f69ed262a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er født i Norge",
+      "translation": "born in Norway",
+      "examples": []
+    },
+    {
+      "text": "født av norske foreldre",
+      "translation": "born of Norwegian parents",
+      "examples": []
+    }
+  ]
+}

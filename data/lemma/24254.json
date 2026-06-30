@@ -1,0 +1,112 @@
+{
+  "source_article_id": 24254,
+  "lemmas": [
+    {
+      "lemma": "host",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 28608,
+      "is_sub_article": false,
+      "primary_translation": "cough",
+      "word_forms": [
+        {
+          "word_form": "host",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hU$st",
+              "ipa": "ˈhʊst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hostet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hU$st@",
+              "ipa": "ˈhʊstə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hosta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hU$stA",
+              "ipa": "ˈhʊstɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hostene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hU$stn=$@",
+              "ipa": "ˈhʊstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8ad8ece9b0ee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ad8ece9b0ee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ad8ece9b0ee.mp3",
+            "text": "host",
+            "source": "generated",
+            "content_sha256": "a19ae78f7374bba3ec8cd71ec3b61810d1379feccace3b6094de9223f1ec6aed",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å hoste en enkelt gang",
+      "translation": "the act of coughing a single time",
+      "examples": [
+        "det kom et host nå og da"
+      ]
+    }
+  ]
+}

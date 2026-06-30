@@ -1,0 +1,112 @@
+{
+  "source_article_id": 15206,
+  "lemmas": [
+    {
+      "lemma": "flaks",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 17649,
+      "is_sub_article": false,
+      "primary_translation": "luck",
+      "word_forms": [
+        {
+          "word_form": "flaks",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flAks",
+              "ipa": "ˈflɑks",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "flaksen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flAk$sn=",
+              "ipa": "ˈflɑksn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "flakser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flAk$s@r",
+              "ipa": "ˈflɑksər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "flaksene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flAk$sn=$@",
+              "ipa": "ˈflɑksn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0dd9ad96bdd4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0dd9ad96bdd4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0dd9ad96bdd4.mp3",
+            "text": "flaks",
+            "source": "generated",
+            "content_sha256": "e47a71f926b41cf667a108ee3cdff840d10c0742d35322e57d806f7e10714ff1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(uventet) hell",
+      "translation": "unexpected luck",
+      "examples": [
+        "ha flaks",
+        "det var rene, skjære flaksen at det gikk bra"
+      ]
+    }
+  ]
+}

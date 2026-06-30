@@ -1,0 +1,80 @@
+{
+  "source_article_id": 42247,
+  "lemmas": [
+    {
+      "lemma": "omtrentlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49355,
+      "is_sub_article": false,
+      "primary_translation": "approximate",
+      "word_forms": [
+        {
+          "word_form": "omtrentlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Om$\"trEnt$lI",
+              "ipa": "ɔmˈtrɛntlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omtrentlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Om$\"trEnt$lI$@",
+              "ipa": "ɔmˈtrɛntlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bbaf0ad4b5a5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbaf0ad4b5a5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbaf0ad4b5a5.mp3",
+            "text": "omtrentlig",
+            "source": "generated",
+            "content_sha256": "c3b0f0cf6d9f419baa47fcfedae43c352a76d81653d7cd3c141e2937ce6666b1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noenlunde nøyaktig",
+      "translation": "somewhat accurate",
+      "examples": [
+        "tallene er omtrentlige"
+      ]
+    }
+  ]
+}

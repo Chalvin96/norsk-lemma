@@ -1,0 +1,97 @@
+{
+  "source_article_id": 124721,
+  "lemmas": [
+    {
+      "lemma": "pipelyd",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 130174,
+      "is_sub_article": false,
+      "primary_translation": "whistling sound",
+      "word_forms": [
+        {
+          "word_form": "pipelyd",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pi:$p@$%ly:d",
+              "ipa": "ˈpɪːpəˌlyːd",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pipelyden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pi:$p@$%ly:$dn=",
+              "ipa": "ˈpɪːpəˌlyːdn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pipelyder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "pipelydene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c9a537245bba.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c9a537245bba.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c9a537245bba.mp3",
+            "text": "pipelyd",
+            "source": "generated",
+            "content_sha256": "cbd646ce2adfd42a13007294931c432146b0ff719c394c246e9a4047b6d60672",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pipende lyd",
+      "translation": "whistling sound",
+      "examples": [
+        "høre en svak pipelyd"
+      ]
+    }
+  ]
+}

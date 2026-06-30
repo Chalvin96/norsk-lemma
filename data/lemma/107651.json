@@ -1,0 +1,98 @@
+{
+  "source_article_id": 107651,
+  "lemmas": [
+    {
+      "lemma": "antivirus",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160995,
+      "is_sub_article": false,
+      "primary_translation": "antivirus",
+      "word_forms": [
+        {
+          "word_form": "antivirus",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"An$tI$%vi:$ru0s",
+              "ipa": "ˈɑntɪˌvɪːrʉs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "antiviruset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "antivirusa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "antivirusene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4dd308e99d1c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4dd308e99d1c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4dd308e99d1c.mp3",
+            "text": "antivirus",
+            "source": "generated",
+            "content_sha256": "50ee222671cef517a329dbf10f1e3f4e7c6340e3774959c3ec88d37ffef1d04d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "medisin som motvirker sykdommer som kommer av virus",
+      "translation": "counteracting diseases caused by viruses",
+      "examples": [
+        "pasienten er behandlet med antivirus og antibiotika"
+      ]
+    },
+    {
+      "text": "IT: programvare som oppdager og fjerner datavirus",
+      "translation": "IT: software that detects and removes computer viruses",
+      "examples": [
+        "installere antivirus på maskinen"
+      ]
+    }
+  ]
+}

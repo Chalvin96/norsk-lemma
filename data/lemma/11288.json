@@ -1,0 +1,80 @@
+{
+  "source_article_id": 11288,
+  "lemmas": [
+    {
+      "lemma": "dyadisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13149,
+      "is_sub_article": false,
+      "primary_translation": "dyadic",
+      "word_forms": [
+        {
+          "word_form": "dyadisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dY$\"A:$dI$sk",
+              "ipa": "dʏˈɑːdɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dyadiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dY$\"A:$dI$sk@",
+              "ipa": "dʏˈɑːdɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6cf26ddf6b58.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6cf26ddf6b58.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6cf26ddf6b58.mp3",
+            "text": "dyadisk",
+            "source": "generated",
+            "content_sha256": "0365848f66913d46ab2f21ee6feb0f0531b598dd81a035cf093bc39dfc053667",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er satt sammen av to enheter",
+      "translation": "composed of two units",
+      "examples": [
+        "dyadisk tallsystem"
+      ]
+    }
+  ]
+}

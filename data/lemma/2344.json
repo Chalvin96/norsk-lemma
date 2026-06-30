@@ -1,0 +1,109 @@
+{
+  "source_article_id": 2344,
+  "lemmas": [
+    {
+      "lemma": "apokryf",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 2875,
+      "is_sub_article": false,
+      "primary_translation": "apocryphal / false",
+      "word_forms": [
+        {
+          "word_form": "apokryf",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pU$\"kry:f",
+              "ipa": "ɑpʊˈkryːf",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "apokryfe",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pU$\"kry:$f@",
+              "ipa": "ɑpʊˈkryːfə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "apokryft",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pU$\"kry:ft",
+              "ipa": "ɑpʊˈkryːft",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "147d719079d9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/147d719079d9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/147d719079d9.mp3",
+            "text": "apokryf",
+            "source": "generated",
+            "content_sha256": "042325d4cf79012b6c62126a196d27b6f857004a9496f8834a30c100fd2defa2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i teologi: som ikke hører med til kanon",
+      "translation": "in theology: not belonging to the canon",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra kanonisk",
+      "translation": "false",
+      "examples": [
+        "apokryfe skrifter"
+      ]
+    },
+    {
+      "text": "om utsagn og historier: uekte, tvilsom",
+      "translation": "about statements and stories: false, doubtful",
+      "examples": [
+        "en apokryf historie om en egyptisk farao"
+      ]
+    }
+  ]
+}

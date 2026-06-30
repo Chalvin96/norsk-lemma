@@ -1,0 +1,103 @@
+{
+  "source_article_id": 25976,
+  "lemmas": [
+    {
+      "lemma": "inaktiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30963,
+      "is_sub_article": false,
+      "primary_translation": "inactive / ineffective",
+      "word_forms": [
+        {
+          "word_form": "inaktiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$nAk$%ti:v",
+              "ipa": "ˈɪnɑkˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "inaktive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$%nAk$tI$v@",
+              "ipa": "ˈɪˌnɑktɪvə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "inaktivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$nAk$%ti:vt",
+              "ipa": "ˈɪnɑkˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "557fdc46c6d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/557fdc46c6d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/557fdc46c6d0.mp3",
+            "text": "inaktiv",
+            "source": "generated",
+            "content_sha256": "31b9629ebc8b1a615223d747adb3ec2f6a4396f1d67f8eed27275e002459f3c0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke virker",
+      "translation": "not working",
+      "examples": []
+    },
+    {
+      "text": "virkningsløs",
+      "translation": "ineffective",
+      "examples": [
+        "et inaktivt middel",
+        "cellene er inaktive"
+      ]
+    }
+  ]
+}

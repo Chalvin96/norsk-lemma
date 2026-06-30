@@ -1,0 +1,81 @@
+{
+  "source_article_id": 36035,
+  "lemmas": [
+    {
+      "lemma": "lukullisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41841,
+      "is_sub_article": false,
+      "primary_translation": "sumptuous (food)",
+      "word_forms": [
+        {
+          "word_form": "lukullisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lu0$\"ku0$lI$sk",
+              "ipa": "lʉˈkʉlɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lukulliske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lu0$\"ku0$lI$sk@",
+              "ipa": "lʉˈkʉlɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e9206ab9fbf8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9206ab9fbf8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9206ab9fbf8.mp3",
+            "text": "lukullisk",
+            "source": "generated",
+            "content_sha256": "7d194a88a8f2142acb87a05801099786fa98af52a160f884adf692b4e011def2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om mat: flott, overdådig",
+      "translation": "regarding food: grand, lavish",
+      "examples": [
+        "lukulliske retter",
+        "et lukullisk måltid"
+      ]
+    }
+  ]
+}

@@ -1,80 +1,91 @@
 # Norsk Lemma
 
-An LLM-assisted Norwegian lexicon pipeline built from [Ordbokene](https://ordbokene.no) open data. This repo turns the Bokmålsordboka article dump into normalized lemma JSON with English glosses, ready for import into [Flyt](https://github.com/Chalvin/flyt).
+An LLM-assisted Norwegian lexicon pipeline built from [Ordbokene](https://ordbokene.no) open data.
+Turns the Bokmålsordboka article dump into normalized lemma JSON with English glosses and TTS audio,
+ready for import into [Flyt](https://github.com/Chalvin/flyt).
 
-This project demonstrates a practical data-processing workflow: source ingestion,
-normalization, prompt construction, LLM response parsing, resumable batch jobs,
-release packaging, and source attribution handled end to end.
+> Bokmål only. Nynorsk not included.
 
-> Scope: Bokmål only for now. Nynorsk is not included.
+---
 
-## Project Highlights
+## Pipeline
 
-- End-to-end ingestion pipeline from public dictionary export to import-ready lemma JSON
-- LLM enrichment via OpenRouter with retry handling, batching, and resumable processing
-- Structured extraction of lemmas, senses, examples, redirects, and cross-references
-- Release automation that publishes versioned lemma archives for downstream consumers
-- Clear separation between permissively licensed code and CC BY 4.0 source-derived data
+| Stage | Script | Output |
+|---|---|---|
+| Fetch | `scripts/translate.py fetch` | `data/articles/*.json` |
+| Normalize + LLM gloss | `scripts/translate.py` | `data/lemma/*.json` |
+| Pronunciation (IPA + tone) | `scripts/enrich_pronunciation.py` | fields in `data/lemma/` |
+| Audio (MP3) | `scripts/generate_audio.py` | `data/audio/lemma/google/{voice}/*.mp3` |
+| Release | `scripts/release.sh` | `norsk-lemma-vX.tar.gz` |
 
-## Repository Layout
-
-| Path | Purpose |
-|---|---|
-| `scripts/translate.py` | CLI entry point for building lemma output |
-| `scripts/ordbokene/` | Modular pipeline components: source fetch, extraction, prompt building, client, I/O, settings |
-| `articles/` | Local working directory for Ordbokene source files; ignored by git except for `.gitkeep` |
-| `lemma/` | Generated lemma JSON files tracked for reproducible release archives |
-| `.github/workflows/release-archive.yml` | GitHub Actions release packaging |
-
-## How It Works
-
-1. Source article JSON is pulled from the Ordbokene open data archive.
-2. The pipeline explodes and normalizes article structures into lemma-oriented entries.
-3. Missing English translations are generated in batches through OpenRouter.
-4. Enriched lemma JSON is written to `lemma/`.
-5. Tagged releases publish a tarball for downstream import.
+---
 
 ## Quick Start
 
-Install dependencies with `uv`:
-
 ```bash
 uv sync
-```
-
-Set your OpenRouter API key:
-
-```bash
 export OPENROUTER_API_KEY=sk-or-...
-```
-
-Run the pipeline:
-
-```bash
 uv run python scripts/translate.py
 ```
 
-If `articles/` is empty, the script automatically downloads the Bokmålsordboka source archive from Ordbokene and flattens it into the local working directory before processing. That directory is intentionally not stored in git.
+If `data/articles/` is empty, the script downloads the Bokmålsordboka source archive automatically.
 
-Preview pending work without making API calls:
+Preview pending work without API calls:
 
 ```bash
 uv run python scripts/translate.py --limit 50 --dry-run
 ```
 
-More usage details live in [`scripts/README.md`](scripts/README.md).
-
-Run the quality checks used for development:
+### Pronunciation Enrichment
 
 ```bash
-uv sync --dev
-uv run pytest scripts/test_translate.py
-uv run ruff check
+uv run python scripts/enrich_pronunciation.py \
+  --input data/articles/ \
+  --workers 8
 ```
 
-## Output
+Lookup chain: **NB Uttale** → **NB Uttale newwords** → **nb-g2p fallback**.
+See [`docs/pronunciation-pipeline.md`](docs/pronunciation-pipeline.md).
 
-Each generated lemma payload contains one or more lemma entries with a `primary_translation` string and per-definition English glosses, for example:
+### Audio Generation
+
+```bash
+# Dry-run: estimate cost
+uv run --group audio python scripts/generate_audio.py --dry-run
+
+# Generate all
+uv run --group audio python scripts/generate_audio.py \
+  --voice nb-NO-Chirp3-HD-Aoede \
+  --confirm-cost
+```
+
+Audio fields are written in-place into `data/lemma/`. MP3s go under
+`data/audio/lemma/google/{voice}/`. See [`docs/audio-strategy.md`](docs/audio-strategy.md).
+
+---
+
+## Repository Layout
+
+```
+data/
+  lemma/      ← enriched lemma JSONs (translations + IPA + audio fields)
+  audio/
+    lemma/google/{voice}/*.mp3   ← TTS audio files
+    manifest-google-{voice}.json ← file index with SHA-256 checksums
+  articles/   ← raw Ordbokene articles (git-ignored, fetched on demand)
+scripts/
+  translate.py           ← main pipeline CLI
+  enrich_pronunciation.py
+  generate_audio.py
+  ordbokene/             ← pipeline modules
+docs/                    ← schema, data sources, audio strategy
+```
+
+---
+
+## Output Schema
+
+Each lemma JSON entry:
 
 ```json
 {
@@ -82,7 +93,31 @@ Each generated lemma payload contains one or more lemma entries with a `primary_
   "lemmas": [
     {
       "lemma": "utepils",
-      "primary_translation": "outdoor beer"
+      "primary_translation": "outdoor beer",
+      "word_forms": [
+        {
+          "word_form": "utepils",
+          "pronunciation": [
+            {
+              "ipa": "²uːtəpɪls",
+              "tone": 2,
+              "tone_status": "known",
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "file": "9e1c4b4f2a7d.mp3",
+            "tone": 2
+          }
+        ]
+      }
     }
   ],
   "definitions": [
@@ -94,34 +129,66 @@ Each generated lemma payload contains one or more lemma entries with a `primary_
 }
 ```
 
-## Release Downloads
+Full field reference: [`docs/schema.md`](docs/schema.md).
 
-Tagged releases publish versioned `lemma/` archives such as:
+---
 
-```text
-norsk-lemma-v1.0.0.tar.gz
+## Audio Hosting
+
+Audio (`data/audio/`) is gitignored — it stays out of git so the repo is light
+to clone. The MP3s are served from object storage and streamed by the app on
+demand.
+
+```bash
+uv run --group audio python scripts/upload_audio.py            # upload missing
+uv run --group audio python scripts/upload_audio.py --dry-run  # preview
 ```
 
-Example release URL:
+The uploader reads the audio manifest and pushes each clip to its manifest
+`path`. The public URL is the media host + that path:
 
-```text
-https://github.com/Chalvin96/norsk-lemma/releases/download/v1.0.0/norsk-lemma-v1.0.0.tar.gz
 ```
+https://media.umebocchi.my.id/<path>
+e.g. https://media.umebocchi.my.id/audio/lemma/google/{voice}/{file}.mp3
+```
+
+Each audio entry carries both `path` (host-free key) and `url` (ready-to-use
+absolute URL); the manifest mirrors them. Use `url` directly, or join `path`
+onto your own host. Keys are content-addressed and immutable, so they cache
+forever.
+
+Credentials: copy `.env.example` → `.env` and fill the `S3_*` keys. Only the
+access/secret keys are secret; endpoint and bucket are public config. The
+bucket must allow public reads (bucket policy, or set `S3_OBJECT_ACL=public-read`
+for stores that support per-object ACLs) — otherwise the `url`s return 403.
+
+### Cold backup
+
+`scripts/release.sh vX.Y.Z` builds offline tarballs (lemma JSON + audio) and
+attaches them to a GitHub release. Not the serving path — kept as an archival
+backup of the paid, non-reproducible TTS audio.
+
+---
+
+## Development
+
+```bash
+uv sync --dev
+uv run pytest scripts/test_translate.py
+uv run ruff check
+```
+
+---
 
 ## Attribution
 
-Data derived from Bokmålsordboka / Nynorskordboka:
+**Dictionary data** — Bokmålsordboka/Nynorskordboka, Universitetet i Bergen og Språkrådet, [ordbøkene.no](https://ordbokene.no), **CC BY 4.0**.
 
-```text
-Bokmålsordboka/Nynorskordboka, Universitetet i Bergen og Språkrådet, ordbøkene.no, CC BY 4.0.
-```
+**Pronunciation data** — NB Uttale (Nasjonalbiblioteket / Språkbanken), **CC0 1.0**.
 
-- License: <https://creativecommons.org/licenses/by/4.0/>
-- Open data: <https://ordbokene.no/nob/about/open-data>
-- Citation guide: <https://ordbokene.no/nob/help/cite>
+**Audio** — Generated by Google Cloud Text-to-Speech, `nb-NO-Chirp3-HD-Aoede`.
 
-## License
+Full attribution: [`docs/data-sources.md`](docs/data-sources.md) · License: [`LICENSE`](LICENSE) · [`NOTICE`](NOTICE)
 
-The code in this repository is licensed under Apache License 2.0. See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
-
-The source dictionary data in `articles/` and the derived data in `lemma/` remain subject to the Ordbokene attribution and CC BY 4.0 terms above.
+> The source dictionary data in `data/articles/` and derived data in `data/lemma/`
+> remain subject to the Ordbokene attribution and CC BY 4.0 terms.

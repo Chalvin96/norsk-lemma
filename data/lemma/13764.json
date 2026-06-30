@@ -1,0 +1,98 @@
+{
+  "source_article_id": 13764,
+  "lemmas": [
+    {
+      "lemma": "famøs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15973,
+      "is_sub_article": false,
+      "primary_translation": "infamous",
+      "word_forms": [
+        {
+          "word_form": "famøs",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"m2:s",
+              "ipa": "fɑˈmøːs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "famøse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"m2:$s@",
+              "ipa": "fɑˈmøːsə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "famøst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"m2:$st",
+              "ipa": "fɑˈmøːst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "401bf9c6e957.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/401bf9c6e957.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/401bf9c6e957.mp3",
+            "text": "famøs",
+            "source": "generated",
+            "content_sha256": "5d9aee57e0b751c032d3cadf75186ef2f0d4b568ea75309513b0f8db20dc2cc0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har fått mye negativ omtale",
+      "translation": "having received much negative publicity",
+      "examples": [
+        "en famøs historie",
+        "famøse uttalelser"
+      ]
+    }
+  ]
+}

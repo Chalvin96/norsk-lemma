@@ -1,0 +1,71 @@
+{
+  "source_article_id": 61029,
+  "lemmas": [
+    {
+      "lemma": "times",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 69806,
+      "is_sub_article": false,
+      "primary_translation": "to happen",
+      "word_forms": [
+        {
+          "word_form": "times",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$m@s",
+              "ipa": "ˈtɪːməs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "timtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "33148051dc61.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/33148051dc61.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/33148051dc61.mp3",
+            "text": "times",
+            "source": "generated",
+            "content_sha256": "e45ad8ad6a14908985f4e4365a28d15f03b9eda2e4b4520d801ff0f5cdb76bfa",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hende, vederfares",
+      "translation": "to happen, to befall",
+      "examples": [
+        "det timtes dem å falle i dyp gjeld"
+      ]
+    }
+  ]
+}

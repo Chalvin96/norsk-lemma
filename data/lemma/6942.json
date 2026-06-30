@@ -1,0 +1,111 @@
+{
+  "source_article_id": 6942,
+  "lemmas": [
+    {
+      "lemma": "boms",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 8151,
+      "is_sub_article": false,
+      "primary_translation": "beggar",
+      "word_forms": [
+        {
+          "word_form": "boms",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bUms",
+              "ipa": "ˈbʊms",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bomsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bUm$sn=",
+              "ipa": "ˈbʊmsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bomser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bUm$s@r",
+              "ipa": "ˈbʊmsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bomsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bUm$sn=$@",
+              "ipa": "ˈbʊmsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a01dfe6e6a7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a01dfe6e6a7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a01dfe6e6a7.mp3",
+            "text": "boms",
+            "source": "generated",
+            "content_sha256": "6796ea435ca6e67e0c4c243d37abf6ccd5c27149e75cfc6e6ba2987b931c3e3e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som bomme penger",
+      "translation": "person who begs for money",
+      "examples": [
+        "bli stoppet av en boms"
+      ]
+    }
+  ]
+}

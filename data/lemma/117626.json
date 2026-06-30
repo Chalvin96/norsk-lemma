@@ -1,0 +1,89 @@
+{
+  "source_article_id": 117626,
+  "lemmas": [
+    {
+      "lemma": "hotellbar",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 166601,
+      "is_sub_article": false,
+      "primary_translation": "hotel bar",
+      "word_forms": [
+        {
+          "word_form": "hotellbar",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "hotellbaren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$\"tEl$%bA:$n`=",
+              "ipa": "hʊˈtɛlˌbɑːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hotellbarer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "hotellbarene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "11ea6a33f06f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11ea6a33f06f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11ea6a33f06f.mp3",
+            "text": "hotellbar",
+            "source": "generated",
+            "content_sha256": "c7cf36db42b1109191329e3beaaecb05521b5d69ff1d5e4d3fe87b302f6c0563"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bar på hotell",
+      "translation": "bar in a hotel",
+      "examples": [
+        "de avrunder dagen med en whisky i hotellbaren"
+      ]
+    }
+  ]
+}

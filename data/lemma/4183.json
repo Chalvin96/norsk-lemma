@@ -1,0 +1,94 @@
+{
+  "source_article_id": 4183,
+  "lemmas": [
+    {
+      "lemma": "bakre",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4966,
+      "is_sub_article": false,
+      "primary_translation": "rear / back",
+      "word_forms": [
+        {
+          "word_form": "bakre",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$kr@",
+              "ipa": "ˈbɑːkrə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bakerst",
+          "tags_json": [
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:$k@s`t`",
+              "ipa": "ˈbɑːkəʂʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bakerste",
+          "tags_json": [
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:$k@s`$t`@",
+              "ipa": "ˈbɑːkəʂʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "721e68231ad5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/721e68231ad5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/721e68231ad5.mp3",
+            "text": "bakre",
+            "source": "generated",
+            "content_sha256": "5696c02173b7f214104a8fe330457dc5f29a99914f990fe592025423f4e10220",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bak, lenger bak i forhold til noe annet",
+      "translation": "back, further back in relation to something else",
+      "examples": []
+    },
+    {
+      "text": "lengst bak",
+      "translation": "furthest back",
+      "examples": [
+        "i de bakre rekker",
+        "i en av de bakre vognene",
+        "det bakre huset"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "source_article_id": 123330,
+  "lemmas": [
+    {
+      "lemma": "myrding",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 124793,
+      "is_sub_article": false,
+      "primary_translation": "murdering",
+      "word_forms": [
+        {
+          "word_form": "myrding",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mYr$dIN",
+              "ipa": "ˈmʏrdɪŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "myrdingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "myrdinger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "myrdingene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "myrdinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f1724502e678.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f1724502e678.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f1724502e678.mp3",
+            "text": "myrding",
+            "source": "generated",
+            "content_sha256": "4c31425aae9348812226dda8be977db675349cb5ea155afff9337a542450c7b5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å myrde",
+      "translation": "the act of murdering",
+      "examples": [
+        "myrding av sivile"
+      ]
+    }
+  ]
+}

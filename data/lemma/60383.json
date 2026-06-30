@@ -1,0 +1,81 @@
+{
+  "source_article_id": 60383,
+  "lemmas": [
+    {
+      "lemma": "termisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 69051,
+      "is_sub_article": false,
+      "primary_translation": "thermal",
+      "word_forms": [
+        {
+          "word_form": "termisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t{r$mI$sk",
+              "ipa": "ˈtærmɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "termiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t{r$mI$sk@",
+              "ipa": "ˈtærmɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "07fcaaa6e894.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07fcaaa6e894.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07fcaaa6e894.mp3",
+            "text": "termisk",
+            "source": "generated",
+            "content_sha256": "6fe1c5597a79e992a12627312dd60f79c17615dd590df2eeb380d84ac57bed86",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har med temperatur eller varme å gjøre",
+      "translation": "relating to temperature or heat",
+      "examples": [
+        "termisk energi",
+        "søke med termisk optikk"
+      ]
+    }
+  ]
+}

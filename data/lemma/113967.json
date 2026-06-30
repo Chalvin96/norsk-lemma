@@ -1,0 +1,81 @@
+{
+  "source_article_id": 113967,
+  "lemmas": [
+    {
+      "lemma": "forgjort",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 164692,
+      "is_sub_article": false,
+      "primary_translation": "bewitched / damned",
+      "word_forms": [
+        {
+          "word_form": "forgjort",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"jUt`",
+              "ipa": "fɔrˈjʊʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forgjorte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"jU$t`@",
+              "ipa": "fɔrˈjʊʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1f2b55f8c645.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f2b55f8c645.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f2b55f8c645.mp3",
+            "text": "forgjort",
+            "source": "generated",
+            "content_sha256": "5d79f7c6a068d0bfb2bf279b15cfdb05fcc369f4f2336fd20f17c6443440ef7f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "besatt, forhekset",
+      "translation": "possessed, bewitched",
+      "examples": [
+        "hun var som forgjort",
+        "det var da forgjort!"
+      ]
+    }
+  ]
+}

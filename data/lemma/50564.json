@@ -1,0 +1,95 @@
+{
+  "source_article_id": 50564,
+  "lemmas": [
+    {
+      "lemma": "sekundmeter",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 58026,
+      "is_sub_article": false,
+      "primary_translation": "wind speed unit",
+      "word_forms": [
+        {
+          "word_form": "sekundmeter",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"ku0n$%me:$t@r",
+              "ipa": "səˈkʉnˌmeːtər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sekundmeteren",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"ku0n$%me:$t@n`",
+              "ipa": "səˈkʉnˌmeːtəɳ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sekundmeterne",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"ku0n$%me:$t@$n`@",
+              "ipa": "səˈkʉnˌmeːtəɳə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "19d193fa0c0a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/19d193fa0c0a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/19d193fa0c0a.mp3",
+            "text": "sekundmeter",
+            "source": "generated",
+            "content_sha256": "f679b63063010b7e1dcd33848308dfd4def1ac2c389fb612d3a65bbd2f5e203a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enhet som angir vindhastighet",
+      "translation": "unit indicating wind speed",
+      "examples": [
+        "det blåste 40 sekundmeters vind"
+      ]
+    }
+  ]
+}

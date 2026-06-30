@@ -1,0 +1,81 @@
+{
+  "source_article_id": 99857,
+  "lemmas": [
+    {
+      "lemma": "lulesamisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 158751,
+      "is_sub_article": false,
+      "primary_translation": "Lule Sami",
+      "word_forms": [
+        {
+          "word_form": "lulesamisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l}:$l@$%sA:$mI$sk",
+              "ipa": "ˈlʉːləˌsɑːmɪsk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lulesamiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l}:$l@$%sA:$mI$sk@",
+              "ipa": "ˈlʉːləˌsɑːmɪskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "08d556aeeb5b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08d556aeeb5b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08d556aeeb5b.mp3",
+            "text": "lulesamisk",
+            "source": "generated",
+            "content_sha256": "e8ab431f12aec2ee8ab03643e5ba81bf85cd7f4fcde8d5705c186208c2af40d8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder lulesame og lulesamisk",
+      "translation": "relating to Lule Sami and Lule Sami language",
+      "examples": [
+        "lulesamisk ungdom",
+        "lulesamisk språkundervisning"
+      ]
+    }
+  ]
+}

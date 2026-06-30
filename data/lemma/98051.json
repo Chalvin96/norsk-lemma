@@ -1,0 +1,83 @@
+{
+  "source_article_id": 98051,
+  "lemmas": [
+    {
+      "lemma": "korrektiv",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 159216,
+      "is_sub_article": false,
+      "primary_translation": "corrective",
+      "word_forms": [
+        {
+          "word_form": "korrektiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kO$r@k$\"ti:v",
+              "ipa": "kɔrəkˈtɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "korrektive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "korrektivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2a1b4b0f7d32.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a1b4b0f7d32.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a1b4b0f7d32.mp3",
+            "text": "korrektiv",
+            "source": "generated",
+            "content_sha256": "c4a371836c69713d72d535cc7bcf3938c6ab78f41c5769f446d3752c3ae99a39",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som virker som korrektiv",
+      "translation": "acting as a corrective measure",
+      "examples": [
+        "korrektive tiltak"
+      ]
+    }
+  ]
+}

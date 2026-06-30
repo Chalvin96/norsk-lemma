@@ -1,0 +1,100 @@
+{
+  "source_article_id": 53034,
+  "lemmas": [
+    {
+      "lemma": "skjemmes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 61140,
+      "is_sub_article": false,
+      "primary_translation": "be ashamed",
+      "word_forms": [
+        {
+          "word_form": "skjemmes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SE$m@s",
+              "ipa": "ˈʃɛməs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skjemtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SEm$t@s",
+              "ipa": "ˈʃɛmtəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skjems",
+          "tags_json": [
+            "verb",
+            "Pres",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SEms",
+              "ipa": "ˈʃɛms",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3be9119142c7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3be9119142c7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3be9119142c7.mp3",
+            "text": "skjemmes",
+            "source": "generated",
+            "content_sha256": "c7287792004b1be994c4e482ce2660e51a71ed9c6bdb70cf1401c75e337ce4bc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kjenne skam over noe en gjør",
+      "translation": "to feel shame about something one does",
+      "examples": []
+    },
+    {
+      "text": "være skamfull",
+      "translation": "to be ashamed",
+      "examples": [
+        "at du ikke skjemmes!",
+        "hun skjemtes av oppførselen sin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "source_article_id": 29777,
+  "lemmas": [
+    {
+      "lemma": "kjønnsnøytral",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35164,
+      "is_sub_article": false,
+      "primary_translation": "gender-neutral",
+      "word_forms": [
+        {
+          "word_form": "kjønnsnøytral",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"C9n$sn9*Y$%trA:l",
+              "ipa": "ˈçœnsnœ͡ʏˌtrɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kjønnsnøytrale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"C9n$sn9*Y$%trA:$l@",
+              "ipa": "ˈçœnsnœ͡ʏˌtrɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kjønnsnøytralt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"C9n$sn9*Y$%trA:lt",
+              "ipa": "ˈçœnsnœ͡ʏˌtrɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3e1a34753205.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3e1a34753205.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3e1a34753205.mp3",
+            "text": "kjønnsnøytral",
+            "source": "generated",
+            "content_sha256": "df161cca368112a679b39d3d18cac1b8d0886781fffa18975cc52bcb1e3e0ea6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er nøytral med tanke på kjønn",
+      "translation": "neutral with regard to sex",
+      "examples": []
+    },
+    {
+      "text": "som ikke peker på eller forutsetter et bestemt kjønn",
+      "translation": "that does not indicate or presuppose a specific sex",
+      "examples": [
+        "kjøpe kjønnsnøytrale babyklær",
+        "en kjønnsnøytral ekteskapslov",
+        "innføre kjønnsnøytrale yrkesbetegnelser"
+      ]
+    }
+  ]
+}

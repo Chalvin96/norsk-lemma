@@ -1,0 +1,81 @@
+{
+  "source_article_id": 64379,
+  "lemmas": [
+    {
+      "lemma": "undersjøisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73726,
+      "is_sub_article": false,
+      "primary_translation": "underwater",
+      "word_forms": [
+        {
+          "word_form": "undersjøisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$n@$%s`2:$I$sk",
+              "ipa": "ˈʉnəˌʂøːɪsk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "undersjøiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$n@$%s`2:$I$sk@",
+              "ipa": "ˈʉnəˌʂøːɪskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aa25f3013019.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aa25f3013019.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aa25f3013019.mp3",
+            "text": "undersjøisk",
+            "source": "generated",
+            "content_sha256": "71f6c7489ff4d169bc03bbd7fe989a178425e14244829b446b88e3ea105eb12f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fins under havflaten, for eksempel på eller i havbunnen",
+      "translation": "existing below the surface of the sea, on the seabed",
+      "examples": [
+        "undersjøiske planter",
+        "undersjøisk tunnel"
+      ]
+    }
+  ]
+}

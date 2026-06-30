@@ -1,0 +1,85 @@
+{
+  "source_article_id": 22952,
+  "lemmas": [
+    {
+      "lemma": "helbredelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27034,
+      "is_sub_article": false,
+      "primary_translation": "curable / treatable",
+      "word_forms": [
+        {
+          "word_form": "helbredelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "h@l$\"bre:$d@$lI",
+              "ipa": "həlˈbreːdəlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "helbredelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "h@l$\"bre:$d@$lI$@",
+              "ipa": "həlˈbreːdəlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a52eb2e3477.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a52eb2e3477.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a52eb2e3477.mp3",
+            "text": "helbredelig",
+            "source": "generated",
+            "content_sha256": "c4984da44e25a39a21037a9fb4ea3d8b1760f215593293d8f84be3a8fbdbc0c5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan helbrede",
+      "translation": "that can heal",
+      "examples": []
+    },
+    {
+      "text": "som kan kurere",
+      "translation": "that can cure",
+      "examples": [
+        "sykdommen er heldigvis helbredelig"
+      ]
+    }
+  ]
+}

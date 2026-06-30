@@ -1,0 +1,81 @@
+{
+  "source_article_id": 26727,
+  "lemmas": [
+    {
+      "lemma": "innsydd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31823,
+      "is_sub_article": false,
+      "primary_translation": "sewn in",
+      "word_forms": [
+        {
+          "word_form": "innsydd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%sYd",
+              "ipa": "ˈɪnˌsʏd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innsydde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%sY$d@",
+              "ipa": "ˈɪnˌsʏdə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a2d7b036cc60.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2d7b036cc60.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2d7b036cc60.mp3",
+            "text": "innsydd",
+            "source": "generated",
+            "content_sha256": "79d70de6cc7ec9a43a86a1d5bf3791452af485f5ac5e7612dfdfba79531a20eb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er sydd inn",
+      "translation": "that has been sewn in",
+      "examples": [
+        "buksa er innsydd i livet",
+        "politiet fant narkotika innsydd i klærne"
+      ]
+    }
+  ]
+}

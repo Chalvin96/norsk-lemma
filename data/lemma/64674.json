@@ -1,0 +1,87 @@
+{
+  "source_article_id": 64674,
+  "lemmas": [
+    {
+      "lemma": "uoppgjort",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74051,
+      "is_sub_article": false,
+      "primary_translation": "unsettled",
+      "word_forms": [
+        {
+          "word_form": "uoppgjort",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$O$%pjUt`",
+              "ipa": "ˈʉːɔˌpjʊʈ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "uoppgjorte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$O$%pjU$t`@",
+              "ipa": "ˈʉːɔˌpjʊʈə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "274578403790.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/274578403790.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/274578403790.mp3",
+            "text": "uoppgjort",
+            "source": "generated",
+            "content_sha256": "49582017749d95eff8827f82be7c4a442f0e33121ac3f5382cf74401380354f5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er brakt i orden",
+      "translation": "that has not been settled",
+      "examples": []
+    },
+    {
+      "text": "ikke oppgjort",
+      "translation": "not settled",
+      "examples": [
+        "uoppgjorte saker",
+        "regnskapet er ennå uoppgjort",
+        "jeg har ikke noe uoppgjort med noen"
+      ]
+    }
+  ]
+}

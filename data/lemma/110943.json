@@ -1,0 +1,97 @@
+{
+  "source_article_id": 110943,
+  "lemmas": [
+    {
+      "lemma": "bytrafikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 92847,
+      "is_sub_article": false,
+      "primary_translation": "city traffic",
+      "word_forms": [
+        {
+          "word_form": "bytrafikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$trA$%fIk",
+              "ipa": "ˈbyːtrɑˌfɪk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bytrafikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$trA$%fI$k@n",
+              "ipa": "ˈbyːtrɑˌfɪkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bytrafikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "bytrafikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6dd218b0cf7f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6dd218b0cf7f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6dd218b0cf7f.mp3",
+            "text": "bytrafikk",
+            "source": "generated",
+            "content_sha256": "9227af223e4c82e46fb57ea7f9d82860d2f6647e3a4674eafe507d4bcc906bc9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "trafikk i by",
+      "translation": "traffic in a city",
+      "examples": [
+        "bilen er tilpasset tett bytrafikk"
+      ]
+    }
+  ]
+}

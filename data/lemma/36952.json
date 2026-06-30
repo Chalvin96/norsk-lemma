@@ -1,0 +1,82 @@
+{
+  "source_article_id": 36952,
+  "lemmas": [
+    {
+      "lemma": "mannsdominert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43353,
+      "is_sub_article": false,
+      "primary_translation": "male-dominated",
+      "word_forms": [
+        {
+          "word_form": "mannsdominert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mAns$dU$mI$%ne:t`",
+              "ipa": "ˈmɑnsdʊmɪˌneːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mannsdominerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mAns$dU$mI$%ne:$t`@",
+              "ipa": "ˈmɑnsdʊmɪˌneːʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "05a92cba7156.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/05a92cba7156.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/05a92cba7156.mp3",
+            "text": "mannsdominert",
+            "source": "generated",
+            "content_sha256": "26cf9bb6141e022b060ee1df20493f65d63d196fb9321d58e4528eb6c71a3d92",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er dominert av menn",
+      "translation": "dominated by men",
+      "examples": [
+        "et mannsdominert yrke",
+        "en mannsdominert kultur",
+        "vårt mannsdominerte samfunn"
+      ]
+    }
+  ]
+}

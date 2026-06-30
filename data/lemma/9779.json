@@ -1,0 +1,82 @@
+{
+  "source_article_id": 9779,
+  "lemmas": [
+    {
+      "lemma": "deprimert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11501,
+      "is_sub_article": false,
+      "primary_translation": "depressed",
+      "word_forms": [
+        {
+          "word_form": "deprimert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$prI$\"me:t`",
+              "ipa": "dəprɪˈmeːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "deprimerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$prI$\"me:$t`@",
+              "ipa": "dəprɪˈmeːʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "033fa06100dc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/033fa06100dc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/033fa06100dc.mp3",
+            "text": "deprimert",
+            "source": "generated",
+            "content_sha256": "345769f20d778dc60db5b9ea0c9525d3d4f5181f9e9dff1b52a568ad6d46d90b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nedtrykt, trist, melankolsk",
+      "translation": "downcast, sad, melancholic",
+      "examples": [
+        "virke deprimert",
+        "være sterkt deprimert",
+        "det gjør meg deprimert"
+      ]
+    }
+  ]
+}

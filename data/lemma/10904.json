@@ -1,0 +1,118 @@
+{
+  "source_article_id": 10904,
+  "lemmas": [
+    {
+      "lemma": "drink",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12738,
+      "is_sub_article": false,
+      "primary_translation": "drink / cocktail",
+      "word_forms": [
+        {
+          "word_form": "drink",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drINk",
+              "ipa": "ˈdrɪŋk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drinken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drIN$k@n",
+              "ipa": "ˈdrɪŋkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drinker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drIN$k@r",
+              "ipa": "ˈdrɪŋkər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drinkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drIN$k@$n@",
+              "ipa": "ˈdrɪŋkənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "09b713cb1a71.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09b713cb1a71.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09b713cb1a71.mp3",
+            "text": "drink",
+            "source": "generated",
+            "content_sha256": "68e2120025506e18343e50d0385506dac2e532592399e8f80730a53dc73af7bc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(alkoholholdig) blandingsdrikk som en vanligvis drikker utenom måltider",
+      "translation": "(alcoholic) mixed drink usually consumed between meals",
+      "examples": []
+    },
+    {
+      "text": "jamfør cocktail og pjolter",
+      "translation": "cocktail and mixed drink",
+      "examples": [
+        "ta en drink",
+        "servere drinker til gjestene",
+        "alkoholfri drink"
+      ]
+    }
+  ]
+}

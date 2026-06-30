@@ -1,0 +1,94 @@
+{
+  "source_article_id": 125380,
+  "lemmas": [
+    {
+      "lemma": "piggfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 130100,
+      "is_sub_article": false,
+      "primary_translation": "stud-free",
+      "word_forms": [
+        {
+          "word_form": "piggfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pIg$%fri:",
+              "ipa": "ˈpɪgˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "piggfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pIg$%fri:$@",
+              "ipa": "ˈpɪgˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "piggfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pIg$%frIt",
+              "ipa": "ˈpɪgˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7b17562380bb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b17562380bb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b17562380bb.mp3",
+            "text": "piggfri",
+            "source": "generated",
+            "content_sha256": "3d665d8306980ad34d39af959dfb54b06c6306e50606847fe4700ddea691729d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke har pigg",
+      "translation": "without studs",
+      "examples": [
+        "kjøre med piggfrie vinterdekk"
+      ]
+    }
+  ]
+}

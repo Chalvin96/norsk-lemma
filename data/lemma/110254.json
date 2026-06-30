@@ -1,0 +1,105 @@
+{
+  "source_article_id": 110254,
+  "lemmas": [
+    {
+      "lemma": "bankgaranti",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 88580,
+      "is_sub_article": false,
+      "primary_translation": "bank guarantee",
+      "word_forms": [
+        {
+          "word_form": "bankgaranti",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk$gA$rAn$%ti:",
+              "ipa": "ˈbɑŋkgɑrɑnˌtɪː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankgarantien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk$gA$rAn$%ti:$@n",
+              "ipa": "ˈbɑŋkgɑrɑnˌtɪːən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankgarantier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk$gA$rAn$%ti:$@r",
+              "ipa": "ˈbɑŋkgɑrɑnˌtɪːər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankgarantiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "536e64124ff6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/536e64124ff6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/536e64124ff6.mp3",
+            "text": "bankgaranti",
+            "source": "generated",
+            "content_sha256": "c03053ed86493662d2c4571bd08fd2aa2d81eef1b7624f1aeec74b197d4e0d1d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "garanti fra en bank om å utbetale et beløp til kreditor dersom bankkunden ikke selv kan innfri sine økonomiske forpliktelser",
+      "translation": "guarantee from a bank to pay an amount to a creditor if the bank's customer cannot meet their financial obligations",
+      "examples": [
+        "stille bankgaranti som sikrer gjennomføring",
+        "tapet dekkes av bankgarantien"
+      ]
+    }
+  ]
+}

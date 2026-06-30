@@ -1,0 +1,88 @@
+{
+  "source_article_id": 10519,
+  "lemmas": [
+    {
+      "lemma": "dogmatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12304,
+      "is_sub_article": false,
+      "primary_translation": "dogmatic",
+      "word_forms": [
+        {
+          "word_form": "dogmatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dOg$\"mA:$tI$sk",
+              "ipa": "dɔgˈmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dogmatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dOg$\"mA:$tI$sk@",
+              "ipa": "dɔgˈmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dae59f79d50d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dae59f79d50d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dae59f79d50d.mp3",
+            "text": "dogmatisk",
+            "source": "generated",
+            "content_sha256": "6911e5bcc26f7eaed19509d623a7e684ceb5501be8f1c25c8d25cf75c703786c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som angår dogme",
+      "translation": "concerning dogma",
+      "examples": [
+        "et dogmatisk spørsmål"
+      ]
+    },
+    {
+      "text": "trangsynt, ensidig, unyansert",
+      "translation": "narrow-minded, one-sided, unnuanced",
+      "examples": [
+        "et dogmatisk menneske",
+        "et dogmatisk utsagn"
+      ]
+    }
+  ]
+}

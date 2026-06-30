@@ -1,0 +1,117 @@
+{
+  "source_article_id": 61484,
+  "lemmas": [
+    {
+      "lemma": "tonika",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70326,
+      "is_sub_article": false,
+      "primary_translation": "tonic",
+      "word_forms": [
+        {
+          "word_form": "tonika",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$nI$kA",
+              "ipa": "ˈtuːnɪkɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tonikaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$nI$kA$@n",
+              "ipa": "ˈtuːnɪkɑən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tonikaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$nI$kA$@r",
+              "ipa": "ˈtuːnɪkɑər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tonikaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$nI$kA$@$n@",
+              "ipa": "ˈtuːnɪkɑənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bbc1b7a6a6a5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbc1b7a6a6a5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbc1b7a6a6a5.mp3",
+            "text": "tonika",
+            "source": "generated",
+            "content_sha256": "8a9feabf27d4db210c398c06b097611b4e0c7ea114f50b533bc496b22fdb510f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grunntone i en toneart",
+      "translation": "root tone in a musical key",
+      "examples": [
+        "i F-dur er F tonika",
+        "hovedtemaet gikk i tonika"
+      ]
+    },
+    {
+      "text": "treklang med tonika som grunntone",
+      "translation": "chord with the tonic as the root note",
+      "examples": []
+    }
+  ]
+}

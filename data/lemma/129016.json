@@ -1,0 +1,103 @@
+{
+  "source_article_id": 129016,
+  "lemmas": [
+    {
+      "lemma": "smitting",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 140525,
+      "is_sub_article": false,
+      "primary_translation": "infection",
+      "word_forms": [
+        {
+          "word_form": "smitting",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smI$tIN",
+              "ipa": "ˈsmɪtɪŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "smittinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "smittinger",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "smittingene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "smittingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "010f65f8c966.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/010f65f8c966.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/010f65f8c966.mp3",
+            "text": "smitting",
+            "source": "generated",
+            "content_sha256": "6f701db6fc62d160c48cfc013d3342bcc0e6ffb683b740dd60ca05ce2d7d5fc7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å smitte",
+      "translation": "the act of infecting",
+      "examples": [
+        "hindre smitting av viruset"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "source_article_id": 55521,
+  "lemmas": [
+    {
+      "lemma": "solrik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 63923,
+      "is_sub_article": false,
+      "primary_translation": "sunny",
+      "word_forms": [
+        {
+          "word_form": "solrik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"su:l$%ri:k",
+              "ipa": "ˈsuːlˌrɪːk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "solrike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"su:l$%ri:$k@",
+              "ipa": "ˈsuːlˌrɪːkə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "solrikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"su:l$%ri:kt",
+              "ipa": "ˈsuːlˌrɪːkt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aed3acfb2bf4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aed3acfb2bf4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aed3acfb2bf4.mp3",
+            "text": "solrik",
+            "source": "generated",
+            "content_sha256": "70f92f6691ab69765374235c6bf07685fabe2f6869f89d79e122513ff136b708",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "full av sol",
+      "translation": "full of sun",
+      "examples": [
+        "en solrik tomt",
+        "solrike dager"
+      ]
+    }
+  ]
+}

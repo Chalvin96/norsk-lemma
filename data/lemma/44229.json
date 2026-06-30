@@ -1,0 +1,99 @@
+{
+  "source_article_id": 44229,
+  "lemmas": [
+    {
+      "lemma": "parkett",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 51196,
+      "is_sub_article": false,
+      "primary_translation": "theater seating",
+      "word_forms": [
+        {
+          "word_form": "parkett",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pAr$\"kEt",
+              "ipa": "pɑrˈkɛt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "parkettet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "parketta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "parkettene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pAr$\"kE$tn=$@",
+              "ipa": "pɑrˈkɛtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0691d48bd40a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0691d48bd40a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0691d48bd40a.mp3",
+            "text": "parkett",
+            "source": "generated",
+            "content_sha256": "c6df5410956248970fa2760d23777bb02fde848226a967e8fc76bd5dc7fbfccd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i teater: tilskuerplassene bak orkesterplass",
+      "translation": "in a theater: seating areas behind the orchestra stalls",
+      "examples": [
+        "både orkester og parkett var utsolgt",
+        "tredje benk i parkett"
+      ]
+    }
+  ]
+}

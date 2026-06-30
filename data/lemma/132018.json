@@ -1,0 +1,102 @@
+{
+  "source_article_id": 132018,
+  "lemmas": [
+    {
+      "lemma": "timeliste",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 146688,
+      "is_sub_article": false,
+      "primary_translation": "timesheet",
+      "word_forms": [
+        {
+          "word_form": "timeliste",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "timelista",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "timelister",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$m@$%lI$st@r",
+              "ipa": "ˈtɪːməˌlɪstər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "timelistene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "timelisten",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "64cf58349295.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64cf58349295.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64cf58349295.mp3",
+            "text": "timeliste",
+            "source": "generated",
+            "content_sha256": "ada0f2c3075068a84ebabf915dd70886d9517b4166c1ec8c3aa8aa50cc933302"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "liste over arbeidstimer",
+      "translation": "list of working hours",
+      "examples": [
+        "føre timeliste"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source_article_id": 44429,
+  "lemmas": [
+    {
+      "lemma": "patologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51394,
+      "is_sub_article": false,
+      "primary_translation": "pathological (medical / abnormal)",
+      "word_forms": [
+        {
+          "word_form": "patologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$tU$\"lo:$gI$sk",
+              "ipa": "pɑtʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "patologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$tU$\"lo:$gI$sk@",
+              "ipa": "pɑtʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b443f164f4a2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b443f164f4a2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b443f164f4a2.mp3",
+            "text": "patologisk",
+            "source": "generated",
+            "content_sha256": "060d7e7210915d0032fcf797a1b5daa12d7f428623cb223a4eeef6c88cd04a30",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder patologi eller patologer",
+      "translation": "relating to pathology or pathologists",
+      "examples": [
+        "en patologisk undersøkelse",
+        "patologisk institutt"
+      ]
+    },
+    {
+      "text": "som avviker fra det normale",
+      "translation": "deviating from the normal",
+      "examples": [
+        "hans interesse for skytevåpen er nesten patologisk"
+      ]
+    }
+  ]
+}

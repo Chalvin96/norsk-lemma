@@ -1,0 +1,112 @@
+{
+  "source_article_id": 4567,
+  "lemmas": [
+    {
+      "lemma": "barneflokk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5386,
+      "is_sub_article": false,
+      "primary_translation": "group of children",
+      "word_forms": [
+        {
+          "word_form": "barneflokk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$n`@$%flOk",
+              "ipa": "ˈbɑːɳəˌflɔk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "barneflokken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$n`@$%flO$k@n",
+              "ipa": "ˈbɑːɳəˌflɔkən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "barneflokker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$n`@$%flO$k@r",
+              "ipa": "ˈbɑːɳəˌflɔkər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "barneflokkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$n`@$%flO$k@$n@",
+              "ipa": "ˈbɑːɳəˌflɔkənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e99a95d4f8fa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e99a95d4f8fa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e99a95d4f8fa.mp3",
+            "text": "barneflokk",
+            "source": "generated",
+            "content_sha256": "fc8f3a2b93efe70a5502a1b6e785f0dab7c654999f80d7ebca076c3a28b3d2b8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "flokk med barn",
+      "translation": "group of children",
+      "examples": [
+        "en stor barneflokk",
+        "være den eldste i barneflokken"
+      ]
+    }
+  ]
+}

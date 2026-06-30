@@ -1,0 +1,80 @@
+{
+  "source_article_id": 27881,
+  "lemmas": [
+    {
+      "lemma": "jordslått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 33066,
+      "is_sub_article": false,
+      "primary_translation": "mildewed",
+      "word_forms": [
+        {
+          "word_form": "jordslått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ju:$%s`lOt",
+              "ipa": "ˈjuːˌʂlɔt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jordslåtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ju:$%s`lO$t@",
+              "ipa": "ˈjuːˌʂlɔtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "269c246790f7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/269c246790f7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/269c246790f7.mp3",
+            "text": "jordslått",
+            "source": "generated",
+            "content_sha256": "074f49becb7122b04e85405dbd02a899f8e87d34eb84dd5e87efc995ff7a2bda",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har fått jordslag",
+      "translation": "having developed mildew",
+      "examples": [
+        "den jordslåtte madrassen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_article_id": 4813,
+  "lemmas": [
+    {
+      "lemma": "bebyggelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5649,
+      "is_sub_article": false,
+      "primary_translation": "buildable",
+      "word_forms": [
+        {
+          "word_form": "bebyggelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"bY$g@$lI",
+              "ipa": "bəˈbʏgəlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bebyggelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"bY$g@$lI$@",
+              "ipa": "bəˈbʏgəlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "128b79a10249.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/128b79a10249.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/128b79a10249.mp3",
+            "text": "bebyggelig",
+            "source": "generated",
+            "content_sha256": "7aa74a8b93e8a0daf89ced6c59ac763d9e96b9519f51a0676b76bd5ccf9afb30",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det er mulig å bebygge",
+      "translation": "that can be built upon",
+      "examples": [
+        "et bebyggelig område",
+        "bebyggelige arealer"
+      ]
+    }
+  ]
+}

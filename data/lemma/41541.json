@@ -1,0 +1,104 @@
+{
+  "source_article_id": 41541,
+  "lemmas": [
+    {
+      "lemma": "nærvær",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 48641,
+      "is_sub_article": false,
+      "primary_translation": "presence",
+      "word_forms": [
+        {
+          "word_form": "nærvær",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"n{:r$%v{:r",
+              "ipa": "ˈnæːrˌvæːr",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nærværet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"n{:r$%v{:$r@",
+              "ipa": "ˈnæːrˌvæːrə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nærværa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nærværene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b4ff1220bf32.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b4ff1220bf32.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b4ff1220bf32.mp3",
+            "text": "nærvær",
+            "source": "generated",
+            "content_sha256": "ba8cdbc4553b6885c045b7af14461f02d9635d8d72d7c5de3ca93ce95f4f5bc5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være til stede",
+      "translation": "the state of being present",
+      "examples": []
+    },
+    {
+      "text": "det å overvære",
+      "translation": "the act of attending",
+      "examples": [
+        "åpningen fant sted i nærvær av kongen",
+        "skrive under i vitners nærvær"
+      ]
+    }
+  ]
+}

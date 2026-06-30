@@ -1,0 +1,80 @@
+{
+  "source_article_id": 37166,
+  "lemmas": [
+    {
+      "lemma": "marokkansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43585,
+      "is_sub_article": false,
+      "primary_translation": "Moroccan",
+      "word_forms": [
+        {
+          "word_form": "marokkansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$rO$\"kA:nsk",
+              "ipa": "mɑrɔˈkɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "marokkanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$rU$\"kA:n$sk@",
+              "ipa": "mɑrʊˈkɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b8f992fac4c9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b8f992fac4c9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b8f992fac4c9.mp3",
+            "text": "marokkansk",
+            "source": "generated",
+            "content_sha256": "25584f4698929bf90fd84f833bee355d37c7517c982f703dd2e6e1ce334c22b0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Marokko og marokkanere",
+      "translation": "relating to Morocco and Moroccans",
+      "examples": [
+        "marokkanske appelsiner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_article_id": 24626,
+  "lemmas": [
+    {
+      "lemma": "hurv",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29044,
+      "is_sub_article": false,
+      "primary_translation": "flock / crowd",
+      "word_forms": [
+        {
+          "word_form": "hurv",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hu0rv",
+              "ipa": "ˈhʉrv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hurven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hu0r$v@n",
+              "ipa": "ˈhʉrvən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hurver",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hu0r$v@r",
+              "ipa": "ˈhʉrvər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hurvene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hu0r$v@$n@",
+              "ipa": "ˈhʉrvənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bdaaef2ea5fe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bdaaef2ea5fe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bdaaef2ea5fe.mp3",
+            "text": "hurv",
+            "source": "generated",
+            "content_sha256": "b874191efa1f1fbb25450e659d8d868250fd1f6f20b7973b17c5a3e22d367446",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "flokk, hop",
+      "translation": "flock, crowd",
+      "examples": [
+        "hele hurven"
+      ]
+    }
+  ]
+}

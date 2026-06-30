@@ -1,0 +1,111 @@
+{
+  "source_article_id": 18932,
+  "lemmas": [
+    {
+      "lemma": "gallup",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 22108,
+      "is_sub_article": false,
+      "primary_translation": "opinion poll",
+      "word_forms": [
+        {
+          "word_form": "gallup",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$lu0p",
+              "ipa": "ˈgɑlʉp",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gallupen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$lu0$p@n",
+              "ipa": "ˈgɑlʉpən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "galluper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$lu0$p@r",
+              "ipa": "ˈgɑlʉpər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gallupene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$lu0$p@$n@",
+              "ipa": "ˈgɑlʉpənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2492d64984f2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2492d64984f2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2492d64984f2.mp3",
+            "text": "gallup",
+            "source": "generated",
+            "content_sha256": "201b15602de3db3ca98cabd88dc599024cfe4d833d5f88e01e136b8818e4f071",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rundspørring om meningene om bestemte temaer blant et representativt utvalg av folket",
+      "translation": "survey of opinions on specific topics among a representative sample of the population",
+      "examples": [
+        "foreta en gallup"
+      ]
+    }
+  ]
+}

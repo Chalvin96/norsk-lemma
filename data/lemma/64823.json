@@ -1,0 +1,87 @@
+{
+  "source_article_id": 64823,
+  "lemmas": [
+    {
+      "lemma": "uriktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74226,
+      "is_sub_article": false,
+      "primary_translation": "incorrect",
+      "word_forms": [
+        {
+          "word_form": "uriktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"rIk$tI",
+              "ipa": "ʉˈrɪktɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "uriktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"rIk$tI$@",
+              "ipa": "ʉˈrɪktɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "71d8015c55c4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/71d8015c55c4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/71d8015c55c4.mp3",
+            "text": "uriktig",
+            "source": "generated",
+            "content_sha256": "370b0e4573ce6aef40708e5b0eef4eeb780a1d334d10799c6faacfcbf6aee276",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke stemmer med sannheten",
+      "translation": "",
+      "examples": []
+    },
+    {
+      "text": "feil, ukorrekt, gal",
+      "translation": "",
+      "examples": [
+        "et uriktig svar",
+        "en uriktig opplysning",
+        "framstillingen er helt uriktig"
+      ]
+    }
+  ]
+}

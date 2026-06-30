@@ -1,0 +1,83 @@
+{
+  "source_article_id": 121314,
+  "lemmas": [
+    {
+      "lemma": "kulturradikal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168801,
+      "is_sub_article": false,
+      "primary_translation": "skeptical of cultural values / culturally conservative",
+      "word_forms": [
+        {
+          "word_form": "kulturradikal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kulturradikale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0l$\"t}:$rA$dI$%kA:$l@",
+              "ipa": "kʉlˈtʉːrɑdɪˌkɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kulturradikalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "92e34b0e2ddc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/92e34b0e2ddc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/92e34b0e2ddc.mp3",
+            "text": "kulturradikal",
+            "source": "generated",
+            "content_sha256": "30c1e08a10d721d4473a7bed4b66dfd7c0577014b683511cdf47a3e1332771cb"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er skeptisk til de gjeldende verdiene i en kultur",
+      "translation": "skeptical of the prevailing values in a culture",
+      "examples": [
+        "kulturradikale holdninger",
+        "en kulturradikal kritikk av samfunnet"
+      ]
+    }
+  ]
+}

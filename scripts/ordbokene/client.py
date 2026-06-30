@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 from typing import Any, Protocol
@@ -14,7 +15,6 @@ from .settings import KNOWN_POS, OPENROUTER_URL, REQUEST_TIMEOUT, logger
 
 
 class TranslationConfig(Protocol):
-    api_key: str
     model: str
     max_retries: int
     retry_delay: int
@@ -61,8 +61,11 @@ def request_translations(
         ),
         "temperature": 0.1,
     }
+    api_key = os.environ.get("OPENROUTER_API_KEY", "")
+    if not api_key:
+        return {index: "missing_api_key" for index in range(len(batch))}
     headers = {
-        "Authorization": f"Bearer {config.api_key}",
+        "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
     }
 

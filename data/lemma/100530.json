@@ -1,0 +1,91 @@
+{
+  "source_article_id": 100530,
+  "lemmas": [
+    {
+      "lemma": "kalles",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 160103,
+      "is_sub_article": false,
+      "primary_translation": "be summoned / be called",
+      "word_forms": [
+        {
+          "word_form": "kalles",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kA$l@s",
+              "ipa": "ˈkɑləs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kaltes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAl$t@s",
+              "ipa": "ˈkɑltəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1c8a544ab3b8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1c8a544ab3b8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1c8a544ab3b8.mp3",
+            "text": "kalles",
+            "source": "generated",
+            "content_sha256": "ef9e8643f6ef69513608498a2c0d198836aaa1fe41e97ce148ceb8f61ec09f6f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli innkalt",
+      "translation": "to be summoned",
+      "examples": [
+        "pasienten kalles inn til kontroll om en uke"
+      ]
+    },
+    {
+      "text": "bli kalt",
+      "translation": "to be called",
+      "examples": []
+    },
+    {
+      "text": "gå under navn av",
+      "translation": "to go by the name of",
+      "examples": [
+        "Ghana kaltes tidligere Gullkysten",
+        "hvitkål kalles også vinterkål"
+      ]
+    }
+  ]
+}

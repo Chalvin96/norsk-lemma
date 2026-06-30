@@ -1,0 +1,83 @@
+{
+  "source_article_id": 13227,
+  "lemmas": [
+    {
+      "lemma": "etisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15364,
+      "is_sub_article": false,
+      "primary_translation": "ethical",
+      "word_forms": [
+        {
+          "word_form": "etisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$tI$sk",
+              "ipa": "ˈeːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "etiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$tI$sk@",
+              "ipa": "ˈeːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fc3e32aa5f9a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc3e32aa5f9a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc3e32aa5f9a.mp3",
+            "text": "etisk",
+            "source": "generated",
+            "content_sha256": "cf06ff5a3bdfc3fac6fb1513c4a29b9e1da60aaff9c5b375f295ca17a2b8ba32",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller samsvarer med etikk",
+      "translation": "concerning or in accordance with ethics",
+      "examples": [
+        "etiske verdier",
+        "et strengt etisk regelverk",
+        "de etiske aspektene ved matproduksjon",
+        "etisk vanskelige avgjørelser"
+      ]
+    }
+  ]
+}

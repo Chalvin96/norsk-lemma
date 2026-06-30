@@ -1,0 +1,119 @@
+{
+  "source_article_id": 30086,
+  "lemmas": [
+    {
+      "lemma": "klient",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35490,
+      "is_sub_article": false,
+      "primary_translation": "client / patient",
+      "word_forms": [
+        {
+          "word_form": "klient",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"Ent",
+              "ipa": "klɪˈɛnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klienten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"En$tn=",
+              "ipa": "klɪˈɛntn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klienter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"En$t@r",
+              "ipa": "klɪˈɛntər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klientene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"En$tn=$@",
+              "ipa": "klɪˈɛntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "02605299f903.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/02605299f903.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/02605299f903.mp3",
+            "text": "klient",
+            "source": "generated",
+            "content_sha256": "d51863addeedeaf37e53bd44956b909ea7c8d14bb6e4114d2cb490b5966b32b8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som søker bistand hos advokat, lege, sosialarbeider eller lignende",
+      "translation": "person seeking assistance from a lawyer, doctor, social worker",
+      "examples": []
+    },
+    {
+      "text": "person som får hjelp fra det offentlige",
+      "translation": "person receiving help from public services",
+      "examples": []
+    },
+    {
+      "text": "i IT: program eller datamaskin som via et nettverk får tilgang til data og tjenester på en server",
+      "translation": "in IT: program or computer that accesses data and services on a server via a network",
+      "examples": []
+    }
+  ]
+}

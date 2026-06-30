@@ -1,0 +1,85 @@
+{
+  "source_article_id": 7625,
+  "lemmas": [
+    {
+      "lemma": "bronkittisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 9004,
+      "is_sub_article": false,
+      "primary_translation": "bronchitic",
+      "word_forms": [
+        {
+          "word_form": "bronkittisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "brON$\"kI$tI$sk",
+              "ipa": "brɔŋˈkɪtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bronkittiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "brON$\"kI$tI$sk@",
+              "ipa": "brɔŋˈkɪtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "42b8d66638a0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42b8d66638a0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42b8d66638a0.mp3",
+            "text": "bronkittisk",
+            "source": "generated",
+            "content_sha256": "905768946ac1ca1796e564367612fee889ef43c2c599a32a9ad21c1bf18c28f0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder bronkitt",
+      "translation": "relating to bronchitis",
+      "examples": []
+    },
+    {
+      "text": "som lider av bronkitt",
+      "translation": "suffering from bronchitis",
+      "examples": [
+        "bronkittisk hoste"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source_article_id": 43352,
+  "lemmas": [
+    {
+      "lemma": "orknøysk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50216,
+      "is_sub_article": false,
+      "primary_translation": "Orkney",
+      "word_forms": [
+        {
+          "word_form": "orknøysk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Or$kn=$%9*Y$sk",
+              "ipa": "ˈɔrkn̩ˌœ͡ʏsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "orknøyske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Or$kn=$%9*Y$sk@",
+              "ipa": "ˈɔrkn̩ˌœ͡ʏskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "530f3a5e09b4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/530f3a5e09b4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/530f3a5e09b4.mp3",
+            "text": "orknøysk",
+            "source": "generated",
+            "content_sha256": "1cd3be7d28ed0f9c3fecf71624498eb5a9ca79d50a50480c322b0fb52552a34b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Orknøyene og orknøyinger",
+      "translation": "relating to the Orkney Islands and Orcadians",
+      "examples": []
+    }
+  ]
+}

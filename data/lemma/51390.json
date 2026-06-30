@@ -1,0 +1,97 @@
+{
+  "source_article_id": 51390,
+  "lemmas": [
+    {
+      "lemma": "signifikans",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 59097,
+      "is_sub_article": false,
+      "primary_translation": "significance",
+      "word_forms": [
+        {
+          "word_form": "signifikans",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sI$gnI$fI$\"kAns",
+              "ipa": "sɪgnɪfɪˈkɑns",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "signifikansen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sI$gnI$fI$\"kAn$sn=",
+              "ipa": "sɪgnɪfɪˈkɑnsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "signifikanser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "signifikansene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2144403d929e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2144403d929e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2144403d929e.mp3",
+            "text": "signifikans",
+            "source": "generated",
+            "content_sha256": "c181e68b0c4523657c7ce6326f8314f315427947f4d1822fab2ae9b50958fd92",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være signifikant",
+      "translation": "the state of being significant",
+      "examples": [
+        "studien har for få deltakere til å ha statistisk signifikans"
+      ]
+    }
+  ]
+}

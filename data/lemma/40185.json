@@ -1,0 +1,120 @@
+{
+  "source_article_id": 40185,
+  "lemmas": [
+    {
+      "lemma": "nasjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47046,
+      "is_sub_article": false,
+      "primary_translation": "nation / people / state",
+      "word_forms": [
+        {
+          "word_form": "nasjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"Su:n",
+              "ipa": "nɑˈʃuːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nasjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"Su:$nn=",
+              "ipa": "nɑˈʃuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nasjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"Su:$n@r",
+              "ipa": "nɑˈʃuːnər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nasjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"Su:$nn=$@",
+              "ipa": "nɑˈʃuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "36bd7414be6a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/36bd7414be6a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/36bd7414be6a.mp3",
+            "text": "nasjon",
+            "source": "generated",
+            "content_sha256": "f5e8140f48d856950706b723416ddfa67ba9f25859e15a8137ff38fcea7cf979",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gruppe mennesker som føler seg som en enhet på grunn av felles historie og kultur, oftest også felles språk",
+      "translation": "group of people who feel united by common history and culture, often also by common language",
+      "examples": [
+        "hele nasjonen stod bak kravet",
+        "den samiske nasjon"
+      ]
+    },
+    {
+      "text": "stat, land, rike",
+      "translation": "state, country, realm",
+      "examples": [
+        "selvstendig nasjon",
+        "demokratiske nasjoner"
+      ]
+    }
+  ]
+}

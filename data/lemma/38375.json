@@ -1,0 +1,108 @@
+{
+  "source_article_id": 38375,
+  "lemmas": [
+    {
+      "lemma": "militær",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 45024,
+      "is_sub_article": false,
+      "primary_translation": "military / non-civilian",
+      "word_forms": [
+        {
+          "word_form": "militær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$lI$\"t{:r",
+              "ipa": "mɪlɪˈtæːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "militære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$lI$\"t{:$r@",
+              "ipa": "mɪlɪˈtæːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "militært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$lI$\"t{:t`",
+              "ipa": "mɪlɪˈtæːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8dd36a7631b1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8dd36a7631b1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8dd36a7631b1.mp3",
+            "text": "militær",
+            "source": "generated",
+            "content_sha256": "436c80b8f9835a1687c77d67eda9675af43b37352ac12247e4e1433eca1312c9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller tilhører et lands forsvar i tilfelle krig",
+      "translation": "relating to or belonging to a country's defense in case of war",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra sivil",
+      "translation": "as opposed to civilian",
+      "examples": [
+        "militære styrker",
+        "militært område",
+        "militær straffesak",
+        "fraråde et miltært angrep",
+        "ha erfaring fra det militære",
+        "norske militære deltar i den internasjonale operasjonen",
+        "en høytstående militær"
+      ]
+    }
+  ]
+}

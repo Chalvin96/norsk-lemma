@@ -1,0 +1,113 @@
+{
+  "source_article_id": 21358,
+  "lemmas": [
+    {
+      "lemma": "grøss",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 25022,
+      "is_sub_article": false,
+      "primary_translation": "shudder",
+      "word_forms": [
+        {
+          "word_form": "grøss",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr9s",
+              "ipa": "ˈgrœs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "grøsset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr9$s@",
+              "ipa": "ˈgrœsə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "grøssa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr9$sA",
+              "ipa": "ˈgrœsɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "grøssene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr9$sn=$@",
+              "ipa": "ˈgrœsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f3bc24672cf6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3bc24672cf6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3bc24672cf6.mp3",
+            "text": "grøss",
+            "source": "generated",
+            "content_sha256": "10fa515fc2376ec5457619cdb5a317fea72909a60493c064b72d8cfbf6f3878f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å grøsse",
+      "translation": "the act of shuddering",
+      "examples": [
+        "det gikk et grøss gjennom publikum",
+        "grøss og gru"
+      ]
+    }
+  ]
+}

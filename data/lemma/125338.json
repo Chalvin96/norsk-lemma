@@ -1,0 +1,86 @@
+{
+  "source_article_id": 125338,
+  "lemmas": [
+    {
+      "lemma": "privilegert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2010621,
+      "is_sub_article": false,
+      "primary_translation": "privileged",
+      "word_forms": [
+        {
+          "word_form": "privilegert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prI$vI$lI$\"ge:t`",
+              "ipa": "prɪvɪlɪˈgeːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "privilegerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prI$vI$lI$\"ge:$t`@",
+              "ipa": "prɪvɪlɪˈgeːʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8eb30768083a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8eb30768083a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8eb30768083a.mp3",
+            "text": "privilegert",
+            "source": "generated",
+            "content_sha256": "1a2b8204787f42b78f9ec94c7bea2dd83c94d1dfdf807eb53e814f62b9cb3790",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har (mange) privilegium",
+      "translation": "having (many) privileges",
+      "examples": []
+    },
+    {
+      "text": "som har flere goder eller fordeler enn andre",
+      "translation": "having more benefits or advantages than others",
+      "examples": [
+        "ha en privilegert stilling",
+        "vi er privilegerte som lever i en velferdsstat"
+      ]
+    }
+  ]
+}

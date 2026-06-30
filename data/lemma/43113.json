@@ -1,0 +1,89 @@
+{
+  "source_article_id": 43113,
+  "lemmas": [
+    {
+      "lemma": "opptatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49964,
+      "is_sub_article": false,
+      "primary_translation": "busy / not free",
+      "word_forms": [
+        {
+          "word_form": "opptatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%tAt",
+              "ipa": "ˈɔpˌtɑt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "opptatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%tA$t@",
+              "ipa": "ˈɔpˌtɑtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "73f42df5e1c0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73f42df5e1c0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73f42df5e1c0.mp3",
+            "text": "opptatt",
+            "source": "generated",
+            "content_sha256": "9b86447b5561bdd09276b5393239ce7fff826b1f42c362f06814a1c0f7a58dd9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er i arbeid",
+      "translation": "working",
+      "examples": [
+        "en opptatt kvinne",
+        "sjefen er opptatt"
+      ]
+    },
+    {
+      "text": "ikke ledig",
+      "translation": "not free",
+      "examples": [
+        "plassen er opptatt",
+        "de opptatte setene"
+      ]
+    }
+  ]
+}

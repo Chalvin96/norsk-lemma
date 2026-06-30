@@ -1,0 +1,86 @@
+{
+  "source_article_id": 16425,
+  "lemmas": [
+    {
+      "lemma": "forklarlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19054,
+      "is_sub_article": false,
+      "primary_translation": "explainable",
+      "word_forms": [
+        {
+          "word_form": "forklarlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"klA:$l`I",
+              "ipa": "fɔrˈklɑːɭɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forklarlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"klA:$l`I$@",
+              "ipa": "fɔrˈklɑːɭɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6ba8fc81dd98.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ba8fc81dd98.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ba8fc81dd98.mp3",
+            "text": "forklarlig",
+            "source": "generated",
+            "content_sha256": "d833a2db951b6ed00024769016d92d9796d8a528bffd9f2d190b1368b9ba4039",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lar seg forklare",
+      "translation": "that can be explained",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra uforklarlig",
+      "translation": "as opposed to inexplicable",
+      "examples": [
+        "et forklarlig fenomen",
+        "av lett forklarlige grunner"
+      ]
+    }
+  ]
+}

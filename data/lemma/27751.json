@@ -1,0 +1,110 @@
+{
+  "source_article_id": 27751,
+  "lemmas": [
+    {
+      "lemma": "jogg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 32916,
+      "is_sub_article": false,
+      "primary_translation": "jogging",
+      "word_forms": [
+        {
+          "word_form": "jogg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jOg",
+              "ipa": "ˈjɔg",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "joggen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jO$g@n",
+              "ipa": "ˈjɔgən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jogger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jO$g@r",
+              "ipa": "ˈjɔgər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "joggene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "42023a089ace.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42023a089ace.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42023a089ace.mp3",
+            "text": "jogg",
+            "source": "generated",
+            "content_sha256": "c4ab9ccca256420b6e6213d0713b58ad2b61f5f6985660c3fe416f655960fa77",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å jogge",
+      "translation": "the act of jogging",
+      "examples": []
+    },
+    {
+      "text": "jogging",
+      "translation": "jogging",
+      "examples": [
+        "ta litt lett jogg",
+        "veksle mellom gange, jogg og løp"
+      ]
+    }
+  ]
+}

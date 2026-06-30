@@ -1,0 +1,118 @@
+{
+  "source_article_id": 3345,
+  "lemmas": [
+    {
+      "lemma": "avanse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3981,
+      "is_sub_article": false,
+      "primary_translation": "profit margin",
+      "word_forms": [
+        {
+          "word_form": "avanse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"vAn$s@",
+              "ipa": "ɑˈvɑnsə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "avansen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"vAn$sn=",
+              "ipa": "ɑˈvɑnsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "avanser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"vAn$s@r",
+              "ipa": "ɑˈvɑnsər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "avansene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"vAN$sn=$@",
+              "ipa": "ɑˈvɑŋsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5dc78e96e698.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5dc78e96e698.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5dc78e96e698.mp3",
+            "text": "avanse",
+            "source": "generated",
+            "content_sha256": "e98f843f8edeca409e8dfe97e72e6d97399a5c6b7e0d597f7fb7d34d81bee442",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "salgspris minus inntakskost",
+      "translation": "selling price minus acquisition cost",
+      "examples": []
+    },
+    {
+      "text": "(brutto)fortjeneste",
+      "translation": "gross profit",
+      "examples": [
+        "beregne høy avanse på visse vareslag",
+        "en ublu avanse",
+        "30 % avanse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "source_article_id": 70007,
+  "lemmas": [
+    {
+      "lemma": "e-post",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157452,
+      "is_sub_article": false,
+      "primary_translation": "email",
+      "word_forms": [
+        {
+          "word_form": "e-post",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$%pO$st",
+              "ipa": "ˈeːˌpɔst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "e-posten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$%pO$stn=",
+              "ipa": "ˈeːˌpɔstn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "e-poster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$%pO$st@r",
+              "ipa": "ˈeːˌpɔstər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "e-postene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$%pO$stn=$@",
+              "ipa": "ˈeːˌpɔstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "af353041025d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af353041025d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af353041025d.mp3",
+            "text": "e-post",
+            "source": "generated",
+            "content_sha256": "ef51e7ebf237e2ed5666e0006737d1f8a3f48da2a2aa27a4752384792842d77c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "system for å utveksle elektroniske dokumenter, brev og meldinger over internett eller et lokalt nettverk",
+      "translation": "system for exchanging electronic documents, letters, and messages over the internet or a local network",
+      "examples": []
+    },
+    {
+      "text": "enkeltbrev sendt elektronisk",
+      "translation": "single letter sent electronically",
+      "examples": []
+    },
+    {
+      "text": "kortform av elektronisk post",
+      "translation": "short form of electronic mail",
+      "examples": [
+        "få e-post",
+        "åpne e-posten",
+        "slette e-posten",
+        "meldingen kom på e-post",
+        "sende mange e-poster til kollegaene"
+      ]
+    }
+  ]
+}

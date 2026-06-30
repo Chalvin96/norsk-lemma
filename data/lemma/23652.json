@@ -1,0 +1,104 @@
+{
+  "source_article_id": 23652,
+  "lemmas": [
+    {
+      "lemma": "hirse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 27863,
+      "is_sub_article": false,
+      "primary_translation": "millet (plant/grain)",
+      "word_forms": [
+        {
+          "word_form": "hirse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hI$s`@",
+              "ipa": "ˈhɪʂə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hirsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hI$s`n`=",
+              "ipa": "ˈhɪʂɳ̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hirser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "hirsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c8cd9f646556.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8cd9f646556.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8cd9f646556.mp3",
+            "text": "hirse",
+            "source": "generated",
+            "content_sha256": "8ec72e4b3446ac6b772308c99d90c52d55b0f86db01bedf38c47b544e8e29ecc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "plante av slekta Panicum i gressfamilien",
+      "translation": "plant of the genus Panicum in the grass family",
+      "examples": [
+        "dyrke hirse"
+      ]
+    },
+    {
+      "text": "korn av hirse",
+      "translation": "grain of millet",
+      "examples": [
+        "puffet hirse"
+      ]
+    }
+  ]
+}

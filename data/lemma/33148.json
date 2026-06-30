@@ -1,0 +1,116 @@
+{
+  "source_article_id": 33148,
+  "lemmas": [
+    {
+      "lemma": "kven",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 38877,
+      "is_sub_article": false,
+      "primary_translation": "Kven person",
+      "word_forms": [
+        {
+          "word_form": "kven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kve:n",
+              "ipa": "ˈkveːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvenen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kve:$nn=",
+              "ipa": "ˈkveːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvener",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kve:$n@r",
+              "ipa": "ˈkveːnər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvenene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kve:$nn=$@",
+              "ipa": "ˈkveːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dd510736b5ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd510736b5ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd510736b5ab.mp3",
+            "text": "kven",
+            "source": "generated",
+            "content_sha256": "b21165c7c0321cbe0795dae8c57659a3d34f96a60e3c1aed3ac76798cc625192",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som stammer fra finske innvandrere til Nord-Norge på 1700- og 1800-tallet",
+      "translation": "person originating from Finnish immigrants to Northern Norway in the 18th and 19th centuries",
+      "examples": []
+    },
+    {
+      "text": "jamfør kvensk",
+      "translation": "Norwegian Finn",
+      "examples": [
+        "kvenene har status som én av de fem nasjonale minoritetene i Norge"
+      ]
+    }
+  ]
+}

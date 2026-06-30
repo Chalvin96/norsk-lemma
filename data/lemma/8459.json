@@ -1,0 +1,117 @@
+{
+  "source_article_id": 8459,
+  "lemmas": [
+    {
+      "lemma": "bø",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 10120,
+      "is_sub_article": false,
+      "primary_translation": "meadow / farmstead",
+      "word_forms": [
+        {
+          "word_form": "bø",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b2:",
+              "ipa": "ˈbøː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bøen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b2:$@n",
+              "ipa": "ˈbøːən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bøer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"b2:$@r",
+              "ipa": "ˈbøːər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bøene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"b2:$@$n@",
+              "ipa": "ˈbøːənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "41f05eb6b807.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41f05eb6b807.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41f05eb6b807.mp3",
+            "text": "bø",
+            "source": "generated",
+            "content_sha256": "02c01cac8ee4058c0a3106a5837bf0a4e46d02fca0a550a3224e20e5bee114ce",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innmark omkring en gård gard",
+      "translation": "infield around a farm",
+      "examples": [
+        "gårdene ligger bø i bø",
+        "slippe kyrne ut på bøen"
+      ]
+    },
+    {
+      "text": "i gårdsnavn: bondegård bondegard",
+      "translation": "in farm names: farmstead",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_article_id": 27897,
+  "lemmas": [
+    {
+      "lemma": "joule",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 33084,
+      "is_sub_article": false,
+      "primary_translation": "joule",
+      "word_forms": [
+        {
+          "word_form": "joule",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"j}:l",
+              "ipa": "ˈjʉːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "joulen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"j}:$ln=",
+              "ipa": "ˈjʉːln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "joulene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"j}:$ln=$@",
+              "ipa": "ˈjʉːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0fc6891b83ad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0fc6891b83ad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0fc6891b83ad.mp3",
+            "text": "joule",
+            "source": "generated",
+            "content_sha256": "ae2c9c061b30d9d07587411f981c9a2d9009fccc0c4fa7ad94a4c1c807943625",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "målenhet for energi",
+      "translation": "unit of energy",
+      "examples": []
+    },
+    {
+      "text": "symbol J",
+      "translation": "symbol J",
+      "examples": [
+        "1 kalori = 4,2 joule"
+      ]
+    }
+  ]
+}

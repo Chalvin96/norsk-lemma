@@ -1,0 +1,81 @@
+{
+  "source_article_id": 60344,
+  "lemmas": [
+    {
+      "lemma": "teologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 69011,
+      "is_sub_article": false,
+      "primary_translation": "theological",
+      "word_forms": [
+        {
+          "word_form": "teologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$U$\"lo:$gI$sk",
+              "ipa": "təʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "teologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$U$\"lo:$gI$sk@",
+              "ipa": "təʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a85a965fec19.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a85a965fec19.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a85a965fec19.mp3",
+            "text": "teologisk",
+            "source": "generated",
+            "content_sha256": "6dd92446a1c91f54fda21f96e2dbf787ca588e65cd3eb09feb8fced5e5806e96",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har med teologi å gjøre",
+      "translation": "related to theology",
+      "examples": [
+        "teologisk embetseksamen",
+        "teologisk diskusjon"
+      ]
+    }
+  ]
+}

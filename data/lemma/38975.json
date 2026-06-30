@@ -1,0 +1,116 @@
+{
+  "source_article_id": 38975,
+  "lemmas": [
+    {
+      "lemma": "mono",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45722,
+      "is_sub_article": false,
+      "primary_translation": "mono sound / stereo",
+      "word_forms": [
+        {
+          "word_form": "mono",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu:$nU",
+              "ipa": "ˈmuːnʊ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "monoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu:$nU$@n",
+              "ipa": "ˈmuːnʊən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "monoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu:$nU$@r",
+              "ipa": "ˈmuːnʊər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "monoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu:$nU$@$n@",
+              "ipa": "ˈmuːnʊənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43fbd9426334.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43fbd9426334.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43fbd9426334.mp3",
+            "text": "mono",
+            "source": "generated",
+            "content_sha256": "36ad730821fd088fc571b44b68011a8bd7dec2521d9323a04a37a00d456efc45",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lydgjengivelse i én kanal",
+      "translation": "sound reproduction in one channel",
+      "examples": []
+    },
+    {
+      "text": "motsatt stereo",
+      "translation": "stereo",
+      "examples": [
+        "en gammel lp-plate i mono"
+      ]
+    }
+  ]
+}

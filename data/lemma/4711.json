@@ -1,0 +1,99 @@
+{
+  "source_article_id": 4711,
+  "lemmas": [
+    {
+      "lemma": "baskisk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 5544,
+      "is_sub_article": false,
+      "primary_translation": "Basque language",
+      "word_forms": [
+        {
+          "word_form": "baskisk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA$skI$sk",
+              "ipa": "ˈbɑskɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "baskisken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA$skI$sk@n",
+              "ipa": "ˈbɑskɪskən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "baskisker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "baskiskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2db142351738.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2db142351738.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2db142351738.mp3",
+            "text": "baskisk",
+            "source": "generated",
+            "content_sha256": "df945303c008cb52849972ee0d674ebde6ce16508ffc3ffbc91a7705038ec78c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språk som hovedsakelig blir brukt i Baskerland i Nord-Spania",
+      "translation": "language primarily spoken in the Basque Country in Northern Spain",
+      "examples": [
+        "undervise på baskisk"
+      ]
+    }
+  ]
+}

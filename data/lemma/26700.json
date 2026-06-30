@@ -1,0 +1,80 @@
+{
+  "source_article_id": 26700,
+  "lemmas": [
+    {
+      "lemma": "innsprengt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31781,
+      "is_sub_article": false,
+      "primary_translation": "blasted in",
+      "word_forms": [
+        {
+          "word_form": "innsprengt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%sprENgt",
+              "ipa": "ˈɪnˌsprɛŋgt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innsprengte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%sprENg$t@",
+              "ipa": "ˈɪnˌsprɛŋgtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7e2bb0a68b53.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e2bb0a68b53.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e2bb0a68b53.mp3",
+            "text": "innsprengt",
+            "source": "generated",
+            "content_sha256": "51f9d12c71c8f38d4f2dcb5ac0b67a65a7ee5ec36a07915c6ca1e146e0215def",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er sprengt inn",
+      "translation": "that which is blasted in",
+      "examples": [
+        "en bergart med innsprengt kvarts"
+      ]
+    }
+  ]
+}

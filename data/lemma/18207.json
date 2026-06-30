@@ -1,0 +1,108 @@
+{
+  "source_article_id": 18207,
+  "lemmas": [
+    {
+      "lemma": "frostfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82493,
+      "is_sub_article": false,
+      "primary_translation": "frost-proof / frost-free",
+      "word_forms": [
+        {
+          "word_form": "frostfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frO$%stfri:",
+              "ipa": "ˈfrɔˌstfrɪː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "frostfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frO$%stfri:$@",
+              "ipa": "ˈfrɔˌstfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "frostfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frO$%stfrIt",
+              "ipa": "ˈfrɔˌstfrɪt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4033bafdafd9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4033bafdafd9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4033bafdafd9.mp3",
+            "text": "frostfri",
+            "source": "generated",
+            "content_sha256": "ab0549052e0975d9f1c4c1190c01ffdd22078334cbee5ed059551b0bc41efbc0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "trygg for frost",
+      "translation": "safe from frost",
+      "examples": [
+        "frostfri kjeller"
+      ]
+    },
+    {
+      "text": "som tåler sterk kulde uten å fryse",
+      "translation": "that can withstand strong cold without freezing",
+      "examples": [
+        "frostfri kjølevæske"
+      ]
+    },
+    {
+      "text": "uten frost",
+      "translation": "without frost",
+      "examples": [
+        "frostfri natt"
+      ]
+    }
+  ]
+}

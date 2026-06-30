@@ -1,0 +1,97 @@
+{
+  "source_article_id": 41407,
+  "lemmas": [
+    {
+      "lemma": "nysnø",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 48398,
+      "is_sub_article": false,
+      "primary_translation": "fresh snow",
+      "word_forms": [
+        {
+          "word_form": "nysnø",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%sn2:",
+              "ipa": "ˈnyːˌsnøː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nysnøen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%sn2:$@n",
+              "ipa": "ˈnyːˌsnøːən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nysnøer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nysnøene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "754cd320948f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/754cd320948f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/754cd320948f.mp3",
+            "text": "nysnø",
+            "source": "generated",
+            "content_sha256": "e2f9af91d14e2a38fa3e4ddedf2e6a14ae6047962279df7824f5c52940fff5f2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "snø som nettopp har falt",
+      "translation": "snow that has just fallen",
+      "examples": [
+        "landskapet fikk et dryss av nysnø"
+      ]
+    }
+  ]
+}

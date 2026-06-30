@@ -1,0 +1,120 @@
+{
+  "source_article_id": 51450,
+  "lemmas": [
+    {
+      "lemma": "sikring",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 83158,
+      "is_sub_article": false,
+      "primary_translation": "fuse / safety catch",
+      "word_forms": [
+        {
+          "word_form": "sikring",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sI$krIN",
+              "ipa": "ˈsɪkrɪŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sikringen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sI$krIN$@n",
+              "ipa": "ˈsɪkrɪŋən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sikringer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sI$krIN$@r",
+              "ipa": "ˈsɪkrɪŋər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sikringene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sI$krIN$@$n@",
+              "ipa": "ˈsɪkrɪŋənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "302275a675e9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/302275a675e9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/302275a675e9.mp3",
+            "text": "sikring",
+            "source": "generated",
+            "content_sha256": "778bb63d55c87bfc05504db419ab3751e9550e390db9bea603ce0244b49de52b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mekanisme til å sikre noe med",
+      "translation": "mechanism for securing something",
+      "examples": [
+        "sikringen på geværet",
+        "sikringen på en håndgranat"
+      ]
+    },
+    {
+      "text": "innretning i elektrisk ledningsnett som bryter strømmen når den blir for sterk",
+      "translation": "device in an electrical wiring system that breaks the circuit when the current becomes too strong",
+      "examples": [
+        "en ti amperes sikring",
+        "det røk en sikring"
+      ]
+    }
+  ]
+}

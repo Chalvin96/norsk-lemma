@@ -1,0 +1,98 @@
+{
+  "source_article_id": 45532,
+  "lemmas": [
+    {
+      "lemma": "polymorf",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 52518,
+      "is_sub_article": false,
+      "primary_translation": "polymorphic",
+      "word_forms": [
+        {
+          "word_form": "polymorf",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$\"mOrf",
+              "ipa": "pʊlɪˈmɔrf",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "polymorfe",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$\"mOr$f@",
+              "ipa": "pʊlɪˈmɔrfə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "polymorft",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$\"mOrft",
+              "ipa": "pʊlɪˈmɔrft",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "baac4a50a630.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/baac4a50a630.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/baac4a50a630.mp3",
+            "text": "polymorf",
+            "source": "generated",
+            "content_sha256": "6b36619c87b5aa2caccd345f32321c2a2ee0244d6e2b3da23ee73e598a63c0ea",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som opptrer i forskjellige former",
+      "translation": "occurring in different forms",
+      "examples": [
+        "polymorfe stoffer",
+        "polymorfe dyrearter"
+      ]
+    }
+  ]
+}

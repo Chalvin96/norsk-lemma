@@ -1,0 +1,78 @@
+{
+  "source_article_id": 123480,
+  "lemmas": [
+    {
+      "lemma": "hen",
+      "hgno": 1,
+      "pos": "PRON",
+      "source_lemma_id": 2007492,
+      "is_sub_article": false,
+      "primary_translation": "they (singular, gender-neutral pronoun)",
+      "word_forms": [
+        {
+          "word_form": "hen",
+          "tags_json": [
+            "Prs",
+            "3",
+            "Sing",
+            "Hum",
+            "Nom",
+            "Acc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEn",
+              "ipa": "ˈhɛn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "461f5fa91adf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/461f5fa91adf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/461f5fa91adf.mp3",
+            "text": "hen",
+            "source": "generated",
+            "content_sha256": "c84079d8f86a648723b86c24f92ffa7a0a2321ec87fab4d29485d2c81355e1d7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt for å vise til en person når kjønn er ukjent, uvesentlig eller holdes skjult",
+      "translation": "used to refer to a person when gender is unknown, irrelevant, or being concealed",
+      "examples": []
+    },
+    {
+      "text": "han/hun, han eller hun, vedkommende",
+      "translation": "he/she, he or she, that person",
+      "examples": [
+        "eleven må vise hva hen duger til",
+        "pasienten sier hen har vært syk lenge",
+        "kjøperen må vise kvittering hvis hen returnerer varen",
+        "hva mener en italiener når hen sier ‘buona sera’?"
+      ]
+    },
+    {
+      "text": "brukt for å vise til en person som foretrekker pronomenet ‘hen’ framfor ‘han’ eller ‘hun’",
+      "translation": "used to refer to a person who prefers the pronoun 'hen' over 'han' or 'hun'",
+      "examples": [
+        "hvor er Kim, har noen sett hen?",
+        "hen er ikke-binær"
+      ]
+    }
+  ]
+}

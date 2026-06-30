@@ -1,0 +1,104 @@
+{
+  "source_article_id": 49905,
+  "lemmas": [
+    {
+      "lemma": "samisk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 57256,
+      "is_sub_article": false,
+      "primary_translation": "Sami language",
+      "word_forms": [
+        {
+          "word_form": "samisk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sA:$mI$sk",
+              "ipa": "ˈsɑːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "samisken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sA:$mI$sk@n",
+              "ipa": "ˈsɑːmɪskən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "samisker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "samiskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "660330d198b6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/660330d198b6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/660330d198b6.mp3",
+            "text": "samisk",
+            "source": "generated",
+            "content_sha256": "144797e7fd534ea2de0d3e34121e31c5a9e9d8ee3c795ec23f45b3f14e4ef3a9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "finsk-ugrisk språkgruppe hovedsakelig brukt av samer i Nord-Skandinavia, Nord-Finland og til dels i Russland",
+      "translation": "Finno-Ugric language group mainly used by Sami people in Northern Scandinavia, Northern Finland, and partly in Russia",
+      "examples": []
+    },
+    {
+      "text": "jamfør lulesamisk, nordsamisk, pitesamisk, sørsamisk sydsamisk og umesamisk",
+      "translation": "Lule Sami, Northern Sami, Pite Sami, Southern Sami, Ume Sami",
+      "examples": [
+        "samisk har ett kjønn og åtte kasus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_article_id": 62122,
+  "lemmas": [
+    {
+      "lemma": "trenges",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 71042,
+      "is_sub_article": false,
+      "primary_translation": "to be needed",
+      "word_forms": [
+        {
+          "word_form": "trenges",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"trEN$@s",
+              "ipa": "ˈtrɛŋəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trengtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"trEN$t@s",
+              "ipa": "ˈtrɛŋtəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trengs",
+          "tags_json": [
+            "verb",
+            "Pres",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trENs",
+              "ipa": "ˈtrɛŋs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0aa5861768ee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0aa5861768ee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0aa5861768ee.mp3",
+            "text": "trenges",
+            "source": "generated",
+            "content_sha256": "64b59dd1879a070fc24d8d34f25cdeba03f2275687aab04e774e1c8f08b6aadd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "være bruk for",
+      "translation": "to be needed",
+      "examples": [
+        "det trengs ikke",
+        "han samlet inn det utstyret som trengtest"
+      ]
+    }
+  ]
+}

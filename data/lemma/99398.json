@@ -1,0 +1,82 @@
+{
+  "source_article_id": 99398,
+  "lemmas": [
+    {
+      "lemma": "GPS-sender",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157631,
+      "is_sub_article": false,
+      "primary_translation": "GPS transmitter",
+      "word_forms": [
+        {
+          "word_form": "GPS-sender",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "GPS-senderen",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "GPS-sendere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "GPS-senderne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "577eb71a4842.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/577eb71a4842.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/577eb71a4842.mp3",
+            "text": "GPS-sender",
+            "source": "generated",
+            "content_sha256": "ac776fe30037bd4503557e945ba7807261b2cd6a20581d2a44acdcdf1f256521"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "elektronisk instrument som sender signaler til en satellitt om nåværende posisjon",
+      "translation": "electronic instrument that sends signals to a satellite about current position",
+      "examples": [
+        "en GPS-sender i bilen kan registrere hvor langt den enkelte bilist kjører"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source_article_id": 33888,
+  "lemmas": [
+    {
+      "lemma": "lappisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39756,
+      "is_sub_article": false,
+      "primary_translation": "Sámi (outdated)",
+      "word_forms": [
+        {
+          "word_form": "lappisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lA$pI$sk",
+              "ipa": "ˈlɑpɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lappiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lA$pI$sk@",
+              "ipa": "ˈlɑpɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dbfeb3d6861f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dbfeb3d6861f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dbfeb3d6861f.mp3",
+            "text": "lappisk",
+            "source": "generated",
+            "content_sha256": "5bda4664020d4e5237df70c1432eed340c4d4735ef5655aba452fff8c3a79da9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utdatert betegnelse for samisk",
+      "translation": "outdated term for Sámi",
+      "examples": []
+    }
+  ]
+}

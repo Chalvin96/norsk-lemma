@@ -1,0 +1,81 @@
+{
+  "source_article_id": 125738,
+  "lemmas": [
+    {
+      "lemma": "påstått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2032729,
+      "is_sub_article": false,
+      "primary_translation": "alleged",
+      "word_forms": [
+        {
+          "word_form": "påstått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%stOt",
+              "ipa": "ˈpoːˌstɔt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "påståtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%stO$t@",
+              "ipa": "ˈpoːˌstɔtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d81d2b79a01b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d81d2b79a01b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d81d2b79a01b.mp3",
+            "text": "påstått",
+            "source": "generated",
+            "content_sha256": "b16ae45a485a9de7df8043d532450b7b874069fd754ec9520d9f37da3c87ec22",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som blir hevdet uten grunnlag",
+      "translation": "claimed without basis",
+      "examples": [
+        "den påståtte kultlederen ble fengslet",
+        "en påstått romanse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "source_article_id": 18840,
+  "lemmas": [
+    {
+      "lemma": "fåtallig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 21751,
+      "is_sub_article": false,
+      "primary_translation": "few in number",
+      "word_forms": [
+        {
+          "word_form": "fåtallig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fo:$%tA$lI",
+              "ipa": "ˈfoːˌtɑlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fåtallige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fo:$%tA$lI$@",
+              "ipa": "ˈfoːˌtɑlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9dd6e8541ca0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9dd6e8541ca0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9dd6e8541ca0.mp3",
+            "text": "fåtallig",
+            "source": "generated",
+            "content_sha256": "416cf30a39edc911988a6ec87e4db34ca094470cffb2ff579ba7a23b0b971eb9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som består av få personer",
+      "translation": "consisting of few people",
+      "examples": []
+    },
+    {
+      "text": "få i antall",
+      "translation": "few in number",
+      "examples": [
+        "et fåtallig publikum",
+        "en fåtallig forsamling"
+      ]
+    }
+  ]
+}

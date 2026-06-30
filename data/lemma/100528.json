@@ -1,0 +1,83 @@
+{
+  "source_article_id": 100528,
+  "lemmas": [
+    {
+      "lemma": "fødes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 160098,
+      "is_sub_article": false,
+      "primary_translation": "to be born",
+      "word_forms": [
+        {
+          "word_form": "fødes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f2:$d@s",
+              "ipa": "ˈføːdəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fødtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f9$t@s",
+              "ipa": "ˈfœtəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "73d27a2f37ba.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73d27a2f37ba.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73d27a2f37ba.mp3",
+            "text": "fødes",
+            "source": "generated",
+            "content_sha256": "a21c4350caf409d10f9786a63c3d7b78a26137e8bc36fda479938920d22a7766",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "komme til verden",
+      "translation": "to come into the world",
+      "examples": []
+    },
+    {
+      "text": "bli født",
+      "translation": "to be born",
+      "examples": [
+        "hvert år fødes det rundt 60 000 barn i Norge"
+      ]
+    }
+  ]
+}

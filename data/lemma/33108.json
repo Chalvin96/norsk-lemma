@@ -1,0 +1,111 @@
+{
+  "source_article_id": 33108,
+  "lemmas": [
+    {
+      "lemma": "kvekk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 38836,
+      "is_sub_article": false,
+      "primary_translation": "startle",
+      "word_forms": [
+        {
+          "word_form": "kvekk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kvEk",
+              "ipa": "ˈkvɛk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvekken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kvE$k@n",
+              "ipa": "ˈkvɛkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvekker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvE$k@r",
+              "ipa": "ˈkvɛkər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvekkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kvE$k@$n@",
+              "ipa": "ˈkvɛkənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d30a1670234f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d30a1670234f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d30a1670234f.mp3",
+            "text": "kvekk",
+            "source": "generated",
+            "content_sha256": "95ba9bd309f2d2332c3ff858423cffd1e22caa61d3330f54cc063136ee5e55d5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "plutselig skrekk",
+      "translation": "sudden fright",
+      "examples": [
+        "det gav en kvekk i meg"
+      ]
+    }
+  ]
+}

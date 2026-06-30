@@ -1,0 +1,97 @@
+{
+  "source_article_id": 29899,
+  "lemmas": [
+    {
+      "lemma": "klangfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35291,
+      "is_sub_article": false,
+      "primary_translation": "resonant",
+      "word_forms": [
+        {
+          "word_form": "klangfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klAN$%fu0l",
+              "ipa": "ˈklɑŋˌfʉl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klangfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klAN$%fu0$l@",
+              "ipa": "ˈklɑŋˌfʉlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klangfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klAN$%fu0lt",
+              "ipa": "ˈklɑŋˌfʉlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "420ba3c35be3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/420ba3c35be3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/420ba3c35be3.mp3",
+            "text": "klangfull",
+            "source": "generated",
+            "content_sha256": "e27fd29d8ff138089d85f93b36c3867e633779e99df38a2d67a3811fa5cb4420",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har fyldig, rik klang",
+      "translation": "having a full, rich sound",
+      "examples": [
+        "en klangfull stemme"
+      ]
+    }
+  ]
+}

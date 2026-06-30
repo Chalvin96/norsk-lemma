@@ -1,0 +1,80 @@
+{
+  "source_article_id": 42356,
+  "lemmas": [
+    {
+      "lemma": "oppbrakt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49493,
+      "is_sub_article": false,
+      "primary_translation": "angry",
+      "word_forms": [
+        {
+          "word_form": "oppbrakt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%brAkt",
+              "ipa": "ˈɔpˌbrɑkt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "oppbrakte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%brAk$t@",
+              "ipa": "ˈɔpˌbrɑktə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f936affc839c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f936affc839c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f936affc839c.mp3",
+            "text": "oppbrakt",
+            "source": "generated",
+            "content_sha256": "84e9d177603c62e03cdd05932f313f282a538d4b9eccb1654a680f9c32809846",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sint, opphisset",
+      "translation": "angry, agitated",
+      "examples": [
+        "hun var oppbrakt over måten hun ble behandlet på"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_article_id": 243,
+  "lemmas": [
+    {
+      "lemma": "adstadig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1031,
+      "is_sub_article": false,
+      "primary_translation": "sedate / composed",
+      "word_forms": [
+        {
+          "word_form": "adstadig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ad$\"stA:$dI",
+              "ipa": "ɑdˈstɑːdɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "adstadige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ad$\"stA:$dI$@",
+              "ipa": "ɑdˈstɑːdɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c31e817e1ae9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c31e817e1ae9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c31e817e1ae9.mp3",
+            "text": "adstadig",
+            "source": "generated",
+            "content_sha256": "c5e6ba9526934071f00f0b078725bbcb6dcf8ceeddee5af90c0c5bfc1c1ac85a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rolig og sindig, sedat",
+      "translation": "calm and composed, sedate",
+      "examples": [
+        "en adstadig mann",
+        "gå med adstadige skritt"
+      ]
+    }
+  ]
+}

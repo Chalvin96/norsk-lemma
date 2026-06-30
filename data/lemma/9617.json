@@ -1,0 +1,80 @@
+{
+  "source_article_id": 9617,
+  "lemmas": [
+    {
+      "lemma": "delelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11329,
+      "is_sub_article": false,
+      "primary_translation": "divisible",
+      "word_forms": [
+        {
+          "word_form": "delelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"de:$l@$lI",
+              "ipa": "ˈdeːləlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "delelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"de:$l@$lI$@",
+              "ipa": "ˈdeːləlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bbd4ff4aef4a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbd4ff4aef4a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbd4ff4aef4a.mp3",
+            "text": "delelig",
+            "source": "generated",
+            "content_sha256": "d104ade18dc919edcad7faa29a0bb8ef70ee87e6d1b5f87e4f06dbac84540cec",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan deles",
+      "translation": "that can be divided",
+      "examples": [
+        "68 er delelig med 17"
+      ]
+    }
+  ]
+}

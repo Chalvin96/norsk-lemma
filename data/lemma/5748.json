@@ -1,0 +1,80 @@
+{
+  "source_article_id": 5748,
+  "lemmas": [
+    {
+      "lemma": "bevokst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6739,
+      "is_sub_article": false,
+      "primary_translation": "overgrown",
+      "word_forms": [
+        {
+          "word_form": "bevokst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"vOkst",
+              "ipa": "bəˈvɔkst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bevokste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"vOk$st@",
+              "ipa": "bəˈvɔkstə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7ca8a6d1af71.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ca8a6d1af71.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ca8a6d1af71.mp3",
+            "text": "bevokst",
+            "source": "generated",
+            "content_sha256": "949a6b9194ffc0127ec38c678c195e5d200c49948fd73838bb59b9735b093dea",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dekket med vekster",
+      "translation": "covered with vegetation",
+      "examples": [
+        "området er tett bevokst med skog"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "source_article_id": 107325,
+  "lemmas": [
+    {
+      "lemma": "crew",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160792,
+      "is_sub_article": false,
+      "primary_translation": "crew",
+      "word_forms": [
+        {
+          "word_form": "crew",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kr}:",
+              "ipa": "ˈkrʉː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "crewet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kr}:$@",
+              "ipa": "ˈkrʉːə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "crewa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "crewene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0c26242f988e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c26242f988e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c26242f988e.mp3",
+            "text": "crew",
+            "source": "generated",
+            "content_sha256": "93cf91d975d85980b24c300ce9b550b4d4ec0420d64cf0c7c2b9bfc8173dadf2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gruppe, mannskap på fartøy eller transportmiddel (skip, fly, tog)",
+      "translation": "group, crew on a vessel or means of transport (ship, plane, train)",
+      "examples": [
+        "kapteinen og hans crew"
+      ]
+    },
+    {
+      "text": "gruppe, lag som er satt sammen for et bestemt formål eller arrangement (teater, musikk, dans o.l.)",
+      "translation": "group, team assembled for a specific purpose or event (theater, music, dance, etc.)",
+      "examples": [
+        "crewet stemte instrumentene før konserten"
+      ]
+    }
+  ]
+}

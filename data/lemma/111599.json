@@ -1,0 +1,89 @@
+{
+  "source_article_id": 111599,
+  "lemmas": [
+    {
+      "lemma": "dugnadstime",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 94602,
+      "is_sub_article": false,
+      "primary_translation": "dugnad hour",
+      "word_forms": [
+        {
+          "word_form": "dugnadstime",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dugnadstimen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dugnadstimer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d}:$gnAd$%sti:$m@r",
+              "ipa": "ˈdʉːgnɑdˌstɪːmər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dugnadstimene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e79dccdf00cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e79dccdf00cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e79dccdf00cf.mp3",
+            "text": "dugnadstime",
+            "source": "generated",
+            "content_sha256": "6c9b726eade9ea04bb7c328332d8874e258aa15fccbe669d11289c4ce7516dd4"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "arbeidstime ytt under dugnad",
+      "translation": "hour of work contributed during a communal work effort",
+      "examples": [
+        "vi har jobbet inn dugnadstimene"
+      ]
+    }
+  ]
+}

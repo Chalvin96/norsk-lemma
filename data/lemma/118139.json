@@ -1,0 +1,80 @@
+{
+  "source_article_id": 118139,
+  "lemmas": [
+    {
+      "lemma": "inkrementell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 109398,
+      "is_sub_article": false,
+      "primary_translation": "incremental",
+      "word_forms": [
+        {
+          "word_form": "inkrementell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "IN$kr@$m@n$\"tEl",
+              "ipa": "ɪŋkrəmənˈtɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "inkrementelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "inkrementelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f834eb15af96.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f834eb15af96.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f834eb15af96.mp3",
+            "text": "inkrementell",
+            "source": "generated",
+            "content_sha256": "490b43defb23ed4908ce614ae6a30d3e4ba23df5aefa6c15c9bd1cc41b0b6fe2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som øker litt etter litt",
+      "translation": "increasing little by little",
+      "examples": [
+        "inkrementelle endringer"
+      ]
+    }
+  ]
+}

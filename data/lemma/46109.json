@@ -1,0 +1,80 @@
+{
+  "source_article_id": 46109,
+  "lemmas": [
+    {
+      "lemma": "prestelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 53117,
+      "is_sub_article": false,
+      "primary_translation": "priestly",
+      "word_forms": [
+        {
+          "word_form": "prestelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"prE$st@$lI",
+              "ipa": "ˈprɛstəlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prestelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"prE$st@$lI$@",
+              "ipa": "ˈprɛstəlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fbedc7d95002.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fbedc7d95002.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fbedc7d95002.mp3",
+            "text": "prestelig",
+            "source": "generated",
+            "content_sha256": "c4cfabfe45c24d59ee4d671b3f69db2f8f874cb076f9ade3c593fee90d66ac58",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en prest",
+      "translation": "like a priest",
+      "examples": [
+        "tale med prestelig verdighet"
+      ]
+    }
+  ]
+}

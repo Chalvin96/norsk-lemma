@@ -1,0 +1,83 @@
+{
+  "source_article_id": 11588,
+  "lemmas": [
+    {
+      "lemma": "døvfødt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13560,
+      "is_sub_article": false,
+      "primary_translation": "born deaf",
+      "word_forms": [
+        {
+          "word_form": "døvfødt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:v$%f9t",
+              "ipa": "ˈdøːvˌfœt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "døvfødte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:v$%f9$t@",
+              "ipa": "ˈdøːvˌfœtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "54e28d0b6fe5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54e28d0b6fe5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54e28d0b6fe5.mp3",
+            "text": "døvfødt",
+            "source": "generated",
+            "content_sha256": "8dc5a88baab4de2b8866d151fa0a0cb375a5059dddcb1d694932a8e8dd3ea3e4",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er født døv",
+      "translation": "born deaf",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra døvblitt",
+      "translation": "as opposed to having become deaf",
+      "examples": []
+    }
+  ]
+}

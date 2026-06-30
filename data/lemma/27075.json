@@ -1,0 +1,80 @@
+{
+  "source_article_id": 27075,
+  "lemmas": [
+    {
+      "lemma": "introvert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32178,
+      "is_sub_article": false,
+      "primary_translation": "introverted / extroverted",
+      "word_forms": [
+        {
+          "word_form": "introvert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$trU$\"v{t`",
+              "ipa": "ɪntrʊˈvæʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "introverte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$trU$\"v{$t`@",
+              "ipa": "ɪntrʊˈvæʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "85258356c408.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85258356c408.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85258356c408.mp3",
+            "text": "introvert",
+            "source": "generated",
+            "content_sha256": "e4bb78a69f678345ef5c58b85d00333bb51b904e8a8c877539f5c06ae2b99df0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "motsatt ekstrovert",
+      "translation": "introverted",
+      "examples": [
+        "hun er en introvert person som sjelden tar kontakt med andre"
+      ]
+    }
+  ]
+}

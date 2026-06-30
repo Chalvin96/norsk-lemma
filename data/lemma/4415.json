@@ -1,0 +1,112 @@
+{
+  "source_article_id": 4415,
+  "lemmas": [
+    {
+      "lemma": "bankgiro",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5220,
+      "is_sub_article": false,
+      "primary_translation": "bank giro",
+      "word_forms": [
+        {
+          "word_form": "bankgiro",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk$%Si:$rU",
+              "ipa": "ˈbɑŋkˌʃɪːrʊ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankgiroen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk$%Si:$rU$@n",
+              "ipa": "ˈbɑŋkˌʃɪːrʊən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankgiroer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk$%Si:$rU$@r",
+              "ipa": "ˈbɑŋkˌʃɪːrʊər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankgiroene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk$%Si:$rU$@$n@",
+              "ipa": "ˈbɑŋkˌʃɪːrʊənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a3419b745ccc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3419b745ccc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3419b745ccc.mp3",
+            "text": "bankgiro",
+            "source": "generated",
+            "content_sha256": "b31bbd9730639151c93269c452630e46d5d9aad9b04e298daad188bbc8f95092",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "betalingssystem i bank for å overføre penger mellom bankkontoer ved å fylle ut en giro",
+      "translation": "payment system in a bank for transferring money between bank accounts by filling out a giro form",
+      "examples": [
+        "skrive inn mottakerens kontonummer på bankgiroen",
+        "betale husleie med bankgiro"
+      ]
+    }
+  ]
+}

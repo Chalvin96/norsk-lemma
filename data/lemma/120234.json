@@ -1,0 +1,104 @@
+{
+  "source_article_id": 120234,
+  "lemmas": [
+    {
+      "lemma": "kontorplass",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 115938,
+      "is_sub_article": false,
+      "primary_translation": "office space",
+      "word_forms": [
+        {
+          "word_form": "kontorplass",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"tu:r$%plAs",
+              "ipa": "kʊnˈtuːrˌplɑs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kontorplassen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kontorplasser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"tu:r$%plA$s@r",
+              "ipa": "kʊnˈtuːrˌplɑsər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kontorplassene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4ba96c3889a5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ba96c3889a5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ba96c3889a5.mp3",
+            "text": "kontorplass",
+            "source": "generated",
+            "content_sha256": "39784203cab519665f34ee840a7fd0f54c58abf51276c4b57ca4e124d64ed7e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "arbeidsplass på et kontor",
+      "translation": "workplace in an office",
+      "examples": [
+        "få kontorplass på rådhuset"
+      ]
+    },
+    {
+      "text": "sted der en gjør kontorarbeid",
+      "translation": "place where one does office work",
+      "examples": [
+        "leie en kontorplass"
+      ]
+    }
+  ]
+}

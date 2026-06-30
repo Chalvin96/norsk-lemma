@@ -1,0 +1,91 @@
+{
+  "source_article_id": 123687,
+  "lemmas": [
+    {
+      "lemma": "narko",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 156557,
+      "is_sub_article": false,
+      "primary_translation": "narcotics (short form)",
+      "word_forms": [
+        {
+          "word_form": "narko",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nAr$kU",
+              "ipa": "ˈnɑrkʊ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "narkoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "narkoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "narkoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3a7954b2d368.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a7954b2d368.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a7954b2d368.mp3",
+            "text": "narko",
+            "source": "generated",
+            "content_sha256": "9c9a78d553ea1e61beb15ca26cb5b10e9b9b828c3bcadb387b3e143604caa23f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortform av narkotika",
+      "translation": "short form of narcotics",
+      "examples": [
+        "smugle narko og våpen",
+        "narkoen ble funnet av politiet"
+      ]
+    }
+  ]
+}

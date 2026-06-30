@@ -1,0 +1,95 @@
+{
+  "source_article_id": 26643,
+  "lemmas": [
+    {
+      "lemma": "innsatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31712,
+      "is_sub_article": false,
+      "primary_translation": "placed in / installed / inmate",
+      "word_forms": [
+        {
+          "word_form": "innsatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%sAt",
+              "ipa": "ˈɪnˌsɑt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innsatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%sA$t@",
+              "ipa": "ˈɪnˌsɑtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6b68f28b1d74.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6b68f28b1d74.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6b68f28b1d74.mp3",
+            "text": "innsatt",
+            "source": "generated",
+            "content_sha256": "0958b56b56ff08b347bb118918230fdffccc885531921d0ff41808ff7e6fbc80",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "plassert inn",
+      "translation": "placed in",
+      "examples": [
+        "ha innsatte tenner"
+      ]
+    },
+    {
+      "text": "som er satt inn i et embete, verv eller lignende",
+      "translation": "installed in an office, position, or similar",
+      "examples": [
+        "en lovlig innsatt president"
+      ]
+    },
+    {
+      "text": "brukt som substantiv: person som soner en dom i fengsel",
+      "translation": "used as a noun: person serving a prison sentence",
+      "examples": [
+        "en innsatt i fengselet",
+        "de innsatte gjorde opprør"
+      ]
+    }
+  ]
+}

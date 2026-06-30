@@ -1,0 +1,79 @@
+{
+  "source_article_id": 117440,
+  "lemmas": [
+    {
+      "lemma": "premenstruell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 131232,
+      "is_sub_article": false,
+      "primary_translation": "premenstrual",
+      "word_forms": [
+        {
+          "word_form": "premenstruell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "premenstruelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pre:$m@n$stru0$%E$l@",
+              "ipa": "ˈpreːmənstrʉˌɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "premenstruelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "812fd8bd7254.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/812fd8bd7254.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/812fd8bd7254.mp3",
+            "text": "premenstruell",
+            "source": "generated",
+            "content_sha256": "a1bfb0c1ef64a8982ec9da3bc3793d87992d49a7fdff8064503187a5b6696eba"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som merkes før menstruasjon",
+      "translation": "noticed before menstruation",
+      "examples": [
+        "premenstruelle plager"
+      ]
+    }
+  ]
+}

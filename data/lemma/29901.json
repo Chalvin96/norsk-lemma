@@ -1,0 +1,81 @@
+{
+  "source_article_id": 29901,
+  "lemmas": [
+    {
+      "lemma": "klanglig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35294,
+      "is_sub_article": false,
+      "primary_translation": "sonorous",
+      "word_forms": [
+        {
+          "word_form": "klanglig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klAN$lI",
+              "ipa": "ˈklɑŋlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klanglige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klAN$lI$@",
+              "ipa": "ˈklɑŋlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0252d622aa7f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0252d622aa7f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0252d622aa7f.mp3",
+            "text": "klanglig",
+            "source": "generated",
+            "content_sha256": "63293ada1b92d546138c061628e14fba25ec9f90a009a17523c59f80ac82d33f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har med klang å gjøre",
+      "translation": "relating to resonance or sound quality",
+      "examples": [
+        "fine klanglige virkninger",
+        "klanglig skjønnhet"
+      ]
+    }
+  ]
+}

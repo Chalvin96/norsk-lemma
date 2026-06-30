@@ -1,0 +1,102 @@
+{
+  "source_article_id": 33620,
+  "lemmas": [
+    {
+      "lemma": "laminær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39445,
+      "is_sub_article": false,
+      "primary_translation": "laminar flow / turbulent",
+      "word_forms": [
+        {
+          "word_form": "laminær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$mI$\"n{:r",
+              "ipa": "lɑmɪˈnæːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "laminære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$mI$\"n{:$r@",
+              "ipa": "lɑmɪˈnæːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "laminært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$mI$\"n{:t`",
+              "ipa": "lɑmɪˈnæːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9cfd93f11b00.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9cfd93f11b00.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9cfd93f11b00.mp3",
+            "text": "laminær",
+            "source": "generated",
+            "content_sha256": "acde43319dcffed17e5f05456bde9ff003612b3d31f00ad945fc7b4668869ff2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om bevegelse i væske eller gass: regelmessig",
+      "translation": "regarding movement in fluid or gas: regular",
+      "examples": []
+    },
+    {
+      "text": "uten virvler",
+      "translation": "without eddies",
+      "examples": [
+        "en laminær luftstrøm"
+      ]
+    }
+  ]
+}

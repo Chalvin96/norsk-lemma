@@ -1,0 +1,96 @@
+{
+  "source_article_id": 77,
+  "lemmas": [
+    {
+      "lemma": "absolutt",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 871,
+      "is_sub_article": false,
+      "primary_translation": "absolute / unconditional",
+      "word_forms": [
+        {
+          "word_form": "absolutt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ab$sU$\"lu0t",
+              "ipa": "ɑbsʊˈlʉt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "absolutte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ab$sU$\"lu0$t@",
+              "ipa": "ɑbsʊˈlʉtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2903dfc310ff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2903dfc310ff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2903dfc310ff.mp3",
+            "text": "absolutt",
+            "source": "generated",
+            "content_sha256": "6956a940d06b39c5556642ae8d6a102759cc1eee6d37aa22cf0fd1058c453798",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder uten forbehold",
+      "translation": "applying without reservation",
+      "examples": []
+    },
+    {
+      "text": "fullstendig, uinnskrenket uinnskrenka",
+      "translation": "complete, unlimited",
+      "examples": [
+        "et absolutt krav",
+        "absolutt enevelde",
+        "ha absolutt gyldighet"
+      ]
+    },
+    {
+      "text": "brukt som adverb: betingelsesløst, endelig",
+      "translation": "used as: unconditional, final",
+      "examples": [
+        "hun ville absolutt reise",
+        "absolutt ikke",
+        "er det absolutt nødvendig?"
+      ]
+    }
+  ]
+}

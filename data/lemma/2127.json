@@ -1,0 +1,88 @@
+{
+  "source_article_id": 2127,
+  "lemmas": [
+    {
+      "lemma": "anstrengt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2657,
+      "is_sub_article": false,
+      "primary_translation": "strained / forced",
+      "word_forms": [
+        {
+          "word_form": "anstrengt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"An$%strENt",
+              "ipa": "ˈɑnˌstrɛŋt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "anstrengte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"An$%strEN$t@",
+              "ipa": "ˈɑnˌstrɛŋtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bcb96f0dd614.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bcb96f0dd614.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bcb96f0dd614.mp3",
+            "text": "anstrengt",
+            "source": "generated",
+            "content_sha256": "d1d64024aba33e8baee11894f8ab52b96f7de1b8e467bc1c9322fa2620d80699",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spent, vanskelig",
+      "translation": "tense, difficult",
+      "examples": []
+    },
+    {
+      "text": "tilgjort, kunstlet",
+      "translation": "forced, artificial",
+      "examples": [
+        "et anstrengt smil",
+        "en anstrengt samtale",
+        "ha et anstrengt forhold til foreldrene sine",
+        "anstrengt økonomi"
+      ]
+    }
+  ]
+}

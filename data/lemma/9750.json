@@ -1,0 +1,104 @@
+{
+  "source_article_id": 9750,
+  "lemmas": [
+    {
+      "lemma": "dental",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 11469,
+      "is_sub_article": false,
+      "primary_translation": "dental / relating to teeth / pronounced with tongue against teeth",
+      "word_forms": [
+        {
+          "word_form": "dental",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@n$\"tA:l",
+              "ipa": "dənˈtɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dentale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@n$\"tA:$l@",
+              "ipa": "dənˈtɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dentalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@n$\"tA:lt",
+              "ipa": "dənˈtɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d16696854b67.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d16696854b67.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d16696854b67.mp3",
+            "text": "dental",
+            "source": "generated",
+            "content_sha256": "cc627c28df714d8e923c639c0f68ee6a713d8317fdb84097ac82ec8dbbbaedc0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til eller gjelder tennene",
+      "translation": "relating to or concerning teeth",
+      "examples": [
+        "dental erosjon"
+      ]
+    },
+    {
+      "text": "om språklyd: som blir uttalt med tunga mot tennene",
+      "translation": "about a speech sound: pronounced with the tongue against the teeth",
+      "examples": [
+        "dentale konsonanter"
+      ]
+    }
+  ]
+}

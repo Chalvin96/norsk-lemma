@@ -1,0 +1,111 @@
+{
+  "source_article_id": 2334,
+  "lemmas": [
+    {
+      "lemma": "apikal",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 2866,
+      "is_sub_article": false,
+      "primary_translation": "apical sound",
+      "word_forms": [
+        {
+          "word_form": "apikal",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pI$\"kA:l",
+              "ipa": "ɑpɪˈkɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "apikalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pI$\"kA:$ln=",
+              "ipa": "ɑpɪˈkɑːln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "apikaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pI$\"kA:$l@r",
+              "ipa": "ɑpɪˈkɑːlər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "apikalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pI$\"kA:$ln=$@",
+              "ipa": "ɑpɪˈkɑːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "87e3c458de7d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87e3c458de7d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87e3c458de7d.mp3",
+            "text": "apikal",
+            "source": "generated",
+            "content_sha256": "06aaf7fac61f568665e28ab3ae5fd084d77ed385f9d67e7998dd2f50ad299990",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i språkvitenskap: lyd laget med tungespiss",
+      "translation": "sound made with the tip of the tongue",
+      "examples": [
+        "‘t’ og ‘d’ er dentale apikaler"
+      ]
+    }
+  ]
+}

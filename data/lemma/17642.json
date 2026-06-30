@@ -1,0 +1,121 @@
+{
+  "source_article_id": 17642,
+  "lemmas": [
+    {
+      "lemma": "frase",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 20547,
+      "is_sub_article": false,
+      "primary_translation": "phrase / platitude / musical phrase",
+      "word_forms": [
+        {
+          "word_form": "frase",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frA:$s@",
+              "ipa": "ˈfrɑːsə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "frasen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frA:$sn=",
+              "ipa": "ˈfrɑːsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fraser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frA:$s@r",
+              "ipa": "ˈfrɑːsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "frasene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frA:$sn=$@",
+              "ipa": "ˈfrɑːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5620df3d285a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5620df3d285a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5620df3d285a.mp3",
+            "text": "frase",
+            "source": "generated",
+            "content_sha256": "88e266db150c59f8ac74073a345191624ca55390ff6418c89d16d1846f0b8ebd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "talemåte, fast vending",
+      "translation": "way of speaking, set phrase",
+      "examples": []
+    },
+    {
+      "text": "tom talemåte, floskel",
+      "translation": "empty saying, platitude",
+      "examples": [
+        "spar oss for flere fraser"
+      ]
+    },
+    {
+      "text": "musikalsk periode",
+      "translation": "musical phrase",
+      "examples": []
+    }
+  ]
+}

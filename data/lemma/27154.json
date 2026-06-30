@@ -1,0 +1,84 @@
+{
+  "source_article_id": 27154,
+  "lemmas": [
+    {
+      "lemma": "ironisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32256,
+      "is_sub_article": false,
+      "primary_translation": "ironic",
+      "word_forms": [
+        {
+          "word_form": "ironisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"ru:$nI$sk",
+              "ipa": "ɪˈruːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ironiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"ru:$nI$sk@",
+              "ipa": "ɪˈruːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0c6dda7a6b2c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c6dda7a6b2c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c6dda7a6b2c.mp3",
+            "text": "ironisk",
+            "source": "generated",
+            "content_sha256": "f585a9d0879d505cb2951e9f9601c20260653ea3880577498d2f576e339ddc9d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med bruk av ironi, som er preget av ironi",
+      "translation": "using irony, characterized by irony",
+      "examples": [
+        "være bitende ironisk",
+        "en ironisk kommentar",
+        "et ironisk smil",
+        "folk skjuler seg bak vitser og ironisk distanse",
+        "går SV fram, kan det ironisk nok gå på bekostning av Arbeiderpartiet"
+      ]
+    }
+  ]
+}

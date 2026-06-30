@@ -1,0 +1,80 @@
+{
+  "source_article_id": 312,
+  "lemmas": [
+    {
+      "lemma": "afrikansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1097,
+      "is_sub_article": false,
+      "primary_translation": "African",
+      "word_forms": [
+        {
+          "word_form": "afrikansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$frI$\"kA:nsk",
+              "ipa": "ɑfrɪˈkɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "afrikanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$frI$\"kA:n$sk@",
+              "ipa": "ɑfrɪˈkɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aa3fd6b613d5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aa3fd6b613d5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aa3fd6b613d5.mp3",
+            "text": "afrikansk",
+            "source": "generated",
+            "content_sha256": "8ea10c972a585e217bcabee931113827d4581e4e7b761877c7d3db8b6fa1ba09",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Afrika og afrikanere",
+      "translation": "relating to Africa and Africans",
+      "examples": [
+        "afrikansk kultur"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 52336,
+  "lemmas": [
+    {
+      "lemma": "sjøvant",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 60373,
+      "is_sub_article": false,
+      "primary_translation": "sea-savvy",
+      "word_forms": [
+        {
+          "word_form": "sjøvant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%vAnt",
+              "ipa": "ˈʃøːˌvɑnt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sjøvante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%vAn$t@",
+              "ipa": "ˈʃøːˌvɑntə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b48d2c2f94b7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b48d2c2f94b7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b48d2c2f94b7.mp3",
+            "text": "sjøvant",
+            "source": "generated",
+            "content_sha256": "12064c9e9b4a7090c53b766edcf5fdc5e7fca24cab335335bf4901f146d603d2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er vant til sjøen",
+      "translation": "accustomed to the sea",
+      "examples": [
+        "sjøvante karer"
+      ]
+    }
+  ]
+}

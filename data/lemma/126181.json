@@ -1,0 +1,103 @@
+{
+  "source_article_id": 126181,
+  "lemmas": [
+    {
+      "lemma": "forsøksperson",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 100048,
+      "is_sub_article": false,
+      "primary_translation": "test subject",
+      "word_forms": [
+        {
+          "word_form": "forsøksperson",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "forsøkspersonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fO$s`2:k$sp@$%s`u:$nn=",
+              "ipa": "ˈfɔʂøːkspəˌʂuːnn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forsøkspersoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fO$s`2:k$sp@$%s`u:$n@r",
+              "ipa": "ˈfɔʂøːkspəˌʂuːnər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forsøkspersonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fO$s`2:k$sp@$%s`u:$nn=$@",
+              "ipa": "ˈfɔʂøːkspəˌʂuːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d7e4dea5c92d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d7e4dea5c92d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d7e4dea5c92d.mp3",
+            "text": "forsøksperson",
+            "source": "generated",
+            "content_sha256": "66385b03520dd48a7307a5d3d916685330d8716b7816501143d17741b11ae42b"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som er deltaker i et forsøk",
+      "translation": "person who is a participant in an experiment",
+      "examples": [
+        "forsøkspersonene måtte ta blodprøver før og etter forsøket"
+      ]
+    }
+  ]
+}

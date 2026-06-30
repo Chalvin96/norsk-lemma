@@ -1,0 +1,83 @@
+{
+  "source_article_id": 132520,
+  "lemmas": [
+    {
+      "lemma": "trafikkflyt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2185446,
+      "is_sub_article": false,
+      "primary_translation": "traffic flow",
+      "word_forms": [
+        {
+          "word_form": "trafikkflyt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "trafikkflyten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "trafikkflyter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "trafikkflytene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "39f3bc0487d8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39f3bc0487d8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39f3bc0487d8.mp3",
+            "text": "trafikkflyt",
+            "source": "generated",
+            "content_sha256": "b505c00e65d564b41c392a6b707cd03adec92431da3b6d25d4bd339f5c7dea69"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "flyt i trafikk",
+      "translation": "flow in traffic",
+      "examples": [
+        "rundkjøringer gir bedre trafikkflyt enn lyskryss",
+        "akkurat nå er det god trafikkflyt gjennom sentrum"
+      ]
+    }
+  ]
+}

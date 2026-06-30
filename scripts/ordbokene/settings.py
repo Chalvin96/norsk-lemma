@@ -5,11 +5,14 @@ import logging
 import re
 from pathlib import Path
 
+from dotenv import load_dotenv
+
 REPO_ROOT = Path(__file__).resolve().parents[2]
+load_dotenv(REPO_ROOT / ".env")
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
-DEFAULT_ARTICLES_DIR = REPO_ROOT / "articles"
-DEFAULT_LEMMA_DIR = REPO_ROOT / "lemma"
+DEFAULT_ARTICLES_DIR = REPO_ROOT / "data" / "articles"
+DEFAULT_LEMMA_DIR = REPO_ROOT / "data" / "lemma"
 DEFAULT_ERROR_LOG = REPO_ROOT / "error_openrouter.log"
 DEFAULT_MODEL = "google/gemini-2.5-flash-lite"
 DEFAULT_BATCH_SIZE = 10
@@ -27,6 +30,17 @@ ABBREVIATIONS_PATH = REPO_ROOT / "scripts" / "ordbokene_concepts_bm.json"
 KNOWN_POS = frozenset(
     {"NOUN", "VERB", "ADJ", "ADV", "PREP", "PRON", "CONJ", "INTERJ", "DET", "NUM"}
 )
+
+# UD (Universal Dependencies) tags used by Ordbokene that map to KNOWN_POS entries.
+# Applied before the KNOWN_POS lookup so articles tagged with UD tags get a real
+# POS instead of falling back to "UNKNOWN".
+UD_TAG_ALIASES: dict[str, str] = {
+    "CCONJ": "CONJ",   # coordinating conjunction (både, og, men)
+    "SCONJ": "CONJ",   # subordinating conjunction (at, fordi, hvis)
+    "ADP": "PREP",     # adposition (covers prepositions in UD)
+    "INTJ": "INTERJ",  # interjection
+    "PROPN": "NOUN",   # proper noun
+}
 
 CONTEXT_LABEL_ITEM_TYPES = frozenset(
     {"domain", "grammar", "rhetoric", "relation", "article_ref", "temporal"}

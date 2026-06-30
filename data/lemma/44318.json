@@ -1,0 +1,111 @@
+{
+  "source_article_id": 44318,
+  "lemmas": [
+    {
+      "lemma": "pasient",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 51287,
+      "is_sub_article": false,
+      "primary_translation": "patient",
+      "word_forms": [
+        {
+          "word_form": "pasient",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$sI$\"Ent",
+              "ipa": "pɑsɪˈɛnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pasienten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$sI$\"En$tn=",
+              "ipa": "pɑsɪˈɛntn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pasienter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$sI$\"En$t@r",
+              "ipa": "pɑsɪˈɛntər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pasientene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$sI$\"En$tn=$@",
+              "ipa": "pɑsɪˈɛntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "204f6ad482bd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/204f6ad482bd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/204f6ad482bd.mp3",
+            "text": "pasient",
+            "source": "generated",
+            "content_sha256": "71ca7afbcf908de2df044a98735ea596fa4448ffb4f05d4aa92b3ea869caf3a1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som får behandling for sykdom",
+      "translation": "person receiving treatment for illness",
+      "examples": [
+        "sykehjemmet har plass til 30 pasienter"
+      ]
+    }
+  ]
+}

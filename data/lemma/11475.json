@@ -1,0 +1,88 @@
+{
+  "source_article_id": 11475,
+  "lemmas": [
+    {
+      "lemma": "dødsdømt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13431,
+      "is_sub_article": false,
+      "primary_translation": "doomed / hopeless",
+      "word_forms": [
+        {
+          "word_form": "dødsdømt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d9ds$%d9mt",
+              "ipa": "ˈdœdsˌdœmt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dødsdømte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d9ds$%d9m$t@",
+              "ipa": "ˈdœdsˌdœmtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ed9a717df7c5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed9a717df7c5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed9a717df7c5.mp3",
+            "text": "dødsdømt",
+            "source": "generated",
+            "content_sha256": "cf3ee7056ba72ef357577a311935cf7ac17a98c666e1ecdcf34053790d0a3044",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har fått en dødsdom",
+      "translation": "sentenced to death",
+      "examples": [
+        "sitte på cella sammen med andre dødsdømte fanger",
+        "den dødsdømte blir snart henrettet"
+      ]
+    },
+    {
+      "text": "dømt til å mislykkes",
+      "translation": "doomed to fail",
+      "examples": [
+        "prosjektet var dødsdømt fra første stund"
+      ]
+    }
+  ]
+}

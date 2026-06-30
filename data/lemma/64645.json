@@ -1,0 +1,81 @@
+{
+  "source_article_id": 64645,
+  "lemmas": [
+    {
+      "lemma": "unorsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74019,
+      "is_sub_article": false,
+      "primary_translation": "un-Norwegian",
+      "word_forms": [
+        {
+          "word_form": "unorsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%nO$s`k",
+              "ipa": "ˈʉːˌnɔʂk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "unorske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%nO$s`k@",
+              "ipa": "ˈʉːˌnɔʂkə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4ff80fae90c2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ff80fae90c2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ff80fae90c2.mp3",
+            "text": "unorsk",
+            "source": "generated",
+            "content_sha256": "af824f2ea3c7df8de8b339d31ee5811ef2d98390032baa9622c9ed85fc2ec5da",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke stemmer med det som anses for typisk norsk",
+      "translation": "that does not conform to what is considered typically Norwegian",
+      "examples": [
+        "et unorsk utseende",
+        "et unorsk uttrykk"
+      ]
+    }
+  ]
+}

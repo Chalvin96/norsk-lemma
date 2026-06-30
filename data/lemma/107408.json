@@ -1,0 +1,80 @@
+{
+  "source_article_id": 107408,
+  "lemmas": [
+    {
+      "lemma": "angstfylt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 86318,
+      "is_sub_article": false,
+      "primary_translation": "anxious",
+      "word_forms": [
+        {
+          "word_form": "angstfylt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"AN$%stfYlt",
+              "ipa": "ˈɑŋˌstfʏlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "angstfylte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"AN$%stfYl$t@",
+              "ipa": "ˈɑŋˌstfʏltə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ceb481aa4dfd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ceb481aa4dfd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ceb481aa4dfd.mp3",
+            "text": "angstfylt",
+            "source": "generated",
+            "content_sha256": "1d0278d041117432c27e165d7087ed5441b163d4b8894cb209ef56a2b4166254",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fylt av angst",
+      "translation": "filled with anxiety",
+      "examples": [
+        "en angstfylt barndom"
+      ]
+    }
+  ]
+}

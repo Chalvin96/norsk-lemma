@@ -1,0 +1,81 @@
+{
+  "source_article_id": 50831,
+  "lemmas": [
+    {
+      "lemma": "semittisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 58499,
+      "is_sub_article": false,
+      "primary_translation": "Semitic",
+      "word_forms": [
+        {
+          "word_form": "semittisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"mI$tI$sk",
+              "ipa": "səˈmɪtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "semittiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"mI$tI$sk@",
+              "ipa": "səˈmɪtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ffe5888e2788.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ffe5888e2788.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ffe5888e2788.mp3",
+            "text": "semittisk",
+            "source": "generated",
+            "content_sha256": "0dc4f0d8e85d8f0133f0d768d3701920c82defb7c8112a6d078834d0c020978e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder semitt og semittisk",
+      "translation": "relating to Semites and Semitic",
+      "examples": [
+        "et semittisk språk",
+        "jødedom, kristendom og islam har et felles semittisk opphav"
+      ]
+    }
+  ]
+}

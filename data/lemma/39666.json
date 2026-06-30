@@ -1,0 +1,133 @@
+{
+  "source_article_id": 39666,
+  "lemmas": [
+    {
+      "lemma": "mutt",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 46471,
+      "is_sub_article": false,
+      "primary_translation": "sullen / grumpy",
+      "word_forms": [
+        {
+          "word_form": "mutt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu0t",
+              "ipa": "ˈmʉt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mutte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mu0$t@",
+              "ipa": "ˈmʉtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "muttere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mu0$t@$r@",
+              "ipa": "ˈmʉtərə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "muttest",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu0$t@$st",
+              "ipa": "ˈmʉtəst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mutteste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mu0$t@$st@",
+              "ipa": "ˈmʉtəstə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7d0cee0ccd09.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7d0cee0ccd09.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7d0cee0ccd09.mp3",
+            "text": "mutt",
+            "source": "generated",
+            "content_sha256": "2b17c8344fa4c840c7f7e12406813924c9e494dbf61a8ffc50b7a4243b1202e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fåmælt og sur",
+      "translation": "taciturn and surly",
+      "examples": []
+    },
+    {
+      "text": "tverr, gretten",
+      "translation": "cross, grumpy",
+      "examples": [
+        "han er mutt og irritabel",
+        "et mutt svar"
+      ]
+    }
+  ]
+}

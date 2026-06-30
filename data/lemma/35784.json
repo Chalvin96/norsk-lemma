@@ -1,0 +1,95 @@
+{
+  "source_article_id": 35784,
+  "lemmas": [
+    {
+      "lemma": "loran",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 41570,
+      "is_sub_article": false,
+      "primary_translation": "long-range radio navigation system / Decca",
+      "word_forms": [
+        {
+          "word_form": "loran",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"rAn",
+              "ipa": "lʊˈrɑn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "loranen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"rA$nn=",
+              "ipa": "lʊˈrɑnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "loraner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "loranene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "200c164a847a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/200c164a847a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/200c164a847a.mp3",
+            "text": "loran",
+            "source": "generated",
+            "content_sha256": "14a78fc410dbf40df4f1176752996c0f04254eee21482702ff96542351755e5a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "radionavigasjonssystem med lang rekkevidde",
+      "translation": "long-range radio navigation system",
+      "examples": []
+    }
+  ]
+}

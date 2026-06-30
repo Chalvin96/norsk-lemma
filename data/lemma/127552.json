@@ -1,0 +1,89 @@
+{
+  "source_article_id": 127552,
+  "lemmas": [
+    {
+      "lemma": "setningsskade",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 137389,
+      "is_sub_article": false,
+      "primary_translation": "settlement damage",
+      "word_forms": [
+        {
+          "word_form": "setningsskade",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "setningsskaden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "setningsskader",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sEt$nINs$%skA:$d@r",
+              "ipa": "ˈsɛtnɪŋsˌskɑːdər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "setningsskadene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "396096dd584e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396096dd584e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396096dd584e.mp3",
+            "text": "setningsskade",
+            "source": "generated",
+            "content_sha256": "bfc68a37906d2d02fa6fffd181b95dd8d43ac0a751d35c93193f71dec4b22280"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skade på bygg eller annen konstruksjon på grunn av setning",
+      "translation": "damage to a building or other construction due to settlement",
+      "examples": [
+        "bygget hadde store setningsskader"
+      ]
+    }
+  ]
+}

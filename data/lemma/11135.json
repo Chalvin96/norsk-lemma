@@ -1,0 +1,91 @@
+{
+  "source_article_id": 11135,
+  "lemmas": [
+    {
+      "lemma": "dulgt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12994,
+      "is_sub_article": false,
+      "primary_translation": "hidden / concealed",
+      "word_forms": [
+        {
+          "word_form": "dulgt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"du0lgt",
+              "ipa": "ˈdʉlgt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dulgte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du0lg$t@",
+              "ipa": "ˈdʉlgtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "46b6d617a793.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46b6d617a793.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46b6d617a793.mp3",
+            "text": "dulgt",
+            "source": "generated",
+            "content_sha256": "2a81f318b19c341618a441452fca6a466b8171b6ee6db609d5a24ebdf71a1e37",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skjult, utilgjengelig eller uklar",
+      "translation": "hidden, inaccessible, or unclear",
+      "examples": [
+        "dulgt misunnelse",
+        "dulgte hentydninger",
+        "dulgt trussel"
+      ]
+    },
+    {
+      "text": "skjult for andre",
+      "translation": "hidden from others",
+      "examples": [
+        "dulgte avtaler",
+        "dulgt årsak",
+        "det skjedde i det dulgte"
+      ]
+    }
+  ]
+}

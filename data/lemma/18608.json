@@ -1,0 +1,80 @@
+{
+  "source_article_id": 18608,
+  "lemmas": [
+    {
+      "lemma": "færøysk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 21762,
+      "is_sub_article": false,
+      "primary_translation": "Faroese",
+      "word_forms": [
+        {
+          "word_form": "færøysk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f{:$%r9*Y$sk",
+              "ipa": "ˈfæːˌrœ͡ʏsk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "færøyske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f{:$%r9*Y$sk@",
+              "ipa": "ˈfæːˌrœ͡ʏskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "754381180888.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/754381180888.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/754381180888.mp3",
+            "text": "færøysk",
+            "source": "generated",
+            "content_sha256": "70f6185cda4d7a5c1e8cc049918f3d5e3a547e0e8bd9d4f082094b5588e8121e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Færøyene og færøyinger",
+      "translation": "relating to the Faroe Islands and Faroese people",
+      "examples": [
+        "færøysk kultur"
+      ]
+    }
+  ]
+}

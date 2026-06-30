@@ -1,0 +1,111 @@
+{
+  "source_article_id": 13639,
+  "lemmas": [
+    {
+      "lemma": "faktura",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 15833,
+      "is_sub_article": false,
+      "primary_translation": "invoice",
+      "word_forms": [
+        {
+          "word_form": "faktura",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$\"t}:$rA",
+              "ipa": "fɑkˈtʉːrɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fakturaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$\"t}:$rA$@n",
+              "ipa": "fɑkˈtʉːrɑən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fakturaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$\"t}:$rA$@r",
+              "ipa": "fɑkˈtʉːrɑər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fakturaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$\"t}:$rA$@$n@",
+              "ipa": "fɑkˈtʉːrɑənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "59aac213739e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59aac213739e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59aac213739e.mp3",
+            "text": "faktura",
+            "source": "generated",
+            "content_sha256": "f3c304e0d4b0cf33e9eee3e3181e13d305626a6aa498ae69d83b5506b04cabc4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spesifisert regning som kjøperen får samtidig med varene",
+      "translation": "itemized bill received by the buyer with the goods",
+      "examples": [
+        "skrive ut en faktura"
+      ]
+    }
+  ]
+}

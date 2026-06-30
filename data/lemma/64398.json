@@ -1,0 +1,80 @@
+{
+  "source_article_id": 64398,
+  "lemmas": [
+    {
+      "lemma": "underst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73755,
+      "is_sub_article": false,
+      "primary_translation": "bottommost",
+      "word_forms": [
+        {
+          "word_form": "underst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0$n@s`t`",
+              "ipa": "ˈʉnəʂʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "underste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0$n@s`$t`@",
+              "ipa": "ˈʉnəʂʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d016894f45d8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d016894f45d8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d016894f45d8.mp3",
+            "text": "underst",
+            "source": "generated",
+            "content_sha256": "e40ab9dc2173630ca56ab8ab5ab5243ee05f8d6508a555a87a072ad089f62a05",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lavest, nederst, innerst",
+      "translation": "lowest, bottommost, innermost",
+      "examples": [
+        "papiret ligger underst i bunken"
+      ]
+    }
+  ]
+}

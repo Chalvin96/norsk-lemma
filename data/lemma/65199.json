@@ -1,0 +1,86 @@
+{
+  "source_article_id": 65199,
+  "lemmas": [
+    {
+      "lemma": "utellelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74725,
+      "is_sub_article": false,
+      "primary_translation": "countless",
+      "word_forms": [
+        {
+          "word_form": "utellelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"tE$l@$lI",
+              "ipa": "ʉˈtɛləlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "utellelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"tE$l@$lI$@",
+              "ipa": "ʉˈtɛləlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0edef5b49918.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0edef5b49918.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0edef5b49918.mp3",
+            "text": "utellelig",
+            "source": "generated",
+            "content_sha256": "d6edc3edffce6975e24f9062de30501e059b639227c9e40f0d4d5ce45ecbfeec",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er mulig å telle",
+      "translation": "impossible to count",
+      "examples": []
+    },
+    {
+      "text": "i stor mengde",
+      "translation": "in large quantities",
+      "examples": [
+        "et utellelig antall",
+        "det finnes utellelig mange typer sommerfugler"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 10782,
+  "lemmas": [
+    {
+      "lemma": "dravidisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12606,
+      "is_sub_article": false,
+      "primary_translation": "Dravidian",
+      "word_forms": [
+        {
+          "word_form": "dravidisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "drA$\"vi:$dI$sk",
+              "ipa": "drɑˈvɪːdɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dravidiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "drA$\"vi:$dI$sk@",
+              "ipa": "drɑˈvɪːdɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "781f343836d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/781f343836d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/781f343836d0.mp3",
+            "text": "dravidisk",
+            "source": "generated",
+            "content_sha256": "24ca4c5606f962caae441f265a85ca9f39ed57979cd89edbb8336b27f055f993",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder dravidene",
+      "translation": "relating to the Dravidians",
+      "examples": [
+        "dravidisk kultur"
+      ]
+    }
+  ]
+}

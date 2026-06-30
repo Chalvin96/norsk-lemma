@@ -1,0 +1,103 @@
+{
+  "source_article_id": 40953,
+  "lemmas": [
+    {
+      "lemma": "nominal",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 47906,
+      "is_sub_article": false,
+      "primary_translation": "nominal (forming nouns)",
+      "word_forms": [
+        {
+          "word_form": "nominal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$mI$\"nA:l",
+              "ipa": "nʊmɪˈnɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nominale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$mI$\"nA:$l@",
+              "ipa": "nʊmɪˈnɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nominalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$mI$\"nA:lt",
+              "ipa": "nʊmɪˈnɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "79ea06447d66.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/79ea06447d66.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/79ea06447d66.mp3",
+            "text": "nominal",
+            "source": "generated",
+            "content_sha256": "f49779dbe75d05309dbef6df2ecea1b0c77acaa29738301a392086a564338fe6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i grammatikk: som fungerer som et nomen",
+      "translation": "functioning as a noun",
+      "examples": []
+    },
+    {
+      "text": "som danner et nomen",
+      "translation": "forming a noun",
+      "examples": [
+        "et nominalt setningsledd",
+        "nominale suffikser"
+      ]
+    }
+  ]
+}

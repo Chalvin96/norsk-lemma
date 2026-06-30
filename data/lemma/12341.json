@@ -1,0 +1,80 @@
+{
+  "source_article_id": 12341,
+  "lemmas": [
+    {
+      "lemma": "elektromagnetisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14415,
+      "is_sub_article": false,
+      "primary_translation": "electromagnetic",
+      "word_forms": [
+        {
+          "word_form": "elektromagnetisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"lEk$trU$mAN$%ne:$tI$sk",
+              "ipa": "ɛˈlɛktrʊmɑŋˌneːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "elektromagnetiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"lEk$trU$mAN$%ne:$tI$sk@",
+              "ipa": "ɛˈlɛktrʊmɑŋˌneːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "616fdd2a4778.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/616fdd2a4778.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/616fdd2a4778.mp3",
+            "text": "elektromagnetisk",
+            "source": "generated",
+            "content_sha256": "be1f068baae9cca232621a854f498669162a7537581f3f89fa00eeba190ea6a2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder elektromagnet eller elektromagnetisme",
+      "translation": "relating to an electromagnet or electromagnetism",
+      "examples": [
+        "elektromagnetisk felt"
+      ]
+    }
+  ]
+}

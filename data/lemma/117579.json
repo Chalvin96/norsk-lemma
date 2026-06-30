@@ -1,0 +1,111 @@
+{
+  "source_article_id": 117579,
+  "lemmas": [
+    {
+      "lemma": "brems",
+      "hgno": 3,
+      "pos": "NOUN",
+      "source_lemma_id": 8753,
+      "is_sub_article": false,
+      "primary_translation": "braking",
+      "word_forms": [
+        {
+          "word_form": "brems",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brEms",
+              "ipa": "ˈbrɛms",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bremsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEm$sn=",
+              "ipa": "ˈbrɛmsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bremser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEm$s@r",
+              "ipa": "ˈbrɛmsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bremsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEm$sn=$@",
+              "ipa": "ˈbrɛmsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d67795e6dba1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d67795e6dba1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d67795e6dba1.mp3",
+            "text": "brems",
+            "source": "generated",
+            "content_sha256": "510433ef0447f0be51c70b2dfa237e9ee949628341aadf37b28196d10dac66b5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å bremse",
+      "translation": "the act of braking",
+      "examples": [
+        "gjøre en brå brems"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "source_article_id": 21421,
+  "lemmas": [
+    {
+      "lemma": "gråvær",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 24923,
+      "is_sub_article": false,
+      "primary_translation": "grey weather",
+      "word_forms": [
+        {
+          "word_form": "gråvær",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gro:$%v{:r",
+              "ipa": "ˈgroːˌvæːr",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gråværet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gro:$%v{:$r@",
+              "ipa": "ˈgroːˌvæːrə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gråværa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "gråværene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e8fcedc9a916.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e8fcedc9a916.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e8fcedc9a916.mp3",
+            "text": "gråvær",
+            "source": "generated",
+            "content_sha256": "9e2e3ccd8766b9b239254121cbc6bdc11a7b85685207af680c107dff82573286",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grått, overskyet vær",
+      "translation": "grey, overcast weather",
+      "examples": [
+        "det var gråvær og regnbyger"
+      ]
+    }
+  ]
+}

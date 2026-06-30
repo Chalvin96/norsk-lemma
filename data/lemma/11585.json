@@ -1,0 +1,153 @@
+{
+  "source_article_id": 11585,
+  "lemmas": [
+    {
+      "lemma": "døv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13556,
+      "is_sub_article": false,
+      "primary_translation": "deaf / unresponsive",
+      "word_forms": [
+        {
+          "word_form": "døv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d2:v",
+              "ipa": "ˈdøːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "døve",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$v@",
+              "ipa": "ˈdøːvə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "døvt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:vt",
+              "ipa": "ˈdøːvt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "døvere",
+          "tags_json": [
+            "a1",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$v@$r@",
+              "ipa": "ˈdøːvərə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "døvest",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d2:$v@$st",
+              "ipa": "ˈdøːvəst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "døveste",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$v@$st@",
+              "ipa": "ˈdøːvəstə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "183da2667c04.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/183da2667c04.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/183da2667c04.mp3",
+            "text": "døv",
+            "source": "generated",
+            "content_sha256": "30202c1da1943fa571dcf4169d0773614a04670262842f3097209b5ad182d75f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som mangler hørsel",
+      "translation": "lacking hearing",
+      "examples": [
+        "være døv fra fødselen av",
+        "blinde og døve"
+      ]
+    },
+    {
+      "text": "i overført betydning: som ikke tar hensyn til kritikk eller motforestillinger",
+      "translation": "unresponsive to criticism or objections",
+      "examples": [
+        "være fullstendig døv for motargumenter",
+        "ledelsen er døv for kritikk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "source_article_id": 31441,
+  "lemmas": [
+    {
+      "lemma": "kontrakt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36971,
+      "is_sub_article": false,
+      "primary_translation": "contract",
+      "word_forms": [
+        {
+          "word_form": "kontrakt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"trAkt",
+              "ipa": "kɔnˈtrɑkt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kontrakten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"trAk$tn=",
+              "ipa": "kɔnˈtrɑktn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kontrakter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"trAk$t@r",
+              "ipa": "kɔnˈtrɑktər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kontraktene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"trAk$tn=$@",
+              "ipa": "kɔnˈtrɑktn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3ce2c9011d11.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ce2c9011d11.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ce2c9011d11.mp3",
+            "text": "kontrakt",
+            "source": "generated",
+            "content_sha256": "bf79f6fab4f6d2df54f1a19474fa8f1007fbf7023faa46181ca9bf5d960b403a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rettslig bindende avtale",
+      "translation": "legally binding agreement",
+      "examples": [
+        "inngå en kontrakt",
+        "bryte kontrakten"
+      ]
+    }
+  ]
+}

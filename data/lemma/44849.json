@@ -1,0 +1,93 @@
+{
+  "source_article_id": 44849,
+  "lemmas": [
+    {
+      "lemma": "phon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 51812,
+      "is_sub_article": false,
+      "primary_translation": "decibel",
+      "word_forms": [
+        {
+          "word_form": "phon",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fu:n",
+              "ipa": "ˈfuːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "phonen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fu:$nn=",
+              "ipa": "ˈfuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "phonene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fu:$nn=$@",
+              "ipa": "ˈfuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "59d19aadf9e7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59d19aadf9e7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59d19aadf9e7.mp3",
+            "text": "phon",
+            "source": "generated",
+            "content_sha256": "d93a2dea89c346a40ef57cefd452e5e6f4fab60710b698685a5f4f113f6cff9a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "målenhet for lydstyrke",
+      "translation": "unit of measurement for loudness",
+      "examples": []
+    }
+  ]
+}

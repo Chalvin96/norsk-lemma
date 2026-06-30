@@ -1,0 +1,80 @@
+{
+  "source_article_id": 124802,
+  "lemmas": [
+    {
+      "lemma": "skråstilt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 139766,
+      "is_sub_article": false,
+      "primary_translation": "oblique",
+      "word_forms": [
+        {
+          "word_form": "skråstilt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skro:$%stIlt",
+              "ipa": "ˈskroːˌstɪlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skråstilte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skro:$%stIl$t@",
+              "ipa": "ˈskroːˌstɪltə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b5c218094173.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b5c218094173.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b5c218094173.mp3",
+            "text": "skråstilt",
+            "source": "generated",
+            "content_sha256": "cbb8d0320e30e1bf0fa542bf498d723bcf54f4a17438ca5e81100e6547dd868a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som går på skrå",
+      "translation": "going at an angle",
+      "examples": [
+        "de skråstilte stagene"
+      ]
+    }
+  ]
+}

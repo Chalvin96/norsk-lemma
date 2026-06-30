@@ -1,0 +1,80 @@
+{
+  "source_article_id": 2459,
+  "lemmas": [
+    {
+      "lemma": "arabisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 2990,
+      "is_sub_article": false,
+      "primary_translation": "Arab",
+      "word_forms": [
+        {
+          "word_form": "arabisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"rA:$bI$sk",
+              "ipa": "ɑˈrɑːbɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "arabiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"rA:$bI$sk@",
+              "ipa": "ɑˈrɑːbɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f950637fcbf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f950637fcbf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f950637fcbf.mp3",
+            "text": "arabisk",
+            "source": "generated",
+            "content_sha256": "44192c5c2e4e99a9dff6a7013cd2c743ff65ba2f9fd459c507246421a9601bbf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder araberstat og arabere",
+      "translation": "relating to Arab states and Arabs",
+      "examples": [
+        "arabisk navneskikk"
+      ]
+    }
+  ]
+}

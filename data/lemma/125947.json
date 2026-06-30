@@ -1,0 +1,92 @@
+{
+  "source_article_id": 125947,
+  "lemmas": [
+    {
+      "lemma": "systemfeil",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 144768,
+      "is_sub_article": false,
+      "primary_translation": "system error",
+      "word_forms": [
+        {
+          "word_form": "systemfeil",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sY$\"ste:m$%f{*Il",
+              "ipa": "sʏˈsteːmˌfæ͡ɪl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "systemfeilen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "systemfeila",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "systemfeilene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "193ff5698925.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/193ff5698925.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/193ff5698925.mp3",
+            "text": "systemfeil",
+            "source": "generated",
+            "content_sha256": "a09fc1f289ccbbc5aff092466fc5233d86be1954cff8c3cd3894916899f87a3f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "feil i et system",
+      "translation": "error in a system",
+      "examples": [
+        "en systemfeil utløste alarmen",
+        "systemfeil ved utbetaling av sykepenger"
+      ]
+    }
+  ]
+}

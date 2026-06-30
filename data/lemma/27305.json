@@ -1,0 +1,90 @@
+{
+  "source_article_id": 27305,
+  "lemmas": [
+    {
+      "lemma": "isoterm",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 32412,
+      "is_sub_article": false,
+      "primary_translation": "isothermal",
+      "word_forms": [
+        {
+          "word_form": "isoterm",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$sU$\"t{rm",
+              "ipa": "ɪsʊˈtærm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "isoterme",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$sU$\"t{r$m@",
+              "ipa": "ɪsʊˈtærmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "isotermt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8edaceb88ea2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8edaceb88ea2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8edaceb88ea2.mp3",
+            "text": "isoterm",
+            "source": "generated",
+            "content_sha256": "0e182ebab38f50701aa21964b2f49547ca00ac0b14ad3f9a4d76006219aa952b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som foregår ved konstant temperatur",
+      "translation": "occurring at constant temperature",
+      "examples": [
+        "en isoterm reaksjon"
+      ]
+    }
+  ]
+}

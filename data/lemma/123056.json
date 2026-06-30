@@ -1,0 +1,91 @@
+{
+  "source_article_id": 123056,
+  "lemmas": [
+    {
+      "lemma": "kunstnerliv",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2006815,
+      "is_sub_article": false,
+      "primary_translation": "artist's life",
+      "word_forms": [
+        {
+          "word_form": "kunstnerliv",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ku0n$stn@$%l`i:v",
+              "ipa": "ˈkʉnstnəˌɭɪːv",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kunstnerlivet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kunstnerliva",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kunstnerlivene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f9a58c02960.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f9a58c02960.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f9a58c02960.mp3",
+            "text": "kunstnerliv",
+            "source": "generated",
+            "content_sha256": "0bf672785e81e204da29e16cd30db1a06477b5d39d7c624c8b87512d53b17b21",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "liv som kunstner",
+      "translation": "life as an artist",
+      "examples": [
+        "hun hadde et langt og mangslungent kunstnerliv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "source_article_id": 7816,
+  "lemmas": [
+    {
+      "lemma": "brygg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 9296,
+      "is_sub_article": false,
+      "primary_translation": "brew",
+      "word_forms": [
+        {
+          "word_form": "brygg",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brYg",
+              "ipa": "ˈbrʏg",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "brygget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brY$g@",
+              "ipa": "ˈbrʏgə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "brygga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brY$gA",
+              "ipa": "ˈbrʏgɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bryggene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brY$g@$n@",
+              "ipa": "ˈbrʏgənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e02c37d54410.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e02c37d54410.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e02c37d54410.mp3",
+            "text": "brygg",
+            "source": "generated",
+            "content_sha256": "514a620abc2bd6acf5d93b4cfc1949a6b08dd46efb2398f5ad8d98bae5b4c1be",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe som er under brygging, eller som er brygget",
+      "translation": "something that is under brewing, that has been brewed",
+      "examples": [
+        "la oss smake på brygget"
+      ]
+    }
+  ]
+}

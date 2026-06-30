@@ -1,0 +1,118 @@
+{
+  "source_article_id": 131758,
+  "lemmas": [
+    {
+      "lemma": "termografere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 2979725,
+      "is_sub_article": false,
+      "primary_translation": "to thermal image",
+      "word_forms": [
+        {
+          "word_form": "termografere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "termograferer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "termograferes",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "termograferte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "termografert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "termograferende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "termografer",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@r$mU$\"grA:$f@r",
+              "ipa": "tərmʊˈgrɑːfər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "028dc0eaf9ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/028dc0eaf9ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/028dc0eaf9ab.mp3",
+            "text": "termografere",
+            "source": "generated",
+            "content_sha256": "9d264c306d3a6cf4c675cd3ef4670aa66c314251b0d0e8fb85ad89eb77ab7c76"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bruke et varmekamera for å måle og registrere varmestråling fra overflater",
+      "translation": "to use a thermal camera to measure and record heat radiation from surfaces",
+      "examples": [
+        "bruke droner til å termografere"
+      ]
+    }
+  ]
+}

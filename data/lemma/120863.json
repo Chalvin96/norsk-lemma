@@ -1,0 +1,111 @@
+{
+  "source_article_id": 120863,
+  "lemmas": [
+    {
+      "lemma": "kveder",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 118194,
+      "is_sub_article": false,
+      "primary_translation": "ballad singer",
+      "word_forms": [
+        {
+          "word_form": "kveder",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kve:$d@r",
+              "ipa": "ˈkveːdər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvederen",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kve:$d@n`",
+              "ipa": "ˈkveːdəɳ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvedere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kve:$d@$r@",
+              "ipa": "ˈkveːdərə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kvederne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kve:$d@$n`@",
+              "ipa": "ˈkveːdəɳə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2a17422c6ee0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a17422c6ee0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a17422c6ee0.mp3",
+            "text": "kveder",
+            "source": "generated",
+            "content_sha256": "ddf12d65dcde948a5f46b84eb3492f5d4e888985ae0f5d5431eebba3aaa7b886",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som kvede",
+      "translation": "person who sings traditional ballads",
+      "examples": [
+        "hun er kjent som en god sanger og kveder"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 99691,
+  "lemmas": [
+    {
+      "lemma": "nynorskbruker",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 126636,
+      "is_sub_article": false,
+      "primary_translation": "Nynorsk user",
+      "word_forms": [
+        {
+          "word_form": "nynorskbruker",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nynorskbrukeren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nynorskbrukere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$nO$%s`kbr}:$k@$r@",
+              "ipa": "ˈnyːnɔˌʂkbrʉːkərə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nynorskbrukerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4559e8b9387f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4559e8b9387f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4559e8b9387f.mp3",
+            "text": "nynorskbruker",
+            "source": "generated",
+            "content_sha256": "a7288b0f450e4b1b28eef52a8c9403a4b18d8e26c3a1b278ea96a6e924cb3933"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som bruker nynorsk",
+      "translation": "person who uses Nynorsk",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "source_article_id": 56516,
+  "lemmas": [
+    {
+      "lemma": "spørres",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 65029,
+      "is_sub_article": false,
+      "primary_translation": "become known",
+      "word_forms": [
+        {
+          "word_form": "spørres",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sp9$r@s",
+              "ipa": "ˈspœrəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "spurtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spu0$t`@s",
+              "ipa": "ˈspʉʈəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "spørs",
+          "tags_json": [
+            "verb",
+            "Pres",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sp9s`",
+              "ipa": "ˈspœʂ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "22596492ddc6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22596492ddc6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22596492ddc6.mp3",
+            "text": "spørres",
+            "source": "generated",
+            "content_sha256": "f83a106568eb71709ed9cd845d0b4ffbaef0ed272f5bf31ed3ed1fbd44dbda2a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli kjent og omtalt",
+      "translation": "become known and talked about",
+      "examples": [
+        "tyveriet spurtes snart i bygda"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 133959,
+  "lemmas": [
+    {
+      "lemma": "unotert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 150620,
+      "is_sub_article": false,
+      "primary_translation": "unlisted",
+      "word_forms": [
+        {
+          "word_form": "unotert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$nU$%te:t`",
+              "ipa": "ˈʉːnʊˌteːʈ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "unoterte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$nU$%te:$t`@",
+              "ipa": "ˈʉːnʊˌteːʈə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "205568ae32c0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/205568ae32c0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/205568ae32c0.mp3",
+            "text": "unotert",
+            "source": "generated",
+            "content_sha256": "40a8243b15cbeb8b9aa417a187250aace080d6747d6154e4a1b9b1804b79b4a2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er børsnotert",
+      "translation": "that is not listed on the stock exchange",
+      "examples": []
+    },
+    {
+      "text": "jamfør notere",
+      "translation": "unlisted",
+      "examples": [
+        "unoterte aksjer",
+        "unoterte selskaper",
+        "unotert eiendom"
+      ]
+    }
+  ]
+}

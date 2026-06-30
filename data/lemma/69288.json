@@ -1,0 +1,117 @@
+{
+  "source_article_id": 69288,
+  "lemmas": [
+    {
+      "lemma": "våg",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 82056,
+      "is_sub_article": false,
+      "primary_translation": "inlet / bay / wave",
+      "word_forms": [
+        {
+          "word_form": "våg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vo:g",
+              "ipa": "ˈvoːg",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vågen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vo:$g@n",
+              "ipa": "ˈvoːgən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "våger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vo:$g@r",
+              "ipa": "ˈvoːgər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vågene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vo:$g@$n@",
+              "ipa": "ˈvoːgənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bafc5eebc21b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bafc5eebc21b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bafc5eebc21b.mp3",
+            "text": "våg",
+            "source": "generated",
+            "content_sha256": "d94215f638b57532eb515fb56da0121b3746d08288ff1d484abe052a0ad5697c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "smalt sjøstykke som skjærer inn i landet",
+      "translation": "narrow sea passage cutting into the land",
+      "examples": []
+    },
+    {
+      "text": "bukt, vik",
+      "translation": "bay, cove",
+      "examples": [
+        "seile ut vågen",
+        "vågene ute på storhavet"
+      ]
+    }
+  ]
+}

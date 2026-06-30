@@ -1,0 +1,86 @@
+{
+  "source_article_id": 38173,
+  "lemmas": [
+    {
+      "lemma": "metrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 44783,
+      "is_sub_article": false,
+      "primary_translation": "metric",
+      "word_forms": [
+        {
+          "word_form": "metrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$trI$sk",
+              "ipa": "ˈmeːtrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "metriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$trI$sk@",
+              "ipa": "ˈmeːtrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "16e58275e0a8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16e58275e0a8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16e58275e0a8.mp3",
+            "text": "metrisk",
+            "source": "generated",
+            "content_sha256": "312a52a6b594cf7234f75e6e56551fbb5b9e2678d306476d3c545ff159b74231",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder metrikk",
+      "translation": "concerning metrics",
+      "examples": []
+    },
+    {
+      "text": "som gjelder, tilhører eller er regnet ut etter metersystemet",
+      "translation": "concerning or calculated according to the metric system",
+      "examples": [
+        "metrisk mål og vekt",
+        "innføringen av det metriske systemet i Norge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "source_article_id": 41159,
+  "lemmas": [
+    {
+      "lemma": "note",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 48133,
+      "is_sub_article": false,
+      "primary_translation": "note / message / banknote",
+      "word_forms": [
+        {
+          "word_form": "note",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$t@",
+              "ipa": "ˈnuːtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "noten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$tn=",
+              "ipa": "ˈnuːtn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "noter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$t@r",
+              "ipa": "ˈnuːtər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "notene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$tn=$@",
+              "ipa": "ˈnuːtn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f2943c14185.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f2943c14185.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f2943c14185.mp3",
+            "text": "note",
+            "source": "generated",
+            "content_sha256": "f359dcc36123b22b160577818465d7ca3ab538ed2b1ede517ae8780f5ea7bcd8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "merknad, forklaring eller opplysning for eksempel nederst på en bokside eller bak i boka",
+      "translation": "remark, explanation, or information at the bottom or back of a book",
+      "examples": [
+        "teksten er forsynt med noter"
+      ]
+    },
+    {
+      "text": "meddelelse fra en regjering til en annen",
+      "translation": "message from one government to another",
+      "examples": [
+        "det er utvekslet flere noter om saken",
+        "100 pund i gull og noter"
+      ]
+    }
+  ]
+}

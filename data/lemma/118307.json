@@ -1,0 +1,82 @@
+{
+  "source_article_id": 118307,
+  "lemmas": [
+    {
+      "lemma": "innlånt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167173,
+      "is_sub_article": false,
+      "primary_translation": "borrowed in",
+      "word_forms": [
+        {
+          "word_form": "innlånt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%lo:nt",
+              "ipa": "ˈɪnˌloːnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innlånte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%lo:n$t@",
+              "ipa": "ˈɪnˌloːntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "04499bb5a5ec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/04499bb5a5ec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/04499bb5a5ec.mp3",
+            "text": "innlånt",
+            "source": "generated",
+            "content_sha256": "ec3369d87a1f6c840625a24d79fb10524f4b26dfdae585b0fea9d78682a420fb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er lånt inn",
+      "translation": "borrowed in",
+      "examples": [
+        "ha mange innlånte ord i språket",
+        "en utstilling med innlånt kunst",
+        "en innlånt keeper"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_article_id": 67338,
+  "lemmas": [
+    {
+      "lemma": "vekselvarm",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77727,
+      "is_sub_article": false,
+      "primary_translation": "poikilothermic / warm-blooded",
+      "word_forms": [
+        {
+          "word_form": "vekselvarm",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vEk$sl=$%vArm",
+              "ipa": "ˈvɛksl̩ˌvɑrm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vekselvarme",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vEk$sl=$%vAr$m@",
+              "ipa": "ˈvɛksl̩ˌvɑrmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vekselvarmt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vEk$sl=$%vArmt",
+              "ipa": "ˈvɛksl̩ˌvɑrmt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "63569c20c66b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63569c20c66b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63569c20c66b.mp3",
+            "text": "vekselvarm",
+            "source": "generated",
+            "content_sha256": "6cff48c85bd3b149d3e28de34a66de617518fd9dcad36634e43091df2d4425aa",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med kroppstemperatur som skifter med miljøtemperaturen",
+      "translation": "with body temperature that changes with environmental temperature",
+      "examples": [
+        "krypdyra er vekselvarme"
+      ]
+    }
+  ]
+}

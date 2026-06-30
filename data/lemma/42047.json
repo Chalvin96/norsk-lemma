@@ -1,0 +1,104 @@
+{
+  "source_article_id": 42047,
+  "lemmas": [
+    {
+      "lemma": "om",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 49129,
+      "is_sub_article": false,
+      "primary_translation": "dull sound",
+      "word_forms": [
+        {
+          "word_form": "om",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:m",
+              "ipa": "ˈuːm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:$m@n",
+              "ipa": "ˈuːmən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:$m@r",
+              "ipa": "ˈuːmər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1307bae50b27.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1307bae50b27.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1307bae50b27.mp3",
+            "text": "om",
+            "source": "generated",
+            "content_sha256": "0d2f426e682e4b31d28bf895dd542c24ceba4fc1362478a5c8c1d53cc19ab591",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svak, dump lyd",
+      "translation": "faint, dull sound",
+      "examples": [
+        "høre omen av kirkeklokkene"
+      ]
+    }
+  ]
+}

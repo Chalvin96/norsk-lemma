@@ -1,0 +1,99 @@
+{
+  "source_article_id": 38660,
+  "lemmas": [
+    {
+      "lemma": "mismot",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45330,
+      "is_sub_article": false,
+      "primary_translation": "despondency",
+      "word_forms": [
+        {
+          "word_form": "mismot",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$%smu:t",
+              "ipa": "ˈmɪˌsmuːt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mismotet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$%smu:$t@",
+              "ipa": "ˈmɪˌsmuːtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mismota",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "mismotene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "db8bec1b1891.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db8bec1b1891.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db8bec1b1891.mp3",
+            "text": "mismot",
+            "source": "generated",
+            "content_sha256": "fb47bab64c393937cc101fd807578f04204ed4fce626384ddcdaa3b431a77a59",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nedslått stemning",
+      "translation": "dejected mood",
+      "examples": [
+        "mismotet grep henne",
+        "bli fylt av mismot"
+      ]
+    }
+  ]
+}

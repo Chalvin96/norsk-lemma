@@ -1,0 +1,80 @@
+{
+  "source_article_id": 66002,
+  "lemmas": [
+    {
+      "lemma": "utørst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75768,
+      "is_sub_article": false,
+      "primary_translation": "no longer thirsty",
+      "word_forms": [
+        {
+          "word_form": "utørst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%t9s`t`",
+              "ipa": "ˈʉːˌtœʂʈ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "utørste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%t9s`$t`@",
+              "ipa": "ˈʉːˌtœʂʈə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3806566812a2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3806566812a2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3806566812a2.mp3",
+            "text": "utørst",
+            "source": "generated",
+            "content_sha256": "df54295812fe937a34550d42fe8670f7d6597fd8ec987cd9957fa738b28af4cd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er tørst lenger",
+      "translation": "no longer thirsty",
+      "examples": [
+        "drikke seg utørst"
+      ]
+    }
+  ]
+}

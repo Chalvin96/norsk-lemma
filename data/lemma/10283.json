@@ -1,0 +1,78 @@
+{
+  "source_article_id": 10283,
+  "lemmas": [
+    {
+      "lemma": "diskret",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 12027,
+      "is_sub_article": false,
+      "primary_translation": "distinct / separate",
+      "word_forms": [
+        {
+          "word_form": "diskret",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skre:",
+              "ipa": "dɪˈskreː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "diskrete",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skre:$t@",
+              "ipa": "dɪˈskreːtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "578e63a2a00d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/578e63a2a00d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/578e63a2a00d.mp3",
+            "text": "diskret",
+            "source": "generated",
+            "content_sha256": "6d65d8ee0553595bbcb0946b453d2202209b6f54b1c27e1c9e2061ddd9c51560",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tydelig adskilt",
+      "translation": "clearly separated",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "source_article_id": 27557,
+  "lemmas": [
+    {
+      "lemma": "jastemme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 32688,
+      "is_sub_article": false,
+      "primary_translation": "yes vote",
+      "word_forms": [
+        {
+          "word_form": "jastemme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$%stE$m@",
+              "ipa": "ˈjɑːˌstɛmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jastemmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$%stE$m@n",
+              "ipa": "ˈjɑːˌstɛmən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jastemmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$%stE$m@r",
+              "ipa": "ˈjɑːˌstɛmər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jastemmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$%stE$m@$n@",
+              "ipa": "ˈjɑːˌstɛmənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "928b15062b03.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/928b15062b03.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/928b15062b03.mp3",
+            "text": "jastemme",
+            "source": "generated",
+            "content_sha256": "d05517b8b44cbdbe1cbd1df484248b272d0dd11db0ad809bc2230434120f6cde",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å stemme ja",
+      "translation": "the act of voting yes",
+      "examples": []
+    },
+    {
+      "text": "stemmeseddel med ‘ja’",
+      "translation": "ballot paper with 'yes'",
+      "examples": [
+        "det ble telt opp 68 jastemmer og 39 neistemmer"
+      ]
+    }
+  ]
+}

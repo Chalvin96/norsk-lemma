@@ -1,0 +1,89 @@
+{
+  "source_article_id": 106875,
+  "lemmas": [
+    {
+      "lemma": "lysdiode",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160505,
+      "is_sub_article": false,
+      "primary_translation": "light-emitting diode",
+      "word_forms": [
+        {
+          "word_form": "lysdiode",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lysdioden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lysdioder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:s$dI$%u:$d@r",
+              "ipa": "ˈlyːsdɪˌuːdər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lysdiodene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "46e67dc3a302.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46e67dc3a302.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46e67dc3a302.mp3",
+            "text": "lysdiode",
+            "source": "generated",
+            "content_sha256": "9d745484c21fdc62d86b60d463c4ed16c5cbfb4919d70594fed715fe57414114"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "diode som sender ut lys når det går elektrisk støm gjennom den",
+      "translation": "diode that emits light when electric current passes through it",
+      "examples": [
+        "lysdioden har ensfarget lys og avgir lite varme"
+      ]
+    }
+  ]
+}

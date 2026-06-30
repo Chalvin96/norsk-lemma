@@ -1,0 +1,80 @@
+{
+  "source_article_id": 1793,
+  "lemmas": [
+    {
+      "lemma": "anglikansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2289,
+      "is_sub_article": false,
+      "primary_translation": "Anglican",
+      "word_forms": [
+        {
+          "word_form": "anglikansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "AN$lI$\"kA:nsk",
+              "ipa": "ɑŋlɪˈkɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "anglikanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "AN$lI$\"kA:n$sk@",
+              "ipa": "ɑŋlɪˈkɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d509fb161cb5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d509fb161cb5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d509fb161cb5.mp3",
+            "text": "anglikansk",
+            "source": "generated",
+            "content_sha256": "38c8558a9562de2d844fc61604b6a6715a0a68d9bb8d5caa5a81ca056bdca0a6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder den engelske statskirken og tilknyttede kirkesamfunn",
+      "translation": "pertaining to the English state church and associated denominations",
+      "examples": [
+        "anglikansk biskop"
+      ]
+    }
+  ]
+}

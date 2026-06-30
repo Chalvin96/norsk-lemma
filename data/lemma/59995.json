@@ -1,0 +1,111 @@
+{
+  "source_article_id": 59995,
+  "lemmas": [
+    {
+      "lemma": "taxi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68664,
+      "is_sub_article": false,
+      "primary_translation": "taxi / cab",
+      "word_forms": [
+        {
+          "word_form": "taxi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAk$sI",
+              "ipa": "ˈtɑksɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "taxien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAk$sI$@n",
+              "ipa": "ˈtɑksɪən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "taxier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAk$sI$@r",
+              "ipa": "ˈtɑksɪər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "taxiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAk$sI$@$n@",
+              "ipa": "ˈtɑksɪənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a719ad7f0904.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a719ad7f0904.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a719ad7f0904.mp3",
+            "text": "taxi",
+            "source": "generated",
+            "content_sha256": "5500c9e5d098fd414dc6525c242cd573b928c6fc64aa5af2e27ba6566600e0c4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bil som er utstyrt med taksameter, og som brukes for å transportere personer til avtalt sted mot betaling",
+      "translation": "car equipped with a taximeter, used to transport people to an agreed location for a fee",
+      "examples": [
+        "ta en taxi til flyplassen"
+      ]
+    }
+  ]
+}

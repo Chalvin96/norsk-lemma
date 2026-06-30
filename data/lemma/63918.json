@@ -1,0 +1,88 @@
+{
+  "source_article_id": 63918,
+  "lemmas": [
+    {
+      "lemma": "uglad",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73183,
+      "is_sub_article": false,
+      "primary_translation": "unhappy",
+      "word_forms": [
+        {
+          "word_form": "uglad",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%glA:",
+              "ipa": "ˈʉːˌglɑː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "uglade",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%glA:$d@",
+              "ipa": "ˈʉːˌglɑːdə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "73b7f229e6f9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73b7f229e6f9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73b7f229e6f9.mp3",
+            "text": "uglad",
+            "source": "generated",
+            "content_sha256": "a2de616e90cf5286a96d5087e775496d068739490a16e7f6b71aab779bbf0a65",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er glad",
+      "translation": "that is not glad",
+      "examples": []
+    },
+    {
+      "text": "trist, sturen",
+      "translation": "sad, sullen",
+      "examples": [
+        "en tverr og uglad mann",
+        "uglad latter",
+        "uglade ansikter",
+        "uglade dager"
+      ]
+    }
+  ]
+}

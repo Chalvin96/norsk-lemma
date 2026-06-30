@@ -1,0 +1,102 @@
+{
+  "source_article_id": 32873,
+  "lemmas": [
+    {
+      "lemma": "kursiv",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 38552,
+      "is_sub_article": false,
+      "primary_translation": "italic",
+      "word_forms": [
+        {
+          "word_form": "kursiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"s`i:v",
+              "ipa": "kʉˈʂɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kursive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"s`i:$v@",
+              "ipa": "kʉˈʂɪːvə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kursivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0$\"s`i:vt",
+              "ipa": "kʉˈʂɪːvt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bef0151d71dd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bef0151d71dd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bef0151d71dd.mp3",
+            "text": "kursiv",
+            "source": "generated",
+            "content_sha256": "474151f1f6e5855143c43084bb7958d6201edba2fb63809d9f5433bf7424b410",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kursiv",
+      "translation": "relating to italics",
+      "examples": []
+    },
+    {
+      "text": "som er skråstilt",
+      "translation": "slanted",
+      "examples": [
+        "dette må settes i kursiv skrift"
+      ]
+    }
+  ]
+}

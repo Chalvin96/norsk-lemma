@@ -1,0 +1,111 @@
+{
+  "source_article_id": 40178,
+  "lemmas": [
+    {
+      "lemma": "nasal",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 47041,
+      "is_sub_article": false,
+      "primary_translation": "nasal sound",
+      "word_forms": [
+        {
+          "word_form": "nasal",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sA:l",
+              "ipa": "nɑˈsɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nasalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sA:$ln=",
+              "ipa": "nɑˈsɑːln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nasaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sA:$l@r",
+              "ipa": "nɑˈsɑːlər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nasalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sA:$ln=$@",
+              "ipa": "nɑˈsɑːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dd9eca4d51f3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd9eca4d51f3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd9eca4d51f3.mp3",
+            "text": "nasal",
+            "source": "generated",
+            "content_sha256": "f58cfae1c4b4f91854ca13b48a88cc5d347c21a190d204fccc0b22336f38186d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språklyd som blir laget ved at lufta strømmer ut bare eller i hovedsak gjennom nesen",
+      "translation": "speech sound produced by air flowing out solely or mainly through the nose",
+      "examples": [
+        "‘m’, ‘n’ og ‘ng’ er nasaler"
+      ]
+    }
+  ]
+}

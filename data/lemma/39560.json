@@ -1,0 +1,104 @@
+{
+  "source_article_id": 39560,
+  "lemmas": [
+    {
+      "lemma": "museal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 46345,
+      "is_sub_article": false,
+      "primary_translation": "museum-related / old-fashioned",
+      "word_forms": [
+        {
+          "word_form": "museal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mu0$s@$\"A:l",
+              "ipa": "mʉsəˈɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "museale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mu0$s@$\"A:$l@",
+              "ipa": "mʉsəˈɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "musealt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mu0$s@$\"A:lt",
+              "ipa": "mʉsəˈɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "607d6f9a0dde.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/607d6f9a0dde.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/607d6f9a0dde.mp3",
+            "text": "museal",
+            "source": "generated",
+            "content_sha256": "d2fedbdaaefc9e4445d1e0c33718a01f97e869f0a212d3e13da8bb9230ba3d63",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder museer",
+      "translation": "relating to museums",
+      "examples": [
+        "gjenstander som har museal interesse"
+      ]
+    },
+    {
+      "text": "gammeldags",
+      "translation": "old-fashioned",
+      "examples": [
+        "ha en museal holdning"
+      ]
+    }
+  ]
+}

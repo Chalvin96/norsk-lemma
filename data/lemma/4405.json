@@ -1,0 +1,116 @@
+{
+  "source_article_id": 4405,
+  "lemmas": [
+    {
+      "lemma": "bankerott",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 5209,
+      "is_sub_article": false,
+      "primary_translation": "bankruptcy",
+      "word_forms": [
+        {
+          "word_form": "bankerott",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAN$k@$\"rOt",
+              "ipa": "bɑŋkəˈrɔt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankerotten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAN$k@$\"rO$tn=",
+              "ipa": "bɑŋkəˈrɔtn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankerotter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAN$k@$\"rO$t@r",
+              "ipa": "bɑŋkəˈrɔtər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankerottene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAN$k@$\"rO$tn=$@",
+              "ipa": "bɑŋkəˈrɔtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "de9dbd2fe012.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/de9dbd2fe012.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/de9dbd2fe012.mp3",
+            "text": "bankerott",
+            "source": "generated",
+            "content_sha256": "afe36c500e2460791d8253b0b33287c3a621af23eefc0d78cc48d41c99b24fdd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "økonomisk sammenbrudd",
+      "translation": "financial collapse",
+      "examples": []
+    },
+    {
+      "text": "fallitt, konkurs",
+      "translation": "insolvency, bankruptcy",
+      "examples": [
+        "på vei mot bankerott"
+      ]
+    }
+  ]
+}

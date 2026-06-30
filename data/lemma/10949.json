@@ -1,0 +1,92 @@
+{
+  "source_article_id": 10949,
+  "lemmas": [
+    {
+      "lemma": "dr.med.",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 12493,
+      "is_sub_article": false,
+      "primary_translation": "doctor of medicine",
+      "word_forms": [
+        {
+          "word_form": "dr.med.",
+          "tags_json": [
+            "ABBR",
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dOk$tUr$\"mEd",
+              "ipa": "dɔktʊrˈmɛd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dr.med.-en",
+          "tags_json": [
+            "ABBR",
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dr.med.-er",
+          "tags_json": [
+            "ABBR",
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dr.med.-ene",
+          "tags_json": [
+            "ABBR",
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3f0241230292.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f0241230292.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f0241230292.mp3",
+            "text": "dr.med.",
+            "source": "generated",
+            "content_sha256": "da1e18d3cb1fed1dfbbfe9c4d41c164c0873557f368a3f0f69958e88a49a22f2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(tittel for) person som har doktorgrad i medisin",
+      "translation": "(title for) person who holds a doctorate in medicine",
+      "examples": []
+    }
+  ]
+}

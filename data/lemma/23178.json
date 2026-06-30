@@ -1,0 +1,80 @@
+{
+  "source_article_id": 23178,
+  "lemmas": [
+    {
+      "lemma": "hendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27338,
+      "is_sub_article": false,
+      "primary_translation": "skilled / handy",
+      "word_forms": [
+        {
+          "word_form": "hendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEnt",
+              "ipa": "ˈhɛnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEn$t@",
+              "ipa": "ˈhɛntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8c0d1f4ec959.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c0d1f4ec959.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c0d1f4ec959.mp3",
+            "text": "hendt",
+            "source": "generated",
+            "content_sha256": "421c83d72141acb7a73b1e32b71ac599e492cdba84470260e246f973636a9bba",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med godt håndlag",
+      "translation": "with good craftsmanship",
+      "examples": [
+        "han var hendt til mangt slags småarbeid"
+      ]
+    }
+  ]
+}

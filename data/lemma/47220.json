@@ -1,0 +1,113 @@
+{
+  "source_article_id": 47220,
+  "lemmas": [
+    {
+      "lemma": "radar",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 54274,
+      "is_sub_article": false,
+      "primary_translation": "radar",
+      "word_forms": [
+        {
+          "word_form": "radar",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rA:$dAr",
+              "ipa": "ˈrɑːdɑr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "radaren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rA:$dA$n`=",
+              "ipa": "ˈrɑːdɑɳ̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "radarer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rA:$dA$r@r",
+              "ipa": "ˈrɑːdɑrər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "radarene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rA:$dA$n`=$@",
+              "ipa": "ˈrɑːdɑɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d79e13fb2e64.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d79e13fb2e64.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d79e13fb2e64.mp3",
+            "text": "radar",
+            "source": "generated",
+            "content_sha256": "aa08ee1c8da360bed33d098af8162256728a49e6465861b8cfb17171f4e74cc0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "apparat som lokaliserer og måler avstand til en gjenstand ved hjelp av radiobølge",
+      "translation": "apparatus that locates and measures the distance to an object using radio waves",
+      "examples": [
+        "radaren lokaliserte en ukjent ubåt",
+        "de bruker radar for å se etter fisk",
+        "politiet hadde fartskontroll med radar"
+      ]
+    }
+  ]
+}

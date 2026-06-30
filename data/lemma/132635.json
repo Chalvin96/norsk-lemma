@@ -1,0 +1,80 @@
+{
+  "source_article_id": 132635,
+  "lemmas": [
+    {
+      "lemma": "trinnfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2146755,
+      "is_sub_article": false,
+      "primary_translation": "step-free",
+      "word_forms": [
+        {
+          "word_form": "trinnfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"trIn$%fri:",
+              "ipa": "ˈtrɪnˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trinnfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "trinnfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2dd8936fb286.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2dd8936fb286.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2dd8936fb286.mp3",
+            "text": "trinnfri",
+            "source": "generated",
+            "content_sha256": "5b042a990ffba2ef8b668e7bcf64c2dca4253119afe920c9396007afd012ea2c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten trinn",
+      "translation": "without steps",
+      "examples": [
+        "trinnfri atkomst"
+      ]
+    }
+  ]
+}

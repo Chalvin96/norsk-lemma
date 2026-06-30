@@ -1,0 +1,87 @@
+{
+  "source_article_id": 3083,
+  "lemmas": [
+    {
+      "lemma": "atomistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3650,
+      "is_sub_article": false,
+      "primary_translation": "atomized / atomistic",
+      "word_forms": [
+        {
+          "word_form": "atomistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$tU$\"mI$stI$sk",
+              "ipa": "ɑtʊˈmɪstɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "atomistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$tU$\"mI$stI$sk@",
+              "ipa": "ɑtʊˈmɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0cac48044e5a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0cac48044e5a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0cac48044e5a.mp3",
+            "text": "atomistisk",
+            "source": "generated",
+            "content_sha256": "d690f8ae82ae144ea4437ec3a6c7a06e57caf413a8a24fee90d85e49cceebb0c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er atomisert",
+      "translation": "that has been atomized",
+      "examples": [
+        "et atomistisk studieopplegg"
+      ]
+    },
+    {
+      "text": "som gjelder atomisme",
+      "translation": "relating to atomism",
+      "examples": [
+        "en atomistisk verdensoppfatning"
+      ]
+    }
+  ]
+}

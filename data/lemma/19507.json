@@ -1,0 +1,82 @@
+{
+  "source_article_id": 19507,
+  "lemmas": [
+    {
+      "lemma": "geologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22783,
+      "is_sub_article": false,
+      "primary_translation": "geological",
+      "word_forms": [
+        {
+          "word_form": "geologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "g@$U$\"lo:$gI$sk",
+              "ipa": "gəʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "geologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "g@$U$\"lo:$gI$sk@",
+              "ipa": "gəʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b2ed0b795b1d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b2ed0b795b1d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b2ed0b795b1d.mp3",
+            "text": "geologisk",
+            "source": "generated",
+            "content_sha256": "b29d227e99fc838e720c4c4e015e2b7dceaf324589e6a0f1cf9139051decaf06",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder geologi",
+      "translation": "concerning geology",
+      "examples": [
+        "geologiske undersøkelser",
+        "geologisk periode",
+        "geologisk tidsalder"
+      ]
+    }
+  ]
+}

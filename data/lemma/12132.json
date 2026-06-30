@@ -1,0 +1,117 @@
+{
+  "source_article_id": 12132,
+  "lemmas": [
+    {
+      "lemma": "ekspress",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 14169,
+      "is_sub_article": false,
+      "primary_translation": "express transport",
+      "word_forms": [
+        {
+          "word_form": "ekspress",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sprEs",
+              "ipa": "ɛkˈsprɛs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ekspressen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sprE$sn=",
+              "ipa": "ɛkˈsprɛsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ekspresser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sprE$s@r",
+              "ipa": "ɛkˈsprɛsər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ekspressene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sprE$sn=$@",
+              "ipa": "ɛkˈsprɛsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b4a95723c830.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b4a95723c830.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b4a95723c830.mp3",
+            "text": "ekspress",
+            "source": "generated",
+            "content_sha256": "384961ab1ad99a1eb8160d5e32c0b76de8f2926bbe16782ef66b3f7b1c95ade6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortform av ekspressbuss, ekspressbåt og ekspresstog",
+      "translation": "short form of express bus, express boat, and express train",
+      "examples": []
+    },
+    {
+      "text": "transportmiddel som går raskt eller direkte",
+      "translation": "means of transport that travels quickly or directly",
+      "examples": [
+        "reise med ekspressen",
+        "de kommer med ekspressen klokka 18"
+      ]
+    }
+  ]
+}

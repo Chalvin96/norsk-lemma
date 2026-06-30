@@ -1,0 +1,93 @@
+{
+  "source_article_id": 120511,
+  "lemmas": [
+    {
+      "lemma": "kredibel",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163324,
+      "is_sub_article": false,
+      "primary_translation": "credible / trustworthy",
+      "word_forms": [
+        {
+          "word_form": "kredibel",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kredible",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kr@$\"di:$bl@",
+              "ipa": "krəˈdɪːblə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kredibelt",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9004b1600a0a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9004b1600a0a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9004b1600a0a.mp3",
+            "text": "kredibel",
+            "source": "generated",
+            "content_sha256": "92a42d41de3f75978a9c81b482481c49be47596988f5338d092db2e28ebd6701"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har kredibilitet",
+      "translation": "having credibility",
+      "examples": []
+    },
+    {
+      "text": "som inngir respekt",
+      "translation": "inspiring respect",
+      "examples": []
+    },
+    {
+      "text": "troverdig",
+      "translation": "trustworthy",
+      "examples": [
+        "kredible artister",
+        "kredible nyhetskilder"
+      ]
+    }
+  ]
+}

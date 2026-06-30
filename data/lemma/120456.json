@@ -1,0 +1,90 @@
+{
+  "source_article_id": 120456,
+  "lemmas": [
+    {
+      "lemma": "krigstjeneste",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 117123,
+      "is_sub_article": false,
+      "primary_translation": "wartime military service",
+      "word_forms": [
+        {
+          "word_form": "krigstjeneste",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krIg$%stje:$n@$st@",
+              "ipa": "ˈkrɪgˌstjeːnəstə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "krigstjenesten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "krigstjenester",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "krigstjenestene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "146297264400.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/146297264400.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/146297264400.mp3",
+            "text": "krigstjeneste",
+            "source": "generated",
+            "content_sha256": "06b3b47fab37a988ac81a69b12f0c02b952d891209f79107ef9a41467f961371",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "militærtjeneste i krigstid",
+      "translation": "military service during wartime",
+      "examples": [
+        "han meldte seg for krigstjeneste i 1914"
+      ]
+    }
+  ]
+}

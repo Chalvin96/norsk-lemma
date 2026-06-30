@@ -1,0 +1,161 @@
+{
+  "source_article_id": 5213,
+  "lemmas": [
+    {
+      "lemma": "belåne",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 6122,
+      "is_sub_article": false,
+      "primary_translation": "mortgage",
+      "word_forms": [
+        {
+          "word_form": "belåne",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"lo:$n@",
+              "ipa": "bəˈloːnə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "belåner",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"lo:$n@r",
+              "ipa": "bəˈloːnər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "belånes",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"lo:$n@s",
+              "ipa": "bəˈloːnəs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "belånte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"lo:n$t@",
+              "ipa": "bəˈloːntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "belånt",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"lo:nt",
+              "ipa": "bəˈloːnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "belånende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"lo:$nn=$@",
+              "ipa": "bəˈloːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "belån",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"lo:n",
+              "ipa": "bəˈloːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cdbb23786ae4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cdbb23786ae4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cdbb23786ae4.mp3",
+            "text": "belåne",
+            "source": "generated",
+            "content_sha256": "2bf50217777e65522d8a1bb8ca45d4e048e607e0fca1897e9bf359685e46e6a8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "låne på (mot pant)",
+      "translation": "borrow against (with collateral)",
+      "examples": [
+        "eiendommen er sterkt belånt"
+      ]
+    }
+  ]
+}

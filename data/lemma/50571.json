@@ -1,0 +1,123 @@
+{
+  "source_article_id": 50571,
+  "lemmas": [
+    {
+      "lemma": "sekvens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 58033,
+      "is_sub_article": false,
+      "primary_translation": "musical motif / hymn / series",
+      "word_forms": [
+        {
+          "word_form": "sekvens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"kvEns",
+              "ipa": "səˈkvɛns",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sekvensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"kvEn$sn=",
+              "ipa": "səˈkvɛnsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sekvenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"kvEn$s@r",
+              "ipa": "səˈkvɛnsər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sekvensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"kvEn$sn=$@",
+              "ipa": "səˈkvɛnsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aafb15ead4e7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aafb15ead4e7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aafb15ead4e7.mp3",
+            "text": "sekvens",
+            "source": "generated",
+            "content_sha256": "d8ac27c17f9deecb63577649a22e8ab6fed80f768294b18304a67641ff9e4674",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i musikk: motiv som gjentas i forandret toneleie",
+      "translation": "musical motif that is repeated at a changed pitch",
+      "examples": []
+    },
+    {
+      "text": "hymne som blir brukt i katolsk messe",
+      "translation": "hymn used in the Catholic Mass",
+      "examples": []
+    },
+    {
+      "text": "rekke av elementer som danner et hele",
+      "translation": "series of elements that form a whole",
+      "examples": [
+        "vise noen sekvenser fra filmen",
+        "i en sekvens av talen snakket hun om framtiden",
+        "han hadde hele sekvensen av billedkort"
+      ]
+    }
+  ]
+}

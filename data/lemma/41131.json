@@ -1,0 +1,80 @@
+{
+  "source_article_id": 41131,
+  "lemmas": [
+    {
+      "lemma": "norsknorsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48108,
+      "is_sub_article": false,
+      "primary_translation": "exaggeratedly Norwegian",
+      "word_forms": [
+        {
+          "word_form": "norsknorsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$%s`knO$s`k",
+              "ipa": "ˈnɔˌʂknɔʂk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "norsknorske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$%s`knO$s`k@",
+              "ipa": "ˈnɔˌʂknɔʂkə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1f661ce75408.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f661ce75408.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f661ce75408.mp3",
+            "text": "norsknorsk",
+            "source": "generated",
+            "content_sha256": "d1f0157ad64f53be566af70da2b9634a9ded77f8f8dfd8c749537901ddac6e54",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utpreget, overdrevent norsk",
+      "translation": "distinctly, excessively Norwegian",
+      "examples": [
+        "norsknorsk patriotisme"
+      ]
+    }
+  ]
+}

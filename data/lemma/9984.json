@@ -1,0 +1,98 @@
+{
+  "source_article_id": 9984,
+  "lemmas": [
+    {
+      "lemma": "diagonal",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 11709,
+      "is_sub_article": false,
+      "primary_translation": "diagonal",
+      "word_forms": [
+        {
+          "word_form": "diagonal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$gU$\"nA:l",
+              "ipa": "dɪɑgʊˈnɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "diagonale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$gU$\"nA:$l@",
+              "ipa": "dɪɑgʊˈnɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "diagonalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$gU$\"nA:lt",
+              "ipa": "dɪɑgʊˈnɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d625a7dba903.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d625a7dba903.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d625a7dba903.mp3",
+            "text": "diagonal",
+            "source": "generated",
+            "content_sha256": "2982db8ccfd85396b3cbc8a29003cc59c6d6ad6fb7c0ff3b32402f5c9b700b28",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som går på skrå",
+      "translation": "going diagonally",
+      "examples": [
+        "en diagonal strek",
+        "brikken kan flyttes horisontalt, vertikalt og diagonalt"
+      ]
+    }
+  ]
+}

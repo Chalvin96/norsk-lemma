@@ -1,0 +1,119 @@
+{
+  "source_article_id": 10670,
+  "lemmas": [
+    {
+      "lemma": "dose",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12463,
+      "is_sub_article": false,
+      "primary_translation": "dose / portion",
+      "word_forms": [
+        {
+          "word_form": "dose",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du:$s@",
+              "ipa": "ˈduːsə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dosen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du:$sn=",
+              "ipa": "ˈduːsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "doser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du:$s@r",
+              "ipa": "ˈduːsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dosene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du:$sn=$@",
+              "ipa": "ˈduːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ef6b4d036fa2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef6b4d036fa2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef6b4d036fa2.mp3",
+            "text": "dose",
+            "source": "generated",
+            "content_sha256": "de5ff2997c6538028d4edde249062e964040b361b7180246631ae84a9c087052",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mengde som skal brukes av et legemiddel",
+      "translation": "amount of a medicine to be used",
+      "examples": [
+        "én dose tre ganger daglig",
+        "øke dosen"
+      ]
+    },
+    {
+      "text": "porsjon (av noe)",
+      "translation": "portion (of something)",
+      "examples": [
+        "sole seg i små doser"
+      ]
+    }
+  ]
+}

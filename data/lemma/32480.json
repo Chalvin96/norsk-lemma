@@ -1,0 +1,81 @@
+{
+  "source_article_id": 32480,
+  "lemmas": [
+    {
+      "lemma": "krystallinsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 38112,
+      "is_sub_article": false,
+      "primary_translation": "crystalline",
+      "word_forms": [
+        {
+          "word_form": "krystallinsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krY$stA$\"li:nsk",
+              "ipa": "krʏstɑˈlɪːnsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "krystallinske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krY$stA$\"li:n$sk@",
+              "ipa": "krʏstɑˈlɪːnskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cc8c1b25bd52.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc8c1b25bd52.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc8c1b25bd52.mp3",
+            "text": "krystallinsk",
+            "source": "generated",
+            "content_sha256": "8ac9c5f8ff0023cfc2fdcbbb79e24909a756e158f41c4b38e8a0d648d34232aa",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er oppbygd av krystall",
+      "translation": "composed of crystals",
+      "examples": [
+        "krystallinsk skifer",
+        "krystallinsk materiale"
+      ]
+    }
+  ]
+}

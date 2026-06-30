@@ -1,0 +1,111 @@
+{
+  "source_article_id": 13758,
+  "lemmas": [
+    {
+      "lemma": "familiær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15964,
+      "is_sub_article": false,
+      "primary_translation": "familiar / intrusive",
+      "word_forms": [
+        {
+          "word_form": "familiær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$mI$lI$\"{:r",
+              "ipa": "fɑmɪlɪˈæːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "familiære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$mI$lI$\"{:$r@",
+              "ipa": "fɑmɪlɪˈæːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "familiært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$mI$lI$\"{:t`",
+              "ipa": "fɑmɪlɪˈæːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "59387b1c08ce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59387b1c08ce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59387b1c08ce.mp3",
+            "text": "familiær",
+            "source": "generated",
+            "content_sha256": "0bb22644932c8910cbbcb93fed8951996f0510250db48852debd28857b5b8bcf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til i familien",
+      "translation": "belonging to the family",
+      "examples": []
+    },
+    {
+      "text": "som gjelder familien",
+      "translation": "concerning the family",
+      "examples": [
+        "familiære forhold",
+        "ha en familiær tilknytning",
+        "slutte i jobben av familiære grunner"
+      ]
+    },
+    {
+      "text": "(påtvungent) fortrolig",
+      "translation": "(forced) familiar",
+      "examples": [
+        "en familiær tone"
+      ]
+    }
+  ]
+}

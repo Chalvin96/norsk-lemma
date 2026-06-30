@@ -1,0 +1,81 @@
+{
+  "source_article_id": 12187,
+  "lemmas": [
+    {
+      "lemma": "ekstrovert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14224,
+      "is_sub_article": false,
+      "primary_translation": "extroverted",
+      "word_forms": [
+        {
+          "word_form": "ekstrovert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$strU$\"v{t`",
+              "ipa": "ɛkstrʊˈvæʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ekstroverte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$strU$\"v{$t`@",
+              "ipa": "ɛkstrʊˈvæʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f33afb91a8c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f33afb91a8c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f33afb91a8c.mp3",
+            "text": "ekstrovert",
+            "source": "generated",
+            "content_sha256": "38115735fcac74da776061e68bf275f9100c27ecec467581869c17f2b53fa06e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "motsatt introvert",
+      "translation": "outgoing",
+      "examples": [
+        "en ekstrovert person",
+        "de ekstroverte vinner fram"
+      ]
+    }
+  ]
+}

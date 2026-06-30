@@ -1,0 +1,83 @@
+{
+  "source_article_id": 62748,
+  "lemmas": [
+    {
+      "lemma": "tsjekkisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 71805,
+      "is_sub_article": false,
+      "primary_translation": "Czech / Czechoslovakian",
+      "word_forms": [
+        {
+          "word_form": "tsjekkisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tSE$kI$sk",
+              "ipa": "ˈtʃɛkɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tsjekkiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tSE$kI$sk@",
+              "ipa": "ˈtʃɛkɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bfc81392c070.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bfc81392c070.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bfc81392c070.mp3",
+            "text": "tsjekkisk",
+            "source": "generated",
+            "content_sha256": "23423d9bac47d31c7f0e69fd6d191d50430c26a88ab83550d06c0de920da7af4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Tsjekkia",
+      "translation": "relating to the Czech Republic",
+      "examples": []
+    },
+    {
+      "text": "som gjelder det tidligere Tsjekkoslovakia",
+      "translation": "relating to the former Czechoslovakia",
+      "examples": []
+    }
+  ]
+}

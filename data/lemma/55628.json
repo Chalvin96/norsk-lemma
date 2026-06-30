@@ -1,0 +1,102 @@
+{
+  "source_article_id": 55628,
+  "lemmas": [
+    {
+      "lemma": "sonor",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64033,
+      "is_sub_article": false,
+      "primary_translation": "resonant",
+      "word_forms": [
+        {
+          "word_form": "sonor",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$\"nu:r",
+              "ipa": "sʊˈnuːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sonore",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$\"nu:$r@",
+              "ipa": "sʊˈnuːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "sonort",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$\"nu:t`",
+              "ipa": "sʊˈnuːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b4d4c9ccd6cc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b4d4c9ccd6cc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b4d4c9ccd6cc.mp3",
+            "text": "sonor",
+            "source": "generated",
+            "content_sha256": "8240a29081c04bc754e355ac96c3ed62866bd91aead66abaf5b97dad63e61e07",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har fyldig, rik klang",
+      "translation": "having a full, rich sound",
+      "examples": []
+    },
+    {
+      "text": "klangfull, velklingende",
+      "translation": "resonant, melodious",
+      "examples": [
+        "en sonor stemme"
+      ]
+    }
+  ]
+}

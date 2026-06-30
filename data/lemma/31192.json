@@ -1,0 +1,111 @@
+{
+  "source_article_id": 31192,
+  "lemmas": [
+    {
+      "lemma": "kongesaga",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36712,
+      "is_sub_article": false,
+      "primary_translation": "king's saga",
+      "word_forms": [
+        {
+          "word_form": "kongesaga",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kON$@$%sA:$gA",
+              "ipa": "ˈkɔŋəˌsɑːgɑ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kongesagaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kON$@$%sA:$gA$@n",
+              "ipa": "ˈkɔŋəˌsɑːgɑən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kongesagaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kON$@$%sA:$gA$@r",
+              "ipa": "ˈkɔŋəˌsɑːgɑər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kongesagaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kON$@$%sA:$gA$@$n@",
+              "ipa": "ˈkɔŋəˌsɑːgɑənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3bdfa54ae169.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3bdfa54ae169.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3bdfa54ae169.mp3",
+            "text": "kongesaga",
+            "source": "generated",
+            "content_sha256": "448be3d2d7bd9de1c7160be607e29771a42c2ec6338455ffc5542334f66f1536",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "saga som inneholder en konges historie",
+      "translation": "saga containing a king's history",
+      "examples": [
+        "Snorres kongesagaer"
+      ]
+    }
+  ]
+}

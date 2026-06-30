@@ -1,0 +1,103 @@
+{
+  "source_article_id": 43489,
+  "lemmas": [
+    {
+      "lemma": "oval",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 50368,
+      "is_sub_article": false,
+      "primary_translation": "oval",
+      "word_forms": [
+        {
+          "word_form": "oval",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$\"vA:l",
+              "ipa": "ʊˈvɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ovale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$\"vA:$l@",
+              "ipa": "ʊˈvɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ovalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$\"vA:lt",
+              "ipa": "ʊˈvɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "76083f028a76.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/76083f028a76.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/76083f028a76.mp3",
+            "text": "oval",
+            "source": "generated",
+            "content_sha256": "6f3f9f745507d9388c845ac35efb13dc24c66a40f29f0b6feee5c229a7a871cc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avlangt rund",
+      "translation": "oblong round",
+      "examples": []
+    },
+    {
+      "text": "eggformet eggeforma eggeformet eggforma, langrund",
+      "translation": "egg-shaped, oblong",
+      "examples": [
+        "et ovalt ansikt",
+        "ovale briller"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_article_id": 37373,
+  "lemmas": [
+    {
+      "lemma": "matfisk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 43800,
+      "is_sub_article": false,
+      "primary_translation": "edible fish",
+      "word_forms": [
+        {
+          "word_form": "matfisk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mA:t$%fI$sk",
+              "ipa": "ˈmɑːtˌfɪsk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "matfisken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mA:t$%fI$sk@n",
+              "ipa": "ˈmɑːtˌfɪskən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "matfisker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mA:t$%fI$sk@r",
+              "ipa": "ˈmɑːtˌfɪskər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "matfiskene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mA:t$%fI$sk@$n@",
+              "ipa": "ˈmɑːtˌfɪskənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "45b16c333b45.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45b16c333b45.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45b16c333b45.mp3",
+            "text": "matfisk",
+            "source": "generated",
+            "content_sha256": "c735c861e47aeedd32db884c8657e7140aed702bc5b434d6eeb44445c21429ea",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fisk som egner seg til mat",
+      "translation": "fish suitable for food",
+      "examples": [
+        "torsk er en god matfisk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "source_article_id": 1356,
+  "lemmas": [
+    {
+      "lemma": "alpin",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1822,
+      "is_sub_article": false,
+      "primary_translation": "alpine / ski sport",
+      "word_forms": [
+        {
+          "word_form": "alpin",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Al$\"pi:n",
+              "ipa": "ɑlˈpɪːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "alpine",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Al$\"pi:$n@",
+              "ipa": "ɑlˈpɪːnə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "alpint",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Al$\"pi:nt",
+              "ipa": "ɑlˈpɪːnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f1026a6fc6f1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f1026a6fc6f1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f1026a6fc6f1.mp3",
+            "text": "alpin",
+            "source": "generated",
+            "content_sha256": "868593b3c23459a85747277e4dca79e0462762d9f3c4a9909e76cda8139ed803",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder, kommer fra Alpene eller andre fjellstrøk",
+      "translation": "relating to, coming from the Alps or other mountain regions",
+      "examples": [
+        "den alpine sone",
+        "alpin vegetasjon"
+      ]
+    },
+    {
+      "text": "som gjelder slalåm, utfor og lignende",
+      "translation": "relating to slalom, downhill",
+      "examples": [
+        "alpin skisport"
+      ]
+    }
+  ]
+}

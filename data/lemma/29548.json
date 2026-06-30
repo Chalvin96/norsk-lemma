@@ -1,0 +1,85 @@
+{
+  "source_article_id": 29548,
+  "lemmas": [
+    {
+      "lemma": "kjent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 34907,
+      "is_sub_article": false,
+      "primary_translation": "known",
+      "word_forms": [
+        {
+          "word_form": "kjent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"CEnt",
+              "ipa": "ˈçɛnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kjente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"CEn$t@",
+              "ipa": "ˈçɛntə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d9064cab485e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d9064cab485e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d9064cab485e.mp3",
+            "text": "kjent",
+            "source": "generated",
+            "content_sha256": "f06f31117414a9bc418ce3306a869e49db5b31deee6ad2805d48cd600b11bd48",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som mange kjenner til",
+      "translation": "that many people know about",
+      "examples": [
+        "de gamle, kjente sangene",
+        "en kjent idrettsmann",
+        "hun er et kjent navn i norsk kulturliv",
+        "være kjent over hele landet",
+        "det er en kjent sak",
+        "vi er gamle kjente"
+      ]
+    }
+  ]
+}

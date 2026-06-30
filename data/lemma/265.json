@@ -1,0 +1,85 @@
+{
+  "source_article_id": 265,
+  "lemmas": [
+    {
+      "lemma": "advokatorisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1053,
+      "is_sub_article": false,
+      "primary_translation": "lawyerly / sophistical",
+      "word_forms": [
+        {
+          "word_form": "advokatorisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dvU$kA$\"tu:$rI$sk",
+              "ipa": "ɑdvʊkɑˈtuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "advokatoriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dvU$kA$\"tu:$rI$sk@",
+              "ipa": "ɑdvʊkɑˈtuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "01e60804afd7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/01e60804afd7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/01e60804afd7.mp3",
+            "text": "advokatorisk",
+            "source": "generated",
+            "content_sha256": "0b18b3827e64d0ac9cc7f28284421277b80bee27aff48efd50714111155fe309",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kjennetegner en advokat",
+      "translation": "characteristic of a lawyer",
+      "examples": []
+    },
+    {
+      "text": "ensidig, spissfindig",
+      "translation": "one-sided, sophistical",
+      "examples": [
+        "en advokatorisk framstilling av saken"
+      ]
+    }
+  ]
+}

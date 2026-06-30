@@ -1,0 +1,126 @@
+{
+  "source_article_id": 10958,
+  "lemmas": [
+    {
+      "lemma": "drone",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12789,
+      "is_sub_article": false,
+      "primary_translation": "drone",
+      "word_forms": [
+        {
+          "word_form": "drone",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dru:$n@",
+              "ipa": "ˈdruːnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dronen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dru:$nn=",
+              "ipa": "ˈdruːnn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "droner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dru:$n@r",
+              "ipa": "ˈdruːnər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dronene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dru:$nn=$@",
+              "ipa": "ˈdruːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fe4171ce6ef7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe4171ce6ef7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe4171ce6ef7.mp3",
+            "text": "drone",
+            "source": "generated",
+            "content_sha256": "b63e80bf9f3d135286968a8b44876116c1f57f72c1502f015140efda62d53cf6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bie av hankjønn",
+      "translation": "male bee",
+      "examples": [
+        "om høsten blir dronene kastet ut av kuben",
+        "dronenes oppgave er å befrukte dronningen"
+      ]
+    },
+    {
+      "text": "fjernstyrt, flygende apparat brukt til fotografering, rekognosering, som våpen eller lignende",
+      "translation": "remotely controlled flying apparatus used for photography, reconnaissance, as a weapon, or similar",
+      "examples": []
+    },
+    {
+      "text": "luftfartøy uten fører",
+      "translation": "unmanned aircraft",
+      "examples": [
+        "filme med drone",
+        "de sendte opp en drone for å kartlegge området",
+        "militæret skjøt ned en fiendtlig drone"
+      ]
+    }
+  ]
+}

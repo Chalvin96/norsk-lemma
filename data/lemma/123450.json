@@ -1,0 +1,102 @@
+{
+  "source_article_id": 123450,
+  "lemmas": [
+    {
+      "lemma": "nedbeiting",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 125662,
+      "is_sub_article": false,
+      "primary_translation": "overgrazing",
+      "word_forms": [
+        {
+          "word_form": "nedbeiting",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nedbeitingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:d$%b{*I$tIN$@n",
+              "ipa": "ˈneːdˌbæ͡ɪtɪŋən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nedbeitinger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nedbeitingene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nedbeitinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d67b93fe63c8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d67b93fe63c8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d67b93fe63c8.mp3",
+            "text": "nedbeiting",
+            "source": "generated",
+            "content_sha256": "5039417c7ad5dea6f522dc6629d709bef7a3992084c4687b84c111e1af968faa"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det at beiteområde blir nedbeitet",
+      "translation": "the fact that a grazing area is overgrazed",
+      "examples": [
+        "kråkebollenes nedbeiting av tareskogen"
+      ]
+    }
+  ]
+}

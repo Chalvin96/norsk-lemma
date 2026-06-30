@@ -1,0 +1,94 @@
+{
+  "source_article_id": 120126,
+  "lemmas": [
+    {
+      "lemma": "konsumpris",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 115789,
+      "is_sub_article": false,
+      "primary_translation": "consumer price",
+      "word_forms": [
+        {
+          "word_form": "konsumpris",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "konsumprisen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "konsumpriser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"s}:m$%pri:$s@r",
+              "ipa": "kɔnˈsʉːmˌprɪːsər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "konsumprisene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"s}:m$%pri:$sn=$@",
+              "ipa": "kɔnˈsʉːmˌprɪːsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7e62dfb1983c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e62dfb1983c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e62dfb1983c.mp3",
+            "text": "konsumpris",
+            "source": "generated",
+            "content_sha256": "26463f2e96ff57226d6afcf0b558c884a1d1a53d01d040d17656a6fac6a439f5"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pris på forbruksvare",
+      "translation": "price of a consumer good",
+      "examples": []
+    }
+  ]
+}

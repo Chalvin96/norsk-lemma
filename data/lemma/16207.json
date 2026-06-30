@@ -1,0 +1,101 @@
+{
+  "source_article_id": 16207,
+  "lemmas": [
+    {
+      "lemma": "forfallen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 18788,
+      "is_sub_article": false,
+      "primary_translation": "dilapidated / ruined / overdue",
+      "word_forms": [
+        {
+          "word_form": "forfallen",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"fA$ln=",
+              "ipa": "fɔrˈfɑln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forfalne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"fAl$n@",
+              "ipa": "fɔrˈfɑlnə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forfallent",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"fA$ln=t",
+              "ipa": "fɔrˈfɑln̩t",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bb669739b2d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bb669739b2d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bb669739b2d0.mp3",
+            "text": "forfallen",
+            "source": "generated",
+            "content_sha256": "2b6b16acf7fdd5ecdc103d3541f8eaa06bb7345a5bb15ec46be15cd9f511a048",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ødelagt av rusmidler eller lignende",
+      "translation": "ruined by substance abuse",
+      "examples": [
+        "et forfallent menneske"
+      ]
+    },
+    {
+      "text": "med utgått betalingsfrist",
+      "translation": "with an expired payment deadline",
+      "examples": [
+        "forfalne renter"
+      ]
+    }
+  ]
+}

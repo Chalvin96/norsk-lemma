@@ -1,0 +1,87 @@
+{
+  "source_article_id": 99361,
+  "lemmas": [
+    {
+      "lemma": "trafikksikker",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 147762,
+      "is_sub_article": false,
+      "primary_translation": "traffic-safe",
+      "word_forms": [
+        {
+          "word_form": "trafikksikker",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$\"fIk$%sI$k@r",
+              "ipa": "trɑˈfɪkˌsɪkər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trafikksikre",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$\"fIk$%sI$kr@",
+              "ipa": "trɑˈfɪkˌsɪkrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trafikksikkert",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b09511f98e0b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b09511f98e0b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b09511f98e0b.mp3",
+            "text": "trafikksikker",
+            "source": "generated",
+            "content_sha256": "5a405daf8a15ca61555531fd6f7d194bb3c32c792b325b321b1f0c70de8d640a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gir trygghet i trafikk",
+      "translation": "providing safety in traffic",
+      "examples": [
+        "veiene må gjøres mer trafikksikre"
+      ]
+    }
+  ]
+}

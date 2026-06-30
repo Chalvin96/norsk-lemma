@@ -1,0 +1,102 @@
+{
+  "source_article_id": 21652,
+  "lemmas": [
+    {
+      "lemma": "guttural",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 25295,
+      "is_sub_article": false,
+      "primary_translation": "guttural / velar",
+      "word_forms": [
+        {
+          "word_form": "guttural",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gu0$tu0$\"rA:l",
+              "ipa": "gʉtʉˈrɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gutturale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gu0$tu0$\"rA:$l@",
+              "ipa": "gʉtʉˈrɑːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gutturalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gu0$tu0$\"rA:lt",
+              "ipa": "gʉtʉˈrɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a8d1e7cf094b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a8d1e7cf094b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a8d1e7cf094b.mp3",
+            "text": "guttural",
+            "source": "generated",
+            "content_sha256": "7672e0f3733c7c78cc183a6b8b1d90162f5b772023c4c39b7cf4e6b7ac42925e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder strupen",
+      "translation": "relating to the throat",
+      "examples": [
+        "stemmen hadde en guttural klang"
+      ]
+    },
+    {
+      "text": "om språklyd: som dannes med tungeryggen mot den bløte ganen",
+      "translation": "for a speech sound: formed with the back of the tongue against the soft palate",
+      "examples": []
+    }
+  ]
+}

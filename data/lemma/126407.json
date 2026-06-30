@@ -1,0 +1,85 @@
+{
+  "source_article_id": 126407,
+  "lemmas": [
+    {
+      "lemma": "cache",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2134414,
+      "is_sub_article": false,
+      "primary_translation": "computer cache",
+      "word_forms": [
+        {
+          "word_form": "cache",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "cachen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "cacher",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "cachene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "103d919f68fa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/103d919f68fa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/103d919f68fa.mp3",
+            "text": "cache",
+            "source": "generated",
+            "content_sha256": "dd3a8e949aaee2bb94a65ff2b4c113b9fce646f879f645c2359f1d7bc34d4fb8"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i datamaskin: lagringsenhet eller minne som gir rask tilgang til data som skal brukes snart, eller som er ofte i bruk",
+      "translation": "in a computer: storage device or memory that provides fast access to data that will be used soon or is frequently used",
+      "examples": []
+    },
+    {
+      "text": "hurtigminne, mellomlager",
+      "translation": "cache, buffer",
+      "examples": []
+    }
+  ]
+}

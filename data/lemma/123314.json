@@ -1,0 +1,66 @@
+{
+  "source_article_id": 123314,
+  "lemmas": [
+    {
+      "lemma": "lyslett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2007219,
+      "is_sub_article": false,
+      "primary_translation": "light-colored",
+      "word_forms": [
+        {
+          "word_form": "lyslett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lyslette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "febc6a9be33f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/febc6a9be33f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/febc6a9be33f.mp3",
+            "text": "lyslett",
+            "source": "generated",
+            "content_sha256": "aff1ef28bda7ce2780ce9190f01d1ec4af4285c4268c1989f9fc24777e03aa69"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er lys",
+      "translation": "that is light",
+      "examples": [
+        "en lyslett jente",
+        "veien gjennom den lyslette løvskogen"
+      ]
+    }
+  ]
+}

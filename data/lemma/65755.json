@@ -1,0 +1,80 @@
+{
+  "source_article_id": 65755,
+  "lemmas": [
+    {
+      "lemma": "utskrådd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75448,
+      "is_sub_article": false,
+      "primary_translation": "cut diagonally",
+      "word_forms": [
+        {
+          "word_form": "utskrådd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%skrOd",
+              "ipa": "ˈʉːtˌskrɔd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "utskrådde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%skrO$d@",
+              "ipa": "ˈʉːtˌskrɔdə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d7bffb07697a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d7bffb07697a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d7bffb07697a.mp3",
+            "text": "utskrådd",
+            "source": "generated",
+            "content_sha256": "d820447b1a789546cfb2c86ebbe8097191a66aec408bd87c940b35e1d17942a8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er klippet skrått",
+      "translation": "that which is cut diagonally",
+      "examples": [
+        "et utskrådd skjørt"
+      ]
+    }
+  ]
+}

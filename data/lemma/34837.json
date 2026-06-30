@@ -1,0 +1,79 @@
+{
+  "source_article_id": 34837,
+  "lemmas": [
+    {
+      "lemma": "lenges",
+      "hgno": 1,
+      "pos": "VERB",
+      "source_lemma_id": 40546,
+      "is_sub_article": false,
+      "primary_translation": "to long for",
+      "word_forms": [
+        {
+          "word_form": "lenges",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lEN$@s",
+              "ipa": "ˈlɛŋəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lengtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lEN$t@s",
+              "ipa": "ˈlɛŋtəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b115b9201f5f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b115b9201f5f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b115b9201f5f.mp3",
+            "text": "lenges",
+            "source": "generated",
+            "content_sha256": "1c785ef3a10d9a28c40d42ff2363a48f4810d757ab14b371bd12de96bb976e3b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lengte etter, savne",
+      "translation": "to long for, miss",
+      "examples": [
+        "han lenges hjem",
+        "de lenges etter hverandre"
+      ]
+    }
+  ]
+}

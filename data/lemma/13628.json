@@ -1,0 +1,102 @@
+{
+  "source_article_id": 13628,
+  "lemmas": [
+    {
+      "lemma": "faktisitet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 15822,
+      "is_sub_article": false,
+      "primary_translation": "factuality",
+      "word_forms": [
+        {
+          "word_form": "faktisitet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tI$sI$\"te:t",
+              "ipa": "fɑktɪsɪˈteːt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "faktisiteten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tI$sI$\"te:$tn=",
+              "ipa": "fɑktɪsɪˈteːtn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "faktisiteter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "faktisitetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "59f23953f306.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59f23953f306.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59f23953f306.mp3",
+            "text": "faktisitet",
+            "source": "generated",
+            "content_sha256": "6e1c3f28f0432a0d3015795e4b527bf25f142cdd7457e22a26f7374faea03ff0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det at noe er et faktum",
+      "translation": "the fact that something is a fact",
+      "examples": []
+    },
+    {
+      "text": "det at noe har grunnlag i virkeligheten",
+      "translation": "the fact that something is based in reality",
+      "examples": [
+        "ryktets faktisitet"
+      ]
+    }
+  ]
+}

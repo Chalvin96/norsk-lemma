@@ -1,0 +1,136 @@
+{
+  "source_article_id": 30948,
+  "lemmas": [
+    {
+      "lemma": "kommando",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36452,
+      "is_sub_article": false,
+      "primary_translation": "command / authority / military unit / computer instruction",
+      "word_forms": [
+        {
+          "word_form": "kommando",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"mAn$dU",
+              "ipa": "kʊˈmɑndʊ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kommandoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"mAn$dU$@n",
+              "ipa": "kʊˈmɑndʊən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kommandoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"mAn$dU$@r",
+              "ipa": "kʊˈmɑndʊər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kommandoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"mAn$dU$@$n@",
+              "ipa": "kʊˈmɑndʊənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "23ac4b552814.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/23ac4b552814.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/23ac4b552814.mp3",
+            "text": "kommando",
+            "source": "generated",
+            "content_sha256": "261c37199fdfa1311a9c0887fc1c006fe3aff6e9317ff7ba2d6df8d062f6911e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "befaling, påbud, ordre",
+      "translation": "order, decree, command",
+      "examples": [
+        "gjøre noe på kommando",
+        "lese opp en kommando fra sjefen",
+        "hunden må lære å lystre kommando"
+      ]
+    },
+    {
+      "text": "myndighet til å gi ordre",
+      "translation": "authority to give orders",
+      "examples": [
+        "nestkommanderende overtok kommandoen",
+        "hun hadde kommandoen over letemannskapene"
+      ]
+    },
+    {
+      "text": "høyere militærmyndighet",
+      "translation": "higher military authority",
+      "examples": []
+    },
+    {
+      "text": "lett bevæpnet militær avdeling som er spesialtrent for sabotasjeoppdrag, overfall og lignende",
+      "translation": "lightly armed military unit specially trained for sabotage missions, raids",
+      "examples": []
+    },
+    {
+      "text": "ordre en gir til en datamaskin for å få den til å utføre en bestemt operasjon",
+      "translation": "instruction given to a computer to perform a specific operation",
+      "examples": []
+    }
+  ]
+}

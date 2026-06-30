@@ -1,0 +1,116 @@
+{
+  "source_article_id": 36004,
+  "lemmas": [
+    {
+      "lemma": "lukkelyd",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 41809,
+      "is_sub_article": false,
+      "primary_translation": "stop consonant",
+      "word_forms": [
+        {
+          "word_form": "lukkelyd",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lU$k@$%ly:d",
+              "ipa": "ˈlʊkəˌlyːd",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lukkelyden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lU$k@$%ly:$dn=",
+              "ipa": "ˈlʊkəˌlyːdn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lukkelyder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lU$k@$%ly:$d@r",
+              "ipa": "ˈlʊkəˌlyːdər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lukkelydene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lU$k@$%ly:$dn=$@",
+              "ipa": "ˈlʊkəˌlyːdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "84b334d3adbd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/84b334d3adbd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/84b334d3adbd.mp3",
+            "text": "lukkelyd",
+            "source": "generated",
+            "content_sha256": "fa8bb3fadaa3b351285313b7beeda277bd806140292eaf4bf7bc01bcc0766a38",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språklyd som dannes ved stenging og plutselig åpning av luftstrømmen",
+      "translation": "speech sound formed by closing and suddenly opening the airflow",
+      "examples": []
+    },
+    {
+      "text": "klusil, plosiv",
+      "translation": "stop consonant, plosive",
+      "examples": [
+        "‘p’, ‘t’, ‘k’ er lukkelyder"
+      ]
+    }
+  ]
+}

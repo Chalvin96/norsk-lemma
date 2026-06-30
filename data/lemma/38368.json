@@ -1,0 +1,81 @@
+{
+  "source_article_id": 38368,
+  "lemmas": [
+    {
+      "lemma": "militant",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45018,
+      "is_sub_article": false,
+      "primary_translation": "militant",
+      "word_forms": [
+        {
+          "word_form": "militant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$lI$\"tAnt",
+              "ipa": "mɪlɪˈtɑnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "militante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$lI$\"tAn$t@",
+              "ipa": "mɪlɪˈtɑntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c8348bb08acd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8348bb08acd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8348bb08acd.mp3",
+            "text": "militant",
+            "source": "generated",
+            "content_sha256": "e3f1de181fe095d34a5f2210512a508265ee4a47bb64898927a6eee02d77cb5a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "krigersk, stridslysten, kjempende",
+      "translation": "warlike, belligerent, fighting",
+      "examples": [
+        "militant aksjon",
+        "militante nasjonalister"
+      ]
+    }
+  ]
+}

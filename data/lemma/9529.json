@@ -1,0 +1,97 @@
+{
+  "source_article_id": 9529,
+  "lemmas": [
+    {
+      "lemma": "dekalog",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11237,
+      "is_sub_article": false,
+      "primary_translation": "the Ten Commandments",
+      "word_forms": [
+        {
+          "word_form": "dekalog",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$kA$\"lo:g",
+              "ipa": "dəkɑˈloːg",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dekalogen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$kA$\"lo:$g@n",
+              "ipa": "dəkɑˈloːgən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dekaloger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dekalogene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dd8c98a8e2fa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd8c98a8e2fa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd8c98a8e2fa.mp3",
+            "text": "dekalog",
+            "source": "generated",
+            "content_sha256": "700b4031cec0bc53dce7551326d527ae2212d5d085d036a2ccafe4d94d842d7f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i bestemt form entall: de ti bud",
+      "translation": "the Ten Commandments",
+      "examples": [
+        "dekalogen finner man i Bibelens gamle testamente"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source_article_id": 693,
+  "lemmas": [
+    {
+      "lemma": "alaskisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1485,
+      "is_sub_article": false,
+      "primary_translation": "Alaskan",
+      "word_forms": [
+        {
+          "word_form": "alaskisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"lA$skI$sk",
+              "ipa": "ɑˈlɑskɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "alaskiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"lA$skI$sk@",
+              "ipa": "ɑˈlɑskɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "07625e776378.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07625e776378.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07625e776378.mp3",
+            "text": "alaskisk",
+            "source": "generated",
+            "content_sha256": "3bd139dd6759d187f76b71068589f16261d44da7aac9748eb184750d82f498b0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Alaska og alaskere",
+      "translation": "relating to Alaska and Alaskans",
+      "examples": []
+    }
+  ]
+}

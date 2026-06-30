@@ -1,0 +1,87 @@
+{
+  "source_article_id": 63784,
+  "lemmas": [
+    {
+      "lemma": "uferdig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73028,
+      "is_sub_article": false,
+      "primary_translation": "unfinished / immature",
+      "word_forms": [
+        {
+          "word_form": "uferdig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"f{r$dI",
+              "ipa": "ʉˈfærdɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "uferdige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"f{r$dI$@",
+              "ipa": "ʉˈfærdɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ddf5623daa90.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddf5623daa90.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddf5623daa90.mp3",
+            "text": "uferdig",
+            "source": "generated",
+            "content_sha256": "fb53b8acf6709ceb7e0d202986b7818e2483e121e49a3a447b839b4a5576338e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er ferdig",
+      "translation": "that is not finished",
+      "examples": [
+        "et uferdig hus"
+      ]
+    },
+    {
+      "text": "umoden",
+      "translation": "immature",
+      "examples": [
+        "en uferdig kunstner"
+      ]
+    }
+  ]
+}

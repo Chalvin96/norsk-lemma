@@ -1,0 +1,105 @@
+{
+  "source_article_id": 22508,
+  "lemmas": [
+    {
+      "lemma": "hast",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 26375,
+      "is_sub_article": false,
+      "primary_translation": "hurry / speed",
+      "word_forms": [
+        {
+          "word_form": "hast",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hA$st",
+              "ipa": "ˈhɑst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hasten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hA$stn=",
+              "ipa": "ˈhɑstn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "haster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hA$st@r",
+              "ipa": "ˈhɑstər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hastene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0c5f29f53a8e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c5f29f53a8e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c5f29f53a8e.mp3",
+            "text": "hast",
+            "source": "generated",
+            "content_sha256": "c1a535c757fcf32be54618ce2a6565a0661b481a4d6b96df14869ff8014187ff",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "påskyndet fart eller hastighet",
+      "translation": "accelerated speed, velocity",
+      "examples": [
+        "det har ingen hast",
+        "for en hast du har"
+      ]
+    }
+  ]
+}

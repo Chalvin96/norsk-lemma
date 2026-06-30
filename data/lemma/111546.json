@@ -1,0 +1,87 @@
+{
+  "source_article_id": 111546,
+  "lemmas": [
+    {
+      "lemma": "driftevei",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163394,
+      "is_sub_article": false,
+      "primary_translation": "livestock path",
+      "word_forms": [
+        {
+          "word_form": "driftevei",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "drifteveien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "drifteveier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "drifteveiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "11749c35e9db.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11749c35e9db.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11749c35e9db.mp3",
+            "text": "driftevei",
+            "source": "generated",
+            "content_sha256": "47d34697d86a58ca5ca6865d80fe04ba8448cd5bd3bfc2647330e2e40010b1cc"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sti som er tråkket opp av drift av husdyr",
+      "translation": "path trodden by livestock",
+      "examples": []
+    },
+    {
+      "text": "vei for drift av husdyr",
+      "translation": "path for driving livestock",
+      "examples": [
+        "stien over fjellet er en gammel driftevei"
+      ]
+    }
+  ]
+}

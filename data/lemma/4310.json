@@ -1,0 +1,80 @@
+{
+  "source_article_id": 4310,
+  "lemmas": [
+    {
+      "lemma": "baltisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 5100,
+      "is_sub_article": false,
+      "primary_translation": "Baltic",
+      "word_forms": [
+        {
+          "word_form": "baltisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAl$tI$sk",
+              "ipa": "ˈbɑltɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "baltiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAl$tI$sk@",
+              "ipa": "ˈbɑltɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "703233248b13.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/703233248b13.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/703233248b13.mp3",
+            "text": "baltisk",
+            "source": "generated",
+            "content_sha256": "ec859eae7d472c801d35b83ceb3875a29660f5676853c48111f4fbc769a19831",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Baltikum og balter",
+      "translation": "concerning the Baltic region and its people",
+      "examples": [
+        "de baltiske statene Estland, Litauen og Latvia"
+      ]
+    }
+  ]
+}

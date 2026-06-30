@@ -1,0 +1,81 @@
+{
+  "source_article_id": 34480,
+  "lemmas": [
+    {
+      "lemma": "lønsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42617,
+      "is_sub_article": false,
+      "primary_translation": "sly",
+      "word_forms": [
+        {
+          "word_form": "lønsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"l9nsk",
+              "ipa": "ˈlœnsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lønske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"l9n$sk@",
+              "ipa": "ˈlœnskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "818690c10fce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/818690c10fce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/818690c10fce.mp3",
+            "text": "lønsk",
+            "source": "generated",
+            "content_sha256": "fe57d50d186de54b3920e1d195cbdde75f42ad77ffe79f9e1ade58d3de7e841e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fordekt, underfundig, hemmelighetsfull",
+      "translation": "veiled, subtle, secretive",
+      "examples": [
+        "et lønsk blikk",
+        "smile lønsk"
+      ]
+    }
+  ]
+}

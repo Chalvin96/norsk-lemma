@@ -1,0 +1,77 @@
+{
+  "source_article_id": 109814,
+  "lemmas": [
+    {
+      "lemma": "blokkeringsfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 91006,
+      "is_sub_article": false,
+      "primary_translation": "non-locking brakes",
+      "word_forms": [
+        {
+          "word_form": "blokkeringsfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "blokkeringsfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "blO$\"ke:$rINs$%fri:$@",
+              "ipa": "blɔˈkeːrɪŋsˌfrɪːə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blokkeringsfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ebac6373b552.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ebac6373b552.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ebac6373b552.mp3",
+            "text": "blokkeringsfri",
+            "source": "generated",
+            "content_sha256": "515a9676d210c40778ed46ae9a3b12a5698c80ee778e14d49b256b029b44a075"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om bremser (på bil): som ikke låser hjulene når en bremser hardt",
+      "translation": "referring to brakes (on a car): that do not lock the wheels when braking hard",
+      "examples": []
+    }
+  ]
+}

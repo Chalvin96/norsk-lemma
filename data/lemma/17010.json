@@ -1,0 +1,87 @@
+{
+  "source_article_id": 17010,
+  "lemmas": [
+    {
+      "lemma": "forsvarlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19750,
+      "is_sub_article": false,
+      "primary_translation": "defensible / advisable",
+      "word_forms": [
+        {
+          "word_form": "forsvarlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"s`vA:$l`I",
+              "ipa": "fɔˈʂvɑːɭɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forsvarlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"s`vA:$l`I$@",
+              "ipa": "fɔˈʂvɑːɭɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2901b041f520.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2901b041f520.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2901b041f520.mp3",
+            "text": "forsvarlig",
+            "source": "generated",
+            "content_sha256": "3782dc50b5c8b93da7a021d926850b2dd99ce9829cdaa5804efd5c5883acf83f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan forsvares",
+      "translation": "that can be defended",
+      "examples": []
+    },
+    {
+      "text": "tilrådelig, god nok, trygg",
+      "translation": "advisable, good enough, safe",
+      "examples": [
+        "det er fullt forsvarlig",
+        "bilen er ikke i forsvarlig stand",
+        "legen fant det ikke forsvarlig å flytte pasienten"
+      ]
+    }
+  ]
+}

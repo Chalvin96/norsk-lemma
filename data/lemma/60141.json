@@ -1,0 +1,132 @@
+{
+  "source_article_id": 60141,
+  "lemmas": [
+    {
+      "lemma": "telefon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68800,
+      "is_sub_article": false,
+      "primary_translation": "telephone / phone call",
+      "word_forms": [
+        {
+          "word_form": "telefon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$l@$\"fu:n",
+              "ipa": "tələˈfuːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "telefonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$l@$\"fu:$nn=",
+              "ipa": "tələˈfuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "telefoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$l@$\"fu:$n@r",
+              "ipa": "tələˈfuːnər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "telefonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$l@$\"fu:$nn=$@",
+              "ipa": "tələˈfuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f61e0796b0fa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f61e0796b0fa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f61e0796b0fa.mp3",
+            "text": "telefon",
+            "source": "generated",
+            "content_sha256": "7c981932ec02364ac5c9fb782fc35da36e95ce0bae0c9e1631c4a49921545a34",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "apparat til å overføre lyd eller tale over lengre avstander",
+      "translation": "apparatus for transmitting sound or speech over long distances",
+      "examples": [
+        "telefonen ringer",
+        "trådløs telefon"
+      ]
+    },
+    {
+      "text": "anlegg med ledningsnett og stasjoner for overføring av lyd eller tale over lengre avstander",
+      "translation": "system with wiring and stations for transmitting sound or speech over long distances",
+      "examples": [
+        "bygda fikk strøm og telefon samtidig"
+      ]
+    },
+    {
+      "text": "samtale i telefon",
+      "translation": "conversation by telephone",
+      "examples": [
+        "hun er i telefonen",
+        "de snakket i telefonen hele kvelden",
+        "ta en telefon med læreren",
+        "vente på en telefon",
+        "ta telefonen",
+        "jeg fikk en telefon",
+        "det var en telefon til deg mens du var ute"
+      ]
+    }
+  ]
+}

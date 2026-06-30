@@ -1,0 +1,85 @@
+{
+  "source_article_id": 45360,
+  "lemmas": [
+    {
+      "lemma": "pneumatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 52343,
+      "is_sub_article": false,
+      "primary_translation": "pneumatic / air-powered",
+      "word_forms": [
+        {
+          "word_form": "pneumatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nE*u0$\"mA:$tI$sk",
+              "ipa": "næ͡ʉˈmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pneumatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nE*u0$\"mA:$tI$sk@",
+              "ipa": "næ͡ʉˈmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6ab2e95aa36f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ab2e95aa36f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ab2e95aa36f.mp3",
+            "text": "pneumatisk",
+            "source": "generated",
+            "content_sha256": "e55fa463a91b6932b73a782931e0795f6d784a61cd1d01b61f4a4f3bb7e31f0b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller inneholder luft",
+      "translation": "relating to or containing air",
+      "examples": []
+    },
+    {
+      "text": "som drives med trykkluft",
+      "translation": "operated by compressed air",
+      "examples": [
+        "pneumatisk bor"
+      ]
+    }
+  ]
+}

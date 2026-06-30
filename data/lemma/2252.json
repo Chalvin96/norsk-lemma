@@ -1,0 +1,102 @@
+{
+  "source_article_id": 2252,
+  "lemmas": [
+    {
+      "lemma": "antiseptikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2779,
+      "is_sub_article": false,
+      "primary_translation": "antiseptic / contrast to asepsis",
+      "word_forms": [
+        {
+          "word_form": "antiseptikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$tI$s@p$\"tIk",
+              "ipa": "ɑntɪsəpˈtɪk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "antiseptikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$tI$s@p$\"tI$k@n",
+              "ipa": "ɑntɪsəpˈtɪkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "antiseptikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "antiseptikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "611d2eeb373e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/611d2eeb373e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/611d2eeb373e.mp3",
+            "text": "antiseptikk",
+            "source": "generated",
+            "content_sha256": "58ab4a3b378c79d93067050e86df321d5b09a5618869d057467a2a414cb0ca14",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å hindre, stanse infeksjon med bakteriedrepende middel",
+      "translation": "the prevention or halting of infection with a bactericidal agent",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra aseptikk",
+      "translation": "in contrast to asepsis",
+      "examples": [
+        "antiseptikk er grunnleggende i medisinsk hygiene"
+      ]
+    }
+  ]
+}

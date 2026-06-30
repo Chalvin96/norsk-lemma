@@ -1,0 +1,78 @@
+{
+  "source_article_id": 64001,
+  "lemmas": [
+    {
+      "lemma": "uinnbundet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73290,
+      "is_sub_article": false,
+      "primary_translation": "unbound",
+      "word_forms": [
+        {
+          "word_form": "uinnbundet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$In$%bu0$n@t",
+              "ipa": "ˈʉːɪnˌbʉnət",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "uinnbundne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$In$%bu0$n@",
+              "ipa": "ˈʉːɪnˌbʉnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "37ab34ec86a6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/37ab34ec86a6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/37ab34ec86a6.mp3",
+            "text": "uinnbundet",
+            "source": "generated",
+            "content_sha256": "85607aa51dbc75c4aa54c353f31a73e62d7fb20cffe7260ef743997f090cbd7a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er innbundet",
+      "translation": "not bound (in a book)",
+      "examples": [
+        "uinnbundne bøker"
+      ]
+    }
+  ]
+}

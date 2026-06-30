@@ -1,0 +1,81 @@
+{
+  "source_article_id": 44536,
+  "lemmas": [
+    {
+      "lemma": "pelagisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51499,
+      "is_sub_article": false,
+      "primary_translation": "pelagic",
+      "word_forms": [
+        {
+          "word_form": "pelagisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$\"lA:$gI$sk",
+              "ipa": "pəˈlɑːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pelagiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$\"lA:$gI$sk@",
+              "ipa": "pəˈlɑːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "80b75b653cf0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/80b75b653cf0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/80b75b653cf0.mp3",
+            "text": "pelagisk",
+            "source": "generated",
+            "content_sha256": "ac79f826e48655ec5194b97eb92f123b54d16638923061936fefdfb60e9de6b2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fins i eller går for seg på åpent hav",
+      "translation": "found in or taking place on the open sea",
+      "examples": [
+        "pelagisk fisk som sild og lodde",
+        "drive pelagisk fiske"
+      ]
+    }
+  ]
+}

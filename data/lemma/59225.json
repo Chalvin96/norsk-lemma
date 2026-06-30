@@ -1,0 +1,81 @@
+{
+  "source_article_id": 59225,
+  "lemmas": [
+    {
+      "lemma": "særnorsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67859,
+      "is_sub_article": false,
+      "primary_translation": "typically Norwegian",
+      "word_forms": [
+        {
+          "word_form": "særnorsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s{:r$%nO$s`k",
+              "ipa": "ˈsæːrˌnɔʂk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "særnorske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s{:r$%nO$s`k@",
+              "ipa": "ˈsæːrˌnɔʂkə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3e387d77423d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3e387d77423d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3e387d77423d.mp3",
+            "text": "særnorsk",
+            "source": "generated",
+            "content_sha256": "d882eb29effa73c5fbe25c6d14b8eb14fb90ff1aad74af0d067d7105f868273d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "typisk norsk",
+      "translation": "typically Norwegian",
+      "examples": [
+        "et særnorsk fenomen",
+        "særnorske regler"
+      ]
+    }
+  ]
+}

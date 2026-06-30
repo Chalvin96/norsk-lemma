@@ -1,0 +1,97 @@
+{
+  "source_article_id": 2196,
+  "lemmas": [
+    {
+      "lemma": "antigen",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 2723,
+      "is_sub_article": false,
+      "primary_translation": "antigenic",
+      "word_forms": [
+        {
+          "word_form": "antigen",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$tI$\"ge:n",
+              "ipa": "ɑntɪˈgeːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "antigene",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$tI$\"ge:$n@",
+              "ipa": "ɑntɪˈgeːnə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "antigent",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$tI$\"ge:nt",
+              "ipa": "ɑntɪˈgeːnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4befc6a44a25.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4befc6a44a25.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4befc6a44a25.mp3",
+            "text": "antigen",
+            "source": "generated",
+            "content_sha256": "ae6a8d52d1fd0236f64264f4119c3698b1742a6852328c537df990c39aa13a03",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som får en organisme til å lage antistoff, for eksempel under en infeksjonssykdom infeksjonssjukdom",
+      "translation": "causing an organism to produce an antibody during an infectious disease",
+      "examples": [
+        "stoffet har en god antigen virkning"
+      ]
+    }
+  ]
+}

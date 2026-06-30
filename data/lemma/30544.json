@@ -1,0 +1,119 @@
+{
+  "source_article_id": 30544,
+  "lemmas": [
+    {
+      "lemma": "kniv",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35982,
+      "is_sub_article": false,
+      "primary_translation": "knife / cutting part",
+      "word_forms": [
+        {
+          "word_form": "kniv",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kni:v",
+              "ipa": "ˈknɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kniven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kni:$v@n",
+              "ipa": "ˈknɪːvən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kniver",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kni:$v@r",
+              "ipa": "ˈknɪːvər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "knivene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kni:$v@$n@",
+              "ipa": "ˈknɪːvənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "15a2d87624f6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15a2d87624f6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15a2d87624f6.mp3",
+            "text": "kniv",
+            "source": "generated",
+            "content_sha256": "12ff726d6190e3df811b68a0abe0ac415f4bbf3b110621ea7fd6bd61b04cb0de",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "redskap med skaft og blad til å skjære med",
+      "translation": "tool with a handle and blade for cutting",
+      "examples": [
+        "spise med kniv og gaffel",
+        "stikke noen med kniv"
+      ]
+    },
+    {
+      "text": "skjærende del i maskin",
+      "translation": "cutting part in a machine",
+      "examples": [
+        "kniven i en slåmaskin"
+      ]
+    }
+  ]
+}

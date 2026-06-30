@@ -616,6 +616,173 @@ def test_build_lemma_given_hgno_zero_preserves_zero() -> None:
     assert lemma["lemmas"][0]["hgno"] == 0
 
 
+def test_pronunciation_tone_metadata_is_learner_facing() -> None:
+    from enrich_pronunciation import PronEntry
+
+    tone_1 = PronEntry(sampa=None, ipa="ˈɑ", tone=1, source="nb_g2p").to_dict()
+    tone_2 = PronEntry(sampa=None, ipa="ˈɑ", tone=2, source="nb_g2p").to_dict()
+    no_tone = PronEntry(sampa=None, ipa="ɑ", tone=None, source="nb_g2p").to_dict()
+    trusted_no_tone = PronEntry(sampa=None, ipa="ɑ", tone=None, source="nb_uttale").to_dict()
+
+    assert tone_1["tone_label"] == "Accent 1"
+    assert tone_1["tone_status"] == "known"
+    assert tone_2["tone_label"] == "Accent 2"
+    assert tone_2["tone_status"] == "known"
+    assert "tone_label" not in no_tone
+    assert no_tone["tone_status"] == "unknown"
+    assert trusted_no_tone["tone_status"] == "none"
+
+
+def test_pronunciation_skip_check_backfills_tone_metadata() -> None:
+    from enrich_pronunciation import add_missing_tone_metadata, all_non_null_enriched
+
+    article = {
+        "lemmas": [
+            {
+                "pronunciation": [{"ipa": "ˈɑ", "tone": 1, "source": "nb_uttale"}],
+                "paradigm_info": [
+                    {
+                        "inflection": [
+                            {
+                                "word_form": "test",
+                                "pronunciation": [{"ipa": "ɑ", "tone": None, "source": "nb_g2p"}],
+                            }
+                        ]
+                    }
+                ],
+            }
+        ]
+    }
+
+    assert all_non_null_enriched(article) is True
+    assert add_missing_tone_metadata(article) is True
+    assert article["lemmas"][0]["pronunciation"][0]["tone_label"] == "Accent 1"
+    assert article["lemmas"][0]["pronunciation"][0]["tone_status"] == "known"
+    inf_pron = article["lemmas"][0]["paradigm_info"][0]["inflection"][0]["pronunciation"][0]
+    assert "tone_label" not in inf_pron
+    assert inf_pron["tone_status"] == "unknown"
+    assert add_missing_tone_metadata(article) is False
+
+
+def test_enrich_article_backfills_tone_label_without_reresolving(tmp_path, monkeypatch) -> None:
+    import enrich_pronunciation
+
+    article_path = tmp_path / "article.json"
+    article_path.write_text(
+        json.dumps(
+            {
+                "lemmas": [
+                    {
+                        "lemma": "test",
+                        "pronunciation": [{"ipa": "ˈɑ", "tone": 1, "source": "nb_uttale"}],
+                        "paradigm_info": [
+                            {
+                                "inflection": [
+                                    {
+                                        "word_form": "test",
+                                        "pronunciation": [
+                                            {"ipa": "ˈɑ", "tone": 2, "source": "nb_uttale"}
+                                        ],
+                                    }
+                                ]
+                            }
+                        ],
+                    }
+                ]
+            }
+        ),
+        encoding="utf-8",
+    )
+
+    def fail_resolve(*_args):
+        raise AssertionError("resolve should not run for schema-only backfill")
+
+    monkeypatch.setattr(enrich_pronunciation, "resolve", fail_resolve)
+
+    counts = enrich_pronunciation.enrich_article(article_path, force=False)
+    data = json.loads(article_path.read_text(encoding="utf-8"))
+
+    assert counts == {}
+    assert data["lemmas"][0]["pronunciation"][0]["tone_label"] == "Accent 1"
+    assert data["lemmas"][0]["pronunciation"][0]["tone_status"] == "known"
+    inf_pron = data["lemmas"][0]["paradigm_info"][0]["inflection"][0]["pronunciation"][0]
+    assert inf_pron["tone_label"] == "Accent 2"
+    assert inf_pron["tone_status"] == "known"
+
+
+def test_enrich_article_only_resolves_missing_pronunciations(tmp_path, monkeypatch) -> None:
+    import enrich_pronunciation
+
+    article_path = tmp_path / "article.json"
+    existing = {"ipa": "ˈɑ", "tone": 1, "source": "nb_uttale"}
+    article_path.write_text(
+        json.dumps(
+            {
+                "lemmas": [
+                    {
+                        "lemma": "test",
+                        "paradigm_info": [
+                            {
+                                "tags": ["NOUN"],
+                                "inflection": [
+                                    {"word_form": "known", "pronunciation": [existing]},
+                                    {"word_form": "missing", "pronunciation": []},
+                                ],
+                            }
+                        ],
+                    }
+                ]
+            }
+        ),
+        encoding="utf-8",
+    )
+
+    g2p_calls = []
+
+    def fake_g2p_entries(wordforms):
+        g2p_calls.append(wordforms)
+        return {
+            "missing": enrich_pronunciation.PronEntry(
+                sampa=None,
+                ipa="ˈmɪsɪŋ",
+                tone=2,
+                source="nb_g2p",
+                prosody_trusted=False,
+                needs_review=True,
+            )
+        }
+
+    monkeypatch.setattr(enrich_pronunciation, "g2p_entries", fake_g2p_entries)
+
+    counts = enrich_pronunciation.enrich_article(article_path, force=False)
+    data = json.loads(article_path.read_text(encoding="utf-8"))
+    forms = {
+        inf["word_form"]: inf["pronunciation"][0]
+        for inf in data["lemmas"][0]["paradigm_info"][0]["inflection"]
+    }
+
+    assert g2p_calls == [["missing"]]
+    assert counts["nb_g2p"] == 1
+    assert forms["known"]["source"] == "nb_uttale"
+    assert forms["known"]["tone_label"] == "Accent 1"
+    assert forms["known"]["tone_status"] == "known"
+    assert forms["missing"]["source"] == "nb_g2p"
+    assert forms["missing"]["tone_label"] == "Accent 2"
+    assert forms["missing"]["tone_status"] == "known"
+
+
+def test_resolve_skips_nb_g2p_for_multiword_or_bracket_forms(monkeypatch) -> None:
+    import enrich_pronunciation
+
+    def fail_transcribe(_words):
+        raise AssertionError("nb-g2p should not run for expression wordforms")
+
+    monkeypatch.setattr(enrich_pronunciation.nb_g2p, "transcribe_words", fail_transcribe)
+
+    assert enrich_pronunciation.resolve("ta høyde for", None) is None
+    assert enrich_pronunciation.resolve("[fikse|ordne] biffen", None) is None
+
+
 def test_wrap_sub_as_article_given_null_properties_does_not_crash() -> None:
     sub = {
         "article_id": 133359,
@@ -729,3 +896,250 @@ def test_extract_senses_skips_colon_ending_structural_label() -> None:
     assert translate.extract_senses(raw_dict) == [
         {"source_id": 5, "text": "actual sense", "examples": []},
     ]
+
+
+def test_audio_jobs_dedupe_by_text_and_tone_and_skip_expressions(tmp_path: Path) -> None:
+    from ordbokene.audio import collect_audio_jobs
+
+    lemma_dir = tmp_path / "lemma"
+    lemma_dir.mkdir()
+    (lemma_dir / "1.json").write_text(
+        json.dumps(
+            {
+                "source_article_id": 1,
+                "lemmas": [
+                    {
+                        "lemma": "bønner",
+                        "source_lemma_id": 10,
+                        "is_sub_article": False,
+                        "word_forms": [
+                            {
+                                "word_form": "bønner",
+                                "pronunciation": [{"source": "nb_uttale", "tone": 2, "tone_status": "known"}],
+                            }
+                        ],
+                    },
+                    {"lemma": "ta høyde for", "source_lemma_id": 11, "is_sub_article": True, "word_forms": []},
+                ],
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+    (lemma_dir / "2.json").write_text(
+        json.dumps(
+            {
+                "source_article_id": 2,
+                "lemmas": [
+                    {
+                        "lemma": "bønner",
+                        "source_lemma_id": 12,
+                        "is_sub_article": False,
+                        "word_forms": [
+                            {
+                                "word_form": "bønner",
+                                "pronunciation": [{"source": "nb_uttale", "tone": 2, "tone_status": "known"}],
+                            }
+                        ],
+                    }
+                ],
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+
+    jobs = collect_audio_jobs(lemma_dir, provider="google", voice="nb-NO-Chirp3-HD-Aoede", language_code="nb-NO")
+
+    assert [job.text for job in jobs] == ["bønner"]
+    assert jobs[0].key == ("bønner", "known", 2)
+    assert jobs[0].article_ids == [1, 2]
+    assert jobs[0].source_lemma_ids == [10, 12]
+    assert jobs[0].filename.endswith(".mp3")
+    assert "/" not in jobs[0].filename
+
+
+def test_audio_jobs_keep_tonal_homographs_separate(tmp_path: Path) -> None:
+    from ordbokene.audio import collect_audio_jobs
+
+    lemma_dir = tmp_path / "lemma"
+    lemma_dir.mkdir()
+    (lemma_dir / "1.json").write_text(
+        json.dumps(
+            {
+                "source_article_id": 1,
+                "lemmas": [
+                    {
+                        "lemma": "tanken",
+                        "source_lemma_id": 1,
+                        "is_sub_article": False,
+                        "word_forms": [
+                            {"word_form": "tanken", "pronunciation": [{"tone": 1, "tone_status": "known"}]}
+                        ],
+                    },
+                    {
+                        "lemma": "tanken",
+                        "source_lemma_id": 2,
+                        "is_sub_article": False,
+                        "word_forms": [
+                            {"word_form": "tanken", "pronunciation": [{"tone": 2, "tone_status": "known"}]}
+                        ],
+                    },
+                ],
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+
+    jobs = collect_audio_jobs(lemma_dir, provider="google", voice="nb-NO-Chirp3-HD-Aoede", language_code="nb-NO")
+
+    assert [(job.text, job.tone) for job in jobs] == [("tanken", 1), ("tanken", 2)]
+    assert jobs[0].filename != jobs[1].filename
+
+
+def test_write_audio_enriched_lemmas_does_not_mutate_source_lemma_dir(tmp_path: Path) -> None:
+    from ordbokene.audio import collect_audio_jobs, write_audio_enriched_lemmas
+
+    lemma_dir = tmp_path / "lemma"
+    output_dir = tmp_path / "lemma-with-audio"
+    lemma_dir.mkdir()
+    lemma_path = lemma_dir / "1.json"
+    lemma_path.write_text(
+        json.dumps(
+            {
+                "source_article_id": 1,
+                "lemmas": [
+                    {
+                        "lemma": "bønner",
+                        "source_lemma_id": 10,
+                        "is_sub_article": False,
+                        "word_forms": [
+                            {
+                                "word_form": "bønner",
+                                "pronunciation": [{"source": "nb_uttale", "tone": 2, "tone_status": "known"}],
+                            }
+                        ],
+                    }
+                ],
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+    from dataclasses import replace
+
+    jobs = collect_audio_jobs(lemma_dir, provider="google", voice="nb-NO-Chirp3-HD-Aoede", language_code="nb-NO")
+    jobs[0] = replace(jobs[0], content_sha256="abc123")
+
+    changed = write_audio_enriched_lemmas(lemma_dir, output_dir, jobs)
+
+    assert changed == 1
+    assert "audio" not in json.loads(lemma_path.read_text(encoding="utf-8"))["lemmas"][0]
+    audio = json.loads((output_dir / "1.json").read_text(encoding="utf-8"))["lemmas"][0]["audio"]["lemma"][0]
+    assert audio["file"] == jobs[0].filename
+    assert audio["path"] == f"audio/lemma/google/nb-NO-Chirp3-HD-Aoede/{jobs[0].filename}"
+    assert audio["url"] == f"https://media.umebocchi.my.id/{audio['path']}"
+    assert audio["content_sha256"] == "abc123"
+    assert audio["tone"] == 2
+
+
+def test_generate_audio_dry_run_lists_jobs_without_google_import(tmp_path: Path, capsys) -> None:
+    import generate_audio
+
+    lemma_dir = tmp_path / "lemma"
+    audio_dir = tmp_path / "audio"
+    lemma_dir.mkdir()
+    (lemma_dir / "1.json").write_text(
+        json.dumps(
+            {
+                "source_article_id": 1,
+                "lemmas": [{"lemma": "bønner", "source_lemma_id": 10, "is_sub_article": False, "word_forms": []}],
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+
+    rc = generate_audio.run(
+        lemma_dir=lemma_dir,
+        audio_dir=audio_dir,
+        voice="nb-NO-Chirp3-HD-Aoede",
+        language_code="nb-NO",
+        dry_run=True,
+        limit=None,
+        force=False,
+        confirm_cost=False,
+        price_per_million_chars=30.0,
+    )
+
+    captured = capsys.readouterr()
+    assert rc == 0
+    assert "pending api calls: 1" in captured.out
+    assert "estimated cost:" in captured.out
+    assert "bønner" in captured.out
+
+
+def test_generate_audio_with_fake_synthesizer_writes_manifest_and_enriched_json(tmp_path: Path) -> None:
+    import generate_audio
+
+    lemma_dir = tmp_path / "lemma"
+    audio_dir = tmp_path / "audio"
+    lemma_dir.mkdir()
+    (lemma_dir / "1.json").write_text(
+        json.dumps(
+            {
+                "source_article_id": 1,
+                "lemmas": [{"lemma": "bønner", "source_lemma_id": 10, "is_sub_article": False, "word_forms": []}],
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+
+    def fake_synthesize(_job, output_path: Path) -> None:
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        output_path.write_bytes(b"fake mp3")
+
+    rc = generate_audio.run(
+        lemma_dir=lemma_dir,
+        audio_dir=audio_dir,
+        voice="nb-NO-Chirp3-HD-Aoede",
+        language_code="nb-NO",
+        dry_run=False,
+        limit=1,
+        force=False,
+        confirm_cost=False,
+        price_per_million_chars=30.0,
+        synthesize=fake_synthesize,
+    )
+
+    assert rc == 0
+    manifest = json.loads((audio_dir / "manifest-google-nb-NO-Chirp3-HD-Aoede.json").read_text(encoding="utf-8"))
+    item = manifest["items"][0]
+    assert item["file"].endswith(".mp3")
+    assert item["path"] == f"audio/lemma/google/nb-NO-Chirp3-HD-Aoede/{item['file']}"
+    assert item["content_sha256"]
+    # audio fields written in-place into lemma_dir
+    audio = json.loads((lemma_dir / "1.json").read_text(encoding="utf-8"))["lemmas"][0]["audio"]["lemma"][0]
+    assert audio["file"] == item["file"]
+    assert audio["content_sha256"] == item["content_sha256"]
+
+
+def test_ordbokene_cli_has_audio_subcommand() -> None:
+    from ordbokene.cli import build_parser
+
+    args = build_parser().parse_args(["audio", "--voice", "nb-NO-Chirp3-HD-Aoede", "--dry-run"])
+
+    assert args.command == "audio"
+    assert args.voice == "nb-NO-Chirp3-HD-Aoede"
+    assert args.dry_run is True
+
+
+def test_release_script_builds_both_archives() -> None:
+    script = Path("scripts/release.sh").read_text(encoding="utf-8")
+
+    assert "norsk-lemma-${tag}.tar.gz" in script
+    assert "norsk-lemma-audio-google-${tag}.tar.gz" in script
+    assert "data/audio" in script
+    assert "gh release create" in script

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 40320,
+  "lemmas": [
+    {
+      "lemma": "naturgitt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47192,
+      "is_sub_article": false,
+      "primary_translation": "natural",
+      "word_forms": [
+        {
+          "word_form": "naturgitt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"t}:r$%jIt",
+              "ipa": "nɑˈtʉːrˌjɪt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "naturgitte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"t}:r$%jI$t@",
+              "ipa": "nɑˈtʉːrˌjɪtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fd8eda759565.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd8eda759565.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd8eda759565.mp3",
+            "text": "naturgitt",
+            "source": "generated",
+            "content_sha256": "aeb10da430e0c1f6d3152980f8bea90360fb73bf6a0c6983c14e6a09f77f2bc8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gitt på forhånd, bestemt av naturen",
+      "translation": "given in advance, determined by nature",
+      "examples": [
+        "naturgitte grenser"
+      ]
+    }
+  ]
+}

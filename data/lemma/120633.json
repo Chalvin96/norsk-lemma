@@ -1,0 +1,100 @@
+{
+  "source_article_id": 120633,
+  "lemmas": [
+    {
+      "lemma": "kopipapir",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 116227,
+      "is_sub_article": false,
+      "primary_translation": "copy paper",
+      "word_forms": [
+        {
+          "word_form": "kopipapir",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kopipapiret",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"pi:$pA$%pi:$r@",
+              "ipa": "kʊˈpɪːpɑˌpɪːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kopipapira",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kopipapirer",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kopipapirene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "21d5914118ed.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21d5914118ed.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21d5914118ed.mp3",
+            "text": "kopipapir",
+            "source": "generated",
+            "content_sha256": "4ec7d88279478641e17f34dacd3366866e4e43f9188198e452910dd210c0dad5"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "papir brukt til kopiering",
+      "translation": "paper used for copying",
+      "examples": [
+        "det er tomt for kopipapir i maskinen"
+      ]
+    }
+  ]
+}

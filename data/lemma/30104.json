@@ -1,0 +1,80 @@
+{
+  "source_article_id": 30104,
+  "lemmas": [
+    {
+      "lemma": "klimatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35508,
+      "is_sub_article": false,
+      "primary_translation": "climatic",
+      "word_forms": [
+        {
+          "word_form": "klimatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"mA:$tI$sk",
+              "ipa": "klɪˈmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "klimatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"mA:$tI$sk@",
+              "ipa": "klɪˈmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3a99870cd51c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a99870cd51c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a99870cd51c.mp3",
+            "text": "klimatisk",
+            "source": "generated",
+            "content_sha256": "1a36b24246f131789f93bb64562134800504d09f372ea7686b8bcc7e85f1da0e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller har sammenheng med klimaet",
+      "translation": "relating to or connected with climate",
+      "examples": [
+        "de klimatiske forhold"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "source_article_id": 53111,
+  "lemmas": [
+    {
+      "lemma": "skjær",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 61232,
+      "is_sub_article": false,
+      "primary_translation": "shine / hue",
+      "word_forms": [
+        {
+          "word_form": "skjær",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S{:r",
+              "ipa": "ˈʃæːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skjæret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S{:$r@",
+              "ipa": "ˈʃæːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skjæra",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S{:$rA",
+              "ipa": "ˈʃæːrɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skjærene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S{:$n`=$@",
+              "ipa": "ˈʃæːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6713d6264f8c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6713d6264f8c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6713d6264f8c.mp3",
+            "text": "skjær",
+            "source": "generated",
+            "content_sha256": "815657aa66892590bebd8a6f36f5da9fa105f818315974b14204b66f6f405db0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lysning, skinn, glans",
+      "translation": "light, shine, gleam",
+      "examples": [
+        "kveldssola kastet et rødlig skjær over åsene"
+      ]
+    },
+    {
+      "text": "fargenyanse",
+      "translation": "hue, tint",
+      "examples": [
+        "liene hadde fått et skjær av grønt"
+      ]
+    }
+  ]
+}

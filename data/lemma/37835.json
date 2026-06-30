@@ -1,0 +1,127 @@
+{
+  "source_article_id": 37835,
+  "lemmas": [
+    {
+      "lemma": "melodi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 44403,
+      "is_sub_article": false,
+      "primary_translation": "melody / intonation",
+      "word_forms": [
+        {
+          "word_form": "melodi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$lU$\"di:",
+              "ipa": "məlʊˈdɪː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "melodien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$lU$\"di:$@n",
+              "ipa": "məlʊˈdɪːən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "melodier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$lU$\"di:$@r",
+              "ipa": "məlʊˈdɪːər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "melodiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$lU$\"di:$@$n@",
+              "ipa": "məlʊˈdɪːənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "07e1978b9930.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07e1978b9930.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07e1978b9930.mp3",
+            "text": "melodi",
+            "source": "generated",
+            "content_sha256": "f85a7012f84f20570ce6ca911784a94e44eb119d1b58b06639e84351b6f149b0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tonerekke som danner en rytmisk helhet",
+      "translation": "sequence of notes forming a rhythmic whole",
+      "examples": [
+        "en fengende melodi",
+        "sette melodi til et dikt",
+        "visa går på melodien til ‘Alle fugler’"
+      ]
+    },
+    {
+      "text": "tonegang i et språk eller en ytring",
+      "translation": "intonation in a language or utterance",
+      "examples": [
+        "lytte til melodien i språket"
+      ]
+    },
+    {
+      "text": "i overført betydning: gjennomgangsmelodi",
+      "translation": "recurring melody",
+      "examples": [
+        "samme melodien går igjen i alle mediehusene"
+      ]
+    }
+  ]
+}

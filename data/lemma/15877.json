@@ -1,0 +1,109 @@
+{
+  "source_article_id": 15877,
+  "lemmas": [
+    {
+      "lemma": "fon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 18425,
+      "is_sub_article": false,
+      "primary_translation": "phoneme / speech sound",
+      "word_forms": [
+        {
+          "word_form": "fon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fu:n",
+              "ipa": "ˈfuːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fu:$nn=",
+              "ipa": "ˈfuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "foner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu:$n@r",
+              "ipa": "ˈfuːnər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu:$nn=$@",
+              "ipa": "ˈfuːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0857958b13fd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0857958b13fd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0857958b13fd.mp3",
+            "text": "fon",
+            "source": "generated",
+            "content_sha256": "140454ebeee3f5b2c29fa8456ff011d82934317a7a63c43c962bd1625a1b6325",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i språkvitenskap: minste lydlige segment i en ytring",
+      "translation": "smallest audible segment in an utterance",
+      "examples": []
+    }
+  ]
+}

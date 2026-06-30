@@ -1,0 +1,91 @@
+{
+  "source_article_id": 125434,
+  "lemmas": [
+    {
+      "lemma": "programmeringsfeil",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 131755,
+      "is_sub_article": false,
+      "primary_translation": "programming error",
+      "word_forms": [
+        {
+          "word_form": "programmeringsfeil",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$grA$\"me:$rINs$%f{*Il",
+              "ipa": "prʊgrɑˈmeːrɪŋsˌfæ͡ɪl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "programmeringsfeilen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "programmeringsfeila",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "programmeringsfeilene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9e14ce40c18d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e14ce40c18d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e14ce40c18d.mp3",
+            "text": "programmeringsfeil",
+            "source": "generated",
+            "content_sha256": "0b3f3092abc2edcd336a9daf550e171f9483f63810bad94b95c23a2b318b7ac5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "feil i programmering av datamaskin",
+      "translation": "error in computer programming",
+      "examples": [
+        "den elektroniske manntallskontrollen brøt sammen som følge av programmeringsfeil"
+      ]
+    }
+  ]
+}

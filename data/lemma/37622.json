@@ -1,0 +1,96 @@
+{
+  "source_article_id": 37622,
+  "lemmas": [
+    {
+      "lemma": "megabyte",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 44089,
+      "is_sub_article": false,
+      "primary_translation": "megabyte",
+      "word_forms": [
+        {
+          "word_form": "megabyte",
+          "tags_json": [
+            "Masc",
+            "m.,m1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$gA$%bA*It",
+              "ipa": "ˈmeːgɑˌbɑ͡ɪt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "megabyten",
+          "tags_json": [
+            "Masc",
+            "m.,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "megabyter",
+          "tags_json": [
+            "Masc",
+            "m.,m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "megabytene",
+          "tags_json": [
+            "Masc",
+            "m.,m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f85b28126688.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f85b28126688.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f85b28126688.mp3",
+            "text": "megabyte",
+            "source": "generated",
+            "content_sha256": "8be5a6b065f5a3b6c203f82a1157ce1562cf0fbd01f9d4cccb432635f2cde7dc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "målenhet for datalagringskapasitet som tilsvarer 1024 kilobyte eller 1 048 576 byte",
+      "translation": "unit of measurement for data storage capacity equivalent to 1024 kilobytes, 1,048,576 bytes",
+      "examples": []
+    },
+    {
+      "text": "symbol MB",
+      "translation": "symbol MB",
+      "examples": [
+        "en pc med et minne på 64 megabyte"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_article_id": 7555,
+  "lemmas": [
+    {
+      "lemma": "brisen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 8919,
+      "is_sub_article": false,
+      "primary_translation": "tipsy",
+      "word_forms": [
+        {
+          "word_form": "brisen",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bri:$sn=",
+              "ipa": "ˈbrɪːsn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "brisne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bri:$sn@",
+              "ipa": "ˈbrɪːsnə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "brisent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bri:$sn=t",
+              "ipa": "ˈbrɪːsn̩t",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ce6caeb393f1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce6caeb393f1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce6caeb393f1.mp3",
+            "text": "brisen",
+            "source": "generated",
+            "content_sha256": "bcc705985be9af5c29a7306b1992d97955ace95f3e150b7107fda0fd679a33cd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lett beruset berusa berust",
+      "translation": "slightly drunk",
+      "examples": [
+        "han var temmelig brisen"
+      ]
+    }
+  ]
+}

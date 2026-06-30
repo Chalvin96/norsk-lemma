@@ -1,0 +1,80 @@
+{
+  "source_article_id": 133987,
+  "lemmas": [
+    {
+      "lemma": "utrykt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2199218,
+      "is_sub_article": false,
+      "primary_translation": "unprinted",
+      "word_forms": [
+        {
+          "word_form": "utrykt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:$%trYkt",
+              "ipa": "ˈʉːˌtrʏkt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "utrykte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%trYk$t@",
+              "ipa": "ˈʉːˌtrʏktə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bccc29c8c05e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bccc29c8c05e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bccc29c8c05e.mp3",
+            "text": "utrykt",
+            "source": "generated",
+            "content_sha256": "46f3244e1a1b38cf016dbf807782e22f2f21ac69f025fbb36c6c12fe6c4ebe10",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er trykke",
+      "translation": "not printed",
+      "examples": [
+        "utrykte dokumenter"
+      ]
+    }
+  ]
+}

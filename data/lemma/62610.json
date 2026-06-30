@@ -1,0 +1,104 @@
+{
+  "source_article_id": 62610,
+  "lemmas": [
+    {
+      "lemma": "trykkluft",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 71645,
+      "is_sub_article": false,
+      "primary_translation": "compressed air",
+      "word_forms": [
+        {
+          "word_form": "trykkluft",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trY$%klu0ft",
+              "ipa": "ˈtrʏˌklʉft",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trykklufta",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "trykklufter",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "trykkluftene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "trykkluften",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e96c1e0ff4cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e96c1e0ff4cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e96c1e0ff4cf.mp3",
+            "text": "trykkluft",
+            "source": "generated",
+            "content_sha256": "61bd959eda4b4481c1959dd87795fba024f2c18fe5095a24379b43d684115a6e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "komprimert luft",
+      "translation": "compressed air",
+      "examples": [
+        "en tank med trykkluft",
+        "kompressoren gir trykkluft til boring"
+      ]
+    }
+  ]
+}

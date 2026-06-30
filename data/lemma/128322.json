@@ -1,0 +1,111 @@
+{
+  "source_article_id": 128322,
+  "lemmas": [
+    {
+      "lemma": "gård",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 25384,
+      "is_sub_article": false,
+      "primary_translation": "city block",
+      "word_forms": [
+        {
+          "word_form": "gård",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"go:r",
+              "ipa": "ˈgoːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gården",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"go:$n`=",
+              "ipa": "ˈgoːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gårder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"go:$r@r",
+              "ipa": "ˈgoːrər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gårdene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"go:$n`=$@",
+              "ipa": "ˈgoːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eabb45d75aa9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eabb45d75aa9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eabb45d75aa9.mp3",
+            "text": "gård",
+            "source": "generated",
+            "content_sha256": "11e919803ead7c12b864218e54968ead3847aead7f17b5211ab747339a8e8c41",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "større bolighus eller forretningsbygg (i en by)",
+      "translation": "large residential or commercial building (in a city)",
+      "examples": [
+        "det ligger ni gårder i denne gata"
+      ]
+    }
+  ]
+}

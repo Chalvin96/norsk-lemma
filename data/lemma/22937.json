@@ -1,0 +1,89 @@
+{
+  "source_article_id": 22937,
+  "lemmas": [
+    {
+      "lemma": "hektisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27014,
+      "is_sub_article": false,
+      "primary_translation": "feverish / hectic",
+      "word_forms": [
+        {
+          "word_form": "hektisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEk$tI$sk",
+              "ipa": "ˈhɛktɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hektiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEk$tI$sk@",
+              "ipa": "ˈhɛktɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "64b17f965b8c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64b17f965b8c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64b17f965b8c.mp3",
+            "text": "hektisk",
+            "source": "generated",
+            "content_sha256": "4b3943db2f3dd91aa6f08629396fef7b96f90c22761fa7a53d9e8b7b68d3f485",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "liksom i feber",
+      "translation": "as if in a fever",
+      "examples": [
+        "ha en hektisk varme i kinnene"
+      ]
+    },
+    {
+      "text": "febrilsk, nervøs, travel",
+      "translation": "feverish, nervous, busy",
+      "examples": [
+        "være i hektisk aktivitet",
+        "de siste hektiske forberedelser",
+        "vi har det litt hektisk akkurat nå"
+      ]
+    }
+  ]
+}

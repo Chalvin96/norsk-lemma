@@ -1,0 +1,104 @@
+{
+  "source_article_id": 7779,
+  "lemmas": [
+    {
+      "lemma": "brus",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 9255,
+      "is_sub_article": false,
+      "primary_translation": "soft drink / bottle of soft drink",
+      "word_forms": [
+        {
+          "word_form": "brus",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"br}:s",
+              "ipa": "ˈbrʉːs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "brusen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"br}:$sn=",
+              "ipa": "ˈbrʉːsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "brusene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"br}:$sn=$@",
+              "ipa": "ˈbrʉːsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e3c8e1700144.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3c8e1700144.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3c8e1700144.mp3",
+            "text": "brus",
+            "source": "generated",
+            "content_sha256": "d0b0f65e32abdc06a726b25938466d13963f97b6ce355fdcae3747c4d1c1b652",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "leskedrikk med karbondioksid, tilsatt søtningsmidler og smakstilsetninger",
+      "translation": "soft drink with carbon dioxide, sweetened and flavored",
+      "examples": [
+        "drikke brus",
+        "tre flasker brus",
+        "brus med sitronsmak"
+      ]
+    },
+    {
+      "text": "flaske, glass eller lignende med brus",
+      "translation": "bottle, glass, or similar container of soft drink",
+      "examples": [
+        "drikke fem brus"
+      ]
+    }
+  ]
+}

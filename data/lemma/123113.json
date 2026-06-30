@@ -1,0 +1,80 @@
+{
+  "source_article_id": 123113,
+  "lemmas": [
+    {
+      "lemma": "midtnorsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 123344,
+      "is_sub_article": false,
+      "primary_translation": "Mid-Norwegian",
+      "word_forms": [
+        {
+          "word_form": "midtnorsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mIt$%nO$s`k",
+              "ipa": "ˈmɪtˌnɔʂk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "midtnorske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mIt$%nO$s`k@",
+              "ipa": "ˈmɪtˌnɔʂkə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f7012005c9d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f7012005c9d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f7012005c9d.mp3",
+            "text": "midtnorsk",
+            "source": "generated",
+            "content_sha256": "9888961d5410e3874284f421dab99ae89c6cd1766b92ba70f5736f15d5581fa8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Midt-Norge",
+      "translation": "relating to Mid-Norway",
+      "examples": [
+        "politiet melder om snø og vanskelige forhold på midtnorske veier"
+      ]
+    }
+  ]
+}

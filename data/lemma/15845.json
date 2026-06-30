@@ -1,0 +1,114 @@
+{
+  "source_article_id": 15845,
+  "lemmas": [
+    {
+      "lemma": "folketall",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 18394,
+      "is_sub_article": false,
+      "primary_translation": "population count",
+      "word_forms": [
+        {
+          "word_form": "folketall",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$%tAl",
+              "ipa": "ˈfɔlkəˌtɑl",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "folketallet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$%tA$l@",
+              "ipa": "ˈfɔlkəˌtɑlə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "folketalla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$%tA$lA",
+              "ipa": "ˈfɔlkəˌtɑlɑ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "folketallene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$%tA$ln=$@",
+              "ipa": "ˈfɔlkəˌtɑln̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b7313850ecdb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7313850ecdb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7313850ecdb.mp3",
+            "text": "folketall",
+            "source": "generated",
+            "content_sha256": "ce173e570a45c0522b9c217071b52e5ee6ca1e8e0de4848f1527b30015ad4e7e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "antall innbyggere",
+      "translation": "number of inhabitants",
+      "examples": [
+        "landets folketall",
+        "folketallet øker",
+        "etter folketallet"
+      ]
+    }
+  ]
+}

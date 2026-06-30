@@ -1,0 +1,97 @@
+{
+  "source_article_id": 20900,
+  "lemmas": [
+    {
+      "lemma": "gresk-ortodoks",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 24413,
+      "is_sub_article": false,
+      "primary_translation": "Greek Orthodox",
+      "word_forms": [
+        {
+          "word_form": "gresk-ortodoks",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gre:$skU$t`U$%dOks",
+              "ipa": "ˈgreːskʊʈʊˌdɔks",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gresk-ortodokse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gre:$skO$t`U$%dOk$s@",
+              "ipa": "ˈgreːskɔʈʊˌdɔksə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gresk-ortodokst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gre:$skU$t`U$%dOkst",
+              "ipa": "ˈgreːskʊʈʊˌdɔkst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "faeb53961371.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/faeb53961371.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/faeb53961371.mp3",
+            "text": "gresk-ortodoks",
+            "source": "generated",
+            "content_sha256": "6cdb8f7d14b8520982dde771162c68c15733d18cbf315738ff706cecb9daf92b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder ortodokse kirkesamfunn som bruker gresk i liturgien",
+      "translation": "relating to Orthodox churches that use Greek in their liturgy",
+      "examples": [
+        "den gresk-ortodokse kirken feirer jul den 6. januar"
+      ]
+    }
+  ]
+}

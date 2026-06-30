@@ -1,0 +1,100 @@
+{
+  "source_article_id": 123117,
+  "lemmas": [
+    {
+      "lemma": "lynkjapp",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 121423,
+      "is_sub_article": false,
+      "primary_translation": "lightning fast",
+      "word_forms": [
+        {
+          "word_form": "lynkjapp",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:n$%CAp",
+              "ipa": "ˈlyːnˌçɑp",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lynkjappe",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:n$%CA$p@",
+              "ipa": "ˈlyːnˌçɑpə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lynkjapt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:n$%CApt",
+              "ipa": "ˈlyːnˌçɑpt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7111fc5c6139.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7111fc5c6139.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7111fc5c6139.mp3",
+            "text": "lynkjapp",
+            "source": "generated",
+            "content_sha256": "9fec475bc96fa73e4319768948667ff4502e01e3df1ddbf1a144f79aec5bf53a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "veldig rask",
+      "translation": "very fast",
+      "examples": []
+    },
+    {
+      "text": "svært kjapp",
+      "translation": "very quick",
+      "examples": [
+        "en lynkjapp fotballspiller",
+        "reagere lynkjapt"
+      ]
+    }
+  ]
+}

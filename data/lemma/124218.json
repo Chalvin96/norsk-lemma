@@ -1,0 +1,107 @@
+{
+  "source_article_id": 124218,
+  "lemmas": [
+    {
+      "lemma": "oljelampe",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 127204,
+      "is_sub_article": false,
+      "primary_translation": "oil lamp / oil pressure warning light",
+      "word_forms": [
+        {
+          "word_form": "oljelampe",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "oljelampen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "oljelamper",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%lAm$p@r",
+              "ipa": "ˈɔljəˌlɑmpər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "oljelampene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "oljelampa",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f0af69a55907.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f0af69a55907.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f0af69a55907.mp3",
+            "text": "oljelampe",
+            "source": "generated",
+            "content_sha256": "e1bd3c028d4f34c2f247ce7ad5b88b1bcf1f439989d32b55c3fa740a2d5b4bb1"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lampe der olje er brennstoff",
+      "translation": "lamp fueled by oil",
+      "examples": []
+    },
+    {
+      "text": "lampe som varsler om mangel på olje i en motor",
+      "translation": "lamp that warns of low oil pressure in an engine",
+      "examples": [
+        "de måtte stanse bilen da oljelampa begynte å lyse rødt"
+      ]
+    }
+  ]
+}

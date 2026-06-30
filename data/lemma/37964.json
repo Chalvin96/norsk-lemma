@@ -1,0 +1,111 @@
+{
+  "source_article_id": 37964,
+  "lemmas": [
+    {
+      "lemma": "mente",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 44562,
+      "is_sub_article": false,
+      "primary_translation": "carry-over number in addition",
+      "word_forms": [
+        {
+          "word_form": "mente",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mEn$t@",
+              "ipa": "ˈmɛntə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "menten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mEn$tn=",
+              "ipa": "ˈmɛntn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "menter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mEn$t@r",
+              "ipa": "ˈmɛntər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "mentene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mEn$tn=$@",
+              "ipa": "ˈmɛntn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8ef5b0fde403.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ef5b0fde403.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ef5b0fde403.mp3",
+            "text": "mente",
+            "source": "generated",
+            "content_sha256": "1436c8f51046f48d846b21898b02f18d2a1980e48bcabbbc01de7b45ff0dbdd7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i addisjon: tall som en må ha i minne (eventuelt skrive ned) og ta med i neste regneoperasjon hver gang summen av en sifferrad er større enn ni",
+      "translation": "in addition: a number to be remembered and carried over to the next calculation when the sum of a digit row is greater than nine",
+      "examples": [
+        "i 14 + 8 blir det 2 opp og 1 i mente"
+      ]
+    }
+  ]
+}

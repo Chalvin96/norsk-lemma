@@ -1,0 +1,88 @@
+{
+  "source_article_id": 111972,
+  "lemmas": [
+    {
+      "lemma": "e-faktura",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163587,
+      "is_sub_article": false,
+      "primary_translation": "e-invoice",
+      "word_forms": [
+        {
+          "word_form": "e-faktura",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$fAk$%t}:$rA",
+              "ipa": "ˈeːfɑkˌtʉːrɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "e-fakturaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "e-fakturaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "e-fakturaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4ce49482144b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ce49482144b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ce49482144b.mp3",
+            "text": "e-faktura",
+            "source": "generated",
+            "content_sha256": "a5670be12acda93db5c97ac553ec21d3de33eff37f6da871be743eedbf21a1ed",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "elektronisk faktura",
+      "translation": "electronic invoice",
+      "examples": []
+    }
+  ]
+}

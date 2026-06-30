@@ -1,0 +1,89 @@
+{
+  "source_article_id": 112588,
+  "lemmas": [
+    {
+      "lemma": "dødsrate",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 93128,
+      "is_sub_article": false,
+      "primary_translation": "death rate",
+      "word_forms": [
+        {
+          "word_form": "dødsrate",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dødsraten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d9ds$%rA:$tn=",
+              "ipa": "ˈdœdsˌrɑːtn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dødsrater",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dødsratene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ab6d70fb8a45.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ab6d70fb8a45.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ab6d70fb8a45.mp3",
+            "text": "dødsrate",
+            "source": "generated",
+            "content_sha256": "6a20d03139d708294363d97ac638e1cecbc902d580ea21f258de1041c0c72d25"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "antall døde per 1000 innbyggere i løpet av et år",
+      "translation": "number of deaths per 1000 inhabitants during a year",
+      "examples": [
+        "landet har høy levealder og lav dødsrate"
+      ]
+    }
+  ]
+}

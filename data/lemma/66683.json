@@ -1,0 +1,104 @@
+{
+  "source_article_id": 66683,
+  "lemmas": [
+    {
+      "lemma": "variabel",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 76659,
+      "is_sub_article": false,
+      "primary_translation": "changeable",
+      "word_forms": [
+        {
+          "word_form": "variabel",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vA$rI$\"A:$b@l",
+              "ipa": "vɑrɪˈɑːbəl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "variable",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vA$rI$\"A:$bl@",
+              "ipa": "vɑrɪˈɑːblə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "variabelt",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vA$rI$\"A:$b@lt",
+              "ipa": "vɑrɪˈɑːbəlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9615b9fd4f61.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9615b9fd4f61.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9615b9fd4f61.mp3",
+            "text": "variabel",
+            "source": "generated",
+            "content_sha256": "acd34d735938091d72e98a73195194f16f01b0d9af5920f66dbb9e50fd458ada",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som endrer seg",
+      "translation": "that changes",
+      "examples": []
+    },
+    {
+      "text": "skiftende, vekslende",
+      "translation": "shifting, alternating",
+      "examples": [
+        "variabel pris",
+        "variabelt vær og føre",
+        "variable kostnader"
+      ]
+    }
+  ]
+}

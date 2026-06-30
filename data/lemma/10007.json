@@ -1,0 +1,78 @@
+{
+  "source_article_id": 10007,
+  "lemmas": [
+    {
+      "lemma": "dialektisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11735,
+      "is_sub_article": false,
+      "primary_translation": "dialectical",
+      "word_forms": [
+        {
+          "word_form": "dialektisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$\"lEk$tI$sk",
+              "ipa": "dɪɑˈlɛktɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dialektiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$\"lEk$tI$sk@",
+              "ipa": "dɪɑˈlɛktɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e528266667d4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e528266667d4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e528266667d4.mp3",
+            "text": "dialektisk",
+            "source": "generated",
+            "content_sha256": "d43a14fd03bc1bb0a02acacfdcc8586eaaf36ae218755f7f246b7f4b33573d1c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder dialektikk",
+      "translation": "relating to dialectics",
+      "examples": []
+    }
+  ]
+}

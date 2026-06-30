@@ -1,0 +1,102 @@
+{
+  "source_article_id": 8654,
+  "lemmas": [
+    {
+      "lemma": "camping",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 10320,
+      "is_sub_article": false,
+      "primary_translation": "camping",
+      "word_forms": [
+        {
+          "word_form": "camping",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kEm$pIN",
+              "ipa": "ˈkɛmpɪŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "campingen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kEm$pIN$@n",
+              "ipa": "ˈkɛmpɪŋən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "campinger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "campingene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2b210b2cd0fd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2b210b2cd0fd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2b210b2cd0fd.mp3",
+            "text": "camping",
+            "source": "generated",
+            "content_sha256": "76891222ac099e8279848ffdc6d5b3fea8242b763a42c4286b1923fcd8242492",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å ligge i telt, campingvogn, bobil eller lignende (på campingplass)",
+      "translation": "staying in a tent, caravan, or motorhome (on a campsite)",
+      "examples": []
+    },
+    {
+      "text": "ferieliv med telt, campingvogn, bobil eller lignende",
+      "translation": "holiday life with tent, caravan, or motorhome",
+      "examples": [
+        "dra på camping"
+      ]
+    }
+  ]
+}

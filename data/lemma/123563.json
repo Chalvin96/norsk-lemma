@@ -1,0 +1,80 @@
+{
+  "source_article_id": 123563,
+  "lemmas": [
+    {
+      "lemma": "nyansatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 126485,
+      "is_sub_article": false,
+      "primary_translation": "newly hired",
+      "word_forms": [
+        {
+          "word_form": "nyansatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$An$%sAt",
+              "ipa": "ˈnyːɑnˌsɑt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nyansatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$An$%sA$t@",
+              "ipa": "ˈnyːɑnˌsɑtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "89579070fad4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89579070fad4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89579070fad4.mp3",
+            "text": "nyansatt",
+            "source": "generated",
+            "content_sha256": "5aa456ed328af8844e6f04df0dfe03ad784ceec1d24076a61d0322eade2bd18d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som nylig er ansatt i en ny jobb",
+      "translation": "who has recently been hired for a new job",
+      "examples": [
+        "lederen hilste på de nyansatte"
+      ]
+    }
+  ]
+}

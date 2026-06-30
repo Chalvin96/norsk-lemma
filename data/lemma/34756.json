@@ -1,0 +1,102 @@
+{
+  "source_article_id": 34756,
+  "lemmas": [
+    {
+      "lemma": "lekk",
+      "hgno": 3,
+      "pos": "ADJ",
+      "source_lemma_id": 40457,
+      "is_sub_article": false,
+      "primary_translation": "leaking",
+      "word_forms": [
+        {
+          "word_form": "lekk",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lEk",
+              "ipa": "ˈlɛk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lekke",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lE$k@",
+              "ipa": "ˈlɛkə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lekt",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lEkt",
+              "ipa": "ˈlɛkt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "74618eb31067.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/74618eb31067.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/74618eb31067.mp3",
+            "text": "lekk",
+            "source": "generated",
+            "content_sha256": "4517e0b4cda74472e669f3ba37427a1311ff5bfc1c1ced7e40e9afded802e05b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lekker, som er utett",
+      "translation": "leaking, not watertight",
+      "examples": [
+        "gummislangen er lekk",
+        "begge bøttene er lekk",
+        "skipene sprang lekk"
+      ]
+    }
+  ]
+}

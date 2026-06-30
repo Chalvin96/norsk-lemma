@@ -1,0 +1,85 @@
+{
+  "source_article_id": 42558,
+  "lemmas": [
+    {
+      "lemma": "oppmalt",
+      "hgno": 1,
+      "pos": "ADJ",
+      "source_lemma_id": 49735,
+      "is_sub_article": false,
+      "primary_translation": "ground into a mass",
+      "word_forms": [
+        {
+          "word_form": "oppmalt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%mA:lt",
+              "ipa": "ˈɔpˌmɑːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "oppmalte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%mA:l$t@",
+              "ipa": "ˈɔpˌmɑːltə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "25f395a1e880.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25f395a1e880.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25f395a1e880.mp3",
+            "text": "oppmalt",
+            "source": "generated",
+            "content_sha256": "f0a9cd9ca7c4dd8d25b8a4ddbce1f7c2f23b495df186456e149e47a26d01ebd8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er malt opp til en masse",
+      "translation": "which has been ground into a mass",
+      "examples": []
+    },
+    {
+      "text": "jamfør male",
+      "translation": "ground",
+      "examples": [
+        "oppmalt fisk"
+      ]
+    }
+  ]
+}

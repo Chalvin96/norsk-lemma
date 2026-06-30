@@ -1,0 +1,87 @@
+{
+  "source_article_id": 16919,
+  "lemmas": [
+    {
+      "lemma": "forsonlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19639,
+      "is_sub_article": false,
+      "primary_translation": "amenable / unforgiving",
+      "word_forms": [
+        {
+          "word_form": "forsonlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"s`u:n$lI",
+              "ipa": "fɔˈʂuːnlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "forsonlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"s`u:n$lI$@",
+              "ipa": "fɔˈʂuːnlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c70bb7727d91.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c70bb7727d91.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c70bb7727d91.mp3",
+            "text": "forsonlig",
+            "source": "generated",
+            "content_sha256": "ce3d1004a9d2a47390c728c799f95631528c35ef9b9d9fb38155876a58c5ec12",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fredelig, medgjørlig",
+      "translation": "peaceful, amenable",
+      "examples": []
+    },
+    {
+      "text": "motsatt uforsonlig",
+      "translation": "unforgiving",
+      "examples": [
+        "en forsonlig tone",
+        "skrive et forsonlig brev",
+        "være forsonlig stemt"
+      ]
+    }
+  ]
+}

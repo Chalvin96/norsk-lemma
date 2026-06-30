@@ -1,0 +1,103 @@
+{
+  "source_article_id": 128809,
+  "lemmas": [
+    {
+      "lemma": "invasiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2236259,
+      "is_sub_article": false,
+      "primary_translation": "invasive (biology/medicine)",
+      "word_forms": [
+        {
+          "word_form": "invasiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$vA$\"si:v",
+              "ipa": "ɪnvɑˈsɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "invasive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "invasivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "37b5237b768c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/37b5237b768c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/37b5237b768c.mp3",
+            "text": "invasiv",
+            "source": "generated",
+            "content_sha256": "57cb749e501b51ece1e2c3bd86a623ebfd56628415f13a0dfdbd8408c087e6b1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i biologi: som sprer seg utenfor sitt naturlige område",
+      "translation": "in biology: spreading outside its natural area",
+      "examples": []
+    },
+    {
+      "text": "invaderende",
+      "translation": "invading",
+      "examples": [
+        "invasive arter",
+        "spre seg invasivt"
+      ]
+    },
+    {
+      "text": "i medisin: som innebærer at noe blir ført inn i kroppen",
+      "translation": "in medicine: involving the introduction of something into the body",
+      "examples": [
+        "invasiv kirurgi"
+      ]
+    },
+    {
+      "text": "i medisin: som sprer seg i kroppen",
+      "translation": "in medicine: spreading within the body",
+      "examples": [
+        "invasiv kreft"
+      ]
+    }
+  ]
+}

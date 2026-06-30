@@ -1,0 +1,89 @@
+{
+  "source_article_id": 134436,
+  "lemmas": [
+    {
+      "lemma": "varslingstjeneste",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 152774,
+      "is_sub_article": false,
+      "primary_translation": "warning service",
+      "word_forms": [
+        {
+          "word_form": "varslingstjeneste",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "varslingstjenesten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vA$s`lIN$%stje:$n@$stn=",
+              "ipa": "ˈvɑʂlɪŋˌstjeːnəstn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "varslingstjenester",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "varslingstjenestene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "257500e330b5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/257500e330b5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/257500e330b5.mp3",
+            "text": "varslingstjeneste",
+            "source": "generated",
+            "content_sha256": "7dcd8304521ed3694f0dd76c31157eeea72b1203b7ee85a87994e8bdc5830f0b"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tjeneste som sender ut varsel om noe",
+      "translation": "service that sends out a warning about something",
+      "examples": [
+        "en nasjonal varslingstjeneste for jordskred"
+      ]
+    }
+  ]
+}

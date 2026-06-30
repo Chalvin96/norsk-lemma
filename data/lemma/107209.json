@@ -1,0 +1,82 @@
+{
+  "source_article_id": 107209,
+  "lemmas": [
+    {
+      "lemma": "aktuator",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 159603,
+      "is_sub_article": false,
+      "primary_translation": "actuator",
+      "word_forms": [
+        {
+          "word_form": "aktuator",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "aktuatoren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "aktuatorer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "aktuatorene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a5a61d276a11.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a5a61d276a11.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a5a61d276a11.mp3",
+            "text": "aktuator",
+            "source": "generated",
+            "content_sha256": "ad3a149edb79e41b6c901d15e5d8f923c4edc3695de875eacc102f75fe998439"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "servomekanisme som ved hjelp av styresignaler kontrollerer en maskin og får den til å utføre visse funksjoner",
+      "translation": "servomechanism that, using control signals, controls a machine and makes it perform certain functions",
+      "examples": [
+        "ventilen var utstyrt med en aktuator"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "source_article_id": 121502,
+  "lemmas": [
+    {
+      "lemma": "landvind",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 168904,
+      "is_sub_article": false,
+      "primary_translation": "onshore wind",
+      "word_forms": [
+        {
+          "word_form": "landvind",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "landvinden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "landvinder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "landvindene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a1edc7d9198f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1edc7d9198f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1edc7d9198f.mp3",
+            "text": "landvind",
+            "source": "generated",
+            "content_sha256": "d1f2b8320814a837a6a5a0c44bb448e930f5491ececb11bc6f3f90b68f9e9204"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vind som blåser på eller fra land",
+      "translation": "wind blowing on or from land",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra havvind",
+      "translation": "in contrast to offshore wind",
+      "examples": []
+    },
+    {
+      "text": "energi utvunnet ved hjelp av vindturbin på land",
+      "translation": "energy extracted using wind turbines on land",
+      "examples": [
+        "satse på vannkraft og landvind som energikilder"
+      ]
+    }
+  ]
+}

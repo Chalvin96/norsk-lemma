@@ -1,0 +1,80 @@
+{
+  "source_article_id": 32435,
+  "lemmas": [
+    {
+      "lemma": "kryptisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 38065,
+      "is_sub_article": false,
+      "primary_translation": "enigmatic",
+      "word_forms": [
+        {
+          "word_form": "kryptisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krYp$tI$sk",
+              "ipa": "ˈkrʏptɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kryptiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krYp$tI$sk@",
+              "ipa": "ˈkrʏptɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "678aaf6cb464.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/678aaf6cb464.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/678aaf6cb464.mp3",
+            "text": "kryptisk",
+            "source": "generated",
+            "content_sha256": "6f1c607de8e543e99342b8eb766881c80bf0bac2c7537bf47e27d4f79060dbe7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gåtefull, uforståelig",
+      "translation": "enigmatic, incomprehensible",
+      "examples": [
+        "en kryptisk melding"
+      ]
+    }
+  ]
+}

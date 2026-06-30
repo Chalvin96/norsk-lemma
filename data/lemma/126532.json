@@ -1,0 +1,117 @@
+{
+  "source_article_id": 126532,
+  "lemmas": [
+    {
+      "lemma": "replikere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 2188201,
+      "is_sub_article": false,
+      "primary_translation": "replicate / reproduce",
+      "word_forms": [
+        {
+          "word_form": "replikere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "replikerer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "replikeres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "replikerte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "replikert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "replikerende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "repliker",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ce7fc228db1d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce7fc228db1d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce7fc228db1d.mp3",
+            "text": "replikere",
+            "source": "generated",
+            "content_sha256": "a414a82e389602266ef86b42ed659837bdf2b44af2df5fa04024407286edd25a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skape på nytt",
+      "translation": "to create anew",
+      "examples": []
+    },
+    {
+      "text": "gjenta, reprodusere",
+      "translation": "to repeat, to reproduce",
+      "examples": [
+        "roboten kan replikere ny tekst ut fra store mengder data",
+        "i denne studien replikerte vi funn som var gjort tidligere"
+      ]
+    }
+  ]
+}

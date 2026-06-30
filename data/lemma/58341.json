@@ -1,0 +1,86 @@
+{
+  "source_article_id": 58341,
+  "lemmas": [
+    {
+      "lemma": "summarisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 66796,
+      "is_sub_article": false,
+      "primary_translation": "summary / concise",
+      "word_forms": [
+        {
+          "word_form": "summarisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"mA:$rI$sk",
+              "ipa": "sʉˈmɑːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "summariske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"mA:$rI$sk@",
+              "ipa": "sʉˈmɑːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ea93046bfbc9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea93046bfbc9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea93046bfbc9.mp3",
+            "text": "summarisk",
+            "source": "generated",
+            "content_sha256": "10d62cabb85996ef678b6a9beb44bd9cd43cee1543d108d405f231dc64b332e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i korte trekk",
+      "translation": "in brief",
+      "examples": []
+    },
+    {
+      "text": "sammentrengt, kortfattet kortfatta",
+      "translation": "condensed, concise",
+      "examples": [
+        "et summarisk referat",
+        "nøye seg med en summarisk oversikt"
+      ]
+    }
+  ]
+}

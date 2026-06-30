@@ -1,0 +1,81 @@
+{
+  "source_article_id": 3360,
+  "lemmas": [
+    {
+      "lemma": "avbalansert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3996,
+      "is_sub_article": false,
+      "primary_translation": "balanced",
+      "word_forms": [
+        {
+          "word_form": "avbalansert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$bA$lAn$%se:t`",
+              "ipa": "ˈɑːvbɑlɑnˌseːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "avbalanserte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$bA$lAn$%se:$t`@",
+              "ipa": "ˈɑːvbɑlɑnˌseːʈə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "24bfec6729cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/24bfec6729cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/24bfec6729cf.mp3",
+            "text": "avbalansert",
+            "source": "generated",
+            "content_sha256": "20e8190f482c48bf147387f9dec1aadeb39a658560924ddbe2f9eda4a8af06ba",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "likevektig, balansert",
+      "translation": "equilibrated, balanced",
+      "examples": [
+        "en avbalansert framstilling",
+        "et avbalansert menneske"
+      ]
+    }
+  ]
+}

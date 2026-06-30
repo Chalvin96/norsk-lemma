@@ -1,0 +1,95 @@
+{
+  "source_article_id": 55173,
+  "lemmas": [
+    {
+      "lemma": "snitt",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 81914,
+      "is_sub_article": false,
+      "primary_translation": "small beer glass",
+      "word_forms": [
+        {
+          "word_form": "snitt",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"snIt",
+              "ipa": "ˈsnɪt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "snitten",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"snI$tn=",
+              "ipa": "ˈsnɪtn̩",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "snittene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"snI$tn=$@",
+              "ipa": "ˈsnɪtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f1b8cc95e06.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f1b8cc95e06.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f1b8cc95e06.mp3",
+            "text": "snitt",
+            "source": "generated",
+            "content_sha256": "25dcbf3cf27881070efc6570de1c64d74f4c06e3a05d54d2c4632ad6fdab28b7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lite glass øl (25 cl)",
+      "translation": "small glass of beer (25 cl)",
+      "examples": [
+        "bestille to snitt pils"
+      ]
+    }
+  ]
+}

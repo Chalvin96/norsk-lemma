@@ -1,0 +1,82 @@
+{
+  "source_article_id": 43832,
+  "lemmas": [
+    {
+      "lemma": "overårig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50769,
+      "is_sub_article": false,
+      "primary_translation": "overage",
+      "word_forms": [
+        {
+          "word_form": "overårig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$v@$%ro:$rI",
+              "ipa": "ˈoːvəˌroːrɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "overårige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$v@$%ro:$rI$@",
+              "ipa": "ˈoːvəˌroːrɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5bc7de1d8841.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bc7de1d8841.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bc7de1d8841.mp3",
+            "text": "overårig",
+            "source": "generated",
+            "content_sha256": "1264bcb80daf66961d7042511e267dca6315f88f6cd4398ea048d2c90da9bb2e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er over en fastsatt alder",
+      "translation": "who is over a set age",
+      "examples": [
+        "overårige elever",
+        "overårige fotballspillere",
+        "overårig skog"
+      ]
+    }
+  ]
+}

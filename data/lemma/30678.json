@@ -1,0 +1,113 @@
+{
+  "source_article_id": 30678,
+  "lemmas": [
+    {
+      "lemma": "kødd",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 162322,
+      "is_sub_article": false,
+      "primary_translation": "jest / nonsense",
+      "word_forms": [
+        {
+          "word_form": "kødd",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k9d",
+              "ipa": "ˈkœd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "køddet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"k9$d@t",
+              "ipa": "ˈkœdət",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kødda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"k9$dA",
+              "ipa": "ˈkœdɑ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "køddene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"k9$dn=$@",
+              "ipa": "ˈkœdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5992ee1d6ef0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5992ee1d6ef0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5992ee1d6ef0.mp3",
+            "text": "kødd",
+            "source": "generated",
+            "content_sha256": "ceb78b3f00109a16a1e30ca6a78b068733f085c681116f9cb1b71c5fb3907f5e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tøys, tull",
+      "translation": "nonsense, jest",
+      "examples": [
+        "han sa det på kødd",
+        "det er ikke kødd"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "source_article_id": 9321,
+  "lemmas": [
+    {
+      "lemma": "dataprogram",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11000,
+      "is_sub_article": false,
+      "primary_translation": "software program",
+      "word_forms": [
+        {
+          "word_form": "dataprogram",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$prU$%grAm",
+              "ipa": "ˈdɑːtɑprʊˌgrɑm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dataprogrammet",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$prU$%grA$m@",
+              "ipa": "ˈdɑːtɑprʊˌgrɑmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dataprogramma",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$prU$%grA$mA",
+              "ipa": "ˈdɑːtɑprʊˌgrɑmɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dataprogrammene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$prU$%grA$m@$n@",
+              "ipa": "ˈdɑːtɑprʊˌgrɑmənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dataprogrammer",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$prU$%grA$m@r",
+              "ipa": "ˈdɑːtɑprʊˌgrɑmər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fd2bd0508865.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd2bd0508865.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd2bd0508865.mp3",
+            "text": "dataprogram",
+            "source": "generated",
+            "content_sha256": "d37cf6a58ee440b3baef0bcc10574f6e95ea4894ee4b53795980e856e1552d45",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avgrenset samling datafiler med eget brukergrensesnitt og egen funksjonalitet",
+      "translation": "a defined collection of data files with its own user interface and functionality",
+      "examples": [
+        "installere et dataprogram",
+        "utvikle et nytt dataprogram",
+        "laste ned et dataprogram til bilderedigering"
+      ]
+    }
+  ]
+}

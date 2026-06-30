@@ -1,0 +1,87 @@
+{
+  "source_article_id": 3451,
+  "lemmas": [
+    {
+      "lemma": "avfeldig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4098,
+      "is_sub_article": false,
+      "primary_translation": "dilapidated / frail",
+      "word_forms": [
+        {
+          "word_form": "avfeldig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Av$\"fEl$dI",
+              "ipa": "ɑvˈfɛldɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "avfeldige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Av$\"fEl$dI$@",
+              "ipa": "ɑvˈfɛldɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7043b4cd7f4c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7043b4cd7f4c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7043b4cd7f4c.mp3",
+            "text": "avfeldig",
+            "source": "generated",
+            "content_sha256": "9694d6a8e2b31f67b62ffdd6d7be8c92dae89755a1883f8004db5aef0a957f75",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om person: svekket av alderdom",
+      "translation": "regarding a person: weakened by old age",
+      "examples": [
+        "en gammel, avfeldig stakkar"
+      ]
+    },
+    {
+      "text": "om gjenstand: falleferdig",
+      "translation": "regarding an object: dilapidated",
+      "examples": [
+        "en avfeldig stol"
+      ]
+    }
+  ]
+}

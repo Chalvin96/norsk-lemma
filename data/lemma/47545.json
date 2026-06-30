@@ -1,0 +1,66 @@
+{
+  "source_article_id": 47545,
+  "lemmas": [
+    {
+      "lemma": "ratevis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54616,
+      "is_sub_article": false,
+      "primary_translation": "in installments",
+      "word_forms": [
+        {
+          "word_form": "ratevis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "ratevise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43c8cc1f6c01.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43c8cc1f6c01.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43c8cc1f6c01.mp3",
+            "text": "ratevis",
+            "source": "generated",
+            "content_sha256": "d198b06916d35cde923ceb3fc3641b004041b2c65c75de8d2eb64fd5c9b4ff80"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som betales i rate",
+      "translation": "paid in installments",
+      "examples": [
+        "ratevise utbetalinger",
+        "betale ratevis"
+      ]
+    }
+  ]
+}

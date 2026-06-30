@@ -1,0 +1,89 @@
+{
+  "source_article_id": 112348,
+  "lemmas": [
+    {
+      "lemma": "jeg-forteller",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 111011,
+      "is_sub_article": false,
+      "primary_translation": "first-person narrator",
+      "word_forms": [
+        {
+          "word_form": "jeg-forteller",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "jeg-fortelleren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"j{*I$fO$%t`E$l@n`",
+              "ipa": "ˈjæ͡ɪfɔˌʈɛləɳ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jeg-fortellere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "jeg-fortellerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f44d2bb3fc67.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f44d2bb3fc67.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f44d2bb3fc67.mp3",
+            "text": "jeg-forteller",
+            "source": "generated",
+            "content_sha256": "dddde6892989cfd5940e908abb7cddc7252a905d4f6c713a076c560e1c971c86"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forteller i en litterær tekst som benytter direkte tale i første person entall",
+      "translation": "narrator in a literary text who uses direct speech in the first person singular",
+      "examples": [
+        "en novelle der jeg-fortelleren er en gammel dame"
+      ]
+    }
+  ]
+}

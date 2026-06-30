@@ -1,0 +1,78 @@
+{
+  "source_article_id": 4758,
+  "lemmas": [
+    {
+      "lemma": "batteridrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5592,
+      "is_sub_article": false,
+      "primary_translation": "battery-powered",
+      "word_forms": [
+        {
+          "word_form": "batteridrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$t@$\"ri:$%dre:$v@t",
+              "ipa": "bɑtəˈrɪːˌdreːvət",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "batteridrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$t@$\"ri:$%dre:v$n@",
+              "ipa": "bɑtəˈrɪːˌdreːvnə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "168cfb5a50db.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/168cfb5a50db.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/168cfb5a50db.mp3",
+            "text": "batteridrevet",
+            "source": "generated",
+            "content_sha256": "bbcc843500e765ab5fa065d58dcdf9ca4b86a79cdeb01b6983bcbc1196c729cb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "drevet ved batteri",
+      "translation": "powered by battery",
+      "examples": [
+        "en batteridrevet radio"
+      ]
+    }
+  ]
+}

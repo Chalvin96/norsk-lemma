@@ -1,0 +1,90 @@
+{
+  "source_article_id": 10585,
+  "lemmas": [
+    {
+      "lemma": "dominant",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 12376,
+      "is_sub_article": false,
+      "primary_translation": "dominant / having the upper hand",
+      "word_forms": [
+        {
+          "word_form": "dominant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dU$mI$\"nAnt",
+              "ipa": "dʊmɪˈnɑnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dominante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dU$mI$\"nAn$t@",
+              "ipa": "dʊmɪˈnɑntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "af5e9e7f1198.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af5e9e7f1198.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af5e9e7f1198.mp3",
+            "text": "dominant",
+            "source": "generated",
+            "content_sha256": "f00aecdbb7cce110055883cddd6441566d6df8f7fa7d3b0f2ae435832bac02b9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har overtaket",
+      "translation": "having the upper hand",
+      "examples": [
+        "moren er dominant og kravstor"
+      ]
+    },
+    {
+      "text": "om arveanlegg: som er mest framtredende",
+      "translation": "for hereditary traits: being most prominent",
+      "examples": []
+    },
+    {
+      "text": "motsatt recessiv",
+      "translation": "dominant",
+      "examples": []
+    }
+  ]
+}

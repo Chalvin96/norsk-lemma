@@ -1,0 +1,94 @@
+{
+  "source_article_id": 19334,
+  "lemmas": [
+    {
+      "lemma": "gebrokken",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22604,
+      "is_sub_article": false,
+      "primary_translation": "broken (accent)",
+      "word_forms": [
+        {
+          "word_form": "gebrokken",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "g@$\"brO$k@n",
+              "ipa": "gəˈbrɔkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gebrokne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "g@$\"brO$kn@",
+              "ipa": "gəˈbrɔknə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gebrokkent",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "g@$\"brO$k@nt",
+              "ipa": "gəˈbrɔkənt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a090ce4725a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a090ce4725a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a090ce4725a.mp3",
+            "text": "gebrokken",
+            "source": "generated",
+            "content_sha256": "51be5ba5627bfc4d1fea27263fa21f10bcaa7de11bacc1a46f28fd639663cf71",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om uttale av fremmed språk: ukorrekt, ubehjelpelig, med aksent",
+      "translation": "of pronunciation of a foreign language: incorrect, clumsy, with an accent",
+      "examples": [
+        "snakke gebrokkent norsk"
+      ]
+    }
+  ]
+}

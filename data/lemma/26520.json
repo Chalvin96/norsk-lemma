@@ -1,0 +1,80 @@
+{
+  "source_article_id": 26520,
+  "lemmas": [
+    {
+      "lemma": "innkokt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31564,
+      "is_sub_article": false,
+      "primary_translation": "boiled down",
+      "word_forms": [
+        {
+          "word_form": "innkokt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"IN$%kUkt",
+              "ipa": "ˈɪŋˌkʊkt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innkokte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"IN$%kUk$t@",
+              "ipa": "ˈɪŋˌkʊktə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "51bc1927d4e4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/51bc1927d4e4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/51bc1927d4e4.mp3",
+            "text": "innkokt",
+            "source": "generated",
+            "content_sha256": "390d31bd4c3ec67a5527d89e914f3592b746c48466f5dc747f1d798441355535",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er koke inn",
+      "translation": "that has been boiled down",
+      "examples": [
+        "melka var helt innkokt"
+      ]
+    }
+  ]
+}

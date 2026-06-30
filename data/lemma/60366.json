@@ -1,0 +1,87 @@
+{
+  "source_article_id": 60366,
+  "lemmas": [
+    {
+      "lemma": "terapeutisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 69033,
+      "is_sub_article": false,
+      "primary_translation": "therapeutic",
+      "word_forms": [
+        {
+          "word_form": "terapeutisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$rA$\"pE*u0$tI$sk",
+              "ipa": "tərɑˈpæ͡ʉtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "terapeutiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$rA$\"pE*u0$tI$sk@",
+              "ipa": "tərɑˈpæ͡ʉtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "09689b619000.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09689b619000.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09689b619000.mp3",
+            "text": "terapeutisk",
+            "source": "generated",
+            "content_sha256": "9f54c8f37937bf51008003770f22ca783178fa55de7f7bebcca7c628a0039306",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har med terapi å gjøre",
+      "translation": "relating to therapy",
+      "examples": [
+        "et terapeutisk opphold"
+      ]
+    },
+    {
+      "text": "som er helsebringende",
+      "translation": "health-promoting",
+      "examples": [
+        "ferien var nærmest terapeutisk"
+      ]
+    }
+  ]
+}

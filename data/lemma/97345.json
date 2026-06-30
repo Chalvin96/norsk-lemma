@@ -1,0 +1,91 @@
+{
+  "source_article_id": 97345,
+  "lemmas": [
+    {
+      "lemma": "lotto",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 121030,
+      "is_sub_article": false,
+      "primary_translation": "lotto",
+      "word_forms": [
+        {
+          "word_form": "lotto",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lO$tU",
+              "ipa": "ˈlɔtʊ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lottoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lottoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lottoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6074e97909c3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6074e97909c3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6074e97909c3.mp3",
+            "text": "lotto",
+            "source": "generated",
+            "content_sha256": "5bdcc3e4257fec33c714f6cf3ee6091c8730745ba01d4df16692549e9cdb8960",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pengespill der det gjelder å tippe en tallrekke som blir trukket ut",
+      "translation": "a money game where the goal is to guess a sequence of numbers that are drawn",
+      "examples": [
+        "spille lotto",
+        "vinne i lotto"
+      ]
+    }
+  ]
+}

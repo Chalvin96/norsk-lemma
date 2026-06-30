@@ -1,0 +1,111 @@
+{
+  "source_article_id": 5316,
+  "lemmas": [
+    {
+      "lemma": "berber",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 6273,
+      "is_sub_article": false,
+      "primary_translation": "Berber person",
+      "word_forms": [
+        {
+          "word_form": "berber",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b{r$b@r",
+              "ipa": "ˈbærbər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "berberen",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b{r$b@n`",
+              "ipa": "ˈbærbəɳ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "berbere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b{r$b@$r@",
+              "ipa": "ˈbærbərə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "berberne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b{r$b@$n`@",
+              "ipa": "ˈbærbəɳə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f4c4c316442d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4c4c316442d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4c4c316442d.mp3",
+            "text": "berber",
+            "source": "generated",
+            "content_sha256": "17d0a42e4b1ab59ab5a00c30fbbdc349da19148822bb4cc044aab533bae55eb9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person av den ikke-arabiske befolkningen i Nord-Afrika",
+      "translation": "person of the non-Arab population of North Africa",
+      "examples": [
+        "de fleste berberne er muslimer"
+      ]
+    }
+  ]
+}

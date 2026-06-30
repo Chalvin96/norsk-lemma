@@ -1,0 +1,80 @@
+{
+  "source_article_id": 56122,
+  "lemmas": [
+    {
+      "lemma": "spirantisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64601,
+      "is_sub_article": false,
+      "primary_translation": "spirantic / fricative",
+      "word_forms": [
+        {
+          "word_form": "spirantisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spI$\"rAn$tI$sk",
+              "ipa": "spɪˈrɑntɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "spirantiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spI$\"rAn$tI$sk@",
+              "ipa": "spɪˈrɑntɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "509f3cf1d53b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/509f3cf1d53b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/509f3cf1d53b.mp3",
+            "text": "spirantisk",
+            "source": "generated",
+            "content_sha256": "ad69261f1180664bbd8379dc8485524536822ab03d6bdb430c37e39394f58709",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder spirant",
+      "translation": "relating to a spirant",
+      "examples": [
+        "en spirantisk lyd"
+      ]
+    }
+  ]
+}

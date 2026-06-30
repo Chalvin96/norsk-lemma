@@ -1,0 +1,104 @@
+{
+  "source_article_id": 112890,
+  "lemmas": [
+    {
+      "lemma": "etterprøving",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 96171,
+      "is_sub_article": false,
+      "primary_translation": "post-hoc verification / testing",
+      "word_forms": [
+        {
+          "word_form": "etterprøving",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$t@r$%pr2:$vIN",
+              "ipa": "ˈɛtərˌprøːvɪŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "etterprøvingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "etterprøvinger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "etterprøvingene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "etterprøvinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "86b9d780e364.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/86b9d780e364.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/86b9d780e364.mp3",
+            "text": "etterprøving",
+            "source": "generated",
+            "content_sha256": "251c14bc949c08caec844ac3a9effeb97034461eb41903434026026399fd6a8c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "testing i ettertid for å kontrollere at noe fungerer i praksis, eller få bekreftet at noe stemmer",
+      "translation": "post-hoc testing to verify practical functionality or confirm accuracy",
+      "examples": [
+        "etterprøving av teorien",
+        "lettvinte påstander må bli gjenstand for etterprøving"
+      ]
+    }
+  ]
+}

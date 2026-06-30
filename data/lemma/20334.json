@@ -1,0 +1,94 @@
+{
+  "source_article_id": 20334,
+  "lemmas": [
+    {
+      "lemma": "glutenfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82538,
+      "is_sub_article": false,
+      "primary_translation": "gluten-free",
+      "word_forms": [
+        {
+          "word_form": "glutenfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gl}:$tn=$%fri:",
+              "ipa": "ˈglʉːtn̩ˌfrɪː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "glutenfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gl}:$tn=$%fri:$@",
+              "ipa": "ˈglʉːtn̩ˌfrɪːə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "glutenfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gl}:$tn=$%frIt",
+              "ipa": "ˈglʉːtn̩ˌfrɪt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e0410f57865a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e0410f57865a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e0410f57865a.mp3",
+            "text": "glutenfri",
+            "source": "generated",
+            "content_sha256": "0f49136dc8f0b218c397b3c8dc879df0bda12e237964a046b44449c21d41af3a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten gluten",
+      "translation": "without gluten",
+      "examples": [
+        "cøliakipasienter må ha glutenfri kost"
+      ]
+    }
+  ]
+}

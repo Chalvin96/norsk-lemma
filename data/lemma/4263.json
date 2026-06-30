@@ -1,0 +1,80 @@
+{
+  "source_article_id": 4263,
+  "lemmas": [
+    {
+      "lemma": "balkansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5052,
+      "is_sub_article": false,
+      "primary_translation": "Balkan",
+      "word_forms": [
+        {
+          "word_form": "balkansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAl$kAnsk",
+              "ipa": "ˈbɑlkɑnsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "balkanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAl$kAn$sk@",
+              "ipa": "ˈbɑlkɑnskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3bf9668699ac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3bf9668699ac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3bf9668699ac.mp3",
+            "text": "balkansk",
+            "source": "generated",
+            "content_sha256": "59bddeac226da4ee609101f9d9da95251b12941a54275cdbf0ce32ddf734cb26",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder landene på Balkanhalvøya",
+      "translation": "relating to the countries on the Balkan Peninsula",
+      "examples": [
+        "balkansk folkemusikk"
+      ]
+    }
+  ]
+}

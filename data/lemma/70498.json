@@ -1,0 +1,93 @@
+{
+  "source_article_id": 70498,
+  "lemmas": [
+    {
+      "lemma": "tabloid",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 158525,
+      "is_sub_article": false,
+      "primary_translation": "tabloid",
+      "word_forms": [
+        {
+          "word_form": "tabloid",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$blU$\"i:d",
+              "ipa": "tɑblʊˈɪːd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tabloide",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$blU$\"i:$d@",
+              "ipa": "tɑblʊˈɪːdə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e9ff5bf79023.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9ff5bf79023.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9ff5bf79023.mp3",
+            "text": "tabloid",
+            "source": "generated",
+            "content_sha256": "00a099d4cfc52fed8b9244ccddf2be6739d0a81d10d5f9225948e1137c091f8e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som utkommer i tabloidformat",
+      "translation": "published in tabloid format",
+      "examples": [
+        "tabloide aviser"
+      ]
+    },
+    {
+      "text": "som kjennetegner tabloidpresse",
+      "translation": "characteristic of tabloid press",
+      "examples": []
+    },
+    {
+      "text": "sensasjonspreget",
+      "translation": "sensational",
+      "examples": [
+        "tabloid journalistikk",
+        "tabloide og fordummende framstillinger"
+      ]
+    }
+  ]
+}

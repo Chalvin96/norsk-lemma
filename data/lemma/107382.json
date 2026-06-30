@@ -1,0 +1,86 @@
+{
+  "source_article_id": 107382,
+  "lemmas": [
+    {
+      "lemma": "agrar",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 160831,
+      "is_sub_article": false,
+      "primary_translation": "agrarian",
+      "word_forms": [
+        {
+          "word_form": "agrar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"grA:r",
+              "ipa": "ɑˈgrɑːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "agrare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "agrart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7cb3ef66b91f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7cb3ef66b91f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7cb3ef66b91f.mp3",
+            "text": "agrar",
+            "source": "generated",
+            "content_sha256": "9af5d7bef4787863dda9c514542b29bed26224be1ed6cc9865d6bec92ad31502",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder jordbruk og jordbrukere",
+      "translation": "concerning agriculture and farmers",
+      "examples": [
+        "agrar virksomhet",
+        "agrar økonomi",
+        "agrare samfunn",
+        "agrare interesser"
+      ]
+    }
+  ]
+}

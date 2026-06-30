@@ -1,0 +1,100 @@
+{
+  "source_article_id": 99141,
+  "lemmas": [
+    {
+      "lemma": "opioid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 158092,
+      "is_sub_article": false,
+      "primary_translation": "opioid (drug)",
+      "word_forms": [
+        {
+          "word_form": "opioid",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "opioidet",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "opioida",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "opioider",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$pI$U$\"i:$d@r",
+              "ipa": "ʊpɪʊˈɪːdər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "opioidene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "39424cac5f92.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39424cac5f92.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39424cac5f92.mp3",
+            "text": "opioid",
+            "source": "generated",
+            "content_sha256": "142f376227e10fec1be4b1d0815fc0214fd9c56d7f7689e26cac61d30bda8bf4"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "smertestillende middel som virker via sentralnervesystemet",
+      "translation": "pain-relieving drug that acts via the central nervous system",
+      "examples": [
+        "morfin og metadon er opioider"
+      ]
+    }
+  ]
+}

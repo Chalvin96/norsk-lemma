@@ -1,0 +1,102 @@
+{
+  "source_article_id": 3322,
+  "lemmas": [
+    {
+      "lemma": "autonom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3946,
+      "is_sub_article": false,
+      "primary_translation": "autonomous",
+      "word_forms": [
+        {
+          "word_form": "autonom",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$\"nu:m",
+              "ipa": "æ͡ʉtʊˈnuːm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "autonome",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$\"nu:$m@",
+              "ipa": "æ͡ʉtʊˈnuːmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "autonomt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$\"nu:mt",
+              "ipa": "æ͡ʉtʊˈnuːmt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "46e3e97b6639.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46e3e97b6639.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46e3e97b6639.mp3",
+            "text": "autonom",
+            "source": "generated",
+            "content_sha256": "c2c5ccbf4f7c2338ef037bd2fc32c898f010f52b92fbc4b5e8610136bd49ff57",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "selvstendig sjølstendig, selvstyrende",
+      "translation": "independent, self-governing",
+      "examples": []
+    },
+    {
+      "text": "fri, ubunden ubundet",
+      "translation": "free, unbound",
+      "examples": [
+        "en autonom stat"
+      ]
+    }
+  ]
+}

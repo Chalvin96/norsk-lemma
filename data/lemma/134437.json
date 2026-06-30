@@ -1,0 +1,82 @@
+{
+  "source_article_id": 134437,
+  "lemmas": [
+    {
+      "lemma": "varslingsstasjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 152771,
+      "is_sub_article": false,
+      "primary_translation": "warning station",
+      "word_forms": [
+        {
+          "word_form": "varslingsstasjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "varslingsstasjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "varslingsstasjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "varslingsstasjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b38cb0c3c07d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b38cb0c3c07d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b38cb0c3c07d.mp3",
+            "text": "varslingsstasjon",
+            "source": "generated",
+            "content_sha256": "b710b1bb17a491b60c7469d34bb5c3e41f53e1f28869e339bb80d900c95a7a53"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stasjon som sender ut varsling",
+      "translation": "station that sends out warnings",
+      "examples": [
+        "det sivile luftverns varslingsstasjon"
+      ]
+    }
+  ]
+}

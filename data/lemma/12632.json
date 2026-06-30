@@ -1,0 +1,98 @@
+{
+  "source_article_id": 12632,
+  "lemmas": [
+    {
+      "lemma": "endoterm",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14731,
+      "is_sub_article": false,
+      "primary_translation": "endothermic",
+      "word_forms": [
+        {
+          "word_form": "endoterm",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "En$dU$\"t{rm",
+              "ipa": "ɛndʊˈtærm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "endoterme",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "En$dU$\"t{r$m@",
+              "ipa": "ɛndʊˈtærmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "endotermt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "En$dU$\"t{rmt",
+              "ipa": "ɛndʊˈtærmt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ef62de1cb22d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef62de1cb22d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef62de1cb22d.mp3",
+            "text": "endoterm",
+            "source": "generated",
+            "content_sha256": "37b5f37d077af85ee87cfd71465c79812371141178ea39f33e6741d7b24e1614",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i kjemi: som absorberer varme",
+      "translation": "absorbing heat",
+      "examples": [
+        "endoterme prosesser",
+        "en endoterm reaksjon"
+      ]
+    }
+  ]
+}

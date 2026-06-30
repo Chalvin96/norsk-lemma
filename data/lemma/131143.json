@@ -1,0 +1,90 @@
+{
+  "source_article_id": 131143,
+  "lemmas": [
+    {
+      "lemma": "stuetemperatur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2875590,
+      "is_sub_article": false,
+      "primary_translation": "room temperature",
+      "word_forms": [
+        {
+          "word_form": "stuetemperatur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"st}:$@$t@m$p@$rA$%t}:r",
+              "ipa": "ˈstʉːətəmpərɑˌtʉːr",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "stuetemperaturen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "stuetemperaturer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "stuetemperaturene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "835dd1b599cd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/835dd1b599cd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/835dd1b599cd.mp3",
+            "text": "stuetemperatur",
+            "source": "generated",
+            "content_sha256": "45e40ea5caee71c7183ab122085eef8c0bdf466ee7640249f08fe64827b5ae8e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "temeratur innendørs",
+      "translation": "temperature indoors",
+      "examples": [
+        "stuetemperatur på 21 °C"
+      ]
+    }
+  ]
+}

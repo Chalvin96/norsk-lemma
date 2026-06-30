@@ -1,0 +1,97 @@
+{
+  "source_article_id": 119876,
+  "lemmas": [
+    {
+      "lemma": "småmynt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 140639,
+      "is_sub_article": false,
+      "primary_translation": "small change",
+      "word_forms": [
+        {
+          "word_form": "småmynt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%mYnt",
+              "ipa": "ˈsmoːˌmʏnt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "småmynten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "småmynter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%mYn$t@r",
+              "ipa": "ˈsmoːˌmʏntər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "småmyntene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "22566b3432e6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22566b3432e6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22566b3432e6.mp3",
+            "text": "småmynt",
+            "source": "generated",
+            "content_sha256": "6b271a1e4d7689df0b702063524ae1addc92ae291abf94284eb7a66cd6ada33d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mynt med liten verdi",
+      "translation": "coin of small value",
+      "examples": [
+        "ha småmynter i lomma"
+      ]
+    }
+  ]
+}

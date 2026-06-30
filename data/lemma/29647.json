@@ -1,0 +1,86 @@
+{
+  "source_article_id": 29647,
+  "lemmas": [
+    {
+      "lemma": "kjettersk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35022,
+      "is_sub_article": false,
+      "primary_translation": "heretical",
+      "word_forms": [
+        {
+          "word_form": "kjettersk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"CE$t@$s`k",
+              "ipa": "ˈçɛtəʂk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kjetterske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"CE$t@$s`k@",
+              "ipa": "ˈçɛtəʂkə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "396a5300718b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396a5300718b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396a5300718b.mp3",
+            "text": "kjettersk",
+            "source": "generated",
+            "content_sha256": "660907fb6ed65fa26807967de2639b62c1c1d081efb863a578bde8b5ba755236",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kjetter",
+      "translation": "relating to a heretic",
+      "examples": []
+    },
+    {
+      "text": "som er kjetteri",
+      "translation": "heretical",
+      "examples": [
+        "kjettersk lære",
+        "en kjettersk tanke"
+      ]
+    }
+  ]
+}

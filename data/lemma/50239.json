@@ -1,0 +1,81 @@
+{
+  "source_article_id": 50239,
+  "lemmas": [
+    {
+      "lemma": "satt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57628,
+      "is_sub_article": false,
+      "primary_translation": "sensible / mature",
+      "word_forms": [
+        {
+          "word_form": "satt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAt",
+              "ipa": "ˈsɑt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "satte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA$t@",
+              "ipa": "ˈsɑtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a6889e65843e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6889e65843e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6889e65843e.mp3",
+            "text": "satt",
+            "source": "generated",
+            "content_sha256": "5a9126a0f9ee910e7310ad13adff97ee5698241c0e418d8199fd9bafbb3d14dc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sindig, rolig og fast",
+      "translation": "sensible, calm, and steady",
+      "examples": [
+        "en satt kar",
+        "i satt alder"
+      ]
+    }
+  ]
+}

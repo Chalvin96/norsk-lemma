@@ -1,0 +1,80 @@
+{
+  "source_article_id": 26726,
+  "lemmas": [
+    {
+      "lemma": "innsvøpt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31822,
+      "is_sub_article": false,
+      "primary_translation": "wrapped up",
+      "word_forms": [
+        {
+          "word_form": "innsvøpt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%sv2:pt",
+              "ipa": "ˈɪnˌsvøːpt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innsvøpte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%sv2:p$t@",
+              "ipa": "ˈɪnˌsvøːptə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43bfd768d404.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43bfd768d404.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43bfd768d404.mp3",
+            "text": "innsvøpt",
+            "source": "generated",
+            "content_sha256": "a7b407dc188279a4d77de3486a4cd2c919fffedd8a9064fb6e31a20581be0a96",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er svøpt inn",
+      "translation": "wrapped up",
+      "examples": [
+        "barnet er innsvøpt i et laken"
+      ]
+    }
+  ]
+}

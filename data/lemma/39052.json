@@ -1,0 +1,87 @@
+{
+  "source_article_id": 39052,
+  "lemmas": [
+    {
+      "lemma": "morbid",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45801,
+      "is_sub_article": false,
+      "primary_translation": "morbid",
+      "word_forms": [
+        {
+          "word_form": "morbid",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mUr$\"bi:d",
+              "ipa": "mʊrˈbɪːd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morbide",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mUr$\"bi:$d@",
+              "ipa": "mʊrˈbɪːdə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8eef4c443302.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8eef4c443302.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8eef4c443302.mp3",
+            "text": "morbid",
+            "source": "generated",
+            "content_sha256": "df8d269467fc270f7607344d312ab84c324590c0c1345731a728e90c723026eb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som på en overdreven eller psykisk avvikende måte er opptatt av ulykke, sykdom eller død",
+      "translation": "one who is preoccupied with misfortune, illness, or death in an excessive or psychologically deviant way",
+      "examples": []
+    },
+    {
+      "text": "sykelig, usunn",
+      "translation": "morbid, unhealthy",
+      "examples": [
+        "en morbid trang",
+        "morbid humor",
+        "morbid fascinasjon"
+      ]
+    }
+  ]
+}

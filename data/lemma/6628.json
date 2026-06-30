@@ -1,0 +1,77 @@
+{
+  "source_article_id": 6628,
+  "lemmas": [
+    {
+      "lemma": "blyges",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 7798,
+      "is_sub_article": false,
+      "primary_translation": "to be shy / to feel shy",
+      "word_forms": [
+        {
+          "word_form": "blyges",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bly:$g@s",
+              "ipa": "ˈblyːgəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blygdes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a8045174a09a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a8045174a09a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a8045174a09a.mp3",
+            "text": "blyges",
+            "source": "generated",
+            "content_sha256": "4d24ce04028a8f6a1799ab08e44acca6ca4e6566f6ee4034731044fb0e47ebd0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "være eller bli blyg",
+      "translation": "to be or become shy",
+      "examples": []
+    },
+    {
+      "text": "sjenere seg",
+      "translation": "to feel shy",
+      "examples": [
+        "blyges for andre",
+        "blyges ved å be om hjelp"
+      ]
+    }
+  ]
+}

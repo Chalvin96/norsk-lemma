@@ -1,0 +1,93 @@
+{
+  "source_article_id": 31335,
+  "lemmas": [
+    {
+      "lemma": "konstant",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 36864,
+      "is_sub_article": false,
+      "primary_translation": "constant / always",
+      "word_forms": [
+        {
+          "word_form": "konstant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"stAnt",
+              "ipa": "kʊnˈstɑnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "konstante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"stAn$t@",
+              "ipa": "kʊnˈstɑntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a4635dd96463.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4635dd96463.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4635dd96463.mp3",
+            "text": "konstant",
+            "source": "generated",
+            "content_sha256": "ee2c338a70e4748e2322d997c7aba68d7ffcb4221d1316818c2f5699bf535486",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke forandrer seg",
+      "translation": "that does not change",
+      "examples": []
+    },
+    {
+      "text": "fast, stadig",
+      "translation": "fixed, steady",
+      "examples": [
+        "holde temperatur og trykk konstant",
+        "være en konstant plage"
+      ]
+    },
+    {
+      "text": "brukt som adverb: alltid, stadig",
+      "translation": "used as an adverb: always, constantly",
+      "examples": [
+        "han var konstant sulten"
+      ]
+    }
+  ]
+}

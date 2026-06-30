@@ -1,0 +1,104 @@
+{
+  "source_article_id": 46743,
+  "lemmas": [
+    {
+      "lemma": "prøvet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 53777,
+      "is_sub_article": false,
+      "primary_translation": "tested / experienced adversity",
+      "word_forms": [
+        {
+          "word_form": "prøvet",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pr2:$v@t",
+              "ipa": "ˈprøːvət",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prøvete",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pr2:$v@$t@",
+              "ipa": "ˈprøːvətə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prøvede",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pr2:$v@$d@",
+              "ipa": "ˈprøːvədə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9591b6d144ed.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9591b6d144ed.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9591b6d144ed.mp3",
+            "text": "prøvet",
+            "source": "generated",
+            "content_sha256": "b26f4b57f9b89290cced1dda5fd31a21ca636000add5f13d30182deab7c4d874",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har hatt mye motgang",
+      "translation": "having experienced much adversity",
+      "examples": []
+    },
+    {
+      "text": "jamfør prøve",
+      "translation": "tested",
+      "examples": [
+        "en prøvet mann",
+        "hardt prøvede letemannskaper fikk endelig hvile"
+      ]
+    }
+  ]
+}

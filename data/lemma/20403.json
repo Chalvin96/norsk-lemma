@@ -1,0 +1,91 @@
+{
+  "source_article_id": 20403,
+  "lemmas": [
+    {
+      "lemma": "gnistregn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 23837,
+      "is_sub_article": false,
+      "primary_translation": "spark shower",
+      "word_forms": [
+        {
+          "word_form": "gnistregn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gnI$%str{*In",
+              "ipa": "ˈgnɪˌstræ͡ɪn",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gnistregnet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "gnistregna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "gnistregnene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d069db2888a2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d069db2888a2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d069db2888a2.mp3",
+            "text": "gnistregn",
+            "source": "generated",
+            "content_sha256": "db93ec0c9ac34675187c7ba58dd22f4d4c0e9c7bc683264c15f8c8be2a43edbd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "regn av gnist",
+      "translation": "rain of sparks",
+      "examples": [
+        "gnistregnet antente huset"
+      ]
+    }
+  ]
+}

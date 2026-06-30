@@ -1,0 +1,81 @@
+{
+  "source_article_id": 14540,
+  "lemmas": [
+    {
+      "lemma": "fiendsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 16844,
+      "is_sub_article": false,
+      "primary_translation": "hostile",
+      "word_forms": [
+        {
+          "word_form": "fiendsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fi:$@nsk",
+              "ipa": "ˈfɪːənsk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fiendske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fi:$@n$sk@",
+              "ipa": "ˈfɪːənskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a2ef3be4a097.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2ef3be4a097.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2ef3be4a097.mp3",
+            "text": "fiendsk",
+            "source": "generated",
+            "content_sha256": "274cad395863dfc617e9f5d62d53da0eb9b32a2ed424c8108594f39ca8ff5092",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uvennlig, hatefull, fiendtlig",
+      "translation": "unfriendly, hateful, hostile",
+      "examples": [
+        "sende noen et fiendsk blikk",
+        "ha et fiendsk sinnelag"
+      ]
+    }
+  ]
+}

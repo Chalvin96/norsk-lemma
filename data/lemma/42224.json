@@ -1,0 +1,78 @@
+{
+  "source_article_id": 42224,
+  "lemmas": [
+    {
+      "lemma": "omspunnet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49329,
+      "is_sub_article": false,
+      "primary_translation": "surrounded",
+      "word_forms": [
+        {
+          "word_form": "omspunnet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Om$%spu0$n@t",
+              "ipa": "ˈɔmˌspʉnət",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "omspunne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Om$%spu0$n@",
+              "ipa": "ˈɔmˌspʉnə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "940a2d160910.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/940a2d160910.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/940a2d160910.mp3",
+            "text": "omspunnet",
+            "source": "generated",
+            "content_sha256": "cdf45649986ef83633948138cd3fdbe677598d2d041f9ae5f1e5928608efb3e8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er omgitt av noe",
+      "translation": "surrounded by something",
+      "examples": [
+        "stedet er omspunnet av sagn og mystikk"
+      ]
+    }
+  ]
+}

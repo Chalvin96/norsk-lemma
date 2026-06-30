@@ -1,0 +1,86 @@
+{
+  "source_article_id": 53625,
+  "lemmas": [
+    {
+      "lemma": "skrittvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 61800,
+      "is_sub_article": false,
+      "primary_translation": "step-by-step / gradual",
+      "word_forms": [
+        {
+          "word_form": "skrittvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skrI$%tvi:s",
+              "ipa": "ˈskrɪˌtvɪːs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skrittvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skrI$%tvi:$s@",
+              "ipa": "ˈskrɪˌtvɪːsə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6878ae9cf0ca.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6878ae9cf0ca.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6878ae9cf0ca.mp3",
+            "text": "skrittvis",
+            "source": "generated",
+            "content_sha256": "a38d031238e923e414d2bf199958c50901f1be17e39e5b024120087e2ce312d3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som skjer skritt for skritt",
+      "translation": "happening step by step",
+      "examples": []
+    },
+    {
+      "text": "som utvikler seg jevnt",
+      "translation": "developing steadily",
+      "examples": [
+        "en skrittvis utvikling",
+        "gå skrittvis fremover"
+      ]
+    }
+  ]
+}

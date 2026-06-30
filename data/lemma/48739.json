@@ -1,0 +1,86 @@
+{
+  "source_article_id": 48739,
+  "lemmas": [
+    {
+      "lemma": "robust",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 55972,
+      "is_sub_article": false,
+      "primary_translation": "robust / strong",
+      "word_forms": [
+        {
+          "word_form": "robust",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rU$\"bu0$st",
+              "ipa": "rʊˈbʉst",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "robuste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rU$\"bu0$st@",
+              "ipa": "rʊˈbʉstə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7847ae9c3438.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7847ae9c3438.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7847ae9c3438.mp3",
+            "text": "robust",
+            "source": "generated",
+            "content_sha256": "ab4c4d73517ad5d6c1dc029bcec92ec868d6ef1856679ed2ee87ebc07ecdd8af",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er kraftig og tåler mye",
+      "translation": "being strong and able to withstand a lot",
+      "examples": []
+    },
+    {
+      "text": "sterk, kraftig, hardfør",
+      "translation": "strong, powerful, hardy",
+      "examples": [
+        "en robust bil",
+        "robuste barn"
+      ]
+    }
+  ]
+}

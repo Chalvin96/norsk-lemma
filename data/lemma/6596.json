@@ -1,0 +1,104 @@
+{
+  "source_article_id": 6596,
+  "lemmas": [
+    {
+      "lemma": "blues",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7768,
+      "is_sub_article": false,
+      "primary_translation": "blues music / melody",
+      "word_forms": [
+        {
+          "word_form": "blues",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bl}:s",
+              "ipa": "ˈblʉːs",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bluesen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bl}:$sn=",
+              "ipa": "ˈblʉːsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bluesene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bl}:$sn=$@",
+              "ipa": "ˈblʉːsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "18acbfa0249b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18acbfa0249b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18acbfa0249b.mp3",
+            "text": "blues",
+            "source": "generated",
+            "content_sha256": "60942e4f959603f6a401a537fa8cb906ccb6bc8a7556c9d53c63aa7fe7f69311",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "musikksjanger med melankolske tekster og bruk av blå tone",
+      "translation": "music genre with melancholic lyrics and use of blue notes",
+      "examples": [
+        "akustisk blues",
+        "elektrisk blues",
+        "bluesen oppstod på landsbygda i de amerikanske sørstatene"
+      ]
+    },
+    {
+      "text": "melodi i sjangeren blues",
+      "translation": "melody in the blues genre",
+      "examples": [
+        "spille en blues"
+      ]
+    }
+  ]
+}

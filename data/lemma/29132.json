@@ -1,0 +1,80 @@
+{
+  "source_article_id": 29132,
+  "lemmas": [
+    {
+      "lemma": "keltisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 34409,
+      "is_sub_article": false,
+      "primary_translation": "Celtic",
+      "word_forms": [
+        {
+          "word_form": "keltisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kEl$tI$sk",
+              "ipa": "ˈkɛltɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "keltiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kEl$tI$sk@",
+              "ipa": "ˈkɛltɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f6ede4b3fc1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f6ede4b3fc1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f6ede4b3fc1.mp3",
+            "text": "keltisk",
+            "source": "generated",
+            "content_sha256": "35d7b4ebfecf13c6b953365dd1eb223cd1debaf0beb6196b1526a529f271f0c2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kelter",
+      "translation": "concerning the Celts",
+      "examples": [
+        "keltisk språk"
+      ]
+    }
+  ]
+}

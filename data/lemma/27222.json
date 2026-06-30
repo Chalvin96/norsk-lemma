@@ -1,0 +1,95 @@
+{
+  "source_article_id": 27222,
+  "lemmas": [
+    {
+      "lemma": "isfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82709,
+      "is_sub_article": false,
+      "primary_translation": "ice-free",
+      "word_forms": [
+        {
+          "word_form": "isfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"i:s$%fri:",
+              "ipa": "ˈɪːsˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "isfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"i:s$%fri:$@",
+              "ipa": "ˈɪːsˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "isfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"i:s$%frIt",
+              "ipa": "ˈɪːsˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1781e4d05669.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1781e4d05669.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1781e4d05669.mp3",
+            "text": "isfri",
+            "source": "generated",
+            "content_sha256": "b2fdf22846e7429d0e489b0afe5c009d40e03bb7789b4a9252a4334d2f11f908",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fri for is",
+      "translation": "free of ice",
+      "examples": [
+        "isfrie havner",
+        "fjorden blir som regel isfri i april"
+      ]
+    }
+  ]
+}

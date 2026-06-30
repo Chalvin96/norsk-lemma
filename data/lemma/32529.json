@@ -1,0 +1,104 @@
+{
+  "source_article_id": 32529,
+  "lemmas": [
+    {
+      "lemma": "krål",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 38133,
+      "is_sub_article": false,
+      "primary_translation": "crawling",
+      "word_forms": [
+        {
+          "word_form": "krål",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kro:l",
+              "ipa": "ˈkroːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "krålen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kro:$ln=",
+              "ipa": "ˈkroːln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kråler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kro:$l@r",
+              "ipa": "ˈkroːlər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "krålene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0797e49ddfce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0797e49ddfce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0797e49ddfce.mp3",
+            "text": "krål",
+            "source": "generated",
+            "content_sha256": "2e1b978787196f84f67ce564cd9d273f2d92f005de46074f32a9f81b97be5310",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å kråle",
+      "translation": "the act of crawling",
+      "examples": [
+        "de trente på både krål og brystsvømming"
+      ]
+    }
+  ]
+}

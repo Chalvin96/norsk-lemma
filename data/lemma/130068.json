@@ -1,0 +1,81 @@
+{
+  "source_article_id": 130068,
+  "lemmas": [
+    {
+      "lemma": "stedt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2100497,
+      "is_sub_article": false,
+      "primary_translation": "placed",
+      "word_forms": [
+        {
+          "word_form": "stedt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stEt",
+              "ipa": "ˈstɛt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "stedte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stE$t@",
+              "ipa": "ˈstɛtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f6ac6d22d688.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f6ac6d22d688.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f6ac6d22d688.mp3",
+            "text": "stedt",
+            "source": "generated",
+            "content_sha256": "8fa8b5fc7904d418514199fe4bf3a9b1376525076f3a64710fd09c4f91596f43",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er brakt i en bestemt tilstand",
+      "translation": "having been brought into a particular state",
+      "examples": [
+        "hun var ille stedt",
+        "de var verre stedt enn oss"
+      ]
+    }
+  ]
+}

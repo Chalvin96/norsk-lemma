@@ -1,0 +1,80 @@
+{
+  "source_article_id": 97142,
+  "lemmas": [
+    {
+      "lemma": "euforisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 96232,
+      "is_sub_article": false,
+      "primary_translation": "euphoric",
+      "word_forms": [
+        {
+          "word_form": "euforisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$\"fu:$rI$sk",
+              "ipa": "æ͡ʉˈfuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "euforiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$\"fu:$rI$sk@",
+              "ipa": "æ͡ʉˈfuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0fc667587603.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0fc667587603.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0fc667587603.mp3",
+            "text": "euforisk",
+            "source": "generated",
+            "content_sha256": "c28fd73b0a062bdf3460846e0d793679a68668c71af7f7ba3ae75776bec27c7e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er preget av eufori",
+      "translation": "characterized by euphoria",
+      "examples": [
+        "stemningen etter seieren var nærmest euforisk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_article_id": 13538,
+  "lemmas": [
+    {
+      "lemma": "fabrikkny",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15731,
+      "is_sub_article": false,
+      "primary_translation": "factory new",
+      "word_forms": [
+        {
+          "word_form": "fabrikkny",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brI$%kny:",
+              "ipa": "fɑˈbrɪˌknyː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fabrikknye",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brI$%kny:$@",
+              "ipa": "fɑˈbrɪˌknyːə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fabrikknytt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brI$%knYt",
+              "ipa": "fɑˈbrɪˌknʏt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "93c84086dcb1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93c84086dcb1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93c84086dcb1.mp3",
+            "text": "fabrikkny",
+            "source": "generated",
+            "content_sha256": "04adfb12f7a595cd2a2f6e9405218d9dcc5be0ea2ade409d46a4963a6284a64a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ny og ubrukt direkte fra fabrikk",
+      "translation": "new and unused directly from the factory",
+      "examples": [
+        "fabrikknye biler"
+      ]
+    }
+  ]
+}

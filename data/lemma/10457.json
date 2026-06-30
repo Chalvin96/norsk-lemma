@@ -1,0 +1,114 @@
+{
+  "source_article_id": 10457,
+  "lemmas": [
+    {
+      "lemma": "d-moll",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10706,
+      "is_sub_article": false,
+      "primary_translation": "D minor",
+      "word_forms": [
+        {
+          "word_form": "d-moll",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"de:$%mOl",
+              "ipa": "ˈdeːˌmɔl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "d-mollen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"de:$%mO$ln=",
+              "ipa": "ˈdeːˌmɔln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "d-moller",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"de:$%mO$l@r",
+              "ipa": "ˈdeːˌmɔlər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "d-mollene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"de:$%mO$ln=$@",
+              "ipa": "ˈdeːˌmɔln̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "72464d52d063.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/72464d52d063.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/72464d52d063.mp3",
+            "text": "d-moll",
+            "source": "generated",
+            "content_sha256": "3ad9460294f67d3f1a346834922651f2216d26deab42f836ea886a387655b61e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "toneart med D d til grunntone og B b for h",
+      "translation": "key with D as the tonic and B flat as the leading tone",
+      "examples": []
+    },
+    {
+      "text": "parallelltoneart til F-dur",
+      "translation": "relative minor key to F major",
+      "examples": []
+    }
+  ]
+}

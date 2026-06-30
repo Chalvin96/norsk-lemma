@@ -1,0 +1,102 @@
+{
+  "source_article_id": 20560,
+  "lemmas": [
+    {
+      "lemma": "gotikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 24010,
+      "is_sub_article": false,
+      "primary_translation": "Gothic style",
+      "word_forms": [
+        {
+          "word_form": "gotikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gU$\"tIk",
+              "ipa": "gʊˈtɪk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gotikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gU$\"tI$k@n",
+              "ipa": "gʊˈtɪkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "gotikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "gotikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c44602d9cca3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c44602d9cca3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c44602d9cca3.mp3",
+            "text": "gotikk",
+            "source": "generated",
+            "content_sha256": "25e245f0f7a66991d7ece19f4baab32fa343c11fd49b4a3cfa7ba4e9b81f1e68",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stilperiode i senmiddelalderen",
+      "translation": "style period in the late Middle Ages",
+      "examples": []
+    },
+    {
+      "text": "jamfør gotisk stil",
+      "translation": "Gothic style",
+      "examples": [
+        "en bygning fra gotikken"
+      ]
+    }
+  ]
+}

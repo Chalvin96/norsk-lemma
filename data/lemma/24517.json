@@ -1,0 +1,116 @@
+{
+  "source_article_id": 24517,
+  "lemmas": [
+    {
+      "lemma": "humør",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 28921,
+      "is_sub_article": false,
+      "primary_translation": "mood",
+      "word_forms": [
+        {
+          "word_form": "humør",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hu0$\"m2:r",
+              "ipa": "hʉˈmøːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "humøret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hu0$\"m2:$r@",
+              "ipa": "hʉˈmøːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "humøra",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "humørene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cfb60aa0bdf5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cfb60aa0bdf5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cfb60aa0bdf5.mp3",
+            "text": "humør",
+            "source": "generated",
+            "content_sha256": "b1ced776ef06d3b26cdc0535c1ece883ccb891b232d654ee269ebbebc602eb7b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sinnsstemning, lune",
+      "translation": "state of mind, mood",
+      "examples": [
+        "være i dårlig humør",
+        "være i strålende humør",
+        "humøret var på topp"
+      ]
+    },
+    {
+      "text": "sinn, gemytt",
+      "translation": "mind, disposition",
+      "examples": [
+        "ha et lyst humør"
+      ]
+    },
+    {
+      "text": "lys sinnsstemning, godt lune",
+      "translation": "cheerful state of mind, good mood",
+      "examples": [
+        "være ute av humør",
+        "miste helt humøret",
+        "ta motgangen med humør"
+      ]
+    }
+  ]
+}

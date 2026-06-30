@@ -1,0 +1,80 @@
+{
+  "source_article_id": 65270,
+  "lemmas": [
+    {
+      "lemma": "utett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74845,
+      "is_sub_article": false,
+      "primary_translation": "leaky",
+      "word_forms": [
+        {
+          "word_form": "utett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%tEt",
+              "ipa": "ˈʉːˌtɛt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "utette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%tE$t@",
+              "ipa": "ˈʉːˌtɛtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d3bb1f37da35.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d3bb1f37da35.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d3bb1f37da35.mp3",
+            "text": "utett",
+            "source": "generated",
+            "content_sha256": "0dd9aecfa5674d26702e929a59c7e550ac0dc78c4d608a5039a9bc633c6ba6d7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke tett",
+      "translation": "not tight",
+      "examples": [
+        "båten er utett"
+      ]
+    }
+  ]
+}

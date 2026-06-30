@@ -1,0 +1,73 @@
+{
+  "source_article_id": 135153,
+  "lemmas": [
+    {
+      "lemma": "vinterstengt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 154358,
+      "is_sub_article": false,
+      "primary_translation": "closed in winter",
+      "word_forms": [
+        {
+          "word_form": "vinterstengt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$t@s`$%t`ENt",
+              "ipa": "ˈvɪntəʂˌʈɛŋt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vinterstengte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f4265e0c4d2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f4265e0c4d2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f4265e0c4d2.mp3",
+            "text": "vinterstengt",
+            "source": "generated",
+            "content_sha256": "7ef98c01fac5bf730fec1596a2407cc34eff11435b7570cc4f9a1be257d8813c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er stengt om vinteren",
+      "translation": "closed during winter",
+      "examples": [
+        "vinterstengte veier"
+      ]
+    }
+  ]
+}

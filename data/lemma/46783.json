@@ -1,0 +1,86 @@
+{
+  "source_article_id": 46783,
+  "lemmas": [
+    {
+      "lemma": "psykosomatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 53820,
+      "is_sub_article": false,
+      "primary_translation": "psychosomatic",
+      "word_forms": [
+        {
+          "word_form": "psykosomatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sY$kU$sU$%mA:$tI$sk",
+              "ipa": "ˈsʏkʊsʊˌmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "psykosomatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sY$kU$sU$%mA:$tI$sk@",
+              "ipa": "ˈsʏkʊsʊˌmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "46bfb061c504.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46bfb061c504.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46bfb061c504.mp3",
+            "text": "psykosomatisk",
+            "source": "generated",
+            "content_sha256": "89faaac4bac3406eeef9ac6ac0e36a6bef8a31cc67086905678dc43369bd86f7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder samspillet mellom kropp og sinn",
+      "translation": "relating to the interaction between body and mind",
+      "examples": []
+    },
+    {
+      "text": "med fysiske symptomer som delvis har en psykisk årsak",
+      "translation": "with physical symptoms that are partly of psychological origin",
+      "examples": [
+        "psykosomatisk sykdom",
+        "psykosomatiske symptomer"
+      ]
+    }
+  ]
+}

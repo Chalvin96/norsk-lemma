@@ -1,0 +1,111 @@
+{
+  "source_article_id": 29166,
+  "lemmas": [
+    {
+      "lemma": "kiasme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 34445,
+      "is_sub_article": false,
+      "primary_translation": "chiasmus",
+      "word_forms": [
+        {
+          "word_form": "kiasme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kI$\"\"A$sm@",
+              "ipa": "kɪˈɑsmə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kiasmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kI$\"\"A$sm@n",
+              "ipa": "kɪˈɑsmən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kiasmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kI$\"\"A$sm@r",
+              "ipa": "kɪˈɑsmər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kiasmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kI$\"\"A$sm@$n@",
+              "ipa": "kɪˈɑsmənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d80097f4aa4c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d80097f4aa4c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d80097f4aa4c.mp3",
+            "text": "kiasme",
+            "source": "generated",
+            "content_sha256": "d029b709e3137b1a380c01546ae8294a77c6dc3b29be80661635eeaa0c8fae33",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "retorisk figur der tilsvarende setningsledd står i omvendt rekkefølge i to setninger eller ledd som følger på hverandre",
+      "translation": "rhetorical figure in which corresponding sentence elements are in reverse order in two successive clauses",
+      "examples": [
+        "‘Marit løper fort, men fortere løper Elsa’ er en kiasme"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_article_id": 136343,
+  "lemmas": [
+    {
+      "lemma": "teletrafikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2162055,
+      "is_sub_article": false,
+      "primary_translation": "telephony traffic",
+      "word_forms": [
+        {
+          "word_form": "teletrafikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$trA$%fIk",
+              "ipa": "ˈteːlətrɑˌfɪk",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "teletrafikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$trA$%fI$k@n",
+              "ipa": "ˈteːlətrɑˌfɪkən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "teletrafikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "teletrafikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3dd731be4d85.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3dd731be4d85.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3dd731be4d85.mp3",
+            "text": "teletrafikk",
+            "source": "generated",
+            "content_sha256": "f4fb561528f351f146d3ab972bb98587bbc94401cd1806b397be7fb90b997b3f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "trafikk av telefonsamtaler, tekstmeldinger og andre data sendt over telenett",
+      "translation": "traffic of telephone calls, text messages, and other data sent over telephone networks",
+      "examples": []
+    }
+  ]
+}

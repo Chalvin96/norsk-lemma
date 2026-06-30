@@ -1,0 +1,80 @@
+{
+  "source_article_id": 106567,
+  "lemmas": [
+    {
+      "lemma": "NRK-kanal",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160208,
+      "is_sub_article": false,
+      "primary_translation": "NRK channel",
+      "word_forms": [
+        {
+          "word_form": "NRK-kanal",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "NRK-kanalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "NRK-kanaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "NRK-kanalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bd2c3b2cebdd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bd2c3b2cebdd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bd2c3b2cebdd.mp3",
+            "text": "NRK-kanal",
+            "source": "generated",
+            "content_sha256": "4aa2e8e607aadfe64058ee863917924f8a9d6a624e7baba734a54a552dd9e848"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kanal i NRK med eget programtilbud",
+      "translation": "channel in NRK with its own program offering",
+      "examples": []
+    }
+  ]
+}

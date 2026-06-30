@@ -1,0 +1,80 @@
+{
+  "source_article_id": 10857,
+  "lemmas": [
+    {
+      "lemma": "driftsmessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12689,
+      "is_sub_article": false,
+      "primary_translation": "operational",
+      "word_forms": [
+        {
+          "word_form": "driftsmessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drIft$%smE$sI",
+              "ipa": "ˈdrɪftˌsmɛsɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "driftsmessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drIft$%smE$sI$@",
+              "ipa": "ˈdrɪftˌsmɛsɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c01343b1618e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c01343b1618e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c01343b1618e.mp3",
+            "text": "driftsmessig",
+            "source": "generated",
+            "content_sha256": "26a1f9b256dea820a5c142b7355867a9695c11f9195507a4bcdb62662802f898",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder drift",
+      "translation": "relating to operation",
+      "examples": [
+        "en driftsmessig forbedring"
+      ]
+    }
+  ]
+}

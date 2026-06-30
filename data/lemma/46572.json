@@ -1,0 +1,97 @@
+{
+  "source_article_id": 46572,
+  "lemmas": [
+    {
+      "lemma": "prosentuell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 53600,
+      "is_sub_article": false,
+      "primary_translation": "percentual",
+      "word_forms": [
+        {
+          "word_form": "prosentuell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$s@n$tu0$\"El",
+              "ipa": "prʊsəntʉˈɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prosentuelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$s@n$tu0$\"E$l@",
+              "ipa": "prʊsəntʉˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prosentuelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$s@n$tu0$\"Elt",
+              "ipa": "prʊsəntʉˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f1fd89d5c72.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f1fd89d5c72.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f1fd89d5c72.mp3",
+            "text": "prosentuell",
+            "source": "generated",
+            "content_sha256": "9fa41b378875185b1a5a5b3697db5459df36199b3baf441f08c64e76d3ff39f3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "regnet i prosent",
+      "translation": "calculated in percent",
+      "examples": []
+    },
+    {
+      "text": "prosentisk, prosentvis",
+      "translation": "percental, pertaining to percent",
+      "examples": []
+    }
+  ]
+}

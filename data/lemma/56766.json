@@ -1,0 +1,78 @@
+{
+  "source_article_id": 56766,
+  "lemmas": [
+    {
+      "lemma": "statsdrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 65278,
+      "is_sub_article": false,
+      "primary_translation": "state-run",
+      "word_forms": [
+        {
+          "word_form": "statsdrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stA:t$%sdre:$v@t",
+              "ipa": "ˈstɑːtˌsdreːvət",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "statsdrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stA:t$%sdrEv$n@",
+              "ipa": "ˈstɑːtˌsdrɛvnə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d53a5dd8605a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d53a5dd8605a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d53a5dd8605a.mp3",
+            "text": "statsdrevet",
+            "source": "generated",
+            "content_sha256": "e28de9d6c3c06f3bcee04e1d085ea252e5d71dcfab841fb398c00bd6bc34464f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som drives (og eies) av staten",
+      "translation": "operated (and owned) by the state",
+      "examples": [
+        "statsdrevet jernbane"
+      ]
+    }
+  ]
+}

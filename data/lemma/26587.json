@@ -1,0 +1,81 @@
+{
+  "source_article_id": 26587,
+  "lemmas": [
+    {
+      "lemma": "innmeldt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31649,
+      "is_sub_article": false,
+      "primary_translation": "registered",
+      "word_forms": [
+        {
+          "word_form": "innmeldt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%mElt",
+              "ipa": "ˈɪnˌmɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "innmeldte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%mEl$t@",
+              "ipa": "ˈɪnˌmɛltə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "714e3454ca5e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/714e3454ca5e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/714e3454ca5e.mp3",
+            "text": "innmeldt",
+            "source": "generated",
+            "content_sha256": "8fec435a6471619624c361d959378c98620e3a73eaa280fa3cdd1795b11cf2be",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er meldt inn (i organisasjon eller lignende)",
+      "translation": "having been registered (in an organization)",
+      "examples": [
+        "foreningen har 163 innmeldte medlemmer",
+        "være innmeldt i partiet"
+      ]
+    }
+  ]
+}

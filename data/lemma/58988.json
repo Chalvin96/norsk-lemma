@@ -1,0 +1,80 @@
+{
+  "source_article_id": 58988,
+  "lemmas": [
+    {
+      "lemma": "syllabisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67557,
+      "is_sub_article": false,
+      "primary_translation": "syllabic",
+      "word_forms": [
+        {
+          "word_form": "syllabisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sY$\"lA:$bI$sk",
+              "ipa": "sʏˈlɑːbɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "syllabiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sY$\"lA:$bI$sk@",
+              "ipa": "sʏˈlɑːbɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "85e3fe494800.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85e3fe494800.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85e3fe494800.mp3",
+            "text": "syllabisk",
+            "source": "generated",
+            "content_sha256": "6ab32628603595e7331176353516d7103c089b456d80cff0e929b1d437d8b665",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som danner en egen stavelse",
+      "translation": "",
+      "examples": [
+        "i uttalen ‘hest’n’ av ordet ‘hesten’ er ‘n’ syllabisk"
+      ]
+    }
+  ]
+}

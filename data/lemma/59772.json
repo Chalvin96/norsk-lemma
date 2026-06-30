@@ -1,0 +1,104 @@
+{
+  "source_article_id": 59772,
+  "lemmas": [
+    {
+      "lemma": "tander",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68421,
+      "is_sub_article": false,
+      "primary_translation": "delicate / frail",
+      "word_forms": [
+        {
+          "word_form": "tander",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAn$d@r",
+              "ipa": "ˈtɑndər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tandre",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tAn$dr@",
+              "ipa": "ˈtɑndrə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tandert",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tAn$\"de:t`",
+              "ipa": "tɑnˈdeːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ec5a260f151f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec5a260f151f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec5a260f151f.mp3",
+            "text": "tander",
+            "source": "generated",
+            "content_sha256": "b17bef44fdde340844c4c6418dcf1fa114a41243629f1f094b1d347c72a4154b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som tåler lite",
+      "translation": "that tolerates little",
+      "examples": []
+    },
+    {
+      "text": "sart, sped",
+      "translation": "delicate, frail",
+      "examples": [
+        "se tander og svak ut",
+        "tander hud",
+        "en tander person"
+      ]
+    }
+  ]
+}

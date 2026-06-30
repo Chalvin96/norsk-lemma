@@ -1,0 +1,90 @@
+{
+  "source_article_id": 27300,
+  "lemmas": [
+    {
+      "lemma": "isometrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32408,
+      "is_sub_article": false,
+      "primary_translation": "isometric / static",
+      "word_forms": [
+        {
+          "word_form": "isometrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$sU$\"me:$trI$sk",
+              "ipa": "ɪsʊˈmeːtrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "isometriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$sU$\"me:$trI$sk@",
+              "ipa": "ɪsʊˈmeːtrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "15e5a9a863ff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15e5a9a863ff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15e5a9a863ff.mp3",
+            "text": "isometrisk",
+            "source": "generated",
+            "content_sha256": "96aaae223000b722355a2e996e3b4226165a8faa100de1d573b52010765ee7ef",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som måles med samme mål",
+      "translation": "measured with the same measure",
+      "examples": []
+    },
+    {
+      "text": "i samme målestokk",
+      "translation": "on the same scale",
+      "examples": []
+    },
+    {
+      "text": "om muskelarbeid: som foregår med konstant muskellengde",
+      "translation": "regarding muscle work: occurring with constant muscle length",
+      "examples": [
+        "isometrisk trening"
+      ]
+    }
+  ]
+}

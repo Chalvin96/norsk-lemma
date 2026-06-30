@@ -1,0 +1,82 @@
+{
+  "source_article_id": 2758,
+  "lemmas": [
+    {
+      "lemma": "arrogant",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3302,
+      "is_sub_article": false,
+      "primary_translation": "arrogant",
+      "word_forms": [
+        {
+          "word_form": "arrogant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$rU$\"gAnt",
+              "ipa": "ɑrʊˈgɑnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "arrogante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$rU$\"gAn$t@",
+              "ipa": "ɑrʊˈgɑntə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6d3a643dcfa8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6d3a643dcfa8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6d3a643dcfa8.mp3",
+            "text": "arrogant",
+            "source": "generated",
+            "content_sha256": "2a73c41364eed53ede936173564a7cf1d6f6f5a7b7548a9fd8f65a4fa3919faf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hovmodig, hoven",
+      "translation": "haughty, conceited",
+      "examples": [
+        "et arrogant svar",
+        "arrogant opptreden",
+        "en arrogant fyr"
+      ]
+    }
+  ]
+}

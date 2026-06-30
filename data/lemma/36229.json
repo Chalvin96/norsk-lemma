@@ -1,0 +1,81 @@
+{
+  "source_article_id": 36229,
+  "lemmas": [
+    {
+      "lemma": "lydtett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42056,
+      "is_sub_article": false,
+      "primary_translation": "soundproof",
+      "word_forms": [
+        {
+          "word_form": "lydtett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$%tEt",
+              "ipa": "ˈlyːdˌtɛt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lydtette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$%tE$t@",
+              "ipa": "ˈlyːdˌtɛtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9ecc7094af10.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ecc7094af10.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ecc7094af10.mp3",
+            "text": "lydtett",
+            "source": "generated",
+            "content_sha256": "9e04c5021abf3b2120fac83903de992e138b41c4f45c35f376513851201133c5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ugjennomtrengelig for lyd",
+      "translation": "impermeable to sound",
+      "examples": [
+        "lydtette vegger",
+        "et lydtett rom"
+      ]
+    }
+  ]
+}

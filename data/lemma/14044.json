@@ -1,0 +1,78 @@
+{
+  "source_article_id": 14044,
+  "lemmas": [
+    {
+      "lemma": "fattes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 16280,
+      "is_sub_article": false,
+      "primary_translation": "to lack",
+      "word_forms": [
+        {
+          "word_form": "fattes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fA$t@s",
+              "ipa": "ˈfɑtəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fattedes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fA$t@$d@s",
+              "ipa": "ˈfɑtədəs",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ee51165d3008.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee51165d3008.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee51165d3008.mp3",
+            "text": "fattes",
+            "source": "generated",
+            "content_sha256": "8466a1bb74dd1d23f30331acdd33c3ff77c6d1b75c0c5949ecb93bcb92ad5c90",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mangle",
+      "translation": "to lack",
+      "examples": [
+        "meg fattes intet"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 36403,
+  "lemmas": [
+    {
+      "lemma": "lystett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42251,
+      "is_sub_article": false,
+      "primary_translation": "lightproof",
+      "word_forms": [
+        {
+          "word_form": "lystett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$%stEt",
+              "ipa": "ˈlyːˌstɛt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lystette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$%stE$t@",
+              "ipa": "ˈlyːˌstɛtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6eeffd5c9118.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6eeffd5c9118.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6eeffd5c9118.mp3",
+            "text": "lystett",
+            "source": "generated",
+            "content_sha256": "fdbb44a44e779a2ac64e8a84995d4192976884e05afe985d3aa411ca1fdb093c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ugjennomtrengelig for lys",
+      "translation": "impermeable to light",
+      "examples": [
+        "en lystett beholder"
+      ]
+    }
+  ]
+}

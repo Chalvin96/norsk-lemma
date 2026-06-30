@@ -1,0 +1,103 @@
+{
+  "source_article_id": 111731,
+  "lemmas": [
+    {
+      "lemma": "dubbing",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 94584,
+      "is_sub_article": false,
+      "primary_translation": "dubbing",
+      "word_forms": [
+        {
+          "word_form": "dubbing",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du0$bIN",
+              "ipa": "ˈdʉbɪŋ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "dubbingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dubbinger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dubbingene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "dubbinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7305f4799981.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7305f4799981.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7305f4799981.mp3",
+            "text": "dubbing",
+            "source": "generated",
+            "content_sha256": "dc94874e1113176cea70d8dd6aaadac6caa8bb93638178265598a85c12d3d619",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å dubbe",
+      "translation": "the act of dubbing (a film)",
+      "examples": [
+        "filmen hadde norsk dubbing"
+      ]
+    }
+  ]
+}

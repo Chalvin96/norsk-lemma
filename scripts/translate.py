@@ -4,7 +4,6 @@ from __future__ import annotations
 
 import argparse
 import logging
-import os
 from pathlib import Path
 
 from ordbokene.build import build_lemma
@@ -82,9 +81,6 @@ def parse_args() -> argparse.Namespace:
     )
     args = parser.parse_args()
 
-    args.api_key = os.getenv("OPENROUTER_API_KEY")
-    if not args.api_key and not args.dry_run:
-        raise SystemExit("OPENROUTER_API_KEY is required.")
     if args.batch_size <= 0:
         raise SystemExit("--batch-size must be greater than 0.")
     if args.max_retries <= 0:

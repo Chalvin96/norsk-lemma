@@ -1,0 +1,116 @@
+{
+  "source_article_id": 26160,
+  "lemmas": [
+    {
+      "lemma": "informant",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 31141,
+      "is_sub_article": false,
+      "primary_translation": "informant",
+      "word_forms": [
+        {
+          "word_form": "informant",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$fOr$\"mAnt",
+              "ipa": "ɪnfɔrˈmɑnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "informanten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$fOr$\"mAn$tn=",
+              "ipa": "ɪnfɔrˈmɑntn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "informanter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$fOr$\"mAn$t@r",
+              "ipa": "ɪnfɔrˈmɑntər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "informantene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$fOr$\"mAn$tn=$@",
+              "ipa": "ɪnfɔrˈmɑntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ff6157f9b467.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ff6157f9b467.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ff6157f9b467.mp3",
+            "text": "informant",
+            "source": "generated",
+            "content_sha256": "143fe1b3e13692471a7795a777b665cc84f680fa59174d0df2c81939aa6b3fb8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som informerer",
+      "translation": "person who informs",
+      "examples": []
+    },
+    {
+      "text": "hjemmelsmann heimelsmann, kilde kjelde",
+      "translation": "informant, source",
+      "examples": [
+        "forskningen bygger på intervjuer med informanter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_article_id": 69180,
+  "lemmas": [
+    {
+      "lemma": "vulkansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 79840,
+      "is_sub_article": false,
+      "primary_translation": "volcanic",
+      "word_forms": [
+        {
+          "word_form": "vulkansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vu0l$\"kA:nsk",
+              "ipa": "vʉlˈkɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "vulkanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vu0l$\"kA:n$sk@",
+              "ipa": "vʉlˈkɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "546103ab5f5a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/546103ab5f5a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/546103ab5f5a.mp3",
+            "text": "vulkansk",
+            "source": "generated",
+            "content_sha256": "5ceb02d66815485b473361532ef8e874631aac7991e5b47c14fd03fad6f5048e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder vulkan",
+      "translation": "relating to volcanoes",
+      "examples": [
+        "vulkanske bergarter",
+        "vulkansk aktivitet"
+      ]
+    }
+  ]
+}

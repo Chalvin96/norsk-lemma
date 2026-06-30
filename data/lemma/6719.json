@@ -1,0 +1,111 @@
+{
+  "source_article_id": 6719,
+  "lemmas": [
+    {
+      "lemma": "blåser",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7856,
+      "is_sub_article": false,
+      "primary_translation": "wind instrument player",
+      "word_forms": [
+        {
+          "word_form": "blåser",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$s@r",
+              "ipa": "ˈbloːsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blåseren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$s@n`",
+              "ipa": "ˈbloːsəɳ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blåsere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$s@$r@",
+              "ipa": "ˈbloːsərə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blåserne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$s@$n`@",
+              "ipa": "ˈbloːsəɳə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c653d48714ed.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c653d48714ed.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c653d48714ed.mp3",
+            "text": "blåser",
+            "source": "generated",
+            "content_sha256": "c5c19b1f83abc9364145ba9d14f19cd1bfefd725e0db9c2fcaf1632e7773bd06",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "musiker som spiller et blåseinstrument",
+      "translation": "musician who plays a wind instrument",
+      "examples": [
+        "et orkester med strykere og blåsere"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "source_article_id": 107748,
+  "lemmas": [
+    {
+      "lemma": "entropi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 161043,
+      "is_sub_article": false,
+      "primary_translation": "entropy",
+      "word_forms": [
+        {
+          "word_form": "entropi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "En$trU$\"pi:",
+              "ipa": "ɛntrʊˈpɪː",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "entropien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "entropier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "entropiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1b779884973b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b779884973b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b779884973b.mp3",
+            "text": "entropi",
+            "source": "generated",
+            "content_sha256": "27cd80044f0eb52d683b4119ae5b5ec15a0dd648cce11946239fa0b7d77bae49",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i fysikk og kjemi: mål for graden av uorden i et system",
+      "translation": "in physics and chemistry: measure of the degree of disorder in a system",
+      "examples": [
+        "entropien i universet øker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_article_id": 6316,
+  "lemmas": [
+    {
+      "lemma": "blei",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 7419,
+      "is_sub_article": false,
+      "primary_translation": "unpleasant person",
+      "word_forms": [
+        {
+          "word_form": "blei",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bl{*I",
+              "ipa": "ˈblæ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bleien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bl{*I$@n",
+              "ipa": "ˈblæ͡ɪən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bleier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bl{*I$@r",
+              "ipa": "ˈblæ͡ɪər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bleiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bl{*I$@$n@",
+              "ipa": "ˈblæ͡ɪənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3fa34aa9f3fc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3fa34aa9f3fc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3fa34aa9f3fc.mp3",
+            "text": "blei",
+            "source": "generated",
+            "content_sha256": "d86be06a66fc8e5f301637b3246495e2737376b784b443351b232d9d4ed49bbb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ubehagelig person",
+      "translation": "unpleasant person",
+      "examples": [
+        "en hoven blei"
+      ]
+    }
+  ]
+}

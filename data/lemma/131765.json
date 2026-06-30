@@ -1,0 +1,65 @@
+{
+  "source_article_id": 131765,
+  "lemmas": [
+    {
+      "lemma": "termostatstyrt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 145866,
+      "is_sub_article": false,
+      "primary_translation": "thermostatically controlled",
+      "word_forms": [
+        {
+          "word_form": "termostatstyrt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "termostatstyrte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5b727b577e18.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b727b577e18.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b727b577e18.mp3",
+            "text": "termostatstyrt",
+            "source": "generated",
+            "content_sha256": "52b117b6af8f7acdcc24f71797d802381b99f2bb420a6bbedc7817a924e757d0"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "regulere av en termostat",
+      "translation": "regulated by a thermostat",
+      "examples": [
+        "en temostatstyrt panelovn"
+      ]
+    }
+  ]
+}

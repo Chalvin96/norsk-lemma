@@ -1,0 +1,82 @@
+{
+  "source_article_id": 53599,
+  "lemmas": [
+    {
+      "lemma": "skriftlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 61771,
+      "is_sub_article": false,
+      "primary_translation": "written",
+      "word_forms": [
+        {
+          "word_form": "skriftlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skrIft$lI",
+              "ipa": "ˈskrɪftlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skriftlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skrIft$lI$@",
+              "ipa": "ˈskrɪftlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a17d928946b9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a17d928946b9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a17d928946b9.mp3",
+            "text": "skriftlig",
+            "source": "generated",
+            "content_sha256": "308ae87d2c9504da3c374c86dde04bfbf4a85611034e0759e3c548be3cc631a2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i skrive form",
+      "translation": "in written form",
+      "examples": [
+        "en skriftlig uttalelse",
+        "skriftlige prøver",
+        "en skriftlig kontrakt"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "source_article_id": 120714,
+  "lemmas": [
+    {
+      "lemma": "korpussøk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 168496,
+      "is_sub_article": false,
+      "primary_translation": "corpus search",
+      "word_forms": [
+        {
+          "word_form": "korpussøk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "korpussøket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "korpussøka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "korpussøkene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "31ef4848cb31.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/31ef4848cb31.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/31ef4848cb31.mp3",
+            "text": "korpussøk",
+            "source": "generated",
+            "content_sha256": "4eea618646fc9e8faf53b16b1bec0e76412b5375ca0659afa78a53dc5adb9b25"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "søk med søkestreng i elektronisk korpus",
+      "translation": "search with a search string in an electronic corpus",
+      "examples": [
+        "resultatet av korpussøket kan være en konkordans med eksempler"
+      ]
+    }
+  ]
+}

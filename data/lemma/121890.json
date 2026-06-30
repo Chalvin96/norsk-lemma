@@ -1,0 +1,90 @@
+{
+  "source_article_id": 121890,
+  "lemmas": [
+    {
+      "lemma": "lokalmat",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 169094,
+      "is_sub_article": false,
+      "primary_translation": "local food",
+      "word_forms": [
+        {
+          "word_form": "lokalmat",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:l$%mA:t",
+              "ipa": "lʊˈkɑːlˌmɑːt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "lokalmaten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lokalmater",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "lokalmatene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1464d59754de.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1464d59754de.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1464d59754de.mp3",
+            "text": "lokalmat",
+            "source": "generated",
+            "content_sha256": "55e252ff124f254155aa9385d97f4729b8a6cd11f25dca0c97c7210111a5a8ac",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mat som er produsert lokalt",
+      "translation": "food produced locally",
+      "examples": [
+        "en meny med god, norsk lokalmat"
+      ]
+    }
+  ]
+}

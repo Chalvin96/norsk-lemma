@@ -1,0 +1,112 @@
+{
+  "source_article_id": 4388,
+  "lemmas": [
+    {
+      "lemma": "bank",
+      "hgno": 4,
+      "pos": "NOUN",
+      "source_lemma_id": 5190,
+      "is_sub_article": false,
+      "primary_translation": "knock",
+      "word_forms": [
+        {
+          "word_form": "bank",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk",
+              "ipa": "ˈbɑŋk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "banket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$k@",
+              "ipa": "ˈbɑŋkə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "banka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kA",
+              "ipa": "ˈbɑŋkɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "bankene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAN$k@$n@",
+              "ipa": "ˈbɑŋkənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "368668cc0501.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/368668cc0501.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/368668cc0501.mp3",
+            "text": "bank",
+            "source": "generated",
+            "content_sha256": "0f2e7d7f84d2936262af982bc656cc49adf2857d5584beaf5aacede0c440639f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enkel bankelyd, enkelt dunk",
+      "translation": "a single knocking sound, a single thud",
+      "examples": [
+        "et bank i veggen"
+      ]
+    }
+  ]
+}

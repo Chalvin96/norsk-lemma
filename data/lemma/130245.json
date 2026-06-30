@@ -1,0 +1,91 @@
+{
+  "source_article_id": 130245,
+  "lemmas": [
+    {
+      "lemma": "stigningsforhold",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 142988,
+      "is_sub_article": false,
+      "primary_translation": "gradient ratio",
+      "word_forms": [
+        {
+          "word_form": "stigningsforhold",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sti:$gnINs$fOr$%hOl",
+              "ipa": "ˈstɪːgnɪŋsfɔrˌhɔl",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "stigningsforholdet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "stigningsforholdene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "stigningsforholda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4f3495938545.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4f3495938545.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4f3495938545.mp3",
+            "text": "stigningsforhold",
+            "source": "generated",
+            "content_sha256": "e6c3aac9e99053b28c949b68fd31a745926dc11b56f730e8632e787d40612c3a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forhold mellom stigning og fullført eller tilbakelagt strekning",
+      "translation": "ratio between gradient and completed or traversed distance",
+      "examples": [
+        "en tunnel med stigningsforhold 1 : 10"
+      ]
+    }
+  ]
+}

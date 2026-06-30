@@ -1,0 +1,100 @@
+{
+  "source_article_id": 48018,
+  "lemmas": [
+    {
+      "lemma": "rekursjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 55163,
+      "is_sub_article": false,
+      "primary_translation": "repetition / recursion",
+      "word_forms": [
+        {
+          "word_form": "rekursjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$ku0$\"s`u:n",
+              "ipa": "rəkʉˈʂuːn",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "rekursjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$ku0$\"s`u:$nn=",
+              "ipa": "rəkʉˈʂuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "rekursjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "rekursjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2bf51774c8ec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2bf51774c8ec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2bf51774c8ec.mp3",
+            "text": "rekursjon",
+            "source": "generated",
+            "content_sha256": "8738a804d1f19694b7d096aea173b6bf4458120c2a278390dbe98da00b3c3225",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "periodisk gjentakelse",
+      "translation": "periodic repetition",
+      "examples": []
+    },
+    {
+      "text": "rekursiv prosess",
+      "translation": "recursive process",
+      "examples": []
+    }
+  ]
+}

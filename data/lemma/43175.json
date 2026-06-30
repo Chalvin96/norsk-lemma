@@ -1,0 +1,94 @@
+{
+  "source_article_id": 43175,
+  "lemmas": [
+    {
+      "lemma": "opsjonell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50030,
+      "is_sub_article": false,
+      "primary_translation": "optional",
+      "word_forms": [
+        {
+          "word_form": "opsjonell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Op$SU$\"nEl",
+              "ipa": "ɔpʃʊˈnɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "opsjonelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Op$SU$\"nE$l@",
+              "ipa": "ɔpʃʊˈnɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "opsjonelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Op$SU$\"nElt",
+              "ipa": "ɔpʃʊˈnɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0bf5da3ed96a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0bf5da3ed96a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0bf5da3ed96a.mp3",
+            "text": "opsjonell",
+            "source": "generated",
+            "content_sha256": "4e3b60032edbd3def19ddeb629dab1e0df4bb6becfcca478c4ca9d06f4463f38",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke hører med til standardutstyret",
+      "translation": "not part of the standard equipment",
+      "examples": [
+        "en bil med opsjonelt tilleggsutstyr"
+      ]
+    }
+  ]
+}

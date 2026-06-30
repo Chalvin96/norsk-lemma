@@ -1,0 +1,116 @@
+{
+  "source_article_id": 10539,
+  "lemmas": [
+    {
+      "lemma": "doktor",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12331,
+      "is_sub_article": false,
+      "primary_translation": "doctor / Dr.",
+      "word_forms": [
+        {
+          "word_form": "doktor",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOk$tUr",
+              "ipa": "ˈdɔktʊr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "doktoren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOk$tU$n`=",
+              "ipa": "ˈdɔktʊɳ̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "doktorer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOk$tU$r@r",
+              "ipa": "ˈdɔktʊrər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "doktorene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOk$tU$n`=$@",
+              "ipa": "ˈdɔktʊɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dea43a0a7521.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dea43a0a7521.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dea43a0a7521.mp3",
+            "text": "doktor",
+            "source": "generated",
+            "content_sha256": "600b10aeae37b7452af29a3f9dd2e3d5ac8cb096ceaef5d8b5b090c9ec8f433d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som har tatt doktorgraden, eller som er utnevnt til æresdoktor",
+      "translation": "person who has earned a doctorate or is an honorary doctor",
+      "examples": []
+    },
+    {
+      "text": "forkortet dr.",
+      "translation": "abbreviation Dr.",
+      "examples": [
+        "han er doktor i teologi"
+      ]
+    }
+  ]
+}

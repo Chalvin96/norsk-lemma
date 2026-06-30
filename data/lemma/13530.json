@@ -1,0 +1,119 @@
+{
+  "source_article_id": 13530,
+  "lemmas": [
+    {
+      "lemma": "fabrikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 15722,
+      "is_sub_article": false,
+      "primary_translation": "factory",
+      "word_forms": [
+        {
+          "word_form": "fabrikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brIk",
+              "ipa": "fɑˈbrɪk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fabrikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brI$k@n",
+              "ipa": "fɑˈbrɪkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fabrikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brI$k@r",
+              "ipa": "fɑˈbrɪkər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "fabrikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brI$k@$n@",
+              "ipa": "fɑˈbrɪkənə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7f69ae76a9d3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7f69ae76a9d3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7f69ae76a9d3.mp3",
+            "text": "fabrikk",
+            "source": "generated",
+            "content_sha256": "8be1575536e8045be45b1d25620f2421aa70dcd8b8a0fd6f665812622e0639bc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bedrift som masseproduserer varer ved hjelp av maskiner",
+      "translation": "company that mass-produces goods using machines",
+      "examples": [
+        "få jobb på fabrikk",
+        "fabrikken produserer papir"
+      ]
+    },
+    {
+      "text": "bygning for fabrikk",
+      "translation": "building for a factory",
+      "examples": [
+        "fabrikken skygger for utsikten"
+      ]
+    }
+  ]
+}

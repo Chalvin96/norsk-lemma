@@ -1,0 +1,76 @@
+{
+  "source_article_id": 38713,
+  "lemmas": [
+    {
+      "lemma": "misvisende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45390,
+      "is_sub_article": false,
+      "primary_translation": "misleading / magnetic declination",
+      "word_forms": [
+        {
+          "word_form": "misvisende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$%svi:$sn=$@",
+              "ipa": "ˈmɪˌsvɪːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "31c11d5b09a5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/31c11d5b09a5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/31c11d5b09a5.mp3",
+            "text": "misvisende",
+            "source": "generated",
+            "content_sha256": "57ccab9c2d71b00519369ab79e9cfdd3de0acd45389acb01e6b996b4829d35a9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "villede vill-lede villeie vill-leie, uriktig",
+      "translation": "mislead, incorrect",
+      "examples": [
+        "misvisende opplysninger"
+      ]
+    },
+    {
+      "text": "som blir regnet fra eller som refererer seg til den magnetiske meridian på et sted",
+      "translation": "calculated from or referring to the magnetic meridian at a place",
+      "examples": []
+    },
+    {
+      "text": "jamfør misvising misvisning",
+      "translation": "magnetic declination",
+      "examples": [
+        "misvisende kurs"
+      ]
+    }
+  ]
+}

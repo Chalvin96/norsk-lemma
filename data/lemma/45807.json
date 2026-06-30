@@ -1,0 +1,101 @@
+{
+  "source_article_id": 45807,
+  "lemmas": [
+    {
+      "lemma": "potensiell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 52811,
+      "is_sub_article": false,
+      "primary_translation": "potential",
+      "word_forms": [
+        {
+          "word_form": "potensiell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$t@n$sI$\"El",
+              "ipa": "pʊtənsɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "potensielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$t@n$sI$\"E$l@",
+              "ipa": "pʊtənsɪˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "potensielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$t@n$sI$\"Elt",
+              "ipa": "pʊtənsɪˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8131ef075f0e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8131ef075f0e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8131ef075f0e.mp3",
+            "text": "potensiell",
+            "source": "generated",
+            "content_sha256": "3682daf1cc477bfd213cad11185c8e7fb76739aee35dfe111f2e46b9518aa345",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan bli til virkelighet",
+      "translation": "",
+      "examples": []
+    },
+    {
+      "text": "mulig, utviklingsdyktig, latent",
+      "translation": "",
+      "examples": [
+        "landet er en potensiell stormakt",
+        "potensielle kjøpere av leiligheten",
+        "regelverket kan potensielt skape problemer"
+      ]
+    }
+  ]
+}

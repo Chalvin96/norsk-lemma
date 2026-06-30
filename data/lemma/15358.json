@@ -1,0 +1,82 @@
+{
+  "source_article_id": 15358,
+  "lemmas": [
+    {
+      "lemma": "flerstemt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 17826,
+      "is_sub_article": false,
+      "primary_translation": "polyphonic",
+      "word_forms": [
+        {
+          "word_form": "flerstemt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fle:s`$%t`Emt",
+              "ipa": "ˈfleːʂˌʈɛmt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "flerstemte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fle:s`$%t`Em$t@",
+              "ipa": "ˈfleːʂˌʈɛmtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "092b49777ffa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/092b49777ffa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/092b49777ffa.mp3",
+            "text": "flerstemt",
+            "source": "generated",
+            "content_sha256": "76b9daaf92f60e17d2260fc10bdccbffd4e3605593ab628b542d28fbd1077fd3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som synges eller spilles med flere stemme",
+      "translation": "sung or played with several voices",
+      "examples": [
+        "flerstemt sang",
+        "flerstemte harmonier",
+        "synge flerstemt"
+      ]
+    }
+  ]
+}

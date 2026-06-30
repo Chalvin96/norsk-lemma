@@ -1,0 +1,80 @@
+{
+  "source_article_id": 62162,
+  "lemmas": [
+    {
+      "lemma": "trestemt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 71086,
+      "is_sub_article": false,
+      "primary_translation": "three-part harmony",
+      "word_forms": [
+        {
+          "word_form": "trestemt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$%stEmt",
+              "ipa": "ˈtreːˌstɛmt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trestemte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$%stEm$t@",
+              "ipa": "ˈtreːˌstɛmtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fd63dba098b7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd63dba098b7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd63dba098b7.mp3",
+            "text": "trestemt",
+            "source": "generated",
+            "content_sha256": "dd070d4bdf68e6cac4481f676bd00d98fb25f6e5516a3ae9abb72cb6e707335c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som utføres med tre stemme eller tonerekker samtidig",
+      "translation": "performed with three voice parts simultaneously",
+      "examples": [
+        "de synger trestemt"
+      ]
+    }
+  ]
+}

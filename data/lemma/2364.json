@@ -1,0 +1,80 @@
+{
+  "source_article_id": 2364,
+  "lemmas": [
+    {
+      "lemma": "apostolisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2895,
+      "is_sub_article": false,
+      "primary_translation": "apostolic",
+      "word_forms": [
+        {
+          "word_form": "apostolisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pO$\"stu:$lI$sk",
+              "ipa": "ɑpɔˈstuːlɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "apostoliske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pU$\"stu:$lI$sk@",
+              "ipa": "ɑpʊˈstuːlɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e008dd06966e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e008dd06966e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e008dd06966e.mp3",
+            "text": "apostolisk",
+            "source": "generated",
+            "content_sha256": "aed15f6947a33fc3a0b9b591f4b4deb0000c1233b8d113406b193ae72a5ec073",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som skriver seg fra eller gjelder apostel",
+      "translation": "originating from or relating to an apostle",
+      "examples": [
+        "apostoliske brev"
+      ]
+    }
+  ]
+}

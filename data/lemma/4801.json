@@ -1,0 +1,82 @@
+{
+  "source_article_id": 4801,
+  "lemmas": [
+    {
+      "lemma": "beboelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5637,
+      "is_sub_article": false,
+      "primary_translation": "habitable",
+      "word_forms": [
+        {
+          "word_form": "beboelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"bu:$@$lI",
+              "ipa": "bəˈbuːəlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "beboelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"bu:$@$%li:$@",
+              "ipa": "bəˈbuːəˌlɪːə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ad596cc4ff4b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ad596cc4ff4b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ad596cc4ff4b.mp3",
+            "text": "beboelig",
+            "source": "generated",
+            "content_sha256": "c1b92c9a1a2c9b536475a3d7f2b3dc2977b2f5edda8dcaf2f6ead5ff4a5c02c2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som egner seg til å bo i",
+      "translation": "suitable for living in",
+      "examples": [
+        "huset er fullt beboelig",
+        "en beboelig turbåt",
+        "beboelige områder"
+      ]
+    }
+  ]
+}

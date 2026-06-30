@@ -1,0 +1,78 @@
+{
+  "source_article_id": 45497,
+  "lemmas": [
+    {
+      "lemma": "polsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 52482,
+      "is_sub_article": false,
+      "primary_translation": "Polish",
+      "word_forms": [
+        {
+          "word_form": "polsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pu:lsk",
+              "ipa": "ˈpuːlsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "polske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pu:l$sk@",
+              "ipa": "ˈpuːlskə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5079825085f2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5079825085f2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5079825085f2.mp3",
+            "text": "polsk",
+            "source": "generated",
+            "content_sha256": "c1be7c7800244cfb4452d8bd25248beb1a802562e92370d81bf198b297f5802a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Polen og polakker",
+      "translation": "relating to Poland and Poles",
+      "examples": []
+    }
+  ]
+}

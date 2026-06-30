@@ -1,0 +1,92 @@
+{
+  "source_article_id": 3316,
+  "lemmas": [
+    {
+      "lemma": "automatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3940,
+      "is_sub_article": false,
+      "primary_translation": "automatic / routine",
+      "word_forms": [
+        {
+          "word_form": "automatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$\"mA:$tI$sk",
+              "ipa": "æ͡ʉtʊˈmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "automatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$\"mA:$tI$sk@",
+              "ipa": "æ͡ʉtʊˈmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "38aec55f630a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/38aec55f630a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/38aec55f630a.mp3",
+            "text": "automatisk",
+            "source": "generated",
+            "content_sha256": "5c715592b9aa4d4e369d6077adb6df16a1660e87323d029791032dd3a8c5621b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er et resultat av en fast framgangsmåte",
+      "translation": "resulting from a fixed procedure",
+      "examples": []
+    },
+    {
+      "text": "rutinemessig",
+      "translation": "routine",
+      "examples": [
+        "reagere automatisk"
+      ]
+    },
+    {
+      "text": "som fungerer uten menneskelig innvirkning",
+      "translation": "functioning without human intervention",
+      "examples": [
+        "automatisk trafikk-kontroll"
+      ]
+    }
+  ]
+}

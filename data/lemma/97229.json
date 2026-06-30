@@ -1,0 +1,88 @@
+{
+  "source_article_id": 97229,
+  "lemmas": [
+    {
+      "lemma": "hivpositiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 157683,
+      "is_sub_article": false,
+      "primary_translation": "HIV positive",
+      "word_forms": [
+        {
+          "word_form": "hivpositiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hi:v$pU$sI$%ti:v",
+              "ipa": "ˈhɪːvpʊsɪˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hivpositive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hi:v$pU$sI$%ti:$v@",
+              "ipa": "ˈhɪːvpʊsɪˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hivpositivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c8ea32efea99.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8ea32efea99.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8ea32efea99.mp3",
+            "text": "hivpositiv",
+            "source": "generated",
+            "content_sha256": "0ca899dd9c8fef9faf08c3f377abf8fe8fd95957f408d8f4b443d1d9cfd9a5dd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "smittet av hivvirus",
+      "translation": "infected with the HIV virus",
+      "examples": []
+    }
+  ]
+}

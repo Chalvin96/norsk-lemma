@@ -1,0 +1,80 @@
+{
+  "source_article_id": 62243,
+  "lemmas": [
+    {
+      "lemma": "trigonometrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 71175,
+      "is_sub_article": false,
+      "primary_translation": "trigonometric",
+      "word_forms": [
+        {
+          "word_form": "trigonometrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trI$gU$nU$\"me:$trI$sk",
+              "ipa": "trɪgʊnʊˈmeːtrɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "trigonometriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trI$gU$nU$\"me:$trI$sk@",
+              "ipa": "trɪgʊnʊˈmeːtrɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e13fd3b57e7e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e13fd3b57e7e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e13fd3b57e7e.mp3",
+            "text": "trigonometrisk",
+            "source": "generated",
+            "content_sha256": "99699c27b4e86bca6411ec40bda425a220a4f2738edcbac16d562fb2d6a1e76f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder trigonometri",
+      "translation": "relating to trigonometry",
+      "examples": [
+        "trigometriske beregninger"
+      ]
+    }
+  ]
+}

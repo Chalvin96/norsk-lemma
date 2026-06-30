@@ -1,0 +1,94 @@
+{
+  "source_article_id": 131252,
+  "lemmas": [
+    {
+      "lemma": "talestemme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2942294,
+      "is_sub_article": false,
+      "primary_translation": "speaking voice",
+      "word_forms": [
+        {
+          "word_form": "talestemme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "talestemmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tA:$l@$%stE$m@n",
+              "ipa": "ˈtɑːləˌstɛmən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "talestemmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "talestemmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "78e5027ed0c8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/78e5027ed0c8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/78e5027ed0c8.mp3",
+            "text": "talestemme",
+            "source": "generated",
+            "content_sha256": "348f582a2732b384cd8620681d67fdfe1b864f9b3d93c30947c232d0e952881c"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stemme med tanke på det toneleiet en bruker når en snakker",
+      "translation": "voice in terms of the pitch one uses when speaking",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra sangstemme",
+      "translation": "as opposed to singing voice",
+      "examples": [
+        "han har en lys talestemme"
+      ]
+    }
+  ]
+}

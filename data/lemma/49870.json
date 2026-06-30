@@ -1,0 +1,98 @@
+{
+  "source_article_id": 49870,
+  "lemmas": [
+    {
+      "lemma": "samfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57218,
+      "is_sub_article": false,
+      "primary_translation": "continuous",
+      "word_forms": [
+        {
+          "word_form": "samfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAm$%fu0l",
+              "ipa": "ˈsɑmˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "samfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAm$%fu0$l@",
+              "ipa": "ˈsɑmˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "samfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAm$%fu0lt",
+              "ipa": "ˈsɑmˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d53ed13fe82d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d53ed13fe82d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d53ed13fe82d.mp3",
+            "text": "samfull",
+            "source": "generated",
+            "content_sha256": "eb1666c8ebed43a58645c26b0e625df237b114c14c734a497fc4656b5b466e51",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sammenhengende, hel heil",
+      "translation": "continuous, whole",
+      "examples": [
+        "i to samfulle uker",
+        "laget kjempet hardt i samfulle 60 minutter"
+      ]
+    }
+  ]
+}

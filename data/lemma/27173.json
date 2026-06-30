@@ -1,0 +1,103 @@
+{
+  "source_article_id": 27173,
+  "lemmas": [
+    {
+      "lemma": "irreversibel",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32279,
+      "is_sub_article": false,
+      "primary_translation": "irreversible",
+      "word_forms": [
+        {
+          "word_form": "irreversibel",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$r@$v@$%s`i:$b@l",
+              "ipa": "ˈɪrəvəˌʂɪːbəl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "irreversible",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$r@$v@$\"s`i:$bl@",
+              "ipa": "ɪrəvəˈʂɪːblə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "irreversibelt",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$r@$v@$%s`i:$b@lt",
+              "ipa": "ˈɪrəvəˌʂɪːbəlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6e813d6300cb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e813d6300cb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e813d6300cb.mp3",
+            "text": "irreversibel",
+            "source": "generated",
+            "content_sha256": "b55f87297022b0343dece108720d4569bb899fd9ae2253cf968c0b7cefa8ff80",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke kan vendes",
+      "translation": "that which cannot be reversed",
+      "examples": []
+    },
+    {
+      "text": "som bare går i én retning",
+      "translation": "that which only goes in one direction",
+      "examples": [
+        "skadevirkningene er irreversible",
+        "en irreversibel prosess"
+      ]
+    }
+  ]
+}

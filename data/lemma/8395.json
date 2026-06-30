@@ -1,0 +1,111 @@
+{
+  "source_article_id": 8395,
+  "lemmas": [
+    {
+      "lemma": "byråd",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 9992,
+      "is_sub_article": false,
+      "primary_translation": "city council member",
+      "word_forms": [
+        {
+          "word_form": "byråd",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%ro:d",
+              "ipa": "ˈbyːˌroːd",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "byråden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%ro:$dn=",
+              "ipa": "ˈbyːˌroːdn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "byråder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%ro:$d@r",
+              "ipa": "ˈbyːˌroːdər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "byrådene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%ro:$dn=$@",
+              "ipa": "ˈbyːˌroːdn̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d05d3707afb9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d05d3707afb9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d05d3707afb9.mp3",
+            "text": "byråd",
+            "source": "generated",
+            "content_sha256": "1bc7d7e59aedf4442442a6b8d42ca8e2a408fb9e2ac7c4358167ba5859399ff3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "medlem av byråd",
+      "translation": "member of the city council",
+      "examples": [
+        "byråd for samferdselssaker"
+      ]
+    }
+  ]
+}

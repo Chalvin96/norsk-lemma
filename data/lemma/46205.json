@@ -1,0 +1,123 @@
+{
+  "source_article_id": 46205,
+  "lemmas": [
+    {
+      "lemma": "prins",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 53216,
+      "is_sub_article": false,
+      "primary_translation": "prince",
+      "word_forms": [
+        {
+          "word_form": "prins",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"prIns",
+              "ipa": "ˈprɪns",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prinsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"prIn$sn=",
+              "ipa": "ˈprɪnsn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prinser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"prIn$s@r",
+              "ipa": "ˈprɪnsər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "prinsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"prIn$sn=$@",
+              "ipa": "ˈprɪnsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "859179b5d563.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/859179b5d563.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/859179b5d563.mp3",
+            "text": "prins",
+            "source": "generated",
+            "content_sha256": "9cee5294de2daadf018e536e1eeac778729f78dd1c55e8f16fd828c40d315e25",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sønn av (regjerende) monark",
+      "translation": "son of a (reigning) monarch",
+      "examples": []
+    },
+    {
+      "text": "ikke-regjerende mannlig medlem av et kongehus",
+      "translation": "non-reigning male member of a royal house",
+      "examples": [
+        "prinsen av Danmark"
+      ]
+    },
+    {
+      "text": "mannlig medlem av et fyrstehus i en mindre stat eller delstat",
+      "translation": "male member of a princely house in a smaller state or territory",
+      "examples": [
+        "prins Albert av Monaco"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_article_id": 11798,
+  "lemmas": [
+    {
+      "lemma": "ego",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 13783,
+      "is_sub_article": false,
+      "primary_translation": "ego / I",
+      "word_forms": [
+        {
+          "word_form": "ego",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$gU",
+              "ipa": "ˈeːgʊ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "egoet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$gU$@",
+              "ipa": "ˈeːgʊə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "egoa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "egoene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9c9c28c7a370.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9c9c28c7a370.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9c9c28c7a370.mp3",
+            "text": "ego",
+            "source": "generated",
+            "content_sha256": "f03fbf707e59b525dd5be8a432b3fb2e712fad14284725e5452362c1d46a5a71",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bevissthet om egen personlighet og verdi",
+      "translation": "awareness of one's own personality and value",
+      "examples": [
+        "en person med stort ego",
+        "positiv respons gjør godt for egoet"
+      ]
+    }
+  ]
+}

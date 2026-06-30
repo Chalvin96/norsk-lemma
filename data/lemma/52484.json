@@ -1,0 +1,81 @@
+{
+  "source_article_id": 52484,
+  "lemmas": [
+    {
+      "lemma": "skandinavisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 60538,
+      "is_sub_article": false,
+      "primary_translation": "Scandinavian",
+      "word_forms": [
+        {
+          "word_form": "skandinavisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "skAn$dI$\"nA:$vI$sk",
+              "ipa": "skɑndɪˈnɑːvɪsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "skandinaviske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "skAn$dI$\"nA:$vI$sk@",
+              "ipa": "skɑndɪˈnɑːvɪskə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "85c04f71d724.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85c04f71d724.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85c04f71d724.mp3",
+            "text": "skandinavisk",
+            "source": "generated",
+            "content_sha256": "934c86b1cc670a9ed8884485095a1eb3fe4ca7429b13446fd7b522b096780d2a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Skandinavia og skandinaver",
+      "translation": "relating to Scandinavia and Scandinavians",
+      "examples": [
+        "de tre skandinaviske landene Norge, Sverige og Danmark",
+        "den skandinaviske halvøya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "source_article_id": 6700,
+  "lemmas": [
+    {
+      "lemma": "blålig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 7837,
+      "is_sub_article": false,
+      "primary_translation": "bluish",
+      "word_forms": [
+        {
+          "word_form": "blålig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$lI",
+              "ipa": "ˈbloːlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blålige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$lI$@",
+              "ipa": "ˈbloːlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "blåligere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "blåligst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "blåligste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "86e5d9de18b9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/86e5d9de18b9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/86e5d9de18b9.mp3",
+            "text": "blålig",
+            "source": "generated",
+            "content_sha256": "0bf03b969c9cb1d72472e5583024816769f32e059b490f8bbc0e8574dfcbb3fe",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe blå",
+      "translation": "somewhat blue",
+      "examples": [
+        "blålig farge",
+        "et blålig skjær",
+        "et skarpt, blålig lys"
+      ]
+    }
+  ]
+}

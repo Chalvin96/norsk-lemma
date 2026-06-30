@@ -1,0 +1,80 @@
+{
+  "source_article_id": 43603,
+  "lemmas": [
+    {
+      "lemma": "overgrodd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50507,
+      "is_sub_article": false,
+      "primary_translation": "overgrown",
+      "word_forms": [
+        {
+          "word_form": "overgrodd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$v@r$%grUd",
+              "ipa": "ˈoːvərˌgrʊd",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "overgrodde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$v@r$%grU$d@",
+              "ipa": "ˈoːvərˌgrʊdə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5a9e09b417be.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a9e09b417be.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a9e09b417be.mp3",
+            "text": "overgrodd",
+            "source": "generated",
+            "content_sha256": "7cab36e08a91886fcb000de74df55acc8bedf4ef0e6de89bc9addda3e0aa13a2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dekket av noe som har grodd opp",
+      "translation": "covered by something that has grown",
+      "examples": [
+        "hagen var overgrodd med brennesle"
+      ]
+    }
+  ]
+}

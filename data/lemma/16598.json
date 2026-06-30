@@ -1,0 +1,81 @@
+{
+  "source_article_id": 16598,
+  "lemmas": [
+    {
+      "lemma": "formodentlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19242,
+      "is_sub_article": false,
+      "primary_translation": "presumably",
+      "word_forms": [
+        {
+          "word_form": "formodentlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"mu:$dn=t$lI",
+              "ipa": "fɔrˈmuːdn̩tlɪ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "formodentlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"mu:$dn=t$lI$@",
+              "ipa": "fɔrˈmuːdn̩tlɪə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eb9e79ee09ca.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb9e79ee09ca.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb9e79ee09ca.mp3",
+            "text": "formodentlig",
+            "source": "generated",
+            "content_sha256": "d70018cf55df23f60480a18cb362f8456408df81c80088c18d9e8ce184a26e80",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sannsynligvis, rimeligvis",
+      "translation": "probably, reasonably",
+      "examples": [
+        "den formodentlige opphavsmannen",
+        "formodentlig har du rett"
+      ]
+    }
+  ]
+}

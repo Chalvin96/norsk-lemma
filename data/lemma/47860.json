@@ -1,0 +1,104 @@
+{
+  "source_article_id": 47860,
+  "lemmas": [
+    {
+      "lemma": "regulær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54976,
+      "is_sub_article": false,
+      "primary_translation": "regular / proper",
+      "word_forms": [
+        {
+          "word_form": "regulær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$gu0$\"l{:r",
+              "ipa": "rəgʉˈlæːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "regulære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$gu0$\"l{:$r@",
+              "ipa": "rəgʉˈlæːrə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "regulært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$gu0$\"l{:t`",
+              "ipa": "rəgʉˈlæːʈ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "920acb0fbfa9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/920acb0fbfa9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/920acb0fbfa9.mp3",
+            "text": "regulær",
+            "source": "generated",
+            "content_sha256": "7e4ecfb3e5b5c621a635fb59e24be6154fe4a07e6d6be05d7e0b38f8a36df778",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "regelmessig",
+      "translation": "regular",
+      "examples": [
+        "en regulær mangekant"
+      ]
+    },
+    {
+      "text": "ordentlig, rettelig",
+      "translation": "proper, rightful",
+      "examples": [
+        "det var en regulær kalddusj"
+      ]
+    }
+  ]
+}

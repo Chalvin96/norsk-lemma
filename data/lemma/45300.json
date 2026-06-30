@@ -1,0 +1,109 @@
+{
+  "source_article_id": 45300,
+  "lemmas": [
+    {
+      "lemma": "plukk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 52280,
+      "is_sub_article": false,
+      "primary_translation": "picking / pick-your-own",
+      "word_forms": [
+        {
+          "word_form": "plukk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"plUk",
+              "ipa": "ˈplʊk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "plukken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"plU$k@n",
+              "ipa": "ˈplʊkən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "plukker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"plu0$k@r",
+              "ipa": "ˈplʉkər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "plukkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "635baf516966.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/635baf516966.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/635baf516966.mp3",
+            "text": "plukk",
+            "source": "generated",
+            "content_sha256": "0c22f10f28d4effe30f25bedba73a9af63bd97712e28120102c1c04276b02dfa",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å plukke",
+      "translation": "the act of picking",
+      "examples": []
+    },
+    {
+      "text": "jamfør selvplukk sjølplukk",
+      "translation": "pick-your-own",
+      "examples": [
+        "plukk av bær og sopp"
+      ]
+    }
+  ]
+}

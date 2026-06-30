@@ -1,0 +1,95 @@
+{
+  "source_article_id": 4471,
+  "lemmas": [
+    {
+      "lemma": "bar",
+      "hgno": 3,
+      "pos": "NOUN",
+      "source_lemma_id": 5278,
+      "is_sub_article": false,
+      "primary_translation": "bar (pressure unit)",
+      "word_forms": [
+        {
+          "word_form": "bar",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:r",
+              "ipa": "ˈbɑːr",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "baren",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:$n`=",
+              "ipa": "ˈbɑːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "barene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$n`=$@",
+              "ipa": "ˈbɑːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5ac40dae5a2e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ac40dae5a2e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ac40dae5a2e.mp3",
+            "text": "bar",
+            "source": "generated",
+            "content_sha256": "f8b650c089c541b4608ca46cdb0a0e4947221b5c252f1984d21ccca5582ec528",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "målenhet for trykk, symbol b",
+      "translation": "unit of pressure, symbol b",
+      "examples": [
+        "1 bar = 100 000 pascal"
+      ]
+    }
+  ]
+}

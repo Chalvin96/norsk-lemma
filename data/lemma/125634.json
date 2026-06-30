@@ -1,0 +1,80 @@
+{
+  "source_article_id": 125634,
+  "lemmas": [
+    {
+      "lemma": "testpilot",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 145956,
+      "is_sub_article": false,
+      "primary_translation": "test pilot",
+      "word_forms": [
+        {
+          "word_form": "testpilot",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "testpiloten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "testpiloter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "testpilotene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2836e7d9b235.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2836e7d9b235.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2836e7d9b235.mp3",
+            "text": "testpilot",
+            "source": "generated",
+            "content_sha256": "e6cee135a7460fb62bca3a791ec403d9096e7a182857e8a56a17486c6ec3bd01"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pilot som tester (nye) fly",
+      "translation": "pilot who tests (new) aircraft",
+      "examples": []
+    }
+  ]
+}

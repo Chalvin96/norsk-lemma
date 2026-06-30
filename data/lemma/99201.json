@@ -1,0 +1,88 @@
+{
+  "source_article_id": 99201,
+  "lemmas": [
+    {
+      "lemma": "anamnese",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157135,
+      "is_sub_article": false,
+      "primary_translation": "anamnesis",
+      "word_forms": [
+        {
+          "word_form": "anamnese",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$nAm$\"\"ne:$s@",
+              "ipa": "ɑnɑmˈneːsə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "anamnesen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "anamneser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "anamnesene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1f7b4c546b92.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f7b4c546b92.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f7b4c546b92.mp3",
+            "text": "anamnese",
+            "source": "generated",
+            "content_sha256": "733336379c56eb835632eeec408d34b1afbc7143dd6737c2228ddf0aae861a81",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "en pasients redegjørelse for sin egen sykehistorie",
+      "translation": "a patient's account of their own medical history",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_article_id": 28083,
+  "lemmas": [
+    {
+      "lemma": "jysk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 33273,
+      "is_sub_article": false,
+      "primary_translation": "Jutish language",
+      "word_forms": [
+        {
+          "word_form": "jysk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jY$sk",
+              "ipa": "ˈjʏsk",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jysken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jY$sk@n",
+              "ipa": "ˈjʏskən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "jysker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "jyskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "664834cc8dc3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/664834cc8dc3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/664834cc8dc3.mp3",
+            "text": "jysk",
+            "source": "generated",
+            "content_sha256": "a90d2925dd27b9c77e57c21bd581fc2d4406f720ad232165fa856d4dbd0a9a16",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "jysk språk",
+      "translation": "Jutish language",
+      "examples": [
+        "snakke jysk"
+      ]
+    }
+  ]
+}

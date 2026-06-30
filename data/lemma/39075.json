@@ -1,0 +1,111 @@
+{
+  "source_article_id": 39075,
+  "lemmas": [
+    {
+      "lemma": "morf",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45824,
+      "is_sub_article": false,
+      "primary_translation": "morpheme",
+      "word_forms": [
+        {
+          "word_form": "morf",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mOrf",
+              "ipa": "ˈmɔrf",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morfen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mUr$f@n",
+              "ipa": "ˈmʊrfən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morfer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mUr$f@r",
+              "ipa": "ˈmʊrfər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "morfene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mUr$f@$n@",
+              "ipa": "ˈmʊrfənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "96d34c227794.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/96d34c227794.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/96d34c227794.mp3",
+            "text": "morf",
+            "source": "generated",
+            "content_sha256": "91bf4f33fe6e88808b96e8df484ad04c456e521b5d8d86d39410db224db580c8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i språkvitenskap: minste betydningsbærende del av et ord",
+      "translation": "the smallest meaningful part of a word",
+      "examples": [
+        "‘mannen’ består av morfene ‘mann’ og ‘en’"
+      ]
+    }
+  ]
+}

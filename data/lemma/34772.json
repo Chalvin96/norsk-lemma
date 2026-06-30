@@ -1,0 +1,95 @@
+{
+  "source_article_id": 34772,
+  "lemmas": [
+    {
+      "lemma": "leksefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 40481,
+      "is_sub_article": false,
+      "primary_translation": "homework-free",
+      "word_forms": [
+        {
+          "word_form": "leksefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lEk$s@$%fri:",
+              "ipa": "ˈlɛksəˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "leksefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lEk$s@$%fri:$@",
+              "ipa": "ˈlɛksəˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "leksefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lEk$s@$%frIt",
+              "ipa": "ˈlɛksəˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "397a501f43c3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/397a501f43c3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/397a501f43c3.mp3",
+            "text": "leksefri",
+            "source": "generated",
+            "content_sha256": "5e6ae7334c718bc7d07bceb14badfc42e6daff2dbe43686d4cdb0f7e6c2cab50",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er fri for lekser",
+      "translation": "free from homework",
+      "examples": [
+        "en leksefri dag",
+        "elevene har leksefri til mandag"
+      ]
+    }
+  ]
+}

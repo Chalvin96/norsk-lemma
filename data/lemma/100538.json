@@ -1,0 +1,117 @@
+{
+  "source_article_id": 100538,
+  "lemmas": [
+    {
+      "lemma": "total",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 160125,
+      "is_sub_article": false,
+      "primary_translation": "total sum",
+      "word_forms": [
+        {
+          "word_form": "total",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tU$\"tA:l",
+              "ipa": "tʊˈtɑːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "totalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tU$\"tA:$ln=",
+              "ipa": "tʊˈtɑːln̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "totaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tU$\"tA:$l@r",
+              "ipa": "tʊˈtɑːlər",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "totalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tU$\"tA:$ln=$@",
+              "ipa": "tʊˈtɑːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "53bf22c26270.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53bf22c26270.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53bf22c26270.mp3",
+            "text": "total",
+            "source": "generated",
+            "content_sha256": "1563872a1b863506c6e6554dfb85069683bd711f5e2e0ee41dd2226fdff15cff",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "samlet mengde eller sum",
+      "translation": "total amount or sum",
+      "examples": []
+    },
+    {
+      "text": "totalsum",
+      "translation": "total sum",
+      "examples": [
+        "10 % av totalen",
+        "totalen av alle terningene"
+      ]
+    }
+  ]
+}

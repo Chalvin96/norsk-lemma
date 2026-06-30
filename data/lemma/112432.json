@@ -1,0 +1,98 @@
+{
+  "source_article_id": 112432,
+  "lemmas": [
+    {
+      "lemma": "smittevern",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163817,
+      "is_sub_article": false,
+      "primary_translation": "infection control",
+      "word_forms": [
+        {
+          "word_form": "smittevern",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smI$t@$%v{:n`",
+              "ipa": "ˈsmɪtəˌvæːɳ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "smittevernet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smI$t@$%v{:$n`@",
+              "ipa": "ˈsmɪtəˌvæːɳə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "smitteverna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "smittevernene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "346cb0b1fff8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/346cb0b1fff8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/346cb0b1fff8.mp3",
+            "text": "smittevern",
+            "source": "generated",
+            "content_sha256": "a8e4a1ad77bb65c57926a08757333d98a693034a1c7721a8a05e20a7a256c29f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tiltak som skal forebygge og hindre at smitte blir spredt",
+      "translation": "measures to prevent and stop the spread of infection",
+      "examples": [
+        "barnehagen manglet retningslinjer for smittevern"
+      ]
+    }
+  ]
+}

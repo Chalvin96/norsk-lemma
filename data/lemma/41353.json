@@ -1,0 +1,80 @@
+{
+  "source_article_id": 41353,
+  "lemmas": [
+    {
+      "lemma": "nymalt",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 48343,
+      "is_sub_article": false,
+      "primary_translation": "freshly painted",
+      "word_forms": [
+        {
+          "word_form": "nymalt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%mA:lt",
+              "ipa": "ˈnyːˌmɑːlt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nymalte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%mA:l$t@",
+              "ipa": "ˈnyːˌmɑːltə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "05c85515efc6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/05c85515efc6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/05c85515efc6.mp3",
+            "text": "nymalt",
+            "source": "generated",
+            "content_sha256": "bd9adea91d72e94a68ae85351983718c1d8615bc133360deff6d86e0fd1e9f61",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som nylig er dekket med maling som ennå er våt",
+      "translation": "recently covered with paint that is still wet",
+      "examples": [
+        "benken er nymalt!"
+      ]
+    }
+  ]
+}

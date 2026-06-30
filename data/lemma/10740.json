@@ -1,0 +1,116 @@
+{
+  "source_article_id": 10740,
+  "lemmas": [
+    {
+      "lemma": "drakme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12562,
+      "is_sub_article": false,
+      "primary_translation": "drachma",
+      "word_forms": [
+        {
+          "word_form": "drakme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drAk$m@",
+              "ipa": "ˈdrɑkmə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drakmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drAk$m@n",
+              "ipa": "ˈdrɑkmən",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drakmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drAk$m@r",
+              "ipa": "ˈdrɑkmər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "drakmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drAk$m@$n@",
+              "ipa": "ˈdrɑkmənə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6f3563ace5b7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6f3563ace5b7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6f3563ace5b7.mp3",
+            "text": "drakme",
+            "source": "generated",
+            "content_sha256": "34ca4885f10348bcd6b9cf604134eb726411dbb282d1a15ea71ecefb2038d814",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gammel gresk mynt",
+      "translation": "ancient Greek coin",
+      "examples": []
+    },
+    {
+      "text": "tidligere myntenhet i Hellas",
+      "translation": "former currency unit in Greece",
+      "examples": [
+        "1 drakme = 100 lepta"
+      ]
+    }
+  ]
+}

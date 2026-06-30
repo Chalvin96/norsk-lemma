@@ -1,0 +1,117 @@
+{
+  "source_article_id": 123453,
+  "lemmas": [
+    {
+      "lemma": "nedsmelting",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 125841,
+      "is_sub_article": false,
+      "primary_translation": "meltdown",
+      "word_forms": [
+        {
+          "word_form": "nedsmelting",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:d$%smEl$tIN",
+              "ipa": "ˈneːdˌsmɛltɪŋ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nedsmeltingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:d$%smEl$tIN$@n",
+              "ipa": "ˈneːdˌsmɛltɪŋən",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "nedsmeltinger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nedsmeltingene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "nedsmeltinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "871bf4d10ae5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/871bf4d10ae5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/871bf4d10ae5.mp3",
+            "text": "nedsmelting",
+            "source": "generated",
+            "content_sha256": "ec54c70c3611466637f46f088c56a7d032086a73525caee7af6f24d511ce28c8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det at is smelter ned",
+      "translation": "the melting of ice",
+      "examples": [
+        "nedsmelting av isbreer"
+      ]
+    },
+    {
+      "text": "det at reaktorkjernen blir overopphetet og smelter ved en kjernekraftulykke",
+      "translation": "the overheating and melting of a reactor core in a nuclear accident",
+      "examples": [
+        "kjernefysisk nedsmelting"
+      ]
+    }
+  ]
+}

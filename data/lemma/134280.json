@@ -1,0 +1,91 @@
+{
+  "source_article_id": 134280,
+  "lemmas": [
+    {
+      "lemma": "arbeidsflyt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 86720,
+      "is_sub_article": false,
+      "primary_translation": "workflow",
+      "word_forms": [
+        {
+          "word_form": "arbeidsflyt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Ids$%fly:t",
+              "ipa": "ˈɑrbæ͡ɪdsˌflyːt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidsflyten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "arbeidsflyter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "arbeidsflytene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "062a6828d8bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/062a6828d8bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/062a6828d8bc.mp3",
+            "text": "arbeidsflyt",
+            "source": "generated",
+            "content_sha256": "323f2bd0449127727eeb7dfc21b8927861ce22226d146f9e224f2c886dfc3c50",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "måte som et større arbeid med flere steg er organisert på",
+      "translation": "the way a larger work with several steps is organized",
+      "examples": [
+        "datasystemet sørger for en god arbeidsflyt for brukeren",
+        "omorganiseringen av bedriften gav en bedre arbeidsflyt fra produksjon til levering"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_article_id": 121239,
+  "lemmas": [
+    {
+      "lemma": "landbasert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 119118,
+      "is_sub_article": false,
+      "primary_translation": "land-based",
+      "word_forms": [
+        {
+          "word_form": "landbasert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lAn$bA$%se:t`",
+              "ipa": "ˈlɑnbɑˌseːʈ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "landbaserte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lAn$bA$%se:$t`@",
+              "ipa": "ˈlɑnbɑˌseːʈə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cf5548ec62cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf5548ec62cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf5548ec62cf.mp3",
+            "text": "landbasert",
+            "source": "generated",
+            "content_sha256": "d0e8b926b95025d011f14ec874a18d1bbde8328fab142628771b8967ab37baee",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er plassert eller foregår på landjorda",
+      "translation": "located or taking place on land",
+      "examples": [
+        "landbaserte vindkraftanlegg",
+        "landbasert fiskeoppdrett"
+      ]
+    }
+  ]
+}

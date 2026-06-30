@@ -1,0 +1,87 @@
+{
+  "source_article_id": 111892,
+  "lemmas": [
+    {
+      "lemma": "borkjerne",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 91518,
+      "is_sub_article": false,
+      "primary_translation": "core sample",
+      "word_forms": [
+        {
+          "word_form": "borkjerne",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "borkjernen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "borkjerner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:r$%C{:$n`@r",
+              "ipa": "ˈbuːrˌçæːɳər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "borkjernene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "89a2fe894fc1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89a2fe894fc1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89a2fe894fc1.mp3",
+            "text": "borkjerne",
+            "source": "generated",
+            "content_sha256": "07a8c80bb01ca45d0915b8e10e44115e39dd23aa9688aa58ebe41bf93f955ec5"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utboret kjernestykke",
+      "translation": "drilled core sample",
+      "examples": []
+    }
+  ]
+}

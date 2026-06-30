@@ -1,0 +1,80 @@
+{
+  "source_article_id": 110264,
+  "lemmas": [
+    {
+      "lemma": "avdelt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 162699,
+      "is_sub_article": false,
+      "primary_translation": "partitioned",
+      "word_forms": [
+        {
+          "word_form": "avdelt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%de:lt",
+              "ipa": "ˈɑːvˌdeːlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "avdelte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%de:l$t@",
+              "ipa": "ˈɑːvˌdeːltə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f8f28ecb7d8a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f8f28ecb7d8a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f8f28ecb7d8a.mp3",
+            "text": "avdelt",
+            "source": "generated",
+            "content_sha256": "1ea5a5ace4bab89b375cffb3dc41e00501bc119d32a8f58fdfb5b83fff9fe88e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er delt opp i to eller flere deler",
+      "translation": "which is divided into two or more parts",
+      "examples": [
+        "et avdelt rom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "source_article_id": 24205,
+  "lemmas": [
+    {
+      "lemma": "hormonell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 28556,
+      "is_sub_article": false,
+      "primary_translation": "hormonal",
+      "word_forms": [
+        {
+          "word_form": "hormonell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hOr$mU$\"nEl",
+              "ipa": "hɔrmʊˈnɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hormonelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hOr$mU$\"nE$l@",
+              "ipa": "hɔrmʊˈnɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "hormonelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hOr$mU$\"nElt",
+              "ipa": "hɔrmʊˈnɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b704628c1299.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b704628c1299.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b704628c1299.mp3",
+            "text": "hormonell",
+            "source": "generated",
+            "content_sha256": "26a4971b3ecc46746d991b344018dcf78ca004fa88e7aef741bba6f42984373b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til, gjelder hormon",
+      "translation": "relating to, concerning hormones",
+      "examples": [
+        "hormonelle forstyrrelser",
+        "funksjonen er hormonelt regulert"
+      ]
+    },
+    {
+      "text": "som har hormon som årsak",
+      "translation": "caused by hormones",
+      "examples": [
+        "hårtapet er homonelt",
+        "hun var hormonell og gråt mye"
+      ]
+    }
+  ]
+}

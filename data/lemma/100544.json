@@ -1,0 +1,108 @@
+{
+  "source_article_id": 100544,
+  "lemmas": [
+    {
+      "lemma": "ankervakt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160132,
+      "is_sub_article": false,
+      "primary_translation": "anchor watch / anchor alarm",
+      "word_forms": [
+        {
+          "word_form": "ankervakt",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"AN$k@r$%vAkt",
+              "ipa": "ˈɑŋkərˌvɑkt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "ankervakten",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "ankervakter",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "ankervaktene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "ankervakta",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "482f677c0078.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/482f677c0078.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/482f677c0078.mp3",
+            "text": "ankervakt",
+            "source": "generated",
+            "content_sha256": "1a01f54637c478477a02669f27fbd6eed79e1c581b2604d88204f7a9bf6cc95d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vakt(tørn) når et fartøy ligger for anker",
+      "translation": "watch (shift) when a vessel is at anchor",
+      "examples": [
+        "holde ankervakt"
+      ]
+    },
+    {
+      "text": "instrument som melder fra om ankeret løsner",
+      "translation": "instrument that signals when the anchor is loose",
+      "examples": []
+    }
+  ]
+}

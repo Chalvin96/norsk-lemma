@@ -1,0 +1,88 @@
+{
+  "source_article_id": 26356,
+  "lemmas": [
+    {
+      "lemma": "inneklemt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31364,
+      "is_sub_article": false,
+      "primary_translation": "pinched / enclosed",
+      "word_forms": [
+        {
+          "word_form": "inneklemt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"I$n@$%klEmt",
+              "ipa": "ˈɪnəˌklɛmt",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "inneklemte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"I$n@$%klEm$t@",
+              "ipa": "ˈɪnəˌklɛmtə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0a498c201942.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0a498c201942.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0a498c201942.mp3",
+            "text": "inneklemt",
+            "source": "generated",
+            "content_sha256": "815cb09a27f65b9fc6912198a4d5f0577ca4809b905dde7385cc331d0711f2e6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er klemt fast",
+      "translation": "pinched fast",
+      "examples": [
+        "sitte inneklemt mellom to stokker"
+      ]
+    },
+    {
+      "text": "som er stengt inne",
+      "translation": "enclosed",
+      "examples": [
+        "bygda lå inneklemt mellom bratte fjell",
+        "huset lå inneklemt mellom høye blokker"
+      ]
+    }
+  ]
+}

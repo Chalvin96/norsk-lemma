@@ -1,0 +1,80 @@
+{
+  "source_article_id": 61211,
+  "lemmas": [
+    {
+      "lemma": "tjenstlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 70000,
+      "is_sub_article": false,
+      "primary_translation": "service-related",
+      "word_forms": [
+        {
+          "word_form": "tjenstlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tje:n$stlI",
+              "ipa": "ˈtjeːnstlɪ",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "tjenstlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tje:n$stlI$@",
+              "ipa": "ˈtjeːnstlɪə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "680e0bd1521e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/680e0bd1521e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/680e0bd1521e.mp3",
+            "text": "tjenstlig",
+            "source": "generated",
+            "content_sha256": "7941ab256b2d8a6a6e0c018e4ea97451812084ba3b3e12c66b8c5a9efb6c187b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som angår tjeneste, arbeidet",
+      "translation": "concerning service or work",
+      "examples": [
+        "en tjenstlig forsømmelse"
+      ]
+    }
+  ]
+}

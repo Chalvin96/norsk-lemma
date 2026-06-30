@@ -1,0 +1,112 @@
+{
+  "source_article_id": 2027,
+  "lemmas": [
+    {
+      "lemma": "anonym",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 2554,
+      "is_sub_article": false,
+      "primary_translation": "anonymous / inconspicuous",
+      "word_forms": [
+        {
+          "word_form": "anonym",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$nU$\"ny:m",
+              "ipa": "ɑnʊˈnyːm",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "anonyme",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$nU$\"ny:$m@",
+              "ipa": "ɑnʊˈnyːmə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "anonymt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$nU$\"ny:mt",
+              "ipa": "ɑnʊˈnyːmt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "571523754d6f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/571523754d6f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/571523754d6f.mp3",
+            "text": "anonym",
+            "source": "generated",
+            "content_sha256": "d5644e4c15a74292d78895c8ef0a8718462390663fa6d41082eafde1cda89640",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten oppgitt navn",
+      "translation": "without stated name",
+      "examples": [
+        "giveren vil være anonym",
+        "anonyme kilder",
+        "anonyme telefonoppringninger"
+      ]
+    },
+    {
+      "text": "som ikke markerer seg",
+      "translation": "not standing out",
+      "examples": []
+    },
+    {
+      "text": "upersonlig, nøytral",
+      "translation": "impersonal, neutral",
+      "examples": [
+        "grå og anonym",
+        "leve et anonymt liv"
+      ]
+    }
+  ]
+}

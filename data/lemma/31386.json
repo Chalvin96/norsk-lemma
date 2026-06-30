@@ -1,0 +1,94 @@
+{
+  "source_article_id": 31386,
+  "lemmas": [
+    {
+      "lemma": "kontekstuell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 36915,
+      "is_sub_article": false,
+      "primary_translation": "contextual",
+      "word_forms": [
+        {
+          "word_form": "kontekstuell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$t@k$stu0$\"El",
+              "ipa": "kɔntəkstʉˈɛl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kontekstuelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$t@k$stu0$\"E$l@",
+              "ipa": "kɔntəkstʉˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kontekstuelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$t@k$stu0$\"Elt",
+              "ipa": "kɔntəkstʉˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b62dab555668.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b62dab555668.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b62dab555668.mp3",
+            "text": "kontekstuell",
+            "source": "generated",
+            "content_sha256": "3ccea2a7bf9def1c4600126f3d4720499d0bd34600c02ceef0f79496ff1024f6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller forekommer innenfor en kontekst",
+      "translation": "relating to or occurring within a context",
+      "examples": [
+        "kontekstuell forståelse"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "source_article_id": 45399,
+  "lemmas": [
+    {
+      "lemma": "pol",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 52383,
+      "is_sub_article": false,
+      "primary_translation": "liquor store (short form)",
+      "word_forms": [
+        {
+          "word_form": "pol",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pu:l",
+              "ipa": "ˈpuːl",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "polet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pu:$l@",
+              "ipa": "ˈpuːlə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "pola",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pu:$lA",
+              "ipa": "ˈpuːlɑ",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "polene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pu:$ln=$@",
+              "ipa": "ˈpuːln̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2b012d0897e8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2b012d0897e8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2b012d0897e8.mp3",
+            "text": "pol",
+            "source": "generated",
+            "content_sha256": "e3e160354bcbe793be93596895f6faf179e0f5285409f9c6be370e2c3fa78428",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortform av vinmonopol",
+      "translation": "short form of Vinmonopol (state-run liquor store)",
+      "examples": [
+        "gå på polet"
+      ]
+    }
+  ]
+}

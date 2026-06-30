@@ -1,0 +1,114 @@
+{
+  "source_article_id": 51257,
+  "lemmas": [
+    {
+      "lemma": "shunt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 58962,
+      "is_sub_article": false,
+      "primary_translation": "shunt / bypass",
+      "word_forms": [
+        {
+          "word_form": "shunt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S9nt",
+              "ipa": "ˈʃœnt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "shunten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S9n$tn=",
+              "ipa": "ˈʃœntn̩",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "shunter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S9n$t@r",
+              "ipa": "ˈʃœntər",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "shuntene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S9n$tn=$@",
+              "ipa": "ˈʃœntn̩ə",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "28e326391248.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/28e326391248.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/28e326391248.mp3",
+            "text": "shunt",
+            "source": "generated",
+            "content_sha256": "1d5772a7d632fbe84528dba70683d1d6bff9de4e4751b0533aef406a3fc0d3a7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "leder som koples inn i en strømkrets for å føre hovedstrømmen utenom en bestemt komponent",
+      "translation": "conductor connected in a circuit to divert the main current past a specific component",
+      "examples": []
+    },
+    {
+      "text": "i medisin: kunstig eller naturlig forbindelse mellom kanaler i kroppen, især to blodårer",
+      "translation": "in medicine: artificial or natural connection between channels in the body, especially two blood vessels",
+      "examples": []
+    }
+  ]
+}

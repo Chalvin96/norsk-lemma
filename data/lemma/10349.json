@@ -1,0 +1,81 @@
+{
+  "source_article_id": 10349,
+  "lemmas": [
+    {
+      "lemma": "distinkt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12091,
+      "is_sub_article": false,
+      "primary_translation": "distinct",
+      "word_forms": [
+        {
+          "word_form": "distinkt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"stINt",
+              "ipa": "dɪˈstɪŋt",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "distinkte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"stIN$t@",
+              "ipa": "dɪˈstɪŋtə",
+              "tone": 1,
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "20c794ff8d96.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20c794ff8d96.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20c794ff8d96.mp3",
+            "text": "distinkt",
+            "source": "generated",
+            "content_sha256": "5006451e58c3043a04d4cc89cdbb4dd11a84a3ecd82352abafa227bcd4f1e3da",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "klar og tydelig",
+      "translation": "clear and distinct",
+      "examples": [
+        "distinkt uttale",
+        "ha en distinkt gitarstemme"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "source_article_id": 120919,
+  "lemmas": [
+    {
+      "lemma": "kveldstur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 118236,
+      "is_sub_article": false,
+      "primary_translation": "evening walk",
+      "word_forms": [
+        {
+          "word_form": "kveldstur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvEl$%st}:r",
+              "ipa": "ˈkvɛlˌstʉːr",
+              "tone": 2,
+              "source": "nb_uttale"
+            }
+          ]
+        },
+        {
+          "word_form": "kveldsturen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kveldsturer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": []
+        },
+        {
+          "word_form": "kveldsturene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": []
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d713e494d3fa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d713e494d3fa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d713e494d3fa.mp3",
+            "text": "kveldstur",
+            "source": "generated",
+            "content_sha256": "4114c2be3538684e8ba49ff504a4f3675957228deaa53297cfcbf440e1e2a0f6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tur en går om kvelden",
+      "translation": "a walk taken in the evening",
+      "examples": [
+        "ta en kveldstur på ski"
+      ]
+    }
+  ]
+}
