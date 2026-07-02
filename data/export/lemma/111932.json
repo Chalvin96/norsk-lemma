@@ -1,0 +1,121 @@
+{
+  "source_article_id": 111932,
+  "lemmas": [
+    {
+      "lemma": "bortfrakter",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 91552,
+      "is_sub_article": false,
+      "primary_translation": "sea carrier",
+      "word_forms": [
+        {
+          "word_form": "bortfrakter",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bUt`$%frAk$t@r",
+              "ipa": "ˈbʊʈˌfrɑktər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bortfrakteren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bUt`$%frAk$t@n`",
+              "ipa": "ˈbʊʈˌfrɑktəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bortfraktere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuʈfrˌɑktərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bortfrakterne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuʈfrˌɑktəɳə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ce279d5547f0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce279d5547f0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce279d5547f0.mp3",
+            "text": "bortfrakter",
+            "source": "generated",
+            "content_sha256": "97ce59c1902d46dc35cc3258ba5fe37bcaa924910065477c759537cdafd2b025",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som påtar seg å utføre transport til sjøs for en befrakter",
+      "translation": "person who undertakes to carry out sea transport for a charterer",
+      "examples": []
+    }
+  ]
+}

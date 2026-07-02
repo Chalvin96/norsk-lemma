@@ -1,0 +1,125 @@
+{
+  "source_article_id": 127303,
+  "lemmas": [
+    {
+      "lemma": "sandsekk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 136233,
+      "is_sub_article": false,
+      "primary_translation": "sandbag",
+      "word_forms": [
+        {
+          "word_form": "sandsekk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑnsˌɛk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sandsekken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑnsˌɛkən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sandsekker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAn$%sE$k@r",
+              "ipa": "ˈsɑnˌsɛkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sandsekkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAn$%sE$k@$n@",
+              "ipa": "ˈsɑnˌsɛkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ad750f7b27ad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ad750f7b27ad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ad750f7b27ad.mp3",
+            "text": "sandsekk",
+            "source": "generated",
+            "content_sha256": "b5e06cd71d290474ad3d44f9ab3027fb60f86959146ecf5e1841a23df33dcbd4"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sekk med sand, blant annet brukt til vern mot flom",
+      "translation": "bag filled with sand, used for protection against floods",
+      "examples": [
+        {
+          "no": "demme opp med sandsekker",
+          "en": "hold back with sandbags"
+        }
+      ]
+    }
+  ]
+}

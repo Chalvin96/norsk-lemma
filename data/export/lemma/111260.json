@@ -1,0 +1,133 @@
+{
+  "source_article_id": 111260,
+  "lemmas": [
+    {
+      "lemma": "dekkstøy",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163199,
+      "is_sub_article": false,
+      "primary_translation": "tire noise",
+      "word_forms": [
+        {
+          "word_form": "dekkstøy",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɛkstˌœ͡ʏ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dekkstøyen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɛkstˌœ͡ʏən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dekkstøyer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɛkstˌœ͡ʏər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dekkstøyene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɛkstˌœ͡ʏənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d110ac551048.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d110ac551048.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d110ac551048.mp3",
+            "text": "dekkstøy",
+            "source": "generated",
+            "content_sha256": "af81c4ce8eb382389a4507095cf3b32e85f179397a01ac83a216973a51f4bc58"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "støy fra dekk",
+      "translation": "noise from tires",
+      "examples": [
+        {
+          "no": "dagens biler er godt isolerte mot dekkstøy",
+          "en": "today's cars are well insulated against tire noise"
+        },
+        {
+          "no": "sjenerende dekkstøy",
+          "en": "annoying tire noise"
+        }
+      ]
+    }
+  ]
+}

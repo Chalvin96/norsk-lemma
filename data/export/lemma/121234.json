@@ -1,0 +1,90 @@
+{
+  "source_article_id": 121234,
+  "lemmas": [
+    {
+      "lemma": "kulturmidler",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 168754,
+      "is_sub_article": false,
+      "primary_translation": "cultural funding",
+      "word_forms": [
+        {
+          "word_form": "kulturmidler",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0l$\"t}:r$%mId$l@r",
+              "ipa": "kʉlˈtʉːrˌmɪdlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kulturmidlene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʉltˈʉːrmˌɪdln̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "315c67dd86ad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/315c67dd86ad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/315c67dd86ad.mp3",
+            "text": "kulturmidler",
+            "source": "generated",
+            "content_sha256": "06e8e7f81417063a3a0fbd19040e559b870ed72ddb06f78afce8c9a6405cbe55",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "penger som skal brukes til kulturell aktiviteter",
+      "translation": "money to be used for cultural activities",
+      "examples": [
+        {
+          "no": "koret kan søke om kulturmidler i kommunen",
+          "en": "the choir can apply for cultural funding from the municipality"
+        },
+        {
+          "no": "fordelingen av de offentlige kulturmidlene",
+          "en": "the distribution of public cultural funds"
+        }
+      ]
+    }
+  ]
+}

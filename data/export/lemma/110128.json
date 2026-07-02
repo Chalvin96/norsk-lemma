@@ -1,0 +1,117 @@
+{
+  "source_article_id": 110128,
+  "lemmas": [
+    {
+      "lemma": "blåst",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 162624,
+      "is_sub_article": false,
+      "primary_translation": "tidy / empty / stupid",
+      "word_forms": [
+        {
+          "word_form": "blåst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"blo:$st",
+              "ipa": "ˈbloːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "blåste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$st@",
+              "ipa": "ˈbloːstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "25400f12235e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25400f12235e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25400f12235e.mp3",
+            "text": "blåst",
+            "source": "generated",
+            "content_sha256": "bad3f7ccd6d67a27d8b70a8867501304cc6809a6added43c9f19902b1c325af8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt ryddig",
+      "translation": "completely tidy",
+      "examples": [
+        {
+          "no": "huset var blåst",
+          "en": "the house was spotless"
+        }
+      ]
+    },
+    {
+      "text": "helt uten",
+      "translation": "completely without",
+      "examples": []
+    },
+    {
+      "text": "tom",
+      "translation": "empty",
+      "examples": [
+        {
+          "no": "gatene var blåst for mennesker etter mørkets frambrudd",
+          "en": "the streets were empty of people after dark"
+        }
+      ]
+    },
+    {
+      "text": "uten tegn på tankevirksomhet",
+      "translation": "without any sign of thought",
+      "examples": []
+    },
+    {
+      "text": "dum",
+      "translation": "stupid",
+      "examples": [
+        {
+          "no": "han virket helt blåst",
+          "en": "he seemed completely stupid"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_article_id": 40244,
+  "lemmas": [
+    {
+      "lemma": "nattefrost",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47107,
+      "is_sub_article": false,
+      "primary_translation": "night frost",
+      "word_forms": [
+        {
+          "word_form": "nattefrost",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$t@$%frO$st",
+              "ipa": "ˈnɑtəˌfrɔst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nattefrosten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$t@$%frO$stn=",
+              "ipa": "ˈnɑtəˌfrɔstn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nattefroster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɑtəfrˌɔstər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nattefrostene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɑtəfrˌɔstn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c6ebacaa8abe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c6ebacaa8abe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c6ebacaa8abe.mp3",
+            "text": "nattefrost",
+            "source": "generated",
+            "content_sha256": "182da87f5662cf38bd4db825440e4a25dc752947139703c777f7fc1158aeabd6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "temperatur under 0 °C i normalt frostfrie perioder",
+      "translation": "temperature below 0 °C during normally frost-free periods",
+      "examples": [
+        {
+          "no": "det er fare for nattefrost",
+          "en": "there is a risk of frost overnight"
+        }
+      ]
+    }
+  ]
+}

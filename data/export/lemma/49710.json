@@ -1,0 +1,95 @@
+{
+  "source_article_id": 49710,
+  "lemmas": [
+    {
+      "lemma": "saktmodig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57037,
+      "is_sub_article": false,
+      "primary_translation": "meek",
+      "word_forms": [
+        {
+          "word_form": "saktmodig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sAkt$\"mu:$dI",
+              "ipa": "sɑktˈmuːdɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "saktmodige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sAkt$\"mu:$dI$@",
+              "ipa": "sɑktˈmuːdɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "647a2acd539d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/647a2acd539d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/647a2acd539d.mp3",
+            "text": "saktmodig",
+            "source": "generated",
+            "content_sha256": "e8a03a444b44992f39dea777179a39c01e37a78d1eb835e0c2026410c0f9ea63",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fredelig, stillferdig",
+      "translation": "peaceful, quiet",
+      "examples": [
+        {
+          "no": "et saktmodig smil",
+          "en": "a gentle smile"
+        },
+        {
+          "no": "han er mild og saktmodig",
+          "en": "he is mild and gentle"
+        },
+        {
+          "no": "vandre saktmodig av gårde",
+          "en": "wander gently along"
+        }
+      ]
+    }
+  ]
+}

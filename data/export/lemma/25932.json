@@ -1,0 +1,192 @@
+{
+  "source_article_id": 25932,
+  "lemmas": [
+    {
+      "lemma": "implementere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 30903,
+      "is_sub_article": false,
+      "primary_translation": "implement / make work (IT)",
+      "word_forms": [
+        {
+          "word_form": "implementere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$pl@$m@n$\"te:$r@",
+              "ipa": "ɪmpləmənˈteːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "implementerer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$pl@$m@n$\"te:$r@r",
+              "ipa": "ɪmpləmənˈteːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "implementeres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$pl@$m@n$\"te:$r@s",
+              "ipa": "ɪmpləmənˈteːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "implementerte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$pl@$m@n$\"te:$t`@",
+              "ipa": "ɪmpləmənˈteːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "implementert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$pl@$m@n$\"te:t`",
+              "ipa": "ɪmpləmənˈteːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "implementerende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$pl@$m@n$\"te:$n`=$@",
+              "ipa": "ɪmpləmənˈteːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "implementer",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$pl@$m@n$\"te:r",
+              "ipa": "ɪmpləmənˈteːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5fcc9ebba10f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5fcc9ebba10f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5fcc9ebba10f.mp3",
+            "text": "implementere",
+            "source": "generated",
+            "content_sha256": "dd12319e13fdc32d818e1b629cb01005329a0881bac412250298c8a8163d4c6f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sette i gang, utføre, iverksette",
+      "translation": "initiate, execute, implement",
+      "examples": [
+        {
+          "no": "være forpliktet til å implementere reglene",
+          "en": "be obliged to implement the rules"
+        },
+        {
+          "no": "implementere EUs direktiv om luftkvalitet",
+          "en": "implement the EU directive on air quality"
+        }
+      ]
+    },
+    {
+      "text": "i IT: gjøre det som trengs for å få maskinvare eller program til å virke",
+      "translation": "in IT: do what is necessary to make hardware and software work",
+      "examples": [
+        {
+          "no": "implementere en applikasjon for smarttelefoner",
+          "en": "implement an application for smartphones"
+        }
+      ]
+    }
+  ]
+}

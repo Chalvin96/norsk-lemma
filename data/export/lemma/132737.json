@@ -1,0 +1,86 @@
+{
+  "source_article_id": 132737,
+  "lemmas": [
+    {
+      "lemma": "tredjehver",
+      "hgno": 0,
+      "pos": "DET",
+      "source_lemma_id": 2980720,
+      "is_sub_article": false,
+      "primary_translation": "every third",
+      "word_forms": [
+        {
+          "word_form": "tredjehver",
+          "tags_json": [
+            "Quant",
+            "Masc",
+            "Sing",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈeːdjəʋˈær",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tredjehvert",
+          "tags_json": [
+            "Quant",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈeːdjəʋˈæʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e75d772490df.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e75d772490df.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e75d772490df.mp3",
+            "text": "tredjehver",
+            "source": "generated",
+            "content_sha256": "b60ac99829c854a5bd06f87334616b7ff379988afa42d76329692d9cebf3ce61"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hver tredje i en rekkefølge",
+      "translation": "every third in a sequence",
+      "examples": [
+        {
+          "no": "jobbe tredjehver helg",
+          "en": "work every third weekend"
+        }
+      ]
+    }
+  ]
+}

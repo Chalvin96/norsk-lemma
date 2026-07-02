@@ -1,0 +1,108 @@
+{
+  "source_article_id": 42596,
+  "lemmas": [
+    {
+      "lemma": "opposisjonell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49783,
+      "is_sub_article": false,
+      "primary_translation": "oppositional / opponent",
+      "word_forms": [
+        {
+          "word_form": "opposisjonell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$pU$sI$SU$\"nEl",
+              "ipa": "ɔpʊsɪʃʊˈnɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "opposisjonelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$pU$sI$SU$\"nE$l@",
+              "ipa": "ɔpʊsɪʃʊˈnɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "opposisjonelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$pU$sI$SU$\"nElt",
+              "ipa": "ɔpʊsɪʃʊˈnɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b44a0bb1527b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b44a0bb1527b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b44a0bb1527b.mp3",
+            "text": "opposisjonell",
+            "source": "generated",
+            "content_sha256": "4945def2b0df679f90709684cf5b0f9423376c6abaf242af1d1463e839f492c6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som opponerer",
+      "translation": "that which opposes",
+      "examples": []
+    },
+    {
+      "text": "brukt som substantiv: (politisk) motstander",
+      "translation": "used as a noun: (political) opponent",
+      "examples": [
+        {
+          "no": "regimet arresterer alle opposisjonelle",
+          "en": "the regime arrests all opposition activists"
+        }
+      ]
+    }
+  ]
+}

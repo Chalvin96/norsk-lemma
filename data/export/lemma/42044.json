@@ -1,0 +1,105 @@
+{
+  "source_article_id": 42044,
+  "lemmas": [
+    {
+      "lemma": "olympisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49126,
+      "is_sub_article": false,
+      "primary_translation": "Olympic",
+      "word_forms": [
+        {
+          "word_form": "olympisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$\"lYm$pI$sk",
+              "ipa": "ʊˈlʏmpɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "olympiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$\"lYm$pI$sk@",
+              "ipa": "ʊˈlʏmpɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d2b857b62a47.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d2b857b62a47.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d2b857b62a47.mp3",
+            "text": "olympisk",
+            "source": "generated",
+            "content_sha256": "54c894455f667eb089f95f91a83dad92408082b3d8533beb11e67dee1109e627",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller hører til en olympiade",
+      "translation": "concerning or belonging to an Olympiad",
+      "examples": [
+        {
+          "no": "bli olympisk mester",
+          "en": "become an Olympic champion"
+        },
+        {
+          "no": "olympisk gullmedalje",
+          "en": "Olympic gold medal"
+        },
+        {
+          "no": "tenne den olympiske ilden",
+          "en": "light the Olympic flame"
+        }
+      ]
+    },
+    {
+      "text": "i mytologi: som gjelder de greske gudene som bodde på fjellet Ólymbos",
+      "translation": "concerning the Greek gods who lived on Mount Olympus",
+      "examples": [
+        {
+          "no": "de olympiske guder",
+          "en": "the Olympic gods"
+        }
+      ]
+    }
+  ]
+}

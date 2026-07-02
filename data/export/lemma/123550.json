@@ -1,0 +1,62 @@
+{
+  "source_article_id": 123550,
+  "lemmas": [
+    {
+      "lemma": "neimen",
+      "hgno": 0,
+      "pos": "INTERJ",
+      "source_lemma_id": 2007631,
+      "is_sub_article": false,
+      "primary_translation": "well now! (exclamation)",
+      "word_forms": [
+        {
+          "word_form": "neimen",
+          "tags_json": [
+            "INTJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"n{*I$m@n",
+              "ipa": "ˈnæ͡ɪmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dd46c4a3b249.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd46c4a3b249.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd46c4a3b249.mp3",
+            "text": "neimen",
+            "source": "generated",
+            "content_sha256": "a5ed9f34be73a89991e821b2daa2f3c594c6ec701f4a671954290297824a5bc6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt som overrasket utrop",
+      "translation": "used as an exclamation of surprise",
+      "examples": [
+        {
+          "no": "neimen, er det deg!",
+          "en": "well, is that you!"
+        }
+      ]
+    }
+  ]
+}

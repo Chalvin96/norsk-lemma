@@ -1,0 +1,131 @@
+{
+  "source_article_id": 59781,
+  "lemmas": [
+    {
+      "lemma": "tangent",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68430,
+      "is_sub_article": false,
+      "primary_translation": "key (instrument) / tangent (math)",
+      "word_forms": [
+        {
+          "word_form": "tangent",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tAN$\"gEnt",
+              "ipa": "tɑŋˈgɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tangenten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tAN$\"gEn$tn=",
+              "ipa": "tɑŋˈgɛntn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tangenter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tAN$\"gEn$t@r",
+              "ipa": "tɑŋˈgɛntər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tangentene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tAN$\"gEn$tn=$@",
+              "ipa": "tɑŋˈgɛntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6ec4b824ca17.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ec4b824ca17.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ec4b824ca17.mp3",
+            "text": "tangent",
+            "source": "generated",
+            "content_sha256": "ae279274a64a7dd1063910bc5cc0a331e7c7f8c119c735c4b754d757ce6847e0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tast på et instrument",
+      "translation": "key on an instrument",
+      "examples": [
+        {
+          "no": "slå på en tangent",
+          "en": "strike a key"
+        },
+        {
+          "no": "tangentene på et piano",
+          "en": "the keys on a piano"
+        }
+      ]
+    },
+    {
+      "text": "i matematikk: rett linje som berører en kurve eller flate i ett punkt",
+      "translation": "in mathematics: straight line that touches a curve or surface at one point",
+      "examples": []
+    }
+  ]
+}

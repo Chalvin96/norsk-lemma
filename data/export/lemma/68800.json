@@ -1,0 +1,89 @@
+{
+  "source_article_id": 68800,
+  "lemmas": [
+    {
+      "lemma": "visstnok",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 79408,
+      "is_sub_article": false,
+      "primary_translation": "admittedly / probably",
+      "word_forms": [
+        {
+          "word_form": "visstnok",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"vI$%stnOk",
+              "ipa": "ˈvɪˌstnɔk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a756697873a0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a756697873a0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a756697873a0.mp3",
+            "text": "visstnok",
+            "source": "generated",
+            "content_sha256": "436caa0fe0987679c95abd1cde7382316820021ef7ff02d9e9ead86c3cf628e4",
+            "tone": 1
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "visst nok",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 79407,
+      "is_sub_article": false,
+      "primary_translation": "admittedly / probably",
+      "word_forms": [
+        {
+          "word_form": "visst nok",
+          "tags_json": [],
+          "pronunciation": []
+        }
+      ]
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sant nok",
+      "translation": "true enough",
+      "examples": [
+        {
+          "no": "visstnok er hun flink, men det spørs om hun vinner",
+          "en": "she is admittedly skilled, but it's doubtful whether she'll win"
+        }
+      ]
+    },
+    {
+      "text": "trolig, rimeligvis, visst",
+      "translation": "probably, reasonably, surely",
+      "examples": [
+        {
+          "no": "de er visstnok søsken",
+          "en": "they are apparently siblings"
+        },
+        {
+          "no": "de skal visstnok reise",
+          "en": "they are apparently going to travel"
+        }
+      ]
+    }
+  ]
+}

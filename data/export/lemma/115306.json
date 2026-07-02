@@ -1,0 +1,126 @@
+{
+  "source_article_id": 115306,
+  "lemmas": [
+    {
+      "lemma": "glam",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 165363,
+      "is_sub_article": false,
+      "primary_translation": "glamour (short form)",
+      "word_forms": [
+        {
+          "word_form": "glam",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"glAm",
+              "ipa": "ˈglɑm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "glammen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "glˈɑmən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "glammer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glA$m@r",
+              "ipa": "ˈglɑmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glammene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "glˈɑmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "287ecaace03d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/287ecaace03d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/287ecaace03d.mp3",
+            "text": "glam",
+            "source": "generated",
+            "content_sha256": "6db59683ef1806620db0d1ebaac2527cd3439795c18ccef62a9fe4b488263b7d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortform av glamour",
+      "translation": "short form of glamour",
+      "examples": [
+        {
+          "no": "mye glam og glitter",
+          "en": "lots of glam and glitter"
+        }
+      ]
+    }
+  ]
+}

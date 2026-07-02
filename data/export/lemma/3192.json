@@ -1,0 +1,87 @@
+{
+  "source_article_id": 3192,
+  "lemmas": [
+    {
+      "lemma": "augsburgsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3766,
+      "is_sub_article": false,
+      "primary_translation": "Augsburg",
+      "word_forms": [
+        {
+          "word_form": "augsburgsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E*u0gs$%bu0rgsk",
+              "ipa": "ˈæ͡ʉgsˌbʉrgsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "augsburgske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E*u0gs$%bu0rg$sk@",
+              "ipa": "ˈæ͡ʉgsˌbʉrgskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ac6847b6eea9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac6847b6eea9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac6847b6eea9.mp3",
+            "text": "augsburgsk",
+            "source": "generated",
+            "content_sha256": "ccd47a728f402ca181ce498533c28053f41b8fc1cc8d6cd072f177d6c5756519",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som skriver seg fra byen Augsburg i Tyskland",
+      "translation": "originating from the city of Augsburg in Germany",
+      "examples": [
+        {
+          "no": "den augsburgske trosbekjennelsen fra 1530",
+          "en": "the Augsburg Confession from 1530"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_article_id": 110656,
+  "lemmas": [
+    {
+      "lemma": "brødmat",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 91685,
+      "is_sub_article": false,
+      "primary_translation": "bread food",
+      "word_forms": [
+        {
+          "word_form": "brødmat",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br2:$%mA:t",
+              "ipa": "ˈbrøːˌmɑːt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brødmaten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈøːmˌɑːtn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brødmater",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈøːmˌɑːtər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brødmatene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈøːmˌɑːtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6cce594bae0a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6cce594bae0a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6cce594bae0a.mp3",
+            "text": "brødmat",
+            "source": "generated",
+            "content_sha256": "5d40e3c72c983b108766ab6a4eed62366b87a2828b058363581ac0fb788008ab",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mat i form av brødvarer",
+      "translation": "food in the form of bread products",
+      "examples": [
+        {
+          "no": "brødmat med pålegg",
+          "en": "bread and spreads"
+        }
+      ]
+    }
+  ]
+}

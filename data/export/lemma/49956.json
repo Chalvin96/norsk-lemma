@@ -1,0 +1,96 @@
+{
+  "source_article_id": 49956,
+  "lemmas": [
+    {
+      "lemma": "sammenlagt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57311,
+      "is_sub_article": false,
+      "primary_translation": "total / altogether",
+      "word_forms": [
+        {
+          "word_form": "sammenlagt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA$m@n$%lAkt",
+              "ipa": "ˈsɑmənˌlɑkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sammenlagte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA$m@n$%lAk$t@",
+              "ipa": "ˈsɑmənˌlɑktə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ee79fcd001ce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee79fcd001ce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee79fcd001ce.mp3",
+            "text": "sammenlagt",
+            "source": "generated",
+            "content_sha256": "3cff7eedefaa30aadd6dd5d24ea6e84ed0ef83940f150d39a7841647ac5bf298",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er lagt sammen",
+      "translation": "that has been added together",
+      "examples": []
+    },
+    {
+      "text": "til sammen",
+      "translation": "in total",
+      "examples": [
+        {
+          "no": "sammenlagt veier de minst 200 kg",
+          "en": "together they weigh at least 200 kg"
+        },
+        {
+          "no": "hun leder sammenlagt etter tre renn",
+          "en": "she leads overall after three races"
+        }
+      ]
+    }
+  ]
+}

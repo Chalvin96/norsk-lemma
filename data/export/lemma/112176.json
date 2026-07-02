@@ -1,0 +1,108 @@
+{
+  "source_article_id": 112176,
+  "lemmas": [
+    {
+      "lemma": "fettfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 97650,
+      "is_sub_article": false,
+      "primary_translation": "fat-free",
+      "word_forms": [
+        {
+          "word_form": "fettfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɛtfrˌiː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fettfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɛtfrˌiːə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fettfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɛtfrˌɪt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5de3060a67f9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5de3060a67f9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5de3060a67f9.mp3",
+            "text": "fettfri",
+            "source": "generated",
+            "content_sha256": "0e281f7f8c43732c2471d793ab3ed23282061201b6b64151342a374bd6f3fd66"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten fett",
+      "translation": "fat-free",
+      "examples": [
+        {
+          "no": "fettfri melk",
+          "en": "fat-free milk"
+        }
+      ]
+    }
+  ]
+}

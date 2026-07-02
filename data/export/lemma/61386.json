@@ -1,0 +1,96 @@
+{
+  "source_article_id": 61386,
+  "lemmas": [
+    {
+      "lemma": "toll",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 2102027,
+      "is_sub_article": false,
+      "primary_translation": "customs duty / customs control",
+      "word_forms": [
+        {
+          "word_form": "toll",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tOl",
+              "ipa": "ˈtɔl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tollen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tO$ln=",
+              "ipa": "ˈtɔln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3cced2c8ecbf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3cced2c8ecbf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3cced2c8ecbf.mp3",
+            "text": "toll",
+            "source": "generated",
+            "content_sha256": "348ac3490b977b67c46eae5d0b735ff6348a6f6808e9944250fb8e033eabe1ff",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avgift på varer som blir ført over landegrenser",
+      "translation": "tax on goods crossing national borders",
+      "examples": [
+        {
+          "no": "betale toll",
+          "en": "pay customs duty"
+        },
+        {
+          "no": "det er høy toll på tobakk",
+          "en": "there is high duty on tobacco"
+        },
+        {
+          "no": "bli stoppet i tollen",
+          "en": "be stopped at customs"
+        },
+        {
+          "no": "gå rett gjennom tollen",
+          "en": "go straight through customs"
+        }
+      ]
+    }
+  ]
+}

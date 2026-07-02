@@ -1,0 +1,85 @@
+{
+  "source_article_id": 46521,
+  "lemmas": [
+    {
+      "lemma": "propelldrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 53545,
+      "is_sub_article": false,
+      "primary_translation": "propeller-driven",
+      "word_forms": [
+        {
+          "word_form": "propelldrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"pEl$%dre:$v@t",
+              "ipa": "prʊˈpɛlˌdreːvət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "propelldrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"pEl$%dre:v$n@",
+              "ipa": "prʊˈpɛlˌdreːvnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a5393b83897f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a5393b83897f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a5393b83897f.mp3",
+            "text": "propelldrevet",
+            "source": "generated",
+            "content_sha256": "4d63c7dd35ac5fe664ccbff9e713219447b98a4921ff22689e5609c4f20a9a61",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "drevet framover av propell",
+      "translation": "driven forward by a propeller",
+      "examples": [
+        {
+          "no": "propelldrevne fly skiftes ut med reaktordrevne",
+          "en": "propeller-driven aircraft are being replaced by jet-powered ones"
+        }
+      ]
+    }
+  ]
+}

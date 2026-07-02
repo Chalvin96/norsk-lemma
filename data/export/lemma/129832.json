@@ -1,0 +1,108 @@
+{
+  "source_article_id": 129832,
+  "lemmas": [
+    {
+      "lemma": "sprutsikker",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2873527,
+      "is_sub_article": false,
+      "primary_translation": "splashproof",
+      "word_forms": [
+        {
+          "word_form": "sprutsikker",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sprˈʉːtsˌɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sprutsikre",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sprˈʉːtsˌɪkrə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sprutsikkert",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sprˈʉːtsˌɪkəʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1a2a5d35b960.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a2a5d35b960.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a2a5d35b960.mp3",
+            "text": "sprutsikker",
+            "source": "generated",
+            "content_sha256": "b3cb8a181b546315c972f4c74330fb2753498600ea31f8846d339de64430d861"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som tåler sprut",
+      "translation": "resistant to splashing",
+      "examples": [
+        {
+          "no": "denne smartklokka er sprutsikker",
+          "en": "this smartwatch is splash-proof"
+        }
+      ]
+    }
+  ]
+}

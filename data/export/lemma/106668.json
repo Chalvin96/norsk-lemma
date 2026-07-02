@@ -1,0 +1,124 @@
+{
+  "source_article_id": 106668,
+  "lemmas": [
+    {
+      "lemma": "campingturist",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 92898,
+      "is_sub_article": false,
+      "primary_translation": "camper",
+      "word_forms": [
+        {
+          "word_form": "campingturist",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k{m$pIN$tu0$%rI$st",
+              "ipa": "ˈkæmpɪŋtʉˌrɪst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "campingturisten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɛmpɪŋtʉrˌɪstn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "campingturister",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kEm$pIN$tu0$%rI$st@r",
+              "ipa": "ˈkɛmpɪŋtʉˌrɪstər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "campingturistene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kEm$pIN$tu0$%rI$stn=$@",
+              "ipa": "ˈkɛmpɪŋtʉˌrɪstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bb582a3a1823.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bb582a3a1823.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bb582a3a1823.mp3",
+            "text": "campingturist",
+            "source": "generated",
+            "content_sha256": "1c0100a12658099dfa51d097fe04c5697a2986af3b9ad98edae52ad84cb3ca4a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "turist som er på campingtur",
+      "translation": "tourist who is camping",
+      "examples": [
+        {
+          "no": "tilreisende campingturister",
+          "en": "visiting camping tourists"
+        }
+      ]
+    }
+  ]
+}

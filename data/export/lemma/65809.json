@@ -1,0 +1,101 @@
+{
+  "source_article_id": 65809,
+  "lemmas": [
+    {
+      "lemma": "utspilt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75521,
+      "is_sub_article": false,
+      "primary_translation": "stretched out",
+      "word_forms": [
+        {
+          "word_form": "utspilt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%spIlt",
+              "ipa": "ˈʉːtˌspɪlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utspilte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%spIl$t@",
+              "ipa": "ˈʉːtˌspɪltə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "21bd184d5fc7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21bd184d5fc7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21bd184d5fc7.mp3",
+            "text": "utspilt",
+            "source": "generated",
+            "content_sha256": "e9fe2a85e955623f7b42a81bff453d6fe660b0b5e6ec26dd3b500a0dafbc4934",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er spilt stramt ut",
+      "translation": "stretched tautly out",
+      "examples": [
+        {
+          "no": "et utspilt seil dannet tak",
+          "en": "a taut sail formed a roof"
+        }
+      ]
+    },
+    {
+      "text": "som er videt ut",
+      "translation": "widened out",
+      "examples": [
+        {
+          "no": "utspilt magesekk",
+          "en": "distended stomach"
+        },
+        {
+          "no": "utspilte nesebor",
+          "en": "flared nostrils"
+        }
+      ]
+    }
+  ]
+}

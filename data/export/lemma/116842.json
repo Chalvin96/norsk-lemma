@@ -1,0 +1,108 @@
+{
+  "source_article_id": 116842,
+  "lemmas": [
+    {
+      "lemma": "heftefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 166196,
+      "is_sub_article": false,
+      "primary_translation": "unencumbered",
+      "word_forms": [
+        {
+          "word_form": "heftefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɛftəfrˌiː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "heftefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɛftəfrˌiːə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "heftefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɛftəfrˌɪt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1045e5c67104.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1045e5c67104.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1045e5c67104.mp3",
+            "text": "heftefri",
+            "source": "generated",
+            "content_sha256": "b9441a501baa7fda24794afc530bdc5a8a5c211627b0b83a3a67bc869ffe280f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fri for hefte",
+      "translation": "free of encumbrance",
+      "examples": [
+        {
+          "no": "et heftefritt skjøte",
+          "en": "a lien-free deed"
+        }
+      ]
+    }
+  ]
+}

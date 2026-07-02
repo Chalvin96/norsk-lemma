@@ -1,0 +1,101 @@
+{
+  "source_article_id": 533,
+  "lemmas": [
+    {
+      "lemma": "aksessorisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1324,
+      "is_sub_article": false,
+      "primary_translation": "accessory / subordinate",
+      "word_forms": [
+        {
+          "word_form": "aksessorisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$s@$\"su:$rI$sk",
+              "ipa": "ɑksəˈsuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aksessoriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$s@$\"su:$rI$sk@",
+              "ipa": "ɑksəˈsuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1266dc10d836.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1266dc10d836.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1266dc10d836.mp3",
+            "text": "aksessorisk",
+            "source": "generated",
+            "content_sha256": "7b849274a8c28c7ecc31c86b80d257f1132a8d7c6fa7d8501269650ceca22dd4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som følger med",
+      "translation": "accompanying",
+      "examples": []
+    },
+    {
+      "text": "som kommer i tillegg",
+      "translation": "additional",
+      "examples": []
+    },
+    {
+      "text": "sideordnet",
+      "translation": "subordinate",
+      "examples": [
+        {
+          "no": "en bergart med magnetitt som aksessorisk mineral",
+          "en": "a rock with magnetite as an accessory mineral"
+        },
+        {
+          "no": "aksessoriske rettigheter knyttet til utøvelse av reindrift",
+          "en": "accessory rights linked to the practice of reindeer husbandry"
+        }
+      ]
+    }
+  ]
+}

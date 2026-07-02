@@ -1,0 +1,122 @@
+{
+  "source_article_id": 10262,
+  "lemmas": [
+    {
+      "lemma": "diskett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12004,
+      "is_sub_article": false,
+      "primary_translation": "floppy disk",
+      "word_forms": [
+        {
+          "word_form": "diskett",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skEt",
+              "ipa": "dɪˈskɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "disketten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skE$tn=",
+              "ipa": "dɪˈskɛtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "disketter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skE$t@r",
+              "ipa": "dɪˈskɛtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskettene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skE$tn=$@",
+              "ipa": "dɪˈskɛtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5855897bb3b0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5855897bb3b0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5855897bb3b0.mp3",
+            "text": "diskett",
+            "source": "generated",
+            "content_sha256": "56d32fd79547c6a024369a2a82536880acc802d0c37a0aa66ac0c598f740a518",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "disk med liten lagringskapasitet",
+      "translation": "disk with small storage capacity",
+      "examples": [
+        {
+          "no": "folk flest har vel knapt sett en diskett på denne siden av årtusenskiftet",
+          "en": "most people have probably barely seen a floppy disk since the turn of the millennium"
+        }
+      ]
+    }
+  ]
+}

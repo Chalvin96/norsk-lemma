@@ -1,0 +1,121 @@
+{
+  "source_article_id": 55498,
+  "lemmas": [
+    {
+      "lemma": "solitær",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 63896,
+      "is_sub_article": false,
+      "primary_translation": "solitary / social",
+      "word_forms": [
+        {
+          "word_form": "solitær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sO$lI$\"t{:r",
+              "ipa": "sɔlɪˈtæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "solitære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$lI$\"t{:$r@",
+              "ipa": "sʊlɪˈtæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "solitært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$lI$\"t{:t`",
+              "ipa": "sʊlɪˈtæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ca42ac3536cd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca42ac3536cd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca42ac3536cd.mp3",
+            "text": "solitær",
+            "source": "generated",
+            "content_sha256": "c27b5dc87eaeadc8007d24a13dedb890bf60694b310aafb4aa31f224bb082eec",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om plante: som står for seg selv",
+      "translation": "standing alone (of a plant)",
+      "examples": [
+        {
+          "no": "solitære trær",
+          "en": "solitary trees"
+        }
+      ]
+    },
+    {
+      "text": "om dyr, særlig insekt: som ikke lever i ordnet samfunn",
+      "translation": "not living in an organized community (of animals, insects)",
+      "examples": []
+    },
+    {
+      "text": "motsatt sosial",
+      "translation": "social",
+      "examples": [
+        {
+          "no": "solitære bier",
+          "en": "solitary bees"
+        }
+      ]
+    }
+  ]
+}

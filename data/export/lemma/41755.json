@@ -1,0 +1,110 @@
+{
+  "source_article_id": 41755,
+  "lemmas": [
+    {
+      "lemma": "oblik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48843,
+      "is_sub_article": false,
+      "primary_translation": "oblique (grammar)",
+      "word_forms": [
+        {
+          "word_form": "oblik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$\"bli:k",
+              "ipa": "ɔˈblɪːk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oblike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$\"bli:$k@",
+              "ipa": "ɔˈblɪːkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oblikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$\"blIkt",
+              "ipa": "ɔˈblɪkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5ab2df3754ba.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ab2df3754ba.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ab2df3754ba.mp3",
+            "text": "oblik",
+            "source": "generated",
+            "content_sha256": "5b114e1037934beae2a27382005ccaa2adf4891b9bda7b02e31ce70a92b08368",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i grammatikk: som ikke står i nominativ",
+      "translation": "in grammar: not in the nominative case",
+      "examples": [
+        {
+          "no": "oblike kasus",
+          "en": "oblique cases"
+        },
+        {
+          "no": "oblik form av et ord",
+          "en": "oblique form of a word"
+        }
+      ]
+    }
+  ]
+}

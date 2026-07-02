@@ -1,0 +1,106 @@
+{
+  "source_article_id": 2600,
+  "lemmas": [
+    {
+      "lemma": "arbeidsufør",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3133,
+      "is_sub_article": false,
+      "primary_translation": "incapacitated",
+      "word_forms": [
+        {
+          "word_form": "arbeidsufør",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Id$s}:$%f2:r",
+              "ipa": "ˈɑrbæ͡ɪdsʉːˌføːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidsuføre",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Id$s}:$%f2:$r@",
+              "ipa": "ˈɑrbæ͡ɪdsʉːˌføːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidsuført",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Id$s}:$%f2:t`",
+              "ipa": "ˈɑrbæ͡ɪdsʉːˌføːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c65cebd6e659.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c65cebd6e659.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c65cebd6e659.mp3",
+            "text": "arbeidsufør",
+            "source": "generated",
+            "content_sha256": "ab6d482518d4f21883e95f965a55918fdf092e3efe426f94e754eb7b0cdfdaab",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke i stand til å arbeide",
+      "translation": "unable to work",
+      "examples": [
+        {
+          "no": "bli arbeidsufør etter en ulykke",
+          "en": "become disabled after an accident"
+        }
+      ]
+    }
+  ]
+}

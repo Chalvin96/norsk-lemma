@@ -1,0 +1,90 @@
+{
+  "source_article_id": 37946,
+  "lemmas": [
+    {
+      "lemma": "mens",
+      "hgno": 2,
+      "pos": "CONJ",
+      "source_lemma_id": 44541,
+      "is_sub_article": false,
+      "primary_translation": "while / whereas",
+      "word_forms": [
+        {
+          "word_form": "mens",
+          "tags_json": [
+            "SCONJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mEns",
+              "ipa": "ˈmɛns",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b5a6bd683cee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b5a6bd683cee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b5a6bd683cee.mp3",
+            "text": "mens",
+            "source": "generated",
+            "content_sha256": "695df9926f8c0d6691c71689423d863515c2c04fbb8e0986666e213bfe2c22e5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innleder en leddsetning som uttrykker at noe skjer samtidig",
+      "translation": "introduces a subordinate clause expressing simultaneous occurrence",
+      "examples": []
+    },
+    {
+      "text": "på den tid, samtidig som",
+      "translation": "at that time, at the same time as",
+      "examples": []
+    },
+    {
+      "text": "så lenge som",
+      "translation": "as long as",
+      "examples": [
+        {
+          "no": "mens du har ligget på sofaen, har jeg vasket opp",
+          "en": "while you've been lying on the sofa, I've done the dishes"
+        }
+      ]
+    },
+    {
+      "text": "innleder en leddsetning som uttrykker en (mer eller mindre skarp) motsetning",
+      "translation": "introduces a subordinate clause expressing a (more or less sharp) contrast",
+      "examples": [
+        {
+          "no": "den ene mannen kjente han, mens han ikke hadde truffet de to andre",
+          "en": "he knew the one man, while he had not met the other two"
+        },
+        {
+          "no": "han er lys, mens hun er mørk",
+          "en": "he is fair, while she is dark"
+        },
+        {
+          "no": "hun liker å sy, mens søsteren foretrekker å lese",
+          "en": "she likes sewing, while her sister prefers reading"
+        }
+      ]
+    }
+  ]
+}

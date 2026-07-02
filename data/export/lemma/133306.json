@@ -1,0 +1,87 @@
+{
+  "source_article_id": 133306,
+  "lemmas": [
+    {
+      "lemma": "tvistes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 2981232,
+      "is_sub_article": false,
+      "primary_translation": "to quarrel / to be in conflict",
+      "word_forms": [
+        {
+          "word_form": "tvistes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tvI$st@s",
+              "ipa": "ˈtvɪstəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tvistedes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tʋˈɪstədəs",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b25b925aaeee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b25b925aaeee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b25b925aaeee.mp3",
+            "text": "tvistes",
+            "source": "generated",
+            "content_sha256": "18ae44c871ac7a741b0d5d53d156faee8f258549170873229f2035e5885d94c3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "være i konflikt med hverandre",
+      "translation": "to be in conflict with each other",
+      "examples": [
+        {
+          "no": "tvistes om noe",
+          "en": "dispute something"
+        }
+      ]
+    }
+  ]
+}

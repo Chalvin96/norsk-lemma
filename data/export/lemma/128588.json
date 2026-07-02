@@ -1,0 +1,126 @@
+{
+  "source_article_id": 128588,
+  "lemmas": [
+    {
+      "lemma": "skolested",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 139490,
+      "is_sub_article": false,
+      "primary_translation": "school location",
+      "word_forms": [
+        {
+          "word_form": "skolested",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sku:$l@$%ste:d",
+              "ipa": "ˈskuːləˌsteːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skolestedet",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sku:$l@$%ste:$d@",
+              "ipa": "ˈskuːləˌsteːdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skolesteder",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈuːləstˌeːdər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skolestedene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈuːləstˌeːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4d9b8422a072.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4d9b8422a072.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4d9b8422a072.mp3",
+            "text": "skolested",
+            "source": "generated",
+            "content_sha256": "5cd2278b22342070758e18321dc4226010d25c63a947fd83d763ede8315270ce",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sted der det fins en eller flere skoler",
+      "translation": "place where one or more schools are located",
+      "examples": [
+        {
+          "no": "en bygd med lange tradisjoner som skolested",
+          "en": "a rural community with long traditions as a school location"
+        }
+      ]
+    }
+  ]
+}

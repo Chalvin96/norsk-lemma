@@ -1,0 +1,99 @@
+{
+  "source_article_id": 26439,
+  "lemmas": [
+    {
+      "lemma": "innfødt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31474,
+      "is_sub_article": false,
+      "primary_translation": "native",
+      "word_forms": [
+        {
+          "word_form": "innfødt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%f9t",
+              "ipa": "ˈɪnˌfœt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "innfødte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%f9$t@",
+              "ipa": "ˈɪnˌfœtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "601776cf7bac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/601776cf7bac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/601776cf7bac.mp3",
+            "text": "innfødt",
+            "source": "generated",
+            "content_sha256": "df676900546ab5e70b0dd8e1451a9b99f19dd4562f97ec494e9e7418d5871407",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er født og oppvokst eller har sin opprinnelse i et bestemt område",
+      "translation": "born and raised in or originating from a specific area",
+      "examples": [
+        {
+          "no": "være innfødt drammenser",
+          "en": "be a native of Drammen"
+        },
+        {
+          "no": "den innfødte befolkningen i Afrika",
+          "en": "the native population of Africa"
+        },
+        {
+          "no": "snakke tysk som en innfødt",
+          "en": "speak German like a native"
+        },
+        {
+          "no": "de innfødte i Sør-Amerika",
+          "en": "the natives of South America"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "source_article_id": 120909,
+  "lemmas": [
+    {
+      "lemma": "kultivert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168600,
+      "is_sub_article": false,
+      "primary_translation": "cultivated / cultured",
+      "word_forms": [
+        {
+          "word_form": "kultivert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0l$tI$\"ve:t`",
+              "ipa": "kʉltɪˈveːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kultiverte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0l$tI$\"ve:$t`@",
+              "ipa": "kʉltɪˈveːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b93717761cee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b93717761cee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b93717761cee.mp3",
+            "text": "kultivert",
+            "source": "generated",
+            "content_sha256": "a21fd6b58290d81d7ea285ff252f7723650bc1e8308d71a3a319d1e283464a9c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er preget av finkultur",
+      "translation": "characterized by high culture",
+      "examples": [
+        {
+          "no": "en svært kultivert og hyggelig ung mann",
+          "en": "a very cultivated and pleasant young man"
+        },
+        {
+          "no": "hun har en kultivert bakgrunn",
+          "en": "she has a cultivated background"
+        }
+      ]
+    },
+    {
+      "text": "som er dyrket eller odlet fram",
+      "translation": "cultivated or bred",
+      "examples": []
+    },
+    {
+      "text": "jamfør kultivere",
+      "translation": "to cultivate",
+      "examples": [
+        {
+          "no": "kultiverte husdyrraser",
+          "en": "cultivated livestock breeds"
+        },
+        {
+          "no": "landskapet er kultivert",
+          "en": "the landscape is cultivated"
+        }
+      ]
+    }
+  ]
+}

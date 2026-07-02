@@ -1,0 +1,112 @@
+{
+  "source_article_id": 12571,
+  "lemmas": [
+    {
+      "lemma": "en",
+      "hgno": 3,
+      "pos": "DET",
+      "source_lemma_id": 2008701,
+      "is_sub_article": false,
+      "primary_translation": "a/an",
+      "word_forms": [
+        {
+          "word_form": "en",
+          "tags_json": [
+            "Quant",
+            "Masc",
+            "Sing",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$@n",
+              "ipa": "ˈeːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ei",
+          "tags_json": [
+            "Quant",
+            "Fem",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"{*I",
+              "ipa": "ˈæ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "et",
+          "tags_json": [
+            "Quant",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "@t",
+              "ipa": "ət",
+              "tone": null,
+              "source": "nb_uttale",
+              "tone_status": "none"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a6b4f9a8e3bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6b4f9a8e3bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6b4f9a8e3bf.mp3",
+            "text": "en",
+            "source": "generated",
+            "content_sha256": "c004dca6ae43bb5f2ee5ce9914f6c5cc9561352edd85c009a038cf9e2f26cc98",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt til å nevne et enkelt individ, eksemplar eller lignende",
+      "translation": "used to mention a single individual, specimen",
+      "examples": [
+        {
+          "no": "ei geit, en katt og et esel",
+          "en": "a goat, a cat and a donkey"
+        },
+        {
+          "no": "et langt, hvitt hus",
+          "en": "a long, white house"
+        },
+        {
+          "no": "løpe som en gal",
+          "en": "run like a madman"
+        },
+        {
+          "no": "en ny Ibsen",
+          "en": "a new Ibsen"
+        }
+      ]
+    }
+  ]
+}

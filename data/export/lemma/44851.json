@@ -1,0 +1,127 @@
+{
+  "source_article_id": 44851,
+  "lemmas": [
+    {
+      "lemma": "pi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 51813,
+      "is_sub_article": false,
+      "primary_translation": "Greek letter pi / circle ratio symbol",
+      "word_forms": [
+        {
+          "word_form": "pi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pi:",
+              "ipa": "ˈpɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pi:$@n",
+              "ipa": "ˈpɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pi:$@r",
+              "ipa": "ˈpɪːər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "piene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pi:$@$n@",
+              "ipa": "ˈpɪːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3ea148e8658b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ea148e8658b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ea148e8658b.mp3",
+            "text": "pi",
+            "source": "generated",
+            "content_sha256": "ca1a26aa4d80649d0f12c75ff28ad8932e1d8b529178c2a62ab9d450e23014df",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sekstende bokstav i det greske alfabetet (π, Π)",
+      "translation": "sixteenth letter of the Greek alphabet (π, Π)",
+      "examples": []
+    },
+    {
+      "text": "symbol for forholdet mellom omkretsen og diameteren til en sirkel",
+      "translation": "symbol for the ratio of a circle's circumference to its diameter",
+      "examples": [
+        {
+          "no": "π = 3,14159…",
+          "en": "π = 3.14159…"
+        }
+      ]
+    }
+  ]
+}

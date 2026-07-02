@@ -1,0 +1,91 @@
+{
+  "source_article_id": 57705,
+  "lemmas": [
+    {
+      "lemma": "stringent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 66077,
+      "is_sub_article": false,
+      "primary_translation": "stringent",
+      "word_forms": [
+        {
+          "word_form": "stringent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "strIN$\"gEnt",
+              "ipa": "strɪŋˈgɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "stringente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "strIN$\"gEn$t@",
+              "ipa": "strɪŋˈgɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "63ca85cbb762.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63ca85cbb762.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63ca85cbb762.mp3",
+            "text": "stringent",
+            "source": "generated",
+            "content_sha256": "82acace1da0045458b5d02f970568efaf45bee4dfe4d234b43f0242b252cb1a1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "klar og logisk",
+      "translation": "clear and logical",
+      "examples": [
+        {
+          "no": "stringent tenkning",
+          "en": "rigorous thinking"
+        },
+        {
+          "no": "uttrykke seg klart og stringent",
+          "en": "express oneself clearly and rigorously"
+        }
+      ]
+    }
+  ]
+}

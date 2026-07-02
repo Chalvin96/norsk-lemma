@@ -1,0 +1,106 @@
+{
+  "source_article_id": 40884,
+  "lemmas": [
+    {
+      "lemma": "nitrøs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47843,
+      "is_sub_article": false,
+      "primary_translation": "nitrogenous",
+      "word_forms": [
+        {
+          "word_form": "nitrøs",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nI$\"tr2:s",
+              "ipa": "nɪˈtrøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nitrøse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nI$\"\"tr2:$s@",
+              "ipa": "nɪˈtrøːsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nitrøst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nI$\"tr2:$st",
+              "ipa": "nɪˈtrøːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "30ffaac923fc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/30ffaac923fc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/30ffaac923fc.mp3",
+            "text": "nitrøs",
+            "source": "generated",
+            "content_sha256": "963e06ad94f2e1fe3d866cba289eda5f217050b4f0f5f9ba520561ccaf3d3cdd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som inneholder nitrogen",
+      "translation": "containing nitrogen",
+      "examples": [
+        {
+          "no": "nitrøse gasser",
+          "en": "nitrous gases"
+        }
+      ]
+    }
+  ]
+}

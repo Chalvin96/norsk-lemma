@@ -1,0 +1,128 @@
+{
+  "source_article_id": 128002,
+  "lemmas": [
+    {
+      "lemma": "sjøsmak",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2223688,
+      "is_sub_article": false,
+      "primary_translation": "sea taste",
+      "word_forms": [
+        {
+          "word_form": "sjøsmak",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%smA:k",
+              "ipa": "ˈʃøːˌsmɑːk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sjøsmaken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈøːsmˌɑːkən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sjøsmaker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈøːsmˌɑːkər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sjøsmakene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈøːsmˌɑːkənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f51aa34f225a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f51aa34f225a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f51aa34f225a.mp3",
+            "text": "sjøsmak",
+            "source": "generated",
+            "content_sha256": "2e13b1e92e81f9377bcb774168540e4ce90aedaabf1b588a0e8b04c6fef9cf6e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "smak som av sjø",
+      "translation": "taste of the sea",
+      "examples": [
+        {
+          "no": "blåskjell gir en frisk sjøsmak",
+          "en": "mussels give a fresh taste of the sea"
+        }
+      ]
+    }
+  ]
+}

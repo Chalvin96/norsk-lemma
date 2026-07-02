@@ -1,0 +1,184 @@
+{
+  "source_article_id": 226,
+  "lemmas": [
+    {
+      "lemma": "adresse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1016,
+      "is_sub_article": false,
+      "primary_translation": "address / recipient",
+      "word_forms": [
+        {
+          "word_form": "adresse",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"drE$s@",
+              "ipa": "ɑˈdrɛsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adressa",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"drE$sA",
+              "ipa": "ɑˈdrɛsɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adresser",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"drE$s@r",
+              "ipa": "ɑˈdrɛsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adressene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"drE$sn=$@",
+              "ipa": "ɑˈdrɛsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adressen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"drE$sn=",
+              "ipa": "ɑˈdrɛsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bc44894925a4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc44894925a4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc44894925a4.mp3",
+            "text": "adresse",
+            "source": "generated",
+            "content_sha256": "e9fdcfc55addeda51be2e4b4b139c721ac1448baadc0dd0ef423bdd2e28d776d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "opplysning om stedet der noen bor eller en virksomhet holder til",
+      "translation": "information about the place where someone lives or a business is located",
+      "examples": [
+        {
+          "no": "skifte adresse",
+          "en": "change address"
+        },
+        {
+          "no": "uten fast adresse",
+          "en": "with no fixed address"
+        },
+        {
+          "no": "mangelfull adresse",
+          "en": "incomplete address"
+        },
+        {
+          "no": "navn og adresse",
+          "en": "name and address"
+        }
+      ]
+    },
+    {
+      "text": "(høytidelig) skriv fra flere personer til en enkeltperson eller institusjon med krav, protest eller lykkønskning",
+      "translation": "(solemn) writing from several people to a single person or institution with demands, protests, or congratulations",
+      "examples": [
+        {
+          "no": "en adresse til Kongen fra Stortinget",
+          "en": "an address to the King from the Storting"
+        },
+        {
+          "no": "kunstnerne sendte en adresse til myndighetene der de klaget over sine kår",
+          "en": "the artists sent an address to the authorities in which they complained about their conditions"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning, særlig i fotball: mottaker (av ballen)",
+      "translation": ", especially in football: receiver (of the ball)",
+      "examples": [
+        {
+          "no": "en pasning uten adresse",
+          "en": "a pass with no address"
+        },
+        {
+          "no": "han hadde riktig adresse på flere av pasningene",
+          "en": "he had the right address on several of his passes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 68083,
+  "lemmas": [
+    {
+      "lemma": "vestnorsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 78607,
+      "is_sub_article": false,
+      "primary_translation": "West Norwegian",
+      "word_forms": [
+        {
+          "word_form": "vestnorsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$%stnO$s`k",
+              "ipa": "ˈvɛˌstnɔʂk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vestnorske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$%stnO$s`k@",
+              "ipa": "ˈvɛˌstnɔʂkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7059704fa862.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7059704fa862.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7059704fa862.mp3",
+            "text": "vestnorsk",
+            "source": "generated",
+            "content_sha256": "a74075906e8106bf0b62e0ee3be653b9f1650d8213983b3382d3cc7d9b4dbbe8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Vest-Norge og vestlendinger",
+      "translation": "relating to Western Norway and its inhabitants",
+      "examples": [
+        {
+          "no": "vestnorske målføre",
+          "en": "Western Norwegian dialects"
+        }
+      ]
+    }
+  ]
+}

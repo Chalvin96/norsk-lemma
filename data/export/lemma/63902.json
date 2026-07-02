@@ -1,0 +1,95 @@
+{
+  "source_article_id": 63902,
+  "lemmas": [
+    {
+      "lemma": "ugift",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73167,
+      "is_sub_article": false,
+      "primary_translation": "unmarried",
+      "word_forms": [
+        {
+          "word_form": "ugift",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%jIft",
+              "ipa": "ˈʉːˌjɪft",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ugifte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%jIf$t@",
+              "ipa": "ˈʉːˌjɪftə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "326a47ffe578.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/326a47ffe578.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/326a47ffe578.mp3",
+            "text": "ugift",
+            "source": "generated",
+            "content_sha256": "6fea554dcbd7b5b293e3ef7f00635e201e56a991f5163b26f6679b364ecc5151",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er gift",
+      "translation": "not married",
+      "examples": [
+        {
+          "no": "være ugift",
+          "en": "be unmarried"
+        },
+        {
+          "no": "ugifte kvinner og menn",
+          "en": "unmarried women and men"
+        },
+        {
+          "no": "både ektepar og ugifte",
+          "en": "both married couples and unmarried people"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source_article_id": 30622,
+  "lemmas": [
+    {
+      "lemma": "knutt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36070,
+      "is_sub_article": false,
+      "primary_translation": "knotted whip / strike",
+      "word_forms": [
+        {
+          "word_form": "knutt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"knu0t",
+              "ipa": "ˈknʉt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "knutten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"knu0$tn=",
+              "ipa": "ˈknʉtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "knutter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"knu0$t@r",
+              "ipa": "ˈknʉtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "knuttene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"knu0$tn=$@",
+              "ipa": "ˈknʉtn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3bb12e3d910e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3bb12e3d910e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3bb12e3d910e.mp3",
+            "text": "knutt",
+            "source": "generated",
+            "content_sha256": "03627e37747b723ae338017db587beb95788b414e700f79b56175431eed5bcdf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pisk av lærreimer med knuter i endene",
+      "translation": "whip of leather straps with knots at the ends",
+      "examples": []
+    },
+    {
+      "text": "slag av knutt",
+      "translation": "strike with a knotted whip",
+      "examples": [
+        {
+          "no": "gi knutt",
+          "en": "give a pinch"
+        }
+      ]
+    }
+  ]
+}

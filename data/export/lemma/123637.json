@@ -1,0 +1,121 @@
+{
+  "source_article_id": 123637,
+  "lemmas": [
+    {
+      "lemma": "havnesjef",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 105439,
+      "is_sub_article": false,
+      "primary_translation": "harbor master",
+      "word_forms": [
+        {
+          "word_form": "havnesjef",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAv$n@$%Se:f",
+              "ipa": "ˈhɑvnəˌʃeːf",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "havnesjefen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAv$n@$%Se:$f@n",
+              "ipa": "ˈhɑvnəˌʃeːfən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "havnesjefer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑʋnəʃˌeːfər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "havnesjefene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑʋnəʃˌeːfənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f80eeacd9ea9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f80eeacd9ea9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f80eeacd9ea9.mp3",
+            "text": "havnesjef",
+            "source": "generated",
+            "content_sha256": "e901b0b89c18a11bccc2dc70eadede3039873bfa326408280c10a665d2362af5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "daglig leder for et havnedistrikt i en by",
+      "translation": "daily manager of a port district in a city",
+      "examples": []
+    }
+  ]
+}

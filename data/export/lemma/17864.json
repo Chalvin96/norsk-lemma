@@ -1,0 +1,100 @@
+{
+  "source_article_id": 17864,
+  "lemmas": [
+    {
+      "lemma": "fremre",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 20885,
+      "is_sub_article": false,
+      "primary_translation": "front",
+      "word_forms": [
+        {
+          "word_form": "fremre",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frEm$r@",
+              "ipa": "ˈfrɛmrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fremst",
+          "tags_json": [
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frEmst",
+              "ipa": "ˈfrɛmst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fremste",
+          "tags_json": [
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frEm$st@",
+              "ipa": "ˈfrɛmstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7650041cbabc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7650041cbabc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7650041cbabc.mp3",
+            "text": "fremre",
+            "source": "generated",
+            "content_sha256": "c0961f098e13cd3af10669b3ec8b9c93163af48e3323aa1d6156f1d4a23af6c8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er lenger eller lengst framme",
+      "translation": "situated further forward",
+      "examples": [
+        {
+          "no": "i den fremre delen",
+          "en": "in the front part"
+        },
+        {
+          "no": "fremre vogn i toget",
+          "en": "the front car of the train"
+        }
+      ]
+    }
+  ]
+}

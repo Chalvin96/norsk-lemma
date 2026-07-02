@@ -1,0 +1,107 @@
+{
+  "source_article_id": 70435,
+  "lemmas": [
+    {
+      "lemma": "pubertal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 158193,
+      "is_sub_article": false,
+      "primary_translation": "pubertal",
+      "word_forms": [
+        {
+          "word_form": "pubertal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pu0$b@$\"t`A:l",
+              "ipa": "pʉbəˈʈɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pubertale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pu0$b@$\"t`A:$l@",
+              "ipa": "pʉbəˈʈɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pubertalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pʉbəʈˌɑːlt",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e3b9fcb59a6f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3b9fcb59a6f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3b9fcb59a6f.mp3",
+            "text": "pubertal",
+            "source": "generated",
+            "content_sha256": "1d6a6e2b45b66b40670be29b51b17b51afd5a244fb25b7596ad357f4379a0c64",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller er karakteristisk for pubertet",
+      "translation": "relating to or characteristic of puberty",
+      "examples": [
+        {
+          "no": "pubertal humor",
+          "en": "pubescent humor"
+        }
+      ]
+    }
+  ]
+}

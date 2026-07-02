@@ -1,0 +1,91 @@
+{
+  "source_article_id": 38280,
+  "lemmas": [
+    {
+      "lemma": "midterst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 44910,
+      "is_sub_article": false,
+      "primary_translation": "middlemost",
+      "word_forms": [
+        {
+          "word_form": "midterst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mI$t@s`t`",
+              "ipa": "ˈmɪtəʂʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "midterste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$t@s`$t`@",
+              "ipa": "ˈmɪtəʂʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e27d7a552641.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e27d7a552641.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e27d7a552641.mp3",
+            "text": "midterst",
+            "source": "generated",
+            "content_sha256": "f090ce53ed68f6e4b272959d47986d98b24cc72712ba3ff0754992edfd5cda94",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mellomst, i midten",
+      "translation": "middle, in the middle",
+      "examples": [
+        {
+          "no": "den midterste døra",
+          "en": "the middle door"
+        },
+        {
+          "no": "ligge midterst",
+          "en": "be in the middle"
+        }
+      ]
+    }
+  ]
+}

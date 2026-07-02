@@ -1,0 +1,111 @@
+{
+  "source_article_id": 26045,
+  "lemmas": [
+    {
+      "lemma": "individuell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31026,
+      "is_sub_article": false,
+      "primary_translation": "individual",
+      "word_forms": [
+        {
+          "word_form": "individuell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$vI$du0$\"El",
+              "ipa": "ɪndɪvɪdʉˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "individuelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$vI$du0$\"E$l@",
+              "ipa": "ɪndɪvɪdʉˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "individuelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$vI$du0$\"Elt",
+              "ipa": "ɪndɪvɪdʉˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7b7a43d13ded.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b7a43d13ded.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b7a43d13ded.mp3",
+            "text": "individuell",
+            "source": "generated",
+            "content_sha256": "7475e5de1c286afb9aeaad8e143d024fa926791384ac7cc7e163ed12457eab10",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som særmerker eller er knyttet til det enkelte individ",
+      "translation": "that which characterizes or is related to the individual",
+      "examples": [
+        {
+          "no": "vi nordmenn med alle våre individuelle særtrekk",
+          "en": "we Norwegians with all our individual characteristics"
+        },
+        {
+          "no": "resultatene viste store individuelle variasjoner",
+          "en": "the results showed large individual variations"
+        },
+        {
+          "no": "individuell undervisning",
+          "en": "individual instruction"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "source_article_id": 133259,
+  "lemmas": [
+    {
+      "lemma": "tynnes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 2981195,
+      "is_sub_article": false,
+      "primary_translation": "become thinner / sparser",
+      "word_forms": [
+        {
+          "word_form": "tynnes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tY$n@s",
+              "ipa": "ˈtʏnəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tyntes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ty:n$t@s",
+              "ipa": "ˈtyːntəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c21804dd9f29.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c21804dd9f29.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c21804dd9f29.mp3",
+            "text": "tynnes",
+            "source": "generated",
+            "content_sha256": "2b4a42535f3052c65b3c38d96158e330fba75ef37839c8deb5a95f7d9a9b62fe",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli tynnere",
+      "translation": "become thinner",
+      "examples": [
+        {
+          "no": "ansiktet tyntes",
+          "en": "the face thinned"
+        }
+      ]
+    },
+    {
+      "text": "bli (mer) glissen",
+      "translation": "become sparser",
+      "examples": [
+        {
+          "no": "håret har tynnes",
+          "en": "the hair has thinned"
+        },
+        {
+          "no": "det tynnes blant de gamle i bygda",
+          "en": "there are fewer and fewer of the old people in the village"
+        }
+      ]
+    }
+  ]
+}

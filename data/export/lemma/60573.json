@@ -1,0 +1,67 @@
+{
+  "source_article_id": 60573,
+  "lemmas": [
+    {
+      "lemma": "ti",
+      "hgno": 3,
+      "pos": "DET",
+      "source_lemma_id": 69264,
+      "is_sub_article": false,
+      "primary_translation": "ten (number)",
+      "word_forms": [
+        {
+          "word_form": "ti",
+          "tags_json": [
+            "Quant",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ti:",
+              "ipa": "ˈtɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c6be065c1f11.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c6be065c1f11.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c6be065c1f11.mp3",
+            "text": "ti",
+            "source": "generated",
+            "content_sha256": "ef679ecc7c9d304cfa1fb32dea44ac2ad4e2d95713dea952379c958f28572105",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grunntallet 10",
+      "translation": "the base number 10",
+      "examples": [
+        {
+          "no": "de ti bud",
+          "en": "the Ten Commandments"
+        },
+        {
+          "no": "det går bra i ni av ti tilfeller",
+          "en": "it goes well in nine out of ten cases"
+        }
+      ]
+    }
+  ]
+}

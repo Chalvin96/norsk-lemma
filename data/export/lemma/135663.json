@@ -1,0 +1,108 @@
+{
+  "source_article_id": 135663,
+  "lemmas": [
+    {
+      "lemma": "yngstebarn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 154967,
+      "is_sub_article": false,
+      "primary_translation": "youngest child",
+      "word_forms": [
+        {
+          "word_form": "yngstebarn",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"YN$st@$%bA:n`",
+              "ipa": "ˈʏŋstəˌbɑːɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "yngstebarnet",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʏŋstəbˌɑːɳə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "yngstebarna",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʏŋstəbˌɑːɳɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "75bc751784b6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75bc751784b6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75bc751784b6.mp3",
+            "text": "yngstebarn",
+            "source": "generated",
+            "content_sha256": "0044993340cfa4685722eb188387b3e8a67c41378308ef230c6c4ebece68f1c1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "yngste barn i en familie",
+      "translation": "youngest child in a family",
+      "examples": [
+        {
+          "no": "hun var i mammapermisjon med yngstebarnet",
+          "en": "she was on maternity leave with the youngest child"
+        }
+      ]
+    }
+  ]
+}

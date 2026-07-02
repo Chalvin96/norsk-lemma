@@ -1,0 +1,87 @@
+{
+  "source_article_id": 47085,
+  "lemmas": [
+    {
+      "lemma": "påkledd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54108,
+      "is_sub_article": false,
+      "primary_translation": "dressed",
+      "word_forms": [
+        {
+          "word_form": "påkledd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%klEd",
+              "ipa": "ˈpoːˌklɛd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "påkledde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%klE$d@",
+              "ipa": "ˈpoːˌklɛdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3db88ce5413a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3db88ce5413a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3db88ce5413a.mp3",
+            "text": "påkledd",
+            "source": "generated",
+            "content_sha256": "6c58c784491da441d3ec5ed795045302564cb9497a2e0eb2a66a0791a76619f2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er kledd på",
+      "translation": "who is dressed",
+      "examples": [
+        {
+          "no": "ligge fullt påkledd på senga",
+          "en": "lie fully dressed on the bed"
+        }
+      ]
+    }
+  ]
+}

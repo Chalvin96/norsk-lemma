@@ -1,0 +1,92 @@
+{
+  "source_article_id": 24998,
+  "lemmas": [
+    {
+      "lemma": "hypotetisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 29513,
+      "is_sub_article": false,
+      "primary_translation": "hypothetical",
+      "word_forms": [
+        {
+          "word_form": "hypotetisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"te:$tI$sk",
+              "ipa": "hʏpʊˈteːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hypotetiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$pU$\"te:$tI$sk@",
+              "ipa": "hʏpʊˈteːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c61db1d1703c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c61db1d1703c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c61db1d1703c.mp3",
+            "text": "hypotetisk",
+            "source": "generated",
+            "content_sha256": "871ca01a8522cfdeab87a4018b4d0523b80b1cdf897c4e2d8607236408f27d1a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bygger på en hypotese",
+      "translation": "based on a hypothesis",
+      "examples": []
+    },
+    {
+      "text": "mulig, tenkt",
+      "translation": "possible, imagined",
+      "examples": [
+        {
+          "no": "en hypotetisk påstand",
+          "en": "a hypothetical claim"
+        }
+      ]
+    }
+  ]
+}

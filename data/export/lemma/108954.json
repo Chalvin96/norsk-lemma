@@ -1,0 +1,81 @@
+{
+  "source_article_id": 108954,
+  "lemmas": [
+    {
+      "lemma": "arbeidsavklaringspenger",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 162007,
+      "is_sub_article": false,
+      "primary_translation": "work assessment benefit",
+      "word_forms": [
+        {
+          "word_form": "arbeidsavklaringspenger",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Id$sA:v$klA:$rIN$%spEN$@r",
+              "ipa": "ˈɑrbæ͡ɪdsɑːvklɑːrɪŋˌspɛŋər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidsavklaringspengene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑrbæ͡ɪdsɑːʋklˌɑːrɪŋspˌɛŋənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ba254d4b8017.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba254d4b8017.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba254d4b8017.mp3",
+            "text": "arbeidsavklaringspenger",
+            "source": "generated",
+            "content_sha256": "f95b5b978eaf7a70a4a7b346c818610bfab324dc6d207068c5d0c4dce7de0cef",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ytelse fra folketrygd i en periode med arbeidsavklaring",
+      "translation": "benefit from the national insurance during a period of work assessment",
+      "examples": []
+    }
+  ]
+}

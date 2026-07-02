@@ -1,0 +1,190 @@
+{
+  "source_article_id": 50125,
+  "lemmas": [
+    {
+      "lemma": "sanksjonere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 57509,
+      "is_sub_article": false,
+      "primary_translation": "approve / impose sanctions",
+      "word_forms": [
+        {
+          "word_form": "sanksjonere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sANk$SU$\"ne:$r@",
+              "ipa": "sɑŋkʃʊˈneːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sanksjonerer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sANk$SU$\"ne:$r@r",
+              "ipa": "sɑŋkʃʊˈneːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sanksjoneres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sANk$SU$\"ne:$r@s",
+              "ipa": "sɑŋkʃʊˈneːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sanksjonerte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sɑŋkʃunˈeːʈə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sanksjonert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sANk$SU$\"ne:t`",
+              "ipa": "sɑŋkʃʊˈneːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sanksjonerende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sANk$SU$\"ne:$n`=$@",
+              "ipa": "sɑŋkʃʊˈneːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sanksjoner",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sANk$SU$\"ne:r",
+              "ipa": "sɑŋkʃʊˈneːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c6905ef50750.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c6905ef50750.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c6905ef50750.mp3",
+            "text": "sanksjonere",
+            "source": "generated",
+            "content_sha256": "b0486ea59134c9920c265e50c61869b737fe33f1a5be0fc6327364c24e1fef3b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "godkjenne, stadfeste",
+      "translation": "approve, confirm",
+      "examples": [
+        {
+          "no": "loven måtte sanksjoneres av Kongen",
+          "en": "the law had to be sanctioned by the King"
+        }
+      ]
+    },
+    {
+      "text": "utøve straffetiltak",
+      "translation": "impose punitive measures",
+      "examples": [
+        {
+          "no": "FN kan sanksjonere mot medlemsland som bryter FN-pakten",
+          "en": "the UN can impose sanctions on member states that violate the UN Charter"
+        }
+      ]
+    }
+  ]
+}

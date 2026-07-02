@@ -1,0 +1,91 @@
+{
+  "source_article_id": 3854,
+  "lemmas": [
+    {
+      "lemma": "avspent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4595,
+      "is_sub_article": false,
+      "primary_translation": "relaxed / un-tense",
+      "word_forms": [
+        {
+          "word_form": "avspent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%spEnt",
+              "ipa": "ˈɑːvˌspɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "avspente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%spEn$t@",
+              "ipa": "ˈɑːvˌspɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "007852b20eae.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/007852b20eae.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/007852b20eae.mp3",
+            "text": "avspent",
+            "source": "generated",
+            "content_sha256": "33856ce6916763cd514407b60d837ff515e45b9e1ca2e873bad9148492431f5e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "motsatt anspent",
+      "translation": "relaxed",
+      "examples": [
+        {
+          "no": "situasjonen er avspent",
+          "en": "the situation is relaxed"
+        },
+        {
+          "no": "i en avspent atmosfære",
+          "en": "in a relaxed atmosphere"
+        }
+      ]
+    }
+  ]
+}

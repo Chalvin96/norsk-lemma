@@ -1,0 +1,106 @@
+{
+  "source_article_id": 10168,
+  "lemmas": [
+    {
+      "lemma": "dimorf",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11904,
+      "is_sub_article": false,
+      "primary_translation": "dimorphic",
+      "word_forms": [
+        {
+          "word_form": "dimorf",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"mOrf",
+              "ipa": "dɪˈmɔrf",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dimorfe",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"mOr$f@",
+              "ipa": "dɪˈmɔrfə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dimorft",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"mOrft",
+              "ipa": "dɪˈmɔrft",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9c300d64b564.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9c300d64b564.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9c300d64b564.mp3",
+            "text": "dimorf",
+            "source": "generated",
+            "content_sha256": "fa61835c3dfad9b3ef2092d29fb9baaf28bd3564a87dc7f3c81556d27b658a27",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som opptrer eller fins i to former",
+      "translation": "occurring or existing in two forms",
+      "examples": [
+        {
+          "no": "en dimorf sopp som veksler mellom å være gjærsopp og muggsopp",
+          "en": "a dimorphic fungus that alternates between being a yeast and a mold"
+        }
+      ]
+    }
+  ]
+}

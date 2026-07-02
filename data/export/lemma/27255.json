@@ -1,0 +1,91 @@
+{
+  "source_article_id": 27255,
+  "lemmas": [
+    {
+      "lemma": "islagt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32361,
+      "is_sub_article": false,
+      "primary_translation": "ice-covered",
+      "word_forms": [
+        {
+          "word_form": "islagt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"i:$%slAkt",
+              "ipa": "ˈɪːˌslɑkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "islagte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"i:$%slAk$t@",
+              "ipa": "ˈɪːˌslɑktə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e29c7bb913ca.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e29c7bb913ca.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e29c7bb913ca.mp3",
+            "text": "islagt",
+            "source": "generated",
+            "content_sha256": "c2ea41fa6d542e576069fe79a046fa1af7f6b6debd759a35d909a5010cc85540",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det ligger is på",
+      "translation": "covered with ice",
+      "examples": [
+        {
+          "no": "fjellvannet lå islagt til ut i juni",
+          "en": "the mountain lake remained ice-covered until late June"
+        },
+        {
+          "no": "idrettsbanen var islagt",
+          "en": "the sports field was ice-covered"
+        }
+      ]
+    }
+  ]
+}

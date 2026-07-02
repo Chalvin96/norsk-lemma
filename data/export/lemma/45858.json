@@ -1,0 +1,139 @@
+{
+  "source_article_id": 45858,
+  "lemmas": [
+    {
+      "lemma": "PR",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 637,
+      "is_sub_article": false,
+      "primary_translation": "PR",
+      "word_forms": [
+        {
+          "word_form": "PR",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pe:$%{r",
+              "ipa": "ˈpeːˌær",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "PR-en",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pe:$@n`",
+              "ipa": "ˈpeːəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "PR-er",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈeːər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "PR-ene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈeːəɳə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6eb15a022337.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6eb15a022337.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6eb15a022337.mp3",
+            "text": "PR",
+            "source": "generated",
+            "content_sha256": "6ff6cf6eef42d6779561aaf0e5799e579bf451f04604fe98da49ace51bee2162",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "blest, publisitet",
+      "translation": "buzz, publicity",
+      "examples": []
+    },
+    {
+      "text": "jamfør public relations",
+      "translation": "",
+      "examples": [
+        {
+          "no": "drive PR",
+          "en": "do PR"
+        },
+        {
+          "no": "all den gode PR-en ga nytt håp",
+          "en": "all the good PR gave new hope"
+        },
+        {
+          "no": "VM-arrangementet var god PR for landet",
+          "en": "the World Championship event was good PR for the country"
+        }
+      ]
+    }
+  ]
+}

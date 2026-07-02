@@ -1,0 +1,87 @@
+{
+  "source_article_id": 24973,
+  "lemmas": [
+    {
+      "lemma": "hyperkorrekt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 29488,
+      "is_sub_article": false,
+      "primary_translation": "hypercorrect",
+      "word_forms": [
+        {
+          "word_form": "hyperkorrekt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hy:$p@r$kO$%rEkt",
+              "ipa": "ˈhyːpərkɔˌrɛkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hyperkorrekte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hy:$p@r$kO$%rEk$t@",
+              "ipa": "ˈhyːpərkɔˌrɛktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6c8690013b7f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c8690013b7f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c8690013b7f.mp3",
+            "text": "hyperkorrekt",
+            "source": "generated",
+            "content_sha256": "e7c456a04cce14be9738f38cf2fd2cb2592c62bf0f8c2b208774a16e08975ee8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "overdrevent korrekt (og derfor ofte feilaktig)",
+      "translation": "excessively correct (and therefore often mistaken)",
+      "examples": [
+        {
+          "no": "bruke hyperkorrekte former",
+          "en": "use hypercorrect forms"
+        }
+      ]
+    }
+  ]
+}

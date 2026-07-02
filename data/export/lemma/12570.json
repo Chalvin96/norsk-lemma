@@ -1,0 +1,200 @@
+{
+  "source_article_id": 12570,
+  "lemmas": [
+    {
+      "lemma": "en",
+      "hgno": 2,
+      "pos": "DET",
+      "source_lemma_id": 14655,
+      "is_sub_article": false,
+      "primary_translation": "one",
+      "word_forms": [
+        {
+          "word_form": "en",
+          "tags_json": [
+            "Quant",
+            "Masc",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:$@n",
+              "ipa": "ˈeːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ei",
+          "tags_json": [
+            "Quant",
+            "Fem",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"{*I",
+              "ipa": "ˈæ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "et",
+          "tags_json": [
+            "Quant",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "@t",
+              "ipa": "ət",
+              "tone": null,
+              "source": "nb_uttale",
+              "tone_status": "none"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a6b4f9a8e3bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6b4f9a8e3bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6b4f9a8e3bf.mp3",
+            "text": "en",
+            "source": "generated",
+            "content_sha256": "c004dca6ae43bb5f2ee5ce9914f6c5cc9561352edd85c009a038cf9e2f26cc98",
+            "tone": 1
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "én",
+      "hgno": 0,
+      "pos": "DET",
+      "source_lemma_id": 156257,
+      "is_sub_article": false,
+      "primary_translation": "one",
+      "word_forms": [
+        {
+          "word_form": "én",
+          "tags_json": [
+            "Quant",
+            "Masc",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:n",
+              "ipa": "ˈeːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "éi",
+          "tags_json": [
+            "Quant",
+            "Fem",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈeːɪ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ett",
+          "tags_json": [
+            "Quant",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Et",
+              "ipa": "ˈɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "67665dc86ffc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/67665dc86ffc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/67665dc86ffc.mp3",
+            "text": "én",
+            "source": "generated",
+            "content_sha256": "7ae31b8b1960201b7c2b2c7bba6dd0cd61d360c4eb5a6680dfd1328ea3404262",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grunntallet 1",
+      "translation": "the cardinal number 1",
+      "examples": []
+    },
+    {
+      "text": "det første tallet i tallrekken",
+      "translation": "the first number in a sequence",
+      "examples": [
+        {
+          "no": "en og en er to",
+          "en": "one and one is two"
+        },
+        {
+          "no": "ikke én torde gripe inn",
+          "en": "not one dared intervene"
+        },
+        {
+          "no": "det fins mer enn én måte å gjøre det på",
+          "en": "there is more than one way to do it"
+        },
+        {
+          "no": "én etter én",
+          "en": "one after another"
+        }
+      ]
+    }
+  ]
+}

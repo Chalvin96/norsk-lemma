@@ -1,0 +1,128 @@
+{
+  "source_article_id": 123471,
+  "lemmas": [
+    {
+      "lemma": "nikkelallergi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2007484,
+      "is_sub_article": false,
+      "primary_translation": "nickel allergy",
+      "word_forms": [
+        {
+          "word_form": "nikkelallergi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nI$k@$lA$l@r$%gi:",
+              "ipa": "ˈnɪkəlɑlərˌgɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nikkelallergien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɪkəlɑlərgˌiːən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nikkelallergier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɪkəlɑlərgˌiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nikkelallergiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɪkəlɑlərgˌiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aab7c0242f3f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aab7c0242f3f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aab7c0242f3f.mp3",
+            "text": "nikkelallergi",
+            "source": "generated",
+            "content_sha256": "5f885b87ec7924e00f8a21b4dd15ab813f6732df9c3599145dc3415fe4582300",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "allergi mot nikkel",
+      "translation": "allergy to nickel",
+      "examples": [
+        {
+          "no": "få nikkelallergi av smykker",
+          "en": "develop a nickel allergy from jewelry"
+        }
+      ]
+    }
+  ]
+}

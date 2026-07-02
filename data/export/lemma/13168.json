@@ -1,0 +1,116 @@
+{
+  "source_article_id": 13168,
+  "lemmas": [
+    {
+      "lemma": "essensiell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15303,
+      "is_sub_article": false,
+      "primary_translation": "essential",
+      "word_forms": [
+        {
+          "word_form": "essensiell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$s@n$sI$\"El",
+              "ipa": "ɛsənsɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "essensielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$s@n$sI$\"E$l@",
+              "ipa": "ɛsənsɪˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "essensielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$s@n$sI$\"Elt",
+              "ipa": "ɛsənsɪˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fc0bd99d6c54.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc0bd99d6c54.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc0bd99d6c54.mp3",
+            "text": "essensiell",
+            "source": "generated",
+            "content_sha256": "d6d87e01e8bcd30b44bff74d9805fa2399cc0dfdd13357f8deaf2f5e6b2b3bf5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "av avgjørende betydning",
+      "translation": "of decisive importance",
+      "examples": []
+    },
+    {
+      "text": "vesentlig, viktig, grunnleggende",
+      "translation": "essential, important, fundamental",
+      "examples": [
+        {
+          "no": "det essensielle ved teorien",
+          "en": "the essential part of the theory"
+        },
+        {
+          "no": "for bergensere er lyden av buekorps en essensiell del av feiringen av nasjonaldagen",
+          "en": "for people from Bergen, the sound of marching bands is an essential part of the National Day celebration"
+        },
+        {
+          "no": "lesing er en essensiell ferdighet",
+          "en": "reading is an essential skill"
+        }
+      ]
+    }
+  ]
+}

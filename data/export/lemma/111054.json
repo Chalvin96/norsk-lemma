@@ -1,0 +1,97 @@
+{
+  "source_article_id": 111054,
+  "lemmas": [
+    {
+      "lemma": "butikkansatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 92559,
+      "is_sub_article": false,
+      "primary_translation": "shop employee",
+      "word_forms": [
+        {
+          "word_form": "butikkansatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bu0$\"tI$kAn$%sAt",
+              "ipa": "bʉˈtɪkɑnˌsɑt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "butikkansatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bu0$\"tI$kAn$%sA$t@",
+              "ipa": "bʉˈtɪkɑnˌsɑtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1d732beb00df.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1d732beb00df.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1d732beb00df.mp3",
+            "text": "butikkansatt",
+            "source": "generated",
+            "content_sha256": "43a48a50b135ddb3b549f4674bc6008652fffb04f8ca5d36ff908512abde8144",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er ansatt i en butikk",
+      "translation": "employed in a store",
+      "examples": [
+        {
+          "no": "butikkansatte ungdommer",
+          "en": "young people employed in shops"
+        }
+      ]
+    },
+    {
+      "text": "oftest som substantiv: person som er ansatt i en butikk",
+      "translation": "most often as a noun: person employed in a store",
+      "examples": [
+        {
+          "no": "butikkansatte som arbeider i helgene",
+          "en": "shop employees who work on weekends"
+        }
+      ]
+    }
+  ]
+}

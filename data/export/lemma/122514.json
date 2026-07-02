@@ -1,0 +1,137 @@
+{
+  "source_article_id": 122514,
+  "lemmas": [
+    {
+      "lemma": "linjenett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 120457,
+      "is_sub_article": false,
+      "primary_translation": "transport network / utility network",
+      "word_forms": [
+        {
+          "word_form": "linjenett",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lIn$j@$%nEt",
+              "ipa": "ˈlɪnjəˌnɛt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "linjenettet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lIn$j@$%nE$t@",
+              "ipa": "ˈlɪnjəˌnɛtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "linjenetta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɪnjənˌɛtɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "linjenettene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɪnjənˌɛtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "219c78dd61f6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/219c78dd61f6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/219c78dd61f6.mp3",
+            "text": "linjenett",
+            "source": "generated",
+            "content_sha256": "7964d4d0895b1f9f88089e47ee0dc1da6b5d59d1dd182c33278a4917b2889d57",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nettverk av linje for samferdsel som kobler sammen steder å reise til",
+      "translation": "network of lines for transport connecting places",
+      "examples": [
+        {
+          "no": "kollektivtrafikken endres med nytt linjenett, nye holdeplasser og nytt billettsystem",
+          "en": "public transport is changing with a new route network, new stops, and a new ticketing system"
+        }
+      ]
+    },
+    {
+      "text": "nettverk av linjer til elektrisitet, internett eller lignende",
+      "translation": "network of lines for electricity, internet",
+      "examples": [
+        {
+          "no": "bygging av vannkraftverk og linjenett",
+          "en": "construction of hydroelectric power plants and power grids"
+        }
+      ]
+    }
+  ]
+}

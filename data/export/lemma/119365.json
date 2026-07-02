@@ -1,0 +1,108 @@
+{
+  "source_article_id": 119365,
+  "lemmas": [
+    {
+      "lemma": "kardiovaskulær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167702,
+      "is_sub_article": false,
+      "primary_translation": "cardiovascular",
+      "word_forms": [
+        {
+          "word_form": "kardiovaskulær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$d`I$U$vA$sku0$\"l{:r",
+              "ipa": "kɑɖɪʊvɑskʉˈlæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kardiovaskulære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$d`I$U$vA$sku0$\"l{:$r@",
+              "ipa": "kɑɖɪʊvɑskʉˈlæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kardiovaskulært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑɖɪuʋˌɑskʉlˈæːʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cff2eec7c777.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cff2eec7c777.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cff2eec7c777.mp3",
+            "text": "kardiovaskulær",
+            "source": "generated",
+            "content_sha256": "5504f6549aa8e24e3448ffdcab6ae6630b82e48f8cd6d04d5dbac1bf744045cd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i medisin: som gjelder hjertet og blodåresystemet",
+      "translation": "in medicine: relating to the heart and the circulatory system",
+      "examples": [
+        {
+          "no": "hun hadde økt risiko for kardiovaskulær sykdom",
+          "en": "she had an increased risk of cardiovascular disease"
+        }
+      ]
+    }
+  ]
+}

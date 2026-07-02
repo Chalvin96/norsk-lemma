@@ -1,0 +1,92 @@
+{
+  "source_article_id": 48534,
+  "lemmas": [
+    {
+      "lemma": "rigid",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 55752,
+      "is_sub_article": false,
+      "primary_translation": "rigid / strict",
+      "word_forms": [
+        {
+          "word_form": "rigid",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rI$\"gi:d",
+              "ipa": "rɪˈgɪːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rigide",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rI$\"gi:$d@",
+              "ipa": "rɪˈgɪːdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3f4fb27e2a8a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f4fb27e2a8a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f4fb27e2a8a.mp3",
+            "text": "rigid",
+            "source": "generated",
+            "content_sha256": "a1e61bdd4ad2fe2ac7c2115e027f6257ca9939d238343b29687709ef3a602caf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lite smidig",
+      "translation": "not flexible",
+      "examples": []
+    },
+    {
+      "text": "ubøyelig, stiv, streng",
+      "translation": "unyielding, stiff, strict",
+      "examples": [
+        {
+          "no": "rigide forbud",
+          "en": "rigid prohibitions"
+        }
+      ]
+    }
+  ]
+}

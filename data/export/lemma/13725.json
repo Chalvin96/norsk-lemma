@@ -1,0 +1,201 @@
+{
+  "source_article_id": 13725,
+  "lemmas": [
+    {
+      "lemma": "falsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 15925,
+      "is_sub_article": false,
+      "primary_translation": "false / untrue / fake / imitation / misleading / impure tones",
+      "word_forms": [
+        {
+          "word_form": "falsk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fAlsk",
+              "ipa": "ˈfɑlsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "falske",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fAl$sk@",
+              "ipa": "ˈfɑlskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "falskt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fAlskt",
+              "ipa": "ˈfɑlskt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "falskere",
+          "tags_json": [
+            "a1",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fAl$sk@$r@",
+              "ipa": "ˈfɑlskərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "falskest",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fAl$sk@$st",
+              "ipa": "ˈfɑlskəst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "falskeste",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɑlskəstə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d74333e7dd93.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d74333e7dd93.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d74333e7dd93.mp3",
+            "text": "falsk",
+            "source": "generated",
+            "content_sha256": "3cf52fb03d9bb5da5c05f7f15680648ef6b8be0b1b848b656c12e850d5e9c970",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke virkelig eller egentlig",
+      "translation": "not real, not actual",
+      "examples": [
+        {
+          "no": "gi en falsk forklaring",
+          "en": "give a false explanation"
+        },
+        {
+          "no": "falske forhåpninger",
+          "en": "false hopes"
+        },
+        {
+          "no": "på falske premisser",
+          "en": "on false premises"
+        },
+        {
+          "no": "falsk alarm",
+          "en": "false alarm"
+        }
+      ]
+    },
+    {
+      "text": "villede vill-lede villeie vill-leie, upålitelig, troløs trolaus trulaus truløs",
+      "translation": "misleading, unreliable, disloyal",
+      "examples": [
+        {
+          "no": "falske venner",
+          "en": "false friends"
+        },
+        {
+          "no": "gi et falskt bilde av noe",
+          "en": "give a false picture of something"
+        }
+      ]
+    },
+    {
+      "text": "med urene toner",
+      "translation": "with impure tones",
+      "examples": [
+        {
+          "no": "falsk sang",
+          "en": "out-of-tune singing"
+        },
+        {
+          "no": "hun synger falskt",
+          "en": "she sings out of tune"
+        }
+      ]
+    }
+  ]
+}

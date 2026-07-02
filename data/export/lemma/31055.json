@@ -1,0 +1,111 @@
+{
+  "source_article_id": 31055,
+  "lemmas": [
+    {
+      "lemma": "komplementær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 36573,
+      "is_sub_article": false,
+      "primary_translation": "complementary",
+      "word_forms": [
+        {
+          "word_form": "komplementær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUm$pl@$m@n$\"t{:r",
+              "ipa": "kʊmpləmənˈtæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "komplementære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOm$pl@$m@n$\"t{:$r@",
+              "ipa": "kɔmpləmənˈtæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "komplementært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUm$pl@$m@n$\"t{:t`",
+              "ipa": "kʊmpləmənˈtæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d681baeec7b4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d681baeec7b4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d681baeec7b4.mp3",
+            "text": "komplementær",
+            "source": "generated",
+            "content_sha256": "d51862c7f3a54738e6aa5c6090ed57013f3ee717494bf57c44b76bd3bb1287d1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som utfyller hverandre og samtidig utelukker hverandre",
+      "translation": "that complement each other and at the same time exclude each other",
+      "examples": []
+    },
+    {
+      "text": "utfyllende",
+      "translation": "complementary",
+      "examples": [
+        {
+          "no": "et team av mennesker med komplementære ferdigheter",
+          "en": "a team of people with complementary skills"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_article_id": 64192,
+  "lemmas": [
+    {
+      "lemma": "ulåst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73517,
+      "is_sub_article": false,
+      "primary_translation": "unlocked",
+      "word_forms": [
+        {
+          "word_form": "ulåst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%lo:$st",
+              "ipa": "ˈʉːˌloːst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ulåste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%lo:$st@",
+              "ipa": "ˈʉːˌloːstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e568536d5496.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e568536d5496.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e568536d5496.mp3",
+            "text": "ulåst",
+            "source": "generated",
+            "content_sha256": "0e65650bcfe68ee369835024bdae2a95e6f59ac7a77c4b0226f471f4a252a495",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er låst fast",
+      "translation": "not locked fast",
+      "examples": [
+        {
+          "no": "døra var ulåst",
+          "en": "the door was unlocked"
+        }
+      ]
+    },
+    {
+      "text": "som ikke har låst dør",
+      "translation": "not having a locked door",
+      "examples": [
+        {
+          "no": "gå fra bilen ulåst",
+          "en": "leave the car unlocked"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "source_article_id": 40090,
+  "lemmas": [
+    {
+      "lemma": "naiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 46947,
+      "is_sub_article": false,
+      "primary_translation": "naive / naivist",
+      "word_forms": [
+        {
+          "word_form": "naiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"i:v",
+              "ipa": "nɑˈɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "naive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"i:$v@",
+              "ipa": "nɑˈɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "naivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"i:vt",
+              "ipa": "nɑˈɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f1e48a8c661.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f1e48a8c661.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f1e48a8c661.mp3",
+            "text": "naiv",
+            "source": "generated",
+            "content_sha256": "6f7da44e5b816b5c3d18675b43f1fa4b5886ef78b91cbed3596b88f02d5e005c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "godtroende godtruende, troskyldig truskyldig",
+      "translation": "gullible, credulous, innocent",
+      "examples": [
+        {
+          "no": "ha en naiv tro på noe",
+          "en": "have a naive belief in something"
+        },
+        {
+          "no": "være naiv som et barn",
+          "en": "be as naive as a child"
+        }
+      ]
+    },
+    {
+      "text": "om kunst: enkel, spontan",
+      "translation": "in art: simple, spontaneous",
+      "examples": []
+    },
+    {
+      "text": "jamfør naivisme",
+      "translation": "naivism",
+      "examples": [
+        {
+          "no": "den naive kunstneren Henri Rosseau",
+          "en": "the naive artist Henri Rousseau"
+        }
+      ]
+    }
+  ]
+}

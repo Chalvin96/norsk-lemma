@@ -1,0 +1,124 @@
+{
+  "source_article_id": 100084,
+  "lemmas": [
+    {
+      "lemma": "kid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157030,
+      "is_sub_article": false,
+      "primary_translation": "kid meat",
+      "word_forms": [
+        {
+          "word_form": "kid",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kId",
+              "ipa": "ˈkɪd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kidet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈiːdə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kida",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈiːdɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kidene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈiːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4f60752fb180.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4f60752fb180.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4f60752fb180.mp3",
+            "text": "kid",
+            "source": "generated",
+            "content_sha256": "5b9e02746429b298a31924fbb53ebf355c139cf8a6dbe8b6e043215eb4ae5a42",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kjøtt av geitekilling",
+      "translation": "meat from a young goat",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "source_article_id": 16748,
+  "lemmas": [
+    {
+      "lemma": "forrige",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19418,
+      "is_sub_article": false,
+      "primary_translation": "previous / second to last",
+      "word_forms": [
+        {
+          "word_form": "forrige",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fO$rI$@",
+              "ipa": "ˈfɔrɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3ecd7391ef46.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ecd7391ef46.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ecd7391ef46.mp3",
+            "text": "forrige",
+            "source": "generated",
+            "content_sha256": "ae3dd61b3adb3246991e383f29675b057b86e9c9929206ef1d7802601d3de257",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nærmest foregående",
+      "translation": "immediately preceding",
+      "examples": [
+        {
+          "no": "i forrige uke",
+          "en": "last week"
+        },
+        {
+          "no": "forrige gang",
+          "en": "last time"
+        },
+        {
+          "no": "forrige århundre",
+          "en": "the previous century"
+        },
+        {
+          "no": "forrige torsdag",
+          "en": "last Thursday"
+        }
+      ]
+    },
+    {
+      "text": "før den nærmest foregående",
+      "translation": "before the immediately preceding one",
+      "examples": []
+    },
+    {
+      "text": "nest siste",
+      "translation": "second to last",
+      "examples": [
+        {
+          "no": "ikke sist søndag, men forrige",
+          "en": "not last Sunday, but the one before"
+        },
+        {
+          "no": "forrige vinter var det mye snø",
+          "en": "the winter before last there was a lot of snow"
+        },
+        {
+          "no": "siste måling var høyere enn den forrige",
+          "en": "the last measurement was higher than the previous one"
+        }
+      ]
+    }
+  ]
+}

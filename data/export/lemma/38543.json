@@ -1,0 +1,105 @@
+{
+  "source_article_id": 38543,
+  "lemmas": [
+    {
+      "lemma": "minnes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 45202,
+      "is_sub_article": false,
+      "primary_translation": "remember / commemorate",
+      "word_forms": [
+        {
+          "word_form": "minnes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$n@s",
+              "ipa": "ˈmɪnəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mintes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mi:n$t@s",
+              "ipa": "ˈmɪːntəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mins",
+          "tags_json": [
+            "verb",
+            "Pres",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈiːns",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6ca503b0e49f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ca503b0e49f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ca503b0e49f.mp3",
+            "text": "minnes",
+            "source": "generated",
+            "content_sha256": "16fc8aef2f8cbe206396481ef3d2ca3f85d16c11e56c80453f275bdabf96e69b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ha en tilstelning eller lignende til minne om noe eller noen",
+      "translation": "hold a ceremony in memory of something or someone",
+      "examples": [
+        {
+          "no": "minnes de omkomne",
+          "en": "commemorate the deceased"
+        }
+      ]
+    }
+  ]
+}

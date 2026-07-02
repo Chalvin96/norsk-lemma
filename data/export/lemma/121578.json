@@ -1,0 +1,98 @@
+{
+  "source_article_id": 121578,
+  "lemmas": [
+    {
+      "lemma": "langtidsledig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 119462,
+      "is_sub_article": false,
+      "primary_translation": "long-term unemployed",
+      "word_forms": [
+        {
+          "word_form": "langtidsledig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑŋtiːdslˌeːdɪ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "langtidsledige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAN$ti:d$%sle:$dI$@",
+              "ipa": "ˈlɑŋtɪːdˌsleːdɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e137c37c0df.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e137c37c0df.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e137c37c0df.mp3",
+            "text": "langtidsledig",
+            "source": "generated",
+            "content_sha256": "5aeecffac3d0b7b8da471e9053aee94db944b2b91a15f20dbb542ba62eeb2e89"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har vært arbeidsledig i lang tid",
+      "translation": "who has been unemployed for a long time",
+      "examples": [
+        {
+          "no": "en langtidsledig ungdom",
+          "en": "a long-term unemployed young person"
+        }
+      ]
+    },
+    {
+      "text": "brukt som substantiv: person som har stått utenfor arbeidsmarkedet i lang tid",
+      "translation": "used as a noun: person who has been out of the labor market for a long time",
+      "examples": [
+        {
+          "no": "hjelpe langtidsledige med å få jobb",
+          "en": "help the long-term unemployed find work"
+        }
+      ]
+    }
+  ]
+}

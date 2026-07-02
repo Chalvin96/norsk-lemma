@@ -1,0 +1,187 @@
+{
+  "source_article_id": 24480,
+  "lemmas": [
+    {
+      "lemma": "human",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 28882,
+      "is_sub_article": false,
+      "primary_translation": "human / humane",
+      "word_forms": [
+        {
+          "word_form": "human",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hu0$\"mA:n",
+              "ipa": "hʉˈmɑːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "humane",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hu0$\"mA:$n@",
+              "ipa": "hʉˈmɑːnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "humant",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hu0$\"mA:nt",
+              "ipa": "hʉˈmɑːnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "humanere",
+          "tags_json": [
+            "a1",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hʉmˈɑːnərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "humanest",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hʉmˈɑːnəst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "humaneste",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hʉmˈɑːnəstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "52e563ffdc05.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/52e563ffdc05.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/52e563ffdc05.mp3",
+            "text": "human",
+            "source": "generated",
+            "content_sha256": "ad4a0bc3e1629b28e9baa8ca004058fdf8ef1bebb30626b5a590fe8eee1ad10a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til eller er karakteristisk for menneskene",
+      "translation": "belonging to or characteristic of humans",
+      "examples": [
+        {
+          "no": "samlinger av humant biologisk materiale",
+          "en": "collections of human biological material"
+        },
+        {
+          "no": "være professor i human genetikk",
+          "en": "be a professor of human genetics"
+        }
+      ]
+    },
+    {
+      "text": "menneskekjærlig, hensynsfull",
+      "translation": "benevolent, considerate",
+      "examples": [
+        {
+          "no": "fangene fikk human behandling",
+          "en": "the prisoners received humane treatment"
+        },
+        {
+          "no": "han er en human sjef",
+          "en": "he is a humane boss"
+        },
+        {
+          "no": "et humant arbeidsliv",
+          "en": "a humane working life"
+        }
+      ]
+    }
+  ]
+}

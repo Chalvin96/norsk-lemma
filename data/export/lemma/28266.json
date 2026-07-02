@@ -1,0 +1,124 @@
+{
+  "source_article_id": 28266,
+  "lemmas": [
+    {
+      "lemma": "kaldsvette",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 159253,
+      "is_sub_article": false,
+      "primary_translation": "cold sweat",
+      "word_forms": [
+        {
+          "word_form": "kaldsvette",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAl$%svE$t@",
+              "ipa": "ˈkɑlˌsvɛtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kaldsvetten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAl$%svE$tn=",
+              "ipa": "ˈkɑlˌsvɛtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kaldsvetter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAl$%svE$t@r",
+              "ipa": "ˈkɑlˌsvɛtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kaldsvettene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑlsʋˌɛtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1e4fbdab8438.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1e4fbdab8438.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1e4fbdab8438.mp3",
+            "text": "kaldsvette",
+            "source": "generated",
+            "content_sha256": "991f6fdfdd5a1187ba1019d66a3ff8b71fc644599c4d080d534823b6769d300f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svette som kommer selv om en er kald (særlig på grunn av sykdom eller redsel)",
+      "translation": "sweat that occurs even though one is cold (especially due to illness or fear)",
+      "examples": [
+        {
+          "no": "kjenne kaldsvetten i pannen",
+          "en": "feel the cold sweat on your forehead"
+        }
+      ]
+    }
+  ]
+}

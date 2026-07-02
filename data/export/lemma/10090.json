@@ -1,0 +1,191 @@
+{
+  "source_article_id": 10090,
+  "lemmas": [
+    {
+      "lemma": "digitalisere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 11822,
+      "is_sub_article": false,
+      "primary_translation": "digitize",
+      "word_forms": [
+        {
+          "word_form": "digitalisere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$gI$tA$lI$\"se:$r@",
+              "ipa": "dɪgɪtɑlɪˈseːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "digitaliserer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$gI$tA$lI$\"se:$r@r",
+              "ipa": "dɪgɪtɑlɪˈseːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "digitaliseres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$gI$tA$lI$\"se:$r@s",
+              "ipa": "dɪgɪtɑlɪˈseːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "digitaliserte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$gI$tA$lI$\"se:$t`@",
+              "ipa": "dɪgɪtɑlɪˈseːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "digitalisert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$gI$tA$lI$\"se:t`",
+              "ipa": "dɪgɪtɑlɪˈseːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "digitaliserende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$gI$tA$lI$\"se:$n`=$@",
+              "ipa": "dɪgɪtɑlɪˈseːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "digitaliser",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$gI$tA$lI$\"se:r",
+              "ipa": "dɪgɪtɑlɪˈseːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e0c08e105b57.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e0c08e105b57.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e0c08e105b57.mp3",
+            "text": "digitalisere",
+            "source": "generated",
+            "content_sha256": "22bac8961527bf6a538a85b80862f6e43d763423aedef1ff820f096dbecd74cd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "omgjøre til siffer",
+      "translation": "to convert to digits",
+      "examples": []
+    },
+    {
+      "text": "gjengi analog data med digitale data",
+      "translation": "to represent analog data with digital data",
+      "examples": [
+        {
+          "no": "digitalisere et arkiv",
+          "en": "digitize an archive"
+        },
+        {
+          "no": "digitalisert informasjon",
+          "en": "digitized information"
+        },
+        {
+          "no": "digitaliserte boksamlinger",
+          "en": "digitized book collections"
+        }
+      ]
+    }
+  ]
+}

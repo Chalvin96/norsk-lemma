@@ -1,0 +1,82 @@
+{
+  "source_article_id": 23053,
+  "lemmas": [
+    {
+      "lemma": "helsebrutt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27164,
+      "is_sub_article": false,
+      "primary_translation": "broken health",
+      "word_forms": [
+        {
+          "word_form": "helsebrutt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEl$s@$%bru0t",
+              "ipa": "ˈhɛlsəˌbrʉt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "helsebrutte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEl$s@$%bru0$t@",
+              "ipa": "ˈhɛlsəˌbrʉtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2d1c00212366.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2d1c00212366.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2d1c00212366.mp3",
+            "text": "helsebrutt",
+            "source": "generated",
+            "content_sha256": "12808e1c83cbcc07a3190235ad6e84dbcd55173174b506fc3b1bb07c31a2a6b6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har nedbrutt helse",
+      "translation": "having broken health",
+      "examples": []
+    }
+  ]
+}

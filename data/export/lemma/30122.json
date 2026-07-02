@@ -1,0 +1,137 @@
+{
+  "source_article_id": 30122,
+  "lemmas": [
+    {
+      "lemma": "klinikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35527,
+      "is_sub_article": false,
+      "primary_translation": "clinic / practice",
+      "word_forms": [
+        {
+          "word_form": "klinikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"nIk",
+              "ipa": "klɪˈnɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klinikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"nI$k@n",
+              "ipa": "klɪˈnɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klinikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"nI$k@r",
+              "ipa": "klɪˈnɪkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klinikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "klI$\"nI$k@$n@",
+              "ipa": "klɪˈnɪkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fdaf54cd6600.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fdaf54cd6600.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fdaf54cd6600.mp3",
+            "text": "klinikk",
+            "source": "generated",
+            "content_sha256": "459eaaed74af37d6306b4a7a2556cd1b22065bcdb33f660eb4d4d0797711719d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sykehus eller sykehuavdeling der pasienter blir behandlet",
+      "translation": "hospital or hospital department where patients are treated",
+      "examples": [
+        {
+          "no": "psykiatrisk klinikk",
+          "en": "psychiatric clinic"
+        }
+      ]
+    },
+    {
+      "text": "arbeidslokale for lege, tannlege og lignende",
+      "translation": "workplace for a doctor, dentist",
+      "examples": []
+    },
+    {
+      "text": "sted der syke dyr får behandling",
+      "translation": "place where sick animals receive treatment",
+      "examples": []
+    },
+    {
+      "text": "praktisk medisinsk undervisning med pasient til stede",
+      "translation": "practical medical instruction with a patient present",
+      "examples": []
+    }
+  ]
+}

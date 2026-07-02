@@ -1,0 +1,122 @@
+{
+  "source_article_id": 10056,
+  "lemmas": [
+    {
+      "lemma": "differens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11783,
+      "is_sub_article": false,
+      "primary_translation": "difference",
+      "word_forms": [
+        {
+          "word_form": "differens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$f@$\"rANs",
+              "ipa": "dɪfəˈrɑŋs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "differensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$f@$\"rAN$sn=",
+              "ipa": "dɪfəˈrɑŋsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "differenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$f@$\"rAN$s@r",
+              "ipa": "dɪfəˈrɑŋsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "differensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$f@$\"rAN$sn=$@",
+              "ipa": "dɪfəˈrɑŋsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9e12a36b3160.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e12a36b3160.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e12a36b3160.mp3",
+            "text": "differens",
+            "source": "generated",
+            "content_sha256": "d3ccb4002c6c051d76641d3cadc3205da74d97ace3967918f7583b2452d53bad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "resultat av en subtraksjon",
+      "translation": "result of a subtraction",
+      "examples": [
+        {
+          "no": "hvis a – b = c, er c differensen mellom a og b",
+          "en": "if a - b = c, then c is the difference between a and b"
+        }
+      ]
+    }
+  ]
+}

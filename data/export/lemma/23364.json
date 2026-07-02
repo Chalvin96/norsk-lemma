@@ -1,0 +1,71 @@
+{
+  "source_article_id": 23364,
+  "lemmas": [
+    {
+      "lemma": "herr",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 27550,
+      "is_sub_article": false,
+      "primary_translation": "Mr. / title for men",
+      "word_forms": [
+        {
+          "word_form": "herr",
+          "tags_json": [
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"h{r",
+              "ipa": "ˈhær",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bc281fa8da33.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc281fa8da33.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc281fa8da33.mp3",
+            "text": "herr",
+            "source": "generated",
+            "content_sha256": "796ea8b336b716e5af81721a6d9e6094ca25229255cdbc7fe2d2e3211e5bbf4d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tittel brukt foran navn og titler på menn",
+      "translation": "title used before names and titles of men",
+      "examples": []
+    },
+    {
+      "text": "forkortet hr.",
+      "translation": "abbreviated Mr.",
+      "examples": [
+        {
+          "no": "herr Jensen",
+          "en": "Mr. Jensen"
+        },
+        {
+          "no": "herr president",
+          "en": "Mr. President"
+        }
+      ]
+    }
+  ]
+}

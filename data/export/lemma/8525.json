@@ -1,0 +1,136 @@
+{
+  "source_article_id": 8525,
+  "lemmas": [
+    {
+      "lemma": "børs",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10212,
+      "is_sub_article": false,
+      "primary_translation": "stock exchange / stock exchange building",
+      "word_forms": [
+        {
+          "word_form": "børs",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b2:s`",
+              "ipa": "ˈbøːʂ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "børsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"b9$s`n`=",
+              "ipa": "ˈbœʂɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "børser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"b9$s`@r",
+              "ipa": "ˈbœʂər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "børsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"b9$s`n`=$@",
+              "ipa": "ˈbœʂɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ca4255deee4b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca4255deee4b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca4255deee4b.mp3",
+            "text": "børs",
+            "source": "generated",
+            "content_sha256": "3b874f59c310d9b5fdaf853a804d336121f3178ec619647b8eea61b69836cea3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "marked der en omsetter verdipapirer, valuta eller varer",
+      "translation": "market for trading securities, currency, or goods",
+      "examples": [
+        {
+          "no": "børsen er urolig for tiden",
+          "en": "the stock market is unsettled at the moment"
+        },
+        {
+          "no": "spekulere på børsen",
+          "en": "speculate on the stock market"
+        }
+      ]
+    },
+    {
+      "text": "offentlig lokale eller bygning for en børs",
+      "translation": "public place or building for a stock exchange",
+      "examples": [
+        {
+          "no": "børsen ligger i en rolig gate",
+          "en": "the stock exchange is on a quiet street"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 33737,
+  "lemmas": [
+    {
+      "lemma": "landskjent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39579,
+      "is_sub_article": false,
+      "primary_translation": "nationally known",
+      "word_forms": [
+        {
+          "word_form": "landskjent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAns$%CEnt",
+              "ipa": "ˈlɑnsˌçɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "landskjente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAns$%CEn$t@",
+              "ipa": "ˈlɑnsˌçɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "918652a7b02f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/918652a7b02f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/918652a7b02f.mp3",
+            "text": "landskjent",
+            "source": "generated",
+            "content_sha256": "a327aa8950c0a3faaeab7522edcb80a75576868523bbcead8e5e14a497b55b92",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kjent over hele landet",
+      "translation": "known throughout the country",
+      "examples": [
+        {
+          "no": "to landskjente artister skal opptre",
+          "en": "two nationally known artists will perform"
+        }
+      ]
+    }
+  ]
+}

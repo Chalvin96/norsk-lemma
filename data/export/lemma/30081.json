@@ -1,0 +1,131 @@
+{
+  "source_article_id": 30081,
+  "lemmas": [
+    {
+      "lemma": "klesvask",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35485,
+      "is_sub_article": false,
+      "primary_translation": "laundry",
+      "word_forms": [
+        {
+          "word_form": "klesvask",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kle:$%svA$sk",
+              "ipa": "ˈkleːˌsvɑsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klesvasken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kle:$%svA$sk@n",
+              "ipa": "ˈkleːˌsvɑskən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klesvasker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kle:$%svA$sk@r",
+              "ipa": "ˈkleːˌsvɑskər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klesvaskene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kle:$%svA$sk@$n@",
+              "ipa": "ˈkleːˌsvɑskənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a9407e661493.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a9407e661493.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a9407e661493.mp3",
+            "text": "klesvask",
+            "source": "generated",
+            "content_sha256": "bdd909fe4639928d1c871f56ace088b2134a6a249ce0ab5211a1e697ff491017",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å vaske klær",
+      "translation": "the act of washing clothes",
+      "examples": []
+    },
+    {
+      "text": "klær som vaskes på én gang",
+      "translation": "clothes to be washed at one time",
+      "examples": [
+        {
+          "no": "henge ut klesvasken",
+          "en": "hang out the laundry"
+        },
+        {
+          "no": "ta inn klesvasken",
+          "en": "bring in the laundry"
+        }
+      ]
+    }
+  ]
+}

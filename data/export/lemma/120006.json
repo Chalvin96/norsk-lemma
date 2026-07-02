@@ -1,0 +1,90 @@
+{
+  "source_article_id": 120006,
+  "lemmas": [
+    {
+      "lemma": "kompleksfylt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 115177,
+      "is_sub_article": false,
+      "primary_translation": "filled with complex",
+      "word_forms": [
+        {
+          "word_form": "kompleksfylt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kumplˈɛksfˌʏlt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kompleksfylte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kumplˈɛksfˌʏltə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "acb2ed4040f8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/acb2ed4040f8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/acb2ed4040f8.mp3",
+            "text": "kompleksfylt",
+            "source": "generated",
+            "content_sha256": "f81d6dbf6d49d91b078526a54e795bc471edcd630ea443cd18af82571c3502fb"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fylt av kompleks",
+      "translation": "filled with complex",
+      "examples": [
+        {
+          "no": "en kompleksfylt ung mann",
+          "en": "a young man full of complexes"
+        }
+      ]
+    }
+  ]
+}

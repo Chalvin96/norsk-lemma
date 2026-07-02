@@ -1,0 +1,127 @@
+{
+  "source_article_id": 123798,
+  "lemmas": [
+    {
+      "lemma": "nasjonalanlegg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2008075,
+      "is_sub_article": false,
+      "primary_translation": "national sports venue",
+      "word_forms": [
+        {
+          "word_form": "nasjonalanlegg",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$SU$\"nA:$lAn$%lEg",
+              "ipa": "nɑʃʊˈnɑːlɑnˌlɛg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nasjonalanlegget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$SU$\"nA:$lAn$%lE$g@",
+              "ipa": "nɑʃʊˈnɑːlɑnˌlɛgə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nasjonalanlegga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɑʃunˈɑːlɑnlˌɛgɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nasjonalanleggene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɑʃunˈɑːlɑnlˌɛgənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f71fd5396eb0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f71fd5396eb0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f71fd5396eb0.mp3",
+            "text": "nasjonalanlegg",
+            "source": "generated",
+            "content_sha256": "315c17bcf6cf739ebffa62919a4b4c03c19024f76c77647951537c1ba3035043",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "større idrettsanlegg brukt i internasjonale konkurranser og mesterskap",
+      "translation": "large sports facility used in international competitions and championships",
+      "examples": [
+        {
+          "no": "få status som nasjonalanlegg for ski i nordiske grener",
+          "en": "gain status as a national facility for Nordic skiing"
+        }
+      ]
+    }
+  ]
+}

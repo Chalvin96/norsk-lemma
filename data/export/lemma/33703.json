@@ -1,0 +1,127 @@
+{
+  "source_article_id": 33703,
+  "lemmas": [
+    {
+      "lemma": "landnåm",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 39543,
+      "is_sub_article": false,
+      "primary_translation": "land acquisition",
+      "word_forms": [
+        {
+          "word_form": "landnåm",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA$%no:m",
+              "ipa": "ˈlɑˌnoːm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "landnåmet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA$%no:$m@",
+              "ipa": "ˈlɑˌnoːmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "landnåma",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA$%no:$mA",
+              "ipa": "ˈlɑˌnoːmɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "landnåmene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA$%no:$m@$n@",
+              "ipa": "ˈlɑˌnoːmənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bef3b4934af7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bef3b4934af7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bef3b4934af7.mp3",
+            "text": "landnåm",
+            "source": "generated",
+            "content_sha256": "919ec4ea5ed3e5544576923ee8b1da6aeed8eb2d2bb2fd7ae5144c8536eb180b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å tilegne seg ubebodd land",
+      "translation": "the act of acquiring uninhabited land",
+      "examples": [
+        {
+          "no": "gjøre landnåm",
+          "en": "settle land"
+        },
+        {
+          "no": "det norske landnåmet på Island",
+          "en": "the Norwegian settlement of Iceland"
+        }
+      ]
+    }
+  ]
+}

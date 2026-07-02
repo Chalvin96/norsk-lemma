@@ -1,0 +1,177 @@
+{
+  "source_article_id": 40574,
+  "lemmas": [
+    {
+      "lemma": "negativ",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 47496,
+      "is_sub_article": false,
+      "primary_translation": "denying / unfavorable / less than zero",
+      "word_forms": [
+        {
+          "word_form": "negativ",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nE$gA$%ti:v",
+              "ipa": "ˈnɛgɑˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "negative",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nE$gA$%ti:$v@",
+              "ipa": "ˈnɛgɑˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "negativt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nE$gA$%ti:vt",
+              "ipa": "ˈnɛgɑˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7461f9f30a1d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7461f9f30a1d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7461f9f30a1d.mp3",
+            "text": "negativ",
+            "source": "generated",
+            "content_sha256": "1e3c8dc59eae8df120987f33643ef44eb3c197cde9c3d25293e6b6e24b510831",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nektende",
+      "translation": "denying",
+      "examples": [
+        {
+          "no": "få negativt svar",
+          "en": "get a negative answer"
+        },
+        {
+          "no": "testen kan i noen tilfeller gi falske negativer eller falske positiver",
+          "en": "in some cases, the test can give false negatives or false positives"
+        }
+      ]
+    },
+    {
+      "text": "som ikke svarer til forventningene",
+      "translation": "that does not meet expectations",
+      "examples": []
+    },
+    {
+      "text": "som mangler noe",
+      "translation": "that lacks something",
+      "examples": [
+        {
+          "no": "negative økonomiske resultater",
+          "en": "negative financial results"
+        },
+        {
+          "no": "de positive og negative sidene ved å bo i en storby",
+          "en": "the positive and negative sides of living in a big city"
+        }
+      ]
+    },
+    {
+      "text": "lite givende eller oppmuntrende",
+      "translation": "unrewarding or unencouraging",
+      "examples": [
+        {
+          "no": "en negativ kritikk",
+          "en": "negative criticism"
+        },
+        {
+          "no": "han er alltid så negativ",
+          "en": "he is always so negative"
+        },
+        {
+          "no": "hun var negativ til planene",
+          "en": "she was negative about the plans"
+        }
+      ]
+    },
+    {
+      "text": "motsatt, omvendt",
+      "translation": "opposite, inverse",
+      "examples": [
+        {
+          "no": "et negativt samsvar",
+          "en": "negative concord"
+        }
+      ]
+    },
+    {
+      "text": "i medisin: som ikke inneholder det en har testet for",
+      "translation": "in medicine: not containing what has been tested for",
+      "examples": [
+        {
+          "no": "testen var negativ for korona",
+          "en": "the test was negative for كورونا"
+        }
+      ]
+    },
+    {
+      "text": "i matematikk: som er mindre enn null",
+      "translation": "less than zero",
+      "examples": [
+        {
+          "no": "negative tall",
+          "en": "negative numbers"
+        }
+      ]
+    }
+  ]
+}

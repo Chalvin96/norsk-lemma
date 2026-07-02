@@ -1,0 +1,134 @@
+{
+  "source_article_id": 58563,
+  "lemmas": [
+    {
+      "lemma": "svare",
+      "hgno": 1,
+      "pos": "ADJ",
+      "source_lemma_id": 67037,
+      "is_sub_article": false,
+      "primary_translation": "huge / terrible",
+      "word_forms": [
+        {
+          "word_form": "svare",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svA:$r@",
+              "ipa": "ˈsvɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svarere",
+          "tags_json": [
+            "a3",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svA:$r@$r@",
+              "ipa": "ˈsvɑːrərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svarest",
+          "tags_json": [
+            "a3",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʋˈɑːrəst",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "svareste",
+          "tags_json": [
+            "a3",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʋˈɑːrəstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "424d2703e8bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/424d2703e8bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/424d2703e8bf.mp3",
+            "text": "svare",
+            "source": "generated",
+            "content_sha256": "c781049ff196de2deffd5d77276a17e5cb5799ae54eca8958d9c8b1609ff84d5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svær, fæl",
+      "translation": "huge, terrible",
+      "examples": [
+        {
+          "no": "holde et svare spetakkel",
+          "en": "make an awful racket"
+        },
+        {
+          "no": "et svare strev",
+          "en": "a tremendous struggle"
+        },
+        {
+          "no": "det ble svare til velstand",
+          "en": "it turned into quite a prosperity"
+        }
+      ]
+    }
+  ]
+}

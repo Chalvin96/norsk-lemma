@@ -1,0 +1,91 @@
+{
+  "source_article_id": 33985,
+  "lemmas": [
+    {
+      "lemma": "latinamerikansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39856,
+      "is_sub_article": false,
+      "primary_translation": "Latin American",
+      "word_forms": [
+        {
+          "word_form": "latinamerikansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$\"ti:$nA$m@$rI$%kA:nsk",
+              "ipa": "lɑˈtɪːnɑmərɪˌkɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "latinamerikanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$\"ti:$nA$m@$rI$%kA:n$sk@",
+              "ipa": "lɑˈtɪːnɑmərɪˌkɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8de581c49625.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8de581c49625.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8de581c49625.mp3",
+            "text": "latinamerikansk",
+            "source": "generated",
+            "content_sha256": "e13e564ada1035bcd19d12962d43e2a8bc6d26ea9bb1719475a289844b85e798",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Latin-Amerika og latinamerikanere",
+      "translation": "relating to Latin America and Latin Americans",
+      "examples": [
+        {
+          "no": "de latinamerikanske landene",
+          "en": "the Latin American countries"
+        },
+        {
+          "no": "latinamerikanske rytmer",
+          "en": "Latin American rhythms"
+        }
+      ]
+    }
+  ]
+}

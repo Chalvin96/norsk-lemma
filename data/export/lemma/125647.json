@@ -1,0 +1,131 @@
+{
+  "source_article_id": 125647,
+  "lemmas": [
+    {
+      "lemma": "prøvekanin",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 131132,
+      "is_sub_article": false,
+      "primary_translation": "guinea pig / test subject",
+      "word_forms": [
+        {
+          "word_form": "prøvekanin",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pr2:$v@$kA$%ni:n",
+              "ipa": "ˈprøːvəkɑˌnɪːn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "prøvekaninen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈøːʋəkɑnˌiːnn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "prøvekaniner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pr2:$v@$kA$%ni:$n@r",
+              "ipa": "ˈprøːvəkɑˌnɪːnər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "prøvekaninene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈøːʋəkɑnˌiːnn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "869dbdaad059.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/869dbdaad059.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/869dbdaad059.mp3",
+            "text": "prøvekanin",
+            "source": "generated",
+            "content_sha256": "2f2d74270f6f980fb993cde188caf5f267c6111bf2edc22bd263a2a992594d7b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som en prøver ut noe nytt på",
+      "translation": "person on whom something new is tested",
+      "examples": []
+    },
+    {
+      "text": "prøveklut, forsøkskanin",
+      "translation": "guinea pig, test subject",
+      "examples": [
+        {
+          "no": "de er prøvekaniner for den nye retten han har laget",
+          "en": "they are guinea pigs for the new dish he has made"
+        }
+      ]
+    }
+  ]
+}

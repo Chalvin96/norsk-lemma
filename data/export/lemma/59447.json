@@ -1,0 +1,113 @@
+{
+  "source_article_id": 59447,
+  "lemmas": [
+    {
+      "lemma": "sådan",
+      "hgno": 0,
+      "pos": "DET",
+      "source_lemma_id": 67778,
+      "is_sub_article": false,
+      "primary_translation": "such / like that",
+      "word_forms": [
+        {
+          "word_form": "sådan",
+          "tags_json": [
+            "Dem",
+            "Masc",
+            "Sing",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"so:$%dAn",
+              "ipa": "ˈsoːˌdɑn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sådant",
+          "tags_json": [
+            "Dem",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"so:$dAnt",
+              "ipa": "ˈsoːdɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sådanne",
+          "tags_json": [
+            "Dem",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"so:$%dA$n@",
+              "ipa": "ˈsoːˌdɑnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e5c49922e19.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e5c49922e19.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e5c49922e19.mp3",
+            "text": "sådan",
+            "source": "generated",
+            "content_sha256": "cd00bd1dfdadc9e7280e7eb250066545e249c51d9d802aafb2d1d747ea794c80",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "av en type som nettopp er omtalt, eller som går fram av situasjonen",
+      "translation": "of a type just mentioned, or as indicated by the situation",
+      "examples": []
+    },
+    {
+      "text": "sånn, slik",
+      "translation": "such, like that",
+      "examples": [
+        {
+          "no": "han kritiserer kommunens kulturpolitikk eller snarere mangel på sådan",
+          "en": "he criticizes the municipality's cultural policy, or rather the lack thereof"
+        },
+        {
+          "no": "regjeringen har ikke før fattet et sådant vedtak",
+          "en": "the government has not previously made such a decision"
+        },
+        {
+          "no": "ungdomsklubber, eller mangelen på sådanne, var tema på møtet",
+          "en": "youth clubs, or the lack of such, was the topic of the meeting"
+        }
+      ]
+    }
+  ]
+}

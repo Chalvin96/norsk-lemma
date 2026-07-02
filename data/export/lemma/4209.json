@@ -1,0 +1,87 @@
+{
+  "source_article_id": 4209,
+  "lemmas": [
+    {
+      "lemma": "bakstreversk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4996,
+      "is_sub_article": false,
+      "primary_translation": "reactionary",
+      "word_forms": [
+        {
+          "word_form": "bakstreversk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:k$%stre:$v@$s`k",
+              "ipa": "ˈbɑːkˌstreːvəʂk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bakstreverske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:k$%stre:$v@$s`k@",
+              "ipa": "ˈbɑːkˌstreːvəʂkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dee0d7b8b463.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dee0d7b8b463.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dee0d7b8b463.mp3",
+            "text": "bakstreversk",
+            "source": "generated",
+            "content_sha256": "f728cefd1e637f413e8788fea5ebb5c269cfea84ec1d7636c23e478035f7cf8d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som driver bakstrev",
+      "translation": "practicing reactionism",
+      "examples": [
+        {
+          "no": "forslaget virker bakstreversk",
+          "en": "the proposal seems reactionary"
+        }
+      ]
+    }
+  ]
+}

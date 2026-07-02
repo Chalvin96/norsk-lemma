@@ -1,0 +1,96 @@
+{
+  "source_article_id": 9457,
+  "lemmas": [
+    {
+      "lemma": "defekt",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 11159,
+      "is_sub_article": false,
+      "primary_translation": "defective / broken",
+      "word_forms": [
+        {
+          "word_form": "defekt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"fEkt",
+              "ipa": "dəˈfɛkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "defekte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"fEk$t@",
+              "ipa": "dəˈfɛktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1a131a86cd00.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a131a86cd00.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a131a86cd00.mp3",
+            "text": "defekt",
+            "source": "generated",
+            "content_sha256": "5822ad43ba05618e0d457bd30928d7a11966531aef5f1758c62a13c5ad822a82",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke fungerer slik det skal",
+      "translation": "not functioning as it should",
+      "examples": []
+    },
+    {
+      "text": "i stykker",
+      "translation": "broken",
+      "examples": [
+        {
+          "no": "dørlåsen var defekt",
+          "en": "the door lock was broken"
+        },
+        {
+          "no": "en defekt fryseboks",
+          "en": "a broken freezer"
+        }
+      ]
+    }
+  ]
+}

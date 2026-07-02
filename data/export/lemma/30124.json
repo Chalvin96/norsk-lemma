@@ -1,0 +1,96 @@
+{
+  "source_article_id": 30124,
+  "lemmas": [
+    {
+      "lemma": "klinisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35529,
+      "is_sub_article": false,
+      "primary_translation": "clinical",
+      "word_forms": [
+        {
+          "word_form": "klinisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kli:$nI$sk",
+              "ipa": "ˈklɪːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kliniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kli:$nI$sk@",
+              "ipa": "ˈklɪːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "328cca4c7115.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/328cca4c7115.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/328cca4c7115.mp3",
+            "text": "klinisk",
+            "source": "generated",
+            "content_sha256": "1dd644e3480b772f3f03e7d1d91998a66202426e309fe88fbf8e304be9ad9f63",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til, foregår på klinikk",
+      "translation": "belonging to, taking place at a clinic",
+      "examples": []
+    },
+    {
+      "text": "som gjelder praktisk legekunst med direkte pasientkontakt",
+      "translation": "concerning practical medical art with direct patient contact",
+      "examples": [
+        {
+          "no": "klinisk behandling",
+          "en": "clinical treatment"
+        },
+        {
+          "no": "klinisk undervisning",
+          "en": "clinical teaching"
+        }
+      ]
+    }
+  ]
+}

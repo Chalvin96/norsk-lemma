@@ -1,0 +1,126 @@
+{
+  "source_article_id": 51886,
+  "lemmas": [
+    {
+      "lemma": "sjekk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 59631,
+      "is_sub_article": false,
+      "primary_translation": "check / bank draft",
+      "word_forms": [
+        {
+          "word_form": "sjekk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SEk",
+              "ipa": "ˈʃɛk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sjekken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SE$k@n",
+              "ipa": "ˈʃɛkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sjekker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SE$k@r",
+              "ipa": "ˈʃɛkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sjekkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SE$k@$n@",
+              "ipa": "ˈʃɛkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d414893e2830.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d414893e2830.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d414893e2830.mp3",
+            "text": "sjekk",
+            "source": "generated",
+            "content_sha256": "154a07ba4bcd178dcda61ecb83f776bb696a67ad8bf3d997bb1fe8c4394d4b1e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skriftlig anvisning til en bank om å utbetale et visst beløp (nå lite brukt i Norge)",
+      "translation": "written instruction to a bank to pay a certain amount (now little used in Norway)",
+      "examples": [
+        {
+          "no": "skrive ut en sjekk",
+          "en": "write out a check"
+        },
+        {
+          "no": "utstede en sjekk",
+          "en": "issue a check"
+        }
+      ]
+    }
+  ]
+}

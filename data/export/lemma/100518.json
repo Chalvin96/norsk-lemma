@@ -1,0 +1,90 @@
+{
+  "source_article_id": 100518,
+  "lemmas": [
+    {
+      "lemma": "prokaryot",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 160066,
+      "is_sub_article": false,
+      "primary_translation": "prokaryotic",
+      "word_forms": [
+        {
+          "word_form": "prokaryot",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prukɑrʏˈuːt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "prokaryote",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prukɑrʏˈuːtə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6067f5d2325b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6067f5d2325b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6067f5d2325b.mp3",
+            "text": "prokaryot",
+            "source": "generated",
+            "content_sha256": "105387d5b5a39c8c7c0c5f9bd5758a0f5b7108f14207995000a6c3dd5a895e7a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om celle: som ikke har cellekjerne",
+      "translation": "of a cell: lacking a cell nucleus",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra eukaryot",
+      "translation": "unicellular",
+      "examples": []
+    }
+  ]
+}

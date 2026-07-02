@@ -1,0 +1,137 @@
+{
+  "source_article_id": 23514,
+  "lemmas": [
+    {
+      "lemma": "hevn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 27716,
+      "is_sub_article": false,
+      "primary_translation": "revenge",
+      "word_forms": [
+        {
+          "word_form": "hevn",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEvn",
+              "ipa": "ˈhɛvn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hevnen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEv$nn=",
+              "ipa": "ˈhɛvnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hevner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEv$n@r",
+              "ipa": "ˈhɛvnər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hevnene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɛʋnn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0b0d822dd4bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0b0d822dd4bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0b0d822dd4bf.mp3",
+            "text": "hevn",
+            "source": "generated",
+            "content_sha256": "b7e5775e215036c3e6b1824a739cf6d27fca396d039dee331991455a76fbc1b2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjengjeld for noe vondt eller krenkende",
+      "translation": "retaliation for something bad or offensive",
+      "examples": []
+    },
+    {
+      "text": "det å hevne seg",
+      "translation": "the act of taking revenge",
+      "examples": [
+        {
+          "no": "ta hevn for drapet på generalen",
+          "en": "avenge the general's murder"
+        },
+        {
+          "no": "ta hevn over motstanderne sine",
+          "en": "take revenge on one's opponents"
+        },
+        {
+          "no": "tørste etter hevn",
+          "en": "thirst for revenge"
+        }
+      ]
+    }
+  ]
+}

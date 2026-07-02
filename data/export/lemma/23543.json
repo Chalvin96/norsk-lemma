@@ -1,0 +1,87 @@
+{
+  "source_article_id": 23543,
+  "lemmas": [
+    {
+      "lemma": "hieroglyfisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27744,
+      "is_sub_article": false,
+      "primary_translation": "hieroglyphic",
+      "word_forms": [
+        {
+          "word_form": "hieroglyfisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hI$@$rU$\"gly:$fI$sk",
+              "ipa": "hɪərʊˈglyːfɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hieroglyfiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hI$@$rU$\"gly:$fI$sk@",
+              "ipa": "hɪərʊˈglyːfɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cf450f224606.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf450f224606.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf450f224606.mp3",
+            "text": "hieroglyfisk",
+            "source": "generated",
+            "content_sha256": "82a3b75eb5dadf43b7924d3e7c984cb3ebf2924d0086af3d0f45809d1791dacc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er skrevet med hieroglyf",
+      "translation": "written with hieroglyphs",
+      "examples": [
+        {
+          "no": "hieroglyfisk skrift",
+          "en": "hieroglyphic writing"
+        }
+      ]
+    }
+  ]
+}

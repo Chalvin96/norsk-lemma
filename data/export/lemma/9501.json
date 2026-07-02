@@ -1,0 +1,115 @@
+{
+  "source_article_id": 9501,
+  "lemmas": [
+    {
+      "lemma": "degressiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11209,
+      "is_sub_article": false,
+      "primary_translation": "degressive",
+      "word_forms": [
+        {
+          "word_form": "degressiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dE$gr@$%si:v",
+              "ipa": "ˈdɛgrəˌsɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "degressive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dE$gr@$%si:$v@",
+              "ipa": "ˈdɛgrəˌsɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "degressivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dE$gr@$%si:vt",
+              "ipa": "ˈdɛgrəˌsɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "059e97c9d572.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/059e97c9d572.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/059e97c9d572.mp3",
+            "text": "degressiv",
+            "source": "generated",
+            "content_sha256": "9d95ff0544e5ec9f3a8392df3e8f4c8eb8a6a170a077a53e9a3eed9b87362d8d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avtakende, fallende, nedgående",
+      "translation": "decreasing, falling, declining",
+      "examples": []
+    },
+    {
+      "text": "motsatt progressiv",
+      "translation": "opposite of progressive",
+      "examples": [
+        {
+          "no": "degressiv skatt",
+          "en": "regressive tax"
+        },
+        {
+          "no": "degressiv avskrivning",
+          "en": "declining-balance depreciation"
+        }
+      ]
+    }
+  ]
+}

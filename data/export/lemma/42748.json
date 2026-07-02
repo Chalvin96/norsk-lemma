@@ -1,0 +1,87 @@
+{
+  "source_article_id": 42748,
+  "lemmas": [
+    {
+      "lemma": "ønskverdig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 81004,
+      "is_sub_article": false,
+      "primary_translation": "desirable",
+      "word_forms": [
+        {
+          "word_form": "ønskverdig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "9n$\"skv{r$dI",
+              "ipa": "œnˈskværdɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ønskverdige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "9n$\"skv{r$dI$@",
+              "ipa": "œnˈskværdɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "abe68699036e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/abe68699036e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/abe68699036e.mp3",
+            "text": "ønskverdig",
+            "source": "generated",
+            "content_sha256": "81f0071d0dd5fa3b7e2468f10a6aaba93bc76b7e5ea415f2c28cb88ceb48ff8d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ønskelig, tillokkende",
+      "translation": "desirable, appealing",
+      "examples": [
+        {
+          "no": "en lite ønskverdig trend",
+          "en": "a hardly desirable trend"
+        }
+      ]
+    }
+  ]
+}

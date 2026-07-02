@@ -1,0 +1,99 @@
+{
+  "source_article_id": 114372,
+  "lemmas": [
+    {
+      "lemma": "fulltidsansatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 101663,
+      "is_sub_article": false,
+      "primary_translation": "full-time employee",
+      "word_forms": [
+        {
+          "word_form": "fulltidsansatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈʉltɪdsɑnsˌɑt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fulltidsansatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈʉltɪdsɑnsˌɑtə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "09a9d2333be6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09a9d2333be6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09a9d2333be6.mp3",
+            "text": "fulltidsansatt",
+            "source": "generated",
+            "content_sha256": "9951453b04a35c8a778992da6f5ed0516cd118f60ddc21e29bf9481280ef8d75"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ansatt på fulltid",
+      "translation": "employed full-time",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra deltidsansatt",
+      "translation": "full-time employee",
+      "examples": [
+        {
+          "no": "en fulltidsansatt lærer",
+          "en": "a full-time employed teacher"
+        },
+        {
+          "no": "bedriften har flere fulltidsansatte enn deltidsansatte",
+          "en": "the company has more full-time employees than part-time employees"
+        }
+      ]
+    }
+  ]
+}

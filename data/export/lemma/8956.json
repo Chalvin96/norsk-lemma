@@ -1,0 +1,130 @@
+{
+  "source_article_id": 8956,
+  "lemmas": [
+    {
+      "lemma": "cornflakes",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10605,
+      "is_sub_article": false,
+      "primary_translation": "cornflakes",
+      "word_forms": [
+        {
+          "word_form": "cornflakes",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kUn`$%flEks",
+              "ipa": "ˈkʊɳˌflɛks",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "cornflakesen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kUn`$%flEk$sn=",
+              "ipa": "ˈkʊɳˌflɛksn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "cornflakeser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈuɳflˌɛksər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "cornflakesene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈuɳflˌɛksn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "612221a5a372.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/612221a5a372.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/612221a5a372.mp3",
+            "text": "cornflakes",
+            "source": "generated",
+            "content_sha256": "cd051f0e6ced76295c17cecde8f91aa899d9d8fa4f571217f1f50c0acb3fba39",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ristede maisflak",
+      "translation": "toasted corn flakes",
+      "examples": [
+        {
+          "no": "spise cornflakes til frokost",
+          "en": "eat cornflakes for breakfast"
+        },
+        {
+          "no": "en bolle med cornflakes",
+          "en": "a bowl of cornflakes"
+        }
+      ]
+    }
+  ]
+}

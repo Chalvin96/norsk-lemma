@@ -1,0 +1,79 @@
+{
+  "source_article_id": 7951,
+  "lemmas": [
+    {
+      "lemma": "bråtevis",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 9401,
+      "is_sub_article": false,
+      "primary_translation": "in a heap / large quantities",
+      "word_forms": [
+        {
+          "word_form": "bråtevis",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈoːtəʋˌiːs",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "48e08cced819.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48e08cced819.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48e08cced819.mp3",
+            "text": "bråtevis",
+            "source": "generated",
+            "content_sha256": "f2345affb5e562a8df56445339336b9968cba813ece9359d657105855198c4ba"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i bråte",
+      "translation": "in a heap",
+      "examples": [
+        {
+          "no": "trærne ligger bråtevis over strømlinjene",
+          "en": "the trees are lying in heaps over the power lines"
+        }
+      ]
+    },
+    {
+      "text": "brukt som substantiv: store mengder",
+      "translation": "used as a noun: large quantities",
+      "examples": [
+        {
+          "no": "bråtevis med feil",
+          "en": "heaps of mistakes"
+        },
+        {
+          "no": "bråtevis av ubetalte regninger",
+          "en": "heaps of unpaid bills"
+        },
+        {
+          "no": "hun fikk blomster i bråtevis",
+          "en": "she got flowers in heaps"
+        }
+      ]
+    }
+  ]
+}

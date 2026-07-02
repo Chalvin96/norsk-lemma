@@ -1,0 +1,132 @@
+{
+  "source_article_id": 27532,
+  "lemmas": [
+    {
+      "lemma": "japansk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 32651,
+      "is_sub_article": false,
+      "primary_translation": "Japanese language",
+      "word_forms": [
+        {
+          "word_form": "japansk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$pAnsk",
+              "ipa": "ˈjɑːpɑnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "japansken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$pAn$sk@n",
+              "ipa": "ˈjɑːpɑnskən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "japansker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈɑːpɑnskər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "japanskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈɑːpɑnskənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "96ee2509c733.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/96ee2509c733.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/96ee2509c733.mp3",
+            "text": "japansk",
+            "source": "generated",
+            "content_sha256": "29c5bf7a11bdc2707e6146c674fb097ed93df998861e9e7a4df8a7231bcf49ca",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språk hovedsakelig brukt i Japan",
+      "translation": "language mainly spoken in Japan",
+      "examples": [
+        {
+          "no": "hun holder japansken ved like",
+          "en": "she keeps up her Japanese"
+        },
+        {
+          "no": "snakke et godt japansk",
+          "en": "speak good Japanese"
+        }
+      ]
+    }
+  ]
+}

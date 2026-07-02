@@ -1,0 +1,92 @@
+{
+  "source_article_id": 38796,
+  "lemmas": [
+    {
+      "lemma": "mnemoteknisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45524,
+      "is_sub_article": false,
+      "primary_translation": "mnemonic",
+      "word_forms": [
+        {
+          "word_form": "mnemoteknisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nE$mU$%tE$knI$sk",
+              "ipa": "ˈnɛmʊˌtɛknɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mnemotekniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nE$mU$%tE$knI$sk@",
+              "ipa": "ˈnɛmʊˌtɛknɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5a50bf2f49c1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a50bf2f49c1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a50bf2f49c1.mp3",
+            "text": "mnemoteknisk",
+            "source": "generated",
+            "content_sha256": "d51abaf4e8c809aeb09dfcf3d66ed7a8de57a2589eafe262042384e28458c65e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder mnemoteknikk",
+      "translation": "relating to mnemonics",
+      "examples": []
+    },
+    {
+      "text": "som styrker hukommelsen",
+      "translation": "strengthening memory",
+      "examples": [
+        {
+          "no": "et mnemoteknisk hjelpemiddel",
+          "en": "a mnemonic aid"
+        }
+      ]
+    }
+  ]
+}

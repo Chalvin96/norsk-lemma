@@ -1,0 +1,90 @@
+{
+  "source_article_id": 126042,
+  "lemmas": [
+    {
+      "lemma": "prosentmessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 131830,
+      "is_sub_article": false,
+      "primary_translation": "percentage-wise",
+      "word_forms": [
+        {
+          "word_form": "prosentmessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prusˈɛntmˌɛsɪ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "prosentmessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prusˈɛntmˌɛsɪə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d7fe5bea4457.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d7fe5bea4457.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d7fe5bea4457.mp3",
+            "text": "prosentmessig",
+            "source": "generated",
+            "content_sha256": "9af9cd91c94a7fdcc42f745c87bdb4910ffc75fe4a3f62776ad7555c12351c54"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "beregnet i prosent",
+      "translation": "calculated in percent",
+      "examples": [
+        {
+          "no": "prosentmessig økning",
+          "en": "percentage increase"
+        }
+      ]
+    }
+  ]
+}

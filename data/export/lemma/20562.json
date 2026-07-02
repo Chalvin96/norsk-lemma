@@ -1,0 +1,97 @@
+{
+  "source_article_id": 20562,
+  "lemmas": [
+    {
+      "lemma": "gotisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 24011,
+      "is_sub_article": false,
+      "primary_translation": "Gothic",
+      "word_forms": [
+        {
+          "word_form": "gotisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gu:$tI$sk",
+              "ipa": "ˈguːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gotiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gu:$tI$sk@",
+              "ipa": "ˈguːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e13d716b8dae.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e13d716b8dae.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e13d716b8dae.mp3",
+            "text": "gotisk",
+            "source": "generated",
+            "content_sha256": "f2ecbf3117834147ec2fa18c10df3c7709c4ac6c11c28595e2ecf6630481b503",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder goterne",
+      "translation": "pertaining to the Goths",
+      "examples": [
+        {
+          "no": "gotisk språk",
+          "en": "Gothic language"
+        }
+      ]
+    },
+    {
+      "text": "som gjelder gotikken",
+      "translation": "pertaining to Gothic architecture",
+      "examples": [
+        {
+          "no": "gotiske katedraler",
+          "en": "Gothic cathedrals"
+        }
+      ]
+    }
+  ]
+}

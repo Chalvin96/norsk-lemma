@@ -1,0 +1,109 @@
+{
+  "source_article_id": 20823,
+  "lemmas": [
+    {
+      "lemma": "gray",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 24318,
+      "is_sub_article": false,
+      "primary_translation": "unit of radiation dose",
+      "word_forms": [
+        {
+          "word_form": "gray",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr{*I",
+              "ipa": "ˈgræ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "grayen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr{*I$@n",
+              "ipa": "ˈgræ͡ɪən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "grayene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr{*I$@$n@",
+              "ipa": "ˈgræ͡ɪənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c41301c31c92.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c41301c31c92.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c41301c31c92.mp3",
+            "text": "gray",
+            "source": "generated",
+            "content_sha256": "b2a224091d5a9f6e32fbfba8826a9a8bf67506500b68fecd17e76e5ad8c84d53",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enhet for absorbert stråledose",
+      "translation": "unit of absorbed radiation dose",
+      "examples": []
+    },
+    {
+      "text": "symbol Gy",
+      "translation": "symbol Gy",
+      "examples": [
+        {
+          "no": "1 gray = 1 joule/kilogram",
+          "en": ""
+        }
+      ]
+    }
+  ]
+}

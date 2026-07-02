@@ -1,0 +1,133 @@
+{
+  "source_article_id": 25397,
+  "lemmas": [
+    {
+      "lemma": "hån",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29572,
+      "is_sub_article": false,
+      "primary_translation": "contempt / mockery",
+      "word_forms": [
+        {
+          "word_form": "hån",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ho:n",
+              "ipa": "ˈhoːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hånen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ho:$nn=",
+              "ipa": "ˈhoːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "håner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ho:$n@r",
+              "ipa": "ˈhoːnər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hånene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈoːnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4eb7d0a3ed43.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4eb7d0a3ed43.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4eb7d0a3ed43.mp3",
+            "text": "hån",
+            "source": "generated",
+            "content_sha256": "efd13cbb99a66663fb7a73d32f6bd44ffb549710a308f1890e1b303c6964a81c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uttrykk for forakt",
+      "translation": "expression of contempt",
+      "examples": []
+    },
+    {
+      "text": "spott, ringeakt",
+      "translation": "mockery, disdain",
+      "examples": [
+        {
+          "no": "filmen er en hån mot vårt fedreland",
+          "en": "the film is an insult to our fatherland"
+        },
+        {
+          "no": "hån og spott",
+          "en": "scorn and mockery"
+        }
+      ]
+    }
+  ]
+}

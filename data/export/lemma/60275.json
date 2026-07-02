@@ -1,0 +1,126 @@
+{
+  "source_article_id": 60275,
+  "lemmas": [
+    {
+      "lemma": "tempera",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68938,
+      "is_sub_article": false,
+      "primary_translation": "tempera painting",
+      "word_forms": [
+        {
+          "word_form": "tempera",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tEm$p@$rA",
+              "ipa": "ˈtɛmpərɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "temperaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɛmpərɑən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "temperaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɛmpərɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "temperaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tEm$p@$rA$@$n@",
+              "ipa": "ˈtɛmpərɑənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "af951437188e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af951437188e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af951437188e.mp3",
+            "text": "tempera",
+            "source": "generated",
+            "content_sha256": "2059235c3067518154d0143d5237579e5160229094a029b9651efca5857f0634",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "teknikk i malerkunst der en bruker temperafarge",
+      "translation": "technique in painting where tempera paint is used",
+      "examples": []
+    },
+    {
+      "text": "maleri med temperafarge",
+      "translation": "painting with tempera paint",
+      "examples": []
+    }
+  ]
+}

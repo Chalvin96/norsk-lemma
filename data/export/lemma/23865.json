@@ -1,0 +1,106 @@
+{
+  "source_article_id": 23865,
+  "lemmas": [
+    {
+      "lemma": "hjertegod",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 28175,
+      "is_sub_article": false,
+      "primary_translation": "good-hearted",
+      "word_forms": [
+        {
+          "word_form": "hjertegod",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j{$t`@$%gu:",
+              "ipa": "ˈjæʈəˌguː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hjertegode",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j{$t`@$%gu:$d@",
+              "ipa": "ˈjæʈəˌguːdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hjertegodt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j{$t`@$%gUt",
+              "ipa": "ˈjæʈəˌgʊt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c932d86347ff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c932d86347ff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c932d86347ff.mp3",
+            "text": "hjertegod",
+            "source": "generated",
+            "content_sha256": "3ffd86074564b6480a5e5b21e7fdcb44b9b5bd0468086ac416c861ef87dd6747",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tvers igjennom god, inderlig god",
+      "translation": "thoroughly good, sincerely good",
+      "examples": [
+        {
+          "no": "et hjertegodt menneske",
+          "en": "a truly good-hearted person"
+        }
+      ]
+    }
+  ]
+}

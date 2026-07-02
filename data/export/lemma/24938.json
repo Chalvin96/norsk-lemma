@@ -1,0 +1,102 @@
+{
+  "source_article_id": 24938,
+  "lemmas": [
+    {
+      "lemma": "hygienisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 29452,
+      "is_sub_article": false,
+      "primary_translation": "hygienic",
+      "word_forms": [
+        {
+          "word_form": "hygienisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$gI$\"e:$nI$sk",
+              "ipa": "hʏgɪˈeːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hygieniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$gI$\"e:$nI$sk@",
+              "ipa": "hʏgɪˈeːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "affab7c62cde.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/affab7c62cde.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/affab7c62cde.mp3",
+            "text": "hygienisk",
+            "source": "generated",
+            "content_sha256": "75ba1d12cfac09c3622c3d2cc9fbfb70fb89d50f4cb1b2c99bc99e774c4d0488",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som angår hygiene",
+      "translation": "concerning hygiene",
+      "examples": [
+        {
+          "no": "hygienisk forskning",
+          "en": "hygiene research"
+        }
+      ]
+    },
+    {
+      "text": "som gjelder eller er i samsvar med hygienen",
+      "translation": "concerning or in accordance with hygiene",
+      "examples": []
+    },
+    {
+      "text": "ren, renslig",
+      "translation": "clean, sanitary",
+      "examples": [
+        {
+          "no": "offentlige toaletter er ikke alltid hygieniske",
+          "en": "public toilets are not always hygienic"
+        }
+      ]
+    }
+  ]
+}

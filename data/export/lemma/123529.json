@@ -1,0 +1,82 @@
+{
+  "source_article_id": 123529,
+  "lemmas": [
+    {
+      "lemma": "nordeuropeisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 126238,
+      "is_sub_article": false,
+      "primary_translation": "Northern European",
+      "word_forms": [
+        {
+          "word_form": "nordeuropeisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$rE*u0$rU$%pe:$I$sk",
+              "ipa": "ˈnuːræ͡ʉrʊˌpeːɪsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nordeuropeiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$rE*u0$rU$%pe:$I$sk@",
+              "ipa": "ˈnuːræ͡ʉrʊˌpeːɪskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "213cca15e84b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/213cca15e84b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/213cca15e84b.mp3",
+            "text": "nordeuropeisk",
+            "source": "generated",
+            "content_sha256": "5e3724e9b843af06107bd441bf8b60ff7308524c461163d1d0cdfa8dd6b898b7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Nord-Europa og nordeuropeere",
+      "translation": "relating to Northern Europe and Northern Europeans",
+      "examples": []
+    }
+  ]
+}

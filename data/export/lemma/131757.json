@@ -1,0 +1,111 @@
+{
+  "source_article_id": 131757,
+  "lemmas": [
+    {
+      "lemma": "termofil",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2053198,
+      "is_sub_article": false,
+      "primary_translation": "thermophilic / heat-loving",
+      "word_forms": [
+        {
+          "word_form": "termofil",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈærmufˈiːl",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "termofile",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈærmufˈiːlə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "termofilt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈærmufˈiːlt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0224546c6768.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0224546c6768.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0224546c6768.mp3",
+            "text": "termofil",
+            "source": "generated",
+            "content_sha256": "f98c8c0a2312d14e164b89c6e2bd6f0e250ef5e716e0bde726978f268e5e294a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som trives i varme",
+      "translation": "thriving in heat",
+      "examples": [
+        {
+          "no": "termofile bakterier",
+          "en": "thermophilic bacteria"
+        }
+      ]
+    }
+  ]
+}

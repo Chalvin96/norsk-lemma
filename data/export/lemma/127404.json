@@ -1,0 +1,90 @@
+{
+  "source_article_id": 127404,
+  "lemmas": [
+    {
+      "lemma": "schlesisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2086049,
+      "is_sub_article": false,
+      "primary_translation": "Silesian",
+      "word_forms": [
+        {
+          "word_form": "schlesisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sklˈeːsɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "schlesiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sklˈeːsɪskə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "15b4c22a3933.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15b4c22a3933.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15b4c22a3933.mp3",
+            "text": "schlesisk",
+            "source": "generated",
+            "content_sha256": "ad0c7581453a7b91a60de4d7ba243508684e3b32a4e9cb024a2268927cc1e703"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Schlesien og schlesier",
+      "translation": "relating to Silesia and Silesians",
+      "examples": [
+        {
+          "no": "salmen var opprinnelig en schlesisk folketone",
+          "en": "the hymn was originally a Silesian folk tune"
+        }
+      ]
+    }
+  ]
+}

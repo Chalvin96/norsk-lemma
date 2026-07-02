@@ -1,0 +1,151 @@
+{
+  "source_article_id": 24228,
+  "lemmas": [
+    {
+      "lemma": "horoskop",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 28581,
+      "is_sub_article": false,
+      "primary_translation": "horoscope",
+      "word_forms": [
+        {
+          "word_form": "horoskop",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$rU$\"sku:p",
+              "ipa": "hʊrʊˈskuːp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "horoskopet",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$rU$\"sku:$p@",
+              "ipa": "hʊrʊˈskuːpə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "horoskopa",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$rU$\"sku:$pA",
+              "ipa": "hʊrʊˈskuːpɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "horoskoper",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$rU$\"sku:$p@r",
+              "ipa": "hʊrʊˈskuːpər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "horoskopene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$rU$\"sku:$p@$n@",
+              "ipa": "hʊrʊˈskuːpənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d5461f2e1259.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5461f2e1259.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5461f2e1259.mp3",
+            "text": "horoskop",
+            "source": "generated",
+            "content_sha256": "1c7ad987f810d4611558cdb220f8b957d05b172a126e1c2605346f454ff9c3fc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "himmellegemenes stilling over et sted på et bestemt tidspunkt",
+      "translation": "position of celestial bodies over a place at a specific time",
+      "examples": []
+    },
+    {
+      "text": "spådom om en persons personlighet og livsløp på grunnlag av himmellegemene",
+      "translation": "prediction of a person's personality and life course based on celestial bodies",
+      "examples": [
+        {
+          "no": "hun stilte horoskopet mitt ut fra fødested, fødselsdato og klokkeslett",
+          "en": "she drew up my horoscope based on my birthplace, date of birth, and time of birth"
+        },
+        {
+          "no": "horoskoper er ikke vitenskapelige",
+          "en": "horoscopes are not scientific"
+        }
+      ]
+    }
+  ]
+}

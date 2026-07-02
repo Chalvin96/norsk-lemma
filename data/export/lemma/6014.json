@@ -1,0 +1,128 @@
+{
+  "source_article_id": 6014,
+  "lemmas": [
+    {
+      "lemma": "binde-s",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7081,
+      "is_sub_article": false,
+      "primary_translation": "linking s / linking vowel",
+      "word_forms": [
+        {
+          "word_form": "binde-s",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$n@$%Es",
+              "ipa": "ˈbɪnəˌɛs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "binde-s-en",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɪnəəsən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "binde-s-er",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɪnəəsər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "binde-s-ene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɪnəəsənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1d011e3221b3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1d011e3221b3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1d011e3221b3.mp3",
+            "text": "binde-s",
+            "source": "generated",
+            "content_sha256": "ac435d1e03e2daf743ba4fdc2eac38b8b205e9357041d5b530c1990cf3a3cc76",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "s som tjener til å binde sammen to orddeler",
+      "translation": "s that serves to join two word parts",
+      "examples": [
+        {
+          "no": "s-en i ‘mannsalder’ er en binde-s",
+          "en": "the s in ‘mannsalder’ is a linking s"
+        }
+      ]
+    }
+  ]
+}

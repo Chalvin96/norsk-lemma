@@ -1,0 +1,132 @@
+{
+  "source_article_id": 97037,
+  "lemmas": [
+    {
+      "lemma": "baht",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157191,
+      "is_sub_article": false,
+      "primary_translation": "Thai baht",
+      "word_forms": [
+        {
+          "word_form": "baht",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:t",
+              "ipa": "ˈbɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bahten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɑːtn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bahter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɑːtər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bahtene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɑːtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "725b9e8f8bce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/725b9e8f8bce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/725b9e8f8bce.mp3",
+            "text": "baht",
+            "source": "generated",
+            "content_sha256": "a6f9b548f91a80208ad965e3abbdcb837a1aa60a6868bcfba9e5e2c457259bc3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "myntenhet i Thailand",
+      "translation": "monetary unit in Thailand",
+      "examples": [
+        {
+          "no": "500 baht",
+          "en": ""
+        },
+        {
+          "no": "det kostet flere millioner baht",
+          "en": "it cost several million baht"
+        }
+      ]
+    }
+  ]
+}

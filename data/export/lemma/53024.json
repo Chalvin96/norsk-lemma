@@ -1,0 +1,92 @@
+{
+  "source_article_id": 53024,
+  "lemmas": [
+    {
+      "lemma": "skjelvhendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 61129,
+      "is_sub_article": false,
+      "primary_translation": "trembling hands",
+      "word_forms": [
+        {
+          "word_form": "skjelvhendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SElv$%hEnt",
+              "ipa": "ˈʃɛlvˌhɛnt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skjelvhendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SElv$%hEn$t@",
+              "ipa": "ˈʃɛlvˌhɛntə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "638e708a6668.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/638e708a6668.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/638e708a6668.mp3",
+            "text": "skjelvhendt",
+            "source": "generated",
+            "content_sha256": "0b0a9f9ab50d166c4412df41ef034dd52a92af7d158d2b591f622a3320416932",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som skjelve på hendene",
+      "translation": "having trembling hands",
+      "examples": []
+    },
+    {
+      "text": "ustø på hånden",
+      "translation": "unsteady of hand",
+      "examples": [
+        {
+          "no": "jeg er skjelvhendt om morgenen",
+          "en": "my hands are shaky in the morning"
+        }
+      ]
+    }
+  ]
+}

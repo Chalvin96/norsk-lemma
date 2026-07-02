@@ -1,0 +1,103 @@
+{
+  "source_article_id": 34510,
+  "lemmas": [
+    {
+      "lemma": "lørdagsfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42650,
+      "is_sub_article": false,
+      "primary_translation": "Saturday off",
+      "word_forms": [
+        {
+          "word_form": "lørdagsfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"l2:$d`A:gs$%fri:",
+              "ipa": "ˈløːɖɑːgsˌfrɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lørdagsfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"l2:$d`A:gs$%fri:$@",
+              "ipa": "ˈløːɖɑːgsˌfrɪːə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lørdagsfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"l2:$d`A:gs$%frIt",
+              "ipa": "ˈløːɖɑːgsˌfrɪt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "443678a3b17c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/443678a3b17c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/443678a3b17c.mp3",
+            "text": "lørdagsfri",
+            "source": "generated",
+            "content_sha256": "4061b2b1c43a6ecf2bfba5d794b1f2b51e8abb8ba6fe5dc2dffb0abe37bf88fb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fri fra arbeid eller skole på lørdager",
+      "translation": "free from work or school on Saturdays",
+      "examples": [
+        {
+          "no": "ha lørdagsfri",
+          "en": "have Saturdays off"
+        }
+      ]
+    }
+  ]
+}

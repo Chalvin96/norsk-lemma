@@ -1,0 +1,128 @@
+{
+  "source_article_id": 55380,
+  "lemmas": [
+    {
+      "lemma": "soda",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 63765,
+      "is_sub_article": false,
+      "primary_translation": "soda / soda water",
+      "word_forms": [
+        {
+          "word_form": "soda",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"su:$dA",
+              "ipa": "ˈsuːdɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sodaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"su:$dA$@n",
+              "ipa": "ˈsuːdɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sodaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈuːdɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sodaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"su:$dA$@$n@",
+              "ipa": "ˈsuːdɑənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4aec093e289e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4aec093e289e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4aec093e289e.mp3",
+            "text": "soda",
+            "source": "generated",
+            "content_sha256": "39f72ae22a59774d9e9278cf7d92b4c384cba099f3fcd0ae9d56289e39258955",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "natriumkarbonat brukt som vaskemiddel",
+      "translation": "sodium carbonate used as a detergent",
+      "examples": [
+        {
+          "no": "kaustisk soda",
+          "en": "caustic soda"
+        },
+        {
+          "no": "whisky og soda",
+          "en": "whisky and soda"
+        }
+      ]
+    }
+  ]
+}

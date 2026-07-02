@@ -1,0 +1,110 @@
+{
+  "source_article_id": 20323,
+  "lemmas": [
+    {
+      "lemma": "glovarm",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 23741,
+      "is_sub_article": false,
+      "primary_translation": "scorching hot",
+      "word_forms": [
+        {
+          "word_form": "glovarm",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glu:$%vArm",
+              "ipa": "ˈgluːˌvɑrm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glovarme",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glu:$%vAr$m@",
+              "ipa": "ˈgluːˌvɑrmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glovarmt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glu:$%vArmt",
+              "ipa": "ˈgluːˌvɑrmt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "29f99e38135c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/29f99e38135c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/29f99e38135c.mp3",
+            "text": "glovarm",
+            "source": "generated",
+            "content_sha256": "27e89fe0a68ec6321250bc3ef1ceb8823bfbaf7a497ab500d423a55de45fd1a3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært varm",
+      "translation": "extremely hot",
+      "examples": [
+        {
+          "no": "ovnen er glovarm",
+          "en": "the oven is blazing hot"
+        },
+        {
+          "no": "glovarm sand",
+          "en": "blazing hot sand"
+        }
+      ]
+    }
+  ]
+}

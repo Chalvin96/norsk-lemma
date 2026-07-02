@@ -1,0 +1,201 @@
+{
+  "source_article_id": 43210,
+  "lemmas": [
+    {
+      "lemma": "ord",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 50065,
+      "is_sub_article": false,
+      "primary_translation": "word / expression / promise",
+      "word_forms": [
+        {
+          "word_form": "ord",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:r",
+              "ipa": "ˈuːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ordet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:$r@",
+              "ipa": "ˈuːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "orda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:$rA",
+              "ipa": "ˈuːrɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ordene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u:$n`=$@",
+              "ipa": "ˈuːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bef0cb776bbd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bef0cb776bbd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bef0cb776bbd.mp3",
+            "text": "ord",
+            "source": "generated",
+            "content_sha256": "e64c3014539854a719f9f2cc7eb8efe3330414afbaed0d109e9441643aa95e8b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enhet av språklyder eller bokstaver som er bærer av en betydning i en ytring",
+      "translation": "unit of language sounds or letters that carries meaning in an utterance",
+      "examples": [
+        {
+          "no": "setningen ‘jeg har sett den filmen’ består av fem ord",
+          "en": "the sentence 'I have seen that movie' consists of five words"
+        },
+        {
+          "no": "‘framskritt’ er et sammensatt ord",
+          "en": "'framskritt' is a compound word"
+        },
+        {
+          "no": "det engelske ordet ‘boy’",
+          "en": "the English word 'boy'"
+        },
+        {
+          "no": "hun lette etter det rette ordet",
+          "en": "she looked for the right word"
+        }
+      ]
+    },
+    {
+      "text": "uttrykk, uttalelse, utsagn",
+      "translation": "expression, statement, utterance",
+      "examples": [
+        {
+          "no": "det var et sant ord",
+          "en": "that was a true word"
+        },
+        {
+          "no": "det skrevne ordet",
+          "en": "the written word"
+        },
+        {
+          "no": "Guds ord",
+          "en": "God's word"
+        },
+        {
+          "no": "et ord i rett tid",
+          "en": "a word at the right time"
+        }
+      ]
+    },
+    {
+      "text": "tale, innlegg (i debatt, diskusjon)",
+      "translation": "speech, contribution (in a debate, discussion)",
+      "examples": [
+        {
+          "no": "be om ordet",
+          "en": "ask to speak"
+        },
+        {
+          "no": "ha ordet",
+          "en": "have the floor"
+        },
+        {
+          "no": "ta ordet",
+          "en": "take the floor"
+        },
+        {
+          "no": "ha godt ord på seg",
+          "en": "have a good reputation"
+        }
+      ]
+    },
+    {
+      "text": "løfte, tilsagn, forsikring",
+      "translation": "promise, assurance, guarantee",
+      "examples": [
+        {
+          "no": "gi sitt ord på noe",
+          "en": "give one's word on something"
+        },
+        {
+          "no": "det har du mitt ord på",
+          "en": "you have my word on that"
+        },
+        {
+          "no": "tro han på hans ord",
+          "en": "take him at his word"
+        },
+        {
+          "no": "det har du mitt ord for",
+          "en": "you have my word for it"
+        }
+      ]
+    }
+  ]
+}

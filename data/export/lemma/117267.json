@@ -1,0 +1,129 @@
+{
+  "source_article_id": 117267,
+  "lemmas": [
+    {
+      "lemma": "hundesøk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 107774,
+      "is_sub_article": false,
+      "primary_translation": "dog search",
+      "word_forms": [
+        {
+          "word_form": "hundesøk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hu0$n@$%s2:k",
+              "ipa": "ˈhʉnəˌsøːk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hundesøket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈʉnəsˌøːkə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hundesøka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈʉnəsˌøːkɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hundesøkene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈʉnəsˌøːkənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1c7bc59a25d8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1c7bc59a25d8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1c7bc59a25d8.mp3",
+            "text": "hundesøk",
+            "source": "generated",
+            "content_sha256": "c0044cc344b31b7b01f08163eba4d7fec98bc82cbcd8ff6255a2591d03567924",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "søk med spesialtrent hund",
+      "translation": "search with a specially trained dog",
+      "examples": [
+        {
+          "no": "etter en time med hundesøk fant de den savnede",
+          "en": "after an hour of searching with dogs, they found the missing person"
+        }
+      ]
+    }
+  ]
+}

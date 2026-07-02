@@ -1,0 +1,158 @@
+{
+  "source_article_id": 42930,
+  "lemmas": [
+    {
+      "lemma": "øy",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 81245,
+      "is_sub_article": false,
+      "primary_translation": "island / isolated area",
+      "word_forms": [
+        {
+          "word_form": "øy",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"9*Y",
+              "ipa": "ˈœ͡ʏ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "øya",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"9*Y$A",
+              "ipa": "ˈœ͡ʏɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "øyer",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"9*Y$@r",
+              "ipa": "ˈœ͡ʏər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "øyene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"9*Y$@$n@",
+              "ipa": "ˈœ͡ʏənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "øyen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"9*Y$@n",
+              "ipa": "ˈœ͡ʏən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2ccdd5e5ff8e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ccdd5e5ff8e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ccdd5e5ff8e.mp3",
+            "text": "øy",
+            "source": "generated",
+            "content_sha256": "3372549be33e325fd386986744b2f6f5f02574029b7910f7076c8a6cf6f94fff",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "landområde som er omgitt av vann på alle kanter (og er større enn en holme og mindre enn et kontinent)",
+      "translation": "land area surrounded by water on all sides (larger than a islet and smaller than a continent)",
+      "examples": [
+        {
+          "no": "de bor på en øy langt ute i havet",
+          "en": "they live on an island far out at sea"
+        },
+        {
+          "no": "de greske øyene",
+          "en": "the Greek islands"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: noe som minner om en øy fordi det er isolert eller omgitt av noe annet",
+      "translation": "something resembling an island because it is isolated or surrounded by something else",
+      "examples": [
+        {
+          "no": "landet er en liten øy av velstand og stabilitet",
+          "en": "the country is a small island of prosperity and stability"
+        }
+      ]
+    }
+  ]
+}

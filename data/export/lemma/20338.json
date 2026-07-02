@@ -1,0 +1,121 @@
+{
+  "source_article_id": 20338,
+  "lemmas": [
+    {
+      "lemma": "glykolyse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 23761,
+      "is_sub_article": false,
+      "primary_translation": "glycolysis",
+      "word_forms": [
+        {
+          "word_form": "glykolyse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "glY$kU$\"\"ly:$s@",
+              "ipa": "glʏkʊˈlyːsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glykolysen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "glY$kU$\"\"ly:$sn=",
+              "ipa": "glʏkʊˈlyːsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glykolyser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "glʏkulˈyːsər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "glykolysene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "glʏkulˈyːsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a3034193074b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3034193074b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3034193074b.mp3",
+            "text": "glykolyse",
+            "source": "generated",
+            "content_sha256": "07a73616acd0c804aca69551bc3272725f957d643786e5bc83bc2ec29cc4a24a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "prosess med nedbryting av glukose i cellene, der det samtidig frigjøres energi",
+      "translation": "process of breaking down glucose in cells, which simultaneously releases energy",
+      "examples": []
+    }
+  ]
+}

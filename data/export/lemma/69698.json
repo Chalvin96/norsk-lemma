@@ -1,0 +1,106 @@
+{
+  "source_article_id": 69698,
+  "lemmas": [
+    {
+      "lemma": "yuan",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160619,
+      "is_sub_article": false,
+      "primary_translation": "yuan",
+      "word_forms": [
+        {
+          "word_form": "yuan",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ju0$\"A:n",
+              "ipa": "jʉˈɑːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "yuanen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ju0$\"A:$nn=",
+              "ipa": "jʉˈɑːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "yuanene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jʉˈɑːnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "430bcbb44963.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/430bcbb44963.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/430bcbb44963.mp3",
+            "text": "yuan",
+            "source": "generated",
+            "content_sha256": "462103269a08546d8f944cc04e607c82eb2afd06c2fb38823c51a397370a0aa8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "myntenhet i Kina",
+      "translation": "monetary unit in China",
+      "examples": [
+        {
+          "no": "1 yuan = 100 fen",
+          "en": ""
+        }
+      ]
+    }
+  ]
+}

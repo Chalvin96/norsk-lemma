@@ -1,0 +1,129 @@
+{
+  "source_article_id": 68166,
+  "lemmas": [
+    {
+      "lemma": "vidd",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 78691,
+      "is_sub_article": false,
+      "primary_translation": "wit",
+      "word_forms": [
+        {
+          "word_form": "vidd",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vId",
+              "ipa": "ˈvɪd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "viddet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪdət",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "vidda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vI$dA",
+              "ipa": "ˈvɪdɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "viddene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vI$dn=$@",
+              "ipa": "ˈvɪdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1a21abe35ffc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a21abe35ffc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a21abe35ffc.mp3",
+            "text": "vidd",
+            "source": "generated",
+            "content_sha256": "5651278e934824a24b6c14e38f11f739f4d0396a8ae9a9a5d24bdede4a32f4da",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være vittig eller åndfull",
+      "translation": "the quality of being witty or humorous",
+      "examples": [
+        {
+          "no": "et utsagn med vidd",
+          "en": "a statement with wit"
+        },
+        {
+          "no": "være full av vidd",
+          "en": "be full of wit"
+        }
+      ]
+    }
+  ]
+}

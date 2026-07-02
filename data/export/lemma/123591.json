@@ -1,0 +1,146 @@
+{
+  "source_article_id": 123591,
+  "lemmas": [
+    {
+      "lemma": "nyhetsmelding",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2007706,
+      "is_sub_article": false,
+      "primary_translation": "news report",
+      "word_forms": [
+        {
+          "word_form": "nyhetsmelding",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ny:$he:t$%smE$lIN",
+              "ipa": "ˈnyːheːtˌsmɛlɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nyhetsmeldingen",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ny:$he:t$%smE$lIN$@n",
+              "ipa": "ˈnyːheːtˌsmɛlɪŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nyhetsmeldinger",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ny:$he:t$%smE$lIN$@r",
+              "ipa": "ˈnyːheːtˌsmɛlɪŋər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nyhetsmeldingene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ny:$he:t$%smE$lIN$@$n@",
+              "ipa": "ˈnyːheːtˌsmɛlɪŋənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nyhetsmeldinga",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈyːheːtsmˌɛlɪŋɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4b78c3b7634c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b78c3b7634c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b78c3b7634c.mp3",
+            "text": "nyhetsmelding",
+            "source": "generated",
+            "content_sha256": "12461a0096f38e188a68b03700ad0bc73cd2ecd6be4a0a095bd699045f2eb7c7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(kort) kunngjøring av nyhet",
+      "translation": "(short) announcement of news",
+      "examples": [
+        {
+          "no": "politiet sendte ut en kort nyhetsmelding etter arrestasjonen",
+          "en": "the police sent out a brief news release after the arrest"
+        }
+      ]
+    }
+  ]
+}

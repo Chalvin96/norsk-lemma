@@ -1,0 +1,107 @@
+{
+  "source_article_id": 56023,
+  "lemmas": [
+    {
+      "lemma": "spesifikk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64474,
+      "is_sub_article": false,
+      "primary_translation": "specific",
+      "word_forms": [
+        {
+          "word_form": "spesifikk",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"spE$sI$%fIk",
+              "ipa": "ˈspɛsɪˌfɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spesifikke",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"spE$sI$%fI$k@",
+              "ipa": "ˈspɛsɪˌfɪkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spesifikt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"spE$sI$%fIkt",
+              "ipa": "ˈspɛsɪˌfɪkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "09bcd4b742cc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09bcd4b742cc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09bcd4b742cc.mp3",
+            "text": "spesifikk",
+            "source": "generated",
+            "content_sha256": "2e03f3d70ac54527d99fe0a14e138a39a769746ab5bd3a82ef1bfdd903b1047f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særegen, typisk",
+      "translation": "peculiar, typical",
+      "examples": [
+        {
+          "no": "nye medikamenter med høyst spesifikke virkninger",
+          "en": "new medications with highly specific effects"
+        },
+        {
+          "no": "et spesifikt norsk fenomen",
+          "en": "a specifically Norwegian phenomenon"
+        }
+      ]
+    }
+  ]
+}

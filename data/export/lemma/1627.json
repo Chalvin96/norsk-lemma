@@ -1,0 +1,87 @@
+{
+  "source_article_id": 1627,
+  "lemmas": [
+    {
+      "lemma": "anarkisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2096,
+      "is_sub_article": false,
+      "primary_translation": "anarchic",
+      "word_forms": [
+        {
+          "word_form": "anarkisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"nAr$kI$sk",
+              "ipa": "ɑˈnɑrkɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "anarkiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"nAr$kI$sk@",
+              "ipa": "ɑˈnɑrkɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "541c748611b3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/541c748611b3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/541c748611b3.mp3",
+            "text": "anarkisk",
+            "source": "generated",
+            "content_sha256": "ed99688ffbb00c215010b503db456ebb8b0bec28fe5529e698bf8cc2b1849b05",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder anarki",
+      "translation": "relating to anarchy",
+      "examples": [
+        {
+          "no": "anarkiske tilstander",
+          "en": "anarchic conditions"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_article_id": 68072,
+  "lemmas": [
+    {
+      "lemma": "vestlandsk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 78597,
+      "is_sub_article": false,
+      "primary_translation": "Western Norwegian dialect",
+      "word_forms": [
+        {
+          "word_form": "vestlandsk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$%stlAnsk",
+              "ipa": "ˈvɛˌstlɑnsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vestlandsken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$%stlAn$sk@n",
+              "ipa": "ˈvɛˌstlɑnskən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vestlandsker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɛstlɑnskər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "vestlandskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɛstlˌɑnskənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "41670904cab6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41670904cab6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41670904cab6.mp3",
+            "text": "vestlandsk",
+            "source": "generated",
+            "content_sha256": "8508f59967a03efab3f50f27b1c88f4df61805fc64c196afaf78f871cc7782e7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dialekt på Vestlandet",
+      "translation": "dialect in Western Norway",
+      "examples": [
+        {
+          "no": "snakke vestlandsk",
+          "en": "speak a Western Norwegian dialect"
+        }
+      ]
+    }
+  ]
+}

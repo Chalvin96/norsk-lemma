@@ -1,0 +1,83 @@
+{
+  "source_article_id": 40494,
+  "lemmas": [
+    {
+      "lemma": "nedgående",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47399,
+      "is_sub_article": false,
+      "primary_translation": "downward / decreasing",
+      "word_forms": [
+        {
+          "word_form": "nedgående",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:$%go:$@$n@",
+              "ipa": "ˈneːˌgoːənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4ce342d0cfcf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ce342d0cfcf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ce342d0cfcf.mp3",
+            "text": "nedgående",
+            "source": "generated",
+            "content_sha256": "629575991ec0a0c157bca866b9175b71e495d37893793aa31984558f2e536675",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som går eller beveger seg nedover",
+      "translation": "going or moving downwards",
+      "examples": [
+        {
+          "no": "nedgående tog",
+          "en": "downbound train"
+        },
+        {
+          "no": "sola er i nedgående",
+          "en": "the sun is setting"
+        }
+      ]
+    },
+    {
+      "text": "som minker",
+      "translation": "decreasing",
+      "examples": [
+        {
+          "no": "en nedgående trend",
+          "en": "a downward trend"
+        }
+      ]
+    }
+  ]
+}

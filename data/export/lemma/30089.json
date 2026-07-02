@@ -1,0 +1,187 @@
+{
+  "source_article_id": 30089,
+  "lemmas": [
+    {
+      "lemma": "klikk",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 82095,
+      "is_sub_article": false,
+      "primary_translation": "click (sound) / click (mouse) / misfire",
+      "word_forms": [
+        {
+          "word_form": "klikk",
+          "tags_json": [
+            "Masc",
+            "m1, m., n.",
+            "Sing",
+            "Ind",
+            "Plur",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klIk",
+              "ipa": "ˈklɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klikken",
+          "tags_json": [
+            "Masc",
+            "m1, m., n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klI$k@n",
+              "ipa": "ˈklɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klikker",
+          "tags_json": [
+            "Masc",
+            "m1, m., n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klI$k@r",
+              "ipa": "ˈklɪkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klikkene",
+          "tags_json": [
+            "Masc",
+            "m1, m., n.",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klI$k@$n@",
+              "ipa": "ˈklɪkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klikket",
+          "tags_json": [
+            "Neuter",
+            "m1, m., n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klI$k@",
+              "ipa": "ˈklɪkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klikka",
+          "tags_json": [
+            "Neuter",
+            "m1, m., n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klI$kA",
+              "ipa": "ˈklɪkɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "90beda87ed32.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90beda87ed32.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90beda87ed32.mp3",
+            "text": "klikk",
+            "source": "generated",
+            "content_sha256": "a2473da0d35fe50698954f13553c5ed7ee7d83269329f3a55850250c71a4c625",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lite smell, knepp",
+      "translation": "small sound, click",
+      "examples": [
+        {
+          "no": "låsen gikk i med et klikk",
+          "en": "the lock snapped shut with a click"
+        }
+      ]
+    },
+    {
+      "text": "trykk på museknapp musknapp for å følge lenke eller lignende",
+      "translation": "click on a mouse button to follow a link or similar",
+      "examples": [
+        {
+          "no": "en bok er bare et klikk unna",
+          "en": "a book is only a click away"
+        },
+        {
+          "no": "jakta på klikk blir sentral for klubbenes nettsider",
+          "en": "the hunt for clicks is becoming central to the clubs' websites"
+        }
+      ]
+    },
+    {
+      "text": "det at skudd, ladning ikke går av",
+      "translation": "failure of a shot or charge to fire",
+      "examples": [
+        {
+          "no": "få klikk under hurtigskytingen",
+          "en": "get misfires during the rapid-fire shooting"
+        }
+      ]
+    }
+  ]
+}

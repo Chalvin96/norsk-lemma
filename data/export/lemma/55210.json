@@ -1,0 +1,227 @@
+{
+  "source_article_id": 55210,
+  "lemmas": [
+    {
+      "lemma": "snu",
+      "hgno": 2,
+      "pos": "VERB",
+      "source_lemma_id": 63567,
+      "is_sub_article": false,
+      "primary_translation": "to turn",
+      "word_forms": [
+        {
+          "word_form": "snu",
+          "tags_json": [
+            "v4",
+            "Inf",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sn}:",
+              "ipa": "ˈsnʉː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snur",
+          "tags_json": [
+            "v4",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sn}:r",
+              "ipa": "ˈsnʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snus",
+          "tags_json": [
+            "v4",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sn}:s",
+              "ipa": "ˈsnʉːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snudde",
+          "tags_json": [
+            "v4",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"snu0$d@",
+              "ipa": "ˈsnʉdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "snudd",
+          "tags_json": [
+            "v4",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"snu0d",
+              "ipa": "ˈsnʉd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snuende",
+          "tags_json": [
+            "v4",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sn}:$@$n@",
+              "ipa": "ˈsnʉːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "26d3fe9a3122.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/26d3fe9a3122.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/26d3fe9a3122.mp3",
+            "text": "snu",
+            "source": "generated",
+            "content_sha256": "fa763cdd14a2069551e03dd063f3da16d3e94f144ac3b9ae8ffa5346b1e642e2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sette i bevegelse rundt en (tenkt) akse",
+      "translation": "rotate",
+      "examples": []
+    },
+    {
+      "text": "vende, dreie",
+      "translation": "turn, rotate",
+      "examples": [
+        {
+          "no": "han stoppet og snudde seg",
+          "en": "he stopped and turned around"
+        },
+        {
+          "no": "moren snudde seg rundt",
+          "en": "the mother turned around"
+        },
+        {
+          "no": "snu på hodet",
+          "en": "turn your head"
+        },
+        {
+          "no": "snu seg i senga",
+          "en": "turn over in bed"
+        }
+      ]
+    },
+    {
+      "text": "ta en ny retning",
+      "translation": "take a new direction",
+      "examples": []
+    },
+    {
+      "text": "vende, dreie",
+      "translation": "turn, rotate",
+      "examples": [
+        {
+          "no": "vi måtte snu på grunn av uvær",
+          "en": "we had to turn back because of bad weather"
+        },
+        {
+          "no": "vinden hadde snudd",
+          "en": "the wind had turned"
+        }
+      ]
+    },
+    {
+      "text": "peke i en viss retning",
+      "translation": "point in a certain direction",
+      "examples": []
+    },
+    {
+      "text": "vende",
+      "translation": "turn",
+      "examples": [
+        {
+          "no": "den siden som snur ut",
+          "en": "the side that turns outward"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: forsøke å få noe til endre seg",
+      "translation": "figuratively: try to change something",
+      "examples": [
+        {
+          "no": "vi må forsøke å snu trenden",
+          "en": "we must try to reverse the trend"
+        },
+        {
+          "no": "de har jobbet lenge for å snu utviklingen",
+          "en": "they have worked for a long time to reverse the development"
+        }
+      ]
+    }
+  ]
+}

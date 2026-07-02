@@ -1,0 +1,122 @@
+{
+  "source_article_id": 32196,
+  "lemmas": [
+    {
+      "lemma": "kristenmann",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 37803,
+      "is_sub_article": false,
+      "primary_translation": "Christian person",
+      "word_forms": [
+        {
+          "word_form": "kristenmann",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"krI$stn=$%mAn",
+              "ipa": "ˈkrɪstn̩ˌmɑn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kristenmannen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"krI$stn=$%mA$nn=",
+              "ipa": "ˈkrɪstn̩ˌmɑnn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kristenmenn",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"krI$stn=$%mEn",
+              "ipa": "ˈkrɪstn̩ˌmɛn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kristenmennene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"krI$stn=$%mE$nn=$@",
+              "ipa": "ˈkrɪstn̩ˌmɛnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "381aa40d9150.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/381aa40d9150.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/381aa40d9150.mp3",
+            "text": "kristenmann",
+            "source": "generated",
+            "content_sha256": "f5379bd4509ea3896918b0ff74e859996931c717ee96bf40efb482bfd067d315",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kristen person",
+      "translation": "Christian person",
+      "examples": [
+        {
+          "no": "det lukter kristenmanns blod, sa trollet",
+          "en": "I smell the blood of a Christian man, said the troll"
+        }
+      ]
+    }
+  ]
+}

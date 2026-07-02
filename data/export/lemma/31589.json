@@ -1,0 +1,132 @@
+{
+  "source_article_id": 31589,
+  "lemmas": [
+    {
+      "lemma": "koran",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 37142,
+      "is_sub_article": false,
+      "primary_translation": "Quran",
+      "word_forms": [
+        {
+          "word_form": "koran",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"rA:n",
+              "ipa": "kʊˈrɑːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "koranen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"rA:$nn=",
+              "ipa": "kʊˈrɑːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "koraner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"rA:$n@r",
+              "ipa": "kʊˈrɑːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "koranene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"rA:$nn=$@",
+              "ipa": "kʊˈrɑːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6224eb84075d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6224eb84075d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6224eb84075d.mp3",
+            "text": "koran",
+            "source": "generated",
+            "content_sha256": "f2db56a0529997b4c75703d25a7cb5cf95628a25cd10c49d9704507ec1ceebad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i bestemt form entall: muslimenes hellige bok",
+      "translation": "in the definite singular form: the holy book of Muslims",
+      "examples": [
+        {
+          "no": "lese i Koranen",
+          "en": "read in the Quran"
+        }
+      ]
+    },
+    {
+      "text": "eksemplar av koran",
+      "translation": "copy of the Quran",
+      "examples": [
+        {
+          "no": "de delte ut koraner til interesserte",
+          "en": "they handed out Qurans to interested people"
+        }
+      ]
+    }
+  ]
+}

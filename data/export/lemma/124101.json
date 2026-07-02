@@ -1,0 +1,94 @@
+{
+  "source_article_id": 124101,
+  "lemmas": [
+    {
+      "lemma": "omsydd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2008578,
+      "is_sub_article": false,
+      "primary_translation": "remade from used material",
+      "word_forms": [
+        {
+          "word_form": "omsydd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔmsˌʏd",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "omsydde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔmsˌʏdə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cd0df3fcd89c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cd0df3fcd89c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cd0df3fcd89c.mp3",
+            "text": "omsydd",
+            "source": "generated",
+            "content_sha256": "1f21a901df087e4948890360605ad7983567f1eb37feddd6df1c50c5477b0518"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er sydd av et brukt klesplagg eller annet brukt stoff",
+      "translation": "made from a used garment or other used fabric",
+      "examples": [
+        {
+          "no": "gå i omsydde klær",
+          "en": "wear altered clothes"
+        },
+        {
+          "no": "han hadde på seg en bukse av en omsydd melsekk",
+          "en": "he was wearing trousers made from a remade flour sack"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "source_article_id": 123031,
+  "lemmas": [
+    {
+      "lemma": "hjertestarter",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 106826,
+      "is_sub_article": false,
+      "primary_translation": "defibrillator",
+      "word_forms": [
+        {
+          "word_form": "hjertestarter",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j{$t`@$%stA$t`@r",
+              "ipa": "ˈjæʈəˌstɑʈər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hjertestarteren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j{$t`@$%stA:$t`@n`",
+              "ipa": "ˈjæʈəˌstɑːʈəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hjertestartere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j{$t`@$%stA:$t`@$r@",
+              "ipa": "ˈjæʈəˌstɑːʈərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hjertestarterne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈæʈəstˌɑʈəɳə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0d151db7d4e5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d151db7d4e5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d151db7d4e5.mp3",
+            "text": "hjertestarter",
+            "source": "generated",
+            "content_sha256": "1b81bb6bacfb1214df55ce28956d01ee74727de57f6d9c4f6fccd820ac93485f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "apparat som ved hjelp av elektriske støt kan sette hjertefunksjonen i gang igjen ved hjertestans",
+      "translation": "device that can restart heart function by means of electric shocks in case of cardiac arrest",
+      "examples": []
+    }
+  ]
+}

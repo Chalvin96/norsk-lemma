@@ -1,0 +1,127 @@
+{
+  "source_article_id": 118192,
+  "lemmas": [
+    {
+      "lemma": "genfeil",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 167119,
+      "is_sub_article": false,
+      "primary_translation": "gene defect",
+      "word_forms": [
+        {
+          "word_form": "genfeil",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ge:n$%f{*Il",
+              "ipa": "ˈgeːnˌfæ͡ɪl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "genfeilen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ge:n$%f{*I$ln=",
+              "ipa": "ˈgeːnˌfæ͡ɪln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "genfeila",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈeːnfˌæ͡ɪlɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "genfeilene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈeːnfˌæ͡ɪln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "61f4e2798d88.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/61f4e2798d88.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/61f4e2798d88.mp3",
+            "text": "genfeil",
+            "source": "generated",
+            "content_sha256": "389232c1dd92ff196cb46d055324ecc82a4c59d4fe93abc6744d7037099a1994",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avvik i et arveanlegg",
+      "translation": "deviation in a hereditary trait",
+      "examples": [
+        {
+          "no": "høy alder hos far kan føre til genfeil hos barn",
+          "en": "advanced paternal age can lead to genetic defects in children"
+        }
+      ]
+    }
+  ]
+}

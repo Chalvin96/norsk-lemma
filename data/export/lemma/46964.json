@@ -1,0 +1,139 @@
+{
+  "source_article_id": 46964,
+  "lemmas": [
+    {
+      "lemma": "pust",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 54008,
+      "is_sub_article": false,
+      "primary_translation": "breath / rest",
+      "word_forms": [
+        {
+          "word_form": "pust",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pu0$st",
+              "ipa": "ˈpʉst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pusten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pu0$stn=",
+              "ipa": "ˈpʉstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "puster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pu0$st@r",
+              "ipa": "ˈpʉstər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "pustene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pu0$stn=$@",
+              "ipa": "ˈpʉstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ba8b0f5a41fc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba8b0f5a41fc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba8b0f5a41fc.mp3",
+            "text": "pust",
+            "source": "generated",
+            "content_sha256": "993a229273c1af31d5018bf4e73284f04de62d7873ef2a0f8b2eb36d2f0d1a8f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å puste",
+      "translation": "the act of breathing",
+      "examples": []
+    },
+    {
+      "text": "ånde, åndedrett",
+      "translation": "breath, respiration",
+      "examples": [
+        {
+          "no": "holde pusten",
+          "en": "hold your breath"
+        },
+        {
+          "no": "trekke pusten",
+          "en": "take a breath"
+        },
+        {
+          "no": "miste pusten",
+          "en": "lose your breath"
+        },
+        {
+          "no": "ha tung pust",
+          "en": "be short of breath"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source_article_id": 21300,
+  "lemmas": [
+    {
+      "lemma": "grøderik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 24932,
+      "is_sub_article": false,
+      "primary_translation": "fertile / productive",
+      "word_forms": [
+        {
+          "word_form": "grøderik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr2:$d@$%ri:k",
+              "ipa": "ˈgrøːdəˌrɪːk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grøderike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr2:$d@$%ri:$k@",
+              "ipa": "ˈgrøːdəˌrɪːkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grøderikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr2:$d@$%ri:kt",
+              "ipa": "ˈgrøːdəˌrɪːkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "81d7f10e4bbc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81d7f10e4bbc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81d7f10e4bbc.mp3",
+            "text": "grøderik",
+            "source": "generated",
+            "content_sha256": "235753420ce65753f0674b115d9d15e489800889e3582290b6879f3eccee17cd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gir mye grøde",
+      "translation": "producing much crop",
+      "examples": []
+    },
+    {
+      "text": "som det vokser godt på",
+      "translation": "on which growth is good",
+      "examples": [
+        {
+          "no": "grøderik jord",
+          "en": "fertile soil"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: utbytterik, fruktbar",
+      "translation": "productive, fertile",
+      "examples": [
+        {
+          "no": "et grøderikt samarbeid",
+          "en": "a fruitful collaboration"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source_article_id": 27243,
+  "lemmas": [
+    {
+      "lemma": "isjias",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 32349,
+      "is_sub_article": false,
+      "primary_translation": "sciatica pain",
+      "word_forms": [
+        {
+          "word_form": "isjias",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$SAs",
+              "ipa": "ˈɪʃɑs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "isjiasen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$SA$sn=",
+              "ipa": "ˈɪʃɑsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "isjiaser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪʃɑsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "isjiasene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪʃɑsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fb1fb6d47a8b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb1fb6d47a8b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb1fb6d47a8b.mp3",
+            "text": "isjias",
+            "source": "generated",
+            "content_sha256": "4c0e659300997bfd611ea6c947355a7a3cfc7cf06e19cc3c9bde28a4b4589f9c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "smerte i isjiasnerven",
+      "translation": "pain in the sciatic nerve",
+      "examples": []
+    }
+  ]
+}

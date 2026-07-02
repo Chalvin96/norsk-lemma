@@ -1,0 +1,130 @@
+{
+  "source_article_id": 116510,
+  "lemmas": [
+    {
+      "lemma": "fotpatrulje",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 100781,
+      "is_sub_article": false,
+      "primary_translation": "foot patrol",
+      "word_forms": [
+        {
+          "word_form": "fotpatrulje",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu:t$pA$%tru0l$j@",
+              "ipa": "ˈfuːtpɑˌtrʉljə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fotpatruljen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈuːtpɑtrˌʉljən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fotpatruljer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu:t$pA$%tru0l$j@r",
+              "ipa": "ˈfuːtpɑˌtrʉljər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fotpatruljene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈuːtpɑtrˌʉljənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "40f90710a1b4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40f90710a1b4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40f90710a1b4.mp3",
+            "text": "fotpatrulje",
+            "source": "generated",
+            "content_sha256": "cc0527c8df5ab32a79448a17faccca040e542ad53be20790b907ef470dd373d2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "patrulje som beveger seg til fots",
+      "translation": "patrol that moves on foot",
+      "examples": [
+        {
+          "no": "gå fotpatrulje",
+          "en": "go on foot patrol"
+        },
+        {
+          "no": "uniformert fotpatrulje",
+          "en": "uniformed foot patrol"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "source_article_id": 55843,
+  "lemmas": [
+    {
+      "lemma": "spartansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64259,
+      "is_sub_article": false,
+      "primary_translation": "Spartan / simple, frugal",
+      "word_forms": [
+        {
+          "word_form": "spartansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spA$\"t`A:nsk",
+              "ipa": "spɑˈʈɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spartanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spA$\"t`A:n$sk@",
+              "ipa": "spɑˈʈɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b1572ba9fd7c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b1572ba9fd7c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b1572ba9fd7c.mp3",
+            "text": "spartansk",
+            "source": "generated",
+            "content_sha256": "615befff080c1767317cec2f5767a5b6ef27e105699bbad1c1197344db6d1ee5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Sparta og spartaner",
+      "translation": "concerning Sparta and Spartans",
+      "examples": []
+    },
+    {
+      "text": "enkel, nøysom",
+      "translation": "simple, frugal",
+      "examples": [
+        {
+          "no": "leve et spartansk liv",
+          "en": "live a spartan life"
+        },
+        {
+          "no": "spartanske forhold",
+          "en": "spartan conditions"
+        },
+        {
+          "no": "leve spartansk",
+          "en": "live spartanly"
+        },
+        {
+          "no": "huset var spartansk utstyrt",
+          "en": "the house was sparsely furnished"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "source_article_id": 21297,
+  "lemmas": [
+    {
+      "lemma": "grøde",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 24930,
+      "is_sub_article": false,
+      "primary_translation": "harvest / crop",
+      "word_forms": [
+        {
+          "word_form": "grøde",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr2:$d@",
+              "ipa": "ˈgrøːdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grøden",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr2:$dn=",
+              "ipa": "ˈgrøːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grøder",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr2:$d@r",
+              "ipa": "ˈgrøːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grødene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈøːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "grøda",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr2:$dA",
+              "ipa": "ˈgrøːdɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "921fc1eec39f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/921fc1eec39f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/921fc1eec39f.mp3",
+            "text": "grøde",
+            "source": "generated",
+            "content_sha256": "151b4892b3d745c09645e3624d95ac7f2a1ed8fc09a95d1c5d95fa287f767cdf",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mengde av høstet produkt",
+      "translation": "quantity of harvested product",
+      "examples": []
+    },
+    {
+      "text": "avling, årsvekst",
+      "translation": "crop, annual growth",
+      "examples": [
+        {
+          "no": "få god grøde",
+          "en": "get a good crop"
+        },
+        {
+          "no": "årets grøde",
+          "en": "this year's crop"
+        }
+      ]
+    }
+  ]
+}

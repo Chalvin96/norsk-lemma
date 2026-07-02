@@ -1,0 +1,103 @@
+{
+  "source_article_id": 37935,
+  "lemmas": [
+    {
+      "lemma": "mennesketom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 44532,
+      "is_sub_article": false,
+      "primary_translation": "unpopulated / deserted",
+      "word_forms": [
+        {
+          "word_form": "mennesketom",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$n@$sk@$%tUm",
+              "ipa": "ˈmɛnəskəˌtʊm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mennesketomme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$n@$sk@$%tU$m@",
+              "ipa": "ˈmɛnəskəˌtʊmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mennesketomt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$n@$sk@$%tUmt",
+              "ipa": "ˈmɛnəskəˌtʊmt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "01cf5efec527.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/01cf5efec527.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/01cf5efec527.mp3",
+            "text": "mennesketom",
+            "source": "generated",
+            "content_sha256": "7c48d6f4bfb8e96cdc5ab20a7a56ea32efad5c38184b065fb37ed48d1b2a6a06",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten mennesker",
+      "translation": "without people",
+      "examples": [
+        {
+          "no": "mennesketomme gater",
+          "en": "deserted streets"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_article_id": 123014,
+  "lemmas": [
+    {
+      "lemma": "mobilapp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2006746,
+      "is_sub_article": false,
+      "primary_translation": "mobile app",
+      "word_forms": [
+        {
+          "word_form": "mobilapp",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"bi:$%l{p",
+              "ipa": "mʊˈbɪːˌlæp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mobilappen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"bi:$%l{$p@n",
+              "ipa": "mʊˈbɪːˌlæpən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mobilapper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mubˈiːlˌɑpər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "mobilappene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mubˈiːlˌɑpənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "68c08cf859d6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/68c08cf859d6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/68c08cf859d6.mp3",
+            "text": "mobilapp",
+            "source": "generated",
+            "content_sha256": "6e24c2842b61229cff62dfdd6d7853333750cb79628fbe690cb331d8635cfc3c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lite dataprogram til bruk på smarttelefon",
+      "translation": "small computer program for use on a smartphone",
+      "examples": []
+    },
+    {
+      "text": "jamfør app",
+      "translation": "mobile application",
+      "examples": []
+    }
+  ]
+}

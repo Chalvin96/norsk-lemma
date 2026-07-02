@@ -1,0 +1,123 @@
+{
+  "source_article_id": 38125,
+  "lemmas": [
+    {
+      "lemma": "metaspråk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 44733,
+      "is_sub_article": false,
+      "primary_translation": "metalanguage",
+      "word_forms": [
+        {
+          "word_form": "metaspråk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$tA$%spro:k",
+              "ipa": "ˈmeːtɑˌsproːk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "metaspråket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$tA$%spro:$k@",
+              "ipa": "ˈmeːtɑˌsproːkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "metaspråka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$tA$%spro:$kA",
+              "ipa": "ˈmeːtɑˌsproːkɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "metaspråkene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$tA$%spro:$k@$n@",
+              "ipa": "ˈmeːtɑˌsproːkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "21b3de8b37d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21b3de8b37d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21b3de8b37d0.mp3",
+            "text": "metaspråk",
+            "source": "generated",
+            "content_sha256": "fa85ba43b294d70b541060c7b2ec9826a585fe730d61260e57661decff586917",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språk eller sett av symboler brukt til å beskrive et annet språk",
+      "translation": "language or set of symbols used to describe another language",
+      "examples": [
+        {
+          "no": "i en fransk grammatikk som er skrevet på norsk, er norsk metaspråket",
+          "en": "in a French grammar written in Norwegian, Norwegian is the metalanguage"
+        }
+      ]
+    }
+  ]
+}

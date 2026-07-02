@@ -1,0 +1,90 @@
+{
+  "source_article_id": 99059,
+  "lemmas": [
+    {
+      "lemma": "narkoleptisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 125192,
+      "is_sub_article": false,
+      "primary_translation": "narcoleptic",
+      "word_forms": [
+        {
+          "word_form": "narkoleptisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɑrkulˈɛptɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "narkoleptiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɑrkulˈɛptɪskə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d5a9a497b3d9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5a9a497b3d9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5a9a497b3d9.mp3",
+            "text": "narkoleptisk",
+            "source": "generated",
+            "content_sha256": "1376f70ddd9208fdb3b9568cb7140b35896ec7ad708c34a8a2eb791ffec97bda"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lider av eller som gjelder narkolepsi",
+      "translation": "suffering from or relating to narcolepsy",
+      "examples": [
+        {
+          "no": "narkoleptisk anfall",
+          "en": "narcoleptic attack"
+        }
+      ]
+    }
+  ]
+}

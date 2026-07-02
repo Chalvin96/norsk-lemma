@@ -1,0 +1,117 @@
+{
+  "source_article_id": 41111,
+  "lemmas": [
+    {
+      "lemma": "norn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 48086,
+      "is_sub_article": false,
+      "primary_translation": "Norn language",
+      "word_forms": [
+        {
+          "word_form": "norn",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nu:n`",
+              "ipa": "ˈnuːɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nornen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$n`n`=",
+              "ipa": "ˈnuːɳɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "norner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$n`@r",
+              "ipa": "ˈnuːɳər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nornene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nu:$n`n`=$@",
+              "ipa": "ˈnuːɳɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eef27c23a6e0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eef27c23a6e0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eef27c23a6e0.mp3",
+            "text": "norn",
+            "source": "generated",
+            "content_sha256": "f0fb4aabf2386fc04895fedb3b14c43727e026e39e6f0b91e0ed7077faa2d02b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "norrønt språk som ble talt på de skotske øyene fra vikingtiden og utover",
+      "translation": "Old Norse language spoken in the Scottish Isles from the Viking Age onwards",
+      "examples": []
+    }
+  ]
+}

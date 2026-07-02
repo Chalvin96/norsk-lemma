@@ -1,0 +1,91 @@
+{
+  "source_article_id": 135547,
+  "lemmas": [
+    {
+      "lemma": "underrepresentert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2024386,
+      "is_sub_article": false,
+      "primary_translation": "underrepresented",
+      "word_forms": [
+        {
+          "word_form": "underrepresentert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0$n@$r@$pr@$sn=$%te:t`",
+              "ipa": "ˈʉnərəprəsn̩ˌteːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "underrepresenterte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$n@$r@$pr@$sn=$%te:$t`@",
+              "ipa": "ˈʉnərəprəsn̩ˌteːʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0b1c4d89bdc8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0b1c4d89bdc8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0b1c4d89bdc8.mp3",
+            "text": "underrepresentert",
+            "source": "generated",
+            "content_sha256": "beda1645982355b17550d0682f30161b4d7fea7b19ede6c754f24a7dda0a64f0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "for dårlig representert (i forhold til folketall, oppslutning eller lignende)",
+      "translation": "too poorly represented (relative to population, support, or similar)",
+      "examples": [
+        {
+          "no": "kvinnene er underrepresentert i offentlig styre og stell",
+          "en": "women are underrepresented in public administration and civic life"
+        },
+        {
+          "no": "eldre er en underrepresentert gruppe",
+          "en": "older people are an underrepresented group"
+        }
+      ]
+    }
+  ]
+}

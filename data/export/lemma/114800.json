@@ -1,0 +1,126 @@
+{
+  "source_article_id": 114800,
+  "lemmas": [
+    {
+      "lemma": "førsteinstans",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 165143,
+      "is_sub_article": false,
+      "primary_translation": "first instance",
+      "word_forms": [
+        {
+          "word_form": "førsteinstans",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f9s`$t`@$In$%stAns",
+              "ipa": "ˈfœʂʈəɪnˌstɑns",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "førsteinstansen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f9s`$t`@$In$%stAn$sn=",
+              "ipa": "ˈfœʂʈəɪnˌstɑnsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "førsteinstanser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈœʂʈəɪnstˌɑŋsər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "førsteinstansene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈœʂʈəɪnstˌɑŋsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9ff1a0b03427.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ff1a0b03427.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ff1a0b03427.mp3",
+            "text": "førsteinstans",
+            "source": "generated",
+            "content_sha256": "6ddfcaef08d7f393f59bdf84423d11989107725bcddeeabb53223d926f16327f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "instans som først fatter vedtak i en sak",
+      "translation": "instance that first makes a decision in a case",
+      "examples": [
+        {
+          "no": "tingretten som førsteinstans kan gi medhold",
+          "en": "the district court as the court of first instance may rule in favor"
+        }
+      ]
+    }
+  ]
+}

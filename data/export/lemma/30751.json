@@ -1,0 +1,136 @@
+{
+  "source_article_id": 30751,
+  "lemmas": [
+    {
+      "lemma": "kokk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 36219,
+      "is_sub_article": false,
+      "primary_translation": "cook",
+      "word_forms": [
+        {
+          "word_form": "kokk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kOk",
+              "ipa": "ˈkɔk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kokken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kO$k@n",
+              "ipa": "ˈkɔkən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kokker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kO$k@r",
+              "ipa": "ˈkɔkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kokkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kO$k@$n@",
+              "ipa": "ˈkɔkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c54344bf804a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c54344bf804a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c54344bf804a.mp3",
+            "text": "kokk",
+            "source": "generated",
+            "content_sha256": "7533a2cda93656c5e12e9eb4fa019644b92e8a4507cf444eca36d17376f4805a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person med fagopplæring i å lage mat",
+      "translation": "person with professional training in cooking",
+      "examples": [
+        {
+          "no": "utdanne seg til kokk",
+          "en": "train to be a cook"
+        },
+        {
+          "no": "være kokk på et hotell",
+          "en": "be a cook at a hotel"
+        }
+      ]
+    },
+    {
+      "text": "person som har til oppgave å lage mat",
+      "translation": "person whose task is to prepare food",
+      "examples": [
+        {
+          "no": "du må være kokk på hytteturen",
+          "en": "you'll have to be the cook on the cabin trip"
+        }
+      ]
+    }
+  ]
+}

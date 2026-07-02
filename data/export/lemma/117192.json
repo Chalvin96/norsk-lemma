@@ -1,0 +1,130 @@
+{
+  "source_article_id": 117192,
+  "lemmas": [
+    {
+      "lemma": "hospice",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 166367,
+      "is_sub_article": false,
+      "primary_translation": "hospice",
+      "word_forms": [
+        {
+          "word_form": "hospice",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "huspˈɪs",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hospicet",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "huspˈɪkə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hospica",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "huspˈɪkɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hospicene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "huspˈɪsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e4d522a5ab60.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e4d522a5ab60.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e4d522a5ab60.mp3",
+            "text": "hospice",
+            "source": "generated",
+            "content_sha256": "85da2c7afba3e05ec75ff335f837e0f1b808b425528fcac8520237a522fb4958"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sykehus(avdeling) som gir lindrende behandling til døende og uhelbredelig syke",
+      "translation": "hospital (ward) that provides palliative care for the dying and incurably ill",
+      "examples": [
+        {
+          "no": "et hospice gir pasienter og pårørende noe de ikke får på et vanlig sykehus",
+          "en": "a hospice gives patients and their relatives something they do not get in an ordinary hospital"
+        }
+      ]
+    }
+  ]
+}

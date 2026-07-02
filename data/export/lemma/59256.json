@@ -1,0 +1,116 @@
+{
+  "source_article_id": 59256,
+  "lemmas": [
+    {
+      "lemma": "søkkfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67886,
+      "is_sub_article": false,
+      "primary_translation": "packed full / very drunk",
+      "word_forms": [
+        {
+          "word_form": "søkkfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9k$%fu0l",
+              "ipa": "ˈsœkˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søkkfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9k$%fu0$l@",
+              "ipa": "ˈsœkˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søkkfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9k$%fu0lt",
+              "ipa": "ˈsœkˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ba918c6eca0f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba918c6eca0f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba918c6eca0f.mp3",
+            "text": "søkkfull",
+            "source": "generated",
+            "content_sha256": "c5642c6880cf02d948f1d3f696ac92b4b909f89f835fce90f6fa33da9d741fec",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt full",
+      "translation": "completely full",
+      "examples": [
+        {
+          "no": "søkkfulle fiskebåter",
+          "en": "packed-full fishing boats"
+        }
+      ]
+    },
+    {
+      "text": "svært beruset",
+      "translation": "very drunk",
+      "examples": [
+        {
+          "no": "mannen var søkkfull",
+          "en": "the man was dead drunk"
+        }
+      ]
+    }
+  ]
+}

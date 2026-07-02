@@ -1,0 +1,141 @@
+{
+  "source_article_id": 17729,
+  "lemmas": [
+    {
+      "lemma": "frekvens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 20637,
+      "is_sub_article": false,
+      "primary_translation": "frequency / oscillation number",
+      "word_forms": [
+        {
+          "word_form": "frekvens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fr@$\"kvEns",
+              "ipa": "frəˈkvɛns",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "frekvensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fr@$\"kvEn$sn=",
+              "ipa": "frəˈkvɛnsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "frekvenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fr@$\"kvEn$s@r",
+              "ipa": "frəˈkvɛnsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "frekvensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fr@$\"kvEn$sn=$@",
+              "ipa": "frəˈkvɛnsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5bf15be89359.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bf15be89359.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bf15be89359.mp3",
+            "text": "frekvens",
+            "source": "generated",
+            "content_sha256": "3c60501ab0b7821c7545c9159a157726cf4f5197551583875b426caec18566c4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tall på hvor ofte noe fins eller skjer, hyppighet",
+      "translation": "number of how often something occurs, frequency",
+      "examples": [
+        {
+          "no": "ordet har høy frekvens",
+          "en": "the word has high frequency"
+        },
+        {
+          "no": "ordet har lav frekvens",
+          "en": "the word has low frequency"
+        }
+      ]
+    },
+    {
+      "text": "i fysikk: svingningstall, periodetall",
+      "translation": "oscillation number, period number",
+      "examples": []
+    },
+    {
+      "text": "antall perioder per sekund",
+      "translation": "number of periods per second",
+      "examples": [
+        {
+          "no": "sende på samme frekvens",
+          "en": "broadcast on the same frequency"
+        }
+      ]
+    }
+  ]
+}

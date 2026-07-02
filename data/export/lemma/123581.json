@@ -1,0 +1,113 @@
+{
+  "source_article_id": 123581,
+  "lemmas": [
+    {
+      "lemma": "nyforelsket",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 126537,
+      "is_sub_article": false,
+      "primary_translation": "newly in love",
+      "word_forms": [
+        {
+          "word_form": "nyforelsket",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$fO$%rEl$sk@t",
+              "ipa": "ˈnyːfɔˌrɛlskət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nyforelskete",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈyːfɔrˌɛlskətə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nyforelskede",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$fO$%rEl$sk@$d@",
+              "ipa": "ˈnyːfɔˌrɛlskədə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "20bb0d4c6c82.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20bb0d4c6c82.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20bb0d4c6c82.mp3",
+            "text": "nyforelsket",
+            "source": "generated",
+            "content_sha256": "7a69bf33c1954a98a84619f27f6a738cb39fab5e2b014c912656005527dc432a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som nylig har blitt forelsket forelska",
+      "translation": "having recently fallen in love",
+      "examples": [
+        {
+          "no": "parken er full av nyforelskede par",
+          "en": "the park is full of newly in love couples"
+        },
+        {
+          "no": "hun var nyforelsket og lykkelig",
+          "en": "she was newly in love and happy"
+        }
+      ]
+    }
+  ]
+}

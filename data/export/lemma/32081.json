@@ -1,0 +1,110 @@
+{
+  "source_article_id": 32081,
+  "lemmas": [
+    {
+      "lemma": "krigersk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 37683,
+      "is_sub_article": false,
+      "primary_translation": "warlike / aggressive",
+      "word_forms": [
+        {
+          "word_form": "krigersk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kri:$g@$s`k",
+              "ipa": "ˈkrɪːgəʂk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "krigerske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kri:$g@$s`k@",
+              "ipa": "ˈkrɪːgəʂkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "617d507811aa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/617d507811aa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/617d507811aa.mp3",
+            "text": "krigersk",
+            "source": "generated",
+            "content_sha256": "196261b05deda9383b091773ffa88f6d8a2fbb8cd9ed870ee1e5704e5c82620e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er preget av eller minner om krig",
+      "translation": "characterized by or reminiscent of war",
+      "examples": [
+        {
+          "no": "det var krigerske tider",
+          "en": "those were warlike times"
+        }
+      ]
+    },
+    {
+      "text": "stridslysten, kamplysten",
+      "translation": "eager to fight, eager for battle",
+      "examples": []
+    },
+    {
+      "text": "aggressiv",
+      "translation": "aggressive",
+      "examples": [
+        {
+          "no": "et krigersk folk",
+          "en": "a warlike people"
+        },
+        {
+          "no": "krigersk retorikk",
+          "en": "warlike rhetoric"
+        },
+        {
+          "no": "ha en krigersk innstilling",
+          "en": "have a warlike attitude"
+        }
+      ]
+    }
+  ]
+}

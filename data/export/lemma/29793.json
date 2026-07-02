@@ -1,0 +1,126 @@
+{
+  "source_article_id": 29793,
+  "lemmas": [
+    {
+      "lemma": "kjøper",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35181,
+      "is_sub_article": false,
+      "primary_translation": "buyer",
+      "word_forms": [
+        {
+          "word_form": "kjøper",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C2:$p@r",
+              "ipa": "ˈçøːpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kjøperen",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C2:$p@n`",
+              "ipa": "ˈçøːpəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kjøpere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C2:$p@$r@",
+              "ipa": "ˈçøːpərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kjøperne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C2:$p@$n`@",
+              "ipa": "ˈçøːpəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3a41e3ac61d2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a41e3ac61d2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a41e3ac61d2.mp3",
+            "text": "kjøper",
+            "source": "generated",
+            "content_sha256": "7f5d4c9fb8af0335d48edb94afb0c36c136fe1133c13e5ed92a5c5e054393b51",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som kjøper",
+      "translation": "person who buys",
+      "examples": [
+        {
+          "no": "ha en kjøper til huset",
+          "en": "have a buyer for the house"
+        },
+        {
+          "no": "kjøper og selger",
+          "en": "buyer and seller"
+        }
+      ]
+    }
+  ]
+}

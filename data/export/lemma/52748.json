@@ -1,0 +1,235 @@
+{
+  "source_article_id": 52748,
+  "lemmas": [
+    {
+      "lemma": "skille",
+      "hgno": 2,
+      "pos": "VERB",
+      "source_lemma_id": 60837,
+      "is_sub_article": false,
+      "primary_translation": "separate / divide / concern",
+      "word_forms": [
+        {
+          "word_form": "skille",
+          "tags_json": [
+            "verb",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SI$l@",
+              "ipa": "ˈʃɪlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skiller",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SI$l@r",
+              "ipa": "ˈʃɪlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skilles",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SI$l@s",
+              "ipa": "ˈʃɪləs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skilte",
+          "tags_json": [
+            "verb",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SIl$t@",
+              "ipa": "ˈʃɪltə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skilt",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SIlt",
+              "ipa": "ˈʃɪlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skillende",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SI$ln=$@",
+              "ipa": "ˈʃɪln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skill",
+          "tags_json": [
+            "verb",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SIl",
+              "ipa": "ˈʃɪl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "612608be0fc6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/612608be0fc6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/612608be0fc6.mp3",
+            "text": "skille",
+            "source": "generated",
+            "content_sha256": "4362d150b908576cb0b754ae28e02a619536dec1302655954943098a3807232e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fjerne eller føre fra hverandre",
+      "translation": "to remove or move apart",
+      "examples": [
+        {
+          "no": "skille barken fra veden",
+          "en": "separate the bark from the wood"
+        },
+        {
+          "no": "skille to som slåss",
+          "en": "separate two people who are fighting"
+        },
+        {
+          "no": "skille gutter og jenter",
+          "en": "separate boys and girls"
+        }
+      ]
+    },
+    {
+      "text": "danne grense",
+      "translation": "to form a border",
+      "examples": []
+    },
+    {
+      "text": "dele",
+      "translation": "to divide",
+      "examples": [
+        {
+          "no": "høye fjell skiller Østlandet og Vestlandet",
+          "en": "high mountains separate eastern and western Norway"
+        }
+      ]
+    },
+    {
+      "text": "danne forskjell eller motsetning",
+      "translation": "to form a difference or contrast",
+      "examples": [
+        {
+          "no": "det er mye som skiller dem",
+          "en": "there is a lot that sets them apart"
+        },
+        {
+          "no": "det skilte bare tre sekunder mellom første- og andremann",
+          "en": "only three seconds separated first and second place"
+        }
+      ]
+    },
+    {
+      "text": "vedkomme, rake, skjelle",
+      "translation": "to concern, relate to, be relevant to",
+      "examples": [
+        {
+          "no": "hva skiller det deg?",
+          "en": "what is it to you?"
+        }
+      ]
+    },
+    {
+      "text": "holde fra hverandre",
+      "translation": "to keep apart",
+      "examples": [
+        {
+          "no": "hun kunne ikke skille dem fra hverandre",
+          "en": "she could not tell them apart"
+        }
+      ]
+    }
+  ]
+}

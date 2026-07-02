@@ -1,0 +1,120 @@
+{
+  "source_article_id": 136342,
+  "lemmas": [
+    {
+      "lemma": "teletjeneste",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2237962,
+      "is_sub_article": false,
+      "primary_translation": "telecommunications service",
+      "word_forms": [
+        {
+          "word_form": "teletjeneste",
+          "tags_json": [
+            "Masc",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%tje:$n@$st@",
+              "ipa": "ˈteːləˌtjeːnəstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "teletjenesten",
+          "tags_json": [
+            "Masc",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈeːlətjˌeːnəstn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "teletjenester",
+          "tags_json": [
+            "Masc",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%tje:$n@$st@r",
+              "ipa": "ˈteːləˌtjeːnəstər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "teletjenestene",
+          "tags_json": [
+            "Masc",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%tje:$n@$stn=$@",
+              "ipa": "ˈteːləˌtjeːnəstn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3f538d9e9eda.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f538d9e9eda.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f538d9e9eda.mp3",
+            "text": "teletjeneste",
+            "source": "generated",
+            "content_sha256": "540d5e077c5124f49bbc20836cf86a8cb55bf660a4963df4df7a74a208efdfb1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "virksomhet som driver med formidling av informasjon over telefonnett eller internett",
+      "translation": "business that transmits information over telephone networks or the internet",
+      "examples": [
+        {
+          "no": "grunnleggende teletjenester som mobil og internett",
+          "en": "basic telecom services such as mobile and internet"
+        }
+      ]
+    }
+  ]
+}

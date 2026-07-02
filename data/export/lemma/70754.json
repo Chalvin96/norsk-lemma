@@ -1,0 +1,152 @@
+{
+  "source_article_id": 70754,
+  "lemmas": [
+    {
+      "lemma": "startsperre",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 158439,
+      "is_sub_article": false,
+      "primary_translation": "anti-theft device",
+      "word_forms": [
+        {
+          "word_form": "startsperre",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stAt`$%sp{$r@",
+              "ipa": "ˈstɑʈˌspærə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "startsperren",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʈspˌæɳ̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "startsperrer",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʈspˌærər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "startsperrene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʈspˌæɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "startsperra",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʈspˌærɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b02b60539069.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b02b60539069.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b02b60539069.mp3",
+            "text": "startsperre",
+            "source": "generated",
+            "content_sha256": "45981a636dc380623d48fa06b0d3b1bef8e10e54c27bcc5e7a0f36efde27c852",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innretning på kjøretøy som skal hindre tyveri ved at kjøretøyet ikke starter",
+      "translation": "device in a vehicle that prevents theft by stopping the vehicle from starting",
+      "examples": [
+        {
+          "no": "bilen har tyverialarm og elektronisk startsperre",
+          "en": "the car has a burglar alarm and an electronic immobilizer"
+        }
+      ]
+    }
+  ]
+}

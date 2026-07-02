@@ -1,0 +1,107 @@
+{
+  "source_article_id": 40011,
+  "lemmas": [
+    {
+      "lemma": "månedsvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2981713,
+      "is_sub_article": false,
+      "primary_translation": "monthly / for months",
+      "word_forms": [
+        {
+          "word_form": "månedsvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$n@d$%svi:s",
+              "ipa": "ˈmoːnədˌsvɪːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "månedsvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈoːnədsʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b1112c489d98.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b1112c489d98.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b1112c489d98.mp3",
+            "text": "månedsvis",
+            "source": "generated",
+            "content_sha256": "34bfdcfbf0ffb32f4e8915954112bc72446e237087892f03bfa2ca9e147b959e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hender hver måned",
+      "translation": "happening every month",
+      "examples": [
+        {
+          "no": "månedsvise rater",
+          "en": "monthly installments"
+        }
+      ]
+    },
+    {
+      "text": "brukt som substantiv: mange måneder",
+      "translation": "for many months",
+      "examples": [
+        {
+          "no": "være syk i månedsvis",
+          "en": "be ill for months"
+        },
+        {
+          "no": "månedsvis med etterforskning",
+          "en": "months of investigation"
+        },
+        {
+          "no": "jeg har ikke jobbet på månedsvis",
+          "en": "I haven't worked in months"
+        }
+      ]
+    }
+  ]
+}

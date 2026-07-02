@@ -1,0 +1,107 @@
+{
+  "source_article_id": 59170,
+  "lemmas": [
+    {
+      "lemma": "systemisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67740,
+      "is_sub_article": false,
+      "primary_translation": "systemic",
+      "word_forms": [
+        {
+          "word_form": "systemisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sY$\"ste:$mI$sk",
+              "ipa": "sʏˈsteːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "systemiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sY$\"ste:$mI$sk@",
+              "ipa": "sʏˈsteːmɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "19f29ea4d3cb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/19f29ea4d3cb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/19f29ea4d3cb.mp3",
+            "text": "systemisk",
+            "source": "generated",
+            "content_sha256": "5b44f57132df7d5fccb22eb3aa5df6bd03b2b287f86883d884cddfba92e59d90",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder et helt system",
+      "translation": "relating to an entire system",
+      "examples": [
+        {
+          "no": "når flere uheldige hendelser skjer tett opptil hverandre, kan det være et systemisk problem",
+          "en": "when several unfortunate events happen close together, it can be a systemic problem"
+        }
+      ]
+    },
+    {
+      "text": "i medisin: som påvirker eller gjelder hele kroppen",
+      "translation": "in medicine: affecting or relating to the whole body",
+      "examples": [
+        {
+          "no": "en systemisk sykdom",
+          "en": "a systemic disease"
+        }
+      ]
+    },
+    {
+      "text": "i botanikk: som blir sugd opp av planteorganismen gjennom blader og røtter",
+      "translation": "in botany: absorbed by the plant organism through leaves and roots",
+      "examples": [
+        {
+          "no": "systemiske plantevernmidler",
+          "en": "systemic pesticides"
+        }
+      ]
+    }
+  ]
+}

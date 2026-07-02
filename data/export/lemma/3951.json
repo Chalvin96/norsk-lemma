@@ -1,0 +1,73 @@
+{
+  "source_article_id": 3951,
+  "lemmas": [
+    {
+      "lemma": "avventende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4708,
+      "is_sub_article": false,
+      "primary_translation": "hesitant / passive",
+      "word_forms": [
+        {
+          "word_form": "avventende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$%vEn$tn=$@",
+              "ipa": "ˈɑːˌvɛntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "563b35c3811c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/563b35c3811c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/563b35c3811c.mp3",
+            "text": "avventende",
+            "source": "generated",
+            "content_sha256": "652389d28c4847f59ece438d906912a3e766258d96d7d0b4be117244e9e1f047",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "passiv, rolig",
+      "translation": "passive, calm",
+      "examples": [
+        {
+          "no": "ha en avventende holdning",
+          "en": "have a waiting-and-seeing attitude"
+        },
+        {
+          "no": "stille seg avventende til planene",
+          "en": "take a wait-and-see attitude toward the plans"
+        }
+      ]
+    }
+  ]
+}

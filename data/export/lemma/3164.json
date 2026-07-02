@@ -1,0 +1,106 @@
+{
+  "source_article_id": 3164,
+  "lemmas": [
+    {
+      "lemma": "attributiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3735,
+      "is_sub_article": false,
+      "primary_translation": "attributive / predicative",
+      "word_forms": [
+        {
+          "word_form": "attributiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"trI$bu0$%ti:v",
+              "ipa": "ɑˈtrɪbʉˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "attributive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"trI$bu0$%ti:$v@",
+              "ipa": "ɑˈtrɪbʉˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "attributivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"trI$bu0$%ti:vt",
+              "ipa": "ɑˈtrɪbʉˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2bd8821c2791.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2bd8821c2791.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2bd8821c2791.mp3",
+            "text": "attributiv",
+            "source": "generated",
+            "content_sha256": "adfa85f7c438ab41fa2cfad1d9f391facaa1f4732197f4c20a85836138bd3aaa",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i språkvitenskap, om adjektiv: som er direkte knyttet til et substantiv",
+      "translation": "directly linked to a noun",
+      "examples": [
+        {
+          "no": "i ‘det røde huset’ står adjektivet attributivt; i ‘huset er rødt’ står det predikativt",
+          "en": "in ‘the red house’ the adjective is attributive; in ‘the house is red’ it is predicative"
+        }
+      ]
+    }
+  ]
+}

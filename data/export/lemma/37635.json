@@ -1,0 +1,77 @@
+{
+  "source_article_id": 37635,
+  "lemmas": [
+    {
+      "lemma": "meget",
+      "hgno": 2,
+      "pos": "ADV",
+      "source_lemma_id": 44101,
+      "is_sub_article": false,
+      "primary_translation": "very / much",
+      "word_forms": [
+        {
+          "word_form": "meget",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"\"me:$g@t",
+              "ipa": "ˈmeːgət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dc019bd781f8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc019bd781f8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc019bd781f8.mp3",
+            "text": "meget",
+            "source": "generated",
+            "content_sha256": "948ca07168d769d2c7163b792fc3827eb77f80828c67ef26e4926948aebb8527",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bare foran adjektiv eller adverb i positiv: i høy grad, svært",
+      "translation": "to a great degree, very",
+      "examples": []
+    },
+    {
+      "text": "jamfør mye",
+      "translation": "much",
+      "examples": [
+        {
+          "no": "du vet meget godt hva jeg mener",
+          "en": "you know very well what I mean"
+        },
+        {
+          "no": "en meget fordelaktig avtale",
+          "en": "a very favorable agreement"
+        },
+        {
+          "no": "et meget godt resultat",
+          "en": "a very good result"
+        },
+        {
+          "no": "det er meget mulig",
+          "en": "that is very possible"
+        }
+      ]
+    }
+  ]
+}

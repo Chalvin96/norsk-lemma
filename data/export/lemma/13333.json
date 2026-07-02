@@ -1,0 +1,165 @@
+{
+  "source_article_id": 13333,
+  "lemmas": [
+    {
+      "lemma": "etterskuddsvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15495,
+      "is_sub_article": false,
+      "primary_translation": "in arrears",
+      "word_forms": [
+        {
+          "word_form": "etterskuddsvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$t@$s`ku0d$%svi:s",
+              "ipa": "ˈɛtəʂkʉdˌsvɪːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "etterskuddsvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛtəʂkʉdsʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1a3f84747909.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a3f84747909.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a3f84747909.mp3",
+            "text": "etterskuddsvis",
+            "source": "generated",
+            "content_sha256": "9e942d80ca6ae26018b2ebf5915c9673d081e979fd875be6c9759a73eab63f38",
+            "tone": 2
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "etterskottsvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15484,
+      "is_sub_article": false,
+      "primary_translation": "in arrears",
+      "word_forms": [
+        {
+          "word_form": "etterskottsvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛtəʂkɔtsʋˌiːs",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "etterskottsvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛtəʂkɔtsʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "11d7c0e674a9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11d7c0e674a9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11d7c0e674a9.mp3",
+            "text": "etterskottsvis",
+            "source": "generated",
+            "content_sha256": "26f5ec0c42f5af4a9c1d70eba224cb5b5a9a1f0107234047a37882c4afb1815a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "på etterskudd etterskott",
+      "translation": "in arrears",
+      "examples": [
+        {
+          "no": "etterskuddsvis betaling",
+          "en": "payment in arrears"
+        },
+        {
+          "no": "betale etterskuddsvis",
+          "en": "pay in arrears"
+        }
+      ]
+    }
+  ]
+}

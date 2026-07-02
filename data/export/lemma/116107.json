@@ -1,0 +1,131 @@
+{
+  "source_article_id": 116107,
+  "lemmas": [
+    {
+      "lemma": "handlingsforløp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 105138,
+      "is_sub_article": false,
+      "primary_translation": "sequence of actions",
+      "word_forms": [
+        {
+          "word_form": "handlingsforløp",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAn$lINs$fO$%l`2:p",
+              "ipa": "ˈhɑnlɪŋsfɔˌɭøːp",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "handlingsforløpet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAn$lINs$fO$%l`2:$p@",
+              "ipa": "ˈhɑnlɪŋsfɔˌɭøːpə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "handlingsforløpa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑnlɪŋsfɔɭˌøːpɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "handlingsforløpene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑnlɪŋsfɔɭˌøːpənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e79b3a649a9f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e79b3a649a9f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e79b3a649a9f.mp3",
+            "text": "handlingsforløp",
+            "source": "generated",
+            "content_sha256": "559886606754bc75d090921c72d17f1d0ec3c1521d1386c77029d60e55195337",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(beskrevet) rekke av handlinger som til sammen utgjør et forløp",
+      "translation": "described sequence of actions that together constitute a process",
+      "examples": [
+        {
+          "no": "rekonstruere et handlingsforløp",
+          "en": "reconstruct a sequence of events"
+        },
+        {
+          "no": "teksten har et kronologisk handlingsforløp",
+          "en": "the text has a chronological sequence of events"
+        }
+      ]
+    }
+  ]
+}

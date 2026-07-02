@@ -1,0 +1,150 @@
+{
+  "source_article_id": 59264,
+  "lemmas": [
+    {
+      "lemma": "søkning",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 67895,
+      "is_sub_article": false,
+      "primary_translation": "application / influx",
+      "word_forms": [
+        {
+          "word_form": "søkning",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s2:$knIN",
+              "ipa": "ˈsøːknɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søkningen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s2:$knIN$@n",
+              "ipa": "ˈsøːknɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søkninger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈøːknɪŋər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "søkningene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈøːknɪŋənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "søkninga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈøːknɪŋɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d71732c0397e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d71732c0397e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d71732c0397e.mp3",
+            "text": "søkning",
+            "source": "generated",
+            "content_sha256": "1be6579c721adf9ec857e2a7ce0e6a7b9e1d88be6f89db77dba3153430e39840",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "antall søknader",
+      "translation": "number of applications",
+      "examples": [
+        {
+          "no": "søkningen til universitetene er mindre enn før",
+          "en": "applications to the universities are fewer than before"
+        }
+      ]
+    }
+  ]
+}

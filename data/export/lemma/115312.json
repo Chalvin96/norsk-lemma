@@ -1,0 +1,127 @@
+{
+  "source_article_id": 115312,
+  "lemmas": [
+    {
+      "lemma": "glassbur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 103075,
+      "is_sub_article": false,
+      "primary_translation": "glass enclosure",
+      "word_forms": [
+        {
+          "word_form": "glassbur",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glAs$%b}:r",
+              "ipa": "ˈglɑsˌbʉːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glassburet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glAs$%b}:$r@",
+              "ipa": "ˈglɑsˌbʉːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glassbura",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "glˈɑsbˌʉːrɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "glassburene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "glˈɑsbˌʉːɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6a5de4203629.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a5de4203629.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a5de4203629.mp3",
+            "text": "glassbur",
+            "source": "generated",
+            "content_sha256": "a5abc47e5553086ad9022782dc3820bbeb6167d81584f9f0d207c9b8de236b3b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bur av glass",
+      "translation": "enclosure made of glass",
+      "examples": [
+        {
+          "no": "slangene lever i et glassbur",
+          "en": "the snakes live in a glass cage"
+        }
+      ]
+    }
+  ]
+}

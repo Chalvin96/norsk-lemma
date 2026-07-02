@@ -1,0 +1,99 @@
+{
+  "source_article_id": 125653,
+  "lemmas": [
+    {
+      "lemma": "påhengt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 130268,
+      "is_sub_article": false,
+      "primary_translation": "hung on / artificial",
+      "word_forms": [
+        {
+          "word_form": "påhengt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%hENt",
+              "ipa": "ˈpoːˌhɛŋt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "påhengte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈoːhˌɛŋtə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a2913ff65dfe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2913ff65dfe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2913ff65dfe.mp3",
+            "text": "påhengt",
+            "source": "generated",
+            "content_sha256": "c75ce5802fac6a45045246d9e7e6bd57fc236f367f14cbe24f717efcaae60365",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er hengt på",
+      "translation": "that which is hung on",
+      "examples": [
+        {
+          "no": "påhengt pynt",
+          "en": "attached decoration"
+        }
+      ]
+    },
+    {
+      "text": "unaturlig, kunstig",
+      "translation": "unnatural, artificial",
+      "examples": [
+        {
+          "no": "filmens happy ending virker påhengt",
+          "en": "the film's happy ending feels tacked on"
+        }
+      ]
+    }
+  ]
+}

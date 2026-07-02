@@ -1,0 +1,92 @@
+{
+  "source_article_id": 125644,
+  "lemmas": [
+    {
+      "lemma": "påregnelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 130339,
+      "is_sub_article": false,
+      "primary_translation": "foreseeable / expected",
+      "word_forms": [
+        {
+          "word_form": "påregnelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pO$\"r{*I$n@$lI",
+              "ipa": "pɔˈræ͡ɪnəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "påregnelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pO$\"r{*I$n@$lI$@",
+              "ipa": "pɔˈræ͡ɪnəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "046a2fcbbb1c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/046a2fcbbb1c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/046a2fcbbb1c.mp3",
+            "text": "påregnelig",
+            "source": "generated",
+            "content_sha256": "872f2c08a35a80995d5d4b0fbe72bb8d334209d400d4be47bd36092a57df47be",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en kan regne med",
+      "translation": "that one can count on",
+      "examples": []
+    },
+    {
+      "text": "forventet",
+      "translation": "expected",
+      "examples": [
+        {
+          "no": "en påregnelig risiko",
+          "en": "a foreseeable risk"
+        }
+      ]
+    }
+  ]
+}

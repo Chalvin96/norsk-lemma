@@ -1,0 +1,201 @@
+{
+  "source_article_id": 57893,
+  "lemmas": [
+    {
+      "lemma": "stum",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 66291,
+      "is_sub_article": false,
+      "primary_translation": "mute / silent",
+      "word_forms": [
+        {
+          "word_form": "stum",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stu0m",
+              "ipa": "ˈstʉm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "stumme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stu0$m@",
+              "ipa": "ˈstʉmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stumt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stu0mt",
+              "ipa": "ˈstʉmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "stummere",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stu0$m@$r@",
+              "ipa": "ˈstʉmərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stummest",
+          "tags_json": [
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stu0$m@$st",
+              "ipa": "ˈstʉməst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "stummeste",
+          "tags_json": [
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stu0$m@$st@",
+              "ipa": "ˈstʉməstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d6c514544942.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d6c514544942.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d6c514544942.mp3",
+            "text": "stum",
+            "source": "generated",
+            "content_sha256": "f1b4c26628133606131964b75934764c43825ec5914f98d74349234097989b35",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke har taleevne",
+      "translation": "having no ability to speak",
+      "examples": [
+        {
+          "no": "være født stum",
+          "en": "be born mute"
+        }
+      ]
+    },
+    {
+      "text": "som ikke kan snakke på grunn av sterke følelser",
+      "translation": "unable to speak due to strong emotions",
+      "examples": [
+        {
+          "no": "bli helt stum av forbauselse",
+          "en": "become completely speechless with astonishment"
+        }
+      ]
+    },
+    {
+      "text": "uten lyd",
+      "translation": "without sound",
+      "examples": [
+        {
+          "no": "radioen ble stum",
+          "en": "the radio went silent"
+        }
+      ]
+    },
+    {
+      "text": "som blir uttrykt uten ord",
+      "translation": "expressed without words",
+      "examples": [
+        {
+          "no": "en stum hilsen",
+          "en": "a silent greeting"
+        },
+        {
+          "no": "i blikket lå det en stum bønn",
+          "en": "there was a silent plea in the gaze"
+        },
+        {
+          "no": "stum fortvilelse",
+          "en": "silent despair"
+        }
+      ]
+    },
+    {
+      "text": "som ikke uttales",
+      "translation": "not pronounced",
+      "examples": [
+        {
+          "no": "‘t’ er stum i ‘det’",
+          "en": "‘t’ is silent in ‘det’"
+        }
+      ]
+    }
+  ]
+}

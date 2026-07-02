@@ -1,0 +1,125 @@
+{
+  "source_article_id": 67393,
+  "lemmas": [
+    {
+      "lemma": "vektprosent",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 77785,
+      "is_sub_article": false,
+      "primary_translation": "weight percentage",
+      "word_forms": [
+        {
+          "word_form": "vektprosent",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vEkt$prU$%sEnt",
+              "ipa": "ˈvɛktprʊˌsɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vektprosenten",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vEkt$prU$%sEn$tn=",
+              "ipa": "ˈvɛktprʊˌsɛntn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vektprosenter",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɛktprusˌɛntər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "vektprosentene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vEkt$prU$%sEn$tn=$@",
+              "ipa": "ˈvɛktprʊˌsɛntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2107d546c302.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2107d546c302.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2107d546c302.mp3",
+            "text": "vektprosent",
+            "source": "generated",
+            "content_sha256": "244dd9f0e483decb495a58c66989e689e242828211f2dc9e535d48bb7e533e96",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i kjemi: prosent av et stoff i en blanding eller løsning basert på vekt",
+      "translation": "weight percent",
+      "examples": [
+        {
+          "no": "sand og pukk utgjør omtrent 70 vektprosent av betong",
+          "en": "sand and gravel make up about 70 percent by weight of concrete"
+        }
+      ]
+    }
+  ]
+}

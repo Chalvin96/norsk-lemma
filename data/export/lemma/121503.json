@@ -1,0 +1,134 @@
+{
+  "source_article_id": 121503,
+  "lemmas": [
+    {
+      "lemma": "lagringsplass",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 118975,
+      "is_sub_article": false,
+      "primary_translation": "storage space / storage capacity",
+      "word_forms": [
+        {
+          "word_form": "lagringsplass",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA:$grIN$%splAs",
+              "ipa": "ˈlɑːgrɪŋˌsplɑs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lagringsplassen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA:$grIN$%splA$sn=",
+              "ipa": "ˈlɑːgrɪŋˌsplɑsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lagringsplasser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑːgrɪŋsplˌɑsər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lagringsplassene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑːgrɪŋsplˌɑsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "396c562ef1de.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396c562ef1de.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396c562ef1de.mp3",
+            "text": "lagringsplass",
+            "source": "generated",
+            "content_sha256": "bb27586dd9bb36251587305d4f1ffa4604e8b305623e24322698df72f1b46aad",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sted der en lagrer noe",
+      "translation": "place where something is stored",
+      "examples": [
+        {
+          "no": "en lagringsplass for matvarer",
+          "en": "a storage space for foodstuffs"
+        },
+        {
+          "no": "lagringsplasser for CO2",
+          "en": "storage sites for CO2"
+        },
+        {
+          "no": "bilen har god lagringsplass",
+          "en": "the car has good storage space"
+        }
+      ]
+    }
+  ]
+}

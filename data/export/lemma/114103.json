@@ -1,0 +1,71 @@
+{
+  "source_article_id": 114103,
+  "lemmas": [
+    {
+      "lemma": "etter",
+      "hgno": 1,
+      "pos": "CONJ",
+      "source_lemma_id": 164744,
+      "is_sub_article": false,
+      "primary_translation": "after",
+      "word_forms": [
+        {
+          "word_form": "etter",
+          "tags_json": [
+            "SCONJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$t@r",
+              "ipa": "ˈɛtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ef9325737cbc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef9325737cbc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef9325737cbc.mp3",
+            "text": "etter",
+            "source": "generated",
+            "content_sha256": "41ba7aecca349aaa32f8a4820efb27e3757b3d0b78c6362c33146027b8b57634",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innleder en leddsetning som uttrykker at noe skjer på et senere tidspunkt",
+      "translation": "introduces a subordinate clause expressing that something happens at a later time",
+      "examples": []
+    },
+    {
+      "text": "da, etter at",
+      "translation": "after, after that",
+      "examples": [
+        {
+          "no": "det ble stille etter han dro",
+          "en": "it became quiet after he left"
+        },
+        {
+          "no": "etter han ikke kom tilbake, ble de bekymret",
+          "en": "when he didn't come back, they became worried"
+        }
+      ]
+    }
+  ]
+}

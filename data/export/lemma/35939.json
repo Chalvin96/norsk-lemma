@@ -1,0 +1,87 @@
+{
+  "source_article_id": 35939,
+  "lemmas": [
+    {
+      "lemma": "luftkjølt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41736,
+      "is_sub_article": false,
+      "primary_translation": "air-cooled",
+      "word_forms": [
+        {
+          "word_form": "luftkjølt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0ft$%C2:lt",
+              "ipa": "ˈlʉftˌçøːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "luftkjølte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0ft$%C2:l$t@",
+              "ipa": "ˈlʉftˌçøːltə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4cd65a5b039d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4cd65a5b039d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4cd65a5b039d.mp3",
+            "text": "luftkjølt",
+            "source": "generated",
+            "content_sha256": "84b37cccdd90aa396d74fcd52b9df1c251b69d357e407b11e66cbd24eca1d3c0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avkjølt med luft",
+      "translation": "cooled by air",
+      "examples": [
+        {
+          "no": "en bil med luftkjølt hekkmotor",
+          "en": "a car with an air-cooled rear engine"
+        }
+      ]
+    }
+  ]
+}

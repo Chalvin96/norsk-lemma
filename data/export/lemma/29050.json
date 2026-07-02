@@ -1,0 +1,87 @@
+{
+  "source_article_id": 29050,
+  "lemmas": [
+    {
+      "lemma": "kaukasisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 34320,
+      "is_sub_article": false,
+      "primary_translation": "Caucasian",
+      "word_forms": [
+        {
+          "word_form": "kaukasisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kE*u0$\"kA:$sI$sk",
+              "ipa": "kæ͡ʉˈkɑːsɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kaukasiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kE*u0$\"kA:$sI$sk@",
+              "ipa": "kæ͡ʉˈkɑːsɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4b882feffe98.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b882feffe98.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b882feffe98.mp3",
+            "text": "kaukasisk",
+            "source": "generated",
+            "content_sha256": "83c50a5f3bcd8bfa8be5e9f027d23f1b4ff0ae42315aa9589bf348b1b0163fb3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Kaukasia og kaukasier",
+      "translation": "relating to the Caucasus and its inhabitants",
+      "examples": [
+        {
+          "no": "kaukasiske språk",
+          "en": "Caucasian languages"
+        }
+      ]
+    }
+  ]
+}

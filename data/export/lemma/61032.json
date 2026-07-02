@@ -1,0 +1,111 @@
+{
+  "source_article_id": 61032,
+  "lemmas": [
+    {
+      "lemma": "timevis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3045584,
+      "is_sub_article": false,
+      "primary_translation": "hourly / for hours",
+      "word_forms": [
+        {
+          "word_form": "timevis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$m@$%vi:s",
+              "ipa": "ˈtɪːməˌvɪːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "timevise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈiːməʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9dcd8af3f014.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9dcd8af3f014.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9dcd8af3f014.mp3",
+            "text": "timevis",
+            "source": "generated",
+            "content_sha256": "247ea41418451be401b4281e078ab4b2cc0bdf51a132427d3f6c40748cdb57c7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hender én gang i timen",
+      "translation": "happening once an hour",
+      "examples": [
+        {
+          "no": "timevise data",
+          "en": "hourly data"
+        }
+      ]
+    },
+    {
+      "text": "brukt som substantiv: mange timer",
+      "translation": "used as a noun: many hours",
+      "examples": [
+        {
+          "no": "holde på i timevis",
+          "en": "keep at it for hours"
+        },
+        {
+          "no": "timevis av arbeid",
+          "en": "hours of work"
+        },
+        {
+          "no": "timevis med underholdning",
+          "en": "hours of entertainment"
+        },
+        {
+          "no": "jeg har ikke sovet på timevis",
+          "en": "I haven't slept for hours"
+        }
+      ]
+    }
+  ]
+}

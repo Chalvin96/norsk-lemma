@@ -1,0 +1,126 @@
+{
+  "source_article_id": 60265,
+  "lemmas": [
+    {
+      "lemma": "tematikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68928,
+      "is_sub_article": false,
+      "primary_translation": "thematic material / theme",
+      "word_forms": [
+        {
+          "word_form": "tematikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$mA$\"tIk",
+              "ipa": "təmɑˈtɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tematikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$mA$\"tI$k@n",
+              "ipa": "təmɑˈtɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tematikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "təmɑtˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tematikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "təmɑtˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0104420bb05e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0104420bb05e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0104420bb05e.mp3",
+            "text": "tematikk",
+            "source": "generated",
+            "content_sha256": "2d11f915f82b1c6d083d49d4828d1dbab3e8ecca29898a82acf2f7e54f4caa5f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "samling eller mengde av temaer i et verk",
+      "translation": "collection or quantity of themes in a work",
+      "examples": [
+        {
+          "no": "en sentral del av diktets tematikk",
+          "en": "a central part of the poem's thematic content"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "source_article_id": 6825,
+  "lemmas": [
+    {
+      "lemma": "bokmål",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 8034,
+      "is_sub_article": false,
+      "primary_translation": "Bokmål / Norwegian written language",
+      "word_forms": [
+        {
+          "word_form": "bokmål",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:k$%mo:l",
+              "ipa": "ˈbuːkˌmoːl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bokmålet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:k$%mo:$l@",
+              "ipa": "ˈbuːkˌmoːlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bokmåla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:k$%mo:$lA",
+              "ipa": "ˈbuːkˌmoːlɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bokmålene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:k$%mo:$ln=$@",
+              "ipa": "ˈbuːkˌmoːln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8cf221d5a5c4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8cf221d5a5c4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8cf221d5a5c4.mp3",
+            "text": "bokmål",
+            "source": "generated",
+            "content_sha256": "3d3a2b418ebd5b436a7f6407e965a0844af80450c6c144702a949b22a81bc13b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "til forskjell fra talemål",
+      "translation": "literary language",
+      "examples": []
+    },
+    {
+      "text": "fra 1929: betegnelse for den ene av Norges to offisielle skriftspråk, utviklet fra dansk og norsk-dansk og påvirket av norsk talemål",
+      "translation": "from 1929: designation for one of Norway's two official written languages, developed from Danish and Danish-Norwegian and influenced by spoken Norwegian",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra nynorsk",
+      "translation": "in contrast to Nynorsk",
+      "examples": [
+        {
+          "no": "bokmål og nynorsk er de to offisielle norske skriftspråkene",
+          "en": "Bokmal and Nynorsk are the two official written standards of Norwegian"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "source_article_id": 6202,
+  "lemmas": [
+    {
+      "lemma": "bjørn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7304,
+      "is_sub_article": false,
+      "primary_translation": "bear",
+      "word_forms": [
+        {
+          "word_form": "bjørn",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bj2:n`",
+              "ipa": "ˈbjøːɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bjørnen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bj2:$n`n`=",
+              "ipa": "ˈbjøːɳɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bjørner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bj2:$n`@r",
+              "ipa": "ˈbjøːɳər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bjørnene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bj2:$n`n`=$@",
+              "ipa": "ˈbjøːɳɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9e9cbb071274.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e9cbb071274.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e9cbb071274.mp3",
+            "text": "bjørn",
+            "source": "generated",
+            "content_sha256": "5e6952a47f8635e5c218e1aa7cc1bfc5df04e306c6fe5795cbe89d4c2c514c68",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stort rovdyr i bjørnefamilie med kraftige lemmer, kort hale og små ører",
+      "translation": "large predator in the bear family with strong limbs, short tail, and small ears",
+      "examples": []
+    },
+    {
+      "text": "Ursus arctos",
+      "translation": "brown bear",
+      "examples": [
+        {
+          "no": "bjørnen gå i hi om høsten",
+          "en": "the bear hibernates in the fall"
+        }
+      ]
+    },
+    {
+      "text": "stor og sterk kar",
+      "translation": "large and strong man",
+      "examples": [
+        {
+          "no": "en bjørn av en mann",
+          "en": "a bear of a man"
+        }
+      ]
+    }
+  ]
+}

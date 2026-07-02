@@ -1,0 +1,101 @@
+{
+  "source_article_id": 33455,
+  "lemmas": [
+    {
+      "lemma": "labial",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 39258,
+      "is_sub_article": false,
+      "primary_translation": "labial (speech sound)",
+      "word_forms": [
+        {
+          "word_form": "labial",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$bI$\"A:l",
+              "ipa": "lɑbɪˈɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "labiale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$bI$\"A:$l@",
+              "ipa": "lɑbɪˈɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "labialt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$bI$\"A:lt",
+              "ipa": "lɑbɪˈɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ae6009716172.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae6009716172.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae6009716172.mp3",
+            "text": "labial",
+            "source": "generated",
+            "content_sha256": "7a219d5dadb48179db058f3f9f711fe925a47f0d3c5e3003157c212eda98cb10",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om språklyd: som blir uttalt med leppene",
+      "translation": "of a speech sound: produced with the lips",
+      "examples": []
+    }
+  ]
+}

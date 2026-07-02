@@ -1,0 +1,126 @@
+{
+  "source_article_id": 35767,
+  "lemmas": [
+    {
+      "lemma": "longitude",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 41552,
+      "is_sub_article": false,
+      "primary_translation": "longitude / latitude",
+      "word_forms": [
+        {
+          "word_form": "longitude",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lON$gI$\"\"t}:$d@",
+              "ipa": "lɔŋgɪˈtʉːdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "longituden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lON$gI$\"\"t}:$dn=",
+              "ipa": "lɔŋgɪˈtʉːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "longituder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lɔŋgɪtˈʉːdər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "longitudene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lɔŋgɪtˈʉːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9ddf8df79e88.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ddf8df79e88.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ddf8df79e88.mp3",
+            "text": "longitude",
+            "source": "generated",
+            "content_sha256": "9a4481c80313e1da5b259b9819952a726b5783f756a3466b272f3b8e325c2e09",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "geografisk lengde",
+      "translation": "geographical longitude",
+      "examples": []
+    },
+    {
+      "text": "motsatt latitude",
+      "translation": "degree of longitude",
+      "examples": []
+    }
+  ]
+}

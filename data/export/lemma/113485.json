@@ -1,0 +1,119 @@
+{
+  "source_article_id": 113485,
+  "lemmas": [
+    {
+      "lemma": "gnien",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 164317,
+      "is_sub_article": false,
+      "primary_translation": "stingy / miserly",
+      "word_forms": [
+        {
+          "word_form": "gnien",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gni:$@n",
+              "ipa": "ˈgnɪːən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gniene",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gnˈiːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gnient",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gnˈiːənt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "743190972d85.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/743190972d85.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/743190972d85.mp3",
+            "text": "gnien",
+            "source": "generated",
+            "content_sha256": "ba87d5cd964dd11dcfca85abe4058fef275b403ff1378e5d034b1a27788bd236",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som oppfører seg som en gnier",
+      "translation": "behaving like a miser",
+      "examples": []
+    },
+    {
+      "text": "gjerrig",
+      "translation": "stingy",
+      "examples": [
+        {
+          "no": "være gnien på pengene",
+          "en": "be stingy with money"
+        },
+        {
+          "no": "hun var aldri gnien med ros",
+          "en": "she was never stingy with praise"
+        }
+      ]
+    }
+  ]
+}

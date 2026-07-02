@@ -1,0 +1,128 @@
+{
+  "source_article_id": 123688,
+  "lemmas": [
+    {
+      "lemma": "narkorus",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 125209,
+      "is_sub_article": false,
+      "primary_translation": "drug intoxication",
+      "word_forms": [
+        {
+          "word_form": "narkorus",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nAr$kU$%r}:s",
+              "ipa": "ˈnɑrkʊˌrʉːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "narkorusen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɑrkˈuːrˌʉːsn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "narkoruser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɑrkˈuːrʉsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "narkorusene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɑrkˈuːrʉsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a4eeca4503eb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4eeca4503eb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4eeca4503eb.mp3",
+            "text": "narkorus",
+            "source": "generated",
+            "content_sha256": "bc2bc84ed3ef504e21b78775d1bb6a5071293fbc3c0ede49687fcf0001296c60",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "beruselse forårsaket av narkotisk stoff",
+      "translation": "intoxication caused by a narcotic substance",
+      "examples": [
+        {
+          "no": "bli arrestert for innbrudd og kjøring i narkorus",
+          "en": "be arrested for burglary and driving under the influence of drugs"
+        }
+      ]
+    }
+  ]
+}

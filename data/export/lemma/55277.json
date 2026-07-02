@@ -1,0 +1,166 @@
+{
+  "source_article_id": 55277,
+  "lemmas": [
+    {
+      "lemma": "snø",
+      "hgno": 2,
+      "pos": "VERB",
+      "source_lemma_id": 63649,
+      "is_sub_article": false,
+      "primary_translation": "snow (verb)",
+      "word_forms": [
+        {
+          "word_form": "snø",
+          "tags_json": [
+            "v4",
+            "Inf",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sn2:",
+              "ipa": "ˈsnøː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snør",
+          "tags_json": [
+            "v4",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sn2:r",
+              "ipa": "ˈsnøːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snøs",
+          "tags_json": [
+            "v4",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sn2:s",
+              "ipa": "ˈsnøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snødde",
+          "tags_json": [
+            "v4",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sn9$d@",
+              "ipa": "ˈsnœdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "snødd",
+          "tags_json": [
+            "v4",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sn9d",
+              "ipa": "ˈsnœd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snøende",
+          "tags_json": [
+            "v4",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sn2:$@$n@",
+              "ipa": "ˈsnøːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4662094cce8b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4662094cce8b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4662094cce8b.mp3",
+            "text": "snø",
+            "source": "generated",
+            "content_sha256": "bde5f16b1baf1e95368c5a655b045c47d838ddd9b24d970620543bbae5ccfede",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "falle nedbør i form av snø",
+      "translation": "fall as snow",
+      "examples": [
+        {
+          "no": "det snødde tett og jevnt",
+          "en": "it was snowing thick and steadily"
+        },
+        {
+          "no": "det har snødd i hele dag",
+          "en": "it has snowed all day"
+        }
+      ]
+    }
+  ]
+}

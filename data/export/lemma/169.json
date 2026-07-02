@@ -1,0 +1,87 @@
+{
+  "source_article_id": 169,
+  "lemmas": [
+    {
+      "lemma": "adenoid",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 963,
+      "is_sub_article": false,
+      "primary_translation": "gland-like",
+      "word_forms": [
+        {
+          "word_form": "adenoid",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$d@$nU$\"i:d",
+              "ipa": "ɑdənʊˈɪːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adenoide",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$d@$nU$\"i:$d@",
+              "ipa": "ɑdənʊˈɪːdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "75ccfc145429.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75ccfc145429.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75ccfc145429.mp3",
+            "text": "adenoid",
+            "source": "generated",
+            "content_sha256": "8bb658e18667444353880cd3cf6db8f5b557244738ab59742ef08930b61b7025",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ligner eller er formet som en kjertel",
+      "translation": "resembling or shaped like a gland",
+      "examples": [
+        {
+          "no": "adenoid vev",
+          "en": "adenoid tissue"
+        }
+      ]
+    }
+  ]
+}

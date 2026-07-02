@@ -1,0 +1,150 @@
+{
+  "source_article_id": 115219,
+  "lemmas": [
+    {
+      "lemma": "fakturering",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 96646,
+      "is_sub_article": false,
+      "primary_translation": "invoicing",
+      "word_forms": [
+        {
+          "word_form": "fakturering",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tu0$\"re:$rIN",
+              "ipa": "fɑktʉˈreːrɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktureringen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tu0$\"re:$rIN$@n",
+              "ipa": "fɑktʉˈreːrɪŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktureringer",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fɑktʉrˈeːrɪŋər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "faktureringene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fɑktʉrˈeːrɪŋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "faktureringa",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fɑktʉrˈeːrɪŋɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ff064398ab19.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ff064398ab19.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ff064398ab19.mp3",
+            "text": "fakturering",
+            "source": "generated",
+            "content_sha256": "60a81a15af5b230ec6cb443cf50a3ef40457f3235dbe46baa136b9927f1d3d04",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å fakturere",
+      "translation": "the act of invoicing",
+      "examples": [
+        {
+          "no": "klage på feilaktig fakturering",
+          "en": "complain about incorrect invoicing"
+        }
+      ]
+    }
+  ]
+}

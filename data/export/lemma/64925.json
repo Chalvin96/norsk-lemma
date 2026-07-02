@@ -1,0 +1,96 @@
+{
+  "source_article_id": 64925,
+  "lemmas": [
+    {
+      "lemma": "uselgelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74338,
+      "is_sub_article": false,
+      "primary_translation": "unsaleable",
+      "word_forms": [
+        {
+          "word_form": "uselgelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"sEl$g@$lI",
+              "ipa": "ʉˈsɛlgəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uselgelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"sE$l@$lI$@",
+              "ipa": "ʉˈsɛləlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "29b6eab1f497.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/29b6eab1f497.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/29b6eab1f497.mp3",
+            "text": "uselgelig",
+            "source": "generated",
+            "content_sha256": "f7b5166c2af736182fe8d6bc337f4cfb2b3bab8bfb36c3d8a813ee65649f32b2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en ikke får solgt",
+      "translation": "that cannot be sold",
+      "examples": []
+    },
+    {
+      "text": "som ingen vil kjøpe",
+      "translation": "that no one wants to buy",
+      "examples": [
+        {
+          "no": "en uselgelig vare",
+          "en": "an unsellable item"
+        },
+        {
+          "no": "huset er så gammeldags at det er nesten uselgelig",
+          "en": "the house is so old-fashioned that it is almost unsellable"
+        }
+      ]
+    }
+  ]
+}

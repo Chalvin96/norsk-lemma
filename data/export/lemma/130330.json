@@ -1,0 +1,113 @@
+{
+  "source_article_id": 130330,
+  "lemmas": [
+    {
+      "lemma": "steinfri",
+      "hgno": 1,
+      "pos": "ADJ",
+      "source_lemma_id": 142837,
+      "is_sub_article": false,
+      "primary_translation": "stone-free",
+      "word_forms": [
+        {
+          "word_form": "steinfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈæ͡ɪnfrˌiː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "steinfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈæ͡ɪnfrˌiːə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "steinfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈæ͡ɪnfrˌɪt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9c3170428eea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9c3170428eea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9c3170428eea.mp3",
+            "text": "steinfri",
+            "source": "generated",
+            "content_sha256": "1cee29b303914453b929905d2880956cf38e0ac11e385db3dac2be523b23ed09"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten stein",
+      "translation": "without stone",
+      "examples": []
+    },
+    {
+      "text": "jamfør steinløs steinlaus",
+      "translation": "stone-free",
+      "examples": [
+        {
+          "no": "steinfrie jordarter",
+          "en": "stone-free soil types"
+        }
+      ]
+    }
+  ]
+}

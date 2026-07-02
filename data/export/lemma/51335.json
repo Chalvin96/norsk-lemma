@@ -1,0 +1,109 @@
+{
+  "source_article_id": 51335,
+  "lemmas": [
+    {
+      "lemma": "sievert",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 59043,
+      "is_sub_article": false,
+      "primary_translation": "sievert (unit of radiation dose)",
+      "word_forms": [
+        {
+          "word_form": "sievert",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"si:$v@t`",
+              "ipa": "ˈsɪːvəʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sieverten",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"si:$v@$t`n`=",
+              "ipa": "ˈsɪːvəʈɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sievertene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"si:$v@$t`n`=$@",
+              "ipa": "ˈsɪːvəʈɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "afabd00b46bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afabd00b46bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afabd00b46bc.mp3",
+            "text": "sievert",
+            "source": "generated",
+            "content_sha256": "6e860cff5752af9e475206724b207327201d6a45717f549f8fee8497822f0e28",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "målenhet for virkningen av biologisk stråledose",
+      "translation": "unit of measurement for the biological effect of radiation dose",
+      "examples": []
+    },
+    {
+      "text": "symbol Sv",
+      "translation": "symbol Sv",
+      "examples": [
+        {
+          "no": "1 sievert = 100 rem",
+          "en": ""
+        }
+      ]
+    }
+  ]
+}

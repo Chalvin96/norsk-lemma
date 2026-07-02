@@ -1,0 +1,129 @@
+{
+  "source_article_id": 110016,
+  "lemmas": [
+    {
+      "lemma": "bokrygg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 91217,
+      "is_sub_article": false,
+      "primary_translation": "book spine",
+      "word_forms": [
+        {
+          "word_form": "bokrygg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuːkrˌʏg",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bokryggen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuːkrˌʏgən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bokrygger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuːkrˌʏgər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bokryggene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuːkrˌʏgənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9fe245319095.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9fe245319095.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9fe245319095.mp3",
+            "text": "bokrygg",
+            "source": "generated",
+            "content_sha256": "d955042cae479fb73f9da985ac9c8c600a64d05dd61365d274b65f049c0070c7"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "del av en boks innbinding som dekker sammenbindingen av boksidene",
+      "translation": "part of a book's binding that covers the joining of the book's pages",
+      "examples": [
+        {
+          "no": "la blikket gli over titlene på bokryggene",
+          "en": "let his gaze glide over the titles on the spines of the books"
+        }
+      ]
+    }
+  ]
+}

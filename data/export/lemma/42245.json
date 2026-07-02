@@ -1,0 +1,107 @@
+{
+  "source_article_id": 42245,
+  "lemmas": [
+    {
+      "lemma": "omtenksom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49353,
+      "is_sub_article": false,
+      "primary_translation": "considerate",
+      "word_forms": [
+        {
+          "word_form": "omtenksom",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Om$\"tENk$%sOm",
+              "ipa": "ɔmˈtɛŋkˌsɔm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "omtenksomme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Om$\"tENk$sO$m@",
+              "ipa": "ɔmˈtɛŋksɔmə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "omtenksomt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Om$\"tENk$sOmt",
+              "ipa": "ɔmˈtɛŋksɔmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "459565c90b49.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/459565c90b49.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/459565c90b49.mp3",
+            "text": "omtenksom",
+            "source": "generated",
+            "content_sha256": "c4450d8030f8c661ebdd9ea492a150a9f5ce5d93f023c0e19f6d44058194954d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som viser omtanke",
+      "translation": "showing consideration",
+      "examples": [
+        {
+          "no": "hun er alltid så omtenksom",
+          "en": "she is always so thoughtful"
+        },
+        {
+          "no": "det var omtenksomt gjort",
+          "en": "that was thoughtful"
+        }
+      ]
+    }
+  ]
+}

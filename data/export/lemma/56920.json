@@ -1,0 +1,115 @@
+{
+  "source_article_id": 56920,
+  "lemmas": [
+    {
+      "lemma": "steingal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 65460,
+      "is_sub_article": false,
+      "primary_translation": "stone crazy",
+      "word_forms": [
+        {
+          "word_form": "steingal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"st{*IN$%gA:l",
+              "ipa": "ˈstæ͡ɪŋˌgɑːl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "steingale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"st{*IN$%gA:$l@",
+              "ipa": "ˈstæ͡ɪŋˌgɑːlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "steingalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"st{*IN$%gA:lt",
+              "ipa": "ˈstæ͡ɪŋˌgɑːlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2a6df4801b4d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a6df4801b4d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a6df4801b4d.mp3",
+            "text": "steingal",
+            "source": "generated",
+            "content_sha256": "87af100e809f103060da6679dce512423007cd2d4c55a5b38fe3e19ee79412f8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt gal, fullstendig gal",
+      "translation": "completely crazy, utterly mad",
+      "examples": []
+    },
+    {
+      "text": "jamfør stein",
+      "translation": "stone",
+      "examples": [
+        {
+          "no": "steingale mannfolk",
+          "en": "stone crazy men"
+        },
+        {
+          "no": "det gikk steingalt",
+          "en": "it went stone wrong"
+        }
+      ]
+    }
+  ]
+}

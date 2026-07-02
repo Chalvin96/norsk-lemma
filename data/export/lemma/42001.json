@@ -1,0 +1,121 @@
+{
+  "source_article_id": 42001,
+  "lemmas": [
+    {
+      "lemma": "oljegrus",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 49083,
+      "is_sub_article": false,
+      "primary_translation": "oil gravel",
+      "word_forms": [
+        {
+          "word_form": "oljegrus",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%gr}:s",
+              "ipa": "ˈɔljəˌgrʉːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oljegrusen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%gr}:$sn=",
+              "ipa": "ˈɔljəˌgrʉːsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oljegruser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔljəgrˌʉːsər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "oljegrusene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔljəgrˌʉːsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "db23432f8431.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db23432f8431.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db23432f8431.mp3",
+            "text": "oljegrus",
+            "source": "generated",
+            "content_sha256": "0f4151bceb044e7436aa316fd3ed56a48c731be1dc988f9038f18be196c2df1c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "blanding av grus, olje og bindemiddel som brukes til veidekke",
+      "translation": "mixture of gravel, oil, and binder used for road surfacing",
+      "examples": []
+    }
+  ]
+}

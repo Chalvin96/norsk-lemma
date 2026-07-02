@@ -1,0 +1,108 @@
+{
+  "source_article_id": 23243,
+  "lemmas": [
+    {
+      "lemma": "henry",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 27423,
+      "is_sub_article": false,
+      "primary_translation": "henry",
+      "word_forms": [
+        {
+          "word_form": "henry",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEn$rY",
+              "ipa": "ˈhɛnrʏ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "henryen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɛnrʏən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "henryene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɛnrɪənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c855d3cc2fb1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c855d3cc2fb1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c855d3cc2fb1.mp3",
+            "text": "henry",
+            "source": "generated",
+            "content_sha256": "aaf9b459769ba5148a38c455091f56e5b4062d22ab03ae39cf1f3cb9af34d1ce",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "målenhet for induktans",
+      "translation": "unit of inductance",
+      "examples": []
+    },
+    {
+      "text": "symbol H",
+      "translation": "symbol H",
+      "examples": []
+    }
+  ]
+}

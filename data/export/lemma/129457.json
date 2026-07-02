@@ -1,0 +1,94 @@
+{
+  "source_article_id": 129457,
+  "lemmas": [
+    {
+      "lemma": "soldrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2859281,
+      "is_sub_article": false,
+      "primary_translation": "solar-powered",
+      "word_forms": [
+        {
+          "word_form": "soldrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈuːldrˌeːʋət",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "soldrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"su:l$%dre:v$n@",
+              "ipa": "ˈsuːlˌdreːvnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "af128d5036c3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af128d5036c3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af128d5036c3.mp3",
+            "text": "soldrevet",
+            "source": "generated",
+            "content_sha256": "f8e6c23b908ce12b05539d30999bd95d4afdfc50fba94bbaa3444a4bffdef288"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "drevet av solkraft",
+      "translation": "powered by solar energy",
+      "examples": [
+        {
+          "no": "en soldrevet båt",
+          "en": "a solar-powered boat"
+        },
+        {
+          "no": "soldrevne droner",
+          "en": "solar-powered drones"
+        },
+        {
+          "no": "soldrevne varmtvannsanlegg",
+          "en": "solar-powered hot water systems"
+        }
+      ]
+    }
+  ]
+}

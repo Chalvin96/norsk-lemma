@@ -1,0 +1,132 @@
+{
+  "source_article_id": 52414,
+  "lemmas": [
+    {
+      "lemma": "skald",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 60457,
+      "is_sub_article": false,
+      "primary_translation": "skald / poet",
+      "word_forms": [
+        {
+          "word_form": "skald",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skAl",
+              "ipa": "ˈskɑl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skalden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skA$ln=",
+              "ipa": "ˈskɑln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skalder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skA$l@r",
+              "ipa": "ˈskɑlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skaldene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skA$ln=$@",
+              "ipa": "ˈskɑln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "824396774d71.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/824396774d71.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/824396774d71.mp3",
+            "text": "skald",
+            "source": "generated",
+            "content_sha256": "831ee4aca41b7370279b8cd0622de1a17d39b43ef11a17a5e40413c6d364e4bf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om norrøne forhold: person som diktet skaldekvad",
+      "translation": "person who composed skaldic poetry",
+      "examples": [
+        {
+          "no": "Torbjørn Hornklove var skald hos Harald Hårfagre",
+          "en": "Torbjorn Hornklofi was a skald at Harald Fairhair's court"
+        }
+      ]
+    },
+    {
+      "text": "lyrisk dikter, poet",
+      "translation": "lyrical poet",
+      "examples": [
+        {
+          "no": "vår store skald Henrik Wergeland",
+          "en": "our great poet Henrik Wergeland"
+        }
+      ]
+    }
+  ]
+}

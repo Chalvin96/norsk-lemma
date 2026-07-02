@@ -1,0 +1,130 @@
+{
+  "source_article_id": 8716,
+  "lemmas": [
+    {
+      "lemma": "catering",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10379,
+      "is_sub_article": false,
+      "primary_translation": "catering / catering company",
+      "word_forms": [
+        {
+          "word_form": "catering",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k{*I$t@$rIN",
+              "ipa": "ˈkæ͡ɪtərɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "cateringen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k{*I$t@$rIN$@n",
+              "ipa": "ˈkæ͡ɪtərɪŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "cateringer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈæ͡ɪtərɪŋər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "cateringene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈæ͡ɪtərɪŋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "17684a74650e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17684a74650e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17684a74650e.mp3",
+            "text": "catering",
+            "source": "generated",
+            "content_sha256": "703b94f156e369ee92634f900dffb83925395b476a8287beb07ff5b80c5a2596",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "levering av ferdigmat",
+      "translation": "provision of ready-made food",
+      "examples": [
+        {
+          "no": "bestille catering",
+          "en": "order catering"
+        },
+        {
+          "no": "drive catering",
+          "en": "run a catering business"
+        }
+      ]
+    }
+  ]
+}

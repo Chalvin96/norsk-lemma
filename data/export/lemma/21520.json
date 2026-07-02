@@ -1,0 +1,106 @@
+{
+  "source_article_id": 21520,
+  "lemmas": [
+    {
+      "lemma": "gullblank",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25149,
+      "is_sub_article": false,
+      "primary_translation": "gold-shiny",
+      "word_forms": [
+        {
+          "word_form": "gullblank",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu0l$%blANk",
+              "ipa": "ˈgʉlˌblɑŋk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gullblanke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu0l$%blAN$k@",
+              "ipa": "ˈgʉlˌblɑŋkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gullblankt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu0l$%blANkt",
+              "ipa": "ˈgʉlˌblɑŋkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f0fb00a051d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f0fb00a051d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f0fb00a051d.mp3",
+            "text": "gullblank",
+            "source": "generated",
+            "content_sha256": "0d2bae041f4de59a0f3cf6850edf8cc8ceb8ca32f2adeac181dd0d229e3969f6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "blank som gull",
+      "translation": "shiny as gold",
+      "examples": [
+        {
+          "no": "gullblanke lenker",
+          "en": "gold-bright links"
+        }
+      ]
+    }
+  ]
+}

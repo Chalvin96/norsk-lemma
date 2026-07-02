@@ -1,0 +1,131 @@
+{
+  "source_article_id": 4436,
+  "lemmas": [
+    {
+      "lemma": "bankremisse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5242,
+      "is_sub_article": false,
+      "primary_translation": "bank remittance",
+      "word_forms": [
+        {
+          "word_form": "bankremisse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kr@$%mI$s@",
+              "ipa": "ˈbɑŋkrəˌmɪsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bankremissen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kr@$%mI$sn=",
+              "ipa": "ˈbɑŋkrəˌmɪsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bankremisser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kr@$%mI$s@r",
+              "ipa": "ˈbɑŋkrəˌmɪsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bankremissene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kr@$%mI$sn=$@",
+              "ipa": "ˈbɑŋkrəˌmɪsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cd0b33450a42.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cd0b33450a42.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cd0b33450a42.mp3",
+            "text": "bankremisse",
+            "source": "generated",
+            "content_sha256": "99091a0aa0099907ac4040cfa1113035717baf4f93747cb950963252f566d666",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjeldsbrev som utstedes av en bank",
+      "translation": "promissory note issued by a bank",
+      "examples": []
+    },
+    {
+      "text": "ofte brukt for å betale dyre gjenstander som bil eller båt",
+      "translation": "often used to pay for expensive items like cars or boats",
+      "examples": [
+        {
+          "no": "betale med bankremisse",
+          "en": "pay with a bank draft"
+        },
+        {
+          "no": "heve en bankremisse",
+          "en": "cash a bank draft"
+        }
+      ]
+    }
+  ]
+}

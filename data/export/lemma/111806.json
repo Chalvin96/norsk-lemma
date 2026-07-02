@@ -1,0 +1,132 @@
+{
+  "source_article_id": 111806,
+  "lemmas": [
+    {
+      "lemma": "deldom",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163525,
+      "is_sub_article": false,
+      "primary_translation": "partial sentence",
+      "word_forms": [
+        {
+          "word_form": "deldom",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dəldˌɔm",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "deldommen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈeːldˌɔmən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "deldommer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈeːldˌɔmər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "deldommene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈeːldˌɔmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c99cbc8b361f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c99cbc8b361f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c99cbc8b361f.mp3",
+            "text": "deldom",
+            "source": "generated",
+            "content_sha256": "ecc3d738d0f07f6df70e3c11a094438fc68a4d09703d9dcd18ff9a5d003f1c5a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dom der straffen er dels betinget betinga og dels ubetinget ubetinga",
+      "translation": "judgment where the sentence is partly conditional and partly unconditional",
+      "examples": [
+        {
+          "no": "aktor mener ikke at det bør åpnes for en deldom",
+          "en": "the prosecutor does not think that a split sentence should be allowed"
+        },
+        {
+          "no": "retten gav en deldom",
+          "en": "the court gave a split sentence"
+        }
+      ]
+    }
+  ]
+}

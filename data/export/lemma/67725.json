@@ -1,0 +1,91 @@
+{
+  "source_article_id": 67725,
+  "lemmas": [
+    {
+      "lemma": "verdensberømt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 78188,
+      "is_sub_article": false,
+      "primary_translation": "world-famous",
+      "word_forms": [
+        {
+          "word_form": "verdensberømt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{r$dn=s$b@$%r9mt",
+              "ipa": "ˈværdn̩sbəˌrœmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "verdensberømte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{r$dn=s$b@$%r9m$t@",
+              "ipa": "ˈværdn̩sbəˌrœmtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a0dcc95d834e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0dcc95d834e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0dcc95d834e.mp3",
+            "text": "verdensberømt",
+            "source": "generated",
+            "content_sha256": "eae9157b02be8d0f22e7aa6beca1e540d5cbd5c34faf4382fa4118a3c7d38edb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "berømt i hele verdenen",
+      "translation": "famous throughout the world",
+      "examples": [
+        {
+          "no": "en verdensberømt sanger",
+          "en": "a world-famous singer"
+        },
+        {
+          "no": "bli verdensberømt",
+          "en": "become world-famous"
+        }
+      ]
+    }
+  ]
+}

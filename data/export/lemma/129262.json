@@ -1,0 +1,127 @@
+{
+  "source_article_id": 129262,
+  "lemmas": [
+    {
+      "lemma": "småjobb",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 140605,
+      "is_sub_article": false,
+      "primary_translation": "small task",
+      "word_forms": [
+        {
+          "word_form": "småjobb",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːjˌɔb",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "småjobben",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːjˌɔbən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "småjobber",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%jO$b@r",
+              "ipa": "ˈsmoːˌjɔbər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småjobbene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːjˌɔbənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3daf82595743.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3daf82595743.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3daf82595743.mp3",
+            "text": "småjobb",
+            "source": "generated",
+            "content_sha256": "617988e9134c14f92242b2703af3d2c3494867305e2b54d865a942eba589abb3"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "liten arbeidsoppgave",
+      "translation": "small task",
+      "examples": [
+        {
+          "no": "verkstedet tar småjobber",
+          "en": "the workshop takes small jobs"
+        }
+      ]
+    }
+  ]
+}

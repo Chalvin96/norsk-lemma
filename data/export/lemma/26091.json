@@ -1,0 +1,103 @@
+{
+  "source_article_id": 26091,
+  "lemmas": [
+    {
+      "lemma": "industriell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31071,
+      "is_sub_article": false,
+      "primary_translation": "industrial",
+      "word_forms": [
+        {
+          "word_form": "industriell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$du0$strI$\"El",
+              "ipa": "ɪndʉstrɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "industrielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$du0$strI$\"E$l@",
+              "ipa": "ɪndʉstrɪˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "industrielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$du0$strI$\"Elt",
+              "ipa": "ɪndʉstrɪˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a1580fedddaf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1580fedddaf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1580fedddaf.mp3",
+            "text": "industriell",
+            "source": "generated",
+            "content_sha256": "504f9f0065ef1cb289b8240991816d498be85009540b23b0eec842c59ca39213",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til eller gjelder industrien",
+      "translation": "belonging to or concerning industry",
+      "examples": [
+        {
+          "no": "landet har liten industriell virksomhet",
+          "en": "the country has little industrial activity"
+        }
+      ]
+    }
+  ]
+}

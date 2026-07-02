@@ -1,0 +1,104 @@
+{
+  "source_article_id": 9737,
+  "lemmas": [
+    {
+      "lemma": "denier",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11458,
+      "is_sub_article": false,
+      "primary_translation": "denier (yarn thickness unit)",
+      "word_forms": [
+        {
+          "word_form": "denier",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$nI$\"e:",
+              "ipa": "dənɪˈeː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "denieren",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$nI$\"e:$@n",
+              "ipa": "dənɪˈeːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "denierene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$nI$\"e:$@$n@",
+              "ipa": "dənɪˈeːənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "da2e73545eb9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/da2e73545eb9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/da2e73545eb9.mp3",
+            "text": "denier",
+            "source": "generated",
+            "content_sha256": "ed7d807fbba3f6eccb9459e55a9e42067b5616fcd7d112c7d007c7821a0ebbd4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mål for tykkelse på tråd, som angir hvor mange gram 9000 meter tråd veier",
+      "translation": "unit of measurement for yarn thickness, indicating how many grams 9000 meters of yarn weigh",
+      "examples": [
+        {
+          "no": "strømpebukse i 100 denier",
+          "en": "100-denier tights"
+        }
+      ]
+    }
+  ]
+}

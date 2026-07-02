@@ -1,0 +1,136 @@
+{
+  "source_article_id": 51202,
+  "lemmas": [
+    {
+      "lemma": "sex",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 58906,
+      "is_sub_article": false,
+      "primary_translation": "sexuality / eroticism / intercourse",
+      "word_forms": [
+        {
+          "word_form": "sex",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sEks",
+              "ipa": "ˈsɛks",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sexen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sEk$sn=",
+              "ipa": "ˈsɛksn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sexer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɛksər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sexene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɛksn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6d69b458f9c8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6d69b458f9c8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6d69b458f9c8.mp3",
+            "text": "sex",
+            "source": "generated",
+            "content_sha256": "85ff0cd38782c0aacf000ba24a30a2b2d651e42c0dd5cdfadaf0e4e124d11690",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det som har med seksuallivet å gjøre",
+      "translation": "that which relates to sexual life",
+      "examples": [
+        {
+          "no": "boka var full av vold og sex",
+          "en": "the book was full of violence and sex"
+        }
+      ]
+    },
+    {
+      "text": "seksuell omgang",
+      "translation": "sexual intercourse",
+      "examples": [
+        {
+          "no": "han ville ha sex med henne",
+          "en": "he wanted to have sex with her"
+        }
+      ]
+    }
+  ]
+}

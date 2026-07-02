@@ -1,0 +1,92 @@
+{
+  "source_article_id": 44257,
+  "lemmas": [
+    {
+      "lemma": "parodisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51224,
+      "is_sub_article": false,
+      "primary_translation": "parodic / ridiculous",
+      "word_forms": [
+        {
+          "word_form": "parodisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$\"ru:$dI$sk",
+              "ipa": "pɑˈruːdɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "parodiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$\"ru:$dI$sk@",
+              "ipa": "pɑˈruːdɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "96ae353fd74a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/96ae353fd74a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/96ae353fd74a.mp3",
+            "text": "parodisk",
+            "source": "generated",
+            "content_sha256": "ca63cb4b5399a3d15dc543caedc5f604adc1a7422d45b4e450abadc3f5992c47",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ligner en parodi",
+      "translation": "resembling a parody",
+      "examples": []
+    },
+    {
+      "text": "klønete, elendig, latterlig",
+      "translation": "clumsy, miserable, ridiculous",
+      "examples": [
+        {
+          "no": "skildringen er parodisk",
+          "en": "the portrayal is parodic"
+        }
+      ]
+    }
+  ]
+}

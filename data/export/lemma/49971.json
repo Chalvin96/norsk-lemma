@@ -1,0 +1,85 @@
+{
+  "source_article_id": 49971,
+  "lemmas": [
+    {
+      "lemma": "sammenskrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57335,
+      "is_sub_article": false,
+      "primary_translation": "written as one word",
+      "word_forms": [
+        {
+          "word_form": "sammenskrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA$m@n$%skre:$v@t",
+              "ipa": "ˈsɑmənˌskreːvət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sammenskrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA$m@n$%skre:v$n@",
+              "ipa": "ˈsɑmənˌskreːvnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6c0c506649da.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c0c506649da.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c0c506649da.mp3",
+            "text": "sammenskrevet",
+            "source": "generated",
+            "content_sha256": "1760c24f408542930e05256f26bf12a7be641f9a1d1adcffd4df5095ae4fedb3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er skrevet i ett",
+      "translation": "written as one word",
+      "examples": [
+        {
+          "no": "sammenskrevne ord",
+          "en": "words written as one"
+        }
+      ]
+    }
+  ]
+}

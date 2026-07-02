@@ -1,0 +1,210 @@
+{
+  "source_article_id": 15993,
+  "lemmas": [
+    {
+      "lemma": "forbrenne",
+      "hgno": 1,
+      "pos": "VERB",
+      "source_lemma_id": 82088,
+      "is_sub_article": false,
+      "primary_translation": "burn up / combust",
+      "word_forms": [
+        {
+          "word_form": "forbrenne",
+          "tags_json": [
+            "verb",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"brE$n@",
+              "ipa": "fɔrˈbrɛnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forbrenner",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"brE$n@r",
+              "ipa": "fɔrˈbrɛnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forbrennes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"brE$n@s",
+              "ipa": "fɔrˈbrɛnəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forbrant",
+          "tags_json": [
+            "verb",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɔrbrˌɑnt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "forbrent",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"brEnt",
+              "ipa": "fɔrˈbrɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forbrente",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"brEn$t@",
+              "ipa": "fɔrˈbrɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forbrennende",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"brE$nn=$@",
+              "ipa": "fɔrˈbrɛnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forbrenn",
+          "tags_json": [
+            "verb",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"brEn",
+              "ipa": "fɔrˈbrɛn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2a6061ea0c94.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a6061ea0c94.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a6061ea0c94.mp3",
+            "text": "forbrenne",
+            "source": "generated",
+            "content_sha256": "5e2a27fc1d0c3c7719980fb5e6dc3009c2e99ab12052d9cceaa06d6a3950fffc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brenne opp",
+      "translation": "burn up",
+      "examples": [
+        {
+          "no": "tørt tre forbrenner lett",
+          "en": "dry wood burns easily"
+        },
+        {
+          "no": "gassen har forbrent",
+          "en": "the gas has burned"
+        }
+      ]
+    },
+    {
+      "text": "forbinde seg kjemisk med et annet stoff, særlig oksygen, under varmeutvikling",
+      "translation": "chemically combine with another substance, especially oxygen, with heat development",
+      "examples": [
+        {
+          "no": "næringsstoffene forbrant i kroppen",
+          "en": "the nutrients were burned in the body"
+        }
+      ]
+    }
+  ]
+}

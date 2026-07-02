@@ -1,0 +1,87 @@
+{
+  "source_article_id": 5511,
+  "lemmas": [
+    {
+      "lemma": "bespottelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6488,
+      "is_sub_article": false,
+      "primary_translation": "blasphemous / mocking",
+      "word_forms": [
+        {
+          "word_form": "bespottelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"spO$tl=$I",
+              "ipa": "bəˈspɔtl̩ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bespottelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"spO$tl=$I$@",
+              "ipa": "bəˈspɔtl̩ɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bfe0da771dd5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bfe0da771dd5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bfe0da771dd5.mp3",
+            "text": "bespottelig",
+            "source": "generated",
+            "content_sha256": "bd23cd3de1b445ed3c376621214f9764f1594719e49bc66930bb207dec8bae8e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bespotte",
+      "translation": "that mocks",
+      "examples": [
+        {
+          "no": "bespottelig tale",
+          "en": "blasphemous speech"
+        }
+      ]
+    }
+  ]
+}

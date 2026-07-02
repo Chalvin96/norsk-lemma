@@ -1,0 +1,103 @@
+{
+  "source_article_id": 11938,
+  "lemmas": [
+    {
+      "lemma": "eksamensfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13970,
+      "is_sub_article": false,
+      "primary_translation": "exam-free",
+      "word_forms": [
+        {
+          "word_form": "eksamensfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sA:$m@ns$%fri:",
+              "ipa": "ɛkˈsɑːmənsˌfrɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksamensfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sA:$m@ns$%fri:$@",
+              "ipa": "ɛkˈsɑːmənsˌfrɪːə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksamensfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sA:$m@ns$%frIt",
+              "ipa": "ɛkˈsɑːmənsˌfrɪt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "42f1c14655e4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42f1c14655e4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42f1c14655e4.mp3",
+            "text": "eksamensfri",
+            "source": "generated",
+            "content_sha256": "cd859f36f9f045d729929430b0eac2b81d45e0c2753571a334a6c4057e09c2b1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten eksamen",
+      "translation": "without an exam",
+      "examples": [
+        {
+          "no": "en eksamensfri skole",
+          "en": "an exam-free school"
+        }
+      ]
+    }
+  ]
+}

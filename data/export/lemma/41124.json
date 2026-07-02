@@ -1,0 +1,97 @@
+{
+  "source_article_id": 41124,
+  "lemmas": [
+    {
+      "lemma": "norsk-dansk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 48096,
+      "is_sub_article": false,
+      "primary_translation": "Norwegian-Danish",
+      "word_forms": [
+        {
+          "word_form": "norsk-dansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$%s`kdAnsk",
+              "ipa": "ˈnɔˌʂkdɑnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "norsk-danske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$%s`kdAn$sk@",
+              "ipa": "ˈnɔˌʂkdɑnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c97cc94f445.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c97cc94f445.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c97cc94f445.mp3",
+            "text": "norsk-dansk",
+            "source": "generated",
+            "content_sha256": "8c4bf6ef34b88103d2b8041b2df6b193f2407c1df0e36694dc37a67b7b537f76",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "felles for Norge og Danmark",
+      "translation": "common to Norway and Denmark",
+      "examples": []
+    },
+    {
+      "text": "jamfør dansk-norsk",
+      "translation": "compare Danish-Norwegian",
+      "examples": [
+        {
+          "no": "norsk-dansk samarbeid",
+          "en": "Norwegian-Danish cooperation"
+        }
+      ]
+    },
+    {
+      "text": "som gjelder norsk-dansk",
+      "translation": "concerning Norwegian-Danish",
+      "examples": []
+    }
+  ]
+}

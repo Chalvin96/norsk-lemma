@@ -1,0 +1,128 @@
+{
+  "source_article_id": 30200,
+  "lemmas": [
+    {
+      "lemma": "klokkerdansk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35608,
+      "is_sub_article": false,
+      "primary_translation": "clerical Danish (pronunciation)",
+      "word_forms": [
+        {
+          "word_form": "klokkerdansk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klO$k@r$%dAnsk",
+              "ipa": "ˈklɔkərˌdɑnsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klokkerdansken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klO$k@r$%dAn$sk@n",
+              "ipa": "ˈklɔkərˌdɑnskən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klokkerdansker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "klˈɔkərdˌɑnskər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "klokkerdanskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "klˈɔkərdˌɑnskənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b439df4029e6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b439df4029e6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b439df4029e6.mp3",
+            "text": "klokkerdansk",
+            "source": "generated",
+            "content_sha256": "1caa459ffef02d784fcc2cfb89c21b0045ee12664cca979dcd52560361bedba0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om eldre forhold: bokstavrett uttale av dansk skriftspråk",
+      "translation": "regarding older conditions: literal pronunciation of Danish written language",
+      "examples": [
+        {
+          "no": "læreren talte et oppstyltet klokkerdansk",
+          "en": "the teacher spoke in a stiff, old-fashioned Danish pronunciation"
+        }
+      ]
+    }
+  ]
+}

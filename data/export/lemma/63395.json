@@ -1,0 +1,132 @@
+{
+  "source_article_id": 63395,
+  "lemmas": [
+    {
+      "lemma": "tørk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 72656,
+      "is_sub_article": false,
+      "primary_translation": "drying / drying conditions",
+      "word_forms": [
+        {
+          "word_form": "tørk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t9rk",
+              "ipa": "ˈtœrk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tørken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"t9r$k@n",
+              "ipa": "ˈtœrkən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tørker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"t9r$k@r",
+              "ipa": "ˈtœrkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tørkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"t9r$k@$n@",
+              "ipa": "ˈtœrkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "56c476896353.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56c476896353.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56c476896353.mp3",
+            "text": "tørk",
+            "source": "generated",
+            "content_sha256": "b99917c3b2a77d3f8f4d94122111de2a4199a0b65ff83ee7bfe900d77fed7b8e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å gjøre eller bli tørr",
+      "translation": "the act of making or becoming dry",
+      "examples": [
+        {
+          "no": "henge klesvasken til tørk",
+          "en": "hang the laundry out to dry"
+        }
+      ]
+    },
+    {
+      "text": "forhold fot tørking",
+      "translation": "conditions for drying",
+      "examples": [
+        {
+          "no": "vind og sol gir god tørk",
+          "en": "wind and sun make for good drying"
+        }
+      ]
+    }
+  ]
+}

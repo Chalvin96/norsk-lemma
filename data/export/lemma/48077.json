@@ -1,0 +1,79 @@
+{
+  "source_article_id": 48077,
+  "lemmas": [
+    {
+      "lemma": "remis",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 55222,
+      "is_sub_article": false,
+      "primary_translation": "draw (chess) / neither win nor lose",
+      "word_forms": [
+        {
+          "word_form": "remis",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"mIs",
+              "ipa": "rəˈmɪs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0c5845ec13fb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c5845ec13fb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c5845ec13fb.mp3",
+            "text": "remis",
+            "source": "generated",
+            "content_sha256": "35b04a1ee27cf34dc4fcbc31c03e9b9049f326cca6543d581acb4475c3f72323",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i sjakk: uavgjort",
+      "translation": "in chess: draw",
+      "examples": [
+        {
+          "no": "spille remis",
+          "en": "play to a draw"
+        }
+      ]
+    },
+    {
+      "text": "om spiller: verken vinne eller tape",
+      "translation": "about a player: neither winning nor losing",
+      "examples": [
+        {
+          "no": "hun ble remis",
+          "en": "she drew"
+        }
+      ]
+    }
+  ]
+}

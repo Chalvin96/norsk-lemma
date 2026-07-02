@@ -1,0 +1,105 @@
+{
+  "source_article_id": 66011,
+  "lemmas": [
+    {
+      "lemma": "utålelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75762,
+      "is_sub_article": false,
+      "primary_translation": "intolerable / annoying",
+      "word_forms": [
+        {
+          "word_form": "utålelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"to:$l@$lI",
+              "ipa": "ʉˈtoːləlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utålelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"to:$l@$lI$@",
+              "ipa": "ʉˈtoːləlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9402ff9e2f66.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9402ff9e2f66.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9402ff9e2f66.mp3",
+            "text": "utålelig",
+            "source": "generated",
+            "content_sha256": "13be43c043fe297b1380004a98ba040f84f1655345da8d03bbf932dc1c727df2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er til å tåle eller utstå",
+      "translation": "that cannot be tolerated or endured",
+      "examples": [
+        {
+          "no": "en utålelig hete",
+          "en": "an unbearable heat"
+        },
+        {
+          "no": "leve under utålelige forhold",
+          "en": "live under unbearable conditions"
+        }
+      ]
+    },
+    {
+      "text": "irriterende, frastøtende",
+      "translation": "annoying, repulsive",
+      "examples": [
+        {
+          "no": "en utålelig lømmel",
+          "en": "an unbearable lout"
+        },
+        {
+          "no": "vise en utålelig arroganse",
+          "en": "display an unbearable arrogance"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_article_id": 112026,
+  "lemmas": [
+    {
+      "lemma": "eksamensdag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 95103,
+      "is_sub_article": false,
+      "primary_translation": "exam day",
+      "word_forms": [
+        {
+          "word_form": "eksamensdag",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sA:$m@ns$%dA:g",
+              "ipa": "ɛkˈsɑːmənsˌdɑːg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksamensdagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sA:$m@ns$%dA:$g@n",
+              "ipa": "ɛkˈsɑːmənsˌdɑːgən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksamensdager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛksˈɑːmənsdˌɑːgər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "eksamensdagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛksˈɑːmənsdˌɑːgənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cce5fabf8a87.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cce5fabf8a87.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cce5fabf8a87.mp3",
+            "text": "eksamensdag",
+            "source": "generated",
+            "content_sha256": "85ca81071dc72062f4da6b503deafe48eb43e002b441d105537b46d6ec6bddd9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dag der en er oppe til eksamen",
+      "translation": "day when one is taking an exam",
+      "examples": [
+        {
+          "no": "det er vanlig å bli nervøs på eksamensdagen",
+          "en": "it is common to get nervous on the day of the exam"
+        },
+        {
+          "no": "på eksamensdagen er det viktig å komme tidsnok",
+          "en": "on the day of the exam, it is important to arrive on time"
+        }
+      ]
+    }
+  ]
+}

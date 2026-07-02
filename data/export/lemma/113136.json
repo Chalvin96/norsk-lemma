@@ -1,0 +1,138 @@
+{
+  "source_article_id": 113136,
+  "lemmas": [
+    {
+      "lemma": "munnbind",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 124557,
+      "is_sub_article": false,
+      "primary_translation": "face mask",
+      "word_forms": [
+        {
+          "word_form": "munnbind",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mu0n$%bInd",
+              "ipa": "ˈmʉnˌbɪnd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "munnbindet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈʉnbˌɪnə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "munnbinda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈʉnbˌɪnɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "munnbindene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈʉnbˌɪnn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2999d35bc2dd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2999d35bc2dd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2999d35bc2dd.mp3",
+            "text": "munnbind",
+            "source": "generated",
+            "content_sha256": "9a630546982a374769fcdf7ae3617e40421797b2042a36b37939318a8c34d3bd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bind framfor munn og nese for å hindre smitte",
+      "translation": "covering for mouth and nose to prevent infection",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra åndedrettsvern",
+      "translation": "as opposed to respiratory protection",
+      "examples": [
+        {
+          "no": "kirurgisk munnbind",
+          "en": "surgical face mask"
+        },
+        {
+          "no": "munnbind skal forhindre at personen som bruker det, skal spre smitte til andre",
+          "en": "face masks are meant to prevent the person wearing them from spreading infection to others"
+        }
+      ]
+    }
+  ]
+}

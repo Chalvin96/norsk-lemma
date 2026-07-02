@@ -1,0 +1,144 @@
+{
+  "source_article_id": 45005,
+  "lemmas": [
+    {
+      "lemma": "pip",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 51973,
+      "is_sub_article": false,
+      "primary_translation": "chirp",
+      "word_forms": [
+        {
+          "word_form": "pip",
+          "tags_json": [
+            "Masc",
+            "m., n.",
+            "Sing",
+            "Ind",
+            "Plur",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pi:p",
+              "ipa": "ˈpɪːp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pipen",
+          "tags_json": [
+            "Masc",
+            "m., n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pi:$p@n",
+              "ipa": "ˈpɪːpən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "pipene",
+          "tags_json": [
+            "Masc",
+            "m., n.",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pi:$p@$n@",
+              "ipa": "ˈpɪːpənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "pipet",
+          "tags_json": [
+            "Neuter",
+            "m., n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pi:$p@",
+              "ipa": "ˈpɪːpə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pipa",
+          "tags_json": [
+            "Neuter",
+            "m., n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pi:$pA",
+              "ipa": "ˈpɪːpɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bd039a64ee74.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bd039a64ee74.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bd039a64ee74.mp3",
+            "text": "pip",
+            "source": "generated",
+            "content_sha256": "09b15f37f6ca7a433f08fc1e82490ab7b60a6a2566541bd6718a52ccebcbaf07",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pipende lyd",
+      "translation": "chirping sound",
+      "examples": [
+        {
+          "no": "pipet fra røykvarsleren",
+          "en": "the beeping from the smoke detector"
+        }
+      ]
+    }
+  ]
+}

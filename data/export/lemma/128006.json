@@ -1,0 +1,94 @@
+{
+  "source_article_id": 128006,
+  "lemmas": [
+    {
+      "lemma": "skadelidd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 138476,
+      "is_sub_article": false,
+      "primary_translation": "damaged",
+      "word_forms": [
+        {
+          "word_form": "skadelidd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈɑːdəlˌɪd",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skadelidde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈɑːdəlˌɪdə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e146f4c05f67.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e146f4c05f67.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e146f4c05f67.mp3",
+            "text": "skadelidd",
+            "source": "generated",
+            "content_sha256": "f38ff52eb39f6cc5e14f90177a7a2a24e3a328df54fcc1e1a82ddc922ea12750"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har vært utsatt for skade",
+      "translation": "having been subjected to damage",
+      "examples": [
+        {
+          "no": "den skadelidde part får utmålt et vederlag",
+          "en": "the injured party is awarded compensation"
+        },
+        {
+          "no": "den skadelidde er sendt til sykehus",
+          "en": "the injured person has been sent to the hospital"
+        }
+      ]
+    }
+  ]
+}

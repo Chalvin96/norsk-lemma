@@ -1,0 +1,87 @@
+{
+  "source_article_id": 55013,
+  "lemmas": [
+    {
+      "lemma": "småøyd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 63321,
+      "is_sub_article": false,
+      "primary_translation": "small-eyed",
+      "word_forms": [
+        {
+          "word_form": "småøyd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%9*Yd",
+              "ipa": "ˈsmoːˌœ͡ʏd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småøyde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%9*Y$d@",
+              "ipa": "ˈsmoːˌœ͡ʏdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c09ad3b30ae0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c09ad3b30ae0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c09ad3b30ae0.mp3",
+            "text": "småøyd",
+            "source": "generated",
+            "content_sha256": "254fe425c0d3792e0b43d41c2f843e4d9bd0ed9325cf3fa44f0c9a6a17e543a3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har små øyne",
+      "translation": "having small eyes",
+      "examples": [
+        {
+          "no": "være småøyd av mangel på søvn",
+          "en": "be bleary-eyed from lack of sleep"
+        }
+      ]
+    }
+  ]
+}

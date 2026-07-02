@@ -1,0 +1,130 @@
+{
+  "source_article_id": 53727,
+  "lemmas": [
+    {
+      "lemma": "skrøn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 61949,
+      "is_sub_article": false,
+      "primary_translation": "fabrication / flimsy construction",
+      "word_forms": [
+        {
+          "word_form": "skrøn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skr2:n",
+              "ipa": "ˈskrøːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skrønet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skrˈøːnət",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skrøna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skr2:$nA",
+              "ipa": "ˈskrøːnɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skrønene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skr2:$nn=$@",
+              "ipa": "ˈskrøːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ce1ee95b98b4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce1ee95b98b4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce1ee95b98b4.mp3",
+            "text": "skrøn",
+            "source": "generated",
+            "content_sha256": "62a721af2d27e26a404b47112d638553d26aa8932ecadae5b951bc04ea2c4b9f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe som er skrønt sammen",
+      "translation": "something that is put together in a flimsy way",
+      "examples": []
+    },
+    {
+      "text": "oppspinn",
+      "translation": "fabrication",
+      "examples": [
+        {
+          "no": "fare med løgn og skrøn",
+          "en": "spin lies and tall tales"
+        }
+      ]
+    }
+  ]
+}

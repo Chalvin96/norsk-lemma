@@ -1,0 +1,122 @@
+{
+  "source_article_id": 47786,
+  "lemmas": [
+    {
+      "lemma": "regest",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 54879,
+      "is_sub_article": false,
+      "primary_translation": "regest / chronological list",
+      "word_forms": [
+        {
+          "word_form": "regest",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"gE$st",
+              "ipa": "rəˈgɛst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "regesten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"gE$stn=",
+              "ipa": "rəˈgɛstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "regester",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"gE$st@r",
+              "ipa": "rəˈgɛstər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "regestene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"gE$stn=$@",
+              "ipa": "rəˈgɛstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7ca447b99f0f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ca447b99f0f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ca447b99f0f.mp3",
+            "text": "regest",
+            "source": "generated",
+            "content_sha256": "e7969cc842d240ddd832c38bc804804b40211f33ddbbad89ba3bea75a5af1d02",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kort sammendrag av innholdet i et dokument, med opplysninger om datering, utgivelsessted osv.",
+      "translation": "short summary of the content of a document, with information about dating and place of publication",
+      "examples": []
+    },
+    {
+      "text": "i flertall: kronologisk fortegnelse over dokumenter, med kort sammendrag av innholdet og opplysninger om datering, utgivelsessted osv.",
+      "translation": "chronological list of documents, with a short summary of the content and information about dating and place of publication",
+      "examples": []
+    }
+  ]
+}

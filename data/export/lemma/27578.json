@@ -1,0 +1,98 @@
+{
+  "source_article_id": 27578,
+  "lemmas": [
+    {
+      "lemma": "jeg",
+      "hgno": 2,
+      "pos": "PRON",
+      "source_lemma_id": 32714,
+      "is_sub_article": false,
+      "primary_translation": "me / my",
+      "word_forms": [
+        {
+          "word_form": "jeg",
+          "tags_json": [
+            "Prs",
+            "1",
+            "Sing",
+            "Hum",
+            "Nom"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"j{*I",
+              "ipa": "ˈjæ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "meg",
+          "tags_json": [
+            "Prs",
+            "1",
+            "Sing",
+            "Hum",
+            "Acc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"m{*I",
+              "ipa": "ˈmæ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dd65c982a64c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd65c982a64c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd65c982a64c.mp3",
+            "text": "jeg",
+            "source": "generated",
+            "content_sha256": "03045bf8efb5b351ae5fa35842fa558771e0cd629a4e47594b0bb26b02d1a8d2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "1. person entall",
+      "translation": "my",
+      "examples": [
+        {
+          "no": "arme meg!",
+          "en": "poor me!"
+        },
+        {
+          "no": "trøste og bære meg!",
+          "en": "heaven help me!"
+        },
+        {
+          "no": "du er meg en luring",
+          "en": "you're a sly one, you are"
+        },
+        {
+          "no": "du er større enn jegmeg",
+          "en": "you are bigger than me"
+        }
+      ]
+    }
+  ]
+}

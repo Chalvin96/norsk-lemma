@@ -1,0 +1,66 @@
+{
+  "source_article_id": 15728,
+  "lemmas": [
+    {
+      "lemma": "FN",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 509,
+      "is_sub_article": false,
+      "primary_translation": "UN",
+      "word_forms": [
+        {
+          "word_form": "FN",
+          "tags_json": [
+            "ABBR"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$%fEn",
+              "ipa": "ˈɛˌfɛn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3de2599d6a9a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3de2599d6a9a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3de2599d6a9a.mp3",
+            "text": "FN",
+            "source": "generated",
+            "content_sha256": "24f8b08e2acf3a21eebb8ab75f9c2ebbd42078682bceb0160fc0e8d48273b095",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forkorting for De forente nasjoner",
+      "translation": "for The United Nations",
+      "examples": [
+        {
+          "no": "FNs hovedforsamling",
+          "en": "the UN General Assembly"
+        },
+        {
+          "no": "Sikkerhetsrådet i FN",
+          "en": "the UN Security Council"
+        }
+      ]
+    }
+  ]
+}

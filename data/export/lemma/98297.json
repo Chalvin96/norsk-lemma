@@ -1,0 +1,95 @@
+{
+  "source_article_id": 98297,
+  "lemmas": [
+    {
+      "lemma": "dement",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 93728,
+      "is_sub_article": false,
+      "primary_translation": "demented",
+      "word_forms": [
+        {
+          "word_form": "dement",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"mEnt",
+              "ipa": "dəˈmɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "demente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"mEn$t@",
+              "ipa": "dəˈmɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "241051e8b43a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/241051e8b43a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/241051e8b43a.mp3",
+            "text": "dement",
+            "source": "generated",
+            "content_sha256": "3c550964c1615b41b4b1f8d911b7066028ba92b804e6ffb2878fcf63937e58f4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lider av demens",
+      "translation": "suffering from dementia",
+      "examples": [
+        {
+          "no": "være dement",
+          "en": "be demented"
+        },
+        {
+          "no": "faren ble dement",
+          "en": "the father became demented"
+        },
+        {
+          "no": "en eldre, dement kvinne",
+          "en": "an older, demented woman"
+        }
+      ]
+    }
+  ]
+}

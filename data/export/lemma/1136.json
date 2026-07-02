@@ -1,0 +1,123 @@
+{
+  "source_article_id": 1136,
+  "lemmas": [
+    {
+      "lemma": "årstall",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 80700,
+      "is_sub_article": false,
+      "primary_translation": "year number",
+      "word_forms": [
+        {
+          "word_form": "årstall",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"o:s`$%t`Al",
+              "ipa": "ˈoːʂˌʈɑl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "årstallet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"o:s`$%t`A$l@",
+              "ipa": "ˈoːʂˌʈɑlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "årstalla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"o:s`$%t`A$lA",
+              "ipa": "ˈoːʂˌʈɑlɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "årstallene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"o:s`$%t`A$ln=$@",
+              "ipa": "ˈoːʂˌʈɑln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4268c833be3a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4268c833be3a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4268c833be3a.mp3",
+            "text": "årstall",
+            "source": "generated",
+            "content_sha256": "a5893b65ebaa73d70dda565a007d1decdc7084c1d0bc14da353702aa9e61d961",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tall som angir årets nummer i tidsregningen",
+      "translation": "number indicating the year's number in the chronological count",
+      "examples": [
+        {
+          "no": "årstallet for Wergelands død er 1845",
+          "en": "the year of Wergeland's death is 1845"
+        }
+      ]
+    }
+  ]
+}

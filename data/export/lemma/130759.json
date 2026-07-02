@@ -1,0 +1,114 @@
+{
+  "source_article_id": 130759,
+  "lemmas": [
+    {
+      "lemma": "supersterk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2022625,
+      "is_sub_article": false,
+      "primary_translation": "super strong",
+      "word_forms": [
+        {
+          "word_form": "supersterk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s}:$p@s`$%t`{rk",
+              "ipa": "ˈsʉːpəʂˌʈærk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "supersterke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈʉːpərstˌærkə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "supersterkt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈʉːpərstˌærkt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c8767a7a3fc3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8767a7a3fc3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8767a7a3fc3.mp3",
+            "text": "supersterk",
+            "source": "generated",
+            "content_sha256": "4b86248d335de0439a148df98c98414929115ba00b15bd574c23854b45e9a285",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært sterk eller god",
+      "translation": "very strong good",
+      "examples": [
+        {
+          "no": "han er supersterk",
+          "en": "he is super strong"
+        },
+        {
+          "no": "et supersterkt lag",
+          "en": "a super-strong team"
+        }
+      ]
+    }
+  ]
+}

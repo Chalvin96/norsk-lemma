@@ -1,0 +1,132 @@
+{
+  "source_article_id": 107448,
+  "lemmas": [
+    {
+      "lemma": "andelseier",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 86224,
+      "is_sub_article": false,
+      "primary_translation": "co-owner",
+      "word_forms": [
+        {
+          "word_form": "andelseier",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"An$de:l$%s{*I$@r",
+              "ipa": "ˈɑndeːlˌsæ͡ɪər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "andelseieren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑndeːlsˌæ͡ɪəɳ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "andelseiere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"An$de:l$%s{*I$@$r@",
+              "ipa": "ˈɑndeːlˌsæ͡ɪərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "andelseierne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"An$de:l$%s{*I$@$n`@",
+              "ipa": "ˈɑndeːlˌsæ͡ɪəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "70403111f47c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/70403111f47c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/70403111f47c.mp3",
+            "text": "andelseier",
+            "source": "generated",
+            "content_sha256": "8aab185552908452ab70cb81c694711e452389ff480a236efa815a8ce42170f2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person, selskap eller instans som eier en andel av noe",
+      "translation": "person or company that owns a share of something",
+      "examples": [
+        {
+          "no": "selskapet er andelseier i flere oljefelt",
+          "en": "the company has ownership stakes in several oil fields"
+        },
+        {
+          "no": "kommunen er en viktig andelseier",
+          "en": "the municipality is an important shareholder"
+        },
+        {
+          "no": "andelseierne har ansvar for sin del av felleslånet",
+          "en": "the shareholders are responsible for their share of the joint loan"
+        }
+      ]
+    }
+  ]
+}

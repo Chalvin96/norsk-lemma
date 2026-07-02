@@ -1,0 +1,107 @@
+{
+  "source_article_id": 33609,
+  "lemmas": [
+    {
+      "lemma": "lam",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 39432,
+      "is_sub_article": false,
+      "primary_translation": "paralyzed",
+      "word_forms": [
+        {
+          "word_form": "lam",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAm",
+              "ipa": "ˈlɑm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lamme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA$m@",
+              "ipa": "ˈlɑmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lamt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAmt",
+              "ipa": "ˈlɑmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3ca2bc9f5c5f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ca2bc9f5c5f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ca2bc9f5c5f.mp3",
+            "text": "lam",
+            "source": "generated",
+            "content_sha256": "eadb1b38be10faaa3dad62f32a58990cc441caada5b53a1a99cfbdc8fbe665ed",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ute av stand til å bevege en eller flere kroppsdeler på grunn av skade i nervesystemet",
+      "translation": "unable to move one or more body parts due to damage to the nervous system",
+      "examples": [
+        {
+          "no": "være lam i begge beina",
+          "en": "be paralyzed in both legs"
+        },
+        {
+          "no": "være lam fra livet og ned",
+          "en": "be paralyzed from the waist down"
+        }
+      ]
+    }
+  ]
+}

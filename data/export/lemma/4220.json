@@ -1,0 +1,98 @@
+{
+  "source_article_id": 4220,
+  "lemmas": [
+    {
+      "lemma": "bakteriefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82190,
+      "is_sub_article": false,
+      "primary_translation": "germ-free / sterile",
+      "word_forms": [
+        {
+          "word_form": "bakteriefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$\"te:$rI$@$%fri:",
+              "ipa": "bɑkˈteːrɪəˌfrɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bakteriefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$\"te:$rI$@$%fri:$@",
+              "ipa": "bɑkˈteːrɪəˌfrɪːə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bakteriefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$\"te:$rI$@$%frIt",
+              "ipa": "bɑkˈteːrɪəˌfrɪt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "39531e8e2976.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39531e8e2976.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39531e8e2976.mp3",
+            "text": "bakteriefri",
+            "source": "generated",
+            "content_sha256": "19fa76cc2b579f4d5d6cb5f50e23f40b65566a249913f5b8fc9cabdd9d258bb9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten bakterier, steril",
+      "translation": "free of bacteria, sterile",
+      "examples": []
+    }
+  ]
+}

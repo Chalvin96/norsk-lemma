@@ -1,0 +1,67 @@
+{
+  "source_article_id": 108941,
+  "lemmas": [
+    {
+      "lemma": "adr.",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 84448,
+      "is_sub_article": false,
+      "primary_translation": "address (abbr.)",
+      "word_forms": [
+        {
+          "word_form": "adr.",
+          "tags_json": [
+            "ABBR"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"drE$s@",
+              "ipa": "ɑˈdrɛsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7e972e87027d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e972e87027d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e972e87027d.mp3",
+            "text": "adr.",
+            "source": "generated",
+            "content_sha256": "fa126b4c1a86d0dc9fa9e09ee88cf73cc746c0587d838cdc7aae0e0f95c16ea9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forkorting for adresse",
+      "translation": "abbreviation for address",
+      "examples": []
+    },
+    {
+      "text": "på brev: adresse hos",
+      "translation": "on a letter: address at",
+      "examples": [
+        {
+          "no": "Berit Li, adr. Arne Nes, Storgata 2",
+          "en": "Berit Li, c/o Arne Nes, Storgata 2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "source_article_id": 40798,
+  "lemmas": [
+    {
+      "lemma": "nid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47752,
+      "is_sub_article": false,
+      "primary_translation": "scorn / hatred",
+      "word_forms": [
+        {
+          "word_form": "nid",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ni:d",
+              "ipa": "ˈnɪːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nidet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈiːdə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nida",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ni:$dA",
+              "ipa": "ˈnɪːdɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nidene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈiːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "298693c3b1d8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/298693c3b1d8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/298693c3b1d8.mp3",
+            "text": "nid",
+            "source": "generated",
+            "content_sha256": "ac848b31232c8163b73d1053056328aad5c04f5ac9125c837d62bbb31f69eb6a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særlig om norrøne forhold: hån, spott, ærekrenkelse",
+      "translation": "mockery, scorn, defamation",
+      "examples": [
+        {
+          "no": "Egils nid mot kong Eirik",
+          "en": "Egil's lampoon against King Eirik"
+        }
+      ]
+    },
+    {
+      "text": "fiendskap, hat, misunnelse",
+      "translation": "enmity, hatred, envy",
+      "examples": [
+        {
+          "no": "være fylt av hat og nid",
+          "en": "be filled with hatred and malice"
+        }
+      ]
+    }
+  ]
+}

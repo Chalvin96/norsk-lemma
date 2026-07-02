@@ -1,0 +1,147 @@
+{
+  "source_article_id": 111000,
+  "lemmas": [
+    {
+      "lemma": "bankrente",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 88628,
+      "is_sub_article": false,
+      "primary_translation": "bank interest rate",
+      "word_forms": [
+        {
+          "word_form": "bankrente",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑŋkrˌɛntə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bankrenten",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$%krEn$tn=",
+              "ipa": "ˈbɑŋˌkrɛntn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bankrenter",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑŋkrˌɛntər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bankrentene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑŋkrˌɛntn̩ə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bankrenta",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑŋkrˌɛntɑ",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4e1a690332fb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e1a690332fb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e1a690332fb.mp3",
+            "text": "bankrente",
+            "source": "generated",
+            "content_sha256": "6d001753c7d8ae0d3bf6128960a1c3e85b38d4ec86562765cc2072256cd5548f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rente som en bank gir for innskudd eller tar for lån",
+      "translation": "interest rate that a bank gives for deposits or charges for loans",
+      "examples": [
+        {
+          "no": "bankrenten har økt",
+          "en": "the bank rate has increased"
+        }
+      ]
+    }
+  ]
+}

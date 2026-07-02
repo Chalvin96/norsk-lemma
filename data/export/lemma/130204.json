@@ -1,0 +1,120 @@
+{
+  "source_article_id": 130204,
+  "lemmas": [
+    {
+      "lemma": "stemmetall",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 142905,
+      "is_sub_article": false,
+      "primary_translation": "vote count",
+      "word_forms": [
+        {
+          "word_form": "stemmetall",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stE$m@$%tAl",
+              "ipa": "ˈstɛməˌtɑl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stemmetallet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stE$m@$%tA$l@",
+              "ipa": "ˈstɛməˌtɑlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stemmetalla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɛmətˌɑlɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "stemmetallene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stE$m@$%tA$ln=$@",
+              "ipa": "ˈstɛməˌtɑln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3fb69cf9ad6b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3fb69cf9ad6b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3fb69cf9ad6b.mp3",
+            "text": "stemmetall",
+            "source": "generated",
+            "content_sha256": "406b248d8b5ea3410d9d01a54c44db70c18e4052f9c09fecb4c58c6af9f4186e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "antall stemme i valg eller avstemming",
+      "translation": "number of votes in an election or referendum",
+      "examples": []
+    }
+  ]
+}

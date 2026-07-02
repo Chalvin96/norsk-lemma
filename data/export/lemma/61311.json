@@ -1,0 +1,87 @@
+{
+  "source_article_id": 61311,
+  "lemmas": [
+    {
+      "lemma": "tobasisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 70133,
+      "is_sub_article": false,
+      "primary_translation": "dibasic",
+      "word_forms": [
+        {
+          "word_form": "tobasisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tu:$%bA:$sI$sk",
+              "ipa": "ˈtuːˌbɑːsɪsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tobasiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tu:$%bA:$sI$sk@",
+              "ipa": "ˈtuːˌbɑːsɪskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a265770aa05.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a265770aa05.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a265770aa05.mp3",
+            "text": "tobasisk",
+            "source": "generated",
+            "content_sha256": "8e0915a7a8bbb11ded38303c861c38b75c8b859400d5d93d42d921fa867ba33b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i kjemi: som består av to baser eller to atomer av samme base som for hvert molekyl kan skifte ut to hydrogenatomer med metall",
+      "translation": "consisting of two bases; two atoms of the same base which can exchange two hydrogen atoms for metal per molecule",
+      "examples": [
+        {
+          "no": "tobasisk kalsiumfosfat",
+          "en": "dibasic calcium phosphate"
+        }
+      ]
+    }
+  ]
+}

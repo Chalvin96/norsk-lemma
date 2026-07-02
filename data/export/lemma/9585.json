@@ -1,0 +1,132 @@
+{
+  "source_article_id": 9585,
+  "lemmas": [
+    {
+      "lemma": "dekor",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11297,
+      "is_sub_article": false,
+      "primary_translation": "decoration / ornamentation",
+      "word_forms": [
+        {
+          "word_form": "dekor",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"ku:r",
+              "ipa": "dəˈkuːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dekoren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"ku:$n`=",
+              "ipa": "dəˈkuːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dekorer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$\"ku:$r@r",
+              "ipa": "dəˈkuːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dekorene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dəkˈuːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "851156dd90da.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/851156dd90da.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/851156dd90da.mp3",
+            "text": "dekor",
+            "source": "generated",
+            "content_sha256": "d632f7429477a763fb20a28342487839ff6a7d833821ee5d2e6292f851569f1f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dekorasjon eller kunstnerisk mønster på brukskunst, rom eller lignende",
+      "translation": "decoration or artistic pattern on applied art, rooms",
+      "examples": [
+        {
+          "no": "håndmalt dekor",
+          "en": "hand-painted decoration"
+        },
+        {
+          "no": "fargerik dekor i alle rom",
+          "en": "colorful decoration in every room"
+        },
+        {
+          "no": "dekor på porselen",
+          "en": "decoration on porcelain"
+        }
+      ]
+    }
+  ]
+}

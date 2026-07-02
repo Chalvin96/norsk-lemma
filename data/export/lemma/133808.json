@@ -1,0 +1,88 @@
+{
+  "source_article_id": 133808,
+  "lemmas": [
+    {
+      "lemma": "underprivilegert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 150237,
+      "is_sub_article": false,
+      "primary_translation": "underprivileged / neglected",
+      "word_forms": [
+        {
+          "word_form": "underprivilegert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉnərprɪʋɪlɪgˌeːʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "underprivilegerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$n@r$prI$vI$l@$%ge:$t`@",
+              "ipa": "ˈʉnərprɪvɪləˌgeːʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e45a5b36bc9d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e45a5b36bc9d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e45a5b36bc9d.mp3",
+            "text": "underprivilegert",
+            "source": "generated",
+            "content_sha256": "8ecc3f61f8b0621acc01ba570cf748dea884ed2b0da5e86577dd134761fbf9fd"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er priviligert",
+      "translation": "not privileged",
+      "examples": [
+        {
+          "no": "underpriviligerte grupper i befolkningen",
+          "en": "underprivileged groups in the population"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "source_article_id": 56207,
+  "lemmas": [
+    {
+      "lemma": "splidaktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64696,
+      "is_sub_article": false,
+      "primary_translation": "discordant",
+      "word_forms": [
+        {
+          "word_form": "splidaktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "splI$\"dAk$tI",
+              "ipa": "splɪˈdɑktɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "splidaktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "splI$\"dAk$tI$@",
+              "ipa": "splɪˈdɑktɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2497b33a781f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2497b33a781f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2497b33a781f.mp3",
+            "text": "splidaktig",
+            "source": "generated",
+            "content_sha256": "604d7d86e332a35a32b7f0efe451915ad9effc5de5f09a5190fec05d18b72882",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tilbøyelig til splid",
+      "translation": "prone to discord",
+      "examples": []
+    },
+    {
+      "text": "som er innbyrdes uenig",
+      "translation": "being in disagreement with each other",
+      "examples": [
+        {
+          "no": "et splidaktig politisk parti",
+          "en": "a divided political party"
+        }
+      ]
+    }
+  ]
+}

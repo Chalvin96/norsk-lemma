@@ -1,0 +1,111 @@
+{
+  "source_article_id": 125144,
+  "lemmas": [
+    {
+      "lemma": "polisiær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2010284,
+      "is_sub_article": false,
+      "primary_translation": "police-related",
+      "word_forms": [
+        {
+          "word_form": "polisiær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔlɪʃˈæːr",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "polisiære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pulˈiːsɪˈæːrə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "polisiært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pulˈiːsɪˈæːʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "facff6fa35a8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/facff6fa35a8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/facff6fa35a8.mp3",
+            "text": "polisiær",
+            "source": "generated",
+            "content_sha256": "842e3a3ca745ed8ab6154f0d8464397f9abe56411fb858db191b4c1630ff80c3"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder politiet",
+      "translation": "relating to the police",
+      "examples": [
+        {
+          "no": "militære og polisiære oppgaver",
+          "en": "military and police duties"
+        }
+      ]
+    }
+  ]
+}

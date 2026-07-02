@@ -1,0 +1,87 @@
+{
+  "source_article_id": 2653,
+  "lemmas": [
+    {
+      "lemma": "arkaisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3188,
+      "is_sub_article": false,
+      "primary_translation": "archaic",
+      "word_forms": [
+        {
+          "word_form": "arkaisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ar$\"kA:$I$sk",
+              "ipa": "ɑrˈkɑːɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "arkaiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ar$\"kA:$I$sk@",
+              "ipa": "ɑrˈkɑːɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "afac5332be8d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afac5332be8d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afac5332be8d.mp3",
+            "text": "arkaisk",
+            "source": "generated",
+            "content_sha256": "d4288369106e0e5535cd6c7dc45dfa86e36b4de488370cce329bdb5c8ddcd62a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gammeldags gammaldags, foreldet forelda",
+      "translation": "old-fashioned, obsolete",
+      "examples": [
+        {
+          "no": "et språk med arkaiske former",
+          "en": "a language with archaic forms"
+        }
+      ]
+    }
+  ]
+}

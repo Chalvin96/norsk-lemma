@@ -1,0 +1,122 @@
+{
+  "source_article_id": 5869,
+  "lemmas": [
+    {
+      "lemma": "bilabial",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 6871,
+      "is_sub_article": false,
+      "primary_translation": "bilabial speech sound",
+      "word_forms": [
+        {
+          "word_form": "bilabial",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bi:$lA$bI$%A:l",
+              "ipa": "ˈbɪːlɑbɪˌɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bilabialen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bi:$lA$bI$%A:$ln=",
+              "ipa": "ˈbɪːlɑbɪˌɑːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bilabialer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bi:$lA$bI$%A:$l@r",
+              "ipa": "ˈbɪːlɑbɪˌɑːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bilabialene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bi:$lA$bI$%A:$ln=$@",
+              "ipa": "ˈbɪːlɑbɪˌɑːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "486adff1bdb6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/486adff1bdb6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/486adff1bdb6.mp3",
+            "text": "bilabial",
+            "source": "generated",
+            "content_sha256": "551f4201b9c1b2a6de04e5e48d81dd0b39d8bf9ec36f0c5fa76b8b0408abc0ab",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bilabial språklyd",
+      "translation": "bilabial speech sound",
+      "examples": [
+        {
+          "no": "‘p’, ‘b’ og ‘m’ er bilabialer",
+          "en": "'p', 'b', and 'm' are bilabials"
+        }
+      ]
+    }
+  ]
+}

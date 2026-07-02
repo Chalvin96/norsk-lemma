@@ -1,0 +1,203 @@
+{
+  "source_article_id": 61018,
+  "lemmas": [
+    {
+      "lemma": "time",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 69793,
+      "is_sub_article": false,
+      "primary_translation": "hour / appointment",
+      "word_forms": [
+        {
+          "word_form": "time",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$m@",
+              "ipa": "ˈtɪːmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "timen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$m@n",
+              "ipa": "ˈtɪːmən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "timer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$m@r",
+              "ipa": "ˈtɪːmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "timene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$m@$n@",
+              "ipa": "ˈtɪːmənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b53a51756e65.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b53a51756e65.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b53a51756e65.mp3",
+            "text": "time",
+            "source": "generated",
+            "content_sha256": "1b4cb0737f9a1a4afadfdc16a97b6af7f6a434e7f9e787a9d7e77745e4632309",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tidsavsnitt på 60 minutter",
+      "translation": "time interval of 60 minutes",
+      "examples": [
+        {
+          "no": "vente i flere timer",
+          "en": "wait for several hours"
+        },
+        {
+          "no": "timene gikk",
+          "en": "the hours passed"
+        },
+        {
+          "no": "han reiser om noen timer",
+          "en": "he is leaving in a few hours"
+        },
+        {
+          "no": "tjene 165 kr i timen",
+          "en": "earn 165 kroner an hour"
+        }
+      ]
+    },
+    {
+      "text": "brukt i genitiv for å angi varighet:",
+      "translation": "used in the genitive to indicate duration",
+      "examples": [
+        {
+          "no": "det er tre timers kjøring til hytta",
+          "en": "it is a three-hour drive to the cabin"
+        },
+        {
+          "no": "foredraget varer en times tid",
+          "en": "the lecture lasts about an hour"
+        },
+        {
+          "no": "få seg noen timers søvn",
+          "en": "get a few hours of sleep"
+        }
+      ]
+    },
+    {
+      "text": "undervisningsøkt, oftest på 40 eller 45 minutter",
+      "translation": "teaching session, usually 40-45 minutes",
+      "examples": [
+        {
+          "no": "bråke i timen",
+          "en": "make noise in class"
+        },
+        {
+          "no": "komme for sent til timen",
+          "en": "be late for class"
+        }
+      ]
+    },
+    {
+      "text": "ubestemt tidsrom",
+      "translation": "indefinite period of time",
+      "examples": []
+    },
+    {
+      "text": "stund, tid",
+      "translation": "moment, time",
+      "examples": [
+        {
+          "no": "jeg trodde min siste time var kommet",
+          "en": "I thought my last hour had come"
+        },
+        {
+          "no": "hans lykkeligste time",
+          "en": "his happiest hour"
+        },
+        {
+          "no": "oppgjørets time nærmet seg",
+          "en": "the hour of reckoning was approaching"
+        }
+      ]
+    },
+    {
+      "text": "avtale der en mottar en tjeneste eller behandling",
+      "translation": "appointment for receiving a service or treatment",
+      "examples": [
+        {
+          "no": "bestille time hos frisøren",
+          "en": "book an appointment at the hairdresser's"
+        },
+        {
+          "no": "jeg har time hos legen kl. to",
+          "en": "I have a doctor's appointment at two"
+        }
+      ]
+    }
+  ]
+}

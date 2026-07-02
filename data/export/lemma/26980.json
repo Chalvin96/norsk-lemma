@@ -1,0 +1,118 @@
+{
+  "source_article_id": 26980,
+  "lemmas": [
+    {
+      "lemma": "intern",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32084,
+      "is_sub_article": false,
+      "primary_translation": "internal / external",
+      "word_forms": [
+        {
+          "word_form": "intern",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$\"t{:n`",
+              "ipa": "ɪnˈtæːɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "interne",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$\"t{:$n`@",
+              "ipa": "ɪnˈtæːɳə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "internt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$\"t{:n`t`",
+              "ipa": "ɪnˈtæːɳʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e2cc2b342935.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e2cc2b342935.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e2cc2b342935.mp3",
+            "text": "intern",
+            "source": "generated",
+            "content_sha256": "999436c475c2207db640ad71a34fc6beae06b3e014ad727ba9b94d905a58a95c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innenfor en bedrift, organisasjon eller lignende",
+      "translation": "within a company, organization",
+      "examples": [
+        {
+          "no": "nybegynnere får intern opplæring i bedriften",
+          "en": "beginners receive internal training in the company"
+        },
+        {
+          "no": "det er interne problemer i partiledelsen",
+          "en": "there are internal problems in the party leadership"
+        },
+        {
+          "no": "stillingen ble besatt ved internt opprykk",
+          "en": "the position was filled through internal promotion"
+        },
+        {
+          "no": "vanskelighetene må løses internt og uten hjelp utenfra",
+          "en": "the difficulties must be solved internally and without outside help"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "source_article_id": 23567,
+  "lemmas": [
+    {
+      "lemma": "hilse",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 27765,
+      "is_sub_article": false,
+      "primary_translation": "greet / visit / receive",
+      "word_forms": [
+        {
+          "word_form": "hilse",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$s@",
+              "ipa": "ˈhɪlsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hilser",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$s@r",
+              "ipa": "ˈhɪlsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hilses",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$s@s",
+              "ipa": "ˈhɪlsəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hilste",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$st@",
+              "ipa": "ˈhɪlstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hilst",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hIlst",
+              "ipa": "ˈhɪlst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hilsende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hIl$sn=$@",
+              "ipa": "ˈhɪlsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hils",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hIls",
+              "ipa": "ˈhɪls",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2ff6f6d04c53.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ff6f6d04c53.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ff6f6d04c53.mp3",
+            "text": "hilse",
+            "source": "generated",
+            "content_sha256": "af12748e2e386fb037510275243e2c2f804175e3e017c79ba84d68c0156997b7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ønske vel møtt eller farvel med ord eller bevegelse",
+      "translation": "greet, bid farewell with words or gesture",
+      "examples": [
+        {
+          "no": "hilse med hånden",
+          "en": "greet with the hand"
+        },
+        {
+          "no": "hilse i hånden",
+          "en": "shake hands"
+        },
+        {
+          "no": "de hilste hverandre med et kyss på kinnet",
+          "en": "they greeted each other with a kiss on the cheek"
+        },
+        {
+          "no": "den fremmede hilste ‘god kveld’ da han kom inn",
+          "en": "the stranger said ‘good evening’ when he came in"
+        }
+      ]
+    },
+    {
+      "text": "overbringe en hilsen",
+      "translation": "convey greetings",
+      "examples": [
+        {
+          "no": "hils alle kjente",
+          "en": "give my regards to everyone you know"
+        },
+        {
+          "no": "jeg skal hilse fra foreldrene mine",
+          "en": "I am to give you regards from my parents"
+        },
+        {
+          "no": "jeg skulle hilse og si takk for lånet",
+          "en": "I was to say thanks for the loan"
+        }
+      ]
+    },
+    {
+      "text": "i militæret: gjøre honnør",
+      "translation": "in the military: salute",
+      "examples": [
+        {
+          "no": "soldaten hilste med hånden til lua",
+          "en": "the soldier saluted with his hand to his cap"
+        },
+        {
+          "no": "du må stikke innom og hilse på oss en dag",
+          "en": "you must drop by and visit us one day"
+        },
+        {
+          "no": "i morgen skal jeg hilse på bestemor på sykehuset",
+          "en": "tomorrow I'm going to visit Grandma in the hospital"
+        },
+        {
+          "no": "bli hilst med sterkt bifall",
+          "en": "be greeted with strong applause"
+        }
+      ]
+    }
+  ]
+}

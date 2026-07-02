@@ -1,0 +1,128 @@
+{
+  "source_article_id": 5261,
+  "lemmas": [
+    {
+      "lemma": "bengali",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 6189,
+      "is_sub_article": false,
+      "primary_translation": "Bengali language",
+      "word_forms": [
+        {
+          "word_form": "bengali",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@N$\"gA:$lI",
+              "ipa": "bəŋˈgɑːlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bengalien",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@N$\"gA:$lI$@n",
+              "ipa": "bəŋˈgɑːlɪən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bengalier",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bəŋgˈɑːlɪər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bengaliene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bəŋgˈɑːlɪənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c55188495d70.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c55188495d70.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c55188495d70.mp3",
+            "text": "bengali",
+            "source": "generated",
+            "content_sha256": "f885b89fc75a5e9b7751f4d962f60e023640c1682b1ab7a286e141a2ce80a328",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "indoarisk språk hovedsakelig brukt i Bengal i Nord-India",
+      "translation": "Indo-Aryan language mainly spoken in Bengal in North India",
+      "examples": [
+        {
+          "no": "bengali har eget alfabet",
+          "en": "Bengali has its own alphabet"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_article_id": 5969,
+  "lemmas": [
+    {
+      "lemma": "billett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7044,
+      "is_sub_article": false,
+      "primary_translation": "ticket",
+      "word_forms": [
+        {
+          "word_form": "billett",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"lEt",
+              "ipa": "bɪˈlɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "billetten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"lE$tn=",
+              "ipa": "bɪˈlɛtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "billetter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"lE$t@r",
+              "ipa": "bɪˈlɛtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "billettene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bI$\"lE$tn=$@",
+              "ipa": "bɪˈlɛtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f3eb15e46b34.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3eb15e46b34.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3eb15e46b34.mp3",
+            "text": "billett",
+            "source": "generated",
+            "content_sha256": "82c18f81247d879a7fcb6b4fb8b87a440a9934b405a89be1fc84b1b8ca41f684",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kort eller lignende som gir adgang til offentlige transportmidler, forskjellige typer forestillinger og annet",
+      "translation": "card or similar that grants access to public transport, different types of performances, and other things",
+      "examples": [
+        {
+          "no": "mangle billett",
+          "en": "not have a ticket"
+        },
+        {
+          "no": "ha gyldig billett",
+          "en": "have a valid ticket"
+        },
+        {
+          "no": "kjøpe billetter til en teaterforestilling",
+          "en": "buy tickets for a theater performance"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source_article_id": 38508,
+  "lemmas": [
+    {
+      "lemma": "minimumstemperatur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45165,
+      "is_sub_article": false,
+      "primary_translation": "minimum temperature",
+      "word_forms": [
+        {
+          "word_form": "minimumstemperatur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mi:$nI$mu0m$st@m$prA$%t}:r",
+              "ipa": "ˈmɪːnɪmʉmstəmprɑˌtʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "minimumstemperaturen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mi:$nI$mu0m$st@m$prA$%t}:$n`=",
+              "ipa": "ˈmɪːnɪmʉmstəmprɑˌtʉːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "minimumstemperaturer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mi:$nI$mu0m$st@m$prA$%t}:$r@r",
+              "ipa": "ˈmɪːnɪmʉmstəmprɑˌtʉːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "minimumstemperaturene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mi:$nI$mu0m$st@m$prA$%t}:$n`=$@",
+              "ipa": "ˈmɪːnɪmʉmstəmprɑˌtʉːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ae027402dc1a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae027402dc1a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae027402dc1a.mp3",
+            "text": "minimumstemperatur",
+            "source": "generated",
+            "content_sha256": "85346a3a7fd733edd4516da1d24899e554418638b5c4a40de1aa5240a1b05dc6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "laveste registrerte temperatur i et visst tidsrom",
+      "translation": "lowest recorded temperature in a certain period",
+      "examples": []
+    },
+    {
+      "text": "motsatt maksimumstemperatur",
+      "translation": "opposite of maximum temperature",
+      "examples": [
+        {
+          "no": "nattens minimumstemperatur",
+          "en": "the night's minimum temperature"
+        }
+      ]
+    }
+  ]
+}

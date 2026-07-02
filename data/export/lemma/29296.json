@@ -1,0 +1,126 @@
+{
+  "source_article_id": 29296,
+  "lemmas": [
+    {
+      "lemma": "kino",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 34620,
+      "is_sub_article": false,
+      "primary_translation": "cinema / cinema screening",
+      "word_forms": [
+        {
+          "word_form": "kino",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ci:$nU",
+              "ipa": "ˈçɪːnʊ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kinoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ci:$nU$@n",
+              "ipa": "ˈçɪːnʊən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kinoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ci:$nU$@r",
+              "ipa": "ˈçɪːnʊər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kinoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ci:$nU$@$n@",
+              "ipa": "ˈçɪːnʊənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "520143a3c122.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/520143a3c122.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/520143a3c122.mp3",
+            "text": "kino",
+            "source": "generated",
+            "content_sha256": "c129d8b80d52e88ad8310adb0aa5ecb565e0bc5a34a3ed7eb257b34c2be9f172",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lokale for filmframvisning",
+      "translation": "venue for film screening",
+      "examples": [
+        {
+          "no": "byen har fem kinoer",
+          "en": "the town has five cinemas"
+        },
+        {
+          "no": "gå på kino",
+          "en": "go to the movies"
+        }
+      ]
+    }
+  ]
+}

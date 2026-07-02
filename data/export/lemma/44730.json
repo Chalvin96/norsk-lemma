@@ -1,0 +1,106 @@
+{
+  "source_article_id": 44730,
+  "lemmas": [
+    {
+      "lemma": "pernisiøs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51696,
+      "is_sub_article": false,
+      "primary_translation": "pernicious",
+      "word_forms": [
+        {
+          "word_form": "pernisiøs",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$n`I$sI$\"2:s",
+              "ipa": "pəɳɪsɪˈøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pernisiøse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$n`I$sI$\"2:$s@",
+              "ipa": "pəɳɪsɪˈøːsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pernisiøst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$n`I$sI$\"2:$st",
+              "ipa": "pəɳɪsɪˈøːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e52421a52d7e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e52421a52d7e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e52421a52d7e.mp3",
+            "text": "pernisiøs",
+            "source": "generated",
+            "content_sha256": "2d0c7aee419df6d531332ba7572b72284c55e8e78faee162b85273960e526a35",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om sykdom: farlig, ondartet ondarta",
+      "translation": "of a disease: dangerous, malignant",
+      "examples": [
+        {
+          "no": "pernisiøs anemi",
+          "en": "pernicious anemia"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "source_article_id": 126467,
+  "lemmas": [
+    {
+      "lemma": "plages",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 2860016,
+      "is_sub_article": false,
+      "primary_translation": "suffer / be tormented",
+      "word_forms": [
+        {
+          "word_form": "plages",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"plA:$g@s",
+              "ipa": "ˈplɑːgəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "plagdes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"plA:g$d@s",
+              "ipa": "ˈplɑːgdəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "de64a7f39a6c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/de64a7f39a6c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/de64a7f39a6c.mp3",
+            "text": "plages",
+            "source": "generated",
+            "content_sha256": "911c354166e856126dc9a8734f762ecf6b9a62b0df8b5f23f038a2faf8e5d57f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lide vondt",
+      "translation": "to suffer pain",
+      "examples": []
+    },
+    {
+      "text": "pines",
+      "translation": "to be tormented",
+      "examples": [
+        {
+          "no": "han plagdes med en infeksjon",
+          "en": "he suffered from an infection"
+        }
+      ]
+    }
+  ]
+}

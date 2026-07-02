@@ -1,0 +1,112 @@
+{
+  "source_article_id": 51065,
+  "lemmas": [
+    {
+      "lemma": "seriell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 58757,
+      "is_sub_article": false,
+      "primary_translation": "serial",
+      "word_forms": [
+        {
+          "word_form": "seriell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$rI$\"El",
+              "ipa": "sərɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "serielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$rI$\"E$l@",
+              "ipa": "sərɪˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "serielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$rI$\"Elt",
+              "ipa": "sərɪˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "237ea239308b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/237ea239308b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/237ea239308b.mp3",
+            "text": "seriell",
+            "source": "generated",
+            "content_sha256": "79562569e3c05a68e3c1bd3e6c3337d26da3a181f7334309d5d48e38e5218544",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som utgjør en serie",
+      "translation": "constituting a series",
+      "examples": []
+    },
+    {
+      "text": "som opptrer i serie",
+      "translation": "occurring in a series",
+      "examples": [
+        {
+          "no": "seriell produksjon",
+          "en": "serial production"
+        },
+        {
+          "no": "serielle hybridbiler",
+          "en": "series hybrid cars"
+        }
+      ]
+    }
+  ]
+}

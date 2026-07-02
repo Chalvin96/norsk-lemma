@@ -1,0 +1,195 @@
+{
+  "source_article_id": 608,
+  "lemmas": [
+    {
+      "lemma": "aktivisere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 1406,
+      "is_sub_article": false,
+      "primary_translation": "activate / get into activity",
+      "word_forms": [
+        {
+          "word_form": "aktivisere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tI$vI$\"se:$r@",
+              "ipa": "ɑktɪvɪˈseːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktiviserer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tI$vI$\"se:$r@r",
+              "ipa": "ɑktɪvɪˈseːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktiviseres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tI$vI$\"se:$r@s",
+              "ipa": "ɑktɪvɪˈseːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktiviserte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tI$vI$\"se:$t`@",
+              "ipa": "ɑktɪvɪˈseːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktivisert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tI$vI$\"se:t`",
+              "ipa": "ɑktɪvɪˈseːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktiviserende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tI$vI$\"se:$n`=$@",
+              "ipa": "ɑktɪvɪˈseːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktiviser",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tI$vI$\"se:r",
+              "ipa": "ɑktɪvɪˈseːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2625322cb8c8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2625322cb8c8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2625322cb8c8.mp3",
+            "text": "aktivisere",
+            "source": "generated",
+            "content_sha256": "3bb49009daa3c1265fa6684b8e6458c74f69b85b0365f582b55d7fb7f40dbc48",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjøre aktiv",
+      "translation": "to make active",
+      "examples": []
+    },
+    {
+      "text": "få i virksomhet",
+      "translation": "to get into activity",
+      "examples": [
+        {
+          "no": "aktivisere tenåringene i bygda",
+          "en": "get the teenagers in the village active"
+        },
+        {
+          "no": "øvinger som skal aktivisere ordforrådet",
+          "en": "exercises meant to activate the vocabulary"
+        },
+        {
+          "no": "hjelpeapparatet blir aktivisert",
+          "en": "the support services are being mobilized"
+        },
+        {
+          "no": "aktivisere alarmen",
+          "en": "activate the alarm"
+        }
+      ]
+    }
+  ]
+}

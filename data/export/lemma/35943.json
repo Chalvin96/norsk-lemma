@@ -1,0 +1,87 @@
+{
+  "source_article_id": 35943,
+  "lemmas": [
+    {
+      "lemma": "luftkondisjonert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41740,
+      "is_sub_article": false,
+      "primary_translation": "air-conditioned",
+      "word_forms": [
+        {
+          "word_form": "luftkondisjonert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0ft$kUn$dI$SU$%ne:t`",
+              "ipa": "ˈlʉftkʊndɪʃʊˌneːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "luftkondisjonerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0ft$kUn$dI$SU$%ne:$t`@",
+              "ipa": "ˈlʉftkʊndɪʃʊˌneːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "16f597d4710b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16f597d4710b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16f597d4710b.mp3",
+            "text": "luftkondisjonert",
+            "source": "generated",
+            "content_sha256": "4656d0f8896d4f1c6850682856c0292aea90533bdfd9ae6b4a244acfcd00aa8a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utstyrt med luftkondisjonering",
+      "translation": "equipped with air conditioning",
+      "examples": [
+        {
+          "no": "et luftkondisjonert rom",
+          "en": "an air-conditioned room"
+        }
+      ]
+    }
+  ]
+}

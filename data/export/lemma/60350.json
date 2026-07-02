@@ -1,0 +1,92 @@
+{
+  "source_article_id": 60350,
+  "lemmas": [
+    {
+      "lemma": "teosentrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 69017,
+      "is_sub_article": false,
+      "primary_translation": "theocentric",
+      "word_forms": [
+        {
+          "word_form": "teosentrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$U$\"sEn$trI$sk",
+              "ipa": "təʊˈsɛntrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "teosentriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$U$\"sEn$trI$sk@",
+              "ipa": "təʊˈsɛntrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a940da4c1ac5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a940da4c1ac5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a940da4c1ac5.mp3",
+            "text": "teosentrisk",
+            "source": "generated",
+            "content_sha256": "bd20c89ba6af2cb47884d2f82593050f8646468e925f42fe79a3886f80c49898",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ser alt i forhold til Gud og det guddommelige",
+      "translation": "seeing everything in relation to God and the divine",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra antroposentrisk",
+      "translation": "anthropocentric",
+      "examples": [
+        {
+          "no": "et teosentrisk livssyn",
+          "en": "a theocentric worldview"
+        }
+      ]
+    }
+  ]
+}

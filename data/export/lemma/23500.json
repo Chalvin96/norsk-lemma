@@ -1,0 +1,151 @@
+{
+  "source_article_id": 23500,
+  "lemmas": [
+    {
+      "lemma": "hevd",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 81535,
+      "is_sub_article": false,
+      "primary_translation": "maintenance / good condition / fertilizer",
+      "word_forms": [
+        {
+          "word_form": "hevd",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEvd",
+              "ipa": "ˈhɛvd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hevda",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEv$dA",
+              "ipa": "ˈhɛvdɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hevder",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEv$d@r",
+              "ipa": "ˈhɛvdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hevdene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɛʋdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hevden",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hEv$dn=",
+              "ipa": "ˈhɛvdn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "73edf0b45436.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73edf0b45436.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73edf0b45436.mp3",
+            "text": "hevd",
+            "source": "generated",
+            "content_sha256": "07addd32ec6e1aa03dd57c35acc5fbf8feb3ec52584b599815e7195788de5ca8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være vedlikeholdt",
+      "translation": "being maintained",
+      "examples": []
+    },
+    {
+      "text": "god stand",
+      "translation": "good condition",
+      "examples": [
+        {
+          "no": "enga er i god hevd",
+          "en": "the meadow is in good condition"
+        }
+      ]
+    }
+  ]
+}

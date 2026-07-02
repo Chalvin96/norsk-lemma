@@ -1,0 +1,133 @@
+{
+  "source_article_id": 20646,
+  "lemmas": [
+    {
+      "lemma": "granbar",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 24104,
+      "is_sub_article": false,
+      "primary_translation": "spruce needle",
+      "word_forms": [
+        {
+          "word_form": "granbar",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"grA:n$%bA:r",
+              "ipa": "ˈgrɑːnˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "granbaret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈɑːnbˌɑːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "granbara",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈɑːnbɑːrɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "granbarene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈɑːnbˌɑːɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9b124d252db5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9b124d252db5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9b124d252db5.mp3",
+            "text": "granbar",
+            "source": "generated",
+            "content_sha256": "49ec6d211f0ee6b6eff22f4c0079b56199bbefd7b715798d6a49850cc3993bd6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bar av gran",
+      "translation": "needle of a spruce tree",
+      "examples": [
+        {
+          "no": "bygge en hytte av granbar",
+          "en": "build a cabin out of spruce boughs"
+        },
+        {
+          "no": "pynte med granbar",
+          "en": "decorate with spruce boughs"
+        }
+      ]
+    }
+  ]
+}

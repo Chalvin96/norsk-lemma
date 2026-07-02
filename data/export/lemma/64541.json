@@ -1,0 +1,107 @@
+{
+  "source_article_id": 64541,
+  "lemmas": [
+    {
+      "lemma": "unionell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73908,
+      "is_sub_article": false,
+      "primary_translation": "union-related",
+      "word_forms": [
+        {
+          "word_form": "unionell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$nI$U$\"nEl",
+              "ipa": "ʉnɪʊˈnɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "unionelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$nI$U$\"nE$l@",
+              "ipa": "ʉnɪʊˈnɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "unionelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$nI$U$\"nElt",
+              "ipa": "ʉnɪʊˈnɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cfca533db591.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cfca533db591.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cfca533db591.mp3",
+            "text": "unionell",
+            "source": "generated",
+            "content_sha256": "21825807dfea1baf706a5bdf4e4da150f9e669d24a7a55e88fe02975c066b81f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder en union",
+      "translation": "concerning a union",
+      "examples": [
+        {
+          "no": "unionelt fellesskap",
+          "en": "union community"
+        },
+        {
+          "no": "unionelle saker",
+          "en": "union matters"
+        }
+      ]
+    }
+  ]
+}

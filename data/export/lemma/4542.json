@@ -1,0 +1,91 @@
+{
+  "source_article_id": 4542,
+  "lemmas": [
+    {
+      "lemma": "barmhjertig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5361,
+      "is_sub_article": false,
+      "primary_translation": "merciful",
+      "word_forms": [
+        {
+          "word_form": "barmhjertig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bArm$\"j{$t`I",
+              "ipa": "bɑrmˈjæʈɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "barmhjertige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bArm$\"j{$t`I$@",
+              "ipa": "bɑrmˈjæʈɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4a973fb3b544.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4a973fb3b544.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4a973fb3b544.mp3",
+            "text": "barmhjertig",
+            "source": "generated",
+            "content_sha256": "dd42e03610bbcb1798cf8ec8a9326290d74d84ce9b769557ab2440b3aa77ac60",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "godhjertet godhjerta, nådig",
+      "translation": "good-hearted, merciful",
+      "examples": [
+        {
+          "no": "ha et barmhjertig sinnelag",
+          "en": "have a merciful disposition"
+        },
+        {
+          "no": "være barmhjertig mot nødlidende",
+          "en": "be merciful to those in need"
+        }
+      ]
+    }
+  ]
+}

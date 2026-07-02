@@ -1,0 +1,135 @@
+{
+  "source_article_id": 68921,
+  "lemmas": [
+    {
+      "lemma": "vokal",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 79558,
+      "is_sub_article": false,
+      "primary_translation": "vowel sound",
+      "word_forms": [
+        {
+          "word_form": "vokal",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vU$\"kA:l",
+              "ipa": "vʊˈkɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vokalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vU$\"kA:$ln=",
+              "ipa": "vʊˈkɑːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vokaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vU$\"kA:$l@r",
+              "ipa": "vʊˈkɑːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vokalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vU$\"kA:$ln=$@",
+              "ipa": "vʊˈkɑːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c978b6a28af.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c978b6a28af.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c978b6a28af.mp3",
+            "text": "vokal",
+            "source": "generated",
+            "content_sha256": "b38b9058fb925bdfd0882ce13bab741ac31c3f2aed5e8111acf0930682111dad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stemt språklyd som en lager med artikulasjonsorganene når en lar luft strømme mer eller mindre fritt ut gjennom munnen",
+      "translation": "voiced speech sound produced with the vocal organs when allowing air to flow more or less freely out of the mouth",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra konsonant",
+      "translation": "self-sound",
+      "examples": [
+        {
+          "no": "vokalene våre er a, e, i, o, u, y, æ, ø og å",
+          "en": "our vowels are a, e, i, o, u, y, ae, oe and aa"
+        },
+        {
+          "no": "lave eller høye vokaler",
+          "en": "low or high vowels"
+        },
+        {
+          "no": "korte eller lange vokaler",
+          "en": "short or long vowels"
+        }
+      ]
+    }
+  ]
+}

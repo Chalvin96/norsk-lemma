@@ -1,0 +1,180 @@
+{
+  "source_article_id": 18205,
+  "lemmas": [
+    {
+      "lemma": "frost",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 21304,
+      "is_sub_article": false,
+      "primary_translation": "frost / coldness / frostbite",
+      "word_forms": [
+        {
+          "word_form": "frost",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frO$st",
+              "ipa": "ˈfrɔst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "frosten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frO$stn=",
+              "ipa": "ˈfrɔstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "froster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɔstər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "frostene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɔstn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5571f60daa06.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5571f60daa06.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5571f60daa06.mp3",
+            "text": "frost",
+            "source": "generated",
+            "content_sha256": "c939e5f15b2be67536439b1e63b41cc7fdf92ff387512f2be54690ec237f43ef",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "temperatur under 0 °C",
+      "translation": "temperature below 0 °C",
+      "examples": []
+    },
+    {
+      "text": "særlig om temperatur i luft, vegetasjon eller i bakken",
+      "translation": "regarding temperature in air, vegetation on the ground",
+      "examples": []
+    },
+    {
+      "text": "temperatur da vokstrer fryser eller tar skade",
+      "translation": "temperature when plants freeze and are damaged",
+      "examples": [
+        {
+          "no": "i år hadde vi 150 døgn med frost",
+          "en": "this year we had 150 days of frost"
+        },
+        {
+          "no": "potetene tåler ikke frost",
+          "en": "potatoes can't withstand frost"
+        }
+      ]
+    },
+    {
+      "text": "frossen mark",
+      "translation": "frozen ground",
+      "examples": [
+        {
+          "no": "komme frost i jorda",
+          "en": "frost getting into the ground"
+        }
+      ]
+    },
+    {
+      "text": "forfrysning, frostskade",
+      "translation": "frostbite, frost damage",
+      "examples": [
+        {
+          "no": "få frost på ørene",
+          "en": "get frostbite on the ears"
+        }
+      ]
+    },
+    {
+      "text": "kuldefølelse",
+      "translation": "feeling of cold",
+      "examples": [
+        {
+          "no": "få frosten i seg ute i kulda",
+          "en": "get chilled to the bone out in the cold"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: kulde, avvisning",
+      "translation": "coldness, rejection",
+      "examples": [
+        {
+          "no": "kjenne en plutselig frost i hjertet",
+          "en": "feel a sudden chill in the heart"
+        }
+      ]
+    }
+  ]
+}

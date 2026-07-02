@@ -1,0 +1,129 @@
+{
+  "source_article_id": 54433,
+  "lemmas": [
+    {
+      "lemma": "slide",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62719,
+      "is_sub_article": false,
+      "primary_translation": "slide (film or digital)",
+      "word_forms": [
+        {
+          "word_form": "slide",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SlA*Id",
+              "ipa": "ˈʃlɑ͡ɪd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sliden",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SlA*I$dn=",
+              "ipa": "ˈʃlɑ͡ɪdn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slides",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SlA*Ids",
+              "ipa": "ˈʃlɑ͡ɪds",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slidesene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃlˈɑ͡ɪdsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "913c727da4bb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/913c727da4bb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/913c727da4bb.mp3",
+            "text": "slide",
+            "source": "generated",
+            "content_sha256": "426455e0879e962fc2651fc0fb05264de781e5de76617e1a31ccdcd9ee9ea36e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lysbilde av positiv film",
+      "translation": "slide of positive film",
+      "examples": []
+    },
+    {
+      "text": "digitalt lysbilde som for eksempel blir vist i en presentasjon",
+      "translation": "digital slide, e.g., shown in a presentation",
+      "examples": [
+        {
+          "no": "foredragsholderen hadde mange slides",
+          "en": "the speaker had many slides"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 57518,
+  "lemmas": [
+    {
+      "lemma": "strafferettslig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 65864,
+      "is_sub_article": false,
+      "primary_translation": "criminal law-related",
+      "word_forms": [
+        {
+          "word_form": "strafferettslig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"strA$f@$%rEt$slI",
+              "ipa": "ˈstrɑfəˌrɛtslɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "strafferettslige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"strA$f@$%rEt$slI$@",
+              "ipa": "ˈstrɑfəˌrɛtslɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5fcf024c08cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5fcf024c08cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5fcf024c08cf.mp3",
+            "text": "strafferettslig",
+            "source": "generated",
+            "content_sha256": "b77d6081fc3a02a6d8d164ac1711f327b288aa807fa479fcece584dec604315b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som vedrører strafferett",
+      "translation": "relating to criminal law",
+      "examples": [
+        {
+          "no": "forholdene er strafferettslig foreldet",
+          "en": "the circumstances are barred by the statute of limitations under criminal law"
+        },
+        {
+          "no": "strafferettslig rekasjon",
+          "en": "criminal-law reaction"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "source_article_id": 33141,
+  "lemmas": [
+    {
+      "lemma": "kvell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 38867,
+      "is_sub_article": false,
+      "primary_translation": "shrill",
+      "word_forms": [
+        {
+          "word_form": "kvell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kvEl",
+              "ipa": "ˈkvɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kvelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvE$l@",
+              "ipa": "ˈkvɛlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kvelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kve:lt",
+              "ipa": "ˈkveːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fd00b0432437.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd00b0432437.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd00b0432437.mp3",
+            "text": "kvell",
+            "source": "generated",
+            "content_sha256": "a57c393b3a6083db19ba1acb6eca417bb68029f468c7f9d67ce6067015cf4a81",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kvinende, skingrende",
+      "translation": "shrill, piercing",
+      "examples": [
+        {
+          "no": "være kvell i målet",
+          "en": "have a shrill voice"
+        }
+      ]
+    }
+  ]
+}

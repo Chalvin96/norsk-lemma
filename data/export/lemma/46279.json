@@ -1,0 +1,191 @@
+{
+  "source_article_id": 46279,
+  "lemmas": [
+    {
+      "lemma": "privat",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 53294,
+      "is_sub_article": false,
+      "primary_translation": "private / personal",
+      "word_forms": [
+        {
+          "word_form": "privat",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prI$\"vA:t",
+              "ipa": "prɪˈvɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "private",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prI$\"vA:$t@",
+              "ipa": "prɪˈvɑːtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "privatere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prɪʋˈɑːtərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "privatest",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prɪʋˈɑːtəst",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "privateste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prɪʋˈɑːtəstə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "234a616674b7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/234a616674b7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/234a616674b7.mp3",
+            "text": "privat",
+            "source": "generated",
+            "content_sha256": "3007dd38de0dc3015d8aad75e9dc85437cacaaafb0ef5f1f5fb7b0c33c287973",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke hører til eller gjelder det offentlige",
+      "translation": "not concerning the public",
+      "examples": [
+        {
+          "no": "privat eiendom",
+          "en": "private property"
+        },
+        {
+          "no": "private foretak",
+          "en": "private companies"
+        },
+        {
+          "no": "undervise noen privat",
+          "en": "give someone private lessons"
+        }
+      ]
+    },
+    {
+      "text": "som bare vedkommer den enkelte",
+      "translation": "concerning only the individual",
+      "examples": []
+    },
+    {
+      "text": "personlig",
+      "translation": "personal",
+      "examples": [
+        {
+          "no": "en privat sak",
+          "en": "a private matter"
+        },
+        {
+          "no": "ha sin private mening",
+          "en": "have one's private opinion"
+        },
+        {
+          "no": "dyrke sine private interesser",
+          "en": "pursue one's private interests"
+        }
+      ]
+    },
+    {
+      "text": "som ikke er tilgjengelig for publikum i sin alminnelighet",
+      "translation": "not generally available to the public",
+      "examples": [
+        {
+          "no": "en privat fest",
+          "en": "a private party"
+        },
+        {
+          "no": "en privat forestilling",
+          "en": "a private performance"
+        }
+      ]
+    }
+  ]
+}

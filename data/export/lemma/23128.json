@@ -1,0 +1,73 @@
+{
+  "source_article_id": 23128,
+  "lemmas": [
+    {
+      "lemma": "helvetes",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27278,
+      "is_sub_article": false,
+      "primary_translation": "hellish / curse word",
+      "word_forms": [
+        {
+          "word_form": "helvetes",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEl$v@$t@s",
+              "ipa": "ˈhɛlvətəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "30991c464781.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/30991c464781.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/30991c464781.mp3",
+            "text": "helvetes",
+            "source": "generated",
+            "content_sha256": "9a71e2e417e98cb0b278ed0c87bc0b330ac7d6d3ea2448689f66fb923e739de6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt som bannord",
+      "translation": "used as a curse word",
+      "examples": [
+        {
+          "no": "din helvetes satan!",
+          "en": "you hellish Satan!"
+        },
+        {
+          "no": "den helvetes idioten!",
+          "en": "that damn idiot!"
+        }
+      ]
+    }
+  ]
+}

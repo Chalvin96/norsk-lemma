@@ -1,0 +1,125 @@
+{
+  "source_article_id": 107814,
+  "lemmas": [
+    {
+      "lemma": "bolighus",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 91275,
+      "is_sub_article": false,
+      "primary_translation": "residential house",
+      "word_forms": [
+        {
+          "word_form": "bolighus",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:$lI$%h}:s",
+              "ipa": "ˈbuːlɪˌhʉːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bolighuset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:$lI$%h}:$s@",
+              "ipa": "ˈbuːlɪˌhʉːsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bolighusa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuːlɪhˌʉːsɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bolighusene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:$lI$%h}:$sn=$@",
+              "ipa": "ˈbuːlɪˌhʉːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d193ce1e2b98.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d193ce1e2b98.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d193ce1e2b98.mp3",
+            "text": "bolighus",
+            "source": "generated",
+            "content_sha256": "1a4ad2d5f8082c6eebd6707c5b977e1739aa3a07e946502e385d1c79372ebc99",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hus som brukes til bolig",
+      "translation": "house used for residence",
+      "examples": [
+        {
+          "no": "et bolighus ble totalskadd i brann",
+          "en": "a house was completely destroyed in a fire"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "source_article_id": 21617,
+  "lemmas": [
+    {
+      "lemma": "gunst",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 25257,
+      "is_sub_article": false,
+      "primary_translation": "favor / goodwill",
+      "word_forms": [
+        {
+          "word_form": "gunst",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gu0nst",
+              "ipa": "ˈgʉnst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gunsten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gu0n$stn=",
+              "ipa": "ˈgʉnstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gunster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʉnstər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gunstene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʉnstn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a3f1d5542d68.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3f1d5542d68.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3f1d5542d68.mp3",
+            "text": "gunst",
+            "source": "generated",
+            "content_sha256": "9efbc5e0df0a4b702a4bb56a9947c728fd093bb44166bce096bf14dee0fcd966",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "velvilje, yndest",
+      "translation": "benevolence, favor",
+      "examples": [
+        {
+          "no": "nyte noens gunst",
+          "en": "enjoy someone's favor"
+        },
+        {
+          "no": "vinne noens gunst",
+          "en": "win someone's favor"
+        },
+        {
+          "no": "stå i noens gunst",
+          "en": "stand in someone's favor"
+        }
+      ]
+    },
+    {
+      "text": "fordel, favør",
+      "translation": "advantage, favor",
+      "examples": [
+        {
+          "no": "si noe til gunst for noen",
+          "en": "say something in someone's favor"
+        }
+      ]
+    }
+  ]
+}

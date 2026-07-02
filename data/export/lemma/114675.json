@@ -1,0 +1,128 @@
+{
+  "source_article_id": 114675,
+  "lemmas": [
+    {
+      "lemma": "gamer",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 165063,
+      "is_sub_article": false,
+      "primary_translation": "gamer",
+      "word_forms": [
+        {
+          "word_form": "gamer",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gɑmər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gameren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gɑməɳ",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gamere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"g{*I$m@$r@",
+              "ipa": "ˈgæ͡ɪmərə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gamerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gɑməɳə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a6a0fa652c3e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6a0fa652c3e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a6a0fa652c3e.mp3",
+            "text": "gamer",
+            "source": "generated",
+            "content_sha256": "90cdbf393c18a7cbb936bf87aaf4116d80c46edf9f3e4a71d44e99a3e0ed28a9"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som game",
+      "translation": "person who games",
+      "examples": [
+        {
+          "no": "reise verden rundt som profesjonell gamer",
+          "en": "travel around the world as a professional gamer"
+        },
+        {
+          "no": "gamere som spiller skytespill",
+          "en": "gamers who play shooter games"
+        }
+      ]
+    }
+  ]
+}

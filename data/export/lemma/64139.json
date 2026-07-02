@@ -1,0 +1,131 @@
+{
+  "source_article_id": 64139,
+  "lemmas": [
+    {
+      "lemma": "ultralyd",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 73465,
+      "is_sub_article": false,
+      "primary_translation": "ultrasound",
+      "word_forms": [
+        {
+          "word_form": "ultralyd",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0l$trA$%ly:d",
+              "ipa": "ˈʉltrɑˌlyːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ultralyden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0l$trA$%ly:$dn=",
+              "ipa": "ˈʉltrɑˌlyːdn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ultralyder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0l$trA$%ly:$d@r",
+              "ipa": "ˈʉltrɑˌlyːdər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ultralydene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"u0l$trA$%ly:$dn=$@",
+              "ipa": "ˈʉltrɑˌlyːdn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5e313ae01173.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5e313ae01173.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5e313ae01173.mp3",
+            "text": "ultralyd",
+            "source": "generated",
+            "content_sha256": "1db98028546bec4945a019d46e739fd83951ba8c8e3d2e3e5003d80208e97092",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lydbølger med så høyt svingetall at mennesker ikke kan oppfatte dem",
+      "translation": "sound waves with a frequency so high that humans cannot perceive them",
+      "examples": []
+    },
+    {
+      "text": "medisinsk undersøkelse av for eksempel organ eller foster med apparat som utnytter ultralyd",
+      "translation": "medical examination of an organ or fetus using an apparatus that utilizes ultrasound",
+      "examples": [
+        {
+          "no": "ha time til ultralyd",
+          "en": "have an ultrasound appointment"
+        },
+        {
+          "no": "rutinemessig ultralyd",
+          "en": "routine ultrasound"
+        }
+      ]
+    }
+  ]
+}

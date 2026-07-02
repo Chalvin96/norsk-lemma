@@ -1,0 +1,126 @@
+{
+  "source_article_id": 39036,
+  "lemmas": [
+    {
+      "lemma": "mora",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45785,
+      "is_sub_article": false,
+      "primary_translation": "default / moratory interest",
+      "word_forms": [
+        {
+          "word_form": "mora",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu:$rA",
+              "ipa": "ˈmuːrɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "moraen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mu:$rA$@n",
+              "ipa": "ˈmuːrɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "moraer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈuːrɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "moraene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈuːrɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "16d94f322460.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16d94f322460.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16d94f322460.mp3",
+            "text": "mora",
+            "source": "generated",
+            "content_sha256": "15a3f6e78647dd080581c7a721bdb327c25e5c93566472dbfe0af05e8932aec3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i jus: forsinkelse med eller unnlatelse av å oppfylle bestemmelser i en kontrakt til rett tid",
+      "translation": "in: delay with failure to fulfill the provisions of a contract at the right time",
+      "examples": []
+    },
+    {
+      "text": "jamfør morarente",
+      "translation": "moratory interest",
+      "examples": []
+    }
+  ]
+}

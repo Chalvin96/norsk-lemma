@@ -1,0 +1,130 @@
+{
+  "source_article_id": 68014,
+  "lemmas": [
+    {
+      "lemma": "vest",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 78530,
+      "is_sub_article": false,
+      "primary_translation": "waistcoat",
+      "word_forms": [
+        {
+          "word_form": "vest",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vE$st",
+              "ipa": "ˈvɛst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vesten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vE$stn=",
+              "ipa": "ˈvɛstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vester",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$st@r",
+              "ipa": "ˈvɛstər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vestene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$stn=$@",
+              "ipa": "ˈvɛstn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "59d93f5e6f8e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59d93f5e6f8e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/59d93f5e6f8e.mp3",
+            "text": "vest",
+            "source": "generated",
+            "content_sha256": "268348fe5819daef24bb483cbb6adff3de669467638df60bef3120e59a56051d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "midjelangt klesplagg uten ermer",
+      "translation": "waist-length sleeveless garment",
+      "examples": [
+        {
+          "no": "dress med vest",
+          "en": "a suit with a vest"
+        },
+        {
+          "no": "en strikket vest",
+          "en": "a knitted vest"
+        },
+        {
+          "no": "politiet hadde på seg skuddsikre vester",
+          "en": "the police were wearing bulletproof vests"
+        }
+      ]
+    }
+  ]
+}

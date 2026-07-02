@@ -1,0 +1,133 @@
+{
+  "source_article_id": 7432,
+  "lemmas": [
+    {
+      "lemma": "brennbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 8772,
+      "is_sub_article": false,
+      "primary_translation": "flammable / combustible",
+      "word_forms": [
+        {
+          "word_form": "brennbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEn$%bA:r",
+              "ipa": "ˈbrɛnˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brennbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEn$%bA:$r@",
+              "ipa": "ˈbrɛnˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brennbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEn$%bA:t`",
+              "ipa": "ˈbrɛnˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43253cf1b77a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43253cf1b77a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43253cf1b77a.mp3",
+            "text": "brennbar",
+            "source": "generated",
+            "content_sha256": "d03950dbfa3d86a6d085f1a73e3e41b3354b1a4ff15c3c1e36d12aabee473ed1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan brenne",
+      "translation": "that can burn",
+      "examples": []
+    },
+    {
+      "text": "som lett antennes",
+      "translation": "that ignites easily",
+      "examples": [
+        {
+          "no": "brennbar væske",
+          "en": "flammable liquid"
+        },
+        {
+          "no": "en brennbar gass",
+          "en": "a flammable gas"
+        },
+        {
+          "no": "fjernvarmeanlegg basert på brennbart avfall",
+          "en": "district heating plants based on combustible waste"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: som lett kan utløse en konflikt",
+      "translation": "that can easily trigger a conflict",
+      "examples": [
+        {
+          "no": "et brennbart spørsmål",
+          "en": "an explosive issue"
+        },
+        {
+          "no": "brennbare politiske temaer",
+          "en": "explosive political issues"
+        }
+      ]
+    }
+  ]
+}

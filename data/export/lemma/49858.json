@@ -1,0 +1,130 @@
+{
+  "source_article_id": 49858,
+  "lemmas": [
+    {
+      "lemma": "same",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 57206,
+      "is_sub_article": false,
+      "primary_translation": "Sami person",
+      "word_forms": [
+        {
+          "word_form": "same",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA:$m@",
+              "ipa": "ˈsɑːmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "samen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA:$m@n",
+              "ipa": "ˈsɑːmən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "samer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA:$m@r",
+              "ipa": "ˈsɑːmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "samene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA:$m@$n@",
+              "ipa": "ˈsɑːmənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "350528f4e003.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/350528f4e003.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/350528f4e003.mp3",
+            "text": "same",
+            "source": "generated",
+            "content_sha256": "9fe07922a29f6388d71b758838ef3ef632a849a8e5d0a8f3402d14f19c1971fd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som hører til et urfolk som tradisjonelt har vært bosatt i Norge (fra Femundsmarka og nordover), i de nordlige delene av Sverige og Finland og på Kolahalvøya",
+      "translation": "person belonging to an indigenous people traditionally residing in Norway (from Femundsmarka northwards), in the northern parts of Sweden and Finland, and on the Kola Peninsula",
+      "examples": [
+        {
+          "no": "samer som driver med reindrift",
+          "en": "Sami who practice reindeer herding"
+        },
+        {
+          "no": "mange samer bor i byene",
+          "en": "many Sami live in the cities"
+        },
+        {
+          "no": "samene i Norge har blitt utsatt for en hard fornorskingspolitikk",
+          "en": "the Sami in Norway have been subjected to a harsh Norwegianization policy"
+        }
+      ]
+    }
+  ]
+}

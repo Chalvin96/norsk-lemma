@@ -1,0 +1,139 @@
+{
+  "source_article_id": 44005,
+  "lemmas": [
+    {
+      "lemma": "panikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 50961,
+      "is_sub_article": false,
+      "primary_translation": "panic",
+      "word_forms": [
+        {
+          "word_form": "panikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$\"nIk",
+              "ipa": "pɑˈnɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "panikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$\"nI$k@n",
+              "ipa": "pɑˈnɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "panikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɑnˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "panikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɑnˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e79f7e88577a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e79f7e88577a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e79f7e88577a.mp3",
+            "text": "panikk",
+            "source": "generated",
+            "content_sha256": "4606e625fd0193239a9721a643e172c9ee590cc648be7fe142832e63b576665e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "plutselig, sterk og sanseløs redsel",
+      "translation": "sudden, strong, and senseless fear",
+      "examples": []
+    },
+    {
+      "text": "plutselig redsel og forvirring",
+      "translation": "sudden fear and confusion",
+      "examples": [
+        {
+          "no": "bli grepet av panikk",
+          "en": "be gripped by panic"
+        },
+        {
+          "no": "mengden flyktet i panikk",
+          "en": "the crowd fled in panic"
+        },
+        {
+          "no": "det brøt ut panikk om bord",
+          "en": "panic broke out on board"
+        }
+      ]
+    }
+  ]
+}

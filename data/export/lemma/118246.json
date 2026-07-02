@@ -1,0 +1,88 @@
+{
+  "source_article_id": 118246,
+  "lemmas": [
+    {
+      "lemma": "ionisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 110561,
+      "is_sub_article": false,
+      "primary_translation": "ionic",
+      "word_forms": [
+        {
+          "word_form": "ionisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪunɪsk",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ioniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪunɪskə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "69c218b54191.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69c218b54191.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69c218b54191.mp3",
+            "text": "ionisk",
+            "source": "generated",
+            "content_sha256": "85b83e02cd7c43b213924e0bc051186acec636a8dbdb35fe514588d0984a1b53"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller har sammenheng med ion",
+      "translation": "relating to or connected with ions",
+      "examples": [
+        {
+          "no": "ioniske røykvarslere",
+          "en": "ionic smoke detectors"
+        }
+      ]
+    }
+  ]
+}

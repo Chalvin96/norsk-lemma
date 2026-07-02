@@ -1,0 +1,103 @@
+{
+  "source_article_id": 130429,
+  "lemmas": [
+    {
+      "lemma": "styggfort",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 143880,
+      "is_sub_article": false,
+      "primary_translation": "very fast / ugly",
+      "word_forms": [
+        {
+          "word_form": "styggfort",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stYg$%fUt`",
+              "ipa": "ˈstʏgˌfʊʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "styggforte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈʏgfˌuʈə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ae550eab8052.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae550eab8052.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae550eab8052.mp3",
+            "text": "styggfort",
+            "source": "generated",
+            "content_sha256": "d460f927281efc97ffc41cd18db1a6a845336e584919f26a1d74e7ca7fb709df",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært fort",
+      "translation": "very fast",
+      "examples": []
+    },
+    {
+      "text": "brennfort, lynfort",
+      "translation": "blazingly fast, lightning fast",
+      "examples": []
+    },
+    {
+      "text": "jamfør stygg",
+      "translation": "ugly",
+      "examples": [
+        {
+          "no": "den styggforte ferden",
+          "en": "the breakneck journey"
+        },
+        {
+          "no": "gå styggfort",
+          "en": "go breakneck fast"
+        }
+      ]
+    }
+  ]
+}

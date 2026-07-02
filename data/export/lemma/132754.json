@@ -1,0 +1,127 @@
+{
+  "source_article_id": 132754,
+  "lemmas": [
+    {
+      "lemma": "jeg-person",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 111012,
+      "is_sub_article": false,
+      "primary_translation": "first-person narrator",
+      "word_forms": [
+        {
+          "word_form": "jeg-person",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈæ͡ɪpəʂˌuːn",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "jeg-personen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"j{*I$p@$%s`u:$nn=",
+              "ipa": "ˈjæ͡ɪpəˌʂuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "jeg-personer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈæ͡ɪpəʂˌuːnər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "jeg-personene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈæ͡ɪpəʂˌuːnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5240918fb261.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5240918fb261.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5240918fb261.mp3",
+            "text": "jeg-person",
+            "source": "generated",
+            "content_sha256": "884e414e9f31b5bdd337f006c7170d4acfc3fdb40c450e97aa3bde759e930dde"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hovedkarakter i et litterært verk som blir skrevet om i jeg-form",
+      "translation": "main character in a literary work written in the first person",
+      "examples": [
+        {
+          "no": "jeg-personen i boka er en mismodig forfatter",
+          "en": "the first-person narrator in the book is a melancholy writer"
+        }
+      ]
+    }
+  ]
+}

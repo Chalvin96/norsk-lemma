@@ -1,0 +1,122 @@
+{
+  "source_article_id": 19327,
+  "lemmas": [
+    {
+      "lemma": "G-dur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 518,
+      "is_sub_article": false,
+      "primary_translation": "G major",
+      "word_forms": [
+        {
+          "word_form": "G-dur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ge:$%d}:r",
+              "ipa": "ˈgeːˌdʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "G-duren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ge:$%d}:$n`=",
+              "ipa": "ˈgeːˌdʉːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "G-durer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ge:$%d}:$r@r",
+              "ipa": "ˈgeːˌdʉːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "G-durene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ge:$%d}:$n`=$@",
+              "ipa": "ˈgeːˌdʉːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c6aa6b8d9f1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c6aa6b8d9f1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c6aa6b8d9f1.mp3",
+            "text": "G-dur",
+            "source": "generated",
+            "content_sha256": "fe414f078d1a9e8a27b3688058576210f9ae48d49f765fc6f32a2496b16899b2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "toneart med G g til grunntone og kryss for f",
+      "translation": "key with G as the tonic and F sharp",
+      "examples": []
+    },
+    {
+      "text": "parallelltoneart til e-moll",
+      "translation": "relative major key to E minor",
+      "examples": []
+    }
+  ]
+}

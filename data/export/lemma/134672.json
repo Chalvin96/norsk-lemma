@@ -1,0 +1,131 @@
+{
+  "source_article_id": 134672,
+  "lemmas": [
+    {
+      "lemma": "verdensarv",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2214594,
+      "is_sub_article": false,
+      "primary_translation": "world heritage",
+      "word_forms": [
+        {
+          "word_form": "verdensarv",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{r$dn=$%sArv",
+              "ipa": "ˈværdn̩ˌsɑrv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "verdensarven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{r$dn=$%sAr$v@n",
+              "ipa": "ˈværdn̩ˌsɑrvən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "verdensarver",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈærdn̩sɑrʋər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "verdensarvene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈærdn̩sɑrʋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "724bcfe1aead.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/724bcfe1aead.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/724bcfe1aead.mp3",
+            "text": "verdensarv",
+            "source": "generated",
+            "content_sha256": "619fae550164554eb984fe25f52f9836c1a6a671d885dbefa8eeea9687f87268",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kulturminne eller naturområde som er av betydning for verdenen og derfor må vernes",
+      "translation": "cultural monument or natural area of global significance that must be protected",
+      "examples": []
+    },
+    {
+      "text": "jamfør verdensarvliste",
+      "translation": "World Heritage List",
+      "examples": [
+        {
+          "no": "Røros bergstad har status som verdensarv",
+          "en": "the mining town of Roros has World Heritage status"
+        }
+      ]
+    }
+  ]
+}

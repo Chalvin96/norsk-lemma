@@ -1,0 +1,97 @@
+{
+  "source_article_id": 66701,
+  "lemmas": [
+    {
+      "lemma": "varmblodig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 76679,
+      "is_sub_article": false,
+      "primary_translation": "warm-blooded / temperamental",
+      "word_forms": [
+        {
+          "word_form": "varmblodig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vArm$%blu:$dI",
+              "ipa": "ˈvɑrmˌbluːdɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmblodige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vArm$%blu:$dI$@",
+              "ipa": "ˈvɑrmˌbluːdɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "64a326b832ee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64a326b832ee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64a326b832ee.mp3",
+            "text": "varmblodig",
+            "source": "generated",
+            "content_sha256": "f14d7d8b44f6bfcf1e065a9a830996737a8ec9ad8fed844cbe1b2d38b3cdc5f2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i zoologi: som har (forholdsvis) konstant kroppstemperatur",
+      "translation": "having (relatively) constant body temperature",
+      "examples": [
+        {
+          "no": "pattedyr og fugler er varmblodige",
+          "en": "mammals and birds are warm-blooded"
+        }
+      ]
+    },
+    {
+      "text": "følsom, temperamentfull",
+      "translation": "sensitive, temperamental",
+      "examples": [
+        {
+          "no": "en varmblodig mann",
+          "en": "a warm-blooded man"
+        }
+      ]
+    }
+  ]
+}

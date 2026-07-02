@@ -1,0 +1,131 @@
+{
+  "source_article_id": 131773,
+  "lemmas": [
+    {
+      "lemma": "terrengforhold",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 145879,
+      "is_sub_article": false,
+      "primary_translation": "terrain conditions",
+      "word_forms": [
+        {
+          "word_form": "terrengforhold",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$\"rEN$fOr$%hOl",
+              "ipa": "təˈrɛŋfɔrˌhɔl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "terrengforholdet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tərˈɛŋfɔrhˌɔlə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "terrengforholda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tərˈɛŋfɔrhˌɔlɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "terrengforholdene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$\"rEN$fOr$%hO$ln=$@",
+              "ipa": "təˈrɛŋfɔrˌhɔln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6f61ad820b32.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6f61ad820b32.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6f61ad820b32.mp3",
+            "text": "terrengforhold",
+            "source": "generated",
+            "content_sha256": "7ae84b85692456f4b664821945b5a9cf636be50de2562bfb2a4d95520454083f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forhold i terrenget som gjør det mer eller mindre framkommelig",
+      "translation": "conditions of the terrain that make it more or less passable",
+      "examples": [
+        {
+          "no": "vanskelige terrengforhold",
+          "en": "difficult terrain conditions"
+        },
+        {
+          "no": "området har gunstige terrengforhold",
+          "en": "the area has favorable terrain conditions"
+        }
+      ]
+    }
+  ]
+}

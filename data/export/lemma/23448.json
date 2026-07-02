@@ -1,0 +1,153 @@
+{
+  "source_article_id": 23448,
+  "lemmas": [
+    {
+      "lemma": "hestekraft",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 27639,
+      "is_sub_article": false,
+      "primary_translation": "horsepower",
+      "word_forms": [
+        {
+          "word_form": "hestekraft",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hE$st@$%krAft",
+              "ipa": "ˈhɛstəˌkrɑft",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hestekraften",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hE$st@$%krAf$tn=",
+              "ipa": "ˈhɛstəˌkrɑftn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hestekrefter",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hE$st@$%krEf$t@r",
+              "ipa": "ˈhɛstəˌkrɛftər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hestekreftene",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hE$st@$%krEf$tn=$@",
+              "ipa": "ˈhɛstəˌkrɛftn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hestekrafta",
+          "tags_json": [
+            "Fem",
+            "m., f.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hE$st@$%krAf$tA",
+              "ipa": "ˈhɛstəˌkrɑftɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bb5ecffabee3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bb5ecffabee3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bb5ecffabee3.mp3",
+            "text": "hestekraft",
+            "source": "generated",
+            "content_sha256": "c375339d88535cf1475cad7ae1aa812e93472fdb64a09b7846d26455a213faff",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enhet for effekt i det tekniske målsystem (= 75 kilopondmeter per sek = 736 watt)",
+      "translation": "unit of power (75 kilopondmeters per second = 736 watts)",
+      "examples": []
+    },
+    {
+      "text": "symbol hk",
+      "translation": "symbol hp",
+      "examples": [
+        {
+          "no": "motoren yter 85 hestekrefter",
+          "en": "the engine produces 85 horsepower"
+        },
+        {
+          "no": "en 85 hestekrefters motor",
+          "en": "an 85-horsepower engine"
+        }
+      ]
+    }
+  ]
+}

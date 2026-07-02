@@ -1,0 +1,134 @@
+{
+  "source_article_id": 8203,
+  "lemmas": [
+    {
+      "lemma": "business",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 9774,
+      "is_sub_article": false,
+      "primary_translation": "business / affair",
+      "word_forms": [
+        {
+          "word_form": "business",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bI$snIs",
+              "ipa": "ˈbɪsnɪs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "businessen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bI$snI$sn=",
+              "ipa": "ˈbɪsnɪsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "businesser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɪsnɪsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "businessene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɪsnɪsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f07b2cae8f7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f07b2cae8f7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f07b2cae8f7.mp3",
+            "text": "business",
+            "source": "generated",
+            "content_sha256": "3a7c982fd058ed765ac9c10dc197aa01c0abe8905cf03131b5f5a321d1a39069",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forretningsvirksomhet (som gir fortjeneste)",
+      "translation": "business activity (that yields profit)",
+      "examples": [
+        {
+          "no": "cruiseturisme er god business",
+          "en": "cruise tourism is good business"
+        },
+        {
+          "no": "gjøre business på noe",
+          "en": "do business with something"
+        },
+        {
+          "no": "det er ikke min business",
+          "en": "that's none of my business"
+        }
+      ]
+    }
+  ]
+}

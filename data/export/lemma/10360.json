@@ -1,0 +1,106 @@
+{
+  "source_article_id": 10360,
+  "lemmas": [
+    {
+      "lemma": "distributiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12102,
+      "is_sub_article": false,
+      "primary_translation": "distributive",
+      "word_forms": [
+        {
+          "word_form": "distributiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"strI$bu0$%ti:v",
+              "ipa": "dɪˈstrɪbʉˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "distributive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"strI$bu0$%ti:$v@",
+              "ipa": "dɪˈstrɪbʉˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "distributivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"strI$bu0$%ti:vt",
+              "ipa": "dɪˈstrɪbʉˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0b00871fec95.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0b00871fec95.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0b00871fec95.mp3",
+            "text": "distributiv",
+            "source": "generated",
+            "content_sha256": "e3a6e4978e37130a29e4da80f264ef1083cacadae962ab1f9672182295ba8505",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "inndelende, fordelende",
+      "translation": "dividing, distributing",
+      "examples": [
+        {
+          "no": "forhandlinger kan veksle mellom distributive og integrative faser",
+          "en": "negotiations can alternate between distributive and integrative phases"
+        }
+      ]
+    }
+  ]
+}

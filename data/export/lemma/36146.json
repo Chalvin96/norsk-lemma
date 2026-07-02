@@ -1,0 +1,96 @@
+{
+  "source_article_id": 36146,
+  "lemmas": [
+    {
+      "lemma": "luthersk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41960,
+      "is_sub_article": false,
+      "primary_translation": "Lutheran",
+      "word_forms": [
+        {
+          "word_form": "luthersk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0$t@$s`k",
+              "ipa": "ˈlʉtəʂk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lutherske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lu0$t@$s`k@",
+              "ipa": "ˈlʉtəʂkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a998cb55841.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a998cb55841.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a998cb55841.mp3",
+            "text": "luthersk",
+            "source": "generated",
+            "content_sha256": "f3773309ca582b21eae47e160dfc209f2732994ac7d426fdbe98a2c58d21522e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Martin Luther og lutherdom",
+      "translation": "relating to Martin Luther and Lutheranism",
+      "examples": []
+    },
+    {
+      "text": "jamfør protestantisk",
+      "translation": "Protestant",
+      "examples": [
+        {
+          "no": "luthersk teologi",
+          "en": "Lutheran theology"
+        },
+        {
+          "no": "luthersk lære",
+          "en": "Lutheran doctrine"
+        }
+      ]
+    }
+  ]
+}

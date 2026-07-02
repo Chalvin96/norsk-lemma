@@ -1,0 +1,91 @@
+{
+  "source_article_id": 125739,
+  "lemmas": [
+    {
+      "lemma": "påtatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 130411,
+      "is_sub_article": false,
+      "primary_translation": "feigned",
+      "word_forms": [
+        {
+          "word_form": "påtatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%tAt",
+              "ipa": "ˈpoːˌtɑt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "påtatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%tA$t@",
+              "ipa": "ˈpoːˌtɑtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ea9e0fffe818.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea9e0fffe818.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea9e0fffe818.mp3",
+            "text": "påtatt",
+            "source": "generated",
+            "content_sha256": "2bc608247cedcd42bd291ad2fe4d0f778981c56e6d28c1360d56f69eb4b5b3b9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "falsk, unaturlig, uekte",
+      "translation": "false, unnatural, fake",
+      "examples": [
+        {
+          "no": "et påtatt smil",
+          "en": "a forced smile"
+        },
+        {
+          "no": "foreldrenes påtatte optimisme",
+          "en": "the parents' affected optimism"
+        }
+      ]
+    }
+  ]
+}

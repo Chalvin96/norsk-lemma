@@ -1,0 +1,103 @@
+{
+  "source_article_id": 10231,
+  "lemmas": [
+    {
+      "lemma": "dirkefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11971,
+      "is_sub_article": false,
+      "primary_translation": "pickproof",
+      "word_forms": [
+        {
+          "word_form": "dirkefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dIr$k@$%fri:",
+              "ipa": "ˈdɪrkəˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dirkefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dIr$k@$%fri:$@",
+              "ipa": "ˈdɪrkəˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dirkefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dIr$k@$%frIt",
+              "ipa": "ˈdɪrkəˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "222af38e9f79.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/222af38e9f79.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/222af38e9f79.mp3",
+            "text": "dirkefri",
+            "source": "generated",
+            "content_sha256": "754dd29e40349086006e76a209e7ff9037ccbb88c2c984a4473db7bc8aba9eb8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke kan åpnes med dirk",
+      "translation": "that cannot be opened with a lock pick",
+      "examples": [
+        {
+          "no": "en dirkefri lås",
+          "en": "a pickproof lock"
+        }
+      ]
+    }
+  ]
+}

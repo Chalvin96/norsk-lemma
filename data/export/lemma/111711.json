@@ -1,0 +1,74 @@
+{
+  "source_article_id": 111711,
+  "lemmas": [
+    {
+      "lemma": "dryppstille",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163473,
+      "is_sub_article": false,
+      "primary_translation": "completely silent",
+      "word_forms": [
+        {
+          "word_form": "dryppstille",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "drˈʏpstˌɪlə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "639c8a81b8f0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/639c8a81b8f0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/639c8a81b8f0.mp3",
+            "text": "dryppstille",
+            "source": "generated",
+            "content_sha256": "8469aebe270813953f3336beed27b52a37332d884feb8aafe6e110fb03279138"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt stille",
+      "translation": "completely silent",
+      "examples": [
+        {
+          "no": "deretter ble det dryppstille i salen",
+          "en": "after that, it became deathly quiet in the hall"
+        },
+        {
+          "no": "speile seg i det dryppstille vannet",
+          "en": "reflected in the perfectly still water"
+        }
+      ]
+    }
+  ]
+}

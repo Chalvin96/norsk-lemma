@@ -1,0 +1,169 @@
+{
+  "source_article_id": 58787,
+  "lemmas": [
+    {
+      "lemma": "svingning",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 67272,
+      "is_sub_article": false,
+      "primary_translation": "oscillation / swing",
+      "word_forms": [
+        {
+          "word_form": "svingning",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svIN$nIN",
+              "ipa": "ˈsvɪŋnɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svingningen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svIN$nIN$@n",
+              "ipa": "ˈsvɪŋnɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svingninger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svIN$nIN$@r",
+              "ipa": "ˈsvɪŋnɪŋər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svingningene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svIN$nIN$@$n@",
+              "ipa": "ˈsvɪŋnɪŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svingninga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʋˈɪŋnɪŋɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d00478e709e2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d00478e709e2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d00478e709e2.mp3",
+            "text": "svingning",
+            "source": "generated",
+            "content_sha256": "86c059600860eb977a18b87a1f53ccbdb1da792531f488e473f3efe6858113ed",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i fysikk: periodisk bevegelse fram og tilbake mellom to ytterstillinger",
+      "translation": "periodic movement back and forth between two extreme positions",
+      "examples": [
+        {
+          "no": "pendelens svingninger",
+          "en": "the pendulum's oscillations"
+        },
+        {
+          "no": "magnetiske svingninger",
+          "en": "magnetic oscillations"
+        }
+      ]
+    },
+    {
+      "text": "det å svinge",
+      "translation": "the act of swinging",
+      "examples": []
+    },
+    {
+      "text": "skiftende bevegelse (mellom ytterpunkter)",
+      "translation": "shifting movement (between extremes)",
+      "examples": [
+        {
+          "no": "markedet var rolig og svingningene små",
+          "en": "the market was calm and the fluctuations small"
+        },
+        {
+          "no": "svingning i opinionen",
+          "en": "a swing in public opinion"
+        }
+      ]
+    }
+  ]
+}

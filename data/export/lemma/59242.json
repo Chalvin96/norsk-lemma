@@ -1,0 +1,136 @@
+{
+  "source_article_id": 59242,
+  "lemmas": [
+    {
+      "lemma": "sødme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 67874,
+      "is_sub_article": false,
+      "primary_translation": "sweetness / intoxication",
+      "word_forms": [
+        {
+          "word_form": "sødme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9d$m@",
+              "ipa": "ˈsœdmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sødmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9d$m@n",
+              "ipa": "ˈsœdmən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sødmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœdmər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sødmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœdmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "545f1c5828d7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/545f1c5828d7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/545f1c5828d7.mp3",
+            "text": "sødme",
+            "source": "generated",
+            "content_sha256": "e47d8e57e4efa9d182319013f148f6a01ed36209abe48a79a176b739ec57d1fd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "søt smak eller lukt",
+      "translation": "sweet taste or smell",
+      "examples": [
+        {
+          "no": "en vin med lett sødme",
+          "en": "a wine with a light sweetness"
+        }
+      ]
+    },
+    {
+      "text": "berusende fornemmelse",
+      "translation": "intoxicating sensation",
+      "examples": [
+        {
+          "no": "maktens sødme",
+          "en": "the sweetness of power"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "source_article_id": 30204,
+  "lemmas": [
+    {
+      "lemma": "klokkeslett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35613,
+      "is_sub_article": false,
+      "primary_translation": "time of day",
+      "word_forms": [
+        {
+          "word_form": "klokkeslett",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klO$k@$%SlEt",
+              "ipa": "ˈklɔkəˌʃlɛt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klokkeslettet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klO$k@$%SlE$t@",
+              "ipa": "ˈklɔkəˌʃlɛtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klokkesletta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klO$k@$%SlE$tA",
+              "ipa": "ˈklɔkəˌʃlɛtɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klokkeslettene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klO$k@$%SlE$tn=$@",
+              "ipa": "ˈklɔkəˌʃlɛtn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1a56e1c7b7ea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a56e1c7b7ea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1a56e1c7b7ea.mp3",
+            "text": "klokkeslett",
+            "source": "generated",
+            "content_sha256": "a84177e41ebba4239efcc4b2b28c58f83f9c254ba58cc91b5f0a132633878f08",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tidspunkt, oppgitt i timer og minutter",
+      "translation": "time, specified in hours and minutes",
+      "examples": [
+        {
+          "no": "ved hvilket klokkeslett kommer du?",
+          "en": "at what time are you coming?"
+        },
+        {
+          "no": "notere ned klokkeslettet",
+          "en": "write down the time"
+        },
+        {
+          "no": "undersøke at dato og klokkeslett stemmer",
+          "en": "check that the date and time are correct"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_article_id": 64687,
+  "lemmas": [
+    {
+      "lemma": "uoppsigelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74066,
+      "is_sub_article": false,
+      "primary_translation": "non-terminable",
+      "word_forms": [
+        {
+          "word_form": "uoppsigelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$Op$\"si:$g@$lI",
+              "ipa": "ʉɔpˈsɪːgəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uoppsigelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$Op$\"si:$g@$lI$@",
+              "ipa": "ʉɔpˈsɪːgəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1b7aa461a8b8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b7aa461a8b8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b7aa461a8b8.mp3",
+            "text": "uoppsigelig",
+            "source": "generated",
+            "content_sha256": "b69b82ad588b46172a8b784fe02a4c187be201df9a0b377eefc7402a7a468ee2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke kan sies opp",
+      "translation": "that cannot be terminated",
+      "examples": []
+    },
+    {
+      "text": "jamfør si opp",
+      "translation": "to terminate",
+      "examples": []
+    },
+    {
+      "text": "motsatt oppsigelig",
+      "translation": "terminable",
+      "examples": [
+        {
+          "no": "kontrakten var uoppsigelig",
+          "en": "the contract was non-cancellable"
+        },
+        {
+          "no": "uoppsigelige ansatte",
+          "en": "employees who cannot be dismissed"
+        }
+      ]
+    }
+  ]
+}

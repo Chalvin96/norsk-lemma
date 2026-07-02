@@ -1,0 +1,145 @@
+{
+  "source_article_id": 26021,
+  "lemmas": [
+    {
+      "lemma": "indikator",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 31002,
+      "is_sub_article": false,
+      "primary_translation": "indicator",
+      "word_forms": [
+        {
+          "word_form": "indikator",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$\"kA:$tUr",
+              "ipa": "ɪndɪˈkɑːtʊr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "indikatoren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$\"kA:$tU$n`=",
+              "ipa": "ɪndɪˈkɑːtʊɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "indikatorer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$\"kA:$tU$r@r",
+              "ipa": "ɪndɪˈkɑːtʊrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "indikatorene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$dI$\"kA:$tU$n`=$@",
+              "ipa": "ɪndɪˈkɑːtʊɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ccd9d0ec348a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ccd9d0ec348a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ccd9d0ec348a.mp3",
+            "text": "indikator",
+            "source": "generated",
+            "content_sha256": "3f13a8b3585ea80e46496f7d727b8036a47ddc46b2550275f54ab74a47649f6f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enkelt element som viser tilstanden i et (større) forhold som en ikke kan måle direkte",
+      "translation": "single element indicating the state of a larger condition that cannot be measured directly",
+      "examples": [
+        {
+          "no": "lav blodprosent er en indikator på alvorlig sykdom",
+          "en": "a low blood count is an indicator of serious illness"
+        },
+        {
+          "no": "en indikator på konjunktursvingninger",
+          "en": "an indicator of economic fluctuations"
+        },
+        {
+          "no": "at han synger for seg selv, er en indikator på godt humør",
+          "en": "the fact that he sings to himself is an indicator of a good mood"
+        }
+      ]
+    },
+    {
+      "text": "i teknikk: instrument som viser tilstand eller utvikling",
+      "translation": "in engineering: instrument that shows a state or development",
+      "examples": [
+        {
+          "no": "indikatoren viste gasstrykket i maskinen",
+          "en": "the indicator showed the gas pressure in the machine"
+        }
+      ]
+    },
+    {
+      "text": "i kjemi: kjemisk forbindelse som brukes til å påvise andre stoffer",
+      "translation": "chemical compound used to detect other substances",
+      "examples": []
+    }
+  ]
+}

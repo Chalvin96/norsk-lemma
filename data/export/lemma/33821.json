@@ -1,0 +1,100 @@
+{
+  "source_article_id": 33821,
+  "lemmas": [
+    {
+      "lemma": "langsiktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39672,
+      "is_sub_article": false,
+      "primary_translation": "long-term",
+      "word_forms": [
+        {
+          "word_form": "langsiktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lAN$%sIk$tI",
+              "ipa": "ˈlɑŋˌsɪktɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "langsiktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lAN$%sIk$tI$@",
+              "ipa": "ˈlɑŋˌsɪktɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "accb0a534cd8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/accb0a534cd8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/accb0a534cd8.mp3",
+            "text": "langsiktig",
+            "source": "generated",
+            "content_sha256": "d1162902ed2a90a0aabb85f56e3663273eeed74a7d8599770e2ddab25855724a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som må planlegges",
+      "translation": "requiring planning",
+      "examples": []
+    },
+    {
+      "text": "som går for seg på lang sikt",
+      "translation": "taking place over a long period",
+      "examples": [
+        {
+          "no": "et langsiktig arbeid",
+          "en": "long-term work"
+        },
+        {
+          "no": "langsiktig gjeld",
+          "en": "long-term debt"
+        },
+        {
+          "no": "det langsiktige målet er å ansette flere i firmaet",
+          "en": "the long-term goal is to hire more people in the company"
+        }
+      ]
+    }
+  ]
+}

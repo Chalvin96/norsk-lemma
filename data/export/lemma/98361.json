@@ -1,0 +1,114 @@
+{
+  "source_article_id": 98361,
+  "lemmas": [
+    {
+      "lemma": "homolog",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 107035,
+      "is_sub_article": false,
+      "primary_translation": "homologous",
+      "word_forms": [
+        {
+          "word_form": "homolog",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "humulˈoːg",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "homologe",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "humulˈoːgə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "homologt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "humulɔgt",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ee44923353b0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee44923353b0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee44923353b0.mp3",
+            "text": "homolog",
+            "source": "generated",
+            "content_sha256": "4374e0723eac4f7c113309df16c6aa039667ce86d57bc892f966e30a72f82d64"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innbyrdes samsvarende",
+      "translation": "mutually corresponding",
+      "examples": [
+        {
+          "no": "homologe hjørner, sider og flater i kongruente geometriske figurer",
+          "en": "homologous corners, sides, and surfaces in congruent geometric figures"
+        },
+        {
+          "no": "homologe organer",
+          "en": "homologous organs"
+        }
+      ]
+    }
+  ]
+}

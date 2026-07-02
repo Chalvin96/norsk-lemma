@@ -1,0 +1,130 @@
+{
+  "source_article_id": 16102,
+  "lemmas": [
+    {
+      "lemma": "fordøyelse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 18676,
+      "is_sub_article": false,
+      "primary_translation": "digestion",
+      "word_forms": [
+        {
+          "word_form": "fordøyelse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"d`9*Y$@l$s@",
+              "ipa": "fɔˈɖœ͡ʏəlsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fordøyelsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"d`9*Y$@l$sn=",
+              "ipa": "fɔˈɖœ͡ʏəlsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fordøyelser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fɔɖˈœ͡ʏəlsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fordøyelsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fɔɖˈœ͡ʏəlsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f57c018f95d6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f57c018f95d6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f57c018f95d6.mp3",
+            "text": "fordøyelse",
+            "source": "generated",
+            "content_sha256": "3b2cb46322922cde899f5b968d07ce64f34eb2cae383562e5e9585b417fdcf98",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å fordøye",
+      "translation": "the act of digesting",
+      "examples": [
+        {
+          "no": "ha problemer med fordøyelsen",
+          "en": "have digestive problems"
+        },
+        {
+          "no": "ha dårlig fordøyelse",
+          "en": "have poor digestion"
+        }
+      ]
+    }
+  ]
+}

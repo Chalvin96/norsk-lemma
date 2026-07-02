@@ -1,0 +1,140 @@
+{
+  "source_article_id": 8201,
+  "lemmas": [
+    {
+      "lemma": "bush",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 9772,
+      "is_sub_article": false,
+      "primary_translation": "bushland / remote area",
+      "word_forms": [
+        {
+          "word_form": "bush",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bu0S",
+              "ipa": "ˈbʉʃ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bushen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bu0$Sn=",
+              "ipa": "ˈbʉʃn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "busher",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈʉʃər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bushene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈʉʃn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a1c92110818f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1c92110818f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1c92110818f.mp3",
+            "text": "bush",
+            "source": "generated",
+            "content_sha256": "3c4993627a0be0100cd595ba983cdc0794d49dbaa450bfad99c0970a463212a3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(tropisk) landområde med krattskog",
+      "translation": "tropical area with scrubland",
+      "examples": [
+        {
+          "no": "gå til fots gjennom bushen",
+          "en": "walk through the bush"
+        }
+      ]
+    },
+    {
+      "text": "område som er langt fra sentrale strøk",
+      "translation": "area far from central districts",
+      "examples": [
+        {
+          "no": "flytte fra bushen til byen",
+          "en": "move from the bush to the city"
+        },
+        {
+          "no": "bo langt ute i bushen utenfor Arendal",
+          "en": "live way out in the bush outside Arendal"
+        }
+      ]
+    }
+  ]
+}

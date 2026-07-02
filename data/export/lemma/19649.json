@@ -1,0 +1,128 @@
+{
+  "source_article_id": 19649,
+  "lemmas": [
+    {
+      "lemma": "gips",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 22932,
+      "is_sub_article": false,
+      "primary_translation": "plaster",
+      "word_forms": [
+        {
+          "word_form": "gips",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jIps",
+              "ipa": "ˈjɪps",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gipsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jIp$sn=",
+              "ipa": "ˈjɪpsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gipser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jIp$s@r",
+              "ipa": "ˈjɪpsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gipsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈɪpsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "00b12b30f26c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/00b12b30f26c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/00b12b30f26c.mp3",
+            "text": "gips",
+            "source": "generated",
+            "content_sha256": "091817f75f6b3f658bca8807344043c985054e3b9e440f35720e4ccf3f4ecfcb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mineral som består av et vannholdig kalsiumsulfat, særlig brukt til avstøpning, bygningsplater, pynt og bandasje",
+      "translation": "a mineral consisting of hydrated calcium sulfate, especially used for casting, building boards, decoration, and bandages",
+      "examples": [
+        {
+          "no": "hun jobber med leire og gips",
+          "en": "she works with clay and plaster"
+        },
+        {
+          "no": "gå med armen i gips",
+          "en": "wear a cast on your arm"
+        }
+      ]
+    }
+  ]
+}

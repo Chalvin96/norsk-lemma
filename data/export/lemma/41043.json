@@ -1,0 +1,121 @@
+{
+  "source_article_id": 41043,
+  "lemmas": [
+    {
+      "lemma": "nordost",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 48012,
+      "is_sub_article": false,
+      "primary_translation": "northeast",
+      "word_forms": [
+        {
+          "word_form": "nordost",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$\"ru:$st",
+              "ipa": "nʊˈruːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nordosten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$\"ru:$stn=",
+              "ipa": "nʊˈruːstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nordoster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nurˈuːstər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nordostene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nurˈuːstn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3379ea741a20.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3379ea741a20.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3379ea741a20.mp3",
+            "text": "nordost",
+            "source": "generated",
+            "content_sha256": "4e32a5b5527771fd710c059c05420abb3f69224a4b9a7a5bbffbd4783d1ce27e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vind fra nordost",
+      "translation": "wind from the northeast",
+      "examples": []
+    }
+  ]
+}

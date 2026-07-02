@@ -1,0 +1,121 @@
+{
+  "source_article_id": 27562,
+  "lemmas": [
+    {
+      "lemma": "javakaffe",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 32693,
+      "is_sub_article": false,
+      "primary_translation": "Java coffee",
+      "word_forms": [
+        {
+          "word_form": "javakaffe",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$vA$%kA$f@",
+              "ipa": "ˈjɑːvɑˌkɑfə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "javakaffen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$vA$%kA$f@n",
+              "ipa": "ˈjɑːvɑˌkɑfən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "javakaffer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈɑːʋɑkˌɑfər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "javakaffene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈɑːʋɑkˌɑfənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "147a29505b39.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/147a29505b39.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/147a29505b39.mp3",
+            "text": "javakaffe",
+            "source": "generated",
+            "content_sha256": "d1e80e298637e594e2f84b64a8772ae01f46fd63df285ac37b3ae92e34cd01db",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kaffe fra Java",
+      "translation": "coffee from Java",
+      "examples": []
+    }
+  ]
+}

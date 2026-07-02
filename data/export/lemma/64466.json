@@ -1,0 +1,95 @@
+{
+  "source_article_id": 64466,
+  "lemmas": [
+    {
+      "lemma": "undres",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 73831,
+      "is_sub_article": false,
+      "primary_translation": "wonder / ponder",
+      "word_forms": [
+        {
+          "word_form": "undres",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0n$dr@s",
+              "ipa": "ˈʉndrəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "undredes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0n$dr@$d@s",
+              "ipa": "ˈʉndrədəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9b485db92fa7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9b485db92fa7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9b485db92fa7.mp3",
+            "text": "undres",
+            "source": "generated",
+            "content_sha256": "a806ead7b81939d28984f54875058c481a9ded840e3c00f8f935cf1d57cde81a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "være forundret over",
+      "translation": "to be amazed by",
+      "examples": [
+        {
+          "no": "han undres over påfunnet",
+          "en": "he wonders at the contraption"
+        }
+      ]
+    },
+    {
+      "text": "tenke over, fundere på, lure på",
+      "translation": "to think about, ponder, wonder about",
+      "examples": [
+        {
+          "no": "hun har lenge undres på hva som vil skje",
+          "en": "she has long wondered what will happen"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 38537,
+  "lemmas": [
+    {
+      "lemma": "minnelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45196,
+      "is_sub_article": false,
+      "primary_translation": "amicable",
+      "word_forms": [
+        {
+          "word_form": "minnelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$n@$lI",
+              "ipa": "ˈmɪnəlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "minnelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$n@$lI$@",
+              "ipa": "ˈmɪnəlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "38fa12bc7172.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/38fa12bc7172.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/38fa12bc7172.mp3",
+            "text": "minnelig",
+            "source": "generated",
+            "content_sha256": "0ca50a70e283531517e7158d6cb97e8ff11436cdfe80443ff1480fd99c340e2a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om avgjørelse, forlik eller lignende: som kommer i stand med godvilje fra begge parter uten medvirkning fra retten",
+      "translation": "regarding a decision, settlement: made with goodwill from both parties without court intervention",
+      "examples": [
+        {
+          "no": "komme fram til en minnelig ordning",
+          "en": "arrive at an amicable settlement"
+        }
+      ]
+    }
+  ]
+}

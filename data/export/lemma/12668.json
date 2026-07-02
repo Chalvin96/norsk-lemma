@@ -1,0 +1,96 @@
+{
+  "source_article_id": 12668,
+  "lemmas": [
+    {
+      "lemma": "energisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14769,
+      "is_sub_article": false,
+      "primary_translation": "energetic",
+      "word_forms": [
+        {
+          "word_form": "energisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"n{r$gI$sk",
+              "ipa": "ɛˈnærgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "energiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"n{r$gI$sk@",
+              "ipa": "ɛˈnærgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d60317a603f5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d60317a603f5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d60317a603f5.mp3",
+            "text": "energisk",
+            "source": "generated",
+            "content_sha256": "e4bcab00c53e57a52aff75375cf57c8e8a1369c25847945c5805143641b58224",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har mye energi",
+      "translation": "having a lot of energy",
+      "examples": []
+    },
+    {
+      "text": "driftig, virkelysten",
+      "translation": "driven, active",
+      "examples": [
+        {
+          "no": "et energisk menneske",
+          "en": "an energetic person"
+        },
+        {
+          "no": "protestere energisk",
+          "en": "protest energetically"
+        }
+      ]
+    }
+  ]
+}

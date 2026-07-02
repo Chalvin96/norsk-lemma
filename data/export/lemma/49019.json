@@ -1,0 +1,134 @@
+{
+  "source_article_id": 49019,
+  "lemmas": [
+    {
+      "lemma": "rufs",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 56288,
+      "is_sub_article": false,
+      "primary_translation": "messiness / messy hair",
+      "word_forms": [
+        {
+          "word_form": "rufs",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ru0fs",
+              "ipa": "ˈrʉfs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rufsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ru0f$sn=",
+              "ipa": "ˈrʉfsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rufser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ru0f$s@r",
+              "ipa": "ˈrʉfsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "rufsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈʉfsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5f0e6d214d2c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5f0e6d214d2c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5f0e6d214d2c.mp3",
+            "text": "rufs",
+            "source": "generated",
+            "content_sha256": "0d17e5efc7da727296cf5690ea1cc29480787ddee85e5385a04495f88494a3e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å gjøre noe på en uvøren måte",
+      "translation": "doing something in a careless manner",
+      "examples": [
+        {
+          "no": "spillet var preget av mye rufs",
+          "en": "the game was marked by a lot of scrappiness"
+        }
+      ]
+    },
+    {
+      "text": "noe som er rufsete",
+      "translation": "something that is messy",
+      "examples": [
+        {
+          "no": "med håret i en rufs",
+          "en": "with hair in a tangle"
+        }
+      ]
+    }
+  ]
+}

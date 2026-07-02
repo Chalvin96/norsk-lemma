@@ -1,0 +1,76 @@
+{
+  "source_article_id": 13345,
+  "lemmas": [
+    {
+      "lemma": "ettersom",
+      "hgno": 0,
+      "pos": "CONJ",
+      "source_lemma_id": 15508,
+      "is_sub_article": false,
+      "primary_translation": "because / as",
+      "word_forms": [
+        {
+          "word_form": "ettersom",
+          "tags_json": [
+            "SCONJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$t@$%s`Om",
+              "ipa": "ˈɛtəˌʂɔm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6afcfffdf4a0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6afcfffdf4a0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6afcfffdf4a0.mp3",
+            "text": "ettersom",
+            "source": "generated",
+            "content_sha256": "30fe656d2290d06a1682884ac7b9fc09797a289a32fa53ba1fa7c92f13a1da24",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innleder en leddsetning som uttrykker årsak",
+      "translation": "introduces a subordinate clause expressing cause",
+      "examples": []
+    },
+    {
+      "text": "på grunn av at",
+      "translation": "because of the fact that",
+      "examples": []
+    },
+    {
+      "text": "fordi, siden sia",
+      "translation": "because, since",
+      "examples": [
+        {
+          "no": "du får gjøre det ettersom du maser slik",
+          "en": "you'll have to do it since you're nagging like that"
+        },
+        {
+          "no": "ettersom du ikke har tid, får det vente",
+          "en": "since you don't have time, it'll have to wait"
+        }
+      ]
+    }
+  ]
+}

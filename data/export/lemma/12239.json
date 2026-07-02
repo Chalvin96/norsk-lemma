@@ -1,0 +1,126 @@
+{
+  "source_article_id": 12239,
+  "lemmas": [
+    {
+      "lemma": "elbil",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 14275,
+      "is_sub_article": false,
+      "primary_translation": "electric car",
+      "word_forms": [
+        {
+          "word_form": "elbil",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"El$%bi:l",
+              "ipa": "ˈɛlˌbɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elbilen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"El$%bi:$ln=",
+              "ipa": "ˈɛlˌbɪːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elbiler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"El$%bi:$l@r",
+              "ipa": "ˈɛlˌbɪːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elbilene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"El$%bi:$ln=$@",
+              "ipa": "ˈɛlˌbɪːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "160933cddaed.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/160933cddaed.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/160933cddaed.mp3",
+            "text": "elbil",
+            "source": "generated",
+            "content_sha256": "74f654ee37870f0a0621627002625e8b5b2e7641c38797f869ff689bf01a1bac",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "elektrisk drevet bil",
+      "translation": "electrically powered car",
+      "examples": [
+        {
+          "no": "bruken av elbil har økt mer enn forventet",
+          "en": "the use of electric cars has increased more than expected"
+        },
+        {
+          "no": "rekkevidden til elbilene øker stadig",
+          "en": "the range of electric cars is constantly increasing"
+        }
+      ]
+    }
+  ]
+}

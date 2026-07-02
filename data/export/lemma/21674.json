@@ -1,0 +1,140 @@
+{
+  "source_article_id": 21674,
+  "lemmas": [
+    {
+      "lemma": "gym",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 25316,
+      "is_sub_article": false,
+      "primary_translation": "gym / gym class",
+      "word_forms": [
+        {
+          "word_form": "gym",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gYm",
+              "ipa": "ˈgʏm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gymmen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gY$m@n",
+              "ipa": "ˈgʏmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gymmer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʏmər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gymmene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʏmənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bdf7d9f652ae.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bdf7d9f652ae.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bdf7d9f652ae.mp3",
+            "text": "gym",
+            "source": "generated",
+            "content_sha256": "6c3e72c200a67e2c06db1b302f77360fe6b9e3f347fce7aeaa4dc59e71d1eda1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortord for gymnastikk",
+      "translation": "short for gymnastics",
+      "examples": [
+        {
+          "no": "ha gym i første time",
+          "en": "have P.E. first period"
+        },
+        {
+          "no": "skulke gymmen",
+          "en": "skip gym class"
+        }
+      ]
+    },
+    {
+      "text": "kortord for gymnasklasse",
+      "translation": "short for gymnastics class",
+      "examples": [
+        {
+          "no": "gå i første gym",
+          "en": "be in the first year of upper secondary school"
+        }
+      ]
+    }
+  ]
+}

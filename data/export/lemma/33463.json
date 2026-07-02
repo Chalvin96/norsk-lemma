@@ -1,0 +1,106 @@
+{
+  "source_article_id": 33463,
+  "lemmas": [
+    {
+      "lemma": "laborativ",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39267,
+      "is_sub_article": false,
+      "primary_translation": "laboratory (adj.)",
+      "word_forms": [
+        {
+          "word_form": "laborativ",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$\"bU$rA$%ti:v",
+              "ipa": "lɑˈbʊrɑˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "laborative",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$\"bU$rA$%ti:$v@",
+              "ipa": "lɑˈbʊrɑˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "laborativt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lA$\"bU$rA$%ti:vt",
+              "ipa": "lɑˈbʊrɑˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "90e47d7b870f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90e47d7b870f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90e47d7b870f.mp3",
+            "text": "laborativ",
+            "source": "generated",
+            "content_sha256": "430af49ac053ccaa774d30d452139459b6944cb653ea4ebb45712f0a641db287",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som brukes i laboratorier",
+      "translation": "used in laboratories",
+      "examples": [
+        {
+          "no": "laborativt utstyr",
+          "en": "laboratory equipment"
+        }
+      ]
+    }
+  ]
+}

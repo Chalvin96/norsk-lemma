@@ -1,0 +1,106 @@
+{
+  "source_article_id": 68102,
+  "lemmas": [
+    {
+      "lemma": "veterinær",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 78626,
+      "is_sub_article": false,
+      "primary_translation": "veterinary",
+      "word_forms": [
+        {
+          "word_form": "veterinær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "v@$t@$rI$\"n{:r",
+              "ipa": "vətərɪˈnæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "veterinære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "v@$t@$rI$\"n{:$r@",
+              "ipa": "vətərɪˈnæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "veterinært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "v@$t@$rI$\"n{:t`",
+              "ipa": "vətərɪˈnæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "006c10b050ba.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/006c10b050ba.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/006c10b050ba.mp3",
+            "text": "veterinær",
+            "source": "generated",
+            "content_sha256": "d2adf0bcc028cc9cc5893c638c99a76ef581c93040cd50510d8ad9b8e3a1299e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder veterinærvitenskap",
+      "translation": "relating to veterinary science",
+      "examples": [
+        {
+          "no": "veterinær forskning",
+          "en": "veterinary research"
+        }
+      ]
+    }
+  ]
+}

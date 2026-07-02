@@ -1,0 +1,114 @@
+{
+  "source_article_id": 36387,
+  "lemmas": [
+    {
+      "lemma": "lysskjær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42234,
+      "is_sub_article": false,
+      "primary_translation": "glow",
+      "word_forms": [
+        {
+          "word_form": "lysskjær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:s$%S{:r",
+              "ipa": "ˈlyːsˌʃæːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lysskjære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːsʃˌæːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lysskjært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːsʃˌæːʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "874be45bba12.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/874be45bba12.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/874be45bba12.mp3",
+            "text": "lysskjær",
+            "source": "generated",
+            "content_sha256": "cb372f27708c039d2f58d831a52f808d4176d7b10cbf77273d1a3111deb3cad6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(svakt) lys fra en naturlig eller kunstig lyskilde",
+      "translation": "(faint) light from a natural or artificial light source",
+      "examples": [
+        {
+          "no": "lysskjæret fra peisen",
+          "en": "the glow from the fireplace"
+        },
+        {
+          "no": "et rosa lysskjær over byen",
+          "en": "a pink glow over the city"
+        }
+      ]
+    }
+  ]
+}

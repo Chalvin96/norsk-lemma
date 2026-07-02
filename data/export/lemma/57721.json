@@ -1,0 +1,87 @@
+{
+  "source_article_id": 57721,
+  "lemmas": [
+    {
+      "lemma": "strofisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 66095,
+      "is_sub_article": false,
+      "primary_translation": "strophic",
+      "word_forms": [
+        {
+          "word_form": "strofisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stru:$fI$sk",
+              "ipa": "ˈstruːfɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "strofiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stru:$fI$sk@",
+              "ipa": "ˈstruːfɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0c87b36d0985.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c87b36d0985.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0c87b36d0985.mp3",
+            "text": "strofisk",
+            "source": "generated",
+            "content_sha256": "9cd32e4c53ca203022886864681336fa099690b2a14c6331ab51f66816f888d4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er oppbygd av eller inndelt i strofe",
+      "translation": "structured by or divided into stanzas",
+      "examples": [
+        {
+          "no": "et dikt i strofisk form",
+          "en": "a poem in strophic form"
+        }
+      ]
+    }
+  ]
+}

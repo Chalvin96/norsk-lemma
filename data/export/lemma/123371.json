@@ -1,0 +1,128 @@
+{
+  "source_article_id": 123371,
+  "lemmas": [
+    {
+      "lemma": "møkkajobb",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2007290,
+      "is_sub_article": false,
+      "primary_translation": "crappy job",
+      "word_forms": [
+        {
+          "word_form": "møkkajobb",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"m9$kA$%jOb",
+              "ipa": "ˈmœkɑˌjɔb",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "møkkajobben",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈœkɑjˌɔbən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "møkkajobber",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈœkɑjˌɔbər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "møkkajobbene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈœkɑjˌɔbənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0349e228cdff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0349e228cdff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0349e228cdff.mp3",
+            "text": "møkkajobb",
+            "source": "generated",
+            "content_sha256": "4c923661bf91bd33e589791c628df727227b3d3a50bc017a63b994ee32a25bd0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dårlig eller ubehagelig jobb",
+      "translation": "bad or unpleasant job",
+      "examples": [
+        {
+          "no": "det er en dårlig betalt møkkajobb",
+          "en": "it is a poorly paid shitty job"
+        }
+      ]
+    }
+  ]
+}

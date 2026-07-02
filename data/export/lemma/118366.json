@@ -1,0 +1,127 @@
+{
+  "source_article_id": 118366,
+  "lemmas": [
+    {
+      "lemma": "rentekurve",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 167197,
+      "is_sub_article": false,
+      "primary_translation": "yield curve",
+      "word_forms": [
+        {
+          "word_form": "rentekurve",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈɛntəkˌʉrʋə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "rentekurven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rEn$t@$%ku0r$v@n",
+              "ipa": "ˈrɛntəˌkʉrvən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "rentekurver",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈɛntəkˌʉrʋər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "rentekurvene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈɛntəkˌʉrʋənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "58b1f02d0a1e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/58b1f02d0a1e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/58b1f02d0a1e.mp3",
+            "text": "rentekurve",
+            "source": "generated",
+            "content_sha256": "e0af659d5f0b473f828e1116932ed1e45710cc3fcdbae8224a8bb660fce1d421"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utvikling for rente framstilt som kurve",
+      "translation": "development of interest rates presented as a curve",
+      "examples": [
+        {
+          "no": "høyere renter og brattere rentekurve",
+          "en": "higher interest rates and a steeper yield curve"
+        }
+      ]
+    }
+  ]
+}

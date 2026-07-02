@@ -1,0 +1,91 @@
+{
+  "source_article_id": 43644,
+  "lemmas": [
+    {
+      "lemma": "overkommelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50558,
+      "is_sub_article": false,
+      "primary_translation": "manageable / affordable",
+      "word_forms": [
+        {
+          "word_form": "overkommelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$v@r$\"kO$m@$lI",
+              "ipa": "ɔvərˈkɔməlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "overkommelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$v@r$\"kO$m@$lI$@",
+              "ipa": "ɔvərˈkɔməlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "69d3480bb161.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69d3480bb161.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69d3480bb161.mp3",
+            "text": "overkommelig",
+            "source": "generated",
+            "content_sha256": "1f3891babcd1db28d40fdc15dafea71e6e867c6e6887c8466233f9a685b95a9e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en kan greie",
+      "translation": "that one can manage",
+      "examples": [
+        {
+          "no": "en overkommelig pris",
+          "en": "an affordable price"
+        },
+        {
+          "no": "en overkommelig oppgave",
+          "en": "a manageable task"
+        }
+      ]
+    }
+  ]
+}

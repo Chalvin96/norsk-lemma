@@ -1,0 +1,147 @@
+{
+  "source_article_id": 97603,
+  "lemmas": [
+    {
+      "lemma": "skilles",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 138822,
+      "is_sub_article": false,
+      "primary_translation": "separate / divorce",
+      "word_forms": [
+        {
+          "word_form": "skilles",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SI$l@s",
+              "ipa": "ˈʃɪləs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skiltes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SIl$t@s",
+              "ipa": "ˈʃɪltəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skils",
+          "tags_json": [
+            "verb",
+            "Pres",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈiːls",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b5edfb62f469.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b5edfb62f469.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b5edfb62f469.mp3",
+            "text": "skilles",
+            "source": "generated",
+            "content_sha256": "96c352dc919668e425f0b167974be7ac93d1b2f97ed91e602c2307b95aaa6ed9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gå fra hverandre",
+      "translation": "to go apart",
+      "examples": []
+    },
+    {
+      "text": "avslutte forbindelse",
+      "translation": "to end connection",
+      "examples": [
+        {
+          "no": "skilles som gode venner",
+          "en": "part as good friends"
+        },
+        {
+          "no": "de to kan ikke skilles at",
+          "en": "the two can't be separated"
+        },
+        {
+          "no": "så skiltes våre veier",
+          "en": "then our paths parted"
+        }
+      ]
+    },
+    {
+      "text": "oppløse ekteskap",
+      "translation": "to dissolve marriage",
+      "examples": [
+        {
+          "no": "de skiltes etter ti års ekteskap",
+          "en": "they separated after ten years of marriage"
+        }
+      ]
+    },
+    {
+      "text": "bli delt",
+      "translation": "to be divided",
+      "examples": []
+    },
+    {
+      "text": "skille fra hverandre",
+      "translation": "to separate from each other",
+      "examples": [
+        {
+          "no": "punktene skilles med blanke linjer",
+          "en": "the points are separated by blank lines"
+        },
+        {
+          "no": "kornet skilles fra agnet",
+          "en": "the grain is separated from the chaff"
+        }
+      ]
+    }
+  ]
+}

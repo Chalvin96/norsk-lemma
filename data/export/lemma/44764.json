@@ -1,0 +1,137 @@
+{
+  "source_article_id": 44764,
+  "lemmas": [
+    {
+      "lemma": "person",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 51727,
+      "is_sub_article": false,
+      "primary_translation": "person",
+      "word_forms": [
+        {
+          "word_form": "person",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$\"s`u:n",
+              "ipa": "pəˈʂuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "personen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$\"s`u:$nn=",
+              "ipa": "pəˈʂuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "personer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$\"s`u:$n@r",
+              "ipa": "pəˈʂuːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "personene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$\"s`u:$nn=$@",
+              "ipa": "pəˈʂuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "787f2664cda1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/787f2664cda1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/787f2664cda1.mp3",
+            "text": "person",
+            "source": "generated",
+            "content_sha256": "0207b00f0a20a5d40e42320a70084d9f8fa401fa6b02fa346240fa8f159d5891",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skikkelse i film, roman eller lignende",
+      "translation": "character in a film, novel",
+      "examples": []
+    },
+    {
+      "text": "i jus: individ eller sammenslutning som har juridiske rettigheter og forpliktelser",
+      "translation": "individual entity with legal rights and obligations",
+      "examples": []
+    },
+    {
+      "text": "jamfør juridisk person",
+      "translation": "legal subject",
+      "examples": []
+    },
+    {
+      "text": "i grammatikk: trekk innenfor pronomen (i mange språk også verb) som angir om et utsagn gjelder den/de som snakker (1. person), den/de det snakkes til (2. person), eller den/de det snakkes om (3. person)",
+      "translation": "feature within pronouns (and in many languages, verbs) indicating whether a statement concerns the speaker (1st person), the listener (2nd person), or the subject being spoken about (3rd person)",
+      "examples": [
+        {
+          "no": "pronomenet ‘vi’ er i 1. person flertall",
+          "en": "the pronoun ‘we’ is in the 1st person plural"
+        }
+      ]
+    }
+  ]
+}

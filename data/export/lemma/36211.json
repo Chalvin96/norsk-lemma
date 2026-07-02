@@ -1,0 +1,91 @@
+{
+  "source_article_id": 36211,
+  "lemmas": [
+    {
+      "lemma": "lydlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42037,
+      "is_sub_article": false,
+      "primary_translation": "sound-related / phonetic",
+      "word_forms": [
+        {
+          "word_form": "lydlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$lI",
+              "ipa": "ˈlyːdlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lydlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$lI$@",
+              "ipa": "ˈlyːdlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "95ad097b232d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/95ad097b232d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/95ad097b232d.mp3",
+            "text": "lydlig",
+            "source": "generated",
+            "content_sha256": "7cd791c55558efa6154a0c22cfe9e88c679d1c7c199ec7d955c5d69167c89abb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder lyd",
+      "translation": "relating to sound",
+      "examples": [
+        {
+          "no": "filmens lydlige kvalitet er nokså dårlig",
+          "en": "the film's sound quality is rather poor"
+        },
+        {
+          "no": "lydlige endringer i språket",
+          "en": "sound changes in the language"
+        }
+      ]
+    }
+  ]
+}

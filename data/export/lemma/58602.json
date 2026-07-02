@@ -1,0 +1,103 @@
+{
+  "source_article_id": 58602,
+  "lemmas": [
+    {
+      "lemma": "svartsjuk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67081,
+      "is_sub_article": false,
+      "primary_translation": "jealous",
+      "word_forms": [
+        {
+          "word_form": "svartsjuk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svAt`$%S}:k",
+              "ipa": "ˈsvɑʈˌʃʉːk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svartsjuke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svAt`$%S}:$k@",
+              "ipa": "ˈsvɑʈˌʃʉːkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svartsjukt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʋˈɑʈʃˌʉːkt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0fdb0ae78ac7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0fdb0ae78ac7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0fdb0ae78ac7.mp3",
+            "text": "svartsjuk",
+            "source": "generated",
+            "content_sha256": "1a0bfa9de8b6a9718d532e50a07c035dd269d24bc4a9da99a3cd6c83249496c3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sjalu, misunnelig",
+      "translation": "jealous, envious",
+      "examples": []
+    }
+  ]
+}

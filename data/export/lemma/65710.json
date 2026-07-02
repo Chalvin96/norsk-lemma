@@ -1,0 +1,91 @@
+{
+  "source_article_id": 65710,
+  "lemmas": [
+    {
+      "lemma": "utsendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75390,
+      "is_sub_article": false,
+      "primary_translation": "dispatched",
+      "word_forms": [
+        {
+          "word_form": "utsendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%sEnt",
+              "ipa": "ˈʉːtˌsɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utsendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%sEn$t@",
+              "ipa": "ˈʉːtˌsɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "023e063a283f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/023e063a283f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/023e063a283f.mp3",
+            "text": "utsendt",
+            "source": "generated",
+            "content_sha256": "662ceb87e273b88c17848f2ac2280f1557aa6c2b43e97836b1b1bba6f3bde55f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er sendt ut",
+      "translation": "sent out",
+      "examples": [
+        {
+          "no": "utsendt post",
+          "en": "sent mail"
+        },
+        {
+          "no": "avisens utsendte medarbeider",
+          "en": "the newspaper's correspondent"
+        }
+      ]
+    }
+  ]
+}

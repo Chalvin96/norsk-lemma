@@ -1,0 +1,85 @@
+{
+  "source_article_id": 26718,
+  "lemmas": [
+    {
+      "lemma": "innstukket",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31809,
+      "is_sub_article": false,
+      "primary_translation": "inserted",
+      "word_forms": [
+        {
+          "word_form": "innstukket",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%stU$k@t",
+              "ipa": "ˈɪnˌstʊkət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "innstukne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%stU$kn@",
+              "ipa": "ˈɪnˌstʊknə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fbc74a1180c6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fbc74a1180c6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fbc74a1180c6.mp3",
+            "text": "innstukket",
+            "source": "generated",
+            "content_sha256": "fad5297071ea30b8dd153f3bca0f24c49039a8b96cec2f030b03b666bed3f749",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er stukket inn",
+      "translation": "that has been inserted",
+      "examples": [
+        {
+          "no": "et brev innstukket i dørsprekken",
+          "en": "a letter tucked into the door crack"
+        }
+      ]
+    }
+  ]
+}

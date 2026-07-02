@@ -1,0 +1,111 @@
+{
+  "source_article_id": 106649,
+  "lemmas": [
+    {
+      "lemma": "dødssliten",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 160310,
+      "is_sub_article": false,
+      "primary_translation": "dead tired",
+      "word_forms": [
+        {
+          "word_form": "dødssliten",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈœdsʃlˌiːtn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dødsslitne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈœdsʃlˌiːtnə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dødsslitent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈœdsʃlˌiːtn̩t",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5466f8aecc83.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5466f8aecc83.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5466f8aecc83.mp3",
+            "text": "dødssliten",
+            "source": "generated",
+            "content_sha256": "b3d6bee3ee829bdbe2ef38bc990785795363c65ea5cd0cdf75017409af166d26"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "veldig sliten",
+      "translation": "very tired",
+      "examples": [
+        {
+          "no": "de var dødsslitne etter turen",
+          "en": "they were dead tired after the trip"
+        }
+      ]
+    }
+  ]
+}

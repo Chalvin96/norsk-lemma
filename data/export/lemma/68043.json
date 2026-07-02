@@ -1,0 +1,73 @@
+{
+  "source_article_id": 68043,
+  "lemmas": [
+    {
+      "lemma": "vestenom",
+      "hgno": 0,
+      "pos": "PREP",
+      "source_lemma_id": 78567,
+      "is_sub_article": false,
+      "primary_translation": "to the west of / westward",
+      "word_forms": [
+        {
+          "word_form": "vestenom",
+          "tags_json": [
+            "ADP"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɛstn̩ˌɔm",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3f0ec773cee7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f0ec773cee7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f0ec773cee7.mp3",
+            "text": "vestenom",
+            "source": "generated",
+            "content_sha256": "83ceee50534ea529bcb2f9e94b7f9f5f1ca692cbe1a554d5d213e667792672db"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vest om",
+      "translation": "west of",
+      "examples": [
+        {
+          "no": "de seilte vestenom fyret",
+          "en": "they sailed west of the lighthouse"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: i vestlig retning",
+      "translation": "used: in a westerly direction",
+      "examples": [
+        {
+          "no": "de seilte vestenom",
+          "en": "they sailed westward"
+        }
+      ]
+    }
+  ]
+}

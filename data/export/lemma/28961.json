@@ -1,0 +1,125 @@
+{
+  "source_article_id": 28961,
+  "lemmas": [
+    {
+      "lemma": "kasus",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 34227,
+      "is_sub_article": false,
+      "primary_translation": "grammatical case",
+      "word_forms": [
+        {
+          "word_form": "kasus",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA:$su0s",
+              "ipa": "ˈkɑːsʉs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kasusen",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA:$su0$sn=",
+              "ipa": "ˈkɑːsʉsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kasuser",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑːsʉsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kasusene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA:$su0$sn=$@",
+              "ipa": "ˈkɑːsʉsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "621c0c991f65.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/621c0c991f65.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/621c0c991f65.mp3",
+            "text": "kasus",
+            "source": "generated",
+            "content_sha256": "bc3707fcd95017002d26be3c6598313dc706fb5937fc4f2b21f5567565f7e832",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bøyningsform av substantiv, adjektiv og pronomen som viser forholdet til andre ledd i setningen",
+      "translation": "inflectional form of nouns, adjectives, and pronouns that shows their relationship to other parts of the sentence",
+      "examples": [
+        {
+          "no": "norrønt har de fire kasusene nominativ, genitiv, dativ og akkusativ",
+          "en": "Old Norse has the four cases nominative, genitive, dative and accusative"
+        }
+      ]
+    }
+  ]
+}

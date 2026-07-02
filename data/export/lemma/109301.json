@@ -1,0 +1,126 @@
+{
+  "source_article_id": 109301,
+  "lemmas": [
+    {
+      "lemma": "biltur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 90403,
+      "is_sub_article": false,
+      "primary_translation": "car trip",
+      "word_forms": [
+        {
+          "word_form": "biltur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%t}:r",
+              "ipa": "ˈbɪːlˌtʉːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bilturen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%t}:$n`=",
+              "ipa": "ˈbɪːlˌtʉːɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bilturer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%t}:$r@r",
+              "ipa": "ˈbɪːlˌtʉːrər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bilturene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%t}:$n`=$@",
+              "ipa": "ˈbɪːlˌtʉːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b86eabff238a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b86eabff238a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b86eabff238a.mp3",
+            "text": "biltur",
+            "source": "generated",
+            "content_sha256": "218ca5add85b723fd0f1e1b6d5419d19ddf43f09744518dfd884876fa9f1d75d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tur med bil",
+      "translation": "trip by car",
+      "examples": [
+        {
+          "no": "legge ut på biltur",
+          "en": "set out on a car trip"
+        },
+        {
+          "no": "en times biltur",
+          "en": "an hour's drive"
+        }
+      ]
+    }
+  ]
+}

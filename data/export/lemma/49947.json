@@ -1,0 +1,77 @@
+{
+  "source_article_id": 49947,
+  "lemmas": [
+    {
+      "lemma": "sammenhengende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57301,
+      "is_sub_article": false,
+      "primary_translation": "continuous",
+      "word_forms": [
+        {
+          "word_form": "sammenhengende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA$m@n$%hEN$@$n@",
+              "ipa": "ˈsɑmənˌhɛŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dbc26d570893.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dbc26d570893.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dbc26d570893.mp3",
+            "text": "sammenhengende",
+            "source": "generated",
+            "content_sha256": "842085eae375e3005d5a0ada01bb8251593309c15c950b4fd3ebf707cfb23994",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som går i ett",
+      "translation": "going in one continuous piece",
+      "examples": [
+        {
+          "no": "et sammenhengende hele",
+          "en": "a coherent whole"
+        },
+        {
+          "no": "store, sammenhengende fjellvidder",
+          "en": "large, continuous mountain plateaus"
+        },
+        {
+          "no": "det regnet sammenhengende hele ferien",
+          "en": "it rained continuously the whole vacation"
+        }
+      ]
+    }
+  ]
+}

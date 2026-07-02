@@ -1,0 +1,108 @@
+{
+  "source_article_id": 133693,
+  "lemmas": [
+    {
+      "lemma": "umarkert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2981641,
+      "is_sub_article": false,
+      "primary_translation": "unmarked / not guarded",
+      "word_forms": [
+        {
+          "word_form": "umarkert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$mAr$%ke:t`",
+              "ipa": "ˈʉːmɑrˌkeːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "umarkerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːmɑrkˌeːʈə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2ede34355910.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ede34355910.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ede34355910.mp3",
+            "text": "umarkert",
+            "source": "generated",
+            "content_sha256": "66adc0c351ae4684b7021ecb757207b8e8b6ce6c4e0183e7baf91d6f48ea9a04",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke blir sett på som utstikkende eller uvanlig",
+      "translation": "that is not seen as outstanding or unusual",
+      "examples": []
+    },
+    {
+      "text": "normal, alminnelig, vanlig",
+      "translation": "normal, common, usual",
+      "examples": [
+        {
+          "no": "skrive med en umarkert stil",
+          "en": "write in an unmarked style"
+        },
+        {
+          "no": "umarkerte kulturelle praksiser",
+          "en": "unmarked cultural practices"
+        }
+      ]
+    },
+    {
+      "text": "i lagidrett: som ingen markere",
+      "translation": "in team sports: not marked by anyone",
+      "examples": [
+        {
+          "no": "spissen er umarkert foran mål",
+          "en": "the striker is unmarked in front of goal"
+        }
+      ]
+    }
+  ]
+}

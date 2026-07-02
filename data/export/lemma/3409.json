@@ -1,0 +1,127 @@
+{
+  "source_article_id": 3409,
+  "lemmas": [
+    {
+      "lemma": "avdrag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 4054,
+      "is_sub_article": false,
+      "primary_translation": "installment payment",
+      "word_forms": [
+        {
+          "word_form": "avdrag",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$%drA:g",
+              "ipa": "ˈɑːvˌdrɑːg",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "avdraget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$%drA:$g@",
+              "ipa": "ˈɑːvˌdrɑːgə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "avdraga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$%drA:$gA",
+              "ipa": "ˈɑːvˌdrɑːgɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "avdragene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$%drA:$g@$n@",
+              "ipa": "ˈɑːvˌdrɑːgənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e690de6052da.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e690de6052da.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e690de6052da.mp3",
+            "text": "avdrag",
+            "source": "generated",
+            "content_sha256": "1a383d4140d48e8affcd60e3a07b5b56363d6435e9bbe6b348a490dac7022ab8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sum som en betaler av på en gjeld",
+      "translation": "sum paid off on a debt",
+      "examples": [
+        {
+          "no": "betale renter og avdrag",
+          "en": "pay interest and installments"
+        },
+        {
+          "no": "beløpet skal betales i tolv månedlige avdrag",
+          "en": "the amount is to be paid in twelve monthly installments"
+        }
+      ]
+    }
+  ]
+}

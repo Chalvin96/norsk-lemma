@@ -1,0 +1,100 @@
+{
+  "source_article_id": 12531,
+  "lemmas": [
+    {
+      "lemma": "eminent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14617,
+      "is_sub_article": false,
+      "primary_translation": "eminent",
+      "word_forms": [
+        {
+          "word_form": "eminent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$mI$\"nEnt",
+              "ipa": "ɛmɪˈnɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eminente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$mI$\"nEn$t@",
+              "ipa": "ɛmɪˈnɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8ad23e7315ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ad23e7315ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ad23e7315ab.mp3",
+            "text": "eminent",
+            "source": "generated",
+            "content_sha256": "4674c04f84ecbd9aebac326e9e9159ee8597cc06d32c5cf11c0e712cb7e9fd19",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "eksepsjonelt god",
+      "translation": "exceptionally good",
+      "examples": []
+    },
+    {
+      "text": "fremragende, ypperlig",
+      "translation": "outstanding, excellent",
+      "examples": [
+        {
+          "no": "eminente musikere",
+          "en": "outstanding musicians"
+        },
+        {
+          "no": "en eminent skuespiller",
+          "en": "an outstanding actor"
+        },
+        {
+          "no": "ha en eminent teknikk",
+          "en": "have an excellent technique"
+        }
+      ]
+    }
+  ]
+}

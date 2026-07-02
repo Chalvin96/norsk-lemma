@@ -1,0 +1,152 @@
+{
+  "source_article_id": 121506,
+  "lemmas": [
+    {
+      "lemma": "lagringstid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 118978,
+      "is_sub_article": false,
+      "primary_translation": "storage time",
+      "word_forms": [
+        {
+          "word_form": "lagringstid",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA:$grIN$%sti:d",
+              "ipa": "ˈlɑːgrɪŋˌstɪːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lagringstiden",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA:$grIN$%sti:$dn=",
+              "ipa": "ˈlɑːgrɪŋˌstɪːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lagringstider",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lA:$grIN$%sti:$d@r",
+              "ipa": "ˈlɑːgrɪŋˌstɪːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lagringstidene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑːgrɪŋstˌiːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lagringstida",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑːgrɪŋstˌiːɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ca517397e028.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca517397e028.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca517397e028.mp3",
+            "text": "lagringstid",
+            "source": "generated",
+            "content_sha256": "f5e103c894dabadda6f772462cdd7cf4fb536286d54bd5d077f41aabd61c936f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tidsrom der noe er lagret",
+      "translation": "period of time during which something is stored",
+      "examples": [
+        {
+          "no": "lagringstid for varer",
+          "en": "storage time for goods"
+        },
+        {
+          "no": "velge whisky etter lagringstid og merke",
+          "en": "choose whisky by storage time and brand"
+        }
+      ]
+    }
+  ]
+}

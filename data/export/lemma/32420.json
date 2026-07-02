@@ -1,0 +1,112 @@
+{
+  "source_article_id": 32420,
+  "lemmas": [
+    {
+      "lemma": "krympefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82808,
+      "is_sub_article": false,
+      "primary_translation": "non-shrinkable",
+      "word_forms": [
+        {
+          "word_form": "krympefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"krYm$p@$%fri:",
+              "ipa": "ˈkrʏmpəˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "krympefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"krYm$p@$%fri:$@",
+              "ipa": "ˈkrʏmpəˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "krympefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"krYm$p@$%frIt",
+              "ipa": "ˈkrʏmpəˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "497b27c01cf1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/497b27c01cf1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/497b27c01cf1.mp3",
+            "text": "krympefri",
+            "source": "generated",
+            "content_sha256": "f78fd4d8342369eedddef2d0d427bda146193f5d488425fcfbc19a1e4e81ef86",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke krympe",
+      "translation": "that does not shrink",
+      "examples": []
+    },
+    {
+      "text": "som ikke minker",
+      "translation": "that does not diminish",
+      "examples": [
+        {
+          "no": "krympefrie sokker",
+          "en": "shrink-resistant socks"
+        },
+        {
+          "no": "krympefrie lønningsposer",
+          "en": "non-shrinking pay envelopes"
+        }
+      ]
+    }
+  ]
+}

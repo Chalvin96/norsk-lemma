@@ -1,0 +1,91 @@
+{
+  "source_article_id": 67518,
+  "lemmas": [
+    {
+      "lemma": "velskapt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77932,
+      "is_sub_article": false,
+      "primary_translation": "well-formed",
+      "word_forms": [
+        {
+          "word_form": "velskapt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEl$%skApt",
+              "ipa": "ˈvɛlˌskɑpt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "velskapte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEl$%skAp$t@",
+              "ipa": "ˈvɛlˌskɑptə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5249980101e3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5249980101e3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5249980101e3.mp3",
+            "text": "velskapt",
+            "source": "generated",
+            "content_sha256": "165ce8ec2a6383e3e4088fe8a74d1010057189b8dd13b0db29de2f93fbf65b34",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "normalt eller godt skapt",
+      "translation": "",
+      "examples": [
+        {
+          "no": "føde et velskapt barn",
+          "en": "give birth to a well-formed child"
+        },
+        {
+          "no": "velskapte hender",
+          "en": "well-formed hands"
+        }
+      ]
+    }
+  ]
+}

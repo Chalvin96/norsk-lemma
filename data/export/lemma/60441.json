@@ -1,0 +1,138 @@
+{
+  "source_article_id": 60441,
+  "lemmas": [
+    {
+      "lemma": "terror",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 69116,
+      "is_sub_article": false,
+      "primary_translation": "terror",
+      "word_forms": [
+        {
+          "word_form": "terror",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t{$rUr",
+              "ipa": "ˈtærʊr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "terroren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t{$rU$n`=",
+              "ipa": "ˈtærʊɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "terrorer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈærurər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "terrorene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tərˈuːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2c97974db6ff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2c97974db6ff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2c97974db6ff.mp3",
+            "text": "terror",
+            "source": "generated",
+            "content_sha256": "d5586e662e94a451edab11367b615e907deab4249b4acef853242eea4a1b967a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bruk av (trusler om) vold for å oppnå visse mål",
+      "translation": "use of (threats of) violence to achieve certain goals",
+      "examples": [
+        {
+          "no": "politisk terror",
+          "en": "political terror"
+        },
+        {
+          "no": "psykisk terror",
+          "en": "psychological terror"
+        },
+        {
+          "no": "blind terror",
+          "en": "indiscriminate terror"
+        },
+        {
+          "no": "sikre seg mot terror",
+          "en": "protect oneself against terror"
+        }
+      ]
+    }
+  ]
+}

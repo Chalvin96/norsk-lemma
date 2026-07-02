@@ -1,0 +1,110 @@
+{
+  "source_article_id": 31048,
+  "lemmas": [
+    {
+      "lemma": "kompleks",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 36565,
+      "is_sub_article": false,
+      "primary_translation": "complex",
+      "word_forms": [
+        {
+          "word_form": "kompleks",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUm$\"plEks",
+              "ipa": "kʊmˈplɛks",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "komplekse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUm$\"plEk$s@",
+              "ipa": "kʊmˈplɛksə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "komplekst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUm$\"plEkst",
+              "ipa": "kʊmˈplɛkst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "26ada00c675a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/26ada00c675a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/26ada00c675a.mp3",
+            "text": "kompleks",
+            "source": "generated",
+            "content_sha256": "04ee358da742e3ce864858476cc85a779162c4e9f16cddfb01ca2f1560334e81",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sammensatt av mange deler eller elementer",
+      "translation": "composed of many parts or elements",
+      "examples": [
+        {
+          "no": "en kompleks situasjon",
+          "en": "a complex situation"
+        },
+        {
+          "no": "en stor og kompleks organisasjon",
+          "en": "a large and complex organization"
+        }
+      ]
+    }
+  ]
+}

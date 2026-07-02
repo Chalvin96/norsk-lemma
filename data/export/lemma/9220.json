@@ -1,0 +1,85 @@
+{
+  "source_article_id": 9220,
+  "lemmas": [
+    {
+      "lemma": "dampdrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 10889,
+      "is_sub_article": false,
+      "primary_translation": "steam-powered",
+      "word_forms": [
+        {
+          "word_form": "dampdrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dAmp$%dre:$v@t",
+              "ipa": "ˈdɑmpˌdreːvət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dampdrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dAmp$%dre:v$n@",
+              "ipa": "ˈdɑmpˌdreːvnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "75b6a9165338.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75b6a9165338.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75b6a9165338.mp3",
+            "text": "dampdrevet",
+            "source": "generated",
+            "content_sha256": "f1c31888c0e408efc569d65605cfb15b750916914a74afb4504653eeb11cd0b8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har damp som drivkraft",
+      "translation": "having steam as its motive power",
+      "examples": [
+        {
+          "no": "et dampdrevet lokomotiv",
+          "en": "a steam-powered locomotive"
+        }
+      ]
+    }
+  ]
+}

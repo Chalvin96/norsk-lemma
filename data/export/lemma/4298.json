@@ -1,0 +1,126 @@
+{
+  "source_article_id": 4298,
+  "lemmas": [
+    {
+      "lemma": "balsa",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5088,
+      "is_sub_article": false,
+      "primary_translation": "balsa wood",
+      "word_forms": [
+        {
+          "word_form": "balsa",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAl$sA",
+              "ipa": "ˈbɑlsɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "balsaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAl$sA$@n",
+              "ipa": "ˈbɑlsɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "balsaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɑlsɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "balsaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɑlsɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6a8a9fa5d10d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a8a9fa5d10d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a8a9fa5d10d.mp3",
+            "text": "balsa",
+            "source": "generated",
+            "content_sha256": "6d678fa8d9b84d34094acefe1701baee2693287b03a91f8b691bdad2ce5c924e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ved, trevirke av balsatre",
+      "translation": "wood from the balsa tree",
+      "examples": [
+        {
+          "no": "bygge en lett flåte av balsa",
+          "en": "build a light raft out of balsa"
+        }
+      ]
+    }
+  ]
+}

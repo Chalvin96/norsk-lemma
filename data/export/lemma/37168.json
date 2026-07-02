@@ -1,0 +1,135 @@
+{
+  "source_article_id": 37168,
+  "lemmas": [
+    {
+      "lemma": "mars",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 43587,
+      "is_sub_article": false,
+      "primary_translation": "March",
+      "word_forms": [
+        {
+          "word_form": "mars",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mAs`",
+              "ipa": "ˈmɑʂ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "marsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑʂɳ̩",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "marser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɑʂər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "marsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɑʂɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "63645ff00643.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63645ff00643.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63645ff00643.mp3",
+            "text": "mars",
+            "source": "generated",
+            "content_sha256": "fa8218474547355408868fbec775281eabd1bd25c35de426d4eae27859ac127a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "årets tredje måned",
+      "translation": "the third month of the year",
+      "examples": [
+        {
+          "no": "de første dagene i mars",
+          "en": "the first days of March"
+        },
+        {
+          "no": "i mars måned",
+          "en": "in the month of March"
+        },
+        {
+          "no": "være født 3. mars 1993",
+          "en": "be born on 3 March 1993"
+        }
+      ]
+    }
+  ]
+}

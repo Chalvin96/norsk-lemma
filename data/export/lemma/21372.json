@@ -1,0 +1,241 @@
+{
+  "source_article_id": 21372,
+  "lemmas": [
+    {
+      "lemma": "grå",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 24864,
+      "is_sub_article": false,
+      "primary_translation": "gray / pale / cloudy / unexciting / unregulated",
+      "word_forms": [
+        {
+          "word_form": "grå",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gro:",
+              "ipa": "ˈgroː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gråe",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gro:$@",
+              "ipa": "ˈgroːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grått",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"grOt",
+              "ipa": "ˈgrɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gråere",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gro:$@$r@",
+              "ipa": "ˈgroːərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gråest",
+          "tags_json": [
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gro:$@$st",
+              "ipa": "ˈgroːəst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gråeste",
+          "tags_json": [
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gro:$@$st@",
+              "ipa": "ˈgroːəstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "42e6d9951ba4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42e6d9951ba4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42e6d9951ba4.mp3",
+            "text": "grå",
+            "source": "generated",
+            "content_sha256": "aeb446fd45b747ca30115b28abe0156ecdfa4fcd29652b3a5e9df3c24150a862",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har en farge mellom hvit og svart",
+      "translation": "having a color between white and black",
+      "examples": [
+        {
+          "no": "en grå betongmur",
+          "en": "a gray concrete wall"
+        },
+        {
+          "no": "ta på seg den grå dressen",
+          "en": "put on the gray suit"
+        },
+        {
+          "no": "ha grått skjegg",
+          "en": "have a gray beard"
+        }
+      ]
+    },
+    {
+      "text": "som ser gusten og sliten ut",
+      "translation": "looking pale and tired",
+      "examples": [
+        {
+          "no": "være grå i ansiktet",
+          "en": "be gray in the face"
+        },
+        {
+          "no": "han har blitt gammel og grå",
+          "en": "he has grown old and gray"
+        },
+        {
+          "no": "hun ble tidlig grå",
+          "en": "she went gray early"
+        }
+      ]
+    },
+    {
+      "text": "skyet skya, disig, uklar",
+      "translation": "cloudy, hazy, unclear",
+      "examples": [
+        {
+          "no": "grått vær",
+          "en": "gray weather"
+        },
+        {
+          "no": "en grå dag",
+          "en": "a gray day"
+        }
+      ]
+    },
+    {
+      "text": "lite spennende",
+      "translation": "unexciting",
+      "examples": []
+    },
+    {
+      "text": "fargeløs, trist, ensformig",
+      "translation": "colorless, sad, monotonous",
+      "examples": [
+        {
+          "no": "en grå tilværelse",
+          "en": "a gray existence"
+        },
+        {
+          "no": "grått humør",
+          "en": "gray mood"
+        },
+        {
+          "no": "ikke se de eldre som en grå masse",
+          "en": "not see the elderly as a gray mass"
+        }
+      ]
+    },
+    {
+      "text": "som går utenom loven eller offisielle kanaler",
+      "translation": "operating outside the law or official channels",
+      "examples": []
+    },
+    {
+      "text": "ukontrollert, uregulert",
+      "translation": "uncontrolled, unregulated",
+      "examples": [
+        {
+          "no": "låne penger i det grå markedet",
+          "en": "borrow money on the gray market"
+        },
+        {
+          "no": "det grå arbeidsmarkedet",
+          "en": "the gray labor market"
+        },
+        {
+          "no": "grått arbeid",
+          "en": "gray work"
+        }
+      ]
+    }
+  ]
+}

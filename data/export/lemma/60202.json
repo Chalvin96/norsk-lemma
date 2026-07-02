@@ -1,0 +1,130 @@
+{
+  "source_article_id": 60202,
+  "lemmas": [
+    {
+      "lemma": "telemetri",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68865,
+      "is_sub_article": false,
+      "primary_translation": "telemetry",
+      "word_forms": [
+        {
+          "word_form": "telemetri",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$l@$m@$\"tri:",
+              "ipa": "tələməˈtrɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "telemetrien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$l@$m@$\"tri:$@n",
+              "ipa": "tələməˈtrɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "telemetrier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tələmətrˈiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "telemetriene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tələmətrˈiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ef58e24aa5db.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef58e24aa5db.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef58e24aa5db.mp3",
+            "text": "telemetri",
+            "source": "generated",
+            "content_sha256": "ab6b09d8c67c7ba66e063f4620b6a7bcb9d021a998a19fdb49742a0016d828c5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "automatisk overføring av data over større avstander ved hjelp av telekommunikasjon",
+      "translation": "automatic transmission of data over long distances using telecommunication",
+      "examples": [
+        {
+          "no": "forskerne sporet hvalen ved hjelp av en GPS-sender og telemetri",
+          "en": "the researchers tracked the whale using a GPS transmitter and telemetry"
+        },
+        {
+          "no": "pasienten ble overvåket av telemetri",
+          "en": "the patient was monitored by telemetry"
+        }
+      ]
+    }
+  ]
+}

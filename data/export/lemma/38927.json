@@ -1,0 +1,137 @@
+{
+  "source_article_id": 38927,
+  "lemmas": [
+    {
+      "lemma": "moll",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45665,
+      "is_sub_article": false,
+      "primary_translation": "minor key / major key / melancholic mood",
+      "word_forms": [
+        {
+          "word_form": "moll",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mOl",
+              "ipa": "ˈmɔl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mollen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mO$ln=",
+              "ipa": "ˈmɔln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "moller",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mO$l@r",
+              "ipa": "ˈmɔlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mollene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mO$ln=$@",
+              "ipa": "ˈmɔln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "899ee75781a9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/899ee75781a9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/899ee75781a9.mp3",
+            "text": "moll",
+            "source": "generated",
+            "content_sha256": "ac0ea0b2a0f2cd2e7c086cedbbb51c3b568966d5082f4d078296f04476ce0ceb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "toneart med liten ters",
+      "translation": "musical key with a minor third",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra dur",
+      "translation": "major key",
+      "examples": [
+        {
+          "no": "stykket går i moll",
+          "en": "the piece is in a minor key"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: mørk, sørgmodig stemning",
+      "translation": "dark, melancholic mood",
+      "examples": [
+        {
+          "no": "talen var stemt i moll",
+          "en": "the speech was in a minor key"
+        }
+      ]
+    }
+  ]
+}

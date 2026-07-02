@@ -1,0 +1,57 @@
+{
+  "source_article_id": 123499,
+  "lemmas": [
+    {
+      "lemma": "NOK",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 2008000,
+      "is_sub_article": false,
+      "primary_translation": "NOK",
+      "word_forms": [
+        {
+          "word_form": "NOK",
+          "tags_json": [
+            "SYM"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nOk",
+              "ipa": "ˈnɔk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a5586584652f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a5586584652f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a5586584652f.mp3",
+            "text": "NOK",
+            "source": "generated",
+            "content_sha256": "61d047704460b60d1dd2f1767f33f3601445a9904b9badb660f23297e0a74a96",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "valutakode for norske kroner",
+      "translation": "currency code for Norwegian kroner",
+      "examples": []
+    }
+  ]
+}

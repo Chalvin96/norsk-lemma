@@ -1,0 +1,213 @@
+{
+  "source_article_id": 11447,
+  "lemmas": [
+    {
+      "lemma": "dø",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 13385,
+      "is_sub_article": false,
+      "primary_translation": "die / cease",
+      "word_forms": [
+        {
+          "word_form": "dø",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d2:",
+              "ipa": "ˈdøː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dør",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d2:r",
+              "ipa": "ˈdøːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "døs",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d2:s",
+              "ipa": "ˈdøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "døde",
+          "tags_json": [
+            "verb",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$d@",
+              "ipa": "ˈdøːdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dødd",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d9d",
+              "ipa": "ˈdœd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dødde",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d9$d@",
+              "ipa": "ˈdœdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "døende",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$@$n@",
+              "ipa": "ˈdøːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e8d3505d98d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e8d3505d98d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e8d3505d98d.mp3",
+            "text": "dø",
+            "source": "generated",
+            "content_sha256": "ba2408898987431d0e515e1cb50de594ac130370d01cd6955bc37fb187efc76e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "slutte å leve",
+      "translation": "to cease to live",
+      "examples": [
+        {
+          "no": "dø av kreft",
+          "en": "die of cancer"
+        },
+        {
+          "no": "dø en naturlig død",
+          "en": "die a natural death"
+        },
+        {
+          "no": "dø fra familien",
+          "en": "die, leaving one's family behind"
+        },
+        {
+          "no": "de døde i krigen",
+          "en": "they died in the war"
+        }
+      ]
+    },
+    {
+      "text": "slutte å være til",
+      "translation": "to cease to exist",
+      "examples": []
+    },
+    {
+      "text": "ta slutt",
+      "translation": "to end",
+      "examples": [
+        {
+          "no": "dyrearten dør ut",
+          "en": "the species is dying out"
+        },
+        {
+          "no": "tonene døde bort",
+          "en": "the notes died away"
+        },
+        {
+          "no": "minnet om henne skal aldri dø",
+          "en": "the memory of her will never die"
+        }
+      ]
+    }
+  ]
+}

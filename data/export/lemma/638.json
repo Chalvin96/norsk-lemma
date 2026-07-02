@@ -1,0 +1,126 @@
+{
+  "source_article_id": 638,
+  "lemmas": [
+    {
+      "lemma": "aktør",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1436,
+      "is_sub_article": false,
+      "primary_translation": "actor / actress",
+      "word_forms": [
+        {
+          "word_form": "aktør",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$\"t2:r",
+              "ipa": "ɑkˈtøːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktøren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$\"t2:$n`=",
+              "ipa": "ɑkˈtøːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktører",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$\"t2:$r@r",
+              "ipa": "ɑkˈtøːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktørene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$\"t2:$n`=$@",
+              "ipa": "ɑkˈtøːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4c93634e866a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4c93634e866a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4c93634e866a.mp3",
+            "text": "aktør",
+            "source": "generated",
+            "content_sha256": "06eab77fc9a4078e906ad6f52316be556d823c60a5a9a17d5bc8578ec607c427",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "handlende, medvirkende person",
+      "translation": "acting person, participant",
+      "examples": [
+        {
+          "no": "alle aktørene på scenen var amatører",
+          "en": "all the actors on stage were amateurs"
+        },
+        {
+          "no": "aktørene på verdensarenaen",
+          "en": "the players on the world stage"
+        }
+      ]
+    }
+  ]
+}

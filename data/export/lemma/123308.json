@@ -1,0 +1,127 @@
+{
+  "source_article_id": 123308,
+  "lemmas": [
+    {
+      "lemma": "krøll",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 2007211,
+      "is_sub_article": false,
+      "primary_translation": "trouble",
+      "word_forms": [
+        {
+          "word_form": "krøll",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kr9l",
+              "ipa": "ˈkrœl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "krøllet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kr9$l@t",
+              "ipa": "ˈkrœlət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "krølla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kr9$lA",
+              "ipa": "ˈkrœlɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "krøllene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kr9$ln=$@",
+              "ipa": "ˈkrœln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ac892dba4ba7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac892dba4ba7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac892dba4ba7.mp3",
+            "text": "krøll",
+            "source": "generated",
+            "content_sha256": "c7dc63d1a0c3db99a17d9ca58c998459aed5a62395a874243caace82c1437eb3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vanskelighet, problem",
+      "translation": "difficulty, problem",
+      "examples": [
+        {
+          "no": "lage krøll",
+          "en": "make trouble"
+        },
+        {
+          "no": "i starten hadde vi tekniske problemer og annet krøll",
+          "en": "at the beginning we had technical problems and other hassles"
+        }
+      ]
+    }
+  ]
+}

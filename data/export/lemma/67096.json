@@ -1,0 +1,106 @@
+{
+  "source_article_id": 67096,
+  "lemmas": [
+    {
+      "lemma": "vedtaksfør",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77322,
+      "is_sub_article": false,
+      "primary_translation": "capable of making decisions",
+      "word_forms": [
+        {
+          "word_form": "vedtaksfør",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ve:$tAks$%f2:r",
+              "ipa": "ˈveːtɑksˌføːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vedtaksføre",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ve:$tAks$%f2:$r@",
+              "ipa": "ˈveːtɑksˌføːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vedtaksført",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ve:$tA:ks$%f2:t`",
+              "ipa": "ˈveːtɑːksˌføːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "46338109adbb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46338109adbb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/46338109adbb.mp3",
+            "text": "vedtaksfør",
+            "source": "generated",
+            "content_sha256": "e94b19756b4f9f059e9bf497922520081c22228fffdffd3596eb5b78a544ee64",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fyller kravene til å gjøre gyldige vedtak, beslutningsdyktig",
+      "translation": "meeting quorum requirements, capable of making valid decisions",
+      "examples": [
+        {
+          "no": "sette en nedre grense for når et allmøte er vedtaksført",
+          "en": "set a lower limit for when a general meeting has a quorum"
+        }
+      ]
+    }
+  ]
+}

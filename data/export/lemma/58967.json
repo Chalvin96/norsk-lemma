@@ -1,0 +1,102 @@
+{
+  "source_article_id": 58967,
+  "lemmas": [
+    {
+      "lemma": "syklisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67527,
+      "is_sub_article": false,
+      "primary_translation": "cyclic / recurring",
+      "word_forms": [
+        {
+          "word_form": "syklisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sy:$klI$sk",
+              "ipa": "ˈsyːklɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sykliske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sy:$klI$sk@",
+              "ipa": "ˈsyːklɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "48c136e67826.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48c136e67826.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48c136e67826.mp3",
+            "text": "syklisk",
+            "source": "generated",
+            "content_sha256": "a957ad6440c039e1f0d04426bad0d048bd6594cdc39fec26e09437df1fc0b4a7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som går i kretsløp",
+      "translation": "as opposed to alifatisk",
+      "examples": []
+    },
+    {
+      "text": "som er regelmessig tilbakevendende",
+      "translation": "regularly recurring",
+      "examples": []
+    },
+    {
+      "text": "i kjemi: med karbonatomer som er bundet sammen i ringer",
+      "translation": "in chemistry: having carbon atoms bonded together in rings",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra alifatisk",
+      "translation": "as opposed to aliphatic",
+      "examples": [
+        {
+          "no": "sykliske forbindelser",
+          "en": "cyclic compounds"
+        }
+      ]
+    }
+  ]
+}

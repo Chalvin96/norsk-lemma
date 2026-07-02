@@ -1,0 +1,134 @@
+{
+  "source_article_id": 109258,
+  "lemmas": [
+    {
+      "lemma": "batch",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 89029,
+      "is_sub_article": false,
+      "primary_translation": "batch / IT batch",
+      "word_forms": [
+        {
+          "word_form": "batch",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɛtʃ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "batchen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɛtʃn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "batcher",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɛtʃər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "batchene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɛtʃn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "86180c88cc48.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/86180c88cc48.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/86180c88cc48.mp3",
+            "text": "batch",
+            "source": "generated",
+            "content_sha256": "f9a55af358111c98dd0311a87132486636184fa795863fe827acdda99b37ff8b"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe som produseres i én omgang",
+      "translation": "something produced in one go",
+      "examples": [
+        {
+          "no": "lage en batch med øl",
+          "en": "make a batch of beer"
+        }
+      ]
+    },
+    {
+      "text": "i IT: samling prosesser eller datafiler som behandles som én enhet",
+      "translation": "in IT: collection of processes or data files treated as a single unit",
+      "examples": []
+    }
+  ]
+}

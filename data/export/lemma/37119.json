@@ -1,0 +1,95 @@
+{
+  "source_article_id": 37119,
+  "lemmas": [
+    {
+      "lemma": "markert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43536,
+      "is_sub_article": false,
+      "primary_translation": "marked / pronounced",
+      "word_forms": [
+        {
+          "word_form": "markert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mAr$\"ke:t`",
+              "ipa": "mɑrˈkeːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "markerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mAr$\"ke:$t`@",
+              "ipa": "mɑrˈkeːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eb1285b87e2a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb1285b87e2a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb1285b87e2a.mp3",
+            "text": "markert",
+            "source": "generated",
+            "content_sha256": "f615651b93efe232688aebeb22f1454d70102c4d87c1b54963b9fbeb40787ee1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skarp, klar, utpreget utprega",
+      "translation": "sharp, clear, pronounced",
+      "examples": [
+        {
+          "no": "markerte ansiktstrekk",
+          "en": "pronounced facial features"
+        },
+        {
+          "no": "en markert prisforskjell",
+          "en": "a marked difference in price"
+        },
+        {
+          "no": "et markert standpunkt",
+          "en": "a clear stance"
+        }
+      ]
+    }
+  ]
+}

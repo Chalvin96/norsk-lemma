@@ -1,0 +1,198 @@
+{
+  "source_article_id": 56238,
+  "lemmas": [
+    {
+      "lemma": "spontan",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64725,
+      "is_sub_article": false,
+      "primary_translation": "spontaneous / impulsive",
+      "word_forms": [
+        {
+          "word_form": "spontan",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spOn$\"tA:n",
+              "ipa": "spɔnˈtɑːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spontane",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spOn$\"tA:$n@",
+              "ipa": "spɔnˈtɑːnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spontant",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "spOn$\"tA:nt",
+              "ipa": "spɔnˈtɑːnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spontanere",
+          "tags_json": [
+            "a1",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "spɔntˈɑːnərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "spontanest",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "spɔntˈɑːnəst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "spontaneste",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "spɔntˈɑːnəstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a7c80750e14.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a7c80750e14.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a7c80750e14.mp3",
+            "text": "spontan",
+            "source": "generated",
+            "content_sha256": "081b5ab58509d8011ebfc16ee8f51c343de1419db66fa2cefb5825ccab77e775",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er planlagt",
+      "translation": "not planned",
+      "examples": []
+    },
+    {
+      "text": "plutselig, brå",
+      "translation": "sudden, abrupt",
+      "examples": [
+        {
+          "no": "spontane reaksjoner",
+          "en": "spontaneous reactions"
+        },
+        {
+          "no": "vekke spontan latter",
+          "en": "trigger spontaneous laughter"
+        },
+        {
+          "no": "få spontan applaus",
+          "en": "receive spontaneous applause"
+        }
+      ]
+    },
+    {
+      "text": "om person: impulsiv",
+      "translation": "concerning a person: impulsive",
+      "examples": [
+        {
+          "no": "spontane mennesker",
+          "en": "spontaneous people"
+        }
+      ]
+    },
+    {
+      "text": "som skjer av seg selv",
+      "translation": "happening by itself",
+      "examples": [
+        {
+          "no": "en spontan abort",
+          "en": "a spontaneous abortion"
+        }
+      ]
+    }
+  ]
+}

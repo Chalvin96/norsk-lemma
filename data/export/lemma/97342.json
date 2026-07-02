@@ -1,0 +1,139 @@
+{
+  "source_article_id": 97342,
+  "lemmas": [
+    {
+      "lemma": "lira",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157923,
+      "is_sub_article": false,
+      "primary_translation": "Lira",
+      "word_forms": [
+        {
+          "word_form": "lira",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"li:$rA",
+              "ipa": "ˈlɪːrɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "liraen",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈiːrɑən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "liraer",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈiːrɑər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "liraene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈiːrɑənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5779d4707c06.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5779d4707c06.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5779d4707c06.mp3",
+            "text": "lira",
+            "source": "generated",
+            "content_sha256": "83e1c29004f43e52debedc05ba460e682482f2de062e4162c99508d4891e55da",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "myntenhet i Tyrkia",
+      "translation": "currency unit in Turkey",
+      "examples": [
+        {
+          "no": "1 tyrkisk lira = 100 kurus",
+          "en": "1 Turkish lira = 100 kurus"
+        }
+      ]
+    },
+    {
+      "text": "tidligere myntenhet på Malta",
+      "translation": "former currency unit in Malta",
+      "examples": [
+        {
+          "no": "1 maltesisk lira = 100 cent",
+          "en": "1 Maltese lira = 100 cents"
+        }
+      ]
+    }
+  ]
+}

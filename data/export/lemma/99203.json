@@ -1,0 +1,90 @@
+{
+  "source_article_id": 99203,
+  "lemmas": [
+    {
+      "lemma": "anamnestisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 157136,
+      "is_sub_article": false,
+      "primary_translation": "anamnestic (medical history)",
+      "word_forms": [
+        {
+          "word_form": "anamnestisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑnɑmnˈeːstɪsk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "anamnestiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑnɑmnˈeːstɪskə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5d0ae9f05cae.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d0ae9f05cae.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d0ae9f05cae.mp3",
+            "text": "anamnestisk",
+            "source": "generated",
+            "content_sha256": "eeca46cbda833ba4d2d5060a5bee88d1d225ffafbd7e2a933a88373ebd8eeed9"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder anamnese",
+      "translation": "relating to anamnesis (medical history)",
+      "examples": [
+        {
+          "no": "en anamnestisk kartlegging",
+          "en": "an anamnestic assessment"
+        }
+      ]
+    }
+  ]
+}

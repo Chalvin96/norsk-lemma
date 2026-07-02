@@ -1,0 +1,111 @@
+{
+  "source_article_id": 117263,
+  "lemmas": [
+    {
+      "lemma": "hummerrød",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 166393,
+      "is_sub_article": false,
+      "primary_translation": "lobster-red",
+      "word_forms": [
+        {
+          "word_form": "hummerrød",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈumərrˌøː",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hummerrøde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈumərrˌøːdə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hummerrødt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈumərrˌœt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8c353fd4fef6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c353fd4fef6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c353fd4fef6.mp3",
+            "text": "hummerrød",
+            "source": "generated",
+            "content_sha256": "2be3ded428db5534188bfa562cebf13143cf32d0ace6bd189fa5b78949a8602c"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rød som en kokt hummer",
+      "translation": "red like a boiled lobster",
+      "examples": [
+        {
+          "no": "være hummerrød i ansiktet",
+          "en": "be lobster-red in the face"
+        }
+      ]
+    }
+  ]
+}

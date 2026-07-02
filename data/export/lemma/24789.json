@@ -1,0 +1,126 @@
+{
+  "source_article_id": 24789,
+  "lemmas": [
+    {
+      "lemma": "hverdagskost",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29233,
+      "is_sub_article": false,
+      "primary_translation": "everyday food",
+      "word_forms": [
+        {
+          "word_form": "hverdagskost",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:r$dAg$%skO$st",
+              "ipa": "ˈvæːrdɑgˌskɔst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hverdagskosten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:r$dAg$%skO$stn=",
+              "ipa": "ˈvæːrdɑgˌskɔstn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hverdagskoster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈæːrdɑgskˌɔstər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hverdagskostene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈæːrdɑgskˌɔstn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c20d9c09cd4b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c20d9c09cd4b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c20d9c09cd4b.mp3",
+            "text": "hverdagskost",
+            "source": "generated",
+            "content_sha256": "1fbb9c6b1b6c56bb02394d8e4dd82aef64217c816335ba1ac2794d123107b8b9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vanlig, enkel mat",
+      "translation": "ordinary, simple food",
+      "examples": [
+        {
+          "no": "servere sunn hverdagskost",
+          "en": "serve healthy everyday food"
+        }
+      ]
+    }
+  ]
+}

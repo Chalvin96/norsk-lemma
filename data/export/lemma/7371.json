@@ -1,0 +1,103 @@
+{
+  "source_article_id": 7371,
+  "lemmas": [
+    {
+      "lemma": "bregrønn",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 8681,
+      "is_sub_article": false,
+      "primary_translation": "glacier-green",
+      "word_forms": [
+        {
+          "word_form": "bregrønn",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bre:$%gr9n",
+              "ipa": "ˈbreːˌgrœn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bregrønne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bre:$%gr9$n@",
+              "ipa": "ˈbreːˌgrœnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bregrønt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bre:$%gr2:nt",
+              "ipa": "ˈbreːˌgrøːnt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1c86e5117e71.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1c86e5117e71.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1c86e5117e71.mp3",
+            "text": "bregrønn",
+            "source": "generated",
+            "content_sha256": "3275c82406ca439c453eeeab8933f12e2c06cfe83044c645185fb22dfeef6a3a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grønn som breis bre-is",
+      "translation": "green like glacier ice",
+      "examples": [
+        {
+          "no": "vannet er bregrønt",
+          "en": "the water is glacier-green"
+        }
+      ]
+    }
+  ]
+}

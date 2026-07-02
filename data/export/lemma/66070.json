@@ -1,0 +1,116 @@
+{
+  "source_article_id": 66070,
+  "lemmas": [
+    {
+      "lemma": "uvoksen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75841,
+      "is_sub_article": false,
+      "primary_translation": "unripe / not fully grown",
+      "word_forms": [
+        {
+          "word_form": "uvoksen",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%vOk$sn=",
+              "ipa": "ˈʉːˌvɔksn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uvoksne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%vOk$sn@",
+              "ipa": "ˈʉːˌvɔksnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uvoksent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%vOk$sn=t",
+              "ipa": "ˈʉːˌvɔksn̩t",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "54d96f311225.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54d96f311225.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54d96f311225.mp3",
+            "text": "uvoksen",
+            "source": "generated",
+            "content_sha256": "662398bc8d962f356a40c630343349945f05e374a1e8d95fc7c311bc904b2ba8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "umoden, barnslig",
+      "translation": "immature, childish",
+      "examples": [
+        {
+          "no": "hun tok situasjonen uvoksent",
+          "en": "she handled the situation immaturely"
+        }
+      ]
+    },
+    {
+      "text": "som ikke er utvokst eller voksen",
+      "translation": "not fully grown",
+      "examples": [
+        {
+          "no": "en ennå uvoksen gutt",
+          "en": "a boy not yet grown up"
+        }
+      ]
+    }
+  ]
+}

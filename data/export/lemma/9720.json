@@ -1,0 +1,140 @@
+{
+  "source_article_id": 9720,
+  "lemmas": [
+    {
+      "lemma": "demper",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11438,
+      "is_sub_article": false,
+      "primary_translation": "damper / mute",
+      "word_forms": [
+        {
+          "word_form": "demper",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dEm$p@r",
+              "ipa": "ˈdɛmpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "demperen",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dEm$p@n`",
+              "ipa": "ˈdɛmpəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dempere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dEm$p@$r@",
+              "ipa": "ˈdɛmpərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "demperne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dEm$p@$n`@",
+              "ipa": "ˈdɛmpəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dcc68a3e54d7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dcc68a3e54d7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dcc68a3e54d7.mp3",
+            "text": "demper",
+            "source": "generated",
+            "content_sha256": "958ebb1c3c6b61ed9094b54edd27fa5031ab99343e61ae5daf7e3dc4fd14e831",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe som dempe",
+      "translation": "something that dampens",
+      "examples": [
+        {
+          "no": "den bakre demperen på bilen er utslitt",
+          "en": "the rear shock absorber on the car is worn out"
+        },
+        {
+          "no": "de kjøpte nye skuffer med dempere",
+          "en": "they bought new drawers with soft-close dampers"
+        }
+      ]
+    },
+    {
+      "text": "innretning til musikkinstrument for å redusere lydsvingningene og lydstyrken",
+      "translation": "device for a musical instrument to reduce sound fluctuations and volume",
+      "examples": [
+        {
+          "no": "demperne på pianoet",
+          "en": "the dampers on the piano"
+        },
+        {
+          "no": "spille med demper",
+          "en": "play with a mute"
+        }
+      ]
+    }
+  ]
+}

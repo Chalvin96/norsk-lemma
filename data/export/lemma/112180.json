@@ -1,0 +1,127 @@
+{
+  "source_article_id": 112180,
+  "lemmas": [
+    {
+      "lemma": "fettprosent",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 97657,
+      "is_sub_article": false,
+      "primary_translation": "fat percentage",
+      "word_forms": [
+        {
+          "word_form": "fettprosent",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fEt$prU$%sEnt",
+              "ipa": "ˈfɛtprʊˌsɛnt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fettprosenten",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fEt$prU$%sEn$tn=",
+              "ipa": "ˈfɛtprʊˌsɛntn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fettprosenter",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɛtprusˌɛntər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fettprosentene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɛtprusˌɛntn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e373bc33513f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e373bc33513f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e373bc33513f.mp3",
+            "text": "fettprosent",
+            "source": "generated",
+            "content_sha256": "b861c646829078b0d77a2d613f2e08586590ab6e7cf482f4f86d310e469ab494",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fettinnhold oppgitt i prosent",
+      "translation": "fat content stated as a percentage",
+      "examples": [
+        {
+          "no": "villaks har en fettprosent på fem til sju prosent",
+          "en": "wild salmon has a fat percentage of five to seven percent"
+        }
+      ]
+    }
+  ]
+}

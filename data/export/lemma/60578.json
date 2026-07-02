@@ -1,0 +1,222 @@
+{
+  "source_article_id": 60578,
+  "lemmas": [
+    {
+      "lemma": "tid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 69271,
+      "is_sub_article": false,
+      "primary_translation": "time / tense",
+      "word_forms": [
+        {
+          "word_form": "tid",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ti:",
+              "ipa": "ˈtɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tida",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ti:$dA",
+              "ipa": "ˈtɪːdɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tider",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$d@r",
+              "ipa": "ˈtɪːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tidene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$dn=$@",
+              "ipa": "ˈtɪːdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tiden",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ti:$dn=",
+              "ipa": "ˈtɪːdn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2e1be0c58607.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e1be0c58607.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e1be0c58607.mp3",
+            "text": "tid",
+            "source": "generated",
+            "content_sha256": "cea0c33fe950f22fd256f73dd59a328b63d75ab405a766580687511e00252ef0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "varighet, (målt) tidsrom, stund",
+      "translation": "duration, measured period of time, moment",
+      "examples": [
+        {
+          "no": "ha god, dårlig, liten tid",
+          "en": "have plenty of time, be short of time, have little time"
+        },
+        {
+          "no": "ta tiden",
+          "en": "take the time"
+        },
+        {
+          "no": "dommeren blåste for full tid",
+          "en": "the referee blew for full time"
+        },
+        {
+          "no": "la henne få tid på seg til å bli ferdig",
+          "en": "give her time to finish"
+        }
+      ]
+    },
+    {
+      "text": "tidspunkt, øyeblikk",
+      "translation": "point in time, moment",
+      "examples": [
+        {
+          "no": "tiden er inne",
+          "en": "the time has come"
+        },
+        {
+          "no": "alt til sin tid",
+          "en": "all in good time"
+        },
+        {
+          "no": "min tid skal komme",
+          "en": "my time will come"
+        },
+        {
+          "no": "det var på høy tid at du kom",
+          "en": "it was high time you came"
+        }
+      ]
+    },
+    {
+      "text": "tidsalder, epoke",
+      "translation": "age, epoch",
+      "examples": [
+        {
+          "no": "tidenes morgen",
+          "en": "the dawn of time"
+        },
+        {
+          "no": "fra, siden Adams tid",
+          "en": "from, since the time of Adam"
+        },
+        {
+          "no": "i atten hundre og den tid",
+          "en": "back in the eighteen hundreds"
+        },
+        {
+          "no": "i svunne tider",
+          "en": "in times gone by"
+        }
+      ]
+    },
+    {
+      "text": "om følge, rekke av hendinger (endringer, tilstander eller lignende):",
+      "translation": "sequence, series of events (changes, states)",
+      "examples": [
+        {
+          "no": "tiden går",
+          "en": "time passes"
+        },
+        {
+          "no": "det var som om tiden stod stille",
+          "en": "it was as if time stood still"
+        },
+        {
+          "no": "tiden faller lang",
+          "en": "time drags"
+        },
+        {
+          "no": "fordrive tiden",
+          "en": "pass the time"
+        }
+      ]
+    }
+  ]
+}

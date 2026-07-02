@@ -1,0 +1,106 @@
+{
+  "source_article_id": 61379,
+  "lemmas": [
+    {
+      "lemma": "tolerant",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 70216,
+      "is_sub_article": false,
+      "primary_translation": "tolerant / patient",
+      "word_forms": [
+        {
+          "word_form": "tolerant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tO$l@$\"rAN",
+              "ipa": "tɔləˈrɑŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tolerante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tO$l@$\"rAN$@",
+              "ipa": "tɔləˈrɑŋə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "97565bac0c52.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/97565bac0c52.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/97565bac0c52.mp3",
+            "text": "tolerant",
+            "source": "generated",
+            "content_sha256": "fa6ab58340940be8e39c4ea54d3e16c9a9c5cb5ebaad07cd6973e44607c62e19",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har evne til å tåle",
+      "translation": "having the ability to tolerate",
+      "examples": [
+        {
+          "no": "være tolerant overfor alkohol",
+          "en": "be tolerant of alcohol"
+        }
+      ]
+    },
+    {
+      "text": "som viser toleranse",
+      "translation": "showing tolerance",
+      "examples": []
+    },
+    {
+      "text": "tålsom, fordragelig",
+      "translation": "patient, forbearing",
+      "examples": [
+        {
+          "no": "være tolerant",
+          "en": "be tolerant"
+        },
+        {
+          "no": "ha et tolerant syn",
+          "en": "have a tolerant view"
+        }
+      ]
+    }
+  ]
+}

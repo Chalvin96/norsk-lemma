@@ -1,0 +1,106 @@
+{
+  "source_article_id": 9990,
+  "lemmas": [
+    {
+      "lemma": "diakonal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11716,
+      "is_sub_article": false,
+      "primary_translation": "diaconal",
+      "word_forms": [
+        {
+          "word_form": "diakonal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$kU$\"nA:l",
+              "ipa": "dɪɑkʊˈnɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diakonale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$kU$\"nA:$l@",
+              "ipa": "dɪɑkʊˈnɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diakonalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$kU$\"nA:lt",
+              "ipa": "dɪɑkʊˈnɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fcd707558837.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fcd707558837.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fcd707558837.mp3",
+            "text": "diakonal",
+            "source": "generated",
+            "content_sha256": "10221dedfc22c09e5f4924c81c550d6b0a53d637a01111107574c57b7b92f854",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder diakoni",
+      "translation": "relating to diaconia (charitable work)",
+      "examples": [
+        {
+          "no": "menighetens diakonale virksomhet",
+          "en": "the parish's diaconal work"
+        }
+      ]
+    }
+  ]
+}

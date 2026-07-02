@@ -1,0 +1,115 @@
+{
+  "source_article_id": 3337,
+  "lemmas": [
+    {
+      "lemma": "autoritær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3961,
+      "is_sub_article": false,
+      "primary_translation": "authoritarian",
+      "word_forms": [
+        {
+          "word_form": "autoritær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$rI$\"t{:r",
+              "ipa": "æ͡ʉtʊrɪˈtæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "autoritære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$rI$\"t{:$r@",
+              "ipa": "æ͡ʉtʊrɪˈtæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "autoritært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$rI$\"t{:t`",
+              "ipa": "æ͡ʉtʊrɪˈtæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "55c2c201ed9b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/55c2c201ed9b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/55c2c201ed9b.mp3",
+            "text": "autoritær",
+            "source": "generated",
+            "content_sha256": "ce53259c812b538f341eb16e36da37c497bfda7d63b99e4e2d52fb1308899dab",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som krever lydighet",
+      "translation": "demanding obedience",
+      "examples": []
+    },
+    {
+      "text": "streng, diktatorisk",
+      "translation": "strict, dictatorial",
+      "examples": [
+        {
+          "no": "en autoritær lærer",
+          "en": "an authoritarian teacher"
+        },
+        {
+          "no": "autoritær oppdragelse",
+          "en": "authoritarian upbringing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_article_id": 3327,
+  "lemmas": [
+    {
+      "lemma": "autoral",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3951,
+      "is_sub_article": false,
+      "primary_translation": "authorial",
+      "word_forms": [
+        {
+          "word_form": "autoral",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$\"rA:l",
+              "ipa": "æ͡ʉtʊˈrɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "autorale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$\"rA:$l@",
+              "ipa": "æ͡ʉtʊˈrɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "autoralt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$tU$\"rA:lt",
+              "ipa": "æ͡ʉtʊˈrɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a898256ea9ae.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a898256ea9ae.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a898256ea9ae.mp3",
+            "text": "autoral",
+            "source": "generated",
+            "content_sha256": "a9bf6ccfcbc4edeed400855ece65f5b9b3ebe9c63721dfcc9c8cbfc3a67d8050",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i litteraturvitenskap: preget av forfatteren",
+      "translation": "in literary studies: characterized by the author",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra personal",
+      "translation": "in contrast to personal",
+      "examples": [
+        {
+          "no": "en autoral forteller",
+          "en": "an authorial narrator"
+        }
+      ]
+    }
+  ]
+}

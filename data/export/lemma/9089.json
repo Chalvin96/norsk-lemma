@@ -1,0 +1,95 @@
+{
+  "source_article_id": 9089,
+  "lemmas": [
+    {
+      "lemma": "dages",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 10746,
+      "is_sub_article": false,
+      "primary_translation": "to dawn / to get better",
+      "word_forms": [
+        {
+          "word_form": "dages",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$g@s",
+              "ipa": "ˈdɑːgəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dagedes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$g@$d@s",
+              "ipa": "ˈdɑːgədəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9541c43da910.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9541c43da910.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9541c43da910.mp3",
+            "text": "dages",
+            "source": "generated",
+            "content_sha256": "6c1599122382724a52c0ee85023fac762721a4f4d3e2b3d4cf3fdedb8412e3fa",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli dag",
+      "translation": "to become day",
+      "examples": [
+        {
+          "no": "det dages i øst",
+          "en": "day is breaking in the east"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: gå bedre",
+      "translation": "to get better",
+      "examples": [
+        {
+          "no": "nå dages det",
+          "en": "now things are looking up"
+        }
+      ]
+    }
+  ]
+}

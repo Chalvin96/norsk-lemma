@@ -1,0 +1,98 @@
+{
+  "source_article_id": 124063,
+  "lemmas": [
+    {
+      "lemma": "nattstått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2008514,
+      "is_sub_article": false,
+      "primary_translation": "overnight (in the sea)",
+      "word_forms": [
+        {
+          "word_form": "nattstått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɑtstˌɔt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nattståtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɑtstˌɔtə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "698a0fde804a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/698a0fde804a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/698a0fde804a.mp3",
+            "text": "nattstått",
+            "source": "generated",
+            "content_sha256": "dae1136c605a9af4ee0f3d30af063de34d21b32ef73e16794e25e3e497bbbbb8"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har stått (i sjøen) natta over",
+      "translation": "that has been in (the sea) overnight",
+      "examples": [
+        {
+          "no": "et nattstått bruk",
+          "en": "gear left overnight"
+        },
+        {
+          "no": "nattståtte liner",
+          "en": "longlines left overnight"
+        },
+        {
+          "no": "bruket var nattstått",
+          "en": "the gear had been left overnight"
+        }
+      ]
+    }
+  ]
+}

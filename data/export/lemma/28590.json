@@ -1,0 +1,96 @@
+{
+  "source_article_id": 28590,
+  "lemmas": [
+    {
+      "lemma": "kaotisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 33825,
+      "is_sub_article": false,
+      "primary_translation": "chaotic / messy",
+      "word_forms": [
+        {
+          "word_form": "kaotisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"u:$tI$sk",
+              "ipa": "kɑˈuːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kaotiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"u:$tI$sk@",
+              "ipa": "kɑˈuːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "738b8a30aec2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/738b8a30aec2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/738b8a30aec2.mp3",
+            "text": "kaotisk",
+            "source": "generated",
+            "content_sha256": "372231cb440a67898db53090222ae909a64c28731a2ad4765aafc85152fdd41b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som et kaos",
+      "translation": "like chaos",
+      "examples": []
+    },
+    {
+      "text": "rotete, uoversiktlig",
+      "translation": "messy, confusing",
+      "examples": [
+        {
+          "no": "kaotiske tilstander",
+          "en": "chaotic conditions"
+        },
+        {
+          "no": "den kaotiske situasjonen skapte stor angst i befolkningen",
+          "en": "the chaotic situation created great anxiety among the population"
+        }
+      ]
+    }
+  ]
+}

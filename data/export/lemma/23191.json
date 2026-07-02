@@ -1,0 +1,87 @@
+{
+  "source_article_id": 23191,
+  "lemmas": [
+    {
+      "lemma": "hengebratt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27348,
+      "is_sub_article": false,
+      "primary_translation": "very steep",
+      "word_forms": [
+        {
+          "word_form": "hengebratt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEN$@$%brAt",
+              "ipa": "ˈhɛŋəˌbrɑt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hengebratte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hEN$@$%brA$t@",
+              "ipa": "ˈhɛŋəˌbrɑtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "652fe8e02ac1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/652fe8e02ac1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/652fe8e02ac1.mp3",
+            "text": "hengebratt",
+            "source": "generated",
+            "content_sha256": "688cada15e9a8d2a397a48eb7c7428ae79738692117bf5d938420690798ec462",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært bratt",
+      "translation": "very steep",
+      "examples": [
+        {
+          "no": "en hengebratt skråning",
+          "en": "a very steep slope"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "source_article_id": 111223,
+  "lemmas": [
+    {
+      "lemma": "gråblå",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 103697,
+      "is_sub_article": false,
+      "primary_translation": "bluish-gray",
+      "word_forms": [
+        {
+          "word_form": "gråblå",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gro:$%blo:",
+              "ipa": "ˈgroːˌbloː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gråblåe",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈoːblˌoːə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gråblått",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gro:$%blOt",
+              "ipa": "ˈgroːˌblɔt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1030282c6e9e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1030282c6e9e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1030282c6e9e.mp3",
+            "text": "gråblå",
+            "source": "generated",
+            "content_sha256": "eea239ed85c71f5d123bc373b9a6b62de8234c2a73860b735a36c583fa7e9063",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "blå med grålig skjær",
+      "translation": "blue with a grayish hue",
+      "examples": [
+        {
+          "no": "gråblå øyne",
+          "en": "gray-blue eyes"
+        }
+      ]
+    }
+  ]
+}

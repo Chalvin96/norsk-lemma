@@ -1,0 +1,91 @@
+{
+  "source_article_id": 35694,
+  "lemmas": [
+    {
+      "lemma": "lokalkjent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41480,
+      "is_sub_article": false,
+      "primary_translation": "locally familiar",
+      "word_forms": [
+        {
+          "word_form": "lokalkjent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:l$%CEnt",
+              "ipa": "lʊˈkɑːlˌçɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokalkjente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:l$%CEn$t@",
+              "ipa": "lʊˈkɑːlˌçɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b7633b31e9f8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7633b31e9f8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7633b31e9f8.mp3",
+            "text": "lokalkjent",
+            "source": "generated",
+            "content_sha256": "7bc4b79581dcf1710999b0eea0ca5c3b27a9bb0a9747f8982718832b2dbb60ba",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er godt kjent i et visst område",
+      "translation": "well acquainted with a certain area",
+      "examples": [
+        {
+          "no": "få en lokalkjent omviser",
+          "en": "get a guide who knows the local area"
+        },
+        {
+          "no": "hun er lokalkjent i skjærgården",
+          "en": "she knows the archipelago well"
+        }
+      ]
+    }
+  ]
+}

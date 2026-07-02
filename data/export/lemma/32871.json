@@ -1,0 +1,123 @@
+{
+  "source_article_id": 32871,
+  "lemmas": [
+    {
+      "lemma": "kursfall",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 38551,
+      "is_sub_article": false,
+      "primary_translation": "fall in value",
+      "word_forms": [
+        {
+          "word_form": "kursfall",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:s`$%fAl",
+              "ipa": "ˈkʉːʂˌfɑl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kursfallet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:s`$%fA$l@",
+              "ipa": "ˈkʉːʂˌfɑlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kursfalla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:s`$%fA$lA",
+              "ipa": "ˈkʉːʂˌfɑlɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kursfallene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:s`$%fA$ln=$@",
+              "ipa": "ˈkʉːʂˌfɑln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fc879a375599.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc879a375599.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc879a375599.mp3",
+            "text": "kursfall",
+            "source": "generated",
+            "content_sha256": "b97c9405c0ee8eb6942851bddebd20c48ee75e81961cf52b32197bda58a46518",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det at verdien på verdipapir og lignende går ned, ofte brått",
+      "translation": "fall in value of securities, often sudden",
+      "examples": [
+        {
+          "no": "det store kursfallet på industriaksjer",
+          "en": "the major drop in industrial share prices"
+        }
+      ]
+    }
+  ]
+}

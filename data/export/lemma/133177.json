@@ -1,0 +1,87 @@
+{
+  "source_article_id": 133177,
+  "lemmas": [
+    {
+      "lemma": "trykt",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 71671,
+      "is_sub_article": false,
+      "primary_translation": "printed",
+      "word_forms": [
+        {
+          "word_form": "trykt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trYkt",
+              "ipa": "ˈtrʏkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "trykte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trYk$t@",
+              "ipa": "ˈtrʏktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d58b6cea5a9f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d58b6cea5a9f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d58b6cea5a9f.mp3",
+            "text": "trykt",
+            "source": "generated",
+            "content_sha256": "d6903f1dbda1cdb41aeea683c5f735d4c96e4473c1df1c631a2efad317cf6937",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er framstilt ved hjelp av trykkpresse eller lignende",
+      "translation": "produced by a printing press or similar device",
+      "examples": [
+        {
+          "no": "en trykt  tekst",
+          "en": "a printed text"
+        }
+      ]
+    }
+  ]
+}

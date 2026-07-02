@@ -1,0 +1,87 @@
+{
+  "source_article_id": 58483,
+  "lemmas": [
+    {
+      "lemma": "surøyd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 66951,
+      "is_sub_article": false,
+      "primary_translation": "sullen",
+      "word_forms": [
+        {
+          "word_form": "surøyd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s}:$%r9*Yd",
+              "ipa": "ˈsʉːˌrœ͡ʏd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "surøyde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s}:$%r9*Y$d@",
+              "ipa": "ˈsʉːˌrœ͡ʏdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "154f58687b33.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/154f58687b33.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/154f58687b33.mp3",
+            "text": "surøyd",
+            "source": "generated",
+            "content_sha256": "e17253999e7141e4cfa68949b285efe8bcae067ccd6230f39accb878d904c5c3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sur, gretten",
+      "translation": "sullen, grumpy",
+      "examples": [
+        {
+          "no": "han var surøyd og bitter",
+          "en": "he was sour-eyed and bitter"
+        }
+      ]
+    }
+  ]
+}

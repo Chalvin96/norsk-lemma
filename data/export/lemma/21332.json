@@ -1,0 +1,85 @@
+{
+  "source_article_id": 21332,
+  "lemmas": [
+    {
+      "lemma": "grønnes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 24977,
+      "is_sub_article": false,
+      "primary_translation": "turn green",
+      "word_forms": [
+        {
+          "word_form": "grønnes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr9$n@s",
+              "ipa": "ˈgrœnəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grøntes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr9n$t@s",
+              "ipa": "ˈgrœntəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f763ba8b4862.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f763ba8b4862.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f763ba8b4862.mp3",
+            "text": "grønnes",
+            "source": "generated",
+            "content_sha256": "8954285c8a4e27bd9d2115679b6fe5f8733fadb4de5a5b70cf6898090e320a62",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli grønn",
+      "translation": "to become green",
+      "examples": [
+        {
+          "no": "det grønnes i liene",
+          "en": "the hillsides are turning green"
+        }
+      ]
+    }
+  ]
+}

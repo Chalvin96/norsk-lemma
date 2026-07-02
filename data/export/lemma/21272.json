@@ -1,0 +1,129 @@
+{
+  "source_article_id": 21272,
+  "lemmas": [
+    {
+      "lemma": "gry",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 24840,
+      "is_sub_article": false,
+      "primary_translation": "dawn",
+      "word_forms": [
+        {
+          "word_form": "gry",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gry:",
+              "ipa": "ˈgryː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gryet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈyːə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "grya",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈyːɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gryene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈyːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "63096650453a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63096650453a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63096650453a.mp3",
+            "text": "gry",
+            "source": "generated",
+            "content_sha256": "812ee743e1c14cb2437c3b7dddfdf348b073593f8e1f281d1c22cc6ea00f5bdb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å gry",
+      "translation": "the act of dawning",
+      "examples": []
+    },
+    {
+      "text": "demring, grålysing grålysning",
+      "translation": "dawn, daybreak",
+      "examples": []
+    }
+  ]
+}

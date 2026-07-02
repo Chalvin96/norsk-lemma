@@ -1,0 +1,200 @@
+{
+  "source_article_id": 13032,
+  "lemmas": [
+    {
+      "lemma": "erklære",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 15163,
+      "is_sub_article": false,
+      "primary_translation": "declare / proclaim",
+      "word_forms": [
+        {
+          "word_form": "erklære",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"kl{:$r@",
+              "ipa": "ærˈklæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "erklærer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"kl{:$r@r",
+              "ipa": "ærˈklæːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "erklæres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"kl{:$r@s",
+              "ipa": "ærˈklæːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "erklærte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"kl{:$t`@",
+              "ipa": "ærˈklæːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "erklært",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"kl{:t`",
+              "ipa": "ærˈklæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "erklærende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"kl{:$n`=$@",
+              "ipa": "ærˈklæːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "erklær",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"kl{:r",
+              "ipa": "ærˈklæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "086a162b7268.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/086a162b7268.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/086a162b7268.mp3",
+            "text": "erklære",
+            "source": "generated",
+            "content_sha256": "1d922727c0511da2e74baaec7f83ceb6cf6dad146e7aa3b2bbda71c6407f8a54",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uttale offentlig",
+      "translation": "to state publicly",
+      "examples": []
+    },
+    {
+      "text": "fastslå formelt",
+      "translation": "to determine formally",
+      "examples": []
+    },
+    {
+      "text": "bekjentgjøre, kunngjøre",
+      "translation": "to announce, to proclaim",
+      "examples": [
+        {
+          "no": "landet erklærte sin uavhengighet",
+          "en": "the country declared its independence"
+        },
+        {
+          "no": "vedtaket ble erklært ugyldig",
+          "en": "the decision was declared invalid"
+        },
+        {
+          "no": "erklære krig",
+          "en": "declare war"
+        },
+        {
+          "no": "erklære seg uenig i noe",
+          "en": "declare that one disagrees with something"
+        }
+      ]
+    }
+  ]
+}

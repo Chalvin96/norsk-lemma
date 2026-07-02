@@ -1,0 +1,144 @@
+{
+  "source_article_id": 43029,
+  "lemmas": [
+    {
+      "lemma": "oppsikt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 49865,
+      "is_sub_article": false,
+      "primary_translation": "attention / supervision",
+      "word_forms": [
+        {
+          "word_form": "oppsikt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Op$%sIkt",
+              "ipa": "ˈɔpˌsɪkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oppsikten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Op$%sIk$tn=",
+              "ipa": "ˈɔpˌsɪktn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oppsikter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔpsˌɪktər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "oppsiktene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔpsˌɪktn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2d5a96a2ef21.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2d5a96a2ef21.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2d5a96a2ef21.mp3",
+            "text": "oppsikt",
+            "source": "generated",
+            "content_sha256": "1c56b8c68e75e7d21570f0f81d3b6fa1644ee0b413b2440418cee0ec28d08e91",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tilsyn, overvåking overvåkning, kontroll",
+      "translation": "supervision, monitoring, control",
+      "examples": [
+        {
+          "no": "holde oppsikt med området",
+          "en": "keep watch over the area"
+        },
+        {
+          "no": "politiet holder dem under oppsikt",
+          "en": "the police are keeping them under surveillance"
+        }
+      ]
+    },
+    {
+      "text": "oppmerksomhet, interesse",
+      "translation": "attention, interest",
+      "examples": [
+        {
+          "no": "vekke oppsikt",
+          "en": "attract attention"
+        },
+        {
+          "no": "den nye bilen deres vakte stor oppsikt",
+          "en": "their new car attracted a lot of attention"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "source_article_id": 108885,
+  "lemmas": [
+    {
+      "lemma": "alzheimer",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 161969,
+      "is_sub_article": false,
+      "primary_translation": "Alzheimer's",
+      "word_forms": [
+        {
+          "word_form": "alzheimer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Alts$%h{*I$m@r",
+              "ipa": "ˈɑltsˌhæ͡ɪmər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alzheimeren",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑlshˌæ͡ɪməɳ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4708c5eb0134.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4708c5eb0134.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4708c5eb0134.mp3",
+            "text": "alzheimer",
+            "source": "generated",
+            "content_sha256": "dcc3c1c2c58ffdf455b0c362353f6651d6d46ebafce1a32c560565980312b9ba",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortform av Alzheimers sykdom Alzheimers sjukdom",
+      "translation": "short form of Alzheimer's disease",
+      "examples": [
+        {
+          "no": "lide av alzheimer",
+          "en": "suffer from Alzheimer's"
+        },
+        {
+          "no": "pasienter med alzheimer",
+          "en": "patients with Alzheimer's"
+        }
+      ]
+    }
+  ]
+}

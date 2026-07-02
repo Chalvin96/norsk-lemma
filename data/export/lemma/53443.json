@@ -1,0 +1,87 @@
+{
+  "source_article_id": 53443,
+  "lemmas": [
+    {
+      "lemma": "skotsk",
+      "hgno": 3,
+      "pos": "ADJ",
+      "source_lemma_id": 61587,
+      "is_sub_article": false,
+      "primary_translation": "Scottish",
+      "word_forms": [
+        {
+          "word_form": "skotsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skOtsk",
+              "ipa": "ˈskɔtsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skotske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skOt$sk@",
+              "ipa": "ˈskɔtskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "374bbb1e4ff8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/374bbb1e4ff8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/374bbb1e4ff8.mp3",
+            "text": "skotsk",
+            "source": "generated",
+            "content_sha256": "5d454c8f7f2f8865cf0b0e37923c9cc834e1b22baeb4e5cc4ba38cf547b9caee",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Skottland og skotte",
+      "translation": "relating to Scotland and Scots",
+      "examples": [
+        {
+          "no": "skotsk whisky",
+          "en": "Scotch whisky"
+        }
+      ]
+    }
+  ]
+}

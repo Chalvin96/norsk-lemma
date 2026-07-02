@@ -1,0 +1,126 @@
+{
+  "source_article_id": 36298,
+  "lemmas": [
+    {
+      "lemma": "lyrikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 42125,
+      "is_sub_article": false,
+      "primary_translation": "lyric poetry",
+      "word_forms": [
+        {
+          "word_form": "lyrikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lY$\"rIk",
+              "ipa": "lʏˈrɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lyrikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lY$\"rI$k@n",
+              "ipa": "lʏˈrɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lyrikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lʏrˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lyrikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lʏrˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "722707685b4a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/722707685b4a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/722707685b4a.mp3",
+            "text": "lyrikk",
+            "source": "generated",
+            "content_sha256": "8e7f81bb27eca7f5265e3ba35e571fa0033bfe2bda26ed4ece8f135c4c795d3f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skjønnlitterær sjanger som med rim, rytme, oppdeling i vers eller spesielt grafisk oppsett uttrykker følelser, stemninger, tanker eller lignende",
+      "translation": "literary genre that expresses feelings, moods, thoughts through rhyme, rhythm, division into verses, or special graphic layout",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra dramatikk og epikk",
+      "translation": "poetry",
+      "examples": []
+    }
+  ]
+}

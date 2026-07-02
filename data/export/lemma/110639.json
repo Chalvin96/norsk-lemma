@@ -1,0 +1,111 @@
+{
+  "source_article_id": 110639,
+  "lemmas": [
+    {
+      "lemma": "brålik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 162891,
+      "is_sub_article": false,
+      "primary_translation": "very similar",
+      "word_forms": [
+        {
+          "word_form": "brålik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈoːlɪk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brålike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈoːlˌiːkə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brålikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈoːlˌiːkt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8d0e7f45c04b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d0e7f45c04b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d0e7f45c04b.mp3",
+            "text": "brålik",
+            "source": "generated",
+            "content_sha256": "828d9c0e04e81cd6d3610af5f38060eeca832464cc24a0ff716b8857cabcfbf1"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært lik",
+      "translation": "very similar",
+      "examples": [
+        {
+          "no": "han er brålik faren sin",
+          "en": "he is the spitting image of his father"
+        }
+      ]
+    }
+  ]
+}

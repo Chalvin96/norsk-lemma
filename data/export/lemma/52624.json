@@ -1,0 +1,97 @@
+{
+  "source_article_id": 52624,
+  "lemmas": [
+    {
+      "lemma": "skattepliktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 60689,
+      "is_sub_article": false,
+      "primary_translation": "taxable",
+      "word_forms": [
+        {
+          "word_form": "skattepliktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skA$t@$%plIk$tI",
+              "ipa": "ˈskɑtəˌplɪktɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skattepliktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skA$t@$%plIk$tI$@",
+              "ipa": "ˈskɑtəˌplɪktɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "49c364860464.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49c364860464.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49c364860464.mp3",
+            "text": "skattepliktig",
+            "source": "generated",
+            "content_sha256": "4ed3f7f61bcea32d01bca348537f44eb11ea57ca737ff0d38c000ccc786c6dbd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er pliktig til å betale skatt",
+      "translation": "obligated to pay tax",
+      "examples": [
+        {
+          "no": "forlagene er skattepliktige",
+          "en": "the publishers are liable to pay tax"
+        }
+      ]
+    },
+    {
+      "text": "som en må betale skatt av",
+      "translation": "that one must pay tax on",
+      "examples": [
+        {
+          "no": "leieinntekten er skattepliktig",
+          "en": "the rental income is taxable"
+        }
+      ]
+    }
+  ]
+}

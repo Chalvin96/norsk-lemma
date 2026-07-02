@@ -1,0 +1,91 @@
+{
+  "source_article_id": 24017,
+  "lemmas": [
+    {
+      "lemma": "hoggbratt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 28326,
+      "is_sub_article": false,
+      "primary_translation": "steep / precipitous",
+      "word_forms": [
+        {
+          "word_form": "hoggbratt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hOg$%brAt",
+              "ipa": "ˈhɔgˌbrɑt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hoggbratte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hOg$%brA$t@",
+              "ipa": "ˈhɔgˌbrɑtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "60925a98062e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/60925a98062e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/60925a98062e.mp3",
+            "text": "hoggbratt",
+            "source": "generated",
+            "content_sha256": "d6e4cc06e0a3c6f4f6bb76ef5ae885045ccde422e87622bb329db60759fae3ac",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært bratt",
+      "translation": "very steep",
+      "examples": [
+        {
+          "no": "et hoggbratt berg",
+          "en": "a sheer cliff"
+        },
+        {
+          "no": "en hoggbratt bakke",
+          "en": "a very steep hill"
+        }
+      ]
+    }
+  ]
+}

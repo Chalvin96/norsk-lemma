@@ -1,0 +1,92 @@
+{
+  "source_article_id": 44008,
+  "lemmas": [
+    {
+      "lemma": "panisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50964,
+      "is_sub_article": false,
+      "primary_translation": "panicked",
+      "word_forms": [
+        {
+          "word_form": "panisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA:$nI$sk",
+              "ipa": "ˈpɑːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "paniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA:$nI$sk@",
+              "ipa": "ˈpɑːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f3d973b8eb37.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3d973b8eb37.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3d973b8eb37.mp3",
+            "text": "panisk",
+            "source": "generated",
+            "content_sha256": "89c82f9b1d701e5118338c634da6c9f5bf4f55f9f4893c467f1cda3afb83e46f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjør en veldig redd",
+      "translation": "making one very scared",
+      "examples": []
+    },
+    {
+      "text": "sanseløs sanselaus, lammende",
+      "translation": "senseless, paralyzing",
+      "examples": [
+        {
+          "no": "flykte i panisk redsel",
+          "en": "flee in panicked terror"
+        }
+      ]
+    }
+  ]
+}

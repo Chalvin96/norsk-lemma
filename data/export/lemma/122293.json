@@ -1,0 +1,146 @@
+{
+  "source_article_id": 122293,
+  "lemmas": [
+    {
+      "lemma": "lydfil",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 169303,
+      "is_sub_article": false,
+      "primary_translation": "sound file",
+      "word_forms": [
+        {
+          "word_form": "lydfil",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$%fi:l",
+              "ipa": "ˈlyːdˌfɪːl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lydfilen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$%fi:$ln=",
+              "ipa": "ˈlyːdˌfɪːln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lydfiler",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$%fi:$l@r",
+              "ipa": "ˈlyːdˌfɪːlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lydfilene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$%fi:$ln=$@",
+              "ipa": "ˈlyːdˌfɪːln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lydfila",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːdfˌiːlɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8bf8bbc3e27c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8bf8bbc3e27c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8bf8bbc3e27c.mp3",
+            "text": "lydfil",
+            "source": "generated",
+            "content_sha256": "bc67697a71364528be3a01fce618b564013fa8ae61a6782187bab0864b2c7612",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fil med lyd",
+      "translation": "file containing sound",
+      "examples": [
+        {
+          "no": "laste ned lydfilene på pc-en",
+          "en": "download the audio files to the PC"
+        }
+      ]
+    }
+  ]
+}

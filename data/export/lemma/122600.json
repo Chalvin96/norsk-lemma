@@ -1,0 +1,83 @@
+{
+  "source_article_id": 122600,
+  "lemmas": [
+    {
+      "lemma": "myalgisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2005997,
+      "is_sub_article": false,
+      "primary_translation": "myalgic",
+      "word_forms": [
+        {
+          "word_form": "myalgisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mʏɑlgɪsk",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "myalgiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mʏɑlgɪskə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43821b7b2725.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43821b7b2725.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43821b7b2725.mp3",
+            "text": "myalgisk",
+            "source": "generated",
+            "content_sha256": "b84f158d5c8d1584bc214ce1647f42fb7cbbe8c82c4212d99b71c580761560e9"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder myalgi",
+      "translation": "relating to myalgia",
+      "examples": []
+    }
+  ]
+}

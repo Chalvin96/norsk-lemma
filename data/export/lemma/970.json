@@ -1,0 +1,101 @@
+{
+  "source_article_id": 970,
+  "lemmas": [
+    {
+      "lemma": "åleyngel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 80508,
+      "is_sub_article": false,
+      "primary_translation": "eel fry",
+      "word_forms": [
+        {
+          "word_form": "åleyngel",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$l@$%YN$@l",
+              "ipa": "ˈoːləˌʏŋəl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "åleyngelen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$l@$%YN$@$ln=",
+              "ipa": "ˈoːləˌʏŋəln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "åleynglene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈoːləˌʏŋln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6d5b8d9d534d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6d5b8d9d534d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6d5b8d9d534d.mp3",
+            "text": "åleyngel",
+            "source": "generated",
+            "content_sha256": "52c2959516100283bb5a1ec2f349569e15aa4e00a05d3b5633a92887af5467df",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "yngel av ål",
+      "translation": "young of an eel",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "source_article_id": 61808,
+  "lemmas": [
+    {
+      "lemma": "transaksjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70688,
+      "is_sub_article": false,
+      "primary_translation": "transaction",
+      "word_forms": [
+        {
+          "word_form": "transaksjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trAn$sAk$\"Su:n",
+              "ipa": "trɑnsɑkˈʃuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "transaksjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trAn$sAk$\"Su:$nn=",
+              "ipa": "trɑnsɑkˈʃuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "transaksjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trAn$sAk$\"Su:$n@r",
+              "ipa": "trɑnsɑkˈʃuːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "transaksjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trAn$sAk$\"Su:$nn=$@",
+              "ipa": "trɑnsɑkˈʃuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "02f27caaf045.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/02f27caaf045.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/02f27caaf045.mp3",
+            "text": "transaksjon",
+            "source": "generated",
+            "content_sha256": "57718e64d10d103ee94f0d37ba2bd0f287250ca156d1d46c5ed296ace6894750",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "økonomisk handling",
+      "translation": "economic action",
+      "examples": [
+        {
+          "no": "foreta store transaksjoner på valutamarkedet",
+          "en": "carry out large transactions on the foreign exchange market"
+        }
+      ]
+    },
+    {
+      "text": "virksomhet, aktivitet",
+      "translation": "activity, action",
+      "examples": [
+        {
+          "no": "nattlige transaksjoner som slåssing og ruteknusing",
+          "en": "nighttime activities such as fighting and smashing windows"
+        }
+      ]
+    }
+  ]
+}

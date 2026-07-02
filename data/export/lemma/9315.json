@@ -1,0 +1,103 @@
+{
+  "source_article_id": 9315,
+  "lemmas": [
+    {
+      "lemma": "datamaskinell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 10994,
+      "is_sub_article": false,
+      "primary_translation": "computerized",
+      "word_forms": [
+        {
+          "word_form": "datamaskinell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$mA$SI$%nEl",
+              "ipa": "ˈdɑːtɑmɑʃɪˌnɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datamaskinelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$mA$SI$%nE$l@",
+              "ipa": "ˈdɑːtɑmɑʃɪˌnɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datamaskinelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$mA$SI$%nElt",
+              "ipa": "ˈdɑːtɑmɑʃɪˌnɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8c0726c44ddc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c0726c44ddc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c0726c44ddc.mp3",
+            "text": "datamaskinell",
+            "source": "generated",
+            "content_sha256": "2403ead210ef65bf9251c63bccf5ff02923f7378a6efb7b8544b584529c965b1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder datamaskiner",
+      "translation": "relating to computers",
+      "examples": [
+        {
+          "no": "datamaskinell behandling",
+          "en": "computerized processing"
+        }
+      ]
+    }
+  ]
+}

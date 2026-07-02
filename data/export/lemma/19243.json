@@ -1,0 +1,87 @@
+{
+  "source_article_id": 19243,
+  "lemmas": [
+    {
+      "lemma": "gastronomisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22507,
+      "is_sub_article": false,
+      "primary_translation": "gastronomic",
+      "word_forms": [
+        {
+          "word_form": "gastronomisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gA$strU$\"nu:$mI$sk",
+              "ipa": "gɑstrʊˈnuːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gastronomiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gA$strU$\"nu:$mI$sk@",
+              "ipa": "gɑstrʊˈnuːmɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d0166dc938cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d0166dc938cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d0166dc938cf.mp3",
+            "text": "gastronomisk",
+            "source": "generated",
+            "content_sha256": "f80cb747556b0d0b50b3b252e951094ea527ac91502b457bc41e26020a0bfaf7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder gastronomi",
+      "translation": "relating to gastronomy",
+      "examples": [
+        {
+          "no": "ha gastronomiske interesser",
+          "en": "have gastronomic interests"
+        }
+      ]
+    }
+  ]
+}

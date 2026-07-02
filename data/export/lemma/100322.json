@@ -1,0 +1,134 @@
+{
+  "source_article_id": 100322,
+  "lemmas": [
+    {
+      "lemma": "skalar",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 158872,
+      "is_sub_article": false,
+      "primary_translation": "scalar / vector",
+      "word_forms": [
+        {
+          "word_form": "skalar",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈɑːlɑr",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skalaren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈɑːlɑɳ̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skalarer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈɑːlɑrər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skalarene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈɑːlɑɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "77bf1f28a4ed.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77bf1f28a4ed.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77bf1f28a4ed.mp3",
+            "text": "skalar",
+            "source": "generated",
+            "content_sha256": "45387b1cba5f8c036329bd6aeea7459f814a89e28ec5c20e21033387ee14d88a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i fysikk: størrelse som er bestemt ved et måltall og en målenhet måleenhet, og som ikke har noen retning",
+      "translation": "a quantity determined by a numerical value and a unit of measurement, which has no direction",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra vektor",
+      "translation": "vector",
+      "examples": [
+        {
+          "no": "temperatur, volum, og masse er eksempler på skalarer",
+          "en": "temperature, volume, and mass are examples of scalars"
+        }
+      ]
+    }
+  ]
+}

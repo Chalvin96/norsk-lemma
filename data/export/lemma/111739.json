@@ -1,0 +1,130 @@
+{
+  "source_article_id": 111739,
+  "lemmas": [
+    {
+      "lemma": "dataangrep",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163482,
+      "is_sub_article": false,
+      "primary_translation": "cyberattack",
+      "word_forms": [
+        {
+          "word_form": "dataangrep",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑɑŋgrˌeːp",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dataangrepet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑɑŋgrˌeːpə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dataangrepa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑɑŋgrˌeːpɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dataangrepene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑɑŋgrˌeːpənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f9755c9f205f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f9755c9f205f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f9755c9f205f.mp3",
+            "text": "dataangrep",
+            "source": "generated",
+            "content_sha256": "279235a4cc54fd314e994e470e051d568f4a1ce46e83fc3a8d4abbc258115330"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å angripe datasystemer gjennom datasnoking eller datavirus",
+      "translation": "the act of attacking computer systems through snooping or viruses",
+      "examples": [
+        {
+          "no": "bli offer for et dataangrep",
+          "en": "fall victim to a cyberattack"
+        }
+      ]
+    }
+  ]
+}

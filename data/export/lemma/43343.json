@@ -1,0 +1,96 @@
+{
+  "source_article_id": 43343,
+  "lemmas": [
+    {
+      "lemma": "orkanaktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50207,
+      "is_sub_article": false,
+      "primary_translation": "hurricane-like / strong and violent",
+      "word_forms": [
+        {
+          "word_form": "orkanaktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$\"kA:$%nAk$tI",
+              "ipa": "ɔrˈkɑːˌnɑktɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "orkanaktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$\"kA:$%nAk$tI$@",
+              "ipa": "ɔrˈkɑːˌnɑktɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2cb77bdf497e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2cb77bdf497e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2cb77bdf497e.mp3",
+            "text": "orkanaktig",
+            "source": "generated",
+            "content_sha256": "0b2cbc3e4b73486f2e6e0bf12b1ce7f80f11fe374174b95d31ded8e709a5b64f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som minner om en orkan",
+      "translation": "resembling a hurricane",
+      "examples": []
+    },
+    {
+      "text": "sterk og voldsom",
+      "translation": "strong and violent",
+      "examples": [
+        {
+          "no": "orkanaktig vind",
+          "en": "hurricane-force wind"
+        },
+        {
+          "no": "orkanaktig bifall møtte aktørene etter premieren",
+          "en": "the actors were met with stormy applause after the premiere"
+        }
+      ]
+    }
+  ]
+}

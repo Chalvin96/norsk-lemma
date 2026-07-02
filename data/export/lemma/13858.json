@@ -1,0 +1,110 @@
+{
+  "source_article_id": 13858,
+  "lemmas": [
+    {
+      "lemma": "farefull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 16076,
+      "is_sub_article": false,
+      "primary_translation": "dangerous, risky",
+      "word_forms": [
+        {
+          "word_form": "farefull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fA:$r@$%fu0l",
+              "ipa": "ˈfɑːrəˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "farefulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fA:$r@$%fu0$l@",
+              "ipa": "ˈfɑːrəˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "farefullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fA:$r@$%fu0lt",
+              "ipa": "ˈfɑːrəˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "db3e78d1bff2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db3e78d1bff2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db3e78d1bff2.mp3",
+            "text": "farefull",
+            "source": "generated",
+            "content_sha256": "5c3e2cfeff20baa5da7ffc662f2ecbbd53c82a2355a409839cae75cd227401d3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "farlig, risikabel",
+      "translation": "dangerous, risky",
+      "examples": [
+        {
+          "no": "et farefullt oppdrag",
+          "en": "a dangerous mission"
+        },
+        {
+          "no": "en farefull ferd",
+          "en": "a perilous journey"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source_article_id": 19806,
+  "lemmas": [
+    {
+      "lemma": "gjenlyd",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 23087,
+      "is_sub_article": false,
+      "primary_translation": "echo / reverberation",
+      "word_forms": [
+        {
+          "word_form": "gjenlyd",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jEn$%ly:d",
+              "ipa": "ˈjɛnˌlyːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gjenlyden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jEn$%ly:$dn=",
+              "ipa": "ˈjɛnˌlyːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gjenlyder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jEn$%ly:$d@r",
+              "ipa": "ˈjɛnˌlyːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gjenlydene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jEn$%ly:$dn=$@",
+              "ipa": "ˈjɛnˌlyːdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bd2c4ffc87a8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bd2c4ffc87a8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bd2c4ffc87a8.mp3",
+            "text": "gjenlyd",
+            "source": "generated",
+            "content_sha256": "aca85ecaaf5c8f288e3711a348d4704075ce11e7ab6d3b0d2799378610500a6c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lyd som kastes tilbake",
+      "translation": "sound that is thrown back",
+      "examples": []
+    },
+    {
+      "text": "ekko, gjenklang",
+      "translation": "echo, reverberation",
+      "examples": [
+        {
+          "no": "det er en sjenerende gjenlyd i rommet",
+          "en": "there is an annoying echo in the room"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_article_id": 10288,
+  "lemmas": [
+    {
+      "lemma": "diskursiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12032,
+      "is_sub_article": false,
+      "primary_translation": "discursive / intuitive",
+      "word_forms": [
+        {
+          "word_form": "diskursiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dI$sku0$%s`i:v",
+              "ipa": "ˈdɪskʉˌʂɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskursive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dI$sku0$%s`i:$v@",
+              "ipa": "ˈdɪskʉˌʂɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskursivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dI$sku0$%s`i:vt",
+              "ipa": "ˈdɪskʉˌʂɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1e7f57ef77c6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1e7f57ef77c6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1e7f57ef77c6.mp3",
+            "text": "diskursiv",
+            "source": "generated",
+            "content_sha256": "24d3c01b2aafadaf1c1709e4f47cd690b0f585b313a848d8985371d7624d8dac",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bygger på logisk slutning fra ledd til ledd",
+      "translation": "based on logical inference from step to step",
+      "examples": [
+        {
+          "no": "diskursiv tenkning",
+          "en": "discursive thinking"
+        }
+      ]
+    }
+  ]
+}

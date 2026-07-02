@@ -1,0 +1,153 @@
+{
+  "source_article_id": 14501,
+  "lemmas": [
+    {
+      "lemma": "fett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 16805,
+      "is_sub_article": false,
+      "primary_translation": "fat / grease",
+      "word_forms": [
+        {
+          "word_form": "fett",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fEt",
+              "ipa": "ˈfɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fettet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fE$t@",
+              "ipa": "ˈfɛtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fetta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɛtɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fettene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɛtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "06d88f2dbb58.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/06d88f2dbb58.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/06d88f2dbb58.mp3",
+            "text": "fett",
+            "source": "generated",
+            "content_sha256": "87c6fdf5934390fef156e808d9215f5d0d15927c7a23a471723f9a4caa06aff8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "organisk stoff av glyserol og fettsyre",
+      "translation": "organic substance of glycerol and fatty acid",
+      "examples": [
+        {
+          "no": "animalsk og vegetabilsk fett",
+          "en": "animal and vegetable fat"
+        },
+        {
+          "no": "helmelk inneholder 3,5 % fett",
+          "en": "whole milk contains 3.5% fat"
+        },
+        {
+          "no": "bruke lite fett i kosten",
+          "en": "use little fat in the diet"
+        },
+        {
+          "no": "få fett på kroppen",
+          "en": "gain fat on the body"
+        }
+      ]
+    },
+    {
+      "text": "fett som stoff til å steke i eller til teknisk bruk",
+      "translation": "fat as a substance for frying or for technical use",
+      "examples": [
+        {
+          "no": "steke i fett",
+          "en": "fry in fat"
+        },
+        {
+          "no": "smøre med fett",
+          "en": "grease with fat"
+        }
+      ]
+    }
+  ]
+}

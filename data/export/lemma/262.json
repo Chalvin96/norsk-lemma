@@ -1,0 +1,137 @@
+{
+  "source_article_id": 262,
+  "lemmas": [
+    {
+      "lemma": "advokat",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1050,
+      "is_sub_article": false,
+      "primary_translation": "lawyer / advocate",
+      "word_forms": [
+        {
+          "word_form": "advokat",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dvU$\"kA:t",
+              "ipa": "ɑdvʊˈkɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "advokaten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dvU$\"kA:$tn=",
+              "ipa": "ɑdvʊˈkɑːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "advokater",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dvU$\"kA:$t@r",
+              "ipa": "ɑdvʊˈkɑːtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "advokatene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dvU$\"kA:$tn=$@",
+              "ipa": "ɑdvʊˈkɑːtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f3644535078a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3644535078a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f3644535078a.mp3",
+            "text": "advokat",
+            "source": "generated",
+            "content_sha256": "85c9bda205c54d5a59d8554eb6bb3eb00aa9aa3b021a2b4bc063f88865e0445c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person med juridisk utdanning som har rett til å yte juridisk hjelp",
+      "translation": "person with legal education who is entitled to provide legal assistance",
+      "examples": []
+    },
+    {
+      "text": "sakfører",
+      "translation": "legal representative",
+      "examples": [
+        {
+          "no": "rådføre seg med sin advokat",
+          "en": "consult one's lawyer"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: forkjemper, ivrig talsmann",
+      "translation": "champion, ardent advocate",
+      "examples": [
+        {
+          "no": "være en god advokat for noe",
+          "en": "be a good advocate for something"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_article_id": 32479,
+  "lemmas": [
+    {
+      "lemma": "krystallin",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 38110,
+      "is_sub_article": false,
+      "primary_translation": "crystalline",
+      "word_forms": [
+        {
+          "word_form": "krystallin",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krY$stA$\"li:n",
+              "ipa": "krʏstɑˈlɪːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "krystalline",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krY$stA$\"li:$n@",
+              "ipa": "krʏstɑˈlɪːnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "krystallint",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krY$stA$\"li:nt",
+              "ipa": "krʏstɑˈlɪːnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "af8ab75464b9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af8ab75464b9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af8ab75464b9.mp3",
+            "text": "krystallin",
+            "source": "generated",
+            "content_sha256": "7050350efe85b46a5b7a886e5a55c20fd7c19dee49ab5f61842da76d29d55f73",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som opptrer i krystallform",
+      "translation": "occurring in crystalline form",
+      "examples": [
+        {
+          "no": "krystalline bergarter",
+          "en": "crystalline rocks"
+        }
+      ]
+    }
+  ]
+}

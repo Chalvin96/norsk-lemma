@@ -1,0 +1,64 @@
+{
+  "source_article_id": 42781,
+  "lemmas": [
+    {
+      "lemma": "ørenslyd",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 81036,
+      "is_sub_article": false,
+      "primary_translation": "audibility",
+      "word_forms": [
+        {
+          "word_form": "ørenslyd",
+          "tags_json": [
+            "Masc",
+            "Uninfl",
+            "m."
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"2:$n`=$%sly:d",
+              "ipa": "ˈøːɳ̩ˌslyːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "829190ba48ca.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/829190ba48ca.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/829190ba48ca.mp3",
+            "text": "ørenslyd",
+            "source": "generated",
+            "content_sha256": "971ad556bd82255fade21c5ad75da8bac8a7d7e0f36b378c877d9d82f17e3868",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mulighet til å høre eller bli hørt i larm",
+      "translation": "ability to hear or be heard in noise",
+      "examples": [
+        {
+          "no": "det er ikke ørenslyd å få",
+          "en": "it's impossible to make oneself heard"
+        }
+      ]
+    }
+  ]
+}

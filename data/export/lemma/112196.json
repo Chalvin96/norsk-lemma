@@ -1,0 +1,90 @@
+{
+  "source_article_id": 112196,
+  "lemmas": [
+    {
+      "lemma": "fastgjort",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163699,
+      "is_sub_article": false,
+      "primary_translation": "fastened",
+      "word_forms": [
+        {
+          "word_form": "fastgjort",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɑstjˌuʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fastgjorte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɑstjˌuʈə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d153ec2c707d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d153ec2c707d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d153ec2c707d.mp3",
+            "text": "fastgjort",
+            "source": "generated",
+            "content_sha256": "f7cf4ff0f0649a96de5e4c09613ce998b14a257469005c57edd55c55623ce2ac"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "festet i noe",
+      "translation": "fastened in something",
+      "examples": [
+        {
+          "no": "en fastgjort last",
+          "en": "a secured load"
+        }
+      ]
+    }
+  ]
+}

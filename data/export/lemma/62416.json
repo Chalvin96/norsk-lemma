@@ -1,0 +1,63 @@
+{
+  "source_article_id": 62416,
+  "lemmas": [
+    {
+      "lemma": "trommelom",
+      "hgno": 0,
+      "pos": "INTERJ",
+      "source_lemma_id": 71375,
+      "is_sub_article": false,
+      "primary_translation": "drumbeat sound",
+      "word_forms": [
+        {
+          "word_form": "trommelom",
+          "tags_json": [
+            "INTJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈuməlˌɔm",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6b1d74a70060.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6b1d74a70060.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6b1d74a70060.mp3",
+            "text": "trommelom",
+            "source": "generated",
+            "content_sha256": "a13a891f9e525e35db657f1c11105e77e92b5f0bb16a312d258aaf154b087fdf"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt for å gjengi lyden av flere trommeslag eller trommende lyd",
+      "translation": "used to reproduce the sound of several drum beats, a drumming sound",
+      "examples": [
+        {
+          "no": "trom trommelom",
+          "en": "rat-a-tat-tat"
+        }
+      ]
+    }
+  ]
+}

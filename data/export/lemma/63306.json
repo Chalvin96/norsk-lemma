@@ -1,0 +1,151 @@
+{
+  "source_article_id": 63306,
+  "lemmas": [
+    {
+      "lemma": "tyst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 72438,
+      "is_sub_article": false,
+      "primary_translation": "silent / quiet",
+      "word_forms": [
+        {
+          "word_form": "tyst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tY$st",
+              "ipa": "ˈtʏst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tyste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tY$st@",
+              "ipa": "ˈtʏstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tystere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tY$st@$r@",
+              "ipa": "ˈtʏstərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tystest",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈʏstəst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tysteste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tY$st@$st@",
+              "ipa": "ˈtʏstəstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0924d5912e4e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0924d5912e4e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0924d5912e4e.mp3",
+            "text": "tyst",
+            "source": "generated",
+            "content_sha256": "c0ed55fd0820101a2867b54dce7487be5326c7e44562aa54187d671e4011bbe3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke gir fra seg lyd",
+      "translation": "not making any sound",
+      "examples": []
+    },
+    {
+      "text": "taus, stille",
+      "translation": "silent, quiet",
+      "examples": [
+        {
+          "no": "få beskjed om å holde tyst",
+          "en": "be told to keep quiet"
+        },
+        {
+          "no": "han er tyst om hva som venter",
+          "en": "he is quiet about what awaits"
+        }
+      ]
+    }
+  ]
+}

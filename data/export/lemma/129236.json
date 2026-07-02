@@ -1,0 +1,115 @@
+{
+  "source_article_id": 129236,
+  "lemmas": [
+    {
+      "lemma": "småkriminell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 140625,
+      "is_sub_article": false,
+      "primary_translation": "petty criminal",
+      "word_forms": [
+        {
+          "word_form": "småkriminell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːkrɪmɪnˌɛl",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "småkriminelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$krI$mI$%nE$l@",
+              "ipa": "ˈsmoːkrɪmɪˌnɛlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småkriminelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːkrɪmɪnˈɛlt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "be39a0ab567a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be39a0ab567a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be39a0ab567a.mp3",
+            "text": "småkriminell",
+            "source": "generated",
+            "content_sha256": "d839825adb3edc7f58a50705bc945bb2b0e9e735ae6f37b0ff03993fd069d453"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som begår kriminelle handlinger i det små",
+      "translation": "committing petty criminal acts",
+      "examples": []
+    },
+    {
+      "text": "jamfør små-",
+      "translation": "petty",
+      "examples": [
+        {
+          "no": "småkriminell ungdom",
+          "en": "petty-criminal youth"
+        },
+        {
+          "no": "et miljø med småkriminelle og tapere",
+          "en": "an environment with petty criminals and losers"
+        }
+      ]
+    }
+  ]
+}

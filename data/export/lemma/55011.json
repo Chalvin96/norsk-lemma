@@ -1,0 +1,127 @@
+{
+  "source_article_id": 55011,
+  "lemmas": [
+    {
+      "lemma": "småvilt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 63319,
+      "is_sub_article": false,
+      "primary_translation": "small game",
+      "word_forms": [
+        {
+          "word_form": "småvilt",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%vIlt",
+              "ipa": "ˈsmoːˌvɪlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småviltet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%vIl$t@",
+              "ipa": "ˈsmoːˌvɪltə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småvilta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːʋɪltɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "småviltene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːʋɪltn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "63de5191e65c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63de5191e65c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63de5191e65c.mp3",
+            "text": "småvilt",
+            "source": "generated",
+            "content_sha256": "fd93ec751a5be1167a0f482f384b4f590fd9cf60596657dc1ca9095a8f19f626",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fugler og små ville dyr det drives jakt på",
+      "translation": "birds and small wild animals that are hunted",
+      "examples": [
+        {
+          "no": "småvilt som hare og rype",
+          "en": "small game such as hare and ptarmigan"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_article_id": 33828,
+  "lemmas": [
+    {
+      "lemma": "langsommelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39680,
+      "is_sub_article": false,
+      "primary_translation": "prolonged / circumlocutory",
+      "word_forms": [
+        {
+          "word_form": "langsommelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lAN$\"sO$m@$lI",
+              "ipa": "lɑŋˈsɔməlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "langsommelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lAN$\"sO$m@$lI$@",
+              "ipa": "lɑŋˈsɔməlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e6b67274cfbf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6b67274cfbf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6b67274cfbf.mp3",
+            "text": "langsommelig",
+            "source": "generated",
+            "content_sha256": "70494d342f01d212512cb133a93f7bf80f5f47accd489a44b4c244bf2f01ab2a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært langvarig",
+      "translation": "very prolonged",
+      "examples": [
+        {
+          "no": "et langsommelig arbeid",
+          "en": "a very long-drawn-out task"
+        },
+        {
+          "no": "slik har det vært i langsommelig tid",
+          "en": "that is how it has been for a very long time"
+        },
+        {
+          "no": "jeg har ikke sett dem på langsommelige tider",
+          "en": "I haven't seen them in ages"
+        }
+      ]
+    }
+  ]
+}

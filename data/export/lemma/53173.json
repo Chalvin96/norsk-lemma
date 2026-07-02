@@ -1,0 +1,71 @@
+{
+  "source_article_id": 53173,
+  "lemmas": [
+    {
+      "lemma": "skjønt",
+      "hgno": 1,
+      "pos": "CONJ",
+      "source_lemma_id": 61299,
+      "is_sub_article": false,
+      "primary_translation": "even though / although",
+      "word_forms": [
+        {
+          "word_form": "skjønt",
+          "tags_json": [
+            "SCONJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S9nt",
+              "ipa": "ˈʃœnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c0deb1822e1b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c0deb1822e1b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c0deb1822e1b.mp3",
+            "text": "skjønt",
+            "source": "generated",
+            "content_sha256": "6b3af49ce04cba5eb645c06cd2f49a063271ba5c0f89ca04797e001602054151",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innleder en leddsetning som uttrykker innrømmelse",
+      "translation": "introduces a subordinate clause expressing concession",
+      "examples": []
+    },
+    {
+      "text": "selv om sjøl om, til tross for at",
+      "translation": "even though",
+      "examples": [
+        {
+          "no": "vi greide det skjønt det så mørkt ut en stund",
+          "en": "we managed it although it looked bleak for a while"
+        },
+        {
+          "no": "skjønt hun aldri har vært den flittigste, gjorde hun det bra på eksamen",
+          "en": "although she has never been the most diligent, she did well on the exam"
+        }
+      ]
+    }
+  ]
+}

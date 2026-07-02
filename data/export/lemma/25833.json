@@ -1,0 +1,113 @@
+{
+  "source_article_id": 25833,
+  "lemmas": [
+    {
+      "lemma": "illsvien",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30808,
+      "is_sub_article": false,
+      "primary_translation": "anxious / bothered by conscience",
+      "word_forms": [
+        {
+          "word_form": "illsvien",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Il$%svi:$@n",
+              "ipa": "ˈɪlˌsvɪːən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "illsviene",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪlsʋˌiːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "illsvient",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Il$%svi:$@nt",
+              "ipa": "ˈɪlˌsvɪːənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a3b6a142cc8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a3b6a142cc8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a3b6a142cc8.mp3",
+            "text": "illsvien",
+            "source": "generated",
+            "content_sha256": "2c2ba9f7ff5fe7f8840a7c7650d834b9bb358bc67beb808e1ab12f72046b15f5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært engstelig",
+      "translation": "very anxious",
+      "examples": []
+    },
+    {
+      "text": "pint av dårlig samvittighet",
+      "translation": "bothered by a bad conscience",
+      "examples": [
+        {
+          "no": "være illsvien for noe",
+          "en": "feel tormented by guilt over something"
+        }
+      ]
+    }
+  ]
+}

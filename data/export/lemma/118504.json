@@ -1,0 +1,137 @@
+{
+  "source_article_id": 118504,
+  "lemmas": [
+    {
+      "lemma": "industrisamfunn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 109068,
+      "is_sub_article": false,
+      "primary_translation": "industrial society",
+      "word_forms": [
+        {
+          "word_form": "industrisamfunn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$du0$\"stri:$sAm$%fu0n",
+              "ipa": "ɪndʉˈstrɪːsɑmˌfʉn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "industrisamfunnet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$du0$\"stri:$sAm$%fu0$n@",
+              "ipa": "ɪndʉˈstrɪːsɑmˌfʉnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "industrisamfunna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪndʉstrˈiːsɑmfˌʉnɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "industrisamfunnene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪndʉstrˈiːsɑmfˌʉnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1670f37cce66.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1670f37cce66.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1670f37cce66.mp3",
+            "text": "industrisamfunn",
+            "source": "generated",
+            "content_sha256": "31463eda60be25ad61082d81c438d76ddba5d96216207efedacefb54b046909e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "samfunn, særlig by eller bygd, som har vokst opp rundt en eller flere industrielle virksomheter",
+      "translation": "society, especially a town or village, that has grown up around one or more industrial enterprises",
+      "examples": [
+        {
+          "no": "de små industrisamfunnene innerst i fjordene på Vestlandet",
+          "en": "the small industrial communities deep in the fjords of Western Norway"
+        }
+      ]
+    },
+    {
+      "text": "samfunn som har industri som viktigste næringsvei",
+      "translation": "society where industry is the main source of livelihood",
+      "examples": [
+        {
+          "no": "overgangen fra jordbrukssamfunn til industrisamfunn",
+          "en": "the transition from an agricultural society to an industrial society"
+        }
+      ]
+    }
+  ]
+}

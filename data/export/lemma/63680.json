@@ -1,0 +1,91 @@
+{
+  "source_article_id": 63680,
+  "lemmas": [
+    {
+      "lemma": "ubestridelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 72901,
+      "is_sub_article": false,
+      "primary_translation": "indisputable",
+      "word_forms": [
+        {
+          "word_form": "ubestridelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$b@$\"stri:$d@$lI",
+              "ipa": "ʉbəˈstrɪːdəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ubestridelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$b@$\"stri:$d@$lI$@",
+              "ipa": "ʉbəˈstrɪːdəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1eb000170cc9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1eb000170cc9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1eb000170cc9.mp3",
+            "text": "ubestridelig",
+            "source": "generated",
+            "content_sha256": "fb2503080866da8926190c79e7b4853a2e9abc183651eeb8ef4aaf832cb2f0dc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke kan nektes eller motsies",
+      "translation": "that cannot be denied or contradicted",
+      "examples": [
+        {
+          "no": "en ubestridelig påstand",
+          "en": "an indisputable claim"
+        },
+        {
+          "no": "hun er ubestridelig den flinkeste",
+          "en": "she is indisputably the most capable"
+        }
+      ]
+    }
+  ]
+}

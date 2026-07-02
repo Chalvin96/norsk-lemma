@@ -1,0 +1,87 @@
+{
+  "source_article_id": 31645,
+  "lemmas": [
+    {
+      "lemma": "kornisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 37210,
+      "is_sub_article": false,
+      "primary_translation": "Cornish",
+      "word_forms": [
+        {
+          "word_form": "kornisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ko:$n`I$sk",
+              "ipa": "ˈkoːɳɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "korniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ko:$n`I$sk@",
+              "ipa": "ˈkoːɳɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "73e087f8490e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73e087f8490e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73e087f8490e.mp3",
+            "text": "kornisk",
+            "source": "generated",
+            "content_sha256": "a200dac44c8bc039146524a6ce8b1d1ca7c6b7fb5782497245092c89e2c5c1f3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Cornwall",
+      "translation": "relating to Cornwall",
+      "examples": [
+        {
+          "no": "kornisk språk",
+          "en": "Cornish language"
+        }
+      ]
+    }
+  ]
+}

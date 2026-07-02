@@ -1,0 +1,292 @@
+{
+  "source_article_id": 25201,
+  "lemmas": [
+    {
+      "lemma": "høre",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 30118,
+      "is_sub_article": false,
+      "primary_translation": "hear / listen / examine / comply",
+      "word_forms": [
+        {
+          "word_form": "høre",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$r@",
+              "ipa": "ˈhøːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hører",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$r@r",
+              "ipa": "ˈhøːrər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "høres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$r@s",
+              "ipa": "ˈhøːrəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hørte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$t`@",
+              "ipa": "ˈhøːʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hørt",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"h2:t`",
+              "ipa": "ˈhøːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hørende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$n`=$@",
+              "ipa": "ˈhøːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hør",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"h2:r",
+              "ipa": "ˈhøːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7502dd5e5aad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7502dd5e5aad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7502dd5e5aad.mp3",
+            "text": "høre",
+            "source": "generated",
+            "content_sha256": "442c5b44a4ca997c9c4621b96570a05e7f50683dec33da48300ff4cc79f12918",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "oppfange lyd",
+      "translation": "to perceive sound",
+      "examples": []
+    },
+    {
+      "text": "sanse med hørselen",
+      "translation": "to sense with hearing",
+      "examples": [
+        {
+          "no": "høre godt",
+          "en": "hear well"
+        },
+        {
+          "no": "høre stemmen hennes",
+          "en": "hear her voice"
+        },
+        {
+          "no": "høre en fjern lyd",
+          "en": "hear a distant sound"
+        },
+        {
+          "no": "høre noens skritt",
+          "en": "hear someone's footsteps"
+        }
+      ]
+    },
+    {
+      "text": "få vite",
+      "translation": "to get to know",
+      "examples": []
+    },
+    {
+      "text": "få greie på, bli fortalt",
+      "translation": "to find out, to be told",
+      "examples": [
+        {
+          "no": "jeg hører dere skal til Spania?",
+          "en": "I hear you're going to Spain?"
+        },
+        {
+          "no": "hun hørte på stemmen min at jeg var nervøs",
+          "en": "she could hear from my voice that I was nervous"
+        },
+        {
+          "no": "der kan du høre",
+          "en": "well, there you go"
+        },
+        {
+          "no": "jeg ringte for å høre om toget var i rute",
+          "en": "I called to find out whether the train was on schedule"
+        }
+      ]
+    },
+    {
+      "text": "høre med full oppmerksomhet",
+      "translation": "to hear with full attention",
+      "examples": []
+    },
+    {
+      "text": "lytte til",
+      "translation": "to listen to",
+      "examples": [
+        {
+          "no": "høre på radio",
+          "en": "listen to the radio"
+        },
+        {
+          "no": "høre på musikk",
+          "en": "listen to music"
+        },
+        {
+          "no": "sitte og høre på en historie",
+          "en": "sit and listen to a story"
+        },
+        {
+          "no": "hør hva jeg sier!",
+          "en": "listen to what I'm saying!"
+        }
+      ]
+    },
+    {
+      "text": "innrette seg etter noens råd eller henstilling",
+      "translation": "to comply with someone's advice or request",
+      "examples": [
+        {
+          "no": "når skal dere høre?",
+          "en": "when are you going to listen?"
+        },
+        {
+          "no": "jeg har prøvd å snakke til ham, men han vil ikke høre",
+          "en": "I've tried talking to him, but he won't listen"
+        }
+      ]
+    },
+    {
+      "text": "spørre ut nøye",
+      "translation": "to question thoroughly",
+      "examples": [
+        {
+          "no": "høre elevene i leksene",
+          "en": "test the students on their homework"
+        }
+      ]
+    },
+    {
+      "text": "i jus: la noen få formidle sin side av saken",
+      "translation": "in law: to allow someone to present their side of the case",
+      "examples": []
+    },
+    {
+      "text": "jamfør høring",
+      "translation": "hearing",
+      "examples": [
+        {
+          "no": "høre begge parter i rettssaken",
+          "en": "hear both parties in the lawsuit"
+        },
+        {
+          "no": "mange instanser ble hørt i forbindelse med utredningen",
+          "en": "many bodies were consulted in connection with the inquiry"
+        }
+      ]
+    }
+  ]
+}

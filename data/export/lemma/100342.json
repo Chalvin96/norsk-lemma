@@ -1,0 +1,134 @@
+{
+  "source_article_id": 100342,
+  "lemmas": [
+    {
+      "lemma": "erratum",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 158935,
+      "is_sub_article": false,
+      "primary_translation": "erratum / list of errors",
+      "word_forms": [
+        {
+          "word_form": "erratum",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈærɑtʉm",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "erratumet",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈærɑtʉmə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "errata",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈærɑtɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "errataene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈærɑtɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6e867ff741d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e867ff741d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e867ff741d0.mp3",
+            "text": "erratum",
+            "source": "generated",
+            "content_sha256": "e8f0aa1429b8b00e5175349a5b2a2884718c75f3ee426e951f51d39ce800deb7"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "feil, trykkfeil",
+      "translation": "error, printing error",
+      "examples": []
+    },
+    {
+      "text": "i flertall: trykkfeilsliste i publikasjon",
+      "translation": "list of printing errors in a publication",
+      "examples": [
+        {
+          "no": "errata står i kolofonen",
+          "en": "the errata are in the colophon"
+        }
+      ]
+    }
+  ]
+}

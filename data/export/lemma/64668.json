@@ -1,0 +1,97 @@
+{
+  "source_article_id": 64668,
+  "lemmas": [
+    {
+      "lemma": "uoppdrivelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74044,
+      "is_sub_article": false,
+      "primary_translation": "unobtainable",
+      "word_forms": [
+        {
+          "word_form": "uoppdrivelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$Op$\"dri:$v@$lI",
+              "ipa": "ʉɔpˈdrɪːvəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uoppdrivelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$Op$\"dri:$v@$lI$@",
+              "ipa": "ʉɔpˈdrɪːvəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3b13e6575901.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3b13e6575901.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3b13e6575901.mp3",
+            "text": "uoppdrivelig",
+            "source": "generated",
+            "content_sha256": "1b965975dd9d3ff673f4a6fc3172ad7cdd82461027ef0cd14fb96ef53e44f126",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke fins i handelen",
+      "translation": "that is not available in stores",
+      "examples": []
+    },
+    {
+      "text": "som ikke kan skaffes",
+      "translation": "that cannot be obtained",
+      "examples": []
+    },
+    {
+      "text": "jamfør oppdrive",
+      "translation": "obtain",
+      "examples": [
+        {
+          "no": "under krigen var kaffe nesten uoppdrivelig",
+          "en": "during the war, coffee was almost impossible to obtain"
+        }
+      ]
+    }
+  ]
+}

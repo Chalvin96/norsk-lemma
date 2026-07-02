@@ -1,0 +1,127 @@
+{
+  "source_article_id": 42149,
+  "lemmas": [
+    {
+      "lemma": "omland",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 49242,
+      "is_sub_article": false,
+      "primary_translation": "surroundings",
+      "word_forms": [
+        {
+          "word_form": "omland",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$%lAn",
+              "ipa": "ˈɔmˌlɑn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "omlandet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$%lA$n@",
+              "ipa": "ˈɔmˌlɑnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "omlanda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔmlˌɑnɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "omlandene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔmlˌɑnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4fe85ade4b22.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4fe85ade4b22.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4fe85ade4b22.mp3",
+            "text": "omland",
+            "source": "generated",
+            "content_sha256": "2292d2d7bed2e0a3283e7988a62526727314ba6fada5f861ecf165843951610a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "omegn, omgivelser",
+      "translation": "surroundings, vicinity",
+      "examples": [
+        {
+          "no": "folk fra byens omland",
+          "en": "people from the city's surrounding area"
+        }
+      ]
+    }
+  ]
+}

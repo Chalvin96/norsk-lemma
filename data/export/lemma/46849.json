@@ -1,0 +1,93 @@
+{
+  "source_article_id": 46849,
+  "lemmas": [
+    {
+      "lemma": "puljevis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 53890,
+      "is_sub_article": false,
+      "primary_translation": "in batches / precise",
+      "word_forms": [
+        {
+          "word_form": "puljevis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pu0l$j@$%vi:s",
+              "ipa": "ˈpʉljəˌvɪːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "puljevise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈʉljəʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1464592a151f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1464592a151f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1464592a151f.mp3",
+            "text": "puljevis",
+            "source": "generated",
+            "content_sha256": "406584e8b9506eb515a58118bfd30ca3ae1881b8fe0563331d079079e98f1eb6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som skjer i pulje",
+      "translation": "happening in batches",
+      "examples": [
+        {
+          "no": "en puljevis tilbaketrekning",
+          "en": "a phased withdrawal"
+        },
+        {
+          "no": "de blir sluppet puljevis ut",
+          "en": "they are let out in groups"
+        }
+      ]
+    }
+  ]
+}

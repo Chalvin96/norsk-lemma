@@ -1,0 +1,92 @@
+{
+  "source_article_id": 37710,
+  "lemmas": [
+    {
+      "lemma": "melankolsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 44220,
+      "is_sub_article": false,
+      "primary_translation": "melancholy / sad",
+      "word_forms": [
+        {
+          "word_form": "melankolsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$lAN$\"ku:nsk",
+              "ipa": "məlɑŋˈkuːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "melankolske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$lAN$\"ku:l$sk@",
+              "ipa": "məlɑŋˈkuːlskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d1b4aa07bbe3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d1b4aa07bbe3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d1b4aa07bbe3.mp3",
+            "text": "melankolsk",
+            "source": "generated",
+            "content_sha256": "3a7d9f3375632a57f0549ee255158649e4a17a4a434b26b3484d800fcd288a74",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "preget av melankoli",
+      "translation": "characterized by melancholy",
+      "examples": []
+    },
+    {
+      "text": "trist, tungsindig",
+      "translation": "sad, despondent",
+      "examples": [
+        {
+          "no": "melankolske øyne",
+          "en": "melancholy eyes"
+        }
+      ]
+    }
+  ]
+}

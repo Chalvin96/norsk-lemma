@@ -1,0 +1,144 @@
+{
+  "source_article_id": 2513,
+  "lemmas": [
+    {
+      "lemma": "arbeidsfred",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3044,
+      "is_sub_article": false,
+      "primary_translation": "industrial peace",
+      "word_forms": [
+        {
+          "word_form": "arbeidsfred",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Ids$%fre:d",
+              "ipa": "ˈɑrbæ͡ɪdsˌfreːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidsfreden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Ids$%fre:$dn=",
+              "ipa": "ˈɑrbæ͡ɪdsˌfreːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidsfreder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑrbæ͡ɪdsfrˌeːdər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidsfredene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑrbæ͡ɪdsfrˌeːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9e182a93316b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e182a93316b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e182a93316b.mp3",
+            "text": "arbeidsfred",
+            "source": "generated",
+            "content_sha256": "fae6fe5f8d2d0a69fcb6d7b08b7c27e128b363553a0f84bf87b66ce8489ee6e5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ro til å arbeide",
+      "translation": "peace to work",
+      "examples": [
+        {
+          "no": "la meg få arbeidsfred!",
+          "en": "let me work in peace!"
+        },
+        {
+          "no": "forstyrre arbeidsfreden",
+          "en": "disturb the peace and quiet needed for work"
+        }
+      ]
+    },
+    {
+      "text": "tilstand uten streik og konflikt i arbeidslivet",
+      "translation": "state without strikes and conflict in working life",
+      "examples": [
+        {
+          "no": "det skal være arbeidsfred i perioden mellom tarifforhandlingene",
+          "en": "there is to be labor peace in the period between the wage negotiations"
+        },
+        {
+          "no": "arbeidsfred i industrien",
+          "en": "labor peace in industry"
+        }
+      ]
+    }
+  ]
+}

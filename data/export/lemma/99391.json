@@ -1,0 +1,132 @@
+{
+  "source_article_id": 99391,
+  "lemmas": [
+    {
+      "lemma": "GPS",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157628,
+      "is_sub_article": false,
+      "primary_translation": "GPS",
+      "word_forms": [
+        {
+          "word_form": "GPS",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "%ge:$pe:$\"Es",
+              "ipa": "ˌgeːpeːˈɛs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "GPS-en",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gpˈeːˌɛsn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "GPS-er",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gpˈeːər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "GPS-ene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gpˈeːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e912ae36650.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e912ae36650.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e912ae36650.mp3",
+            "text": "GPS",
+            "source": "generated",
+            "content_sha256": "9cf6f5a672bc09c60d8c91dc4f357d580b03684c5bb396669dea34ad2dfc55af",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "satellittbasert posisjonerings- og navigasjonssystem",
+      "translation": "satellite-based positioning and navigation system",
+      "examples": [
+        {
+          "no": "sjekke både kart, kompass og GPS",
+          "en": "check the map, compass, and GPS"
+        },
+        {
+          "no": "underveis gir GPS-en nødvendige veianvisninger",
+          "en": "along the way, the GPS gives the necessary directions"
+        }
+      ]
+    }
+  ]
+}

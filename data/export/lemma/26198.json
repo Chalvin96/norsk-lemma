@@ -1,0 +1,126 @@
+{
+  "source_article_id": 26198,
+  "lemmas": [
+    {
+      "lemma": "ingrediens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 31179,
+      "is_sub_article": false,
+      "primary_translation": "ingredient",
+      "word_forms": [
+        {
+          "word_form": "ingrediens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "IN$gr@$dI$\"Ens",
+              "ipa": "ɪŋgrədɪˈɛns",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ingrediensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "IN$gr@$dI$\"En$sn=",
+              "ipa": "ɪŋgrədɪˈɛnsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ingredienser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "IN$gr@$dI$\"En$s@r",
+              "ipa": "ɪŋgrədɪˈɛnsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ingrediensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "IN$gr@$dI$\"En$sn=$@",
+              "ipa": "ɪŋgrədɪˈɛnsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1698dbcf3b7c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1698dbcf3b7c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1698dbcf3b7c.mp3",
+            "text": "ingrediens",
+            "source": "generated",
+            "content_sha256": "11ba419425abb4049b8cac10c0a05883fa5df96b77e4c10e33b344c79c523361",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bestanddel i en blanding",
+      "translation": "component in a mixture",
+      "examples": [
+        {
+          "no": "en matretts viktigste ingredienser",
+          "en": "a dish's main ingredients"
+        },
+        {
+          "no": "alle de velkjente ingrediensene var med i westernfilmen",
+          "en": "all the familiar ingredients were there in the western film"
+        }
+      ]
+    }
+  ]
+}

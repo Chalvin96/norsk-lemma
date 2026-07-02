@@ -1,0 +1,114 @@
+{
+  "source_article_id": 64937,
+  "lemmas": [
+    {
+      "lemma": "usjenert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74353,
+      "is_sub_article": false,
+      "primary_translation": "uninhibited / sheltered",
+      "word_forms": [
+        {
+          "word_form": "usjenert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$S@$%ne:t`",
+              "ipa": "ˈʉːʃəˌneːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "usjenerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$S@$%ne:$t`@",
+              "ipa": "ˈʉːʃəˌneːʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9669beaeb33a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9669beaeb33a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9669beaeb33a.mp3",
+            "text": "usjenert",
+            "source": "generated",
+            "content_sha256": "4a0425bc5ae7ce41ad3f3fc38eeb7313f131264c2b82a3879a34aad482eaf1ba",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten sjenanse",
+      "translation": "bold, immodest",
+      "examples": []
+    },
+    {
+      "text": "freidig, ubeskjeden",
+      "translation": "brazen; uninhibited",
+      "examples": [
+        {
+          "no": "hun forsynte seg av sigarettene hans på en usjenert måte",
+          "en": "she helped herself to his cigarettes in a brazen way"
+        },
+        {
+          "no": "synge helt usjenert",
+          "en": "sing completely uninhibited"
+        }
+      ]
+    },
+    {
+      "text": "som ligger for seg selv uten forstyrrelser fra omgivelsene",
+      "translation": "secluded; shielded from disturbance",
+      "examples": [
+        {
+          "no": "tomta var helt usjenert av trafikken",
+          "en": "the lot was completely sheltered from traffic"
+        },
+        {
+          "no": "finne en usjenert plass å bade",
+          "en": "find a secluded place to swim"
+        },
+        {
+          "no": "huset ligger usjenert til",
+          "en": "the house is in a secluded location"
+        }
+      ]
+    }
+  ]
+}

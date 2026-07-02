@@ -1,0 +1,107 @@
+{
+  "source_article_id": 27158,
+  "lemmas": [
+    {
+      "lemma": "irrasjonell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32261,
+      "is_sub_article": false,
+      "primary_translation": "irrational",
+      "word_forms": [
+        {
+          "word_form": "irrasjonell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$rA$SU$%nEl",
+              "ipa": "ˈɪrɑʃʊˌnɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "irrasjonelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$rA$SU$%nE$l@",
+              "ipa": "ˈɪrɑʃʊˌnɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "irrasjonelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$rA$SU$%nElt",
+              "ipa": "ˈɪrɑʃʊˌnɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2e22b5f61fad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e22b5f61fad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e22b5f61fad.mp3",
+            "text": "irrasjonell",
+            "source": "generated",
+            "content_sha256": "89761bd00141783c5b2774d2e65ddef2e41edadf1b50d5faaab47ba74c3ae9c3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fornuftsstridig fornuftstridig, ufornuftig",
+      "translation": "contrary to reason, irrational, unreasonable",
+      "examples": [
+        {
+          "no": "de irrasjonelle krefter i mennesket",
+          "en": "the irrational forces in human beings"
+        },
+        {
+          "no": "en irrasjonell metode",
+          "en": "an irrational method"
+        }
+      ]
+    }
+  ]
+}

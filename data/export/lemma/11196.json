@@ -1,0 +1,127 @@
+{
+  "source_article_id": 11196,
+  "lemmas": [
+    {
+      "lemma": "duodes",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 13059,
+      "is_sub_article": false,
+      "primary_translation": "duodecimo book format",
+      "word_forms": [
+        {
+          "word_form": "duodes",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "du0$U$\"de:s",
+              "ipa": "dʉʊˈdeːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "duodesen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "du0$U$\"de:$sn=",
+              "ipa": "dʉʊˈdeːsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "duodeser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "du0$U$\"de:$s@r",
+              "ipa": "dʉʊˈdeːsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "duodesene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "du0$U$\"de:$sn=$@",
+              "ipa": "dʉʊˈdeːsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cf2fda7ed2ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf2fda7ed2ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf2fda7ed2ab.mp3",
+            "text": "duodes",
+            "source": "generated",
+            "content_sha256": "bbf2da3a00634c8bbd86c87c75911cd1e21e0dbe6dbad20fcf2248dd87660ca4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bokformat som en får ved å dele et ark i tolv blad",
+      "translation": "book format obtained by dividing a sheet into twelve leaves",
+      "examples": []
+    },
+    {
+      "text": "bok i duodes",
+      "translation": "book in duodecimo format",
+      "examples": [
+        {
+          "no": "han vil skrive en duodes",
+          "en": "he wants to write a duodecimo"
+        }
+      ]
+    }
+  ]
+}

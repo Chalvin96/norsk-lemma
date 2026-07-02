@@ -1,0 +1,110 @@
+{
+  "source_article_id": 39944,
+  "lemmas": [
+    {
+      "lemma": "målbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 46617,
+      "is_sub_article": false,
+      "primary_translation": "measurable",
+      "word_forms": [
+        {
+          "word_form": "målbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:l$%bA:r",
+              "ipa": "ˈmoːlˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "målbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:l$%bA:$r@",
+              "ipa": "ˈmoːlˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "målbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:l$%bA:t`",
+              "ipa": "ˈmoːlˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "542394ac5036.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/542394ac5036.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/542394ac5036.mp3",
+            "text": "målbar",
+            "source": "generated",
+            "content_sha256": "a06bda07b48d447940d04e0ed558a8aa27f38c8c662493580e27b8906b5e9ed1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan måles",
+      "translation": "that which can be measured",
+      "examples": [
+        {
+          "no": "et målbart resultat",
+          "en": "a measurable result"
+        },
+        {
+          "no": "målbare verdier",
+          "en": "measurable values"
+        }
+      ]
+    }
+  ]
+}

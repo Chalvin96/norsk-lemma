@@ -1,0 +1,121 @@
+{
+  "source_article_id": 1547,
+  "lemmas": [
+    {
+      "lemma": "amorf",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2018,
+      "is_sub_article": false,
+      "primary_translation": "amorphous",
+      "word_forms": [
+        {
+          "word_form": "amorf",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"mOrf",
+              "ipa": "ɑˈmɔrf",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "amorfe",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"mOr$f@",
+              "ipa": "ɑˈmɔrfə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "amorft",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"mOrft",
+              "ipa": "ɑˈmɔrft",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "53c52dff7c30.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53c52dff7c30.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/53c52dff7c30.mp3",
+            "text": "amorf",
+            "source": "generated",
+            "content_sha256": "4669ccc3748ab28622481fa3abd663297a87839e3500d8f85aa1e7f5f5d3a320",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten form, strukturløs",
+      "translation": "without form, structureless",
+      "examples": [
+        {
+          "no": "en amorf masse",
+          "en": "an amorphous mass"
+        }
+      ]
+    },
+    {
+      "text": "uten lagdeling",
+      "translation": "without stratification",
+      "examples": []
+    },
+    {
+      "text": "ikke-krystallinsk",
+      "translation": "non-crystalline",
+      "examples": [
+        {
+          "no": "amorfe bergarter",
+          "en": "amorphous rocks"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "source_article_id": 69616,
+  "lemmas": [
+    {
+      "lemma": "yr",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 80297,
+      "is_sub_article": false,
+      "primary_translation": "swarm",
+      "word_forms": [
+        {
+          "word_form": "yr",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"y:r",
+              "ipa": "ˈyːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "yret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈyːrə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "yra",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈyːrɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "yrene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈyːɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "92e43f702e95.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/92e43f702e95.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/92e43f702e95.mp3",
+            "text": "yr",
+            "source": "generated",
+            "content_sha256": "ac3f49e80198b7bca2a945e28676c59aee88df1853529615bebfde54032f96b1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mylder, vrimmel",
+      "translation": "swarm, multitude",
+      "examples": [
+        {
+          "no": "et yr av maur",
+          "en": "a swarm of ants"
+        }
+      ]
+    }
+  ]
+}

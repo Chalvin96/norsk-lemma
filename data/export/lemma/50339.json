@@ -1,0 +1,111 @@
+{
+  "source_article_id": 50339,
+  "lemmas": [
+    {
+      "lemma": "sedimentær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57750,
+      "is_sub_article": false,
+      "primary_translation": "sedimentary",
+      "word_forms": [
+        {
+          "word_form": "sedimentær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$dI$m@n$\"t{:r",
+              "ipa": "sədɪmənˈtæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sedimentære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$dI$m@n$\"t{:$r@",
+              "ipa": "sədɪmənˈtæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sedimentært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$dI$m@n$\"t{:t`",
+              "ipa": "sədɪmənˈtæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e68067a1dbc5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e68067a1dbc5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e68067a1dbc5.mp3",
+            "text": "sedimentær",
+            "source": "generated",
+            "content_sha256": "26ca8eebefef7976747e402d04bf651f49c38b44613f6f3cb7f70ea7e8833ae0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som inneholder sediment",
+      "translation": "containing sediment",
+      "examples": []
+    },
+    {
+      "text": "som er dannet ved avleiring",
+      "translation": "formed by deposition",
+      "examples": [
+        {
+          "no": "sedimentære bergarter",
+          "en": "sedimentary rocks"
+        }
+      ]
+    }
+  ]
+}

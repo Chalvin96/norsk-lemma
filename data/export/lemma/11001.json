@@ -1,0 +1,122 @@
+{
+  "source_article_id": 11001,
+  "lemmas": [
+    {
+      "lemma": "drukningsdød",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12828,
+      "is_sub_article": false,
+      "primary_translation": "death by drowning",
+      "word_forms": [
+        {
+          "word_form": "drukningsdød",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drU$knINs$%d2:d",
+              "ipa": "ˈdrʊknɪŋsˌdøːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "drukningsdøden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drU$knINs$%d2:$dn=",
+              "ipa": "ˈdrʊknɪŋsˌdøːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "drukningsdøder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drU$knINs$%d2:$d@r",
+              "ipa": "ˈdrʊknɪŋsˌdøːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "drukningsdødene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drU$knINs$%d2:$dn=$@",
+              "ipa": "ˈdrʊknɪŋsˌdøːdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "db03f3ceef85.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db03f3ceef85.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db03f3ceef85.mp3",
+            "text": "drukningsdød",
+            "source": "generated",
+            "content_sha256": "5b5dd073f3c89b634eaf228955e0ae29091da3d1f22ec439c298839f76ddcee4",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "død som følge av drukning",
+      "translation": "death resulting from drowning",
+      "examples": [
+        {
+          "no": "lide drukningsdøden",
+          "en": "die by drowning"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 65804,
+  "lemmas": [
+    {
+      "lemma": "utspent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75516,
+      "is_sub_article": false,
+      "primary_translation": "stretched taut / spread out",
+      "word_forms": [
+        {
+          "word_form": "utspent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%spEnt",
+              "ipa": "ˈʉːtˌspɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utspente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%spEn$t@",
+              "ipa": "ˈʉːtˌspɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "64bcfa4af713.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64bcfa4af713.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64bcfa4af713.mp3",
+            "text": "utspent",
+            "source": "generated",
+            "content_sha256": "aeb9e573b4e0309ed54048a614384a11127e9632239474046502d243849b7c9c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er spent stramt ut",
+      "translation": "stretched tautly",
+      "examples": [
+        {
+          "no": "en utspent snor",
+          "en": "a taut string"
+        },
+        {
+          "no": "et utspent seil",
+          "en": "a taut sail"
+        }
+      ]
+    }
+  ]
+}

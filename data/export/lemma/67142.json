@@ -1,0 +1,91 @@
+{
+  "source_article_id": 67142,
+  "lemmas": [
+    {
+      "lemma": "veggfast",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77385,
+      "is_sub_article": false,
+      "primary_translation": "wall-mounted",
+      "word_forms": [
+        {
+          "word_form": "veggfast",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEg$%fA$st",
+              "ipa": "ˈvɛgˌfɑst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "veggfaste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEg$%fA$st@",
+              "ipa": "ˈvɛgˌfɑstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2197976aaacd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2197976aaacd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2197976aaacd.mp3",
+            "text": "veggfast",
+            "source": "generated",
+            "content_sha256": "fc26c293181b01895c452f577742573527f01bdc52f7eea29fbef1e35ad59d94",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er fast i eller festet til veggen",
+      "translation": "that is fixed to the wall",
+      "examples": [
+        {
+          "no": "veggfaste installasjoner",
+          "en": "wall-mounted installations"
+        },
+        {
+          "no": "selge leiligheten med alt som er veggfast",
+          "en": "sell the apartment with everything that is permanently fixed to the wall"
+        }
+      ]
+    }
+  ]
+}

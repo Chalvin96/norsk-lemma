@@ -1,0 +1,137 @@
+{
+  "source_article_id": 112094,
+  "lemmas": [
+    {
+      "lemma": "ekstremvær",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163657,
+      "is_sub_article": false,
+      "primary_translation": "severe weather event",
+      "word_forms": [
+        {
+          "word_form": "ekstremvær",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"stre:m$%v{:r",
+              "ipa": "ɛkˈstreːmˌvæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ekstremværet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"stre:m$%v{:$r@",
+              "ipa": "ɛkˈstreːmˌvæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ekstremværa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛkstrˈeːmʋˌæːrɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ekstremværene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛkstrˈeːmʋˌæːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d277e7117dc7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d277e7117dc7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d277e7117dc7.mp3",
+            "text": "ekstremvær",
+            "source": "generated",
+            "content_sha256": "fa802caae95095c229c47716351b200e04417e76ee6ee15092484c56975ac780",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vær som medfører fare for liv og verdier",
+      "translation": "weather that poses a danger to life and property",
+      "examples": [
+        {
+          "no": "Meteorologisk institutt  varsler ekstremvær på kysten",
+          "en": "The Norwegian Meteorological Institute warns of extreme weather on the coast"
+        }
+      ]
+    },
+    {
+      "text": "enkeltstående (navngitt) tilfelle av uvær",
+      "translation": "an individual (named) instance of severe weather",
+      "examples": [
+        {
+          "no": "meteorologene advarer mot ekstremværet ‘Finn’",
+          "en": "the meteorologists are warning against the extreme weather event 'Finn'"
+        }
+      ]
+    }
+  ]
+}

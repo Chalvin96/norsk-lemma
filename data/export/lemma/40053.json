@@ -1,0 +1,105 @@
+{
+  "source_article_id": 40053,
+  "lemmas": [
+    {
+      "lemma": "måtelig",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 46745,
+      "is_sub_article": false,
+      "primary_translation": "moderate / moderately",
+      "word_forms": [
+        {
+          "word_form": "måtelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$t@$lI",
+              "ipa": "ˈmoːtəlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "måtelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$t@$lI$@",
+              "ipa": "ˈmoːtəlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f324baed989f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f324baed989f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f324baed989f.mp3",
+            "text": "måtelig",
+            "source": "generated",
+            "content_sha256": "60fce3dbac4ed9162915afb257d5668a1d984d2c31d93c72f924cb48b65443af",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "middels, passelig, høvelig",
+      "translation": "medium, passable, suitable",
+      "examples": [
+        {
+          "no": "det ble bare en måtelig suksess",
+          "en": "it was only a moderate success"
+        },
+        {
+          "no": "måtelig stor",
+          "en": "moderately large"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: i liten grad",
+      "translation": "used as an adverb: to a small degree",
+      "examples": [
+        {
+          "no": "jeg likte det bare så måtelig",
+          "en": "I only liked it moderately well"
+        },
+        {
+          "no": "hun var bare så måtelig fornøyd",
+          "en": "she was only moderately satisfied"
+        }
+      ]
+    }
+  ]
+}

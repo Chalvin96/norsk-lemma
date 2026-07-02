@@ -1,0 +1,95 @@
+{
+  "source_article_id": 41366,
+  "lemmas": [
+    {
+      "lemma": "nynorsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 48355,
+      "is_sub_article": false,
+      "primary_translation": "Nynorsk (adjective)",
+      "word_forms": [
+        {
+          "word_form": "nynorsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%nO$s`k",
+              "ipa": "ˈnyːˌnɔʂk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nynorske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%nO$s`k@",
+              "ipa": "ˈnyːˌnɔʂkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "81612140af8b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81612140af8b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81612140af8b.mp3",
+            "text": "nynorsk",
+            "source": "generated",
+            "content_sha256": "da9356cb85540daf54d03dd4885f87582d0c6b91ef7b06f11ce6e812651fdea7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bruker, gjelder eller er skrevet på nynorsk",
+      "translation": "using, concerning, or written in Nynorsk",
+      "examples": [
+        {
+          "no": "nynorsk språk og litteratur",
+          "en": "Nynorsk language and literature"
+        },
+        {
+          "no": "nynorsk rettskrivning",
+          "en": "Nynorsk spelling"
+        },
+        {
+          "no": "de to nynorske parallellklassene",
+          "en": "the two parallel classes using Nynorsk"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_article_id": 47830,
+  "lemmas": [
+    {
+      "lemma": "regnfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54941,
+      "is_sub_article": false,
+      "primary_translation": "rainy / rain-poor",
+      "word_forms": [
+        {
+          "word_form": "regnfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r{*In$%fu0l",
+              "ipa": "ˈræ͡ɪnˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "regnfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r{*In$%fu0$l@",
+              "ipa": "ˈræ͡ɪnˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "regnfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r{*In$%fu0lt",
+              "ipa": "ˈræ͡ɪnˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ddd2f9fb01c3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddd2f9fb01c3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddd2f9fb01c3.mp3",
+            "text": "regnfull",
+            "source": "generated",
+            "content_sha256": "31ee5f7f2ffc373bc2e7cdc9c7f4113b8a1eab2a69eabba99cef0beff7220754",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med mye regn",
+      "translation": "with much rain",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra regnfattig",
+      "translation": "rain-poor",
+      "examples": [
+        {
+          "no": "en regnfull dag",
+          "en": "a rainy day"
+        }
+      ]
+    }
+  ]
+}

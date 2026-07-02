@@ -1,0 +1,140 @@
+{
+  "source_article_id": 28066,
+  "lemmas": [
+    {
+      "lemma": "justis",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 33256,
+      "is_sub_article": false,
+      "primary_translation": "justice / discipline",
+      "word_forms": [
+        {
+          "word_form": "justis",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ju0$\"sti:s",
+              "ipa": "jʉˈstɪːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "justisen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ju0$\"sti:$sn=",
+              "ipa": "jʉˈstɪːsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "justiser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jʉstˈiːsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "justisene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jʉstˈiːsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0d2ef427ef99.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d2ef427ef99.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d2ef427ef99.mp3",
+            "text": "justis",
+            "source": "generated",
+            "content_sha256": "872ef3d53d214852d2987de2c1db1b5b0b52b6951c88dfac6c75382f3560a1ce",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "domstolenes virksomhet",
+      "translation": "the activity of courts",
+      "examples": [
+        {
+          "no": "vi stoler på at vår justis er rettferdig",
+          "en": "we trust that our justice system is fair"
+        },
+        {
+          "no": "bli tatt av justisen",
+          "en": "be caught by the law"
+        }
+      ]
+    },
+    {
+      "text": "disiplin, orden",
+      "translation": "discipline, order",
+      "examples": [
+        {
+          "no": "holde streng justis",
+          "en": "maintain strict discipline"
+        }
+      ]
+    }
+  ]
+}

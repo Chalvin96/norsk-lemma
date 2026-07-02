@@ -1,0 +1,197 @@
+{
+  "source_article_id": 10162,
+  "lemmas": [
+    {
+      "lemma": "dimittere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 11898,
+      "is_sub_article": false,
+      "primary_translation": "discharge / release",
+      "word_forms": [
+        {
+          "word_form": "dimittere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$mI$\"te:$r@",
+              "ipa": "dɪmɪˈteːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dimitterer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$mI$\"te:$r@r",
+              "ipa": "dɪmɪˈteːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dimitteres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$mI$\"te:$r@s",
+              "ipa": "dɪmɪˈteːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dimitterte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$mI$\"te:$t`@",
+              "ipa": "dɪmɪˈteːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dimittert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$mI$\"te:t`",
+              "ipa": "dɪmɪˈteːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dimitterende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$mI$\"te:$n`=$@",
+              "ipa": "dɪmɪˈteːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dimitter",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$mI$\"te:r",
+              "ipa": "dɪmɪˈteːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5bd6f7ec7d11.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bd6f7ec7d11.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bd6f7ec7d11.mp3",
+            "text": "dimittere",
+            "source": "generated",
+            "content_sha256": "aeb90532a2cbef24dde570143c05b30e26b9b33df72195c51d39c8533320660f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gi fri etter avsluttet militærtjeneste",
+      "translation": "release after completed military service",
+      "examples": [
+        {
+          "no": "soldaten ble dimittert",
+          "en": "the soldier was discharged"
+        }
+      ]
+    },
+    {
+      "text": "sende hjem",
+      "translation": "send home",
+      "examples": []
+    },
+    {
+      "text": "slippe fri",
+      "translation": "let go free",
+      "examples": [
+        {
+          "no": "bli dimittert fra legevakten",
+          "en": "be discharged from the emergency clinic"
+        },
+        {
+          "no": "de arresterte ble dimittert etter avhøret",
+          "en": "the arrested people were released after the questioning"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 17649,
+  "lemmas": [
+    {
+      "lemma": "fraseparert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 20554,
+      "is_sub_article": false,
+      "primary_translation": "separated from",
+      "word_forms": [
+        {
+          "word_form": "fraseparert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frA:$s@$pA$%re:t`",
+              "ipa": "ˈfrɑːsəpɑˌreːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fraseparerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frA:$s@$pA$%re:$t`@",
+              "ipa": "ˈfrɑːsəpɑˌreːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f57c70d530d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f57c70d530d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f57c70d530d.mp3",
+            "text": "fraseparert",
+            "source": "generated",
+            "content_sha256": "4a39f5292a5a2d3cb2276ad6c255b76b00e04394a499155763ef64b112c517c7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en er separert ifra",
+      "translation": "from whom one is separated",
+      "examples": [
+        {
+          "no": "hennes fraseparerte mann",
+          "en": "her estranged husband"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "source_article_id": 17631,
+  "lemmas": [
+    {
+      "lemma": "fransk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 20531,
+      "is_sub_article": false,
+      "primary_translation": "French",
+      "word_forms": [
+        {
+          "word_form": "fransk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frAnsk",
+              "ipa": "ˈfrɑnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "franske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frAn$sk@",
+              "ipa": "ˈfrɑnskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b21ee5f90fe5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b21ee5f90fe5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b21ee5f90fe5.mp3",
+            "text": "fransk",
+            "source": "generated",
+            "content_sha256": "d928cbf3c3ff6f596a3ba38a8a992ff33dae2367e56bfaee63283ad6a6982ccc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Frankrike og franskmenn",
+      "translation": "relating to France and French people",
+      "examples": [
+        {
+          "no": "han er fransk",
+          "en": "he is French"
+        },
+        {
+          "no": "fransk kultur",
+          "en": "French culture"
+        },
+        {
+          "no": "den franske presidenten",
+          "en": "the French president"
+        }
+      ]
+    },
+    {
+      "text": "som gjelder språket og faget fransk",
+      "translation": "relating to the French language and subject",
+      "examples": [
+        {
+          "no": "et fransk ord",
+          "en": "a French word"
+        },
+        {
+          "no": "fransk stil",
+          "en": "French style"
+        },
+        {
+          "no": "fransk ordbok",
+          "en": "French dictionary"
+        }
+      ]
+    }
+  ]
+}

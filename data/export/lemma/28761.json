@@ -1,0 +1,128 @@
+{
+  "source_article_id": 28761,
+  "lemmas": [
+    {
+      "lemma": "karens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 33999,
+      "is_sub_article": false,
+      "primary_translation": "abstinence / fallow",
+      "word_forms": [
+        {
+          "word_form": "karens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kA:$n`=s",
+              "ipa": "ˈkɑːɳ̩s",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "karensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"rEn$sn=",
+              "ipa": "kɑˈrɛnsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "karenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"rEn$s@r",
+              "ipa": "kɑˈrɛnsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "karensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑrˈɛnsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aae832bfd9c6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aae832bfd9c6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aae832bfd9c6.mp3",
+            "text": "karens",
+            "source": "generated",
+            "content_sha256": "de8ccd2d117194566420d60db607f435e648173da4f7a7eb69634468d8fd344d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være uten, unnvære noe (forut for undersøkelse eller operasjon)",
+      "translation": "the state of being without, doing without something (prior to examination or operation)",
+      "examples": [
+        {
+          "no": "det må settes rammer for hvor lenge karensen skal vare",
+          "en": "limits must be set on how long the waiting period is to last"
+        },
+        {
+          "no": "arealer i karens",
+          "en": "areas under quarantine"
+        }
+      ]
+    }
+  ]
+}

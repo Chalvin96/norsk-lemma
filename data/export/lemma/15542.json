@@ -1,0 +1,127 @@
+{
+  "source_article_id": 15542,
+  "lemmas": [
+    {
+      "lemma": "fly",
+      "hgno": 3,
+      "pos": "NOUN",
+      "source_lemma_id": 18042,
+      "is_sub_article": false,
+      "primary_translation": "aircraft",
+      "word_forms": [
+        {
+          "word_form": "fly",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:",
+              "ipa": "ˈflyː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flyet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$@",
+              "ipa": "ˈflyːə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flya",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$A",
+              "ipa": "ˈflyːɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flyene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fly:$@$n@",
+              "ipa": "ˈflyːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ea2515fcb90c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea2515fcb90c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea2515fcb90c.mp3",
+            "text": "fly",
+            "source": "generated",
+            "content_sha256": "e31dd78b80bd7c5ba95eba45f6a9a930f29e6bfbdfea6028c672c8dfab09486d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "motordrevet luftfartøy med vinger",
+      "translation": "motor-driven aircraft with wings",
+      "examples": [
+        {
+          "no": "flyet kunne ikke gå ned på grunn av tåke",
+          "en": "the plane could not land because of fog"
+        },
+        {
+          "no": "tar du tog eller fly?",
+          "en": "are you taking the train or flying?"
+        }
+      ]
+    }
+  ]
+}

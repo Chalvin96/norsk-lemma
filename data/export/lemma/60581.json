@@ -1,0 +1,126 @@
+{
+  "source_article_id": 60581,
+  "lemmas": [
+    {
+      "lemma": "tidende",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 69275,
+      "is_sub_article": false,
+      "primary_translation": "news / tidings",
+      "word_forms": [
+        {
+          "word_form": "tidende",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$dn=$d@",
+              "ipa": "ˈtɪːdn̩də",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tidenden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$dn=$dn=",
+              "ipa": "ˈtɪːdn̩dn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tidender",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$dn=$d@r",
+              "ipa": "ˈtɪːdn̩dər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tidendene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$dn=$dn=$@",
+              "ipa": "ˈtɪːdn̩dn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c70a78036d0b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c70a78036d0b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c70a78036d0b.mp3",
+            "text": "tidende",
+            "source": "generated",
+            "content_sha256": "7933110cfff2804793a4df9f0535ce6123cf96c90139a3c756036405d46e6c83",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "foreldet: nytt, nyhet",
+      "translation": "news, tidings",
+      "examples": [
+        {
+          "no": "bringe, spørre gode tidender",
+          "en": "bring, ask for good news"
+        },
+        {
+          "no": "Bergens Tidende",
+          "en": ""
+        }
+      ]
+    }
+  ]
+}

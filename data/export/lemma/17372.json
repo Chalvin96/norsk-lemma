@@ -1,0 +1,130 @@
+{
+  "source_article_id": 17372,
+  "lemmas": [
+    {
+      "lemma": "fotograf",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 20138,
+      "is_sub_article": false,
+      "primary_translation": "photographer",
+      "word_forms": [
+        {
+          "word_form": "fotograf",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fU$tU$\"grA:f",
+              "ipa": "fʊtʊˈgrɑːf",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fotografen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fU$tU$\"grA:$f@n",
+              "ipa": "fʊtʊˈgrɑːfən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fotografer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fU$tU$\"grA:$f@r",
+              "ipa": "fʊtʊˈgrɑːfər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fotografene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fU$tU$\"grA:$f@$n@",
+              "ipa": "fʊtʊˈgrɑːfənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "205ddd92327d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/205ddd92327d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/205ddd92327d.mp3",
+            "text": "fotograf",
+            "source": "generated",
+            "content_sha256": "9d895b7f713aaf2ebd7f05690afb44cb8835f2b8944683ff9cce2acd4e273925",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som fotograferer",
+      "translation": "person who takes photographs",
+      "examples": [
+        {
+          "no": "smile til fotografen",
+          "en": "smile at the photographer"
+        },
+        {
+          "no": "utdanne seg til fotograf",
+          "en": "train to become a photographer"
+        },
+        {
+          "no": "profesjonell fotograf",
+          "en": "professional photographer"
+        }
+      ]
+    }
+  ]
+}

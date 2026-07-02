@@ -1,0 +1,115 @@
+{
+  "source_article_id": 1146,
+  "lemmas": [
+    {
+      "lemma": "årvåken",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 80711,
+      "is_sub_article": false,
+      "primary_translation": "alert / attentive",
+      "word_forms": [
+        {
+          "word_form": "årvåken",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:r$%vo:$k@n",
+              "ipa": "ˈoːrˌvoːkən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "årvåkne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:r$%vo:$kn@",
+              "ipa": "ˈoːrˌvoːknə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "årvåkent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:r$%vo:$k@nt",
+              "ipa": "ˈoːrˌvoːkənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "488dcab62068.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/488dcab62068.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/488dcab62068.mp3",
+            "text": "årvåken",
+            "source": "generated",
+            "content_sha256": "aa80a9c2f0d1ec5869994e49b5699465b83436096f639b3e1d4dd4439dd3ad40",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som følger nøye med",
+      "translation": "paying close attention",
+      "examples": []
+    },
+    {
+      "text": "våken vaken, oppmerksom",
+      "translation": "awake, alert, attentive",
+      "examples": [
+        {
+          "no": "politiet har bedt folk være årvåkne",
+          "en": "the police have asked people to stay vigilant"
+        },
+        {
+          "no": "et årvåkent blikk",
+          "en": "a vigilant gaze"
+        }
+      ]
+    }
+  ]
+}

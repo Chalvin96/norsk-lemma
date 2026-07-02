@@ -1,0 +1,168 @@
+{
+  "source_article_id": 19605,
+  "lemmas": [
+    {
+      "lemma": "giftig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22885,
+      "is_sub_article": false,
+      "primary_translation": "poisonous / malicious",
+      "word_forms": [
+        {
+          "word_form": "giftig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jIf$tI",
+              "ipa": "ˈjɪftɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "giftige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jIf$tI$@",
+              "ipa": "ˈjɪftɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "giftigere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jIf$tI$@$r@",
+              "ipa": "ˈjɪftɪərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "giftigst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jIf$tIgst",
+              "ipa": "ˈjɪftɪgst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "giftigste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jIf$tIg$st@",
+              "ipa": "ˈjɪftɪgstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0abee1c63998.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0abee1c63998.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0abee1c63998.mp3",
+            "text": "giftig",
+            "source": "generated",
+            "content_sha256": "2f5fb228f54f7ff7433207fee7522d7b0d7d1e91795c767eed8a1721837bca77",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som inneholder gift",
+      "translation": "containing poison",
+      "examples": [
+        {
+          "no": "giftige gasser",
+          "en": "poisonous gases"
+        },
+        {
+          "no": "giftig sopp",
+          "en": "poisonous mushrooms"
+        }
+      ]
+    },
+    {
+      "text": "som skader med gift",
+      "translation": "harming with poison",
+      "examples": [
+        {
+          "no": "giftige slanger",
+          "en": "venomous snakes"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: ondskapsfull, spydig",
+      "translation": "malicious, spiteful",
+      "examples": [
+        {
+          "no": "giftige bemerkninger",
+          "en": "poisonous remarks"
+        },
+        {
+          "no": "ha en giftig tunge",
+          "en": "have a venomous tongue"
+        }
+      ]
+    }
+  ]
+}

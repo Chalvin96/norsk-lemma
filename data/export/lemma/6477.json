@@ -1,0 +1,120 @@
+{
+  "source_article_id": 6477,
+  "lemmas": [
+    {
+      "lemma": "blodfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 7640,
+      "is_sub_article": false,
+      "primary_translation": "bloody / vigorous",
+      "word_forms": [
+        {
+          "word_form": "blodfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%fu0l",
+              "ipa": "ˈbluːˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blodfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%fu0$l@",
+              "ipa": "ˈbluːˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blodfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%fu0lt",
+              "ipa": "ˈbluːˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "63ffff10ef98.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63ffff10ef98.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/63ffff10ef98.mp3",
+            "text": "blodfull",
+            "source": "generated",
+            "content_sha256": "c9780aff9c071aa82127ff6b9b87d71f1a936863470f3af7af4c97dafcf18024",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har mye blod",
+      "translation": "having a lot of blood",
+      "examples": [
+        {
+          "no": "en blodfull flått",
+          "en": "a blood-engorged tick"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: livskraftig, temperamentsfull",
+      "translation": "in a figurative sense: vigorous, temperamental",
+      "examples": [
+        {
+          "no": "en levende og blodfull historie",
+          "en": "a vivid and full-blooded story"
+        },
+        {
+          "no": "blodfull musikk",
+          "en": "full-blooded music"
+        }
+      ]
+    }
+  ]
+}

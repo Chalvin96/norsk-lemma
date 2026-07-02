@@ -1,0 +1,124 @@
+{
+  "source_article_id": 128381,
+  "lemmas": [
+    {
+      "lemma": "skiskole",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 139047,
+      "is_sub_article": false,
+      "primary_translation": "ski school",
+      "word_forms": [
+        {
+          "word_form": "skiskole",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Si:$%sku:$l@",
+              "ipa": "ˈʃɪːˌskuːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skiskolen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Si:$%sku:$ln=",
+              "ipa": "ˈʃɪːˌskuːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skiskoler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈiːskˌuːlər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skiskolene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Si:$%sku:$ln=$@",
+              "ipa": "ˈʃɪːˌskuːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cc8db2bf53cc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc8db2bf53cc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc8db2bf53cc.mp3",
+            "text": "skiskole",
+            "source": "generated",
+            "content_sha256": "c8b2dfa0e50bcf3965bf45a6954c3c0bb3a530efc780cbd0ad161b276c78924d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "undervisningsvirksomhet, ofte på skisenter, der en kan lære å gå og stå på ski",
+      "translation": "teaching activity, often at a ski resort, where one can learn to ski",
+      "examples": [
+        {
+          "no": "ungene var på skiskole i vinterferien",
+          "en": "the kids were at ski school during the winter holiday"
+        }
+      ]
+    }
+  ]
+}

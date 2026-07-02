@@ -1,0 +1,122 @@
+{
+  "source_article_id": 8420,
+  "lemmas": [
+    {
+      "lemma": "byte",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10018,
+      "is_sub_article": false,
+      "primary_translation": "byte",
+      "word_forms": [
+        {
+          "word_form": "byte",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA*It",
+              "ipa": "ˈbɑ͡ɪt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "byten",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA*I$tn=",
+              "ipa": "ˈbɑ͡ɪtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "byter",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈyːtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bytene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɑ͡ɪtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "05a4f357f2e9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/05a4f357f2e9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/05a4f357f2e9.mp3",
+            "text": "byte",
+            "source": "generated",
+            "content_sha256": "82bce05b255dc40b53892bce66a3e5f5f3bb87db06bcd34604461d6fa1f4af15",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enhet for lagerkapasitet som består av åtte bit",
+      "translation": "unit of storage capacity consisting of eight bits",
+      "examples": []
+    }
+  ]
+}

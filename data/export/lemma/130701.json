@@ -1,0 +1,77 @@
+{
+  "source_article_id": 130701,
+  "lemmas": [
+    {
+      "lemma": "snaut",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 2874518,
+      "is_sub_article": false,
+      "primary_translation": "barely / scarcely",
+      "word_forms": [
+        {
+          "word_form": "snaut",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"snE*u0t",
+              "ipa": "ˈsnæ͡ʉt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4df6f11c9152.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4df6f11c9152.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4df6f11c9152.mp3",
+            "text": "snaut",
+            "source": "generated",
+            "content_sha256": "78260d4037b2e0f86cd1526d43d047cc5c920c812a4d21823ecc9bb68bc68e5b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bare så vidt",
+      "translation": "barely",
+      "examples": []
+    },
+    {
+      "text": "knapt",
+      "translation": "scarcely",
+      "examples": [
+        {
+          "no": "ha snaut med penger",
+          "en": "be short of money"
+        },
+        {
+          "no": "regne for snaut",
+          "en": "consider too little"
+        },
+        {
+          "no": "det var snaut noen som visste om det",
+          "en": "there was hardly anyone who knew about it"
+        },
+        {
+          "no": "det var snaut 100 personer til stede",
+          "en": "there were barely 100 people present"
+        }
+      ]
+    }
+  ]
+}

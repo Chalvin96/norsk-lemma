@@ -1,0 +1,97 @@
+{
+  "source_article_id": 25904,
+  "lemmas": [
+    {
+      "lemma": "immunologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30875,
+      "is_sub_article": false,
+      "primary_translation": "immunological",
+      "word_forms": [
+        {
+          "word_form": "immunologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$mu0$nU$\"lo:$gI$sk",
+              "ipa": "ɪmʉnʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "immunologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$mu0$nU$\"lo:$gI$sk@",
+              "ipa": "ɪmʉnʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "362c2ffa9855.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/362c2ffa9855.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/362c2ffa9855.mp3",
+            "text": "immunologisk",
+            "source": "generated",
+            "content_sha256": "c0f6d851c3a820ed7cfa07196866d93d44142022bdbead689ddff0486c5925ad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder immunologi",
+      "translation": "relating to immunology",
+      "examples": [
+        {
+          "no": "immunologisk forskning",
+          "en": "immunological research"
+        }
+      ]
+    },
+    {
+      "text": "som har med immunsystem å gjøre",
+      "translation": "relating to the immune system",
+      "examples": [
+        {
+          "no": "en immunologisk reaksjon",
+          "en": "an immunological reaction"
+        }
+      ]
+    }
+  ]
+}

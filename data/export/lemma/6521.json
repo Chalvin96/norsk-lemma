@@ -1,0 +1,122 @@
+{
+  "source_article_id": 6521,
+  "lemmas": [
+    {
+      "lemma": "blodtype",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7685,
+      "is_sub_article": false,
+      "primary_translation": "blood type",
+      "word_forms": [
+        {
+          "word_form": "blodtype",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%ty:$p@",
+              "ipa": "ˈbluːˌtyːpə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blodtypen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%ty:$p@n",
+              "ipa": "ˈbluːˌtyːpən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blodtyper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%ty:$p@r",
+              "ipa": "ˈbluːˌtyːpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blodtypene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%ty:$p@$n@",
+              "ipa": "ˈbluːˌtyːpənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "055976fe005c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/055976fe005c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/055976fe005c.mp3",
+            "text": "blodtype",
+            "source": "generated",
+            "content_sha256": "e25a2210e491375dcf7dba98c7c9e01856848ed203840a0db1c245b042fc15e9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "blod klassifisert etter et visst sett av antigen på overflatene av en persons blodceller",
+      "translation": "blood classified according to a specific set of antigens on the surface of a person's blood cells",
+      "examples": [
+        {
+          "no": "blodtypene A, B, AB og 0  (null)",
+          "en": "the blood types A, B, AB and O"
+        }
+      ]
+    }
+  ]
+}

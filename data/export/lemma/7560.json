@@ -1,0 +1,131 @@
+{
+  "source_article_id": 7560,
+  "lemmas": [
+    {
+      "lemma": "brisling",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 8925,
+      "is_sub_article": false,
+      "primary_translation": "sprat",
+      "word_forms": [
+        {
+          "word_form": "brisling",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brI$slIN",
+              "ipa": "ˈbrɪslɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brislingen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brI$slIN$@n",
+              "ipa": "ˈbrɪslɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brislinger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brI$slIN$@r",
+              "ipa": "ˈbrɪslɪŋər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brislingene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brI$slIN$@$n@",
+              "ipa": "ˈbrɪslɪŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d764ca2cd10e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d764ca2cd10e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d764ca2cd10e.mp3",
+            "text": "brisling",
+            "source": "generated",
+            "content_sha256": "aa238ea289873d55e648a82a5d7cf885ef88b1105e1eb10eb4b89e04debb91f3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "liten sildefisk med skarpe tagger langs midten av buken",
+      "translation": "small herring-like fish with sharp spines along the middle of the belly",
+      "examples": []
+    },
+    {
+      "text": "Sprattus sprattus",
+      "translation": "Sprattus sprattus",
+      "examples": [
+        {
+          "no": "fiske store mengder brisling",
+          "en": "catch large quantities of sprat"
+        },
+        {
+          "no": "spise røkt brisling",
+          "en": "eat smoked sprats"
+        }
+      ]
+    }
+  ]
+}

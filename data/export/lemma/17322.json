@@ -1,0 +1,110 @@
+{
+  "source_article_id": 17322,
+  "lemmas": [
+    {
+      "lemma": "fossil",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 20090,
+      "is_sub_article": false,
+      "primary_translation": "fossil / outdated",
+      "word_forms": [
+        {
+          "word_form": "fossil",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"si:l",
+              "ipa": "fɔˈsɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fossile",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"si:$l@",
+              "ipa": "fɔˈsɪːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fossilt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"si:lt",
+              "ipa": "fɔˈsɪːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c0441c73b93b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c0441c73b93b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c0441c73b93b.mp3",
+            "text": "fossil",
+            "source": "generated",
+            "content_sha256": "14c629a0d2f78bc1365a64af0afdd73ccd68e4aca0af06376b4bf860ffd834d5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er bevart i jordlag fra eldre geologiske perioder",
+      "translation": "preserved in geological strata from older periods",
+      "examples": [
+        {
+          "no": "fossile knokler",
+          "en": "fossil bones"
+        },
+        {
+          "no": "han er helt fossil",
+          "en": "he's completely fossilized"
+        }
+      ]
+    }
+  ]
+}

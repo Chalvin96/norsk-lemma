@@ -1,0 +1,126 @@
+{
+  "source_article_id": 114661,
+  "lemmas": [
+    {
+      "lemma": "gassturbin",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 102218,
+      "is_sub_article": false,
+      "primary_translation": "gas turbine",
+      "word_forms": [
+        {
+          "word_form": "gassturbin",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$stu0r$%bi:n",
+              "ipa": "ˈgɑstʉrˌbɪːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gassturbinen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈɑstʉrbˌiːnn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gassturbiner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$stu0r$%bi:$n@r",
+              "ipa": "ˈgɑstʉrˌbɪːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gassturbinene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈɑstʉrbˌiːnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e6b6a86bc682.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6b6a86bc682.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6b6a86bc682.mp3",
+            "text": "gassturbin",
+            "source": "generated",
+            "content_sha256": "1e98df7b7be48b66045ce85b71a209c019abd8cb08b1041645067bcaea1cc7cf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "turbin drevet av oppvarmet gass eller luft",
+      "translation": "turbine driven by heated gas or air",
+      "examples": [
+        {
+          "no": "få strøm fra en gassturbin",
+          "en": "get electricity from a gas turbine"
+        }
+      ]
+    }
+  ]
+}

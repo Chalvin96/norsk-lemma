@@ -1,0 +1,104 @@
+{
+  "source_article_id": 55736,
+  "lemmas": [
+    {
+      "lemma": "sou",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 64149,
+      "is_sub_article": false,
+      "primary_translation": "sou (coin)",
+      "word_forms": [
+        {
+          "word_form": "sou",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s}:",
+              "ipa": "ˈsʉː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "souen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s}:$@n",
+              "ipa": "ˈsʉːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "souene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s}:$@$n@",
+              "ipa": "ˈsʉːənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "49fa62c5da7b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49fa62c5da7b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49fa62c5da7b.mp3",
+            "text": "sou",
+            "source": "generated",
+            "content_sha256": "08f97d0dc7b4b5d77577d5d797e6b818d366b43d8575cef6cf5c3ecca6472dda",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "eldre fransk mynt",
+      "translation": "old French coin",
+      "examples": [
+        {
+          "no": "1 sou = 5 centimes",
+          "en": ""
+        }
+      ]
+    }
+  ]
+}

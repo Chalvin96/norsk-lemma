@@ -1,0 +1,105 @@
+{
+  "source_article_id": 113740,
+  "lemmas": [
+    {
+      "lemma": "formfast",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 164540,
+      "is_sub_article": false,
+      "primary_translation": "shape-retaining / stable",
+      "word_forms": [
+        {
+          "word_form": "formfast",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɔrmfˌɑst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "formfaste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɔrmfˌɑstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6c605c6098f5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c605c6098f5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c605c6098f5.mp3",
+            "text": "formfast",
+            "source": "generated",
+            "content_sha256": "dd463f537ed0e93f329168f2192f888c70450379c5151f108c4f27a04446cff3"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som beholder formen sin under oppbevaring eller bruk",
+      "translation": "retaining its shape during storage or use",
+      "examples": [
+        {
+          "no": "stålet må være bøyelig og formfast",
+          "en": "the steel must be malleable and dimensionally stable"
+        }
+      ]
+    },
+    {
+      "text": "som forekommer i en fast form eller i et fast mønster",
+      "translation": "occurring in a fixed form or pattern",
+      "examples": []
+    },
+    {
+      "text": "stabil, konstant, regelrett",
+      "translation": "stable, constant, regular",
+      "examples": [
+        {
+          "no": "formfaste dikt",
+          "en": "regular poems"
+        }
+      ]
+    }
+  ]
+}

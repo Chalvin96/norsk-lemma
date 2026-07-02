@@ -1,0 +1,127 @@
+{
+  "source_article_id": 122507,
+  "lemmas": [
+    {
+      "lemma": "matavfall",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 122362,
+      "is_sub_article": false,
+      "primary_translation": "food waste",
+      "word_forms": [
+        {
+          "word_form": "matavfall",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mA:$tAv$%fAl",
+              "ipa": "ˈmɑːtɑvˌfɑl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "matavfallet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mA:$tA:v$%fA$l@",
+              "ipa": "ˈmɑːtɑːvˌfɑlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "matavfalla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɑːtɑʋfˌɑlɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "matavfallene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɑːtɑʋfˌɑln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5237f9146f4b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5237f9146f4b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5237f9146f4b.mp3",
+            "text": "matavfall",
+            "source": "generated",
+            "content_sha256": "04612886047bfc5460cbaab73e450eefc40978f7ca8ad03ec49de7cab6f38744",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avfall som inneholder mat og matrester",
+      "translation": "waste containing food and food scraps",
+      "examples": [
+        {
+          "no": "gjøre matavfall til gjødsel",
+          "en": "turn food waste into fertilizer"
+        }
+      ]
+    }
+  ]
+}

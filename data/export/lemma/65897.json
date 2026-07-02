@@ -1,0 +1,97 @@
+{
+  "source_article_id": 65897,
+  "lemmas": [
+    {
+      "lemma": "uttjent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75636,
+      "is_sub_article": false,
+      "primary_translation": "worn out / served term",
+      "word_forms": [
+        {
+          "word_form": "uttjent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:$%tje:nt",
+              "ipa": "ˈʉːˌtjeːnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uttjente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:$%tje:n$t@",
+              "ipa": "ˈʉːˌtjeːntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f0b53a425bbc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f0b53a425bbc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f0b53a425bbc.mp3",
+            "text": "uttjent",
+            "source": "generated",
+            "content_sha256": "e9ad44a918c68c70c8023ea8bcf9705c07c292c06cc6e611aaa0dbeb51e8cd33",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utbrukt, utslitt",
+      "translation": "worn out, used up",
+      "examples": [
+        {
+          "no": "apparatet var nå uttjent",
+          "en": "the device was now worn out"
+        }
+      ]
+    },
+    {
+      "text": "som har vart fastsatt tid",
+      "translation": "that has served a fixed term",
+      "examples": [
+        {
+          "no": "etter uttjent verneplikt",
+          "en": "after completed military service"
+        }
+      ]
+    }
+  ]
+}

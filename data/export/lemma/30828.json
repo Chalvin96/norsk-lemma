@@ -1,0 +1,124 @@
+{
+  "source_article_id": 30828,
+  "lemmas": [
+    {
+      "lemma": "kollektiv",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 36307,
+      "is_sub_article": false,
+      "primary_translation": "collective",
+      "word_forms": [
+        {
+          "word_form": "kollektiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kO$l@k$tIv",
+              "ipa": "ˈkɔləktɪv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kollektive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kO$l@k$%ti:$v@",
+              "ipa": "ˈkɔləkˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kollektivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kO$l@k$tIvt",
+              "ipa": "ˈkɔləktɪvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5084552e79bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5084552e79bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5084552e79bf.mp3",
+            "text": "kollektiv",
+            "source": "generated",
+            "content_sha256": "a345e24ffa9aa90ddd39e8ae3526cac726b54379771e492c38accf55f87b4838",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder for en hel gruppe",
+      "translation": "pertaining to an entire group",
+      "examples": [
+        {
+          "no": "kollektivt ansvar",
+          "en": "collective responsibility"
+        },
+        {
+          "no": "kollektive transportmidler",
+          "en": "public transportation"
+        },
+        {
+          "no": "fagforeningen har kollektiv forsikring",
+          "en": "the union has group insurance"
+        }
+      ]
+    },
+    {
+      "text": "i grammatikk: som har entallsform, men flertallsbetydning",
+      "translation": "having a singular form but a plural meaning",
+      "examples": [
+        {
+          "no": "kollektive substantiver som ‘folk’",
+          "en": "collective nouns like ‘people’"
+        }
+      ]
+    }
+  ]
+}

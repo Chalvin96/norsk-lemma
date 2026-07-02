@@ -1,0 +1,123 @@
+{
+  "source_article_id": 111614,
+  "lemmas": [
+    {
+      "lemma": "kaffedrikker",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 111935,
+      "is_sub_article": false,
+      "primary_translation": "coffee drinker",
+      "word_forms": [
+        {
+          "word_form": "kaffedrikker",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$f@$%drI$k@r",
+              "ipa": "ˈkɑfəˌdrɪkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kaffedrikkeren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑfədrˌɪkəɳ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kaffedrikkere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑfədrˌɪkərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kaffedrikkerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑfədrˌɪkəɳə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "13408b494112.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/13408b494112.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/13408b494112.mp3",
+            "text": "kaffedrikker",
+            "source": "generated",
+            "content_sha256": "3da0ee61df1f3ae58ff275d0c9da8b13056fc5e03f083e86adc4a2336389dc3c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som (jevnlig) drikker kaffe",
+      "translation": "person who (regularly) drinks coffee",
+      "examples": []
+    }
+  ]
+}

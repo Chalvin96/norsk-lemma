@@ -1,0 +1,71 @@
+{
+  "source_article_id": 127607,
+  "lemmas": [
+    {
+      "lemma": "imens",
+      "hgno": 1,
+      "pos": "CONJ",
+      "source_lemma_id": 2871196,
+      "is_sub_article": false,
+      "primary_translation": "while / meanwhile",
+      "word_forms": [
+        {
+          "word_form": "imens",
+          "tags_json": [
+            "SCONJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"mEns",
+              "ipa": "ɪˈmɛns",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f8acbd8f9ac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f8acbd8f9ac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f8acbd8f9ac.mp3",
+            "text": "imens",
+            "source": "generated",
+            "content_sha256": "0d7a2013efd037dcc251f056b8825342bc2a8c9845e4aadd69a199a24c912954",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innleder en leddsetning som uttrykker at noe skjer samtidig",
+      "translation": "introduces a subordinate clause expressing that something happens simultaneously",
+      "examples": []
+    },
+    {
+      "text": "samtidig som, på den tid som",
+      "translation": "simultaneously with, at the time that",
+      "examples": [
+        {
+          "no": "de fikk en kopp kaffe imens de ventet",
+          "en": "they got a cup of coffee while they waited"
+        },
+        {
+          "no": "imens de svake faller utenfor, får de flinke ikke utfordringer nok",
+          "en": "while the weak fall behind, the talented don't get enough challenges"
+        }
+      ]
+    }
+  ]
+}

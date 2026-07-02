@@ -1,0 +1,97 @@
+{
+  "source_article_id": 65760,
+  "lemmas": [
+    {
+      "lemma": "utskutt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75455,
+      "is_sub_article": false,
+      "primary_translation": "shot out / rejected",
+      "word_forms": [
+        {
+          "word_form": "utskutt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%sku0t",
+              "ipa": "ˈʉːtˌskʉt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utskutte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%sku0$t@",
+              "ipa": "ˈʉːtˌskʉtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f9ccad7c3adc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f9ccad7c3adc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f9ccad7c3adc.mp3",
+            "text": "utskutt",
+            "source": "generated",
+            "content_sha256": "43ce594087f621534b9c8c8079a069953f47ec3dcff9695287ae1ebff07eca3c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er skutt ut",
+      "translation": "that has been shot out",
+      "examples": [
+        {
+          "no": "komme som en utskutt kanonkule",
+          "en": "come like a shot cannonball"
+        }
+      ]
+    },
+    {
+      "text": "utelatt, vraket",
+      "translation": "omitted, rejected",
+      "examples": [
+        {
+          "no": "føle seg som en utskutt",
+          "en": "feel like an outcast"
+        }
+      ]
+    }
+  ]
+}

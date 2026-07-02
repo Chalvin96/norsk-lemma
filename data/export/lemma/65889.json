@@ -1,0 +1,125 @@
+{
+  "source_article_id": 65889,
+  "lemmas": [
+    {
+      "lemma": "uttalefeil",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 75627,
+      "is_sub_article": false,
+      "primary_translation": "pronunciation error",
+      "word_forms": [
+        {
+          "word_form": "uttalefeil",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$tA:$l@$%f{*Il",
+              "ipa": "ˈʉːtɑːləˌfæ͡ɪl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uttalefeilen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$tA:$l@$%f{*I$ln=",
+              "ipa": "ˈʉːtɑːləˌfæ͡ɪln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uttalefeila",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːtɑːləfˌæ͡ɪlɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "uttalefeilene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$tA:$l@$%f{*I$ln=$@",
+              "ipa": "ˈʉːtɑːləˌfæ͡ɪln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "64a9b5bb784d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64a9b5bb784d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64a9b5bb784d.mp3",
+            "text": "uttalefeil",
+            "source": "generated",
+            "content_sha256": "e595d6d450444bffd6af7bc3b73a585db7a353d714247966cc211ce5881531bb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "feil i uttale",
+      "translation": "error in pronunciation",
+      "examples": [
+        {
+          "no": "henge seg opp i uttalefeil",
+          "en": "get hung up on pronunciation mistakes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "source_article_id": 35144,
+  "lemmas": [
+    {
+      "lemma": "like",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 40895,
+      "is_sub_article": false,
+      "primary_translation": "equal",
+      "word_forms": [
+        {
+          "word_form": "like",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"li:$k@",
+              "ipa": "ˈlɪːkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5ff40c1a49ad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ff40c1a49ad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ff40c1a49ad.mp3",
+            "text": "like",
+            "source": "generated",
+            "content_sha256": "85236510f8b764479d66964da73e1bfce67c22fb6777ae8c05f75e2b1b590522",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "jevnbyrdig jambyrdig, lik, samme",
+      "translation": "equal, on par, the same",
+      "examples": [
+        {
+          "no": "en like kamp",
+          "en": "an even match"
+        },
+        {
+          "no": "stå på like fot med",
+          "en": "be on an equal footing with"
+        }
+      ]
+    }
+  ]
+}

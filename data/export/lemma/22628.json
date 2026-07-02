@@ -1,0 +1,145 @@
+{
+  "source_article_id": 22628,
+  "lemmas": [
+    {
+      "lemma": "havre",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 26525,
+      "is_sub_article": false,
+      "primary_translation": "oats",
+      "word_forms": [
+        {
+          "word_form": "havre",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hA$vr@",
+              "ipa": "ˈhɑvrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "havren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hA$vr@n",
+              "ipa": "ˈhɑvrən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "havrer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑʋrər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "havrene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑʋrənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f6b5a92e6471.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f6b5a92e6471.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f6b5a92e6471.mp3",
+            "text": "havre",
+            "source": "generated",
+            "content_sha256": "34b00414cdd0434c74c5aa5e163eb1ea1430f15fdea0524a3a379e2c71eb20c1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gress- og kornslag med hengende småaks i åpen topp",
+      "translation": "grass and grain species with open-topped drooping spikelets",
+      "examples": []
+    },
+    {
+      "text": "Avena sativa",
+      "translation": "Avena sativa",
+      "examples": [
+        {
+          "no": "høste havre",
+          "en": "harvest oats"
+        }
+      ]
+    },
+    {
+      "text": "korn av dyrket havre",
+      "translation": "grain of cultivated oats",
+      "examples": [
+        {
+          "no": "gi hesten havre",
+          "en": "give the horse oats"
+        },
+        {
+          "no": "brød med havre",
+          "en": "bread with oats"
+        }
+      ]
+    }
+  ]
+}

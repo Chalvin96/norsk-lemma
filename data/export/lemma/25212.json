@@ -1,0 +1,91 @@
+{
+  "source_article_id": 25212,
+  "lemmas": [
+    {
+      "lemma": "hørlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30131,
+      "is_sub_article": false,
+      "primary_translation": "audible",
+      "word_forms": [
+        {
+          "word_form": "hørlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$l`I",
+              "ipa": "ˈhøːɭɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hørlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:$l`I$@",
+              "ipa": "ˈhøːɭɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b849b69d2fff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b849b69d2fff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b849b69d2fff.mp3",
+            "text": "hørlig",
+            "source": "generated",
+            "content_sha256": "00d4c747b3885f80318fe0a567356c995c27df51a30a816b4404f125fd79335c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan høres",
+      "translation": "that can be heard",
+      "examples": [
+        {
+          "no": "stemmen var godt hørlig",
+          "en": "the voice was clearly audible"
+        },
+        {
+          "no": "lydene var knapt hørlige",
+          "en": "the sounds were barely audible"
+        }
+      ]
+    }
+  ]
+}

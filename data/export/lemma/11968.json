@@ -1,0 +1,95 @@
+{
+  "source_article_id": 11968,
+  "lemmas": [
+    {
+      "lemma": "eksellent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14000,
+      "is_sub_article": false,
+      "primary_translation": "excellent",
+      "word_forms": [
+        {
+          "word_form": "eksellent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$s@$\"lEnt",
+              "ipa": "ɛksəˈlɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksellente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$s@$\"lEn$t@",
+              "ipa": "ɛksəˈlɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8be01151f8dd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8be01151f8dd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8be01151f8dd.mp3",
+            "text": "eksellent",
+            "source": "generated",
+            "content_sha256": "0b401b60d45ffa4778d079b0e0d87b221b54f9c4e841265e0d4592f64520a9aa",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fortreffelig, utmerket utmerka",
+      "translation": "excellent, outstanding",
+      "examples": [
+        {
+          "no": "en eksellent prestasjon",
+          "en": "an excellent performance"
+        },
+        {
+          "no": "hun har eksellent smak",
+          "en": "she has excellent taste"
+        },
+        {
+          "no": "skru straffen eksellent i mål",
+          "en": "curl the shot superbly into the net"
+        }
+      ]
+    }
+  ]
+}

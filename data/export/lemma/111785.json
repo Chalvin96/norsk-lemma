@@ -1,0 +1,99 @@
+{
+  "source_article_id": 111785,
+  "lemmas": [
+    {
+      "lemma": "haukeaktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163509,
+      "is_sub_article": false,
+      "primary_translation": "hawkish / dove-like",
+      "word_forms": [
+        {
+          "word_form": "haukeaktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈæ͡ʉkəˌɑktɪ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "haukeaktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈæ͡ʉkəˌɑktɪə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8faf36e30854.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8faf36e30854.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8faf36e30854.mp3",
+            "text": "haukeaktig",
+            "source": "generated",
+            "content_sha256": "276cb1d1806e758986ed4da2a802c4cb327c3f415128edf0411c0296d1a33173"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i politikk: med aggressiv holdning, ofte til støtte for et høyt eller høyere rentenivå",
+      "translation": "in politics: with an aggressive stance, often in support of a high or higher interest rate level",
+      "examples": []
+    },
+    {
+      "text": "motsatt dueaktig",
+      "translation": "dove-like",
+      "examples": [
+        {
+          "no": "hun er kjent for sitt ønske om en mer haukeaktig politikk",
+          "en": "she is known for wanting a more hawkish policy"
+        },
+        {
+          "no": "den europeiske sentralbanken er mindre haukeaktig etter forrige rentemøte",
+          "en": "the European Central Bank is less hawkish after the previous rate meeting"
+        }
+      ]
+    }
+  ]
+}

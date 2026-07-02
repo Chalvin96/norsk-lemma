@@ -1,0 +1,114 @@
+{
+  "source_article_id": 40483,
+  "lemmas": [
+    {
+      "lemma": "nederst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47386,
+      "is_sub_article": false,
+      "primary_translation": "bottommost / furthest back",
+      "word_forms": [
+        {
+          "word_form": "nederst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:$d@$s`t",
+              "ipa": "ˈneːdəʂt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nederste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:$d@s`$t`@",
+              "ipa": "ˈneːdəʂʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9036bbd89895.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9036bbd89895.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9036bbd89895.mp3",
+            "text": "nederst",
+            "source": "generated",
+            "content_sha256": "b7d048e7a2fa53cd1742ffc29ddb86f48b99dd199dfe2140b95ecc7884345a04",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er lengst nede",
+      "translation": "being furthest down",
+      "examples": []
+    },
+    {
+      "text": "motsatt øverst",
+      "translation": "opposite of uppermost",
+      "examples": [
+        {
+          "no": "den nederste delen av noe",
+          "en": "the lowest part of something"
+        },
+        {
+          "no": "fra øverst til nederst",
+          "en": "from top to bottom"
+        },
+        {
+          "no": "nederst nede",
+          "en": "at the very bottom"
+        }
+      ]
+    },
+    {
+      "text": "som adverb: som er lengst bak, på den minst ærefulle plassen",
+      "translation": "being in the furthest back, in the least honorable position",
+      "examples": [
+        {
+          "no": "sitte nederst ved bordet",
+          "en": "sit at the bottom of the table"
+        },
+        {
+          "no": "befinne seg nederst på rangstigen",
+          "en": "be at the bottom of the ladder"
+        }
+      ]
+    }
+  ]
+}

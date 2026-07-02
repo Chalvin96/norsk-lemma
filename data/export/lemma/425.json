@@ -1,0 +1,121 @@
+{
+  "source_article_id": 425,
+  "lemmas": [
+    {
+      "lemma": "akademisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1210,
+      "is_sub_article": false,
+      "primary_translation": "academic / theoretical",
+      "word_forms": [
+        {
+          "word_form": "akademisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$kA$\"de:$mI$sk",
+              "ipa": "ɑkɑˈdeːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "akademiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$kA$\"de:$mI$sk@",
+              "ipa": "ɑkɑˈdeːmɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "922d3b812709.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/922d3b812709.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/922d3b812709.mp3",
+            "text": "akademisk",
+            "source": "generated",
+            "content_sha256": "e34e85bea8dbc8dd63013404d6c7425fddaae7442d6ed5a3fee36cd8caea6f72",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder universitet eller akademikere",
+      "translation": "relating to universities and academics",
+      "examples": [
+        {
+          "no": "akademisk utdanning",
+          "en": "academic education"
+        },
+        {
+          "no": "akademisk frihet, miljø",
+          "en": "academic freedom, environment"
+        }
+      ]
+    },
+    {
+      "text": "konvensjonell, regelbundet",
+      "translation": "conventional, rule-bound",
+      "examples": [
+        {
+          "no": "akademisk stil, kunst",
+          "en": "academic style, art"
+        }
+      ]
+    },
+    {
+      "text": "uten praktisk betydning",
+      "translation": "without practical significance",
+      "examples": []
+    },
+    {
+      "text": "teoretisk",
+      "translation": "theoretical",
+      "examples": []
+    },
+    {
+      "text": "livsfjern",
+      "translation": "detached from life",
+      "examples": [
+        {
+          "no": "dette har bare akademisk interesse",
+          "en": "this is of only academic interest"
+        }
+      ]
+    }
+  ]
+}

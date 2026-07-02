@@ -1,0 +1,128 @@
+{
+  "source_article_id": 127441,
+  "lemmas": [
+    {
+      "lemma": "sesongslutt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 137360,
+      "is_sub_article": false,
+      "primary_translation": "end of season",
+      "word_forms": [
+        {
+          "word_form": "sesongslutt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"sON$%Slu0t",
+              "ipa": "səˈsɔŋˌʃlʉt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sesongslutten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "səsˈɔŋʃlˌʉtn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sesongslutter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "səsˈɔŋʃlˌʉtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sesongsluttene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "səsˈɔŋʃlˌʉtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "389afa9f5a05.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/389afa9f5a05.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/389afa9f5a05.mp3",
+            "text": "sesongslutt",
+            "source": "generated",
+            "content_sha256": "a9c43a33ba026afa6986fba5bab5266a4df2f0517986a8c070ef878aa6a7fe37",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "slutt på eller siste del av sesong",
+      "translation": "end of or last part of a season",
+      "examples": [
+        {
+          "no": "fotballtreneren gav seg ved sesongslutt i november",
+          "en": "the football coach quit at the end of the season in November"
+        }
+      ]
+    }
+  ]
+}

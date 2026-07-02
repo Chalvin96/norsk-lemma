@@ -1,0 +1,79 @@
+{
+  "source_article_id": 3996,
+  "lemmas": [
+    {
+      "lemma": "babord",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 4762,
+      "is_sub_article": false,
+      "primary_translation": "port side of a vessel",
+      "word_forms": [
+        {
+          "word_form": "babord",
+          "tags_json": [
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:$%bu:r",
+              "ipa": "ˈbɑːˌbuːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "64766c5279b9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64766c5279b9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64766c5279b9.mp3",
+            "text": "babord",
+            "source": "generated",
+            "content_sha256": "84cd15d6b11e4e81b56cc3eb616ee559e6339081e9d2d3fb83d02fac011e3018",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "venstre side av et fartøy sett bakfra",
+      "translation": "left side of a vessel seen from the stern",
+      "examples": []
+    },
+    {
+      "text": "motsatt styrbord",
+      "translation": "opposite of starboard",
+      "examples": [
+        {
+          "no": "ha vinden inn fra babord",
+          "en": "have the wind coming in from port"
+        },
+        {
+          "no": "svinge mot babord",
+          "en": "turn to port"
+        },
+        {
+          "no": "babords lanterne",
+          "en": "port light"
+        },
+        {
+          "no": "babords vakt",
+          "en": "port watch"
+        }
+      ]
+    }
+  ]
+}

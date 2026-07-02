@@ -1,0 +1,87 @@
+{
+  "source_article_id": 12185,
+  "lemmas": [
+    {
+      "lemma": "ekstremistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14222,
+      "is_sub_article": false,
+      "primary_translation": "extremist",
+      "word_forms": [
+        {
+          "word_form": "ekstremistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$str@$\"mI$stI$sk",
+              "ipa": "ɛkstrəˈmɪstɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ekstremistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$str@$\"mI$stI$sk@",
+              "ipa": "ɛkstrəˈmɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b341a377425c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b341a377425c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b341a377425c.mp3",
+            "text": "ekstremistisk",
+            "source": "generated",
+            "content_sha256": "9862f6d640131b0d1688f04528dcd72d62ea9af32145d172e58f34cb16cf607a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kjennetegner ekstremist",
+      "translation": "characterizing an extremist",
+      "examples": [
+        {
+          "no": "han framstår som ekstremistisk",
+          "en": "he comes across as extremist"
+        }
+      ]
+    }
+  ]
+}

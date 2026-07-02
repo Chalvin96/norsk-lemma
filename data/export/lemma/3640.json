@@ -1,0 +1,106 @@
+{
+  "source_article_id": 3640,
+  "lemmas": [
+    {
+      "lemma": "avlesbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4324,
+      "is_sub_article": false,
+      "primary_translation": "readable",
+      "word_forms": [
+        {
+          "word_form": "avlesbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$le:s$%bA:r",
+              "ipa": "ˈɑːvleːsˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "avlesbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$le:s$%bA:$r@",
+              "ipa": "ˈɑːvleːsˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "avlesbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$le:s$%bA:t`",
+              "ipa": "ˈɑːvleːsˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4af930d1c32d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4af930d1c32d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4af930d1c32d.mp3",
+            "text": "avlesbar",
+            "source": "generated",
+            "content_sha256": "5c0b609416142ff2de9a49311a90876a57180b3a661a9c3eeb700c215348c795",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan avlese",
+      "translation": "that can be read",
+      "examples": [
+        {
+          "no": "et avlesbart resultat",
+          "en": "a readable result"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "source_article_id": 111975,
+  "lemmas": [
+    {
+      "lemma": "enveiskjørt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 95909,
+      "is_sub_article": false,
+      "primary_translation": "one-way",
+      "word_forms": [
+        {
+          "word_form": "enveiskjørt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:n$v{*Is$%C2:t`",
+              "ipa": "ˈeːnvæ͡ɪsˌçøːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "enveiskjørte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:n$v{*Is$%C2:$t`@",
+              "ipa": "ˈeːnvæ͡ɪsˌçøːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "32978b016688.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/32978b016688.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/32978b016688.mp3",
+            "text": "enveiskjørt",
+            "source": "generated",
+            "content_sha256": "f73955d522c88c0e584841e12d9b87d1a7e2e76d9d0e599ea41fcdb6faf48bae",
+            "tone": 1
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "envegskjørt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 95907,
+      "is_sub_article": false,
+      "primary_translation": "one-way",
+      "word_forms": [
+        {
+          "word_form": "envegskjørt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈeːnʋæ͡ɪsçˌøːʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "envegskjørte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈeːnʋæ͡ɪsçˌøːʈə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5f473798624f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5f473798624f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5f473798624f.mp3",
+            "text": "envegskjørt",
+            "source": "generated",
+            "content_sha256": "2d53e3306fa1525b606b18ede17e19ba08fd28fa5c4c116c68bf5fe4fd978abf"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har enveiskjøring envegskjøring",
+      "translation": "having one-way traffic",
+      "examples": [
+        {
+          "no": "en enveiskjørt gate",
+          "en": "a one-way street"
+        },
+        {
+          "no": "motorveien er enveiskjørt",
+          "en": "the motorway is one-way"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_article_id": 1736,
+  "lemmas": [
+    {
+      "lemma": "anekdotisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2231,
+      "is_sub_article": false,
+      "primary_translation": "anecdotal / based on flimsy grounds",
+      "word_forms": [
+        {
+          "word_form": "anekdotisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$n@k$\"du:$tI$sk",
+              "ipa": "ɑnəkˈduːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "anekdotiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$n@k$\"du:$tI$sk@",
+              "ipa": "ɑnəkˈduːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "67fbec747f9a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/67fbec747f9a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/67fbec747f9a.mp3",
+            "text": "anekdotisk",
+            "source": "generated",
+            "content_sha256": "1779d70b4e2f9e9ca7ff4c1942393fcd01b545980917a917607eed3ae34e42ee",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har preg av å være en anekdote",
+      "translation": "having the character of an anecdote",
+      "examples": [
+        {
+          "no": "en anekdotisk fortelling",
+          "en": "an anecdotal story"
+        }
+      ]
+    },
+    {
+      "text": "som er basert på tynt grunnlag",
+      "translation": "based on flimsy grounds",
+      "examples": [
+        {
+          "no": "et anekdotisk bevis",
+          "en": "an anecdotal proof"
+        }
+      ]
+    }
+  ]
+}

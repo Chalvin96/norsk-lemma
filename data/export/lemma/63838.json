@@ -1,0 +1,150 @@
+{
+  "source_article_id": 63838,
+  "lemmas": [
+    {
+      "lemma": "uforsiktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73094,
+      "is_sub_article": false,
+      "primary_translation": "careless",
+      "word_forms": [
+        {
+          "word_form": "uforsiktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$fO$%s`Ik$tI",
+              "ipa": "ˈʉːfɔˌʂɪktɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uforsiktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$fO$%s`Ik$tI$@",
+              "ipa": "ˈʉːfɔˌʂɪktɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uforsiktigere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːfɔʂˌɪktɪərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "uforsiktigst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːfɔʂˌɪktɪgst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "uforsiktigste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːfɔʂˌɪktɪgstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "02c141f15130.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/02c141f15130.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/02c141f15130.mp3",
+            "text": "uforsiktig",
+            "source": "generated",
+            "content_sha256": "136feee7720bcbc861dd96ad876211782f658fccbf80ffdbc818097c9d0f8195",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er forsiktig",
+      "translation": "that is not careful",
+      "examples": [
+        {
+          "no": "være uforsiktig med hva en sier",
+          "en": "be careless about what one says"
+        },
+        {
+          "no": "gå uforsiktig",
+          "en": "walk carelessly"
+        }
+      ]
+    }
+  ]
+}

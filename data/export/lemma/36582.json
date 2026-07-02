@@ -1,0 +1,132 @@
+{
+  "source_article_id": 36582,
+  "lemmas": [
+    {
+      "lemma": "mai",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 42953,
+      "is_sub_article": false,
+      "primary_translation": "May",
+      "word_forms": [
+        {
+          "word_form": "mai",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mA*I",
+              "ipa": "ˈmɑ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "maien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mA*I$@n",
+              "ipa": "ˈmɑ͡ɪən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "maier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mA*I$@r",
+              "ipa": "ˈmɑ͡ɪər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "maiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɑ͡ɪənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1af3c1caeecb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1af3c1caeecb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1af3c1caeecb.mp3",
+            "text": "mai",
+            "source": "generated",
+            "content_sha256": "a0d2a8e2a8594b5a4ef0968595ae27996fe0113c498ca5102861caa1c9faf833",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "årets femte måned",
+      "translation": "the fifth month of the year",
+      "examples": [
+        {
+          "no": "i mai måned",
+          "en": "in the month of May"
+        },
+        {
+          "no": "de første dagene i mai",
+          "en": "the first days of May"
+        },
+        {
+          "no": "Norge fikk egen grunnlov 17. mai 1814",
+          "en": "Norway got its own constitution on 17 May 1814"
+        }
+      ]
+    }
+  ]
+}

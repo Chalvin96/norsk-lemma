@@ -1,0 +1,87 @@
+{
+  "source_article_id": 1005,
+  "lemmas": [
+    {
+      "lemma": "åndsfattig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 80547,
+      "is_sub_article": false,
+      "primary_translation": "intellectually narrow",
+      "word_forms": [
+        {
+          "word_form": "åndsfattig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ons$%fA$tI",
+              "ipa": "ˈɔnsˌfɑtɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "åndsfattige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ons$%fA$tI$@",
+              "ipa": "ˈɔnsˌfɑtɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8def19b2198c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8def19b2198c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8def19b2198c.mp3",
+            "text": "åndsfattig",
+            "source": "generated",
+            "content_sha256": "a7d72380a2768b3b10acdc15343d308221126c4c7cfc0742919f6e41d993a5e1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som mangler intellektuelt vidsyn",
+      "translation": "lacking intellectual breadth",
+      "examples": [
+        {
+          "no": "et åndsfattig hjem",
+          "en": "an intellectually barren home"
+        }
+      ]
+    }
+  ]
+}

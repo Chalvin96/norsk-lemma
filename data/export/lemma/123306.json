@@ -1,0 +1,87 @@
+{
+  "source_article_id": 123306,
+  "lemmas": [
+    {
+      "lemma": "kuldslått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2007208,
+      "is_sub_article": false,
+      "primary_translation": "lukewarm",
+      "word_forms": [
+        {
+          "word_form": "kuldslått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ku0l$%slOt",
+              "ipa": "ˈkʉlˌslɔt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kuldslåtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ku0l$%slO$t@",
+              "ipa": "ˈkʉlˌslɔtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bc8860fb0b7e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc8860fb0b7e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc8860fb0b7e.mp3",
+            "text": "kuldslått",
+            "source": "generated",
+            "content_sha256": "8908e26635958fdd03252b2c6a70fff94f60c0a4347d592f1738d4585d335a6d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "så vidt lunken",
+      "translation": "barely lukewarm",
+      "examples": [
+        {
+          "no": "kuldslått vann",
+          "en": "chilled water"
+        }
+      ]
+    }
+  ]
+}

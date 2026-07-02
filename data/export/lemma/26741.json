@@ -1,0 +1,87 @@
+{
+  "source_article_id": 26741,
+  "lemmas": [
+    {
+      "lemma": "inntatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31841,
+      "is_sub_article": false,
+      "primary_translation": "admitted",
+      "word_forms": [
+        {
+          "word_form": "inntatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%tAt",
+              "ipa": "ˈɪnˌtɑt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "inntatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%tA$t@",
+              "ipa": "ˈɪnˌtɑtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8aabeb96ad3e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8aabeb96ad3e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8aabeb96ad3e.mp3",
+            "text": "inntatt",
+            "source": "generated",
+            "content_sha256": "08a557a73dfd42d69ed4af9d56390a4c98fc778319cba2859f652e2979c8d4ef",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er tatt inn et sted",
+      "translation": "admitted, accepted",
+      "examples": [
+        {
+          "no": "de hadde flere nylig inntatte sommervikarer",
+          "en": "they had several recently hired summer temps"
+        }
+      ]
+    }
+  ]
+}

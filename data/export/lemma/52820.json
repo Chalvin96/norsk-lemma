@@ -1,0 +1,108 @@
+{
+  "source_article_id": 52820,
+  "lemmas": [
+    {
+      "lemma": "skinnflat",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 60917,
+      "is_sub_article": false,
+      "primary_translation": "completely flat",
+      "word_forms": [
+        {
+          "word_form": "skinnflat",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SIn$%flA:t",
+              "ipa": "ˈʃɪnˌflɑːt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skinnflate",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SIn$%flA:$t@",
+              "ipa": "ˈʃɪnˌflɑːtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skinnflatt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈɪnflˌɑt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4a654de4b6fc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4a654de4b6fc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4a654de4b6fc.mp3",
+            "text": "skinnflat",
+            "source": "generated",
+            "content_sha256": "de8b421556991c2b50792ad0b438aeb4807d416c4cd4b45867de3bcbdbf6c0fd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt flat",
+      "translation": "completely flat",
+      "examples": [
+        {
+          "no": "hun ligger skinnflat",
+          "en": "she is lying completely flat"
+        }
+      ]
+    }
+  ]
+}

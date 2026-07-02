@@ -1,0 +1,111 @@
+{
+  "source_article_id": 136311,
+  "lemmas": [
+    {
+      "lemma": "telefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2089817,
+      "is_sub_article": false,
+      "primary_translation": "frost-free",
+      "word_forms": [
+        {
+          "word_form": "telefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈeːləfrˌiː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "telefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%fri:$@",
+              "ipa": "ˈteːləˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "telefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈeːləfrˌɪt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dfe28526ac29.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dfe28526ac29.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dfe28526ac29.mp3",
+            "text": "telefri",
+            "source": "generated",
+            "content_sha256": "8afacb9f85bec6477d02e8c53514c37a3897c54885547f7e61e08586bd0e623f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fri for tele",
+      "translation": "free of frost",
+      "examples": []
+    },
+    {
+      "text": "uten frost",
+      "translation": "without frost",
+      "examples": [
+        {
+          "no": "telefri bakke",
+          "en": "frost-free ground"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "source_article_id": 10266,
+  "lemmas": [
+    {
+      "lemma": "diskontere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 12009,
+      "is_sub_article": false,
+      "primary_translation": "discount / anticipate",
+      "word_forms": [
+        {
+          "word_form": "diskontere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skUn$\"te:$r@",
+              "ipa": "dɪskʊnˈteːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskonterer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skOn$\"te:$r@r",
+              "ipa": "dɪskɔnˈteːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskonteres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skUn$\"te:$r@s",
+              "ipa": "dɪskʊnˈteːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskonterte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skUn$\"te:$t`@",
+              "ipa": "dɪskʊnˈteːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskontert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skOn$\"te:t`",
+              "ipa": "dɪskɔnˈteːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskonterende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skUn$\"te:$n`=$@",
+              "ipa": "dɪskʊnˈteːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskonter",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$skUn$\"te:r",
+              "ipa": "dɪskʊnˈteːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ec750040b0dd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec750040b0dd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec750040b0dd.mp3",
+            "text": "diskontere",
+            "source": "generated",
+            "content_sha256": "599c28588194324ed76dc008698df57e02a060b2cfe78483882c9989940de0bb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "regne om en framtidig verdi til nåverdi",
+      "translation": "to discount future value to present value",
+      "examples": [
+        {
+          "no": "å diskontere framtidige inntekter",
+          "en": "to discount future income"
+        }
+      ]
+    },
+    {
+      "text": "kjøpe eller selge et verdipapir før forfall mot diskonto",
+      "translation": "to buy or sell a security before maturity at a discount",
+      "examples": [
+        {
+          "no": "muligheten for å diskontere veksler",
+          "en": "the possibility of discounting bills of exchange"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: ta på forskudd forskott",
+      "translation": "to anticipate or expect something in advance",
+      "examples": [
+        {
+          "no": "diskontere norsk seier",
+          "en": "count on a Norwegian victory"
+        },
+        {
+          "no": "de begynte å diskontere en allianse mellom partiene",
+          "en": "they began to count on an alliance between the parties"
+        }
+      ]
+    }
+  ]
+}

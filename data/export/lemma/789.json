@@ -1,0 +1,65 @@
+{
+  "source_article_id": 789,
+  "lemmas": [
+    {
+      "lemma": "alias",
+      "hgno": 2,
+      "pos": "ADV",
+      "source_lemma_id": 1620,
+      "is_sub_article": false,
+      "primary_translation": "alias / also called",
+      "word_forms": [
+        {
+          "word_form": "alias",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$lI$As",
+              "ipa": "ˈɑːlɪɑs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a3d119639756.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3d119639756.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3d119639756.mp3",
+            "text": "alias",
+            "source": "generated",
+            "content_sha256": "3e9c7be4aa9ef36b363747f7c1580b2a6e1d3e943ca0aa8bdb789fa56640b243",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "den samme som",
+      "translation": "the same as",
+      "examples": []
+    },
+    {
+      "text": "også kalt",
+      "translation": "also called",
+      "examples": [
+        {
+          "no": "Kjartan Fløgstad alias K. Villun",
+          "en": "Kjartan Fløgstad, alias K. Villun"
+        }
+      ]
+    }
+  ]
+}

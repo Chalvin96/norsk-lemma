@@ -1,0 +1,73 @@
+{
+  "source_article_id": 7800,
+  "lemmas": [
+    {
+      "lemma": "brutto",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 9279,
+      "is_sub_article": false,
+      "primary_translation": "gross (weight/amount)",
+      "word_forms": [
+        {
+          "word_form": "brutto",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bru0$tU",
+              "ipa": "ˈbrʉtʊ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "241885d3827e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/241885d3827e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/241885d3827e.mp3",
+            "text": "brutto",
+            "source": "generated",
+            "content_sha256": "45c13c60e6bf5af4c72e075a30c2422a771b54404f81d3ede856592240f3eb62",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er uten fradrag (av emballasjevekt, utgifter eller lignende)",
+      "translation": "without deduction (of packaging weight, expenses)",
+      "examples": [
+        {
+          "no": "brutto byggeareal er 9 000 m2",
+          "en": "gross floor area is 9,000 m2"
+        },
+        {
+          "no": "tape over sju millioner brutto",
+          "en": "lose over seven million gross"
+        }
+      ]
+    }
+  ]
+}

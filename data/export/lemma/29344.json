@@ -1,0 +1,101 @@
+{
+  "source_article_id": 29344,
+  "lemmas": [
+    {
+      "lemma": "kirkelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 34673,
+      "is_sub_article": false,
+      "primary_translation": "ecclesiastical / church-related",
+      "word_forms": [
+        {
+          "word_form": "kirkelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"CIr$k@$lI",
+              "ipa": "ˈçɪrkəlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kirkelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"CIr$k@$lI$@",
+              "ipa": "ˈçɪrkəlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2db5f8ad37a9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2db5f8ad37a9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2db5f8ad37a9.mp3",
+            "text": "kirkelig",
+            "source": "generated",
+            "content_sha256": "e15c211b58987e2b5a19f694df3f8bbbce0aa7c9316253573dfac588c366f3a3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder, hører til eller skjer i kirken",
+      "translation": "relating to, belonging to, or happening in the church",
+      "examples": [
+        {
+          "no": "innenfor de kirkelige kretser",
+          "en": "within church circles"
+        },
+        {
+          "no": "kirkelig eller borgerlig vielse",
+          "en": "church or civil wedding"
+        }
+      ]
+    },
+    {
+      "text": "som gjelder aktiviteter i menigheten",
+      "translation": "relating to activities within the congregation",
+      "examples": [
+        {
+          "no": "være engasjert i kirkelig arbeid",
+          "en": "be involved in church work"
+        }
+      ]
+    }
+  ]
+}

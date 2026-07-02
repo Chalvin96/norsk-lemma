@@ -1,0 +1,90 @@
+{
+  "source_article_id": 116113,
+  "lemmas": [
+    {
+      "lemma": "halvspist",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 104904,
+      "is_sub_article": false,
+      "primary_translation": "half-eaten",
+      "word_forms": [
+        {
+          "word_form": "halvspist",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlspˌɪst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "halvspiste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlspˌiːstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "85d8e4b749f5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85d8e4b749f5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85d8e4b749f5.mp3",
+            "text": "halvspist",
+            "source": "generated",
+            "content_sha256": "ee335f91d6c26e6e4af56ef6cbe541972a7920b98512510caa62485ab1db54a3"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "halvt oppspist",
+      "translation": "half-eaten",
+      "examples": [
+        {
+          "no": "et halvspist eple",
+          "en": "a half-eaten apple"
+        }
+      ]
+    }
+  ]
+}

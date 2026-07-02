@@ -1,0 +1,73 @@
+{
+  "source_article_id": 28669,
+  "lemmas": [
+    {
+      "lemma": "kaputt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 33906,
+      "is_sub_article": false,
+      "primary_translation": "broken",
+      "word_forms": [
+        {
+          "word_form": "kaputt",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"pu0t",
+              "ipa": "kɑˈpʉt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eb4d293904d9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb4d293904d9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb4d293904d9.mp3",
+            "text": "kaputt",
+            "source": "generated",
+            "content_sha256": "6005ebd1f2110f391be878cef81368fe96e0e0f3f0fd7ca9bdf2c5c69bb5070a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ødelagt, utslitt",
+      "translation": "broken, worn out",
+      "examples": [
+        {
+          "no": "motoren var kaputt",
+          "en": "the engine was kaput"
+        },
+        {
+          "no": "kneet hans var kaputt",
+          "en": "his knee was kaput"
+        }
+      ]
+    }
+  ]
+}

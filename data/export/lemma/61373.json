@@ -1,0 +1,87 @@
+{
+  "source_article_id": 61373,
+  "lemmas": [
+    {
+      "lemma": "toksisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 70210,
+      "is_sub_article": false,
+      "primary_translation": "toxic",
+      "word_forms": [
+        {
+          "word_form": "toksisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tOk$sI$sk",
+              "ipa": "ˈtɔksɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "toksiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tOk$sI$sk@",
+              "ipa": "ˈtɔksɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "421bf1116453.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/421bf1116453.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/421bf1116453.mp3",
+            "text": "toksisk",
+            "source": "generated",
+            "content_sha256": "bcfc5686e0ae8eeadc66d0404ac18a1d2d625833d79262fa4b5efe63d38563fe",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder toksin eller toksisitet",
+      "translation": "relating to toxin or toxicity",
+      "examples": [
+        {
+          "no": "et stoffs toksiske egenskaper",
+          "en": "a substance's toxic properties"
+        }
+      ]
+    }
+  ]
+}

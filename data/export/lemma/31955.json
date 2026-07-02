@@ -1,0 +1,125 @@
+{
+  "source_article_id": 31955,
+  "lemmas": [
+    {
+      "lemma": "kras",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 37549,
+      "is_sub_article": false,
+      "primary_translation": "grating sound",
+      "word_forms": [
+        {
+          "word_form": "kras",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krA:s",
+              "ipa": "ˈkrɑːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kraset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krA:$s@",
+              "ipa": "ˈkrɑːsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "krasa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"krA:$sA",
+              "ipa": "ˈkrɑːsɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "krasene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "krˈɑːsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "37d28ee26d99.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/37d28ee26d99.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/37d28ee26d99.mp3",
+            "text": "kras",
+            "source": "generated",
+            "content_sha256": "acf5af8e4577c85b89aee719f1f516678e8a5a4609c091e801cf2d055ed0853f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "krasende lyd, krasing",
+      "translation": "grating sound, scraping",
+      "examples": [
+        {
+          "no": "hjulenes kras i grusen",
+          "en": "the crunch of the wheels in the gravel"
+        }
+      ]
+    }
+  ]
+}

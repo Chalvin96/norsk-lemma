@@ -1,0 +1,123 @@
+{
+  "source_article_id": 97414,
+  "lemmas": [
+    {
+      "lemma": "pizzeria",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 158167,
+      "is_sub_article": false,
+      "primary_translation": "pizzeria",
+      "word_forms": [
+        {
+          "word_form": "pizzeria",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pIt$s@$\"ri:$A",
+              "ipa": "pɪtsəˈrɪːɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pizzeriaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɪtsərˈiːɑən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "pizzeriaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɪtsərˈiːɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "pizzeriaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɪtsərˈiːɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "252e8022e868.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/252e8022e868.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/252e8022e868.mp3",
+            "text": "pizzeria",
+            "source": "generated",
+            "content_sha256": "a45a948039a56fd3779fdcd0e85924c04d4cb19aff972c7270decef0c0140851",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spisested som serverer pizza",
+      "translation": "eatery that serves pizza",
+      "examples": []
+    }
+  ]
+}

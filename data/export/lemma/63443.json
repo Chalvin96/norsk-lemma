@@ -1,0 +1,131 @@
+{
+  "source_article_id": 63443,
+  "lemmas": [
+    {
+      "lemma": "tørrmat",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 72703,
+      "is_sub_article": false,
+      "primary_translation": "dry food / provisions",
+      "word_forms": [
+        {
+          "word_form": "tørrmat",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t9r$%mA:t",
+              "ipa": "ˈtœrˌmɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tørrmaten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"t9r$%mA:$tn=",
+              "ipa": "ˈtœrˌmɑːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tørrmater",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈœrmˌɑːtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tørrmatene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈœrmˌɑːtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ec4a7d5353f1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec4a7d5353f1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec4a7d5353f1.mp3",
+            "text": "tørrmat",
+            "source": "generated",
+            "content_sha256": "c9444581c96b8e1a4fe47e7307c81167e9a6aa2995cb91e87b4470d40cc519bd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fast føde",
+      "translation": "solid food",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra skjemat skeimat og kokemat",
+      "translation": "dried and cooked food",
+      "examples": [
+        {
+          "no": "ha tørrmat på lager",
+          "en": "have nonperishable food in stock"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_article_id": 111202,
+  "lemmas": [
+    {
+      "lemma": "bøyes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 163153,
+      "is_sub_article": false,
+      "primary_translation": "bend / inflect",
+      "word_forms": [
+        {
+          "word_form": "bøyes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"b9*Y$@s",
+              "ipa": "ˈbœ͡ʏəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bøydes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"b9*Y$d@s",
+              "ipa": "ˈbœ͡ʏdəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3a4be61db8db.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a4be61db8db.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a4be61db8db.mp3",
+            "text": "bøyes",
+            "source": "generated",
+            "content_sha256": "178c689fa207c30e31f862503ad1946e4b420baa6c399af30f9a3054cfc428b7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bøye seg eller bli bøyd",
+      "translation": "to bend or be bent",
+      "examples": [
+        {
+          "no": "kneet kan bøyes",
+          "en": "the knee can be bent"
+        }
+      ]
+    },
+    {
+      "text": "i språkvitenskap: bli bøye i grammatiske former",
+      "translation": "in linguistics: to be inflected into grammatical forms",
+      "examples": [
+        {
+          "no": "adjektivet skal bøyes i kjønn og tall",
+          "en": "the adjective must be inflected for gender and number"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 43738,
+  "lemmas": [
+    {
+      "lemma": "oversjøisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50654,
+      "is_sub_article": false,
+      "primary_translation": "overseas",
+      "word_forms": [
+        {
+          "word_form": "oversjøisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$v@$%s`2:$I$sk",
+              "ipa": "ˈoːvəˌʂøːɪsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oversjøiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$v@s`$%j2:$I$sk@",
+              "ipa": "ˈoːvəʂˌjøːɪskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d781c65ca118.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d781c65ca118.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d781c65ca118.mp3",
+            "text": "oversjøisk",
+            "source": "generated",
+            "content_sha256": "bbeeca5debd45aeb15206afae62e00dc64be4cd45f4f9deccd903f5e0d279f0e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "på, fra eller til den andre siden av et verdenshav",
+      "translation": "on, from the other side of an ocean",
+      "examples": [
+        {
+          "no": "oversjøiske besittelser",
+          "en": "overseas possessions"
+        },
+        {
+          "no": "et skip i oversjøisk fart",
+          "en": "a ship in overseas service"
+        }
+      ]
+    }
+  ]
+}

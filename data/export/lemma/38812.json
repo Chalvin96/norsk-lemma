@@ -1,0 +1,118 @@
+{
+  "source_article_id": 38812,
+  "lemmas": [
+    {
+      "lemma": "mobil",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 45536,
+      "is_sub_article": false,
+      "primary_translation": "movable / loose",
+      "word_forms": [
+        {
+          "word_form": "mobil",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"bi:l",
+              "ipa": "mʊˈbɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mobile",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"bi:$l@",
+              "ipa": "mʊˈbɪːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mobilt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"bi:lt",
+              "ipa": "mʊˈbɪːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6e234ec5b15e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e234ec5b15e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e234ec5b15e.mp3",
+            "text": "mobil",
+            "source": "generated",
+            "content_sha256": "820cc605c920d6ff08995f2afc694ac8dcf207b0d1d49ca49b628a4927f399b1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bevegelig, flyttbar, transportabel",
+      "translation": "movable, portable, transportable",
+      "examples": [
+        {
+          "no": "mobile tropper",
+          "en": "mobile troops"
+        },
+        {
+          "no": "mobil arbeidskraft",
+          "en": "mobile labor"
+        },
+        {
+          "no": "med sykkel blir en mer mobil",
+          "en": "a bicycle makes you more mobile"
+        },
+        {
+          "no": "jeg er lite mobil for tiden",
+          "en": "I'm not very mobile at the moment"
+        }
+      ]
+    }
+  ]
+}

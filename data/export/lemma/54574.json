@@ -1,0 +1,133 @@
+{
+  "source_article_id": 54574,
+  "lemmas": [
+    {
+      "lemma": "slum",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62899,
+      "is_sub_article": false,
+      "primary_translation": "slum area",
+      "word_forms": [
+        {
+          "word_form": "slum",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Slu0m",
+              "ipa": "ˈʃlʉm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slummen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Slu0$m@n",
+              "ipa": "ˈʃlʉmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slummer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Slu0$m@r",
+              "ipa": "ˈʃlʉmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "slummene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃlˈʉmənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "28f51f0d9c32.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/28f51f0d9c32.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/28f51f0d9c32.mp3",
+            "text": "slum",
+            "source": "generated",
+            "content_sha256": "963baa2e621697514f04798eccf3aaf7a8d1e8a8275e35345a4bb27bbf185a77",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "område med svært dårlige boforhold i (utkanten av) en storby",
+      "translation": "area with very poor living conditions on the outskirts of a large city",
+      "examples": []
+    },
+    {
+      "text": "byområde preget av forfall",
+      "translation": "urban area characterized by decay",
+      "examples": [
+        {
+          "no": "leve i slummen",
+          "en": "live in the slums"
+        },
+        {
+          "no": "organisasjoner som arbeider i slummen",
+          "en": "organizations that work in the slums"
+        }
+      ]
+    }
+  ]
+}

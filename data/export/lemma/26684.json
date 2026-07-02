@@ -1,0 +1,91 @@
+{
+  "source_article_id": 26684,
+  "lemmas": [
+    {
+      "lemma": "innslått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31765,
+      "is_sub_article": false,
+      "primary_translation": "knocked-in",
+      "word_forms": [
+        {
+          "word_form": "innslått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%SlOt",
+              "ipa": "ˈɪnˌʃlɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "innslåtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%SlO$t@",
+              "ipa": "ˈɪnˌʃlɔtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "10c37bac9810.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/10c37bac9810.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/10c37bac9810.mp3",
+            "text": "innslått",
+            "source": "generated",
+            "content_sha256": "73a11308dd07fc658398889968559e2dcd48c3030853fdaa371884b700a1b85a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er slått inn",
+      "translation": "that which has been struck in",
+      "examples": [
+        {
+          "no": "en innslått fortann",
+          "en": "a knocked-in front tooth"
+        },
+        {
+          "no": "innslåtte vindusruter",
+          "en": "broken windowpanes"
+        }
+      ]
+    }
+  ]
+}

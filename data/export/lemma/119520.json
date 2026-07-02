@@ -1,0 +1,126 @@
+{
+  "source_article_id": 119520,
+  "lemmas": [
+    {
+      "lemma": "klums",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 167911,
+      "is_sub_article": false,
+      "primary_translation": "clumsy person",
+      "word_forms": [
+        {
+          "word_form": "klums",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klUms",
+              "ipa": "ˈklʊms",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klumsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "klˈumsn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "klumser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klUm$s@r",
+              "ipa": "ˈklʊmsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klumsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "klˈumsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7cf804f086ec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7cf804f086ec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7cf804f086ec.mp3",
+            "text": "klums",
+            "source": "generated",
+            "content_sha256": "fe010c14f719b1c63cf2ab804ee943ebcb530c9f2dd08b4c7090e530edf359fd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "klumsete klumset eller forvirret forvirra person",
+      "translation": "clumsy, awkward, or confused person",
+      "examples": [
+        {
+          "no": "opptre som en klums",
+          "en": "behave like a klutz"
+        }
+      ]
+    }
+  ]
+}

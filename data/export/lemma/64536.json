@@ -1,0 +1,110 @@
+{
+  "source_article_id": 64536,
+  "lemmas": [
+    {
+      "lemma": "unik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73903,
+      "is_sub_article": false,
+      "primary_translation": "unique",
+      "word_forms": [
+        {
+          "word_form": "unik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"ni:k",
+              "ipa": "ʉˈnɪːk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "unike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"ni:$k@",
+              "ipa": "ʉˈnɪːkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "unikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"ni:kt",
+              "ipa": "ʉˈnɪːkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bf81497599c2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bf81497599c2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bf81497599c2.mp3",
+            "text": "unik",
+            "source": "generated",
+            "content_sha256": "453e9720d5569f1afde351cb5e45569ce3a2f52b1422659bcd2a3839f65b980b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enestående, sjelden",
+      "translation": "outstanding, rare",
+      "examples": [
+        {
+          "no": "et unikt tilfelle",
+          "en": "a unique case"
+        },
+        {
+          "no": "en unik begavelse",
+          "en": "a unique talent"
+        }
+      ]
+    }
+  ]
+}

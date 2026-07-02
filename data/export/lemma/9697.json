@@ -1,0 +1,145 @@
+{
+  "source_article_id": 9697,
+  "lemmas": [
+    {
+      "lemma": "demografi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11414,
+      "is_sub_article": false,
+      "primary_translation": "demography",
+      "word_forms": [
+        {
+          "word_form": "demografi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$mU$grA$\"fi:",
+              "ipa": "dəmʊgrɑˈfɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "demografien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$mU$grA$\"fi:$@n",
+              "ipa": "dəmʊgrɑˈfɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "demografier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dəmugrɑfˈiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "demografiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dəmugrɑfˈiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5d454d981e16.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d454d981e16.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d454d981e16.mp3",
+            "text": "demografi",
+            "source": "generated",
+            "content_sha256": "36b3afc27866bdcb9d7a03051d4fdb387b81c9647e3e5107ffc1e3c0196ca8d6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "beskrivelse eller studium av sammensetningen av og utviklingen i en befolkning",
+      "translation": "description or study of the composition and development of a population",
+      "examples": []
+    },
+    {
+      "text": "befolkningslære",
+      "translation": "population studies",
+      "examples": [
+        {
+          "no": "forske på demografi",
+          "en": "conduct research on demography"
+        }
+      ]
+    },
+    {
+      "text": "sammensetning av eller utvikling i en befolkning",
+      "translation": "composition of or development in a population",
+      "examples": [
+        {
+          "no": "demografien endrer seg over tid",
+          "en": "the demographics change over time"
+        },
+        {
+          "no": "den økonomiske situasjonen er tett knyttet til områdets demografi",
+          "en": "the economic situation is closely tied to the area's demographics"
+        }
+      ]
+    }
+  ]
+}

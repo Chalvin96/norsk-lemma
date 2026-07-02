@@ -1,0 +1,184 @@
+{
+  "source_article_id": 98101,
+  "lemmas": [
+    {
+      "lemma": "terminere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 145852,
+      "is_sub_article": false,
+      "primary_translation": "terminate",
+      "word_forms": [
+        {
+          "word_form": "terminere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@r$mI$\"ne:$r@",
+              "ipa": "tərmɪˈneːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "terminerer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tərmɪnˈeːrər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "termineres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tərmɪnˈeːrəs",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "terminerte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@r$mI$\"ne:$t`@",
+              "ipa": "tərmɪˈneːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "terminert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@r$mI$\"ne:t`",
+              "ipa": "tərmɪˈneːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "terminerende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tərmɪnˈeːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "terminer",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@r$\"mi:$n@r",
+              "ipa": "tərˈmɪːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ee77fdf9c596.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee77fdf9c596.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee77fdf9c596.mp3",
+            "text": "terminere",
+            "source": "generated",
+            "content_sha256": "f71808283ae15e966e8ca038e1149a13df3b1c0d0b91aadd2d7201709e096716",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjøre slutt på",
+      "translation": "to put an end to",
+      "examples": [
+        {
+          "no": "partene er enige om å terminere avtalen",
+          "en": "the parties agree to terminate the agreement"
+        }
+      ]
+    }
+  ]
+}

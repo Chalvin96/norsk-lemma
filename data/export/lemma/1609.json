@@ -1,0 +1,91 @@
+{
+  "source_article_id": 1609,
+  "lemmas": [
+    {
+      "lemma": "analogisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2079,
+      "is_sub_article": false,
+      "primary_translation": "analogous",
+      "word_forms": [
+        {
+          "word_form": "analogisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$nA$\"lo:$gI$sk",
+              "ipa": "ɑnɑˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "analogiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$nA$\"lo:$gI$sk@",
+              "ipa": "ɑnɑˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cd22dd93e0be.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cd22dd93e0be.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cd22dd93e0be.mp3",
+            "text": "analogisk",
+            "source": "generated",
+            "content_sha256": "c9a54570e0b87da4932affd578af7940eb74f5e423b71a73d02b8773718b8dd4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som viser, skyldes analogi",
+      "translation": "showing, due to analogy",
+      "examples": [
+        {
+          "no": "en analogisk bøyningsform",
+          "en": "an analogical inflectional form"
+        },
+        {
+          "no": "en analogisk slutning",
+          "en": "an analogical inference"
+        }
+      ]
+    }
+  ]
+}

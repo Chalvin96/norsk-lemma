@@ -1,0 +1,91 @@
+{
+  "source_article_id": 68205,
+  "lemmas": [
+    {
+      "lemma": "vidløftig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 78737,
+      "is_sub_article": false,
+      "primary_translation": "intricate / carefree",
+      "word_forms": [
+        {
+          "word_form": "vidløftig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vId$\"l9f$tI",
+              "ipa": "vɪdˈlœftɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vidløftige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vId$\"l9f$tI$@",
+              "ipa": "vɪdˈlœftɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e6b516b3fea6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6b516b3fea6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6b516b3fea6.mp3",
+            "text": "vidløftig",
+            "source": "generated",
+            "content_sha256": "6bbf3d89f20376e19ac55d05753908951a360410c3e41ef95159c7ddb3502391",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innviklet innvikla, komplisert",
+      "translation": "intricate, complicated",
+      "examples": [
+        {
+          "no": "en vidløftig framgangsmåte",
+          "en": "a convoluted procedure"
+        },
+        {
+          "no": "en vidløftig forklaring",
+          "en": "a convoluted explanation"
+        }
+      ]
+    }
+  ]
+}

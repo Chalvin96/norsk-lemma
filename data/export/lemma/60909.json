@@ -1,0 +1,188 @@
+{
+  "source_article_id": 60909,
+  "lemmas": [
+    {
+      "lemma": "tilsi",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 69664,
+      "is_sub_article": false,
+      "primary_translation": "require / imply",
+      "word_forms": [
+        {
+          "word_form": "tilsi",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%si:",
+              "ipa": "ˈtɪlˌsɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tilsier",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%si:$@r",
+              "ipa": "ˈtɪlˌsɪːər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tilsies",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%si:$@s",
+              "ipa": "ˈtɪlˌsɪːəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tilsa",
+          "tags_json": [
+            "verb",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%sA:",
+              "ipa": "ˈtɪlˌsɑː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tilsagt",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%sAkt",
+              "ipa": "ˈtɪlˌsɑkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tilsagte",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%sAk$t@",
+              "ipa": "ˈtɪlˌsɑktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tilsiende",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%si:$@$n@",
+              "ipa": "ˈtɪlˌsɪːənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a1f56e08228a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1f56e08228a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1f56e08228a.mp3",
+            "text": "tilsi",
+            "source": "generated",
+            "content_sha256": "d02618e480c13979b80a05baa59c4d21d0ad225d334855cf226d717d9f84cf92",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjøre nødvendig",
+      "translation": "to make necessary",
+      "examples": [
+        {
+          "no": "situasjonen tilsier at jeg blir hjemme",
+          "en": "the situation dictates that I stay home"
+        }
+      ]
+    },
+    {
+      "text": "virke som en rimelig eller logisk konsekvens",
+      "translation": "to seem a reasonable or logical consequence",
+      "examples": [
+        {
+          "no": "landslaget vårt er ikke så dårlig som resultatene skulle tilsi",
+          "en": "our national team is not as bad as the results would suggest"
+        }
+      ]
+    }
+  ]
+}

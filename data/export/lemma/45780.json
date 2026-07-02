@@ -1,0 +1,121 @@
+{
+  "source_article_id": 45780,
+  "lemmas": [
+    {
+      "lemma": "postsjakk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 52781,
+      "is_sub_article": false,
+      "primary_translation": "mail chess game",
+      "word_forms": [
+        {
+          "word_form": "postsjakk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pO$%stSAk",
+              "ipa": "ˈpɔˌstʃɑk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "postsjakken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pO$%stSA$k@n",
+              "ipa": "ˈpɔˌstʃɑkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "postsjakker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔstʃˌɑkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "postsjakkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔstʃˌɑkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a8af6cde6a25.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a8af6cde6a25.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a8af6cde6a25.mp3",
+            "text": "postsjakk",
+            "source": "generated",
+            "content_sha256": "d9da455c4f7364762846537b6cdfb19da4433752fc379248468a85414b973096",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "parti i sjakk der spillerne gir hverandre beskjed om trekkene sine per post",
+      "translation": "chess game in which the players notify each other of their moves by mail",
+      "examples": []
+    }
+  ]
+}

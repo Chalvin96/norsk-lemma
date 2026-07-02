@@ -1,0 +1,94 @@
+{
+  "source_article_id": 123402,
+  "lemmas": [
+    {
+      "lemma": "HMS-ansvarlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2007342,
+      "is_sub_article": false,
+      "primary_translation": "responsible for health, safety, and environment",
+      "word_forms": [
+        {
+          "word_form": "HMS-ansvarlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈoːˌɛmsɑnsʋˌɑːɭɪ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "HMS-ansvarlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈoːˌɛmsɑnsʋˌɑːɭɪə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9325ca101610.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9325ca101610.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9325ca101610.mp3",
+            "text": "HMS-ansvarlig",
+            "source": "generated",
+            "content_sha256": "7ff070b91f12de94fcfdc507eae9eaafd684e54314e9d6ac1fe1786bcca46c63"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har ansvar for HMS i en bedrift",
+      "translation": "having responsibility for health, safety, and environment in a company",
+      "examples": [
+        {
+          "no": "han er HMS-ansvarlig i selskapet",
+          "en": "he is responsible for HSE in the company"
+        },
+        {
+          "no": "den HMS-ansvarlige på byggelplassen",
+          "en": "the HSE manager at the construction site"
+        }
+      ]
+    }
+  ]
+}

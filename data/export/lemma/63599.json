@@ -1,0 +1,96 @@
+{
+  "source_article_id": 63599,
+  "lemmas": [
+    {
+      "lemma": "uavbrutt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 72791,
+      "is_sub_article": false,
+      "primary_translation": "uninterrupted / persistent",
+      "word_forms": [
+        {
+          "word_form": "uavbrutt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$A:v$%bru0t",
+              "ipa": "ˈʉːɑːvˌbrʉt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uavbrutte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$A:v$%bru0$t@",
+              "ipa": "ˈʉːɑːvˌbrʉtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6a21c8f183e1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a21c8f183e1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a21c8f183e1.mp3",
+            "text": "uavbrutt",
+            "source": "generated",
+            "content_sha256": "0845669bb73e39e46479df88bfc01477d39193425e9d34b46da0e76ad47b8ab1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten avbrudd",
+      "translation": "without interruption",
+      "examples": []
+    },
+    {
+      "text": "vedvarende",
+      "translation": "persistent",
+      "examples": [
+        {
+          "no": "en uavbrutt talestrøm",
+          "en": "an unbroken stream of speech"
+        },
+        {
+          "no": "prate uavbrutt",
+          "en": "talk incessantly"
+        }
+      ]
+    }
+  ]
+}

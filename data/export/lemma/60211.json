@@ -1,0 +1,123 @@
+{
+  "source_article_id": 60211,
+  "lemmas": [
+    {
+      "lemma": "telesamband",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68874,
+      "is_sub_article": false,
+      "primary_translation": "telecommunication",
+      "word_forms": [
+        {
+          "word_form": "telesamband",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$sAm$%bAn",
+              "ipa": "ˈteːləsɑmˌbɑn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "telesambandet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$sAm$%bA$n@",
+              "ipa": "ˈteːləsɑmˌbɑnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "telesambanda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$sAm$%bA$nA",
+              "ipa": "ˈteːləsɑmˌbɑnɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "telesambandene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$sAm$%bA$nn=$@",
+              "ipa": "ˈteːləsɑmˌbɑnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c573fedc67bb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c573fedc67bb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c573fedc67bb.mp3",
+            "text": "telesamband",
+            "source": "generated",
+            "content_sha256": "52a64968566b92719e02d3f5791ce2a033abe7e2a4fa5aa745c26283eac05c89",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "overføring av signal, skrift, lyd, bilde eller lignende ved hjelp av kabler, radio eller annet elektromagnetisk utstyr",
+      "translation": "transfer of signal, text, sound, image using cables, radio or other electromagnetic equipment",
+      "examples": [
+        {
+          "no": "telesambandet med utlandet er brutt",
+          "en": "telecommunications with foreign countries are down"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 31282,
+  "lemmas": [
+    {
+      "lemma": "konsentrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 36809,
+      "is_sub_article": false,
+      "primary_translation": "concentric",
+      "word_forms": [
+        {
+          "word_form": "konsentrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"sEn$trI$sk",
+              "ipa": "kɔnˈsɛntrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "konsentriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$\"sEn$trI$sk@",
+              "ipa": "kɔnˈsɛntrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f67983d54396.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f67983d54396.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f67983d54396.mp3",
+            "text": "konsentrisk",
+            "source": "generated",
+            "content_sha256": "aa11a3b6c4c463e1502a3844f9b7c385ba4f164dee5c1c0066218715a96c8a48",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har samme sentrum",
+      "translation": "having the same center",
+      "examples": [
+        {
+          "no": "konsentriske sirkler",
+          "en": "concentric circles"
+        }
+      ]
+    }
+  ]
+}

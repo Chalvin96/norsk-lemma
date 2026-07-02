@@ -1,0 +1,116 @@
+{
+  "source_article_id": 108884,
+  "lemmas": [
+    {
+      "lemma": "alvorstynget",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 86026,
+      "is_sub_article": false,
+      "primary_translation": "serious / gloomy",
+      "word_forms": [
+        {
+          "word_form": "alvorstynget",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Al$vo:s`$%t`YN$@t",
+              "ipa": "ˈɑlvoːʂˌʈʏŋət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "alvorstyngete",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑlʋoːʂʈˌʏŋətə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "alvorstyngede",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑlʋoːʂʈˌʏŋədə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ef06a53a2801.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef06a53a2801.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef06a53a2801.mp3",
+            "text": "alvorstynget",
+            "source": "generated",
+            "content_sha256": "cb24dfc39b19e30182c6536d679196d5fe513642cdd20926f08e55bd3e8ad64c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er preget av alvor",
+      "translation": "characterized by seriousness",
+      "examples": []
+    },
+    {
+      "text": "tungsindig,dyster",
+      "translation": "melancholy, gloomy",
+      "examples": [
+        {
+          "no": "en alvorstynget statsminister",
+          "en": "a careworn prime minister"
+        }
+      ]
+    }
+  ]
+}

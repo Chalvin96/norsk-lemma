@@ -1,0 +1,104 @@
+{
+  "source_article_id": 4729,
+  "lemmas": [
+    {
+      "lemma": "bastant",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5563,
+      "is_sub_article": false,
+      "primary_translation": "massive / self-assured",
+      "word_forms": [
+        {
+          "word_form": "bastant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"stAnt",
+              "ipa": "bɑˈstɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bastante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"stAn$t@",
+              "ipa": "bɑˈstɑntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bfbceba2816c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bfbceba2816c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bfbceba2816c.mp3",
+            "text": "bastant",
+            "source": "generated",
+            "content_sha256": "1a98e42f654aa6a02d67057c74c536f6c10c62cb9507ddf9a455689161ecdda2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "litt for kraftig",
+      "translation": "a little too strong",
+      "examples": []
+    },
+    {
+      "text": "tykk og svær",
+      "translation": "thick and large",
+      "examples": [
+        {
+          "no": "en bastant bygningsmasse",
+          "en": "a massive building complex"
+        },
+        {
+          "no": "ha bastante meninger",
+          "en": "have firm opinions"
+        },
+        {
+          "no": "si et bastant nei til nedleggelse",
+          "en": "say a firm no to closure"
+        },
+        {
+          "no": "trekke bastante konklusjoner",
+          "en": "draw sweeping conclusions"
+        }
+      ]
+    }
+  ]
+}

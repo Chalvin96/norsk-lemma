@@ -1,0 +1,149 @@
+{
+  "source_article_id": 20501,
+  "lemmas": [
+    {
+      "lemma": "godvilje",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 23941,
+      "is_sub_article": false,
+      "primary_translation": "goodwill / benevolence",
+      "word_forms": [
+        {
+          "word_form": "godvilje",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu:$%vIl$j@",
+              "ipa": "ˈguːˌvɪljə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "godviljen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu:$%vIl$j@n",
+              "ipa": "ˈguːˌvɪljən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "godviljer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈuːʋˌɪljər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "godviljene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈuːʋˌɪljənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d4df1d861c49.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4df1d861c49.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4df1d861c49.mp3",
+            "text": "godvilje",
+            "source": "generated",
+            "content_sha256": "85df36a44cc6c1bf58d9f56a016b7b48b698bba608cb07714decdef6dc6c51f1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vilje til å gjøre sitt beste (for at noe skal lykkes)",
+      "translation": "will to do one's best (for something to succeed)",
+      "examples": []
+    },
+    {
+      "text": "samarbeidsvilje, forsoningsvilje",
+      "translation": "willingness to cooperate, willingness to reconcile",
+      "examples": [
+        {
+          "no": "vise godvilje",
+          "en": "show goodwill"
+        },
+        {
+          "no": "se på saken med godvilje",
+          "en": "look at the matter with goodwill"
+        }
+      ]
+    },
+    {
+      "text": "velvilje, tillit",
+      "translation": "benevolence, trust",
+      "examples": [
+        {
+          "no": "skape godvilje for en sak",
+          "en": "build goodwill for a cause"
+        },
+        {
+          "no": "nyte stor godvilje",
+          "en": "enjoy great goodwill"
+        }
+      ]
+    }
+  ]
+}

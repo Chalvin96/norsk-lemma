@@ -1,0 +1,126 @@
+{
+  "source_article_id": 122291,
+  "lemmas": [
+    {
+      "lemma": "lydkvalitet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 121357,
+      "is_sub_article": false,
+      "primary_translation": "sound quality",
+      "word_forms": [
+        {
+          "word_form": "lydkvalitet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$kvA$lI$%te:t",
+              "ipa": "ˈlyːdkvɑlɪˌteːt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lydkvaliteten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:d$kvA$lI$%te:$tn=",
+              "ipa": "ˈlyːdkvɑlɪˌteːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lydkvaliteter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːdkʋɑlɪtˌeːtər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lydkvalitetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːdkʋɑlɪtˌeːtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3cd268ab74dc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3cd268ab74dc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3cd268ab74dc.mp3",
+            "text": "lydkvalitet",
+            "source": "generated",
+            "content_sha256": "c4b46158b717ee176034cb8276dd6e6a0171dd1ed104bdcfcaedede752031286",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kvalitet på lyd",
+      "translation": "quality of sound",
+      "examples": [
+        {
+          "no": "hodetelefonene har god lydkvalitet",
+          "en": "the headphones have good sound quality"
+        }
+      ]
+    }
+  ]
+}

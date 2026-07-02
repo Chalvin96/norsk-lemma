@@ -1,0 +1,106 @@
+{
+  "source_article_id": 53030,
+  "lemmas": [
+    {
+      "lemma": "skjematisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 61136,
+      "is_sub_article": false,
+      "primary_translation": "schematic / simplified",
+      "word_forms": [
+        {
+          "word_form": "skjematisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "S@$\"mA:$tI$sk",
+              "ipa": "ʃəˈmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skjematiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "S@$\"mA:$tI$sk@",
+              "ipa": "ʃəˈmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cc0512fdb00f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc0512fdb00f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc0512fdb00f.mp3",
+            "text": "skjematisk",
+            "source": "generated",
+            "content_sha256": "2128a6ae1daf72dc0acb87a1033630ebae321979d64295936f16d9897433dd76",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med form som skjema",
+      "translation": "having the form of a schema",
+      "examples": [
+        {
+          "no": "sette opp resultatet skjematisk",
+          "en": "set out the result schematically"
+        }
+      ]
+    },
+    {
+      "text": "som bare tar med generelle trekk",
+      "translation": "only including general features",
+      "examples": []
+    },
+    {
+      "text": "forenklet, stilisert",
+      "translation": "simplified, stylized",
+      "examples": [
+        {
+          "no": "en skjematisk oversikt",
+          "en": "a schematic overview"
+        },
+        {
+          "no": "framstillingen ble for skjematisk og kjedelig",
+          "en": "the presentation became too schematic and boring"
+        }
+      ]
+    }
+  ]
+}

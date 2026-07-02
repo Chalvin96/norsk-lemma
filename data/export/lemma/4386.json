@@ -1,0 +1,141 @@
+{
+  "source_article_id": 4386,
+  "lemmas": [
+    {
+      "lemma": "bank",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 81376,
+      "is_sub_article": false,
+      "primary_translation": "bank (financial institution / building / reserve)",
+      "word_forms": [
+        {
+          "word_form": "bank",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bANk",
+              "ipa": "ˈbɑŋk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "banken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAN$k@n",
+              "ipa": "ˈbɑŋkən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "banker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAN$k@r",
+              "ipa": "ˈbɑŋkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bankene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAN$k@$n@",
+              "ipa": "ˈbɑŋkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "368668cc0501.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/368668cc0501.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/368668cc0501.mp3",
+            "text": "bank",
+            "source": "generated",
+            "content_sha256": "0f2e7d7f84d2936262af982bc656cc49adf2857d5584beaf5aacede0c440639f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "institusjon som tar imot innskudd av penge, gir lån, driver handel med verdipapirer og utfører pengetransaksjonstjenester",
+      "translation": "institution that accepts deposits, gives loans, trades securities, and provides money transfer services",
+      "examples": [
+        {
+          "no": "sette penger i banken",
+          "en": "put money in the bank"
+        },
+        {
+          "no": "sikker som banken",
+          "en": "safe as houses"
+        }
+      ]
+    },
+    {
+      "text": "bygning der en bank holder til",
+      "translation": "building where a bank is located",
+      "examples": [
+        {
+          "no": "gå i banken",
+          "en": "go to the bank"
+        }
+      ]
+    },
+    {
+      "text": "(reserve)lager, opplagsplass",
+      "translation": "reserve stock, storage place",
+      "examples": []
+    }
+  ]
+}

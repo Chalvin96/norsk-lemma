@@ -1,0 +1,126 @@
+{
+  "source_article_id": 97117,
+  "lemmas": [
+    {
+      "lemma": "elektor",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157413,
+      "is_sub_article": false,
+      "primary_translation": "elector / chosen representative",
+      "word_forms": [
+        {
+          "word_form": "elektor",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛləktur",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elektoren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛləktuɳ̩",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elektorer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛləkturər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elektorene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛləktˈuːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "40fc2b0f942a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40fc2b0f942a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40fc2b0f942a.mp3",
+            "text": "elektor",
+            "source": "generated",
+            "content_sha256": "9eb7a5418512fa590d3bb6cbe117da69d3164afbec7bf15e677323138e8f7179"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person valgt til å delta i valg på representanter til parlament og lignende",
+      "translation": "person chosen to participate in the election of representatives to parliament",
+      "examples": [
+        {
+          "no": "kandidaten med flest elektorer",
+          "en": "the candidate with the most electors"
+        }
+      ]
+    }
+  ]
+}

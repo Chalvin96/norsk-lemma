@@ -1,0 +1,127 @@
+{
+  "source_article_id": 46437,
+  "lemmas": [
+    {
+      "lemma": "programpost",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 53458,
+      "is_sub_article": false,
+      "primary_translation": "program item / broadcast",
+      "word_forms": [
+        {
+          "word_form": "programpost",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"grAm$%pO$st",
+              "ipa": "prʊˈgrɑmˌpɔst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "programposten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"grAm$%pO$stn=",
+              "ipa": "prʊˈgrɑmˌpɔstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "programposter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"grAm$%pO$st@r",
+              "ipa": "prʊˈgrɑmˌpɔstər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "programpostene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"grAm$%pO$stn=$@",
+              "ipa": "prʊˈgrɑmˌpɔstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "82f7e17bf636.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/82f7e17bf636.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/82f7e17bf636.mp3",
+            "text": "programpost",
+            "source": "generated",
+            "content_sha256": "ca7befa754592f2da0ebefbdf4b71914c613f66553e3fd22b2d872248c98216e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enkelt post på et program",
+      "translation": "individual item on a program",
+      "examples": []
+    },
+    {
+      "text": "sending",
+      "translation": "broadcast",
+      "examples": [
+        {
+          "no": "de faste programpostene i NRK",
+          "en": "the regular programs on NRK"
+        }
+      ]
+    }
+  ]
+}

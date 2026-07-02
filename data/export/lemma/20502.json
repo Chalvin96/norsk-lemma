@@ -1,0 +1,97 @@
+{
+  "source_article_id": 20502,
+  "lemmas": [
+    {
+      "lemma": "godvillig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 23942,
+      "is_sub_article": false,
+      "primary_translation": "willing / voluntary",
+      "word_forms": [
+        {
+          "word_form": "godvillig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu:$%vI$lI",
+              "ipa": "ˈguːˌvɪlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "godvillige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gu:$%vI$lI$@",
+              "ipa": "ˈguːˌvɪlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2a30eda3a0a2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a30eda3a0a2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a30eda3a0a2.mp3",
+            "text": "godvillig",
+            "source": "generated",
+            "content_sha256": "2f099143716bed80a3b7da13b28c314454dadc15833c40a886292d19e4e75e14",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som skjer av egen vilje",
+      "translation": "happening by one's own will",
+      "examples": []
+    },
+    {
+      "text": "uten press",
+      "translation": "without pressure",
+      "examples": []
+    },
+    {
+      "text": "uten å gjøre motstand",
+      "translation": "without offering resistance",
+      "examples": [
+        {
+          "no": "tyven lot seg ta godvillig",
+          "en": "the thief let himself be caught without resistance"
+        }
+      ]
+    }
+  ]
+}

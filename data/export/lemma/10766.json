@@ -1,0 +1,91 @@
+{
+  "source_article_id": 10766,
+  "lemmas": [
+    {
+      "lemma": "drapsmistenkt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12589,
+      "is_sub_article": false,
+      "primary_translation": "suspected of murder",
+      "word_forms": [
+        {
+          "word_form": "drapsmistenkt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drA:p$smI$%stENkt",
+              "ipa": "ˈdrɑːpsmɪˌstɛŋkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "drapsmistenkte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drA:p$smI$%stENk$t@",
+              "ipa": "ˈdrɑːpsmɪˌstɛŋktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7ce4e3f0447a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ce4e3f0447a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ce4e3f0447a.mp3",
+            "text": "drapsmistenkt",
+            "source": "generated",
+            "content_sha256": "f3d082b486d21ba84346b2b4b92f8337ac43087e73e810edb3b69cf706089042",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er mistenkt for drap",
+      "translation": "suspected of murder",
+      "examples": [
+        {
+          "no": "de drapsmistenkte mennene",
+          "en": "the men suspected of murder"
+        },
+        {
+          "no": "den drapsmistenkte",
+          "en": "the murder suspect"
+        }
+      ]
+    }
+  ]
+}

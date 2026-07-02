@@ -1,0 +1,141 @@
+{
+  "source_article_id": 125232,
+  "lemmas": [
+    {
+      "lemma": "pressekontakt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 131312,
+      "is_sub_article": false,
+      "primary_translation": "press contact / spokesperson",
+      "word_forms": [
+        {
+          "word_form": "pressekontakt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"prE$s@$kUn$%tAkt",
+              "ipa": "ˈprɛsəkʊnˌtɑkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "pressekontakten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"prE$s@$kUn$%tAk$tn=",
+              "ipa": "ˈprɛsəkʊnˌtɑktn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "pressekontakter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈɛsəkuntˌɑktər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "pressekontaktene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈɛsəkuntˌɑktn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "496212df1c04.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/496212df1c04.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/496212df1c04.mp3",
+            "text": "pressekontakt",
+            "source": "generated",
+            "content_sha256": "feb4a4ce95f2790f86f4382323eb114bee7da44d25c7b9d3bab21927035605e2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forbindelse med pressen",
+      "translation": "connection with the press",
+      "examples": [
+        {
+          "no": "kommunen har god pressekontakt",
+          "en": "the municipality has good press relations"
+        }
+      ]
+    },
+    {
+      "text": "person som representerer en oppdragsgiver i forhold til massemediene",
+      "translation": "person representing a client in relation to mass media",
+      "examples": []
+    },
+    {
+      "text": "talsperson",
+      "translation": "spokesperson",
+      "examples": [
+        {
+          "no": "pressekontakten i selskapet",
+          "en": "the company's press contact"
+        }
+      ]
+    }
+  ]
+}

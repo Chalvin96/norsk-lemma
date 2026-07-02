@@ -1,0 +1,82 @@
+{
+  "source_article_id": 39117,
+  "lemmas": [
+    {
+      "lemma": "mormonsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45868,
+      "is_sub_article": false,
+      "primary_translation": "Mormon",
+      "word_forms": [
+        {
+          "word_form": "mormonsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mUr$\"mu:nsk",
+              "ipa": "mʊrˈmuːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mormonske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mUr$\"mu:n$sk@",
+              "ipa": "mʊrˈmuːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "07dccfc81f06.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07dccfc81f06.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07dccfc81f06.mp3",
+            "text": "mormonsk",
+            "source": "generated",
+            "content_sha256": "48170554b31d79e78e2ac4d399e233387b15cf49a56402d48dcd34074632829f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder mormon mormoner og mormonisme",
+      "translation": "relating to Mormons, Mormonism, and the Mormon Church",
+      "examples": []
+    }
+  ]
+}

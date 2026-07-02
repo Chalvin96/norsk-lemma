@@ -1,0 +1,106 @@
+{
+  "source_article_id": 59098,
+  "lemmas": [
+    {
+      "lemma": "synonym",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 67669,
+      "is_sub_article": false,
+      "primary_translation": "synonymous",
+      "word_forms": [
+        {
+          "word_form": "synonym",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sY$nU$\"ny:m",
+              "ipa": "sʏnʊˈnyːm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "synonyme",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sY$nU$\"ny:$m@",
+              "ipa": "sʏnʊˈnyːmə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "synonymt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sY$nU$\"ny:mt",
+              "ipa": "sʏnʊˈnyːmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c9ad634bc8b9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c9ad634bc8b9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c9ad634bc8b9.mp3",
+            "text": "synonym",
+            "source": "generated",
+            "content_sha256": "f0bd414d1cc9ba1dd1f26e175b16cd497e417b50994ddd10878b5a622956ac69",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som betyr det samme eller nesten det samme",
+      "translation": "meaning the same or almost the same",
+      "examples": [
+        {
+          "no": "ord som ‘slett’, ‘dårlig’ og ‘skral’ er synonyme",
+          "en": "words like ‘awful’, ‘bad’ and ‘poor’ are synonymous"
+        }
+      ]
+    }
+  ]
+}

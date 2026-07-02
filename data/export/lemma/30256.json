@@ -1,0 +1,106 @@
+{
+  "source_article_id": 30256,
+  "lemmas": [
+    {
+      "lemma": "kloven",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35669,
+      "is_sub_article": false,
+      "primary_translation": "split",
+      "word_forms": [
+        {
+          "word_form": "kloven",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klo:$v@n",
+              "ipa": "ˈkloːvən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klovne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klo:v$n@",
+              "ipa": "ˈkloːvnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klovent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klo:$v@nt",
+              "ipa": "ˈkloːvənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a4ffe02ba28.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a4ffe02ba28.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a4ffe02ba28.mp3",
+            "text": "kloven",
+            "source": "generated",
+            "content_sha256": "215fe6106d330651d42cf7a668168c9ce8b57b303f26fcd154391f907c61e97c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "revnet, spaltet",
+      "translation": "torn, split",
+      "examples": [
+        {
+          "no": "stokken var kloven på midten",
+          "en": "the log was split in the middle"
+        }
+      ]
+    }
+  ]
+}

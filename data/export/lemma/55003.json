@@ -1,0 +1,135 @@
+{
+  "source_article_id": 55003,
+  "lemmas": [
+    {
+      "lemma": "småting",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 63309,
+      "is_sub_article": false,
+      "primary_translation": "small things / trifles",
+      "word_forms": [
+        {
+          "word_form": "småting",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%tIN",
+              "ipa": "ˈsmoːˌtɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småtingen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%tIN$@n",
+              "ipa": "ˈsmoːˌtɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småtingene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%tIN$@$n@",
+              "ipa": "ˈsmoːˌtɪŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småtinga",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːtˌɪŋɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "26150c82f303.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/26150c82f303.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/26150c82f303.mp3",
+            "text": "småting",
+            "source": "generated",
+            "content_sha256": "79dfce6b3200a663cd453d4b9f9cd3589814474d81a4c629aafee2bc53b7a39d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "liten gjenstand",
+      "translation": "small object",
+      "examples": [
+        {
+          "no": "selge småting fra en bod",
+          "en": "sell small items from a stall"
+        }
+      ]
+    },
+    {
+      "text": "uviktig sak",
+      "translation": "unimportant matter",
+      "examples": [
+        {
+          "no": "de krangler om småting",
+          "en": "they quarrel over trifles"
+        }
+      ]
+    }
+  ]
+}

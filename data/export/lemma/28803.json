@@ -1,0 +1,87 @@
+{
+  "source_article_id": 28803,
+  "lemmas": [
+    {
+      "lemma": "karolinsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 34043,
+      "is_sub_article": false,
+      "primary_translation": "Carolingian",
+      "word_forms": [
+        {
+          "word_form": "karolinsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$rU$\"li:nsk",
+              "ipa": "kɑrʊˈlɪːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "karolinske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$rU$\"li:n$sk@",
+              "ipa": "kɑrʊˈlɪːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8400dcd9c954.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8400dcd9c954.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8400dcd9c954.mp3",
+            "text": "karolinsk",
+            "source": "generated",
+            "content_sha256": "de920b466cdccd946ca950b70b4111c01c35e39125e985c01ff8ffa9e2ff97cf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder karolin",
+      "translation": "relating to the Carolingian era",
+      "examples": [
+        {
+          "no": "den karolinske tiden",
+          "en": "the Carolingian period"
+        }
+      ]
+    }
+  ]
+}

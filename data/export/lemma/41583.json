@@ -1,0 +1,106 @@
+{
+  "source_article_id": 41583,
+  "lemmas": [
+    {
+      "lemma": "nødtørftig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48690,
+      "is_sub_article": false,
+      "primary_translation": "barely sufficient / meager",
+      "word_forms": [
+        {
+          "word_form": "nødtørftig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "n9$\"t9rf$tI",
+              "ipa": "nœˈtœrftɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nødtørftige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "n9$\"t9rf$tI$@",
+              "ipa": "nœˈtœrftɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "56644be5eb03.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56644be5eb03.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56644be5eb03.mp3",
+            "text": "nødtørftig",
+            "source": "generated",
+            "content_sha256": "f96d031637ebae8e98ea7adb311fb2fb6ac7aed6120757baadd5c76ec89998e4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som så vidt er tilstrekkelig",
+      "translation": "barely sufficient",
+      "examples": []
+    },
+    {
+      "text": "som er mest nødvendig",
+      "translation": "most necessary",
+      "examples": [
+        {
+          "no": "brensel og nødtørftig mat",
+          "en": "fuel and bare essential food"
+        },
+        {
+          "no": "de fikk bare med seg det nødtørftigste",
+          "en": "they only managed to bring the bare essentials with them"
+        }
+      ]
+    },
+    {
+      "text": "tarvelig, sparsom",
+      "translation": "meager, sparse",
+      "examples": [
+        {
+          "no": "en nødtørftig ros",
+          "en": "faint praise"
+        }
+      ]
+    }
+  ]
+}

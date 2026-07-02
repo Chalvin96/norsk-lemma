@@ -1,0 +1,131 @@
+{
+  "source_article_id": 39009,
+  "lemmas": [
+    {
+      "lemma": "monsieur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45756,
+      "is_sub_article": false,
+      "primary_translation": "Mr. / master",
+      "word_forms": [
+        {
+          "word_form": "monsieur",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m9s$\"j2:",
+              "ipa": "mœsˈjøː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "monsieuren",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m9s$\"j2:$@n",
+              "ipa": "mœsˈjøːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "messieurs",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛsjˈøːs",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "messieursene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛsˌiːˈøːʂɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "de95f042dc24.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/de95f042dc24.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/de95f042dc24.mp3",
+            "text": "monsieur",
+            "source": "generated",
+            "content_sha256": "f781525489dcba2dbbb54852c1c791e393e9ade1b6e2a276c15dc15040bb2772",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om franske forhold: herre",
+      "translation": "in French contexts: master",
+      "examples": []
+    },
+    {
+      "text": "om franske forhold: tittel foran navn, herr",
+      "translation": "in French contexts: title before a name, Mr.",
+      "examples": []
+    },
+    {
+      "text": "forkortet M.",
+      "translation": "abbreviated M.",
+      "examples": []
+    }
+  ]
+}

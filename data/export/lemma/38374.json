@@ -1,0 +1,131 @@
+{
+  "source_article_id": 38374,
+  "lemmas": [
+    {
+      "lemma": "militær",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 45025,
+      "is_sub_article": false,
+      "primary_translation": "military / military service",
+      "word_forms": [
+        {
+          "word_form": "militær",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$lI$\"t{:r",
+              "ipa": "mɪlɪˈtæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "militæret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$lI$\"t{:$r@",
+              "ipa": "mɪlɪˈtæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "militæra",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɪlɪtˈæːrɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "militærene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɪlɪtˈæːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8dd36a7631b1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8dd36a7631b1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8dd36a7631b1.mp3",
+            "text": "militær",
+            "source": "generated",
+            "content_sha256": "436c80b8f9835a1687c77d67eda9675af43b37352ac12247e4e1433eca1312c9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i bestemt form entall: et lands forsvar eller krigsmakt",
+      "translation": "a country's defense or armed forces",
+      "examples": [
+        {
+          "no": "være i militæret",
+          "en": "be in the military"
+        },
+        {
+          "no": "bli innkalt til militæret",
+          "en": "be called up for military service"
+        }
+      ]
+    }
+  ]
+}

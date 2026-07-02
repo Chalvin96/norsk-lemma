@@ -1,0 +1,121 @@
+{
+  "source_article_id": 133578,
+  "lemmas": [
+    {
+      "lemma": "tårefull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2259596,
+      "is_sub_article": false,
+      "primary_translation": "tearful / causing tears",
+      "word_forms": [
+        {
+          "word_form": "tårefull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈoːrəfˌʉl",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tårefulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈoːrəfˌʉlə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tårefullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈoːrəfˌʉlt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "db684f56e410.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db684f56e410.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db684f56e410.mp3",
+            "text": "tårefull",
+            "source": "generated",
+            "content_sha256": "6a25db8605ceae65a550d859431e5a83d545e790bef68e413e6e21fd08f02dd0"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "full av tårer",
+      "translation": "full of tears",
+      "examples": [
+        {
+          "no": "tårefulle øyne",
+          "en": "tear-filled eyes"
+        }
+      ]
+    },
+    {
+      "text": "som kaller fram tårer",
+      "translation": "causing tears",
+      "examples": [
+        {
+          "no": "en tårefull gjenforening",
+          "en": "a tearful reunion"
+        }
+      ]
+    }
+  ]
+}

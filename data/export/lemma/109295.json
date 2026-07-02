@@ -1,0 +1,129 @@
+{
+  "source_article_id": 109295,
+  "lemmas": [
+    {
+      "lemma": "bilvelt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 162190,
+      "is_sub_article": false,
+      "primary_translation": "car rollover",
+      "word_forms": [
+        {
+          "word_form": "bilvelt",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%vElt",
+              "ipa": "ˈbɪːlˌvɛlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bilvelten",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈiːlʋˌɛltn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bilvelter",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈiːlʋˌɛltər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bilveltene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈiːlʋˌɛltn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bff29f890eec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bff29f890eec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bff29f890eec.mp3",
+            "text": "bilvelt",
+            "source": "generated",
+            "content_sha256": "c1562a4de9387167e53283c7ac3af00528b4197bcde9d5613a5ae042409a775d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "velt med bil",
+      "translation": "overturning with a car",
+      "examples": [
+        {
+          "no": "mann til sykehus etter bilvelt",
+          "en": "man hospitalized after car rollover"
+        }
+      ]
+    }
+  ]
+}

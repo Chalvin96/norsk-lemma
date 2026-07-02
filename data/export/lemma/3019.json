@@ -1,0 +1,87 @@
+{
+  "source_article_id": 3019,
+  "lemmas": [
+    {
+      "lemma": "asyndetisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3579,
+      "is_sub_article": false,
+      "primary_translation": "asyndetic",
+      "word_forms": [
+        {
+          "word_form": "asyndetisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$sYn$\"de:$tI$sk",
+              "ipa": "ɑsʏnˈdeːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "asyndetiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$sYn$\"de:$tI$sk@",
+              "ipa": "ɑsʏnˈdeːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "34f19ae429b6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/34f19ae429b6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/34f19ae429b6.mp3",
+            "text": "asyndetisk",
+            "source": "generated",
+            "content_sha256": "29ec16ecdbdb258ee130310c3839cbd74d6a265620e3746b6cc1bfeb7c3b3b1b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er preget av asyndese",
+      "translation": "characterized by asyndeton",
+      "examples": [
+        {
+          "no": "asyndetisk stil",
+          "en": "asyndetic style"
+        }
+      ]
+    }
+  ]
+}

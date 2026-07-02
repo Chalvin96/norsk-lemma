@@ -1,0 +1,126 @@
+{
+  "source_article_id": 123618,
+  "lemmas": [
+    {
+      "lemma": "næringstilgang",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2007748,
+      "is_sub_article": false,
+      "primary_translation": "access to food",
+      "word_forms": [
+        {
+          "word_form": "næringstilgang",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"n{:$rIN$stIl$%gAN",
+              "ipa": "ˈnæːrɪŋstɪlˌgɑŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "næringstilgangen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"n{:$rIN$stIl$%gAN$@n",
+              "ipa": "ˈnæːrɪŋstɪlˌgɑŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "næringstilganger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈæːrɪŋstɪlgˌɑŋər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "næringstilgangene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈæːrɪŋstɪlgˌɑŋənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fcf5e4e025f4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fcf5e4e025f4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fcf5e4e025f4.mp3",
+            "text": "næringstilgang",
+            "source": "generated",
+            "content_sha256": "3d2132f02b0956b0da5977ad5fada42370353eda896f8aefa6368f92d7710e07",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mulighet til å finne næring",
+      "translation": "opportunity to find nourishment",
+      "examples": [
+        {
+          "no": "fuglene har dødd på grunn av dårlig næringstilgang",
+          "en": "the birds have died because of poor access to food"
+        }
+      ]
+    }
+  ]
+}

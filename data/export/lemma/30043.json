@@ -1,0 +1,220 @@
+{
+  "source_article_id": 30043,
+  "lemmas": [
+    {
+      "lemma": "klemme",
+      "hgno": 2,
+      "pos": "VERB",
+      "source_lemma_id": 35444,
+      "is_sub_article": false,
+      "primary_translation": "squeeze / hug",
+      "word_forms": [
+        {
+          "word_form": "klemme",
+          "tags_json": [
+            "verb",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klE$m@",
+              "ipa": "ˈklɛmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klemmer",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klE$m@r",
+              "ipa": "ˈklɛmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klemmes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klE$m@s",
+              "ipa": "ˈklɛməs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klemte",
+          "tags_json": [
+            "verb",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klEm$t@",
+              "ipa": "ˈklɛmtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klemt",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klEmt",
+              "ipa": "ˈklɛmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klemmende",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klE$m@$n@",
+              "ipa": "ˈklɛmənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klem",
+          "tags_json": [
+            "verb",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klEm",
+              "ipa": "ˈklɛm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6e26e9a00f53.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e26e9a00f53.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e26e9a00f53.mp3",
+            "text": "klemme",
+            "source": "generated",
+            "content_sha256": "b92562d8005c55eebd46d628f5e86ad71741846605c794a83dd9af90ea6396ca",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "trykke, presse noe hardt sammen slik at det endrer form",
+      "translation": "to press, squeeze something hard so that it changes shape",
+      "examples": [
+        {
+          "no": "klemme noe flatt",
+          "en": "squeeze something flat"
+        },
+        {
+          "no": "klemme fingeren i dørsprekken",
+          "en": "get your finger caught in the door crack"
+        },
+        {
+          "no": "skoen klemmer",
+          "en": "the shoe pinches"
+        }
+      ]
+    },
+    {
+      "text": "gi en klem",
+      "translation": "to give a hug",
+      "examples": [
+        {
+          "no": "kysse og klemme",
+          "en": "kiss and hug"
+        }
+      ]
+    },
+    {
+      "text": "presse i en viss retning",
+      "translation": "to press in a certain direction",
+      "examples": [
+        {
+          "no": "klemme seg fram",
+          "en": "push one's way forward"
+        },
+        {
+          "no": "klemme seg sammen",
+          "en": "squeeze together"
+        }
+      ]
+    },
+    {
+      "text": "tynge, knuge",
+      "translation": "to weigh down, to constrict",
+      "examples": [
+        {
+          "no": "noe klemmer for brystet",
+          "en": "something is pressing on the chest"
+        }
+      ]
+    }
+  ]
+}

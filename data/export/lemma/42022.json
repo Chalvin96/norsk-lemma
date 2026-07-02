@@ -1,0 +1,127 @@
+{
+  "source_article_id": 42022,
+  "lemmas": [
+    {
+      "lemma": "oljesøl",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 49104,
+      "is_sub_article": false,
+      "primary_translation": "oil spill",
+      "word_forms": [
+        {
+          "word_form": "oljesøl",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%s2:l",
+              "ipa": "ˈɔljəˌsøːl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oljesølet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%s2:$l@",
+              "ipa": "ˈɔljəˌsøːlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oljesøla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔljəsˌøːlɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "oljesølene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔljəsˌøːln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "907d7c27f170.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/907d7c27f170.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/907d7c27f170.mp3",
+            "text": "oljesøl",
+            "source": "generated",
+            "content_sha256": "26612acd9e599f8245a64440664ef197d0bff2ac8d357adc5729dab580ac9ae7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forurensning eller tilgrising som skyldes olje",
+      "translation": "pollution or soiling caused by oil",
+      "examples": [
+        {
+          "no": "oljesøl fra tankbåten griste til strendene",
+          "en": "oil spilled from the tanker fouled the beaches"
+        }
+      ]
+    }
+  ]
+}

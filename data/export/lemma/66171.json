@@ -1,0 +1,91 @@
+{
+  "source_article_id": 66171,
+  "lemmas": [
+    {
+      "lemma": "vakt",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 75963,
+      "is_sub_article": false,
+      "primary_translation": "reversed / guard",
+      "word_forms": [
+        {
+          "word_form": "vakt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vAkt",
+              "ipa": "ˈvɑkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vakte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vAk$t@",
+              "ipa": "ˈvɑktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "57dc6a52ee4a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57dc6a52ee4a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57dc6a52ee4a.mp3",
+            "text": "vakt",
+            "source": "generated",
+            "content_sha256": "fc8bd7cb2c3ef4ecf8395d1b0d898fedaa40c8c5f3a8d6d2d5f346c2dd74113f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i religiøst språk: omvendt",
+      "translation": "reversed",
+      "examples": [
+        {
+          "no": "bli vakt",
+          "en": "be converted"
+        },
+        {
+          "no": "de vakte samler seg regelmessig til møter",
+          "en": "the converted gather regularly for meetings"
+        }
+      ]
+    }
+  ]
+}

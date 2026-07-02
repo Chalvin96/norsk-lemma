@@ -1,0 +1,122 @@
+{
+  "source_article_id": 4273,
+  "lemmas": [
+    {
+      "lemma": "ballasttank",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5062,
+      "is_sub_article": false,
+      "primary_translation": "ballast tank",
+      "word_forms": [
+        {
+          "word_form": "ballasttank",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"lA$%sttANk",
+              "ipa": "bɑˈlɑˌsttɑŋk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ballasttanken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"lA$%sttAN$k@n",
+              "ipa": "bɑˈlɑˌsttɑŋkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ballasttanker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"lA$%sttAN$k@r",
+              "ipa": "bɑˈlɑˌsttɑŋkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ballasttankene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"lA$%sttAN$k@$n@",
+              "ipa": "bɑˈlɑˌsttɑŋkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "51063c47c08b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/51063c47c08b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/51063c47c08b.mp3",
+            "text": "ballasttank",
+            "source": "generated",
+            "content_sha256": "7374f4999c086bfeb08b33f3abef5a7218be74482fdc91b01bf7c5f2595c41e6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "på skip: tank, rom, til ballast",
+      "translation": "on a ship: tank, compartment for ballast",
+      "examples": [
+        {
+          "no": "skipet fikk slagside da en ballasttank ble fylt galt",
+          "en": "the ship listed when a ballast tank was filled incorrectly"
+        }
+      ]
+    }
+  ]
+}

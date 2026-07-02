@@ -1,0 +1,131 @@
+{
+  "source_article_id": 22359,
+  "lemmas": [
+    {
+      "lemma": "hann",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 26213,
+      "is_sub_article": false,
+      "primary_translation": "male animal/plant",
+      "word_forms": [
+        {
+          "word_form": "hann",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hAn",
+              "ipa": "ˈhɑn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hannen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"hA$nn=",
+              "ipa": "ˈhɑnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hanner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hA$n@r",
+              "ipa": "ˈhɑnər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hannene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hA$nn=$@",
+              "ipa": "ˈhɑnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "85f2f7cca83c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85f2f7cca83c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/85f2f7cca83c.mp3",
+            "text": "hann",
+            "source": "generated",
+            "content_sha256": "60eea2f9c2886575a90fff7455b495cd7868122bf3a5ccad529f3516fe972b01",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dyr, plante eller skapning av hankjønn hannkjønn",
+      "translation": "animal, plant, or creature of the male sex",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra hunn",
+      "translation": "in contrast to female",
+      "examples": [
+        {
+          "no": "bjørnen var en storvokst hann",
+          "en": "the bear was a large male"
+        },
+        {
+          "no": "hos fuglene har hannen og hunnen ofte ulik fjærdrakt",
+          "en": "in birds, the male and the female often have different plumage"
+        }
+      ]
+    }
+  ]
+}

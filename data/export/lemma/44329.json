@@ -1,0 +1,87 @@
+{
+  "source_article_id": 44329,
+  "lemmas": [
+    {
+      "lemma": "pasjonert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51298,
+      "is_sub_article": false,
+      "primary_translation": "passionate",
+      "word_forms": [
+        {
+          "word_form": "pasjonert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$SU$\"ne:t`",
+              "ipa": "pɑʃʊˈneːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pasjonerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$SU$\"ne:$t`@",
+              "ipa": "pɑʃʊˈneːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "afe9e42d7967.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afe9e42d7967.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afe9e42d7967.mp3",
+            "text": "pasjonert",
+            "source": "generated",
+            "content_sha256": "b526ea83a0c3738a6c67843acaff8d2d6020759cd369c0f0f44e3efc56e93d49",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lidenskapelig, entusiastisk",
+      "translation": "passionate, enthusiastic",
+      "examples": [
+        {
+          "no": "være pasjonert fjellklatrer",
+          "en": "be a passionate mountain climber"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_article_id": 120427,
+  "lemmas": [
+    {
+      "lemma": "konsentrert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168338,
+      "is_sub_article": false,
+      "primary_translation": "concentrated / focused",
+      "word_forms": [
+        {
+          "word_form": "konsentrert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$sn=$\"tre:t`",
+              "ipa": "kɔnsn̩ˈtreːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "konsentrerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kOn$sn=$\"tre:$t`@",
+              "ipa": "kɔnsn̩ˈtreːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cb7e55ba37b0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cb7e55ba37b0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cb7e55ba37b0.mp3",
+            "text": "konsentrert",
+            "source": "generated",
+            "content_sha256": "d24f68b6b275dfde4bc939cd10dcdca016c89fc889bcd64824780f273a9c93c9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "samlet, fortettet",
+      "translation": "gathered, condensed",
+      "examples": [
+        {
+          "no": "en konsentrert utbygging av området",
+          "en": "a concentrated development of the area"
+        }
+      ]
+    },
+    {
+      "text": "som konsentrerer seg om noe",
+      "translation": "focusing on something",
+      "examples": [
+        {
+          "no": "være konsentrert om en oppgave",
+          "en": "be focused on a task"
+        },
+        {
+          "no": "en konsentrert innsats",
+          "en": "a concentrated effort"
+        }
+      ]
+    },
+    {
+      "text": "i kjemi: som har økt konsentrasjon",
+      "translation": "in chemistry: having increased concentration",
+      "examples": [
+        {
+          "no": "konsentrert saltsyre",
+          "en": "concentrated hydrochloric acid"
+        }
+      ]
+    }
+  ]
+}

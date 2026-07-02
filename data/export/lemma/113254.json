@@ -1,0 +1,90 @@
+{
+  "source_article_id": 113254,
+  "lemmas": [
+    {
+      "lemma": "flysendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 164210,
+      "is_sub_article": false,
+      "primary_translation": "air-sent",
+      "word_forms": [
+        {
+          "word_form": "flysendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈyːsˌɛnt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "flysendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈyːsˌɛntə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ebe07f238648.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ebe07f238648.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ebe07f238648.mp3",
+            "text": "flysendt",
+            "source": "generated",
+            "content_sha256": "75aab0099b59e6d38d78001f8cd6c5f07bca3e0e4d3f04e754b350dd7164ad4a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sendt med fly",
+      "translation": "sent by airplane",
+      "examples": [
+        {
+          "no": "flysendt laks",
+          "en": "salmon shipped by air"
+        }
+      ]
+    }
+  ]
+}

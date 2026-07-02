@@ -1,0 +1,82 @@
+{
+  "source_article_id": 7474,
+  "lemmas": [
+    {
+      "lemma": "bretagnsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 8823,
+      "is_sub_article": false,
+      "primary_translation": "Breton",
+      "word_forms": [
+        {
+          "word_form": "bretagnsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "br@$\"tAnsk",
+              "ipa": "brəˈtɑnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bretagnske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "br@$\"tAn$sk@",
+              "ipa": "brəˈtɑnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c77019a62531.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c77019a62531.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c77019a62531.mp3",
+            "text": "bretagnsk",
+            "source": "generated",
+            "content_sha256": "647fe3dbfe6d9fd3b79605264459db1b8de320a46f8f82b88686c23dd616e489",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Bretagne og bretagner",
+      "translation": "relating to Brittany and Breton people",
+      "examples": []
+    }
+  ]
+}

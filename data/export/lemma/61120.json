@@ -1,0 +1,87 @@
+{
+  "source_article_id": 61120,
+  "lemmas": [
+    {
+      "lemma": "tissetrengt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 69895,
+      "is_sub_article": false,
+      "primary_translation": "needing to pee",
+      "word_forms": [
+        {
+          "word_form": "tissetrengt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tI$s@$%trENgt",
+              "ipa": "ˈtɪsəˌtrɛŋgt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tissetrengte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tI$s@$%trENg$t@",
+              "ipa": "ˈtɪsəˌtrɛŋgtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f8a31d9047da.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f8a31d9047da.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f8a31d9047da.mp3",
+            "text": "tissetrengt",
+            "source": "generated",
+            "content_sha256": "6cbf184c8032c21a7c4bb323657650649a811babe25284674860466f8870e516",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har trang til å late vannet",
+      "translation": "having the urge to urinate",
+      "examples": [
+        {
+          "no": "ei tissetrengt bikkje",
+          "en": "a dog that needs to pee"
+        }
+      ]
+    }
+  ]
+}

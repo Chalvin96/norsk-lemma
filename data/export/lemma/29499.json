@@ -1,0 +1,99 @@
+{
+  "source_article_id": 29499,
+  "lemmas": [
+    {
+      "lemma": "kjemisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 34856,
+      "is_sub_article": false,
+      "primary_translation": "chemical",
+      "word_forms": [
+        {
+          "word_form": "kjemisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ce:$mI$sk",
+              "ipa": "ˈçeːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kjemiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ce:$mI$sk@",
+              "ipa": "ˈçeːmɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a6597646857.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a6597646857.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a6597646857.mp3",
+            "text": "kjemisk",
+            "source": "generated",
+            "content_sha256": "42ad29ad2430c3c82dc3ad479320c0d5d5bdc9af7cc9abb9a88702386f6ab693",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kjemi",
+      "translation": "relating to chemistry",
+      "examples": [
+        {
+          "no": "kjemiske formler",
+          "en": "chemical formulas"
+        },
+        {
+          "no": "kjemiske forbindelser",
+          "en": "chemical compounds"
+        },
+        {
+          "no": "et kjemisk laboratorium",
+          "en": "a chemical laboratory"
+        },
+        {
+          "no": "kjemisk industri",
+          "en": "chemical industry"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "source_article_id": 111283,
+  "lemmas": [
+    {
+      "lemma": "båtfolk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 90602,
+      "is_sub_article": false,
+      "primary_translation": "boat owners",
+      "word_forms": [
+        {
+          "word_form": "båtfolk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bo:t$%fOlk",
+              "ipa": "ˈboːtˌfɔlk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "båtfolket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bo:t$%fOl$k@",
+              "ipa": "ˈboːtˌfɔlkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "båtfolka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈoːtfˌɔlkɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "båtfolkene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈoːtfˌɔlkənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "11e703001907.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11e703001907.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11e703001907.mp3",
+            "text": "båtfolk",
+            "source": "generated",
+            "content_sha256": "da690a285e1f809d63b86071bfb7c077ea894054f97c4c519bb0d8dc8a27d9d3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gruppe av personer som har båt",
+      "translation": "group of people who own a boat",
+      "examples": [
+        {
+          "no": "båtfolket forbereder seg på sommersesongen",
+          "en": "boat owners are preparing for the summer season"
+        }
+      ]
+    }
+  ]
+}

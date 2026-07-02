@@ -1,0 +1,108 @@
+{
+  "source_article_id": 127328,
+  "lemmas": [
+    {
+      "lemma": "saftgrønn",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2226119,
+      "is_sub_article": false,
+      "primary_translation": "lush green",
+      "word_forms": [
+        {
+          "word_form": "saftgrønn",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑftgrˌœn",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "saftgrønne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑftgrˌœnə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "saftgrønt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑftgrˌœnt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "589b6dc1dae7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/589b6dc1dae7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/589b6dc1dae7.mp3",
+            "text": "saftgrønn",
+            "source": "generated",
+            "content_sha256": "1318d5af5f5c8531367ab6b1216e7cb5067c0b1df3709fb18a23335f392abe63"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "frisk og frodig grønn",
+      "translation": "fresh and lush green",
+      "examples": [
+        {
+          "no": "en saftgrønn bakke",
+          "en": "a lush green hillside"
+        }
+      ]
+    }
+  ]
+}

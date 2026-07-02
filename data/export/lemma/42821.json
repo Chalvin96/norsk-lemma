@@ -1,0 +1,101 @@
+{
+  "source_article_id": 42821,
+  "lemmas": [
+    {
+      "lemma": "ørsmå",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 81075,
+      "is_sub_article": false,
+      "primary_translation": "tiny",
+      "word_forms": [
+        {
+          "word_form": "ørsmå",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"2:$%s`mo:",
+              "ipa": "ˈøːˌʂmoː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ørsmått",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈœʂmˈɔt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bfa2c595a513.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bfa2c595a513.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bfa2c595a513.mp3",
+            "text": "ørsmå",
+            "source": "generated",
+            "content_sha256": "8f96d04018af9cd86a71ddcf5ec178688af962acc0cefd64cffe22b8986d7abb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært små",
+      "translation": "very small",
+      "examples": []
+    },
+    {
+      "text": "jamfør ørliten",
+      "translation": "tiny",
+      "examples": [
+        {
+          "no": "ørsmå partikler",
+          "en": "tiny particles"
+        },
+        {
+          "no": "ørsmå mengder",
+          "en": "tiny amounts"
+        },
+        {
+          "no": "ørsmå variasjoner",
+          "en": "tiny variations"
+        }
+      ]
+    }
+  ]
+}

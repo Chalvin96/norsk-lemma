@@ -1,0 +1,162 @@
+{
+  "source_article_id": 59429,
+  "lemmas": [
+    {
+      "lemma": "søvn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68110,
+      "is_sub_article": false,
+      "primary_translation": "sleep / hibernation / sleep crust",
+      "word_forms": [
+        {
+          "word_form": "søvn",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s9vn",
+              "ipa": "ˈsœvn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "søvnen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s9v$nn=",
+              "ipa": "ˈsœvnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "søvner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœʋnər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "søvnene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœʋnn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c239cde52dd8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c239cde52dd8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c239cde52dd8.mp3",
+            "text": "søvn",
+            "source": "generated",
+            "content_sha256": "59d2083b436b1c75124374f65c89ea972868fce601943c74355d11e4b8560671",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fysisk og mental hviletilstand der en lukker øynene",
+      "translation": "physical and mental state of rest where one closes their eyes",
+      "examples": []
+    },
+    {
+      "text": "det å sove",
+      "translation": "the act of sleeping",
+      "examples": [
+        {
+          "no": "ligge i dyp søvn",
+          "en": "be in a deep sleep"
+        },
+        {
+          "no": "få for lite søvn",
+          "en": "get too little sleep"
+        },
+        {
+          "no": "vekke noen av søvnen",
+          "en": "wake someone from sleep"
+        },
+        {
+          "no": "bli rykket ut av søvnen av vekkerklokka",
+          "en": "be jerked out of sleep by the alarm clock"
+        }
+      ]
+    },
+    {
+      "text": "tilstand (hos levende organismer) med nedsatt aktivitet, stopp i vekst og nedsatte livsfunksjoner",
+      "translation": "state (in living organisms) of reduced activity, cessation of growth, and reduced vital functions",
+      "examples": []
+    },
+    {
+      "text": "materie en får i øyekroken når en sover",
+      "translation": "matter found in the corner of the eye when sleeping",
+      "examples": [
+        {
+          "no": "søvnen klistret seg til øyevippene",
+          "en": "the sleep clung to the eyelashes"
+        },
+        {
+          "no": "pirke søvnen ut av øyekroken",
+          "en": "pick the sleep out of the corner of the eye"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 43026,
+  "lemmas": [
+    {
+      "lemma": "oppsigelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49860,
+      "is_sub_article": false,
+      "primary_translation": "terminable",
+      "word_forms": [
+        {
+          "word_form": "oppsigelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Op$\"si:$g@$lI",
+              "ipa": "ɔpˈsɪːgəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oppsigelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Op$\"si:$g@$lI$@",
+              "ipa": "ɔpˈsɪːgəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "99922516bfeb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/99922516bfeb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/99922516bfeb.mp3",
+            "text": "oppsigelig",
+            "source": "generated",
+            "content_sha256": "82c7bfbe4506c7646eccd3e57bc0db94bead092cb5cd180efcef2887704bef0f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan sies opp eller som en kan bli sagt opp fra",
+      "translation": "that can be terminated or from which one can be terminated",
+      "examples": [
+        {
+          "no": "en oppsigelig kontrakt",
+          "en": "a terminable contract"
+        },
+        {
+          "no": "dette er en oppsigelig stilling",
+          "en": "this is a terminable position"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 12927,
+  "lemmas": [
+    {
+      "lemma": "epileptisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15055,
+      "is_sub_article": false,
+      "primary_translation": "epileptic",
+      "word_forms": [
+        {
+          "word_form": "epileptisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$pI$\"lEp$tI$sk",
+              "ipa": "ɛpɪˈlɛptɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "epileptiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$pI$\"lEp$tI$sk@",
+              "ipa": "ɛpɪˈlɛptɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f99609c9262f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f99609c9262f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f99609c9262f.mp3",
+            "text": "epileptisk",
+            "source": "generated",
+            "content_sha256": "e318d2b9d8e59ebc1083e13964b4c27419f5c29af6463c26ffe0e8ecf541d1c3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller skyldes epilepsi",
+      "translation": "relating to or caused by epilepsy",
+      "examples": [
+        {
+          "no": "epileptiske anfall",
+          "en": "epileptic seizures"
+        },
+        {
+          "no": "epileptiske kramper",
+          "en": "epileptic convulsions"
+        }
+      ]
+    }
+  ]
+}

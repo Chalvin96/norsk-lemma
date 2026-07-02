@@ -1,0 +1,103 @@
+{
+  "source_article_id": 54906,
+  "lemmas": [
+    {
+      "lemma": "smørefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 83295,
+      "is_sub_article": false,
+      "primary_translation": "maintenance-free",
+      "word_forms": [
+        {
+          "word_form": "smørefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm2:$r@$%fri:",
+              "ipa": "ˈsmøːrəˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "smørefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm2:$r@$%fri:$@",
+              "ipa": "ˈsmøːrəˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "smørefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm2:$r@$%frIt",
+              "ipa": "ˈsmøːrəˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e18f34b32e1b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e18f34b32e1b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e18f34b32e1b.mp3",
+            "text": "smørefri",
+            "source": "generated",
+            "content_sha256": "697af908847e6bd23bfe5bdc1a539c321a0e4a706ca22f30d7d02f79c6f94dcc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke trenger smøring",
+      "translation": "that does not require lubrication",
+      "examples": [
+        {
+          "no": "smørefrie ski",
+          "en": "waxless skis"
+        }
+      ]
+    }
+  ]
+}

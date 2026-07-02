@@ -1,0 +1,130 @@
+{
+  "source_article_id": 52404,
+  "lemmas": [
+    {
+      "lemma": "skai",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 60444,
+      "is_sub_article": false,
+      "primary_translation": "imitation leather",
+      "word_forms": [
+        {
+          "word_form": "skai",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skA*I",
+              "ipa": "ˈskɑ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skaien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skA*I$@n",
+              "ipa": "ˈskɑ͡ɪən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skaier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈɑ͡ɪər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skaiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈɑ͡ɪənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c47997ab9878.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c47997ab9878.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c47997ab9878.mp3",
+            "text": "skai",
+            "source": "generated",
+            "content_sha256": "8db32151b85ddd6ec9d70e216d8f0c36e795ab33dd0b120f3251bd4c6c4aa810",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "en type imitert skinn",
+      "translation": "a type of imitation leather",
+      "examples": [
+        {
+          "no": "en veske i skai",
+          "en": "a bag made of skai"
+        },
+        {
+          "no": "sofaen var i skai",
+          "en": "the sofa was upholstered in skai"
+        }
+      ]
+    }
+  ]
+}

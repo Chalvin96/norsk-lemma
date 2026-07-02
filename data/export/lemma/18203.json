@@ -1,0 +1,121 @@
+{
+  "source_article_id": 18203,
+  "lemmas": [
+    {
+      "lemma": "frossenfisk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 21302,
+      "is_sub_article": false,
+      "primary_translation": "frozen fish",
+      "word_forms": [
+        {
+          "word_form": "frossenfisk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frO$sn=$%fI$sk",
+              "ipa": "ˈfrɔsn̩ˌfɪsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "frossenfisken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frO$sn=$%fI$sk@n",
+              "ipa": "ˈfrɔsn̩ˌfɪskən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "frossenfisker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɔsn̩fˌɪskər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "frossenfiskene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɔsn̩fˌɪskənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "57a6cb3b83f9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57a6cb3b83f9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57a6cb3b83f9.mp3",
+            "text": "frossenfisk",
+            "source": "generated",
+            "content_sha256": "f730e7f79e760fa9944d311617d2f6ec498009cc04557e81ae874a986a9d9075",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dypfryst fisk",
+      "translation": "deep-frozen fish",
+      "examples": []
+    }
+  ]
+}

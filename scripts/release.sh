@@ -64,7 +64,7 @@ trap 'rm -rf "$stage"' EXIT
 # Main import bundle: README + lemma/ + audio/lemma/ (manifest lives outside lemma/, so excluded).
 echo "Building $(basename "$main_archive") ..."
 cp README.md "$stage/"
-cp -r data/lemma "$stage/lemma"
+cp -r data/export/lemma "$stage/lemma"
 mkdir -p "$stage/audio"
 cp -r data/audio/lemma "$stage/audio/lemma"
 tar -czf "$main_archive" -C "$stage" .

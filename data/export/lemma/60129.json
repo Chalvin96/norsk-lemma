@@ -1,0 +1,103 @@
+{
+  "source_article_id": 60129,
+  "lemmas": [
+    {
+      "lemma": "tekstuell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68791,
+      "is_sub_article": false,
+      "primary_translation": "textual",
+      "word_forms": [
+        {
+          "word_form": "tekstuell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@k$stu0$\"El",
+              "ipa": "təkstʉˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tekstuelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@k$stu0$\"E$l@",
+              "ipa": "təkstʉˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tekstuelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@k$stu0$\"Elt",
+              "ipa": "təkstʉˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "47ae1b34cf12.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/47ae1b34cf12.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/47ae1b34cf12.mp3",
+            "text": "tekstuell",
+            "source": "generated",
+            "content_sha256": "0b6345744b456d88bbf1552d6d8f55039bec14249c017aa05ad7f95777f89682",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder en tekst",
+      "translation": "concerning a text",
+      "examples": [
+        {
+          "no": "bildene viser hvordan følelser uttrykker seg visuelt og tekstuelt",
+          "en": "the pictures show how emotions are expressed visually and textually"
+        }
+      ]
+    }
+  ]
+}

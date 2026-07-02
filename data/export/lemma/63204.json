@@ -1,0 +1,94 @@
+{
+  "source_article_id": 63204,
+  "lemmas": [
+    {
+      "lemma": "tykkes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 72304,
+      "is_sub_article": false,
+      "primary_translation": "seem / appear",
+      "word_forms": [
+        {
+          "word_form": "tykkes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tY$k@s",
+              "ipa": "ˈtʏkəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tyktes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tYk$t@s",
+              "ipa": "ˈtʏktəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8b28620bc0b0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8b28620bc0b0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8b28620bc0b0.mp3",
+            "text": "tykkes",
+            "source": "generated",
+            "content_sha256": "9dbcb3f68076bf806c0ccb95b636d0e035848a9d03b289b7394769b287e39ac4",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "foreldet: synes",
+      "translation": "seem",
+      "examples": []
+    },
+    {
+      "text": "framstå (på en bestemt måte)",
+      "translation": "appear (in a certain way)",
+      "examples": [
+        {
+          "no": "det tykkes meg så underlig",
+          "en": "it seems so strange to me"
+        },
+        {
+          "no": "jenta tyktes stor for alderen",
+          "en": "the girl seemed big for her age"
+        }
+      ]
+    }
+  ]
+}

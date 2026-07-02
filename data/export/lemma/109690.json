@@ -1,0 +1,90 @@
+{
+  "source_article_id": 109690,
+  "lemmas": [
+    {
+      "lemma": "berglendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 162404,
+      "is_sub_article": false,
+      "primary_translation": "rocky",
+      "word_forms": [
+        {
+          "word_form": "berglendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈærglˌɛnt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "berglendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈærglˌɛntə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2947c76b33c0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2947c76b33c0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2947c76b33c0.mp3",
+            "text": "berglendt",
+            "source": "generated",
+            "content_sha256": "0a7fa289b0b1201bfab313a1a999ffbbf9a6c75b51b7bdd9ec587b3a6bc347a1"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fullt av berg",
+      "translation": "full of rocks",
+      "examples": [
+        {
+          "no": "øya er berglendt",
+          "en": "the island is rocky"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "source_article_id": 64223,
+  "lemmas": [
+    {
+      "lemma": "umorsom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73559,
+      "is_sub_article": false,
+      "primary_translation": "unfunny",
+      "word_forms": [
+        {
+          "word_form": "umorsom",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%mU$s`Om",
+              "ipa": "ˈʉːˌmʊʂɔm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "umorsomme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%mU$s`O$m@",
+              "ipa": "ˈʉːˌmʊʂɔmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "umorsomt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%mU$s`Omt",
+              "ipa": "ˈʉːˌmʊʂɔmt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "07b26bab84ac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07b26bab84ac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07b26bab84ac.mp3",
+            "text": "umorsom",
+            "source": "generated",
+            "content_sha256": "58c543ae34cdb501eb261684e0ea21bdd8876dfc46926b225859996e2d0f3a03",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke lykkes med å være morsom",
+      "translation": "not succeeding in being funny",
+      "examples": [
+        {
+          "no": "filmen var masete og umorsom",
+          "en": "the film was noisy and unfunny"
+        },
+        {
+          "no": "en umorsom replikk",
+          "en": "an unfunny remark"
+        }
+      ]
+    }
+  ]
+}

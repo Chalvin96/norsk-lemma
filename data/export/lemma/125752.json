@@ -1,0 +1,87 @@
+{
+  "source_article_id": 125752,
+  "lemmas": [
+    {
+      "lemma": "påtent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 130417,
+      "is_sub_article": false,
+      "primary_translation": "set on fire",
+      "word_forms": [
+        {
+          "word_form": "påtent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%tEnt",
+              "ipa": "ˈpoːˌtɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "påtente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%tEn$t@",
+              "ipa": "ˈpoːˌtɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "14355a7afd3f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/14355a7afd3f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/14355a7afd3f.mp3",
+            "text": "påtent",
+            "source": "generated",
+            "content_sha256": "05885b1ad8c321c9a4ab624fa54142e67e8d7afc358976130ab03fa476a75144",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er satt fyr på",
+      "translation": "that has been set on fire",
+      "examples": [
+        {
+          "no": "det har vært flere påtente branner i nabolaget",
+          "en": "there have been several deliberately set fires in the neighborhood"
+        }
+      ]
+    }
+  ]
+}

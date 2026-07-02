@@ -1,0 +1,103 @@
+{
+  "source_article_id": 37544,
+  "lemmas": [
+    {
+      "lemma": "medikamentell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 44006,
+      "is_sub_article": false,
+      "primary_translation": "medicinal",
+      "word_forms": [
+        {
+          "word_form": "medikamentell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$dI$kA$m@n$\"tEl",
+              "ipa": "mədɪkɑmənˈtɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "medikamentelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$dI$kA$m@n$\"tE$l@",
+              "ipa": "mədɪkɑmənˈtɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "medikamentelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "m@$dI$kA$m@n$\"tElt",
+              "ipa": "mədɪkɑmənˈtɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5fc2ac4d5c27.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5fc2ac4d5c27.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5fc2ac4d5c27.mp3",
+            "text": "medikamentell",
+            "source": "generated",
+            "content_sha256": "fb30f41b13f7883fa147ad813799fa4bc174fe2a38689ecaa714386bb061022f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som foregår ved hjelp av medikamenter",
+      "translation": "taking place with the help of medication",
+      "examples": [
+        {
+          "no": "medikamentell behandling",
+          "en": "drug treatment"
+        }
+      ]
+    }
+  ]
+}

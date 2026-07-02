@@ -1,0 +1,100 @@
+{
+  "source_article_id": 44793,
+  "lemmas": [
+    {
+      "lemma": "pertentlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51757,
+      "is_sub_article": false,
+      "primary_translation": "fussy / meticulous",
+      "word_forms": [
+        {
+          "word_form": "pertentlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$\"t`Ent$lI",
+              "ipa": "pəˈʈɛntlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pertentlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$\"t`Ent$lI$@",
+              "ipa": "pəˈʈɛntlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1ff2cfcbe51c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1ff2cfcbe51c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1ff2cfcbe51c.mp3",
+            "text": "pertentlig",
+            "source": "generated",
+            "content_sha256": "cc52db3d5b8159286afc3b466c2463dc28a1b98ed0d46bb73d4e1c39974ac5e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tilgjort fin",
+      "translation": "affectedly neat",
+      "examples": []
+    },
+    {
+      "text": "svært korrekt",
+      "translation": "very correct",
+      "examples": [
+        {
+          "no": "hun er svært pertentlig med arbeidet sitt",
+          "en": "she is very meticulous in her work"
+        },
+        {
+          "no": "han har pertentlig orden i klesskapet",
+          "en": "he keeps his closet in meticulous order"
+        },
+        {
+          "no": "en pertentlig frisyre",
+          "en": "an immaculate hairstyle"
+        }
+      ]
+    }
+  ]
+}

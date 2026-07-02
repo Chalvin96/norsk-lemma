@@ -1,0 +1,92 @@
+{
+  "source_article_id": 67120,
+  "lemmas": [
+    {
+      "lemma": "vegetabilsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77358,
+      "is_sub_article": false,
+      "primary_translation": "vegetable",
+      "word_forms": [
+        {
+          "word_form": "vegetabilsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "v@$g@$tA$\"bi:lsk",
+              "ipa": "vəgətɑˈbɪːlsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vegetabilske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "v@$g@$tA$\"bi:l$sk@",
+              "ipa": "vəgətɑˈbɪːlskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6da507120894.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6da507120894.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6da507120894.mp3",
+            "text": "vegetabilsk",
+            "source": "generated",
+            "content_sha256": "87c54254622b862bfe971f18e2895c82f5c312613d5bedfdf3cde71553b100b4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til, stammer fra planteriket",
+      "translation": "belonging to or originating from the plant kingdom",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra animalsk og mineralsk",
+      "translation": "vegetable and mineral",
+      "examples": [
+        {
+          "no": "vegetabilske råstoffer",
+          "en": "vegetable raw materials"
+        }
+      ]
+    }
+  ]
+}

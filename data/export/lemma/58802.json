@@ -1,0 +1,139 @@
+{
+  "source_article_id": 58802,
+  "lemmas": [
+    {
+      "lemma": "svip",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 67288,
+      "is_sub_article": false,
+      "primary_translation": "trait / touch",
+      "word_forms": [
+        {
+          "word_form": "svip",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"svi:p",
+              "ipa": "ˈsvɪːp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "svipen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"svi:$p@n",
+              "ipa": "ˈsvɪːpən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sviper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʋˈiːpər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "svipene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʋˈiːpənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c7710be8616d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c7710be8616d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c7710be8616d.mp3",
+            "text": "svip",
+            "source": "generated",
+            "content_sha256": "a64ccb39caab92020eaef016790a9a58b400122f85306f3f28ad680cd1c7f1da",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "framtredende form, utseende, egenart eller karakter",
+      "translation": "prominent form, appearance, peculiarity or character",
+      "examples": []
+    },
+    {
+      "text": "preg, drag",
+      "translation": "trait, touch",
+      "examples": [
+        {
+          "no": "sønnen har en svip av faren",
+          "en": "the son bears a resemblance to his father"
+        },
+        {
+          "no": "språket hans har en svip av trøndersk",
+          "en": "his language has a touch of Trondelag dialect"
+        },
+        {
+          "no": "maleriene hans har en karakteristisk svip",
+          "en": "his paintings have a distinctive touch"
+        }
+      ]
+    }
+  ]
+}

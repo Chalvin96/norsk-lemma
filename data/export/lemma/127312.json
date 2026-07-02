@@ -1,0 +1,146 @@
+{
+  "source_article_id": 127312,
+  "lemmas": [
+    {
+      "lemma": "sangtekst",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2044546,
+      "is_sub_article": false,
+      "primary_translation": "song lyrics",
+      "word_forms": [
+        {
+          "word_form": "sangtekst",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAN$%tEkst",
+              "ipa": "ˈsɑŋˌtɛkst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sangteksten",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAN$%tEk$stn=",
+              "ipa": "ˈsɑŋˌtɛkstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sangtekster",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAN$%tEk$st@r",
+              "ipa": "ˈsɑŋˌtɛkstər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sangtekstene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAN$%tEk$stn=$@",
+              "ipa": "ˈsɑŋˌtɛkstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sangteksta",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑŋtˌɛkstɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c5e9ac2c6cd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c5e9ac2c6cd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c5e9ac2c6cd.mp3",
+            "text": "sangtekst",
+            "source": "generated",
+            "content_sha256": "1702bcb64a924ae8cd2ff944ecf48c79dcdbf20565cb4afdbda35d04f1c66bf1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tekst i sang",
+      "translation": "text in a song",
+      "examples": [
+        {
+          "no": "hefter med sangtekster og noter",
+          "en": "booklets with song lyrics and sheet music"
+        }
+      ]
+    }
+  ]
+}

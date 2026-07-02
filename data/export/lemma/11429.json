@@ -1,0 +1,107 @@
+{
+  "source_article_id": 11429,
+  "lemmas": [
+    {
+      "lemma": "dysfunksjonell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13330,
+      "is_sub_article": false,
+      "primary_translation": "dysfunctional",
+      "word_forms": [
+        {
+          "word_form": "dysfunksjonell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dYs$fu0N$SU$%nEl",
+              "ipa": "ˈdʏsfʉŋʃʊˌnɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dysfunksjonelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dYs$fu0N$SU$%nE$l@",
+              "ipa": "ˈdʏsfʉŋʃʊˌnɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dysfunksjonelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dYs$fu0N$SU$%nElt",
+              "ipa": "ˈdʏsfʉŋʃʊˌnɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c7e405d41b19.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c7e405d41b19.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c7e405d41b19.mp3",
+            "text": "dysfunksjonell",
+            "source": "generated",
+            "content_sha256": "a6eecce1c75b659f75d5751843166cafa19deaba2cbd1e965c902ebc4dc59b60",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fungere dårlig eller unormalt",
+      "translation": "functioning poorly, abnormally",
+      "examples": [
+        {
+          "no": "en dysfunksjonell familie",
+          "en": "a dysfunctional family"
+        },
+        {
+          "no": "et dysfunksjonelt samfunn",
+          "en": "a dysfunctional society"
+        }
+      ]
+    }
+  ]
+}

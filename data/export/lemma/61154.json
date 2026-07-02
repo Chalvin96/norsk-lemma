@@ -1,0 +1,106 @@
+{
+  "source_article_id": 61154,
+  "lemmas": [
+    {
+      "lemma": "titulær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 69935,
+      "is_sub_article": false,
+      "primary_translation": "titular / honorary",
+      "word_forms": [
+        {
+          "word_form": "titulær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tI$tu0$\"l{:r",
+              "ipa": "tɪtʉˈlæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "titulære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tI$tu0$\"l{:$r@",
+              "ipa": "tɪtʉˈlæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "titulært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tI$tu0$\"l{:t`",
+              "ipa": "tɪtʉˈlæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "194d388e7c24.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/194d388e7c24.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/194d388e7c24.mp3",
+            "text": "titulær",
+            "source": "generated",
+            "content_sha256": "914853592bbb3a7c0d9f95131188f9780f50aa4656af6726c9da063c243b77d6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som innehar tittelen, men ikke det embetet som tittelen er knyttet til",
+      "translation": "holding the title, but not the office to which the title is attached",
+      "examples": [
+        {
+          "no": "titulær biskop",
+          "en": "titular bishop"
+        }
+      ]
+    }
+  ]
+}

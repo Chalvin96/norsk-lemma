@@ -1,0 +1,126 @@
+{
+  "source_article_id": 28450,
+  "lemmas": [
+    {
+      "lemma": "kammertone",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 33677,
+      "is_sub_article": false,
+      "primary_translation": "concert pitch / middle C",
+      "word_forms": [
+        {
+          "word_form": "kammertone",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$m@r$%tu:$n@",
+              "ipa": "ˈkɑmərˌtuːnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kammertonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$m@r$%tu:$nn=",
+              "ipa": "ˈkɑmərˌtuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kammertoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑmərtˌuːnər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kammertonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑmərtˌuːnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d504b7485318.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d504b7485318.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d504b7485318.mp3",
+            "text": "kammertone",
+            "source": "generated",
+            "content_sha256": "555712ff0e4fd273903a7eb1bfbd61530ebf74cfc3b957c4063c3d8d0a96b482",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "normaltone med 440 dobbeltsvingninger i minuttet som musikkinstrumenter stemmes etter",
+      "translation": "standard pitch with 440 vibrations per minute used for tuning musical instruments",
+      "examples": []
+    },
+    {
+      "text": "enstrøken a",
+      "translation": "middle C",
+      "examples": []
+    }
+  ]
+}

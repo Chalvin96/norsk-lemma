@@ -1,0 +1,90 @@
+{
+  "source_article_id": 127835,
+  "lemmas": [
+    {
+      "lemma": "grindbygd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2871455,
+      "is_sub_article": false,
+      "primary_translation": "timber-framed",
+      "word_forms": [
+        {
+          "word_form": "grindbygd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈɪnbˌʏgd",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "grindbygde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈɪnbˌʏgdə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f2bb73ee3711.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f2bb73ee3711.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f2bb73ee3711.mp3",
+            "text": "grindbygd",
+            "source": "generated",
+            "content_sha256": "7f83adb8a92bf14e3796555762e17a0bd5b1289ca4705e8fcaac4833e876ce39"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er bygd i grindverk",
+      "translation": "built in a timber frame structure",
+      "examples": [
+        {
+          "no": "grindbygde uthus",
+          "en": "post-and-beam outbuildings"
+        }
+      ]
+    }
+  ]
+}

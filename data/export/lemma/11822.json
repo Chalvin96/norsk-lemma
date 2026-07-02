@@ -1,0 +1,126 @@
+{
+  "source_article_id": 11822,
+  "lemmas": [
+    {
+      "lemma": "eiendel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 13805,
+      "is_sub_article": false,
+      "primary_translation": "possession",
+      "word_forms": [
+        {
+          "word_form": "eiendel",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"{*I$@n$%de:l",
+              "ipa": "ˈæ͡ɪənˌdeːl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eiendelen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"{*I$@n$%de:$ln=",
+              "ipa": "ˈæ͡ɪənˌdeːln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eiendeler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"{*I$@n$%de:$l@r",
+              "ipa": "ˈæ͡ɪənˌdeːlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eiendelene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"{*I$@n$%de:$ln=$@",
+              "ipa": "ˈæ͡ɪənˌdeːln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "346b49650ef3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/346b49650ef3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/346b49650ef3.mp3",
+            "text": "eiendel",
+            "source": "generated",
+            "content_sha256": "e9e11343035fd1410a5dfa7fdf08d8ec22902679b52cb2ffabf3f6c68ecd9d30",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ting som en eier",
+      "translation": "thing that one owns",
+      "examples": [
+        {
+          "no": "private eiendeler",
+          "en": "private property"
+        },
+        {
+          "no": "debetsiden i en balanse viser bedriftens eiendeler",
+          "en": "the debit side of a balance sheet shows the company's assets"
+        }
+      ]
+    }
+  ]
+}

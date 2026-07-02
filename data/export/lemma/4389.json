@@ -1,0 +1,127 @@
+{
+  "source_article_id": 4389,
+  "lemmas": [
+    {
+      "lemma": "bankaksept",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5191,
+      "is_sub_article": false,
+      "primary_translation": "bank acceptance / payment network",
+      "word_forms": [
+        {
+          "word_form": "bankaksept",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kAk$%sEpt",
+              "ipa": "ˈbɑŋkɑkˌsɛpt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bankaksepten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kAk$%sEp$tn=",
+              "ipa": "ˈbɑŋkɑkˌsɛptn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bankaksepter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kAk$%sEp$t@r",
+              "ipa": "ˈbɑŋkɑkˌsɛptər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bankakseptene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$kAk$%sEp$tn=$@",
+              "ipa": "ˈbɑŋkɑkˌsɛptn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d76ace878311.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d76ace878311.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d76ace878311.mp3",
+            "text": "bankaksept",
+            "source": "generated",
+            "content_sha256": "9ab28fb8f9c6335a20c644604f0ef18e4fc5db590a00b610104f24a5da686276",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "veksel akseptert av bank",
+      "translation": "bill accepted by a bank",
+      "examples": []
+    },
+    {
+      "text": "åpent betalingsnettverk som binder sammen betalingsterminalene og bankkort, slik at en kan betale med bankkort i butikker og lignende",
+      "translation": "open payment network connecting payment terminals and bank cards, allowing payment with bank cards in stores",
+      "examples": [
+        {
+          "no": "kredittkort med bankaksept",
+          "en": "credit card with BankAxept"
+        }
+      ]
+    }
+  ]
+}

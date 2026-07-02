@@ -1,0 +1,130 @@
+{
+  "source_article_id": 68575,
+  "lemmas": [
+    {
+      "lemma": "vinsj",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 79175,
+      "is_sub_article": false,
+      "primary_translation": "winch",
+      "word_forms": [
+        {
+          "word_form": "vinsj",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vInS",
+              "ipa": "ˈvɪnʃ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vinsjen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vIn$Sn=",
+              "ipa": "ˈvɪnʃn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vinsjer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$S@r",
+              "ipa": "ˈvɪnʃər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vinsjene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$Sn=$@",
+              "ipa": "ˈvɪnʃn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0bde10efc6fb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0bde10efc6fb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0bde10efc6fb.mp3",
+            "text": "vinsj",
+            "source": "generated",
+            "content_sha256": "cddcca785e3d7a4781369d14ec446825e623e03e8e2f99edbe67b3fec1dc101a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innretning til å heise eller hale noe med",
+      "translation": "device for hoisting or pulling something",
+      "examples": [
+        {
+          "no": "en hydraulisk vinsj",
+          "en": "a hydraulic winch"
+        },
+        {
+          "no": "elektriske vinsjer",
+          "en": "electric winches"
+        },
+        {
+          "no": "få bilen opp av grøfta ved hjelp av traktor og vinsj",
+          "en": "get the car out of the ditch with the help of a tractor and winch"
+        }
+      ]
+    }
+  ]
+}

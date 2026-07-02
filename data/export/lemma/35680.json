@@ -1,0 +1,142 @@
+{
+  "source_article_id": 35680,
+  "lemmas": [
+    {
+      "lemma": "lokal",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 41463,
+      "is_sub_article": false,
+      "primary_translation": "local / native",
+      "word_forms": [
+        {
+          "word_form": "lokal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:l",
+              "ipa": "lʊˈkɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:$l@",
+              "ipa": "lʊˈkɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$\"kA:lt",
+              "ipa": "lʊˈkɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "40956dce314e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40956dce314e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40956dce314e.mp3",
+            "text": "lokal",
+            "source": "generated",
+            "content_sha256": "5fda38fbd8babd61400341bbcd6fd448e25d9cbb23b9eaa62f57d4cf6bc6353d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder et avgrenset område eller sted",
+      "translation": "concerning a limited area or place",
+      "examples": [
+        {
+          "no": "lokale regnbyger",
+          "en": "local rain showers"
+        },
+        {
+          "no": "de lokale myndighetene",
+          "en": "the local authorities"
+        },
+        {
+          "no": "på lokalt plan",
+          "en": "at the local level"
+        },
+        {
+          "no": "klokka 20 lokal tid",
+          "en": "8 p.m. local time"
+        }
+      ]
+    },
+    {
+      "text": "som er karakteristisk for et sted",
+      "translation": "characteristic of a place",
+      "examples": [
+        {
+          "no": "den lokale kulturen",
+          "en": "the local culture"
+        },
+        {
+          "no": "lokale skikker",
+          "en": "local customs"
+        }
+      ]
+    },
+    {
+      "text": "brukt som substantiv: person som hører hjemme på et sted",
+      "translation": "used as a noun: person who belongs to a place",
+      "examples": [
+        {
+          "no": "det var konflikter mellom soldatene og de lokale",
+          "en": "there were conflicts between the soldiers and the locals"
+        }
+      ]
+    }
+  ]
+}

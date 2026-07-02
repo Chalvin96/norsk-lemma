@@ -1,0 +1,92 @@
+{
+  "source_article_id": 120366,
+  "lemmas": [
+    {
+      "lemma": "kontoransatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 115888,
+      "is_sub_article": false,
+      "primary_translation": "office employee",
+      "word_forms": [
+        {
+          "word_form": "kontoransatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kuntˈuːrɑnsˌɑt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kontoransatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"tu:$rAn$%sA$t@",
+              "ipa": "kʊnˈtuːrɑnˌsɑtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e918785f4265.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e918785f4265.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e918785f4265.mp3",
+            "text": "kontoransatt",
+            "source": "generated",
+            "content_sha256": "895aa57d4f9225b18419279c543e49d065b726fd73cae6b7529d64a600770030"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ansatt på et kontor",
+      "translation": "employed at an office",
+      "examples": [
+        {
+          "no": "den kontoransatte kvinnen",
+          "en": "the woman office employee"
+        },
+        {
+          "no": "de kontoransatte i kommunen",
+          "en": "the office employees in the municipality"
+        }
+      ]
+    }
+  ]
+}

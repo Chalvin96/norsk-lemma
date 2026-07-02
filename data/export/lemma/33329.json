@@ -1,0 +1,101 @@
+{
+  "source_article_id": 33329,
+  "lemmas": [
+    {
+      "lemma": "kWh",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 33315,
+      "is_sub_article": false,
+      "primary_translation": "kilowatt-hour symbol",
+      "word_forms": [
+        {
+          "word_form": "kWh",
+          "tags_json": [
+            "SYM"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ci:$lU$vA$%ti:$m@",
+              "ipa": "ˈçɪːlʊvɑˌtɪːmə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a46e88282878.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a46e88282878.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a46e88282878.mp3",
+            "text": "kWh",
+            "source": "generated",
+            "content_sha256": "047c3fd8c22ebeab34feeb36921ff7c970bc0377b5d40cc46db23c0f24e28e7f",
+            "tone": 1
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "kWt",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 164324,
+      "is_sub_article": false,
+      "primary_translation": "kilowatt-hour symbol",
+      "word_forms": [
+        {
+          "word_form": "kWt",
+          "tags_json": [
+            "SYM"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋt",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dc0103753e8c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc0103753e8c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc0103753e8c.mp3",
+            "text": "kWt",
+            "source": "generated",
+            "content_sha256": "c2f879d9c97daa5ae3ff22e78d146a2c4967c638307fc4d328bedc47db31bef8"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "symbol for kilowattime kilowatt-time",
+      "translation": "symbol for kilowatt-hour",
+      "examples": []
+    }
+  ]
+}

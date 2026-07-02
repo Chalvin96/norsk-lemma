@@ -1,0 +1,108 @@
+{
+  "source_article_id": 119759,
+  "lemmas": [
+    {
+      "lemma": "koffeinfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 114655,
+      "is_sub_article": false,
+      "primary_translation": "decaffeinated",
+      "word_forms": [
+        {
+          "word_form": "koffeinfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɔfəˈiːnfrˌiː",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "koffeinfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɔfəˈiːnfrˌiːə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "koffeinfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɔfəˈiːnfrˌɪt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "48086091126a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48086091126a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48086091126a.mp3",
+            "text": "koffeinfri",
+            "source": "generated",
+            "content_sha256": "1868cd5214346a34447883546c4b0d904d08f90063cd37524e1af08ec394170a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten koffein",
+      "translation": "without caffeine",
+      "examples": [
+        {
+          "no": "koffeinfri kaffe",
+          "en": "decaffeinated coffee"
+        }
+      ]
+    }
+  ]
+}

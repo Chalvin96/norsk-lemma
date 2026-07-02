@@ -1,0 +1,106 @@
+{
+  "source_article_id": 864,
+  "lemmas": [
+    {
+      "lemma": "allel",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 1710,
+      "is_sub_article": false,
+      "primary_translation": "allelic",
+      "word_forms": [
+        {
+          "word_form": "allel",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"le:l",
+              "ipa": "ɑˈleːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "allele",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"le:$l@",
+              "ipa": "ɑˈleːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "allelt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"le:lt",
+              "ipa": "ɑˈleːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "11987ad60c4e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11987ad60c4e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/11987ad60c4e.mp3",
+            "text": "allel",
+            "source": "generated",
+            "content_sha256": "7608d13f857dd3eee98a9cba411f13c6047bf3cfbedbbdc38583240bf9edc538",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er allel",
+      "translation": "being an allele",
+      "examples": [
+        {
+          "no": "allele gener",
+          "en": "allelic genes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "source_article_id": 5740,
+  "lemmas": [
+    {
+      "lemma": "bevisst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6730,
+      "is_sub_article": false,
+      "primary_translation": "aware / deliberate / conscious / interested",
+      "word_forms": [
+        {
+          "word_form": "bevisst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"vI$st",
+              "ipa": "bəˈvɪst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bevisste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"vI$st@",
+              "ipa": "bəˈvɪstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c90b97d29e58.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c90b97d29e58.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c90b97d29e58.mp3",
+            "text": "bevisst",
+            "source": "generated",
+            "content_sha256": "b9079c165a29d9eb563d3871aa2da300009fa7b2420aff13661f56573e20c787",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en har klart for seg",
+      "translation": "aware of",
+      "examples": []
+    },
+    {
+      "text": "gjennomtenkt",
+      "translation": "deliberate",
+      "examples": [
+        {
+          "no": "en bevisst tanke",
+          "en": "a deliberate thought"
+        },
+        {
+          "no": "et bevisst valg",
+          "en": "a conscious choice"
+        },
+        {
+          "no": "ha et bevisst forhold til noe",
+          "en": "have a conscious relationship to something"
+        },
+        {
+          "no": "arbeide bevisst mot et mål",
+          "en": "work deliberately toward a goal"
+        }
+      ]
+    },
+    {
+      "text": "ved bevissthet",
+      "translation": "conscious",
+      "examples": [
+        {
+          "no": "pasienten hadde høy feber, men var bevisst",
+          "en": "the patient had a high fever, but was conscious"
+        }
+      ]
+    },
+    {
+      "text": "med interesse for",
+      "translation": "with interest in",
+      "examples": []
+    }
+  ]
+}

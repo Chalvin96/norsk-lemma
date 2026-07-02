@@ -1,0 +1,118 @@
+{
+  "source_article_id": 122784,
+  "lemmas": [
+    {
+      "lemma": "mellomlang",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 122941,
+      "is_sub_article": false,
+      "primary_translation": "medium-length",
+      "word_forms": [
+        {
+          "word_form": "mellomlang",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$lOm$%lAN",
+              "ipa": "ˈmɛlɔmˌlɑŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mellomlange",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$lOm$%lAN$@",
+              "ipa": "ˈmɛlɔmˌlɑŋə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mellomlangt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛlɔmlˌɑŋt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5c29d4785559.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5c29d4785559.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5c29d4785559.mp3",
+            "text": "mellomlang",
+            "source": "generated",
+            "content_sha256": "e887dc4ff3b439cd90bdcb57898b048aea1fc7b4fc53f11fc88b1e6ccc462777",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om fysisk utstrekning: som er mellom kort og lang",
+      "translation": "regarding physical extent: between short and long",
+      "examples": [
+        {
+          "no": "mellomlangt hår",
+          "en": "medium-length hair"
+        }
+      ]
+    },
+    {
+      "text": "om tid: som strekker seg over et middels langt tidsrom",
+      "translation": "regarding time: extending over a medium-long period",
+      "examples": [
+        {
+          "no": "på kort og mellomlang sikt",
+          "en": "in the short to medium term"
+        }
+      ]
+    }
+  ]
+}

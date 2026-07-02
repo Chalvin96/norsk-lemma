@@ -1,0 +1,67 @@
+{
+  "source_article_id": 99596,
+  "lemmas": [
+    {
+      "lemma": "puh",
+      "hgno": 0,
+      "pos": "INTERJ",
+      "source_lemma_id": 53873,
+      "is_sub_article": false,
+      "primary_translation": "exhale sound",
+      "word_forms": [
+        {
+          "word_form": "puh",
+          "tags_json": [
+            "INTJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈʉː",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "87dd7634a070.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87dd7634a070.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87dd7634a070.mp3",
+            "text": "puh",
+            "source": "generated",
+            "content_sha256": "be6350ea64a847d3e7762f36121c851b133e543b66bc9e725cfc6c1dd72acbf9"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt for å gjengi lyden av kraftig utpust fordi en for eksempel er lettet eller utslitt",
+      "translation": "used to reproduce the sound of a heavy exhale because one is relieved or exhausted",
+      "examples": [
+        {
+          "no": "puh, så varmt det er!",
+          "en": "phew, it's so hot!"
+        },
+        {
+          "no": "puh, det gikk heldigvis bra til slutt!",
+          "en": "phew, luckily it worked out in the end!"
+        }
+      ]
+    }
+  ]
+}

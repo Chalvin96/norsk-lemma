@@ -1,0 +1,138 @@
+{
+  "source_article_id": 111226,
+  "lemmas": [
+    {
+      "lemma": "dekningsgrad",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 93616,
+      "is_sub_article": false,
+      "primary_translation": "coverage / contribution margin percentage",
+      "word_forms": [
+        {
+          "word_form": "dekningsgrad",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dE$knIN$%sgrA:d",
+              "ipa": "ˈdɛknɪŋˌsgrɑːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dekningsgraden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dE$knIN$%sgrA:$dn=",
+              "ipa": "ˈdɛknɪŋˌsgrɑːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dekningsgrader",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dE$knIN$%sgrA:$d@r",
+              "ipa": "ˈdɛknɪŋˌsgrɑːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dekningsgradene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɛknɪŋsgrˌɑːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a7414e0012b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a7414e0012b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a7414e0012b.mp3",
+            "text": "dekningsgrad",
+            "source": "generated",
+            "content_sha256": "0acab3523a9f840c60ebff99d3f58bfea9aeec46e39886d78ea6b76e73e1ee3d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utbredelse i en gruppe eller et område",
+      "translation": "distribution in a group or area",
+      "examples": [
+        {
+          "no": "høy dekningsgrad av studentboliger",
+          "en": "high coverage of student housing"
+        },
+        {
+          "no": "dekningsgraden på bredbånd stiger",
+          "en": "broadband coverage is increasing"
+        }
+      ]
+    },
+    {
+      "text": "dekningsbidrag regnet i prosent av omsetning",
+      "translation": "contribution margin calculated as a percentage of turnover",
+      "examples": [
+        {
+          "no": "sette priser med utgangspunkt i dekningsgrad",
+          "en": "set prices based on contribution margin ratio"
+        }
+      ]
+    }
+  ]
+}

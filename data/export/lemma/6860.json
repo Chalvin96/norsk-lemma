@@ -1,0 +1,122 @@
+{
+  "source_article_id": 6860,
+  "lemmas": [
+    {
+      "lemma": "boktittel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 8072,
+      "is_sub_article": false,
+      "primary_translation": "book title",
+      "word_forms": [
+        {
+          "word_form": "boktittel",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:k$%tI$tl=",
+              "ipa": "ˈbuːkˌtɪtl̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "boktittelen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:k$%tI$t@$ln=",
+              "ipa": "ˈbuːkˌtɪtəln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "boktitler",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:k$%tIt$l@r",
+              "ipa": "ˈbuːkˌtɪtlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "boktitlene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bu:k$%tIt$ln=$@",
+              "ipa": "ˈbuːkˌtɪtln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f18e85f7ae02.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f18e85f7ae02.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f18e85f7ae02.mp3",
+            "text": "boktittel",
+            "source": "generated",
+            "content_sha256": "3b4367476159d481a59aa6053b840212cba47fbacb9dd2b45d41554d6cd032b8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tittel på en bok",
+      "translation": "title of a book",
+      "examples": [
+        {
+          "no": "kjenne boktittelen, men ikke forfatteren",
+          "en": "know the title of the book, but not the author"
+        }
+      ]
+    }
+  ]
+}

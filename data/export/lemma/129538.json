@@ -1,0 +1,87 @@
+{
+  "source_article_id": 129538,
+  "lemmas": [
+    {
+      "lemma": "spesialpedagogisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 141763,
+      "is_sub_article": false,
+      "primary_translation": "special educational",
+      "word_forms": [
+        {
+          "word_form": "spesialpedagogisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sp@$sI$\"A:l$p@$dA$%gu:$gI$sk",
+              "ipa": "spəsɪˈɑːlpədɑˌguːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spesialpedagogiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sp@$sI$\"A:l$p@$dA$%gu:$gI$sk@",
+              "ipa": "spəsɪˈɑːlpədɑˌguːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bcdf974f47dd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bcdf974f47dd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bcdf974f47dd.mp3",
+            "text": "spesialpedagogisk",
+            "source": "generated",
+            "content_sha256": "5cd86a8f6a097a4d0616e4d90419c444c1e369236a08d483cad97ff7d6aa41e1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder spesialpedagogikk",
+      "translation": "relating to special education",
+      "examples": [
+        {
+          "no": "spesialpedagogisk kompetansesenter",
+          "en": "special education resource center"
+        }
+      ]
+    }
+  ]
+}

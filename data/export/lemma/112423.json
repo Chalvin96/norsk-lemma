@@ -1,0 +1,132 @@
+{
+  "source_article_id": 112423,
+  "lemmas": [
+    {
+      "lemma": "dødsår",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 93118,
+      "is_sub_article": false,
+      "primary_translation": "year of death",
+      "word_forms": [
+        {
+          "word_form": "dødsår",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈœdsˌoːr",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dødsåret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d9d$%so:$r@",
+              "ipa": "ˈdœdˌsoːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dødsåra",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈœdsˌoːrɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dødsårene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈœdsˌoːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "87ec67b925fb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87ec67b925fb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87ec67b925fb.mp3",
+            "text": "dødsår",
+            "source": "generated",
+            "content_sha256": "8dc964da5844de64cabfb38f8c6236d8c8cf49216b420985a01b4aa591d59ecb"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "år da noen dø",
+      "translation": "year in which someone died",
+      "examples": [
+        {
+          "no": "fødselsår og dødsår",
+          "en": "year of birth and year of death"
+        },
+        {
+          "no": "vi kjenner ikke dødsåret hans",
+          "en": "we do not know his year of death"
+        }
+      ]
+    }
+  ]
+}

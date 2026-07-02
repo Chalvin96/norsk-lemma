@@ -1,0 +1,87 @@
+{
+  "source_article_id": 7749,
+  "lemmas": [
+    {
+      "lemma": "brunlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 9177,
+      "is_sub_article": false,
+      "primary_translation": "somewhat brown",
+      "word_forms": [
+        {
+          "word_form": "brunlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br}:n$lI",
+              "ipa": "ˈbrʉːnlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brunlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br}:n$lI$@",
+              "ipa": "ˈbrʉːnlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "18add22a64aa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18add22a64aa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18add22a64aa.mp3",
+            "text": "brunlig",
+            "source": "generated",
+            "content_sha256": "ad8b9740d3a912a35f859edad455d3f1316c8fbec11a36a1ceaeb56a29aec52e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe brun",
+      "translation": "somewhat brown",
+      "examples": [
+        {
+          "no": "en brunlig farge",
+          "en": "a brownish color"
+        }
+      ]
+    }
+  ]
+}

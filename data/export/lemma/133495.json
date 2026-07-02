@@ -1,0 +1,99 @@
+{
+  "source_article_id": 133495,
+  "lemmas": [
+    {
+      "lemma": "ukameratslig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 149901,
+      "is_sub_article": false,
+      "primary_translation": "unfriendly / unsupportive",
+      "word_forms": [
+        {
+          "word_form": "ukameratslig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːkɑmərˈɑːtslɪ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ukameratslige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːkɑmərˈɑːtslɪə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7ad0315460c7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ad0315460c7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ad0315460c7.mp3",
+            "text": "ukameratslig",
+            "source": "generated",
+            "content_sha256": "e81a0bedaead06b77e401c5f35cd4f936c1fc96aa9a4a9f438b5effa04a7aaf3"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er preget av et kameratslig forhold",
+      "translation": "not characterized by a friendly relationship",
+      "examples": []
+    },
+    {
+      "text": "usolidarisk, ukollegial",
+      "translation": "unsupportive, uncollegial",
+      "examples": [
+        {
+          "no": "ukameratslig opptreden",
+          "en": "unsportsmanlike conduct"
+        },
+        {
+          "no": "det var en ukameratslig tone i partiet",
+          "en": "there was an uncollegial tone in the party"
+        }
+      ]
+    }
+  ]
+}

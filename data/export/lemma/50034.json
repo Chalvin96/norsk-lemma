@@ -1,0 +1,66 @@
+{
+  "source_article_id": 50034,
+  "lemmas": [
+    {
+      "lemma": "samt",
+      "hgno": 1,
+      "pos": "CONJ",
+      "source_lemma_id": 57415,
+      "is_sub_article": false,
+      "primary_translation": "and also",
+      "word_forms": [
+        {
+          "word_form": "samt",
+          "tags_json": [
+            "CCONJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAmt",
+              "ipa": "ˈsɑmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "621bdb09b8b7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/621bdb09b8b7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/621bdb09b8b7.mp3",
+            "text": "samt",
+            "source": "generated",
+            "content_sha256": "68da233678c6e4b3a528e545b64c85976c427c9ec172bed05c0028bff67ce418",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "og dessuten",
+      "translation": "and also",
+      "examples": [
+        {
+          "no": "kjøpe inn korn og kraftfôr samt sukker",
+          "en": "buy grain and feed as well as sugar"
+        },
+        {
+          "no": "han skulle ha en seng samt frokost og kveldsmat",
+          "en": "he was to have a bed as well as breakfast and supper"
+        }
+      ]
+    }
+  ]
+}

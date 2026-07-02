@@ -1,0 +1,106 @@
+{
+  "source_article_id": 40236,
+  "lemmas": [
+    {
+      "lemma": "nattblind",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47099,
+      "is_sub_article": false,
+      "primary_translation": "night-blind",
+      "word_forms": [
+        {
+          "word_form": "nattblind",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nAt$%blIn",
+              "ipa": "ˈnɑtˌblɪn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nattblinde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nAt$%blI$n@",
+              "ipa": "ˈnɑtˌblɪnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nattblindt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nAt$%blInt",
+              "ipa": "ˈnɑtˌblɪnt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1f5f1cba3e3c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f5f1cba3e3c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f5f1cba3e3c.mp3",
+            "text": "nattblind",
+            "source": "generated",
+            "content_sha256": "5e6e11cfb7b32f2eba72aa907bc97d96c8950062d83dd6821aaf765c2c507895",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ser dårlig i mørket",
+      "translation": "seeing poorly in the dark",
+      "examples": [
+        {
+          "no": "mangel på A-vitamin kan gjøre oss nattblinde",
+          "en": "a lack of vitamin A can make us night-blind"
+        }
+      ]
+    }
+  ]
+}

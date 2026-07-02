@@ -1,0 +1,111 @@
+{
+  "source_article_id": 270,
+  "lemmas": [
+    {
+      "lemma": "aerob",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1056,
+      "is_sub_article": false,
+      "primary_translation": "aerobic",
+      "word_forms": [
+        {
+          "word_form": "aerob",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"rOb",
+              "ipa": "ɛˈrɔb",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aerobe",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"rO$b@",
+              "ipa": "ɛˈrɔbə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aerobt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"rOpt",
+              "ipa": "ɛˈrɔpt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8dea16e26ca2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8dea16e26ca2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8dea16e26ca2.mp3",
+            "text": "aerob",
+            "source": "generated",
+            "content_sha256": "1bcefb0b697cf4880c316880ba41420d55ab52c898219800421a2ef8b8088c07",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særlig om mikroorganismer: som lever og vokser (bare) der det fins oksygen",
+      "translation": "concerning microorganisms: living and growing (only) where oxygen is present",
+      "examples": [
+        {
+          "no": "aerobe bakterier",
+          "en": "aerobic bacteria"
+        }
+      ]
+    },
+    {
+      "text": "om prosess: som går for seg under påvirkning av oksygen, med oksygen til stede",
+      "translation": "concerning a process: taking place under the influence of oxygen, with oxygen present",
+      "examples": []
+    }
+  ]
+}

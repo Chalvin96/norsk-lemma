@@ -1,0 +1,110 @@
+{
+  "source_article_id": 27057,
+  "lemmas": [
+    {
+      "lemma": "intravenøs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32161,
+      "is_sub_article": false,
+      "primary_translation": "intravenous",
+      "word_forms": [
+        {
+          "word_form": "intravenøs",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$trA$v@$\"n2:s",
+              "ipa": "ɪntrɑvəˈnøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "intravenøse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$trA$v@$\"n2:$s@",
+              "ipa": "ɪntrɑvəˈnøːsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "intravenøst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$trA$v@$\"n2:$st",
+              "ipa": "ɪntrɑvəˈnøːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1d2e7c361ccc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1d2e7c361ccc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1d2e7c361ccc.mp3",
+            "text": "intravenøs",
+            "source": "generated",
+            "content_sha256": "034dbb925fb6bdf6648c9107b9680f7fd7d0192d6c58577c4968d97509981492",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som sprøytes inn i venene",
+      "translation": "that which is injected into the veins",
+      "examples": [
+        {
+          "no": "få intravenøs næring",
+          "en": "receive intravenous nutrition"
+        },
+        {
+          "no": "pasienten måtte få næring intravenøst",
+          "en": "the patient had to receive nutrition intravenously"
+        }
+      ]
+    }
+  ]
+}

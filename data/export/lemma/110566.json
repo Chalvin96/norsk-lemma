@@ -1,0 +1,132 @@
+{
+  "source_article_id": 110566,
+  "lemmas": [
+    {
+      "lemma": "brennverdi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 91937,
+      "is_sub_article": false,
+      "primary_translation": "calorific value",
+      "word_forms": [
+        {
+          "word_form": "brennverdi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brEn$v@$%d`i:",
+              "ipa": "ˈbrɛnvəˌɖɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "brennverdien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈɛnʋəɖˌiːən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brennverdier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈɛnʋəɖˌiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brennverdiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈɛnʋəɖˌiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8defdf9cc23d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8defdf9cc23d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8defdf9cc23d.mp3",
+            "text": "brennverdi",
+            "source": "generated",
+            "content_sha256": "5bfea41443980308668d00a23e2defd5c51b673066b37606ac953d6b16d27edd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mål for den energien som blir frigitt ved forbrenning av en gitt mengde brensel",
+      "translation": "measure of the energy released by the combustion of a given amount of fuel",
+      "examples": [
+        {
+          "no": "kjøpe ved med høy brennverdi",
+          "en": "buy firewood with a high calorific value"
+        },
+        {
+          "no": "netto brennverdi for fyringsolje",
+          "en": "net calorific value for heating oil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "source_article_id": 43913,
+  "lemmas": [
+    {
+      "lemma": "palatal",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 50861,
+      "is_sub_article": false,
+      "primary_translation": "palatal (speech sound)",
+      "word_forms": [
+        {
+          "word_form": "palatal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$lA$\"tA:l",
+              "ipa": "pɑlɑˈtɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "palatale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$lA$\"tA:$l@",
+              "ipa": "pɑlɑˈtɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "palatalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$lA$\"tA:lt",
+              "ipa": "pɑlɑˈtɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "77cf393e8616.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77cf393e8616.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77cf393e8616.mp3",
+            "text": "palatal",
+            "source": "generated",
+            "content_sha256": "5b9b2cb00eff58ec99df2bb6807927248ee0e1c2435a9375fc9200ec18f264e5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om språlyd: som blir uttalt med tungeryggen mot den fremre delen av ganen (den harde ganen)",
+      "translation": "concerning a speech sound: pronounced with the back of the tongue against the front part of the palate (the hard palate)",
+      "examples": [
+        {
+          "no": "kj-lyden i ‘kjøpe’ og ‘kino’ og j-lyden i ‘gjerde’ og ‘gilde’ er palatal",
+          "en": "the kj sound in ‘kjøpe’ and ‘kino’ and the j sound in ‘gjerde’ and ‘gilde’ is palatal"
+        },
+        {
+          "no": "i skrift blir palatal uttale av ‘mann’ ofte vist som ‘mainn’",
+          "en": "in writing, the palatal pronunciation of ‘mann’ is often shown as ‘mainn’"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_article_id": 25200,
+  "lemmas": [
+    {
+      "lemma": "hørbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30117,
+      "is_sub_article": false,
+      "primary_translation": "audible",
+      "word_forms": [
+        {
+          "word_form": "hørbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:r$%bA:r",
+              "ipa": "ˈhøːrˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hørbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:r$%bA:$r@",
+              "ipa": "ˈhøːrˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hørbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h2:r$%bA:t`",
+              "ipa": "ˈhøːrˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4b3eca987728.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b3eca987728.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b3eca987728.mp3",
+            "text": "hørbar",
+            "source": "generated",
+            "content_sha256": "8bc51f101c0419d96e3f624c5c7ed871944bf3f806e9ce9523277d9efbb55b6e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan høres",
+      "translation": "that can be heard",
+      "examples": [
+        {
+          "no": "en knapt hørbar lyd",
+          "en": "a barely audible sound"
+        }
+      ]
+    }
+  ]
+}

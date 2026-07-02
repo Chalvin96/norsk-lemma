@@ -1,0 +1,77 @@
+{
+  "source_article_id": 27899,
+  "lemmas": [
+    {
+      "lemma": "jourhavende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 33086,
+      "is_sub_article": false,
+      "primary_translation": "on duty",
+      "word_forms": [
+        {
+          "word_form": "jourhavende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Su:r$%hA:$v@$n@",
+              "ipa": "ˈʃuːrˌhɑːvənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f8aeb3c92aec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f8aeb3c92aec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f8aeb3c92aec.mp3",
+            "text": "jourhavende",
+            "source": "generated",
+            "content_sha256": "a9334fd6a228a0ce3577c1f25f80c7cdff29b2b31e8e3814ab50805d0ce298bf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vakthavende, daghavende",
+      "translation": "on duty, day duty",
+      "examples": [
+        {
+          "no": "jourhavende jurist",
+          "en": "duty lawyer"
+        },
+        {
+          "no": "jourhavende meteorolog",
+          "en": "duty meteorologist"
+        },
+        {
+          "no": "kontakte jourhavende",
+          "en": "contact the duty officer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "source_article_id": 131610,
+  "lemmas": [
+    {
+      "lemma": "søvngjengeraktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 135328,
+      "is_sub_article": false,
+      "primary_translation": "sleepwalker-like/absent-minded",
+      "word_forms": [
+        {
+          "word_form": "søvngjengeraktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9vn$j@N$@$%rAk$tI",
+              "ipa": "ˈsœvnjəŋəˌrɑktɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søvngjengeraktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœʋnjəŋərˌɑktɪə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6f1d429c9d70.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6f1d429c9d70.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6f1d429c9d70.mp3",
+            "text": "søvngjengeraktig",
+            "source": "generated",
+            "content_sha256": "db6ac0e244d28fe44458eb01e13b20e5c65d4dc7247e55b3ed8a52a7d1d5e4ca",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sløv på en måte som minner om en søvngjenger",
+      "translation": "lethargic in a way reminiscent of a sleepwalker",
+      "examples": [
+        {
+          "no": "en søvngjengeraktig tilværelse",
+          "en": "a sleepwalker-like existence"
+        },
+        {
+          "no": "de går gjennom livet med søvngjengeraktig sikkerhet",
+          "en": "they go through life with sleepwalker-like confidence"
+        }
+      ]
+    }
+  ]
+}

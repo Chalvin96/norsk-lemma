@@ -1,0 +1,107 @@
+{
+  "source_article_id": 5919,
+  "lemmas": [
+    {
+      "lemma": "bilfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82233,
+      "is_sub_article": false,
+      "primary_translation": "car-free",
+      "word_forms": [
+        {
+          "word_form": "bilfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%fri:",
+              "ipa": "ˈbɪːlˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bilfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%fri:$@",
+              "ipa": "ˈbɪːlˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bilfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%frIt",
+              "ipa": "ˈbɪːlˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f47eb4654fa8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f47eb4654fa8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f47eb4654fa8.mp3",
+            "text": "bilfri",
+            "source": "generated",
+            "content_sha256": "5864cd43058909f26d986b8c322c0c6b7c56adc88aa6ddd7f221470e508b88c9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten biler eller biltrafikk",
+      "translation": "without cars or car traffic",
+      "examples": [
+        {
+          "no": "bilfrie gater",
+          "en": "car-free streets"
+        },
+        {
+          "no": "kjempe for et bilfritt sentrum",
+          "en": "fight for a car-free city center"
+        }
+      ]
+    }
+  ]
+}

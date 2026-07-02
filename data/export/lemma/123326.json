@@ -1,0 +1,122 @@
+{
+  "source_article_id": 123326,
+  "lemmas": [
+    {
+      "lemma": "nødnett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2007237,
+      "is_sub_article": false,
+      "primary_translation": "emergency network",
+      "word_forms": [
+        {
+          "word_form": "nødnett",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"n2:d$%nEt",
+              "ipa": "ˈnøːdˌnɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nødnettet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"n2:d$%nE$t@",
+              "ipa": "ˈnøːdˌnɛtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nødnetta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈøːdnˌɛtɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nødnettene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈøːdnˌɛtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cbbd314348aa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cbbd314348aa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cbbd314348aa.mp3",
+            "text": "nødnett",
+            "source": "generated",
+            "content_sha256": "46b6f4554b328d1efe634398d3ed703b2e3cc2e16737e45764894f8419f785b3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særskilt elektronisk nett til samband for politi, brannvesen, helsetjeneste og andre med ansvar for beredskap",
+      "translation": "special electronic network for communication for police, fire services, health services, and others responsible for emergency preparedness",
+      "examples": []
+    }
+  ]
+}

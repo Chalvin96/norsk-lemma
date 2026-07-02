@@ -1,0 +1,126 @@
+{
+  "source_article_id": 30965,
+  "lemmas": [
+    {
+      "lemma": "kommers",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 36475,
+      "is_sub_article": false,
+      "primary_translation": "trade / commotion / fun",
+      "word_forms": [
+        {
+          "word_form": "kommers",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kO$m@s`",
+              "ipa": "ˈkɔməʂ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kommersen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"m{$s`n`=",
+              "ipa": "kʊˈmæʂɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kommerser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɔmˈæʂər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kommersene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kumˈæʂɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1af07f7598f1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1af07f7598f1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1af07f7598f1.mp3",
+            "text": "kommers",
+            "source": "generated",
+            "content_sha256": "cd7a5c1aa00f2774bf480d52c676f25f923ba70483a08908efe27a28db8c6869",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "eldre betegnelse for handel",
+      "translation": "older term for trade",
+      "examples": [
+        {
+          "no": "holde en fryktelig kommers",
+          "en": "carry on a terrible racket"
+        }
+      ]
+    }
+  ]
+}

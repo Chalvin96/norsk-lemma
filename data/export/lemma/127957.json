@@ -1,0 +1,87 @@
+{
+  "source_article_id": 127957,
+  "lemmas": [
+    {
+      "lemma": "påløpt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 130308,
+      "is_sub_article": false,
+      "primary_translation": "accrued",
+      "word_forms": [
+        {
+          "word_form": "påløpt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%l9pt",
+              "ipa": "ˈpoːˌlœpt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "påløpte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%l9p$t@",
+              "ipa": "ˈpoːˌlœptə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dc6ea6f2febe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc6ea6f2febe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc6ea6f2febe.mp3",
+            "text": "påløpt",
+            "source": "generated",
+            "content_sha256": "2f2107eb8b68526ae1e26a45ba03a2da4c14c98e3d8f22ffef4bae40acec08e2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om utgifter: som er kommet i tillegg",
+      "translation": "regarding expenses: that has been added",
+      "examples": [
+        {
+          "no": "påløpte renter",
+          "en": "accrued interest"
+        }
+      ]
+    }
+  ]
+}

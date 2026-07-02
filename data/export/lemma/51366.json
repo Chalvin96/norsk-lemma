@@ -1,0 +1,185 @@
+{
+  "source_article_id": 51366,
+  "lemmas": [
+    {
+      "lemma": "signal",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 59073,
+      "is_sub_article": false,
+      "primary_translation": "signal",
+      "word_forms": [
+        {
+          "word_form": "signal",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sIN$\"nA:l",
+              "ipa": "sɪŋˈnɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "signalet",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sIN$\"nA:$l@",
+              "ipa": "sɪŋˈnɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "signala",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sIN$\"nA:$lA",
+              "ipa": "sɪŋˈnɑːlɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "signaler",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sIN$\"nA:$l@r",
+              "ipa": "sɪŋˈnɑːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "signalene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sIN$\"nA:$ln=$@",
+              "ipa": "sɪŋˈnɑːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ac2d755985e8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac2d755985e8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac2d755985e8.mp3",
+            "text": "signal",
+            "source": "generated",
+            "content_sha256": "97ee6fe11ac7b07381594fcee8763cde40032f4d064fcf1cc34a1692eb969ed5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fastsatt, avtalt tegn som sendes ved hjelp av lys, lyd, flagg, håndbevegelser eller lignende",
+      "translation": "fixed, agreed sign sent using light, sound, flags, hand gestures",
+      "examples": [
+        {
+          "no": "sende signal",
+          "en": "send a signal"
+        },
+        {
+          "no": "stoppe på signal",
+          "en": "stop at the signal"
+        }
+      ]
+    },
+    {
+      "text": "hendelse eller handling som varsler begynnelsen på noe",
+      "translation": "event or action that signals the beginning of something",
+      "examples": [
+        {
+          "no": "steinspranget er et signal om ustabile steinmasser",
+          "en": "the rockslide is a sign of unstable rock masses"
+        }
+      ]
+    },
+    {
+      "text": "antydning om eller tegn på en bestemt (ny) framgangsmåte eller en bestemt holdning til noe",
+      "translation": "indication or sign of a specific (new) course of action or attitude towards something",
+      "examples": [
+        {
+          "no": "politiske signaler",
+          "en": "political signals"
+        },
+        {
+          "no": "departementet har gitt signaler om reduserte tilskudd",
+          "en": "the ministry has signaled reduced subsidies"
+        }
+      ]
+    },
+    {
+      "text": "karakteristisk atferd som kan tolkes på en bestemt måte",
+      "translation": "characteristic behavior that can be interpreted in a specific way",
+      "examples": [
+        {
+          "no": "skulking er et signal som må tas på alvor",
+          "en": "truancy is a signal that must be taken seriously"
+        }
+      ]
+    },
+    {
+      "text": "i fysikk: variasjon i strøm, radiobølger eller lignende for sende informasjon fra en avsender til en mottaker",
+      "translation": "variation in current, radio waves to send information from a sender to a receiver",
+      "examples": []
+    }
+  ]
+}

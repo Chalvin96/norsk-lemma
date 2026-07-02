@@ -1,0 +1,82 @@
+{
+  "source_article_id": 15224,
+  "lemmas": [
+    {
+      "lemma": "flamsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 17669,
+      "is_sub_article": false,
+      "primary_translation": "Flemish",
+      "word_forms": [
+        {
+          "word_form": "flamsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flAmsk",
+              "ipa": "ˈflɑmsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flamske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flAm$sk@",
+              "ipa": "ˈflɑmskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7b34eb124ae5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b34eb124ae5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b34eb124ae5.mp3",
+            "text": "flamsk",
+            "source": "generated",
+            "content_sha256": "24cda0a50373c43bc5c1d230d935d6abefb68a1899b1738a358d5afad01c5865",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Flandern og flamlender flamlending",
+      "translation": "relating to Flanders and the Flemish people",
+      "examples": []
+    }
+  ]
+}

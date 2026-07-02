@@ -1,0 +1,173 @@
+{
+  "source_article_id": 66063,
+  "lemmas": [
+    {
+      "lemma": "uviss",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75833,
+      "is_sub_article": false,
+      "primary_translation": "uncertain",
+      "word_forms": [
+        {
+          "word_form": "uviss",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%vIs",
+              "ipa": "ˈʉːˌvɪs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uvisse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%vI$s@",
+              "ipa": "ˈʉːˌvɪsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uvisst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%vI$st",
+              "ipa": "ˈʉːˌvɪst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uvissere",
+          "tags_json": [
+            "a1",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːʋˌɪsərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "uvissest",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʉʋˈɪsəst",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "uvisseste",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːʋˌɪsəstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4f1d40e60228.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4f1d40e60228.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4f1d40e60228.mp3",
+            "text": "uviss",
+            "source": "generated",
+            "content_sha256": "43fbe3adbbbde40b2552904f68455c7a09c0a43ef99e5aa03001051d81e30b4c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke sikker, ikke viss",
+      "translation": "not sure, uncertain",
+      "examples": [
+        {
+          "no": "hun ble stående uviss foran døra",
+          "en": "she remained standing uncertainly in front of the door"
+        },
+        {
+          "no": "de gikk sin vei, uvisst av hvilken grunn",
+          "en": "they went away, for some unknown reason"
+        },
+        {
+          "no": "saken var ennå helt på det uvisse",
+          "en": "the matter was still entirely uncertain"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source_article_id": 125560,
+  "lemmas": [
+    {
+      "lemma": "paramedisinsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 160324,
+      "is_sub_article": false,
+      "primary_translation": "paramedic",
+      "word_forms": [
+        {
+          "word_form": "paramedisinsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɑrɑmədɪsˌiːnsk",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "paramedisinske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɑrɑmədɪsˌiːnskə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fa62febd610c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fa62febd610c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fa62febd610c.mp3",
+            "text": "paramedisinsk",
+            "source": "generated",
+            "content_sha256": "85f89d59d8f4a33a85482185d6c4b3c0aa672f18e099943fa2ebf075cb3b0fca"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder paramedisin og paramedisiner",
+      "translation": "relating to paramedicine and paramedics",
+      "examples": [
+        {
+          "no": "paramedisinsk behandling",
+          "en": "paramedical treatment"
+        }
+      ]
+    }
+  ]
+}

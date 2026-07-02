@@ -1,0 +1,95 @@
+{
+  "source_article_id": 5329,
+  "lemmas": [
+    {
+      "lemma": "beredt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6286,
+      "is_sub_article": false,
+      "primary_translation": "prepared",
+      "word_forms": [
+        {
+          "word_form": "beredt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"rEt",
+              "ipa": "bəˈrɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beredte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"rE$t@",
+              "ipa": "bəˈrɛtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "36a58bc2a193.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/36a58bc2a193.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/36a58bc2a193.mp3",
+            "text": "beredt",
+            "source": "generated",
+            "content_sha256": "271d9a752a94b3804145971246d7834ea91cf5a05c8e3f371a927b88a8ee7bc4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forberedt, parat",
+      "translation": "prepared, ready",
+      "examples": [
+        {
+          "no": "være beredt på alt",
+          "en": "be prepared for anything"
+        },
+        {
+          "no": "være beredt på overraskelser",
+          "en": "be prepared for surprises"
+        },
+        {
+          "no": "være beredt på skuffelser",
+          "en": "be prepared for disappointments"
+        }
+      ]
+    }
+  ]
+}

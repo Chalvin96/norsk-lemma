@@ -1,0 +1,133 @@
+{
+  "source_article_id": 112507,
+  "lemmas": [
+    {
+      "lemma": "emneord",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163855,
+      "is_sub_article": false,
+      "primary_translation": "subject heading",
+      "word_forms": [
+        {
+          "word_form": "emneord",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Em$n@$%u:r",
+              "ipa": "ˈɛmnəˌuːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "emneordet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛmnəˌuːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "emneorda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛmnəˌuːrɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "emneordene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛmnəˌuːɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "34d58db6ffbc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/34d58db6ffbc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/34d58db6ffbc.mp3",
+            "text": "emneord",
+            "source": "generated",
+            "content_sha256": "7d746872b4ab0cf1f25096108b5ae2b00f69c0a21c7e82ec6ae24da84ecc92a1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ord som angir et emne eller saksområde, og som brukes i et register eller en oversikt",
+      "translation": "word indicating a subject or area of concern, used in an index or overview",
+      "examples": [
+        {
+          "no": "bibliotekets emneord",
+          "en": "the library's subject headings"
+        },
+        {
+          "no": "en oversikt med flere hundre emneord",
+          "en": "an overview with several hundred subject headings"
+        }
+      ]
+    }
+  ]
+}

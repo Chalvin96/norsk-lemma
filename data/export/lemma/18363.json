@@ -1,0 +1,119 @@
+{
+  "source_article_id": 18363,
+  "lemmas": [
+    {
+      "lemma": "fullgod",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 21478,
+      "is_sub_article": false,
+      "primary_translation": "good enough",
+      "word_forms": [
+        {
+          "word_form": "fullgod",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu0l$%gu:",
+              "ipa": "ˈfʉlˌguː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fullgode",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu0l$%gu:$@",
+              "ipa": "ˈfʉlˌguːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fullgodt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu0l$%gUt",
+              "ipa": "ˈfʉlˌgʊt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0cc4fdbf6b7e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0cc4fdbf6b7e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0cc4fdbf6b7e.mp3",
+            "text": "fullgod",
+            "source": "generated",
+            "content_sha256": "80685eff0f55bfd756a90154fba198dd71ff7a12f468e0f0a2a390265240f5a7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt god",
+      "translation": "completely good",
+      "examples": []
+    },
+    {
+      "text": "god nok",
+      "translation": "good enough",
+      "examples": [
+        {
+          "no": "et fullgodt bevis",
+          "en": "conclusive evidence"
+        },
+        {
+          "no": "et fullgodt svar",
+          "en": "a satisfactory answer"
+        },
+        {
+          "no": "en fullgod løsning",
+          "en": "a satisfactory solution"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 49854,
+  "lemmas": [
+    {
+      "lemma": "samd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57202,
+      "is_sub_article": false,
+      "primary_translation": "agreeing / in agreement",
+      "word_forms": [
+        {
+          "word_form": "samd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAmd",
+              "ipa": "ˈsɑmd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "samde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAm$d@",
+              "ipa": "ˈsɑmdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7e97aa94c625.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e97aa94c625.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e97aa94c625.mp3",
+            "text": "samd",
+            "source": "generated",
+            "content_sha256": "34aa0fee5e16dffea7454a543c812b61337e1758fb1a4ef1e77d083377ba8577",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har samme mening",
+      "translation": "having the same opinion",
+      "examples": [
+        {
+          "no": "bli samde om noe",
+          "en": "agree on something"
+        }
+      ]
+    }
+  ]
+}

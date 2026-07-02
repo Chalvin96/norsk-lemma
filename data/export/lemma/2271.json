@@ -1,0 +1,87 @@
+{
+  "source_article_id": 2271,
+  "lemmas": [
+    {
+      "lemma": "antologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2798,
+      "is_sub_article": false,
+      "primary_translation": "anthological",
+      "word_forms": [
+        {
+          "word_form": "antologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$tU$\"lo:$gI$sk",
+              "ipa": "ɑntʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "antologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$tU$\"lo:$gI$sk@",
+              "ipa": "ɑntʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8ce713f47573.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ce713f47573.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ce713f47573.mp3",
+            "text": "antologisk",
+            "source": "generated",
+            "content_sha256": "62e890f9e8483e8fda374de2911e31b902a56944d6cabe27eb974304f95b851e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller har form av en antologi",
+      "translation": "relating to or in the form of an anthology",
+      "examples": [
+        {
+          "no": "en antologisk samling tekster",
+          "en": "an anthological collection of texts"
+        }
+      ]
+    }
+  ]
+}

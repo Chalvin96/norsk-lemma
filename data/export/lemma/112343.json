@@ -1,0 +1,127 @@
+{
+  "source_article_id": 112343,
+  "lemmas": [
+    {
+      "lemma": "elgtest",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163771,
+      "is_sub_article": false,
+      "primary_translation": "moose test",
+      "word_forms": [
+        {
+          "word_form": "elgtest",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛlgtəst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elgtesten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Elg$%tE$stn=",
+              "ipa": "ˈɛlgˌtɛstn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "elgtester",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛlgtˌɛstər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elgtestene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛlgtˌɛstn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "32f586c3a96c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/32f586c3a96c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/32f586c3a96c.mp3",
+            "text": "elgtest",
+            "source": "generated",
+            "content_sha256": "6cf2e4aa4ded0f61061bd9e858252a6183b8626345f002f9d4a02493e5e5a510"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "test på om en bil tåler en brå manøver for å svinge unna noe",
+      "translation": "test of a car's ability to swerve suddenly to avoid something",
+      "examples": [
+        {
+          "no": "bilen veltet under en elgtest",
+          "en": "the car overturned during a moose test"
+        }
+      ]
+    }
+  ]
+}

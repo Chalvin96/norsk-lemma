@@ -1,0 +1,106 @@
+{
+  "source_article_id": 11444,
+  "lemmas": [
+    {
+      "lemma": "dyvåt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13344,
+      "is_sub_article": false,
+      "primary_translation": "soaking wet",
+      "word_forms": [
+        {
+          "word_form": "dyvåt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dy:$%vo:t",
+              "ipa": "ˈdyːˌvoːt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dyvåte",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dy:$%vo:$t@",
+              "ipa": "ˈdyːˌvoːtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dyvått",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dy:$%vOt",
+              "ipa": "ˈdyːˌvɔt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "88fc6b5448f8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88fc6b5448f8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88fc6b5448f8.mp3",
+            "text": "dyvåt",
+            "source": "generated",
+            "content_sha256": "004f3a42328c4963be99b18381f6c0325cf7f3c7f949ab22088a50d1d4ba984d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjennomvåt, søkkvåt",
+      "translation": "soaked through, dripping wet",
+      "examples": [
+        {
+          "no": "regnet gjorde dem dyvåte",
+          "en": "the rain soaked them through"
+        }
+      ]
+    }
+  ]
+}

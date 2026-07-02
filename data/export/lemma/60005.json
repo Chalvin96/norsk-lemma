@@ -1,0 +1,58 @@
+{
+  "source_article_id": 60005,
+  "lemmas": [
+    {
+      "lemma": "TCDD",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 703,
+      "is_sub_article": false,
+      "primary_translation": "most toxic dioxin",
+      "word_forms": [
+        {
+          "word_form": "TCDD",
+          "tags_json": [
+            "ABBR"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tseːddˈeː",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a110c3d14a36.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a110c3d14a36.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a110c3d14a36.mp3",
+            "text": "TCDD",
+            "source": "generated",
+            "content_sha256": "b924dd7662f74f53f63a71d41eb05b0c743da8d04c14e182de02f0fb5a09a1df"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det giftigste av dioksin",
+      "translation": "the most toxic of the dioxins",
+      "examples": []
+    }
+  ]
+}

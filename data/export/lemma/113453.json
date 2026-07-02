@@ -1,0 +1,141 @@
+{
+  "source_article_id": 113453,
+  "lemmas": [
+    {
+      "lemma": "wifi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160088,
+      "is_sub_article": false,
+      "primary_translation": "wireless networking technology",
+      "word_forms": [
+        {
+          "word_form": "wifi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vA*I$%fA*I",
+              "ipa": "ˈvɑ͡ɪˌfɑ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "wifien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪfˌiːən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "wifier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪfˌiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "wifiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪfˌiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e3b9e661f15c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3b9e661f15c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3b9e661f15c.mp3",
+            "text": "wifi",
+            "source": "generated",
+            "content_sha256": "c547fb5b9834b6674f378e60d1f5d151b49c9243b1a37caa26df5a045ee6e37a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i IT: teknologi som ved hjelp av radiobølger skaper trådløs internett- og nettverksforbindelse",
+      "translation": "in IT: technology that uses radio waves to create wireless internet and network connections",
+      "examples": []
+    },
+    {
+      "text": "lokalt nettverk som gir tilgang til internett gjennom trådløs tilkobling med datamaskin, smarttelefon eller lignende",
+      "translation": "local network that provides internet access through a wireless connection with a computer, smartphone, or similar device",
+      "examples": [
+        {
+          "no": "koble seg på wifien",
+          "en": "connect to the wifi"
+        },
+        {
+          "no": "restauranten tilbyr gratis wifi",
+          "en": "the restaurant offers free wifi"
+        },
+        {
+          "no": "her var det dårlig wifi",
+          "en": "the wifi was bad here"
+        }
+      ]
+    }
+  ]
+}

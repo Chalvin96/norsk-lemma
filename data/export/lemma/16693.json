@@ -1,0 +1,91 @@
+{
+  "source_article_id": 16693,
+  "lemmas": [
+    {
+      "lemma": "forpint",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19355,
+      "is_sub_article": false,
+      "primary_translation": "tormented",
+      "word_forms": [
+        {
+          "word_form": "forpint",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"pi:nt",
+              "ipa": "fɔrˈpɪːnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forpinte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"pi:n$t@",
+              "ipa": "fɔrˈpɪːntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a16bc85913a6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a16bc85913a6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a16bc85913a6.mp3",
+            "text": "forpint",
+            "source": "generated",
+            "content_sha256": "0e69f6a3dffa9c14eabd8b86384d863c5f53c23b817adf314be85fc670d0ae7f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sterkt plaget",
+      "translation": "greatly tormented",
+      "examples": [
+        {
+          "no": "ha et forpint drag om munnen",
+          "en": "have a tormented expression around the mouth"
+        },
+        {
+          "no": "en forpint ungdomstid",
+          "en": "a tormented youth"
+        }
+      ]
+    }
+  ]
+}

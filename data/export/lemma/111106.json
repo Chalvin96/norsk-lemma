@@ -1,0 +1,128 @@
+{
+  "source_article_id": 111106,
+  "lemmas": [
+    {
+      "lemma": "basecamp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163111,
+      "is_sub_article": false,
+      "primary_translation": "base camp",
+      "word_forms": [
+        {
+          "word_form": "basecamp",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b{*I$%sk{:mp",
+              "ipa": "ˈbæ͡ɪˌskæːmp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "basecampen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑsˈeːkˈɑmpən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "basecamper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑsˈeːkˌɑmpər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "basecampene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑsˈeːkˌɑmpənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "39c0bf54fa1c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39c0bf54fa1c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39c0bf54fa1c.mp3",
+            "text": "basecamp",
+            "source": "generated",
+            "content_sha256": "5c6aae52243edce26455ab7f3248d794dd962b91563e183638f3db9c72893540",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "leir hvor det er samlet utstyr og forsyninger (særlig for fjellklatring)",
+      "translation": "camp where equipment and supplies are gathered (especially for mountain climbing)",
+      "examples": [
+        {
+          "no": "sherpaene har forlatt basecampen nedenfor Mount Everest",
+          "en": "the sherpas have left the base camp below Mount Everest"
+        }
+      ]
+    }
+  ]
+}

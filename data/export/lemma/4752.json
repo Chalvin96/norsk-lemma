@@ -1,0 +1,136 @@
+{
+  "source_article_id": 4752,
+  "lemmas": [
+    {
+      "lemma": "batikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5586,
+      "is_sub_article": false,
+      "primary_translation": "batik (dyeing method / fabric)",
+      "word_forms": [
+        {
+          "word_form": "batikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"tIk",
+              "ipa": "bɑˈtɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "batikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$\"tI$k@n",
+              "ipa": "bɑˈtɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "batikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑtˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "batikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑtˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b8a4375253f3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b8a4375253f3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b8a4375253f3.mp3",
+            "text": "batikk",
+            "source": "generated",
+            "content_sha256": "dd4beef914f038093e324f8356e547d5664392ab579dd1420a281bf3996e4681",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fargemetode til å lage mønster på tøy med",
+      "translation": "coloring method for creating patterns on fabric",
+      "examples": [
+        {
+          "no": "ta et kurs i batikk",
+          "en": "take a course in batik"
+        }
+      ]
+    },
+    {
+      "text": "stoff eller klesplagg med mønster som er laget med batikk",
+      "translation": "fabric or garment with a pattern made by batik",
+      "examples": [
+        {
+          "no": "kle seg i batikk",
+          "en": "dress in batik"
+        }
+      ]
+    }
+  ]
+}

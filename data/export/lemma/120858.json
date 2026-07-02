@@ -1,0 +1,90 @@
+{
+  "source_article_id": 120858,
+  "lemmas": [
+    {
+      "lemma": "kvasivitenskapelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168569,
+      "is_sub_article": false,
+      "primary_translation": "pseudoscientific",
+      "word_forms": [
+        {
+          "word_form": "kvasivitenskapelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɑːsɪʋiːtn̩skˌɑːpəlɪ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kvasivitenskapelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɑːsɪʋiːtn̩skˌɑːpəlɪə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1fde9f4c828a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1fde9f4c828a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1fde9f4c828a.mp3",
+            "text": "kvasivitenskapelig",
+            "source": "generated",
+            "content_sha256": "a81d17dcef731ad62b0e23d6d10e754641768827dd9e0157f980b0a37f3d68c5"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gir seg ut for å være vitenskapelig uten å oppfylle kravene til vitenskapelighet",
+      "translation": "pretending to be scientific without meeting the requirements of scientificity",
+      "examples": [
+        {
+          "no": "kvasivitenskapelig retorikk",
+          "en": "pseudoscientific rhetoric"
+        }
+      ]
+    }
+  ]
+}

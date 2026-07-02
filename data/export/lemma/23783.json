@@ -1,0 +1,117 @@
+{
+  "source_article_id": 23783,
+  "lemmas": [
+    {
+      "lemma": "hjemmefra",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 28039,
+      "is_sub_article": false,
+      "primary_translation": "from home / working from home",
+      "word_forms": [
+        {
+          "word_form": "hjemmefra",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jE$m@$%frA:",
+              "ipa": "ˈjɛməˌfrɑː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "12ccedfbca62.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/12ccedfbca62.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/12ccedfbca62.mp3",
+            "text": "hjemmefra",
+            "source": "generated",
+            "content_sha256": "fb69ab0c01bbbf6340f3886d77e5beed4db0f32ecff95edc3335ca795f90bd9a",
+            "tone": 2
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "heimefra",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 26811,
+      "is_sub_article": false,
+      "primary_translation": "from home / working from home",
+      "word_forms": [
+        {
+          "word_form": "heimefra",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈæ͡ɪməfrˌɑː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "58e8eb136528.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/58e8eb136528.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/58e8eb136528.mp3",
+            "text": "heimefra",
+            "source": "generated",
+            "content_sha256": "3c3a785e0acc4040a65fa688dd37e91fa18fd382fd52b40f2f81de9aa47e7a99"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bort fra hjemmet eller hjemstedet",
+      "translation": "away from home or hometown",
+      "examples": [
+        {
+          "no": "han dro hjemmefra klokka sju",
+          "en": "he left home at seven o'clock"
+        },
+        {
+          "no": "være hjemmefra i mange år",
+          "en": "be away from home for many years"
+        }
+      ]
+    },
+    {
+      "text": "med base i hjemmet",
+      "translation": "based at home",
+      "examples": [
+        {
+          "no": "arbeide hjemmefra to dager i uka",
+          "en": "work from home two days a week"
+        }
+      ]
+    }
+  ]
+}

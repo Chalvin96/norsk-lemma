@@ -1,0 +1,87 @@
+{
+  "source_article_id": 18825,
+  "lemmas": [
+    {
+      "lemma": "fåment",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 21734,
+      "is_sub_article": false,
+      "primary_translation": "sparsely populated",
+      "word_forms": [
+        {
+          "word_form": "fåment",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fo:$m@nt",
+              "ipa": "ˈfoːmənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fåmente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fo:$m@n$t@",
+              "ipa": "ˈfoːməntə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "363c9598759b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/363c9598759b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/363c9598759b.mp3",
+            "text": "fåment",
+            "source": "generated",
+            "content_sha256": "a3a7abd3cc17f17ed727601db57eef74955f2ebaed36f530c7ce043ceaafff33",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har eller er lite folk",
+      "translation": "having few people",
+      "examples": [
+        {
+          "no": "de er fåmente",
+          "en": "there are few of them"
+        }
+      ]
+    }
+  ]
+}

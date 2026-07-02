@@ -1,0 +1,104 @@
+{
+  "source_article_id": 16875,
+  "lemmas": [
+    {
+      "lemma": "forskremt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19591,
+      "is_sub_article": false,
+      "primary_translation": "frightened",
+      "word_forms": [
+        {
+          "word_form": "forskremt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"s`krEmt",
+              "ipa": "fɔˈʂkrɛmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forskremte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"s`krEm$t@",
+              "ipa": "fɔˈʂkrɛmtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "66176605e96a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/66176605e96a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/66176605e96a.mp3",
+            "text": "forskremt",
+            "source": "generated",
+            "content_sha256": "baa3c599a698f764d46b00223ee85c53ad7dd2ab47d33180f5641a8b6a40ad02",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "engstelig og redd",
+      "translation": "anxious and scared",
+      "examples": []
+    },
+    {
+      "text": "svært sky",
+      "translation": "very shy",
+      "examples": [
+        {
+          "no": "fare omkring som forskremte høns",
+          "en": "rush around like frightened hens"
+        },
+        {
+          "no": "forskremte barn",
+          "en": "frightened children"
+        },
+        {
+          "no": "løpe forskremt vekk",
+          "en": "run away in fright"
+        },
+        {
+          "no": "titte forskremt fram",
+          "en": "peek out timidly"
+        }
+      ]
+    }
+  ]
+}

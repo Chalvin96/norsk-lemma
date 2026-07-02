@@ -1,0 +1,90 @@
+{
+  "source_article_id": 49267,
+  "lemmas": [
+    {
+      "lemma": "ryktes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 56556,
+      "is_sub_article": false,
+      "primary_translation": "be rumored",
+      "word_forms": [
+        {
+          "word_form": "ryktes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rYk$t@s",
+              "ipa": "ˈrʏktəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ryktedes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rYk$t@$d@s",
+              "ipa": "ˈrʏktədəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a07806743571.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a07806743571.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a07806743571.mp3",
+            "text": "ryktes",
+            "source": "generated",
+            "content_sha256": "d84ddde009d28d09ec7713a9e993453fd7007fc3d32b71535e52b6dadb634564",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli kjent gjennom rykte",
+      "translation": "become known through rumor",
+      "examples": []
+    },
+    {
+      "text": "komme ut, bli kjent",
+      "translation": "come out, become known",
+      "examples": [
+        {
+          "no": "det ryktes at han har fått ny jobb",
+          "en": "it is rumored that he has got a new job"
+        }
+      ]
+    }
+  ]
+}

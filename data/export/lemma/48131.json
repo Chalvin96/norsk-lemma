@@ -1,0 +1,124 @@
+{
+  "source_article_id": 48131,
+  "lemmas": [
+    {
+      "lemma": "rens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 55285,
+      "is_sub_article": false,
+      "primary_translation": "dry cleaning / cleaning agent",
+      "word_forms": [
+        {
+          "word_form": "rens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"{$r@ns",
+              "ipa": "ˈærəns",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rEn$sn=",
+              "ipa": "ˈrɛnsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "renser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rEn$s@r",
+              "ipa": "ˈrɛnsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "rensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈɛnsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fd5738c30a7a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd5738c30a7a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd5738c30a7a.mp3",
+            "text": "rens",
+            "source": "generated",
+            "content_sha256": "817d81495a0cb19599d0d902f4974443737275cc45096996f606203329090b38",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rensing av klær eller andre tekstiler",
+      "translation": "cleaning of clothes or other textiles",
+      "examples": [
+        {
+          "no": "levere tepper til rens",
+          "en": "take rugs to the cleaners"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_article_id": 44681,
+  "lemmas": [
+    {
+      "lemma": "periodisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51651,
+      "is_sub_article": false,
+      "primary_translation": "periodic / recurring",
+      "word_forms": [
+        {
+          "word_form": "periodisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$rI$\"u:$dI$sk",
+              "ipa": "pərɪˈuːdɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "periodiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$rI$\"u:$dI$sk@",
+              "ipa": "pərɪˈuːdɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b82049bbabb4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b82049bbabb4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b82049bbabb4.mp3",
+            "text": "periodisk",
+            "source": "generated",
+            "content_sha256": "4150a7d1139394e11a66708204146062d959d1547dbf3720d47c744abea86f1e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til en periode",
+      "translation": "belonging to a period",
+      "examples": []
+    },
+    {
+      "text": "som regelmessig kommer igjen",
+      "translation": "that regularly recurs",
+      "examples": []
+    },
+    {
+      "text": "som hender med visse mellomrom",
+      "translation": "that happens at certain intervals",
+      "examples": [
+        {
+          "no": "periodisk kjøretøykontroll",
+          "en": "periodic vehicle inspection"
+        }
+      ]
+    }
+  ]
+}

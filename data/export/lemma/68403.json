@@ -1,0 +1,156 @@
+{
+  "source_article_id": 68403,
+  "lemmas": [
+    {
+      "lemma": "vind",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 78958,
+      "is_sub_article": false,
+      "primary_translation": "wind / breath",
+      "word_forms": [
+        {
+          "word_form": "vind",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vIn",
+              "ipa": "ˈvɪn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vinden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$dn=",
+              "ipa": "ˈvɪndn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vinder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$d@r",
+              "ipa": "ˈvɪndər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vindene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$dn=$@",
+              "ipa": "ˈvɪndn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ba0bf2b34ba8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba0bf2b34ba8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba0bf2b34ba8.mp3",
+            "text": "vind",
+            "source": "generated",
+            "content_sha256": "dbfc76c2c91475f886738b66d6cb6a3251a22efcfeb1270a25c38720118fdda7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "luft som er i mer eller mindre sterk bevegelse",
+      "translation": "air in more or less strong motion",
+      "examples": [
+        {
+          "no": "vinden blåser fra nord",
+          "en": "the wind is blowing from the north"
+        },
+        {
+          "no": "ha vinden i ryggen",
+          "en": "have the wind at one's back"
+        },
+        {
+          "no": "legge båten opp mot vinden",
+          "en": "head the boat up into the wind"
+        },
+        {
+          "no": "være ute i all slags vind og vær",
+          "en": "be out in all kinds of wind and weather"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: tendens",
+      "translation": "",
+      "examples": [
+        {
+          "no": "forandringens vinder blåser over den lille bygda",
+          "en": "the winds of change are blowing over the little village"
+        },
+        {
+          "no": "være upåvirket av tidens vinder",
+          "en": "be unaffected by the winds of the times"
+        },
+        {
+          "no": "det blåser nye vinder av frihet gjennom landet",
+          "en": "new winds of freedom are blowing through the country"
+        },
+        {
+          "no": "slippe en vind",
+          "en": "break wind"
+        }
+      ]
+    }
+  ]
+}

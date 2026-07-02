@@ -1,0 +1,111 @@
+{
+  "source_article_id": 22448,
+  "lemmas": [
+    {
+      "lemma": "harmfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 26309,
+      "is_sub_article": false,
+      "primary_translation": "indignant / outraged",
+      "word_forms": [
+        {
+          "word_form": "harmfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hArm$%fu0l",
+              "ipa": "ˈhɑrmˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "harmfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hArm$%fu0$l@",
+              "ipa": "ˈhɑrmˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "harmfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hArm$%fu0lt",
+              "ipa": "ˈhɑrmˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3d1465f43618.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3d1465f43618.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3d1465f43618.mp3",
+            "text": "harmfull",
+            "source": "generated",
+            "content_sha256": "888d21b17f439183ac64eaf3a1efecf3f401c53af0dccafcf5bb382b282921b0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "full av harme",
+      "translation": "full of indignation",
+      "examples": []
+    },
+    {
+      "text": "forarget, sint, indignert",
+      "translation": "indignant, angry, outraged",
+      "examples": [
+        {
+          "no": "en harmfull protest",
+          "en": "an indignant protest"
+        }
+      ]
+    }
+  ]
+}

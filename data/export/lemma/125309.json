@@ -1,0 +1,168 @@
+{
+  "source_article_id": 125309,
+  "lemmas": [
+    {
+      "lemma": "selvbetjent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2010532,
+      "is_sub_article": false,
+      "primary_translation": "self-service",
+      "word_forms": [
+        {
+          "word_form": "selvbetjent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sEl$b@$%tje:nt",
+              "ipa": "ˈsɛlbəˌtjeːnt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "selvbetjente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sEl$b@$%tje:n$t@",
+              "ipa": "ˈsɛlbəˌtjeːntə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "92f536120823.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/92f536120823.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/92f536120823.mp3",
+            "text": "selvbetjent",
+            "source": "generated",
+            "content_sha256": "88c9ead4891586a1c4ded8ebb46fc1230eaac71316a2819c0960813e10b7a979",
+            "tone": 2
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "sjølbetjent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2010533,
+      "is_sub_article": false,
+      "primary_translation": "self-service",
+      "word_forms": [
+        {
+          "word_form": "sjølbetjent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈøːlbətjˌeːnt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sjølbetjente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈøːlbətjˌeːntə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f7d5241ab9f6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f7d5241ab9f6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f7d5241ab9f6.mp3",
+            "text": "sjølbetjent",
+            "source": "generated",
+            "content_sha256": "e610bca1498a91099ef5806b5a346bbee92beb50f42f94e8729f52f63d7fb575"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en betjener selv",
+      "translation": "one serves oneself",
+      "examples": []
+    },
+    {
+      "text": "som ikke har ansatte som hjelper en",
+      "translation": "not having employees to help one",
+      "examples": [
+        {
+          "no": "vi betalte varene i en selvbetjent kasse",
+          "en": "we paid for the goods at a self-service checkout"
+        },
+        {
+          "no": "de bodde på en selvbetjent turisthytte",
+          "en": "they stayed in a self-service tourist cabin"
+        }
+      ]
+    }
+  ]
+}

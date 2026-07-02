@@ -1,0 +1,101 @@
+{
+  "source_article_id": 63600,
+  "lemmas": [
+    {
+      "lemma": "uavgjort",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 72792,
+      "is_sub_article": false,
+      "primary_translation": "undecided / draw (game)",
+      "word_forms": [
+        {
+          "word_form": "uavgjort",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$A:v$%jUt`",
+              "ipa": "ˈʉːɑːvˌjʊʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uavgjorte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$A:v$%jU$t`@",
+              "ipa": "ˈʉːɑːvˌjʊʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4e28bd749dc3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e28bd749dc3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e28bd749dc3.mp3",
+            "text": "uavgjort",
+            "source": "generated",
+            "content_sha256": "e337ce49f842cbac3276cceab1dab67b394bd58475a6ba5cc0c20441fa0e0f9b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er avgjort",
+      "translation": "that is not decided",
+      "examples": [
+        {
+          "no": "et uavgjort spørsmål",
+          "en": "an undecided question"
+        }
+      ]
+    },
+    {
+      "text": "i idrett: som ender med samme resultat for de konkurrerende partene",
+      "translation": "that ends with the same result for the competing parties",
+      "examples": [
+        {
+          "no": "en uavgjort kamp",
+          "en": "a drawn match"
+        },
+        {
+          "no": "spille uavgjort 2–2",
+          "en": "draw 2–2"
+        }
+      ]
+    }
+  ]
+}

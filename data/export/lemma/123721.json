@@ -1,0 +1,152 @@
+{
+  "source_article_id": 123721,
+  "lemmas": [
+    {
+      "lemma": "maskinlæring",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2007941,
+      "is_sub_article": false,
+      "primary_translation": "machine learning",
+      "word_forms": [
+        {
+          "word_form": "maskinlæring",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"Si:n$%l{:$rIN",
+              "ipa": "mɑˈʃɪːnˌlæːrɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "maskinlæringen",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑʃˈiːnlˌæːrɪŋən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "maskinlæringer",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑʃˈiːnlˌæːrɪŋər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "maskinlæringene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑʃˈiːnlˌæːrɪŋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "maskinlæringa",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑʃˈiːnlˌæːrɪŋɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d5c5ac7ed235.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5c5ac7ed235.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5c5ac7ed235.mp3",
+            "text": "maskinlæring",
+            "source": "generated",
+            "content_sha256": "ae964f805964ffb65b9880e54e98a84ea970ba7d528d93d3016d3f5c293e2c85",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det at en datamaskin selv finner mønstre i store datamengder og kan bruke dem på nye data",
+      "translation": "the ability of a computer to find patterns in large amounts of data and use them on new data",
+      "examples": []
+    },
+    {
+      "text": "jamfør kunstig intelligens",
+      "translation": "artificial intelligence",
+      "examples": []
+    }
+  ]
+}

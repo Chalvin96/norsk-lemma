@@ -1,0 +1,124 @@
+{
+  "source_article_id": 11876,
+  "lemmas": [
+    {
+      "lemma": "eim",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 13887,
+      "is_sub_article": false,
+      "primary_translation": "steam / haze / smell / trace",
+      "word_forms": [
+        {
+          "word_form": "eim",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"{*Im",
+              "ipa": "ˈæ͡ɪm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eimen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"{*I$m@n",
+              "ipa": "ˈæ͡ɪmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eimer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"{*I$m@r",
+              "ipa": "ˈæ͡ɪmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eimene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈæ͡ɪmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "67a24c5b1b1b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/67a24c5b1b1b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/67a24c5b1b1b.mp3",
+            "text": "eim",
+            "source": "generated",
+            "content_sha256": "2f7bcbfde6d5e688d158c1b9c850314758007db00d6881612b6307e1da44e3f4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "snev, preg",
+      "translation": "hint, trace",
+      "examples": [
+        {
+          "no": "en eim av svunnen storhet",
+          "en": "a whiff of bygone greatness"
+        }
+      ]
+    }
+  ]
+}

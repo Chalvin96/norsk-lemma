@@ -1,0 +1,119 @@
+{
+  "source_article_id": 70585,
+  "lemmas": [
+    {
+      "lemma": "kreftpasient",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 116900,
+      "is_sub_article": false,
+      "primary_translation": "cancer patient",
+      "word_forms": [
+        {
+          "word_form": "kreftpasient",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krEft$pA$sI$%Ent",
+              "ipa": "ˈkrɛftpɑsɪˌɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kreftpasienten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "krˈɛftpɑsɪˌɛntn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kreftpasienter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krEft$pA$sI$%En$t@r",
+              "ipa": "ˈkrɛftpɑsɪˌɛntər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kreftpasientene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"krEft$pA$sI$%En$tn=$@",
+              "ipa": "ˈkrɛftpɑsɪˌɛntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d21a8df2d96e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d21a8df2d96e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d21a8df2d96e.mp3",
+            "text": "kreftpasient",
+            "source": "generated",
+            "content_sha256": "ca7b6105af5f0ba19a90fcbfb65022edd42282d6d24af73338dd582b51702f67",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pasient som behandles for kreft",
+      "translation": "patient being treated for cancer",
+      "examples": []
+    }
+  ]
+}

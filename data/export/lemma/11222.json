@@ -1,0 +1,110 @@
+{
+  "source_article_id": 11222,
+  "lemmas": [
+    {
+      "lemma": "durkdreven",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13083,
+      "is_sub_article": false,
+      "primary_translation": "durkdreven (cunning/experienced)",
+      "word_forms": [
+        {
+          "word_form": "durkdreven",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du0rk$%dre:$v@n",
+              "ipa": "ˈdʉrkˌdreːvən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "durkdrevne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du0rk$%dre:v$n@",
+              "ipa": "ˈdʉrkˌdreːvnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "durkdrevent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"du0rk$%dre:$v@nt",
+              "ipa": "ˈdʉrkˌdreːvənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "78f473a756a5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/78f473a756a5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/78f473a756a5.mp3",
+            "text": "durkdreven",
+            "source": "generated",
+            "content_sha256": "02b6a2ae916352aabaede607e8fe40752883f4ef4fc105fff5e777e78b9cc224",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utspekulert, lur",
+      "translation": "cunning, sly",
+      "examples": [
+        {
+          "no": "en durkdreven kjeltring",
+          "en": "a crafty crook"
+        },
+        {
+          "no": "durkdreven utøvelse",
+          "en": "cunning execution"
+        }
+      ]
+    }
+  ]
+}

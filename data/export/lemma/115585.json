@@ -1,0 +1,110 @@
+{
+  "source_article_id": 115585,
+  "lemmas": [
+    {
+      "lemma": "kostnadsfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 116581,
+      "is_sub_article": false,
+      "primary_translation": "free of charge",
+      "word_forms": [
+        {
+          "word_form": "kostnadsfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kO$stnAds$%fri:",
+              "ipa": "ˈkɔstnɑdsˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kostnadsfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɔstnɑdsfrˌiːə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kostnadsfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kO$stnAds$%frIt",
+              "ipa": "ˈkɔstnɑdsˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ce80c407dfea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce80c407dfea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce80c407dfea.mp3",
+            "text": "kostnadsfri",
+            "source": "generated",
+            "content_sha256": "7ccca8dcc252a2ea3be2490b3a68287f4cb30d5124047dec7bc2294b21019694",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en slipper å betale for",
+      "translation": "that one does not have to pay for",
+      "examples": []
+    },
+    {
+      "text": "gratis, vederlagsfri",
+      "translation": "free of charge, without compensation",
+      "examples": [
+        {
+          "no": "kostnadsfri hybel",
+          "en": "rent-free room"
+        }
+      ]
+    }
+  ]
+}

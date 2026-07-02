@@ -1,0 +1,149 @@
+{
+  "source_article_id": 25902,
+  "lemmas": [
+    {
+      "lemma": "immunitet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 30873,
+      "is_sub_article": false,
+      "primary_translation": "immunity",
+      "word_forms": [
+        {
+          "word_form": "immunitet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$mu0$nI$\"te:t",
+              "ipa": "ɪmʉnɪˈteːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "immuniteten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$mu0$nI$\"te:$tn=",
+              "ipa": "ɪmʉnɪˈteːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "immuniteter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪmʉnɪtˈeːtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "immunitetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪmʉnɪtˈeːtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "88d25ffeb822.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88d25ffeb822.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88d25ffeb822.mp3",
+            "text": "immunitet",
+            "source": "generated",
+            "content_sha256": "91f6eb6b265f4d76af43028facf0a5a21297961effae7a089de146e673fc5c51",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være uimottakelig for smitte",
+      "translation": "the state of being immune to infection",
+      "examples": []
+    },
+    {
+      "text": "det å være immun",
+      "translation": "the state of being immune",
+      "examples": [
+        {
+          "no": "befolkningen mangler immunitet mot dette viruset",
+          "en": "the population lacks immunity to this virus"
+        }
+      ]
+    },
+    {
+      "text": "i jus: fritak fra ansvar eller straff for utenlandsk diplomat og (i visse tilfeller) innenlandsk parlamentsmedlem",
+      "translation": "in law: exemption from responsibility or punishment for a foreign diplomat and (in certain cases) a domestic parliament member",
+      "examples": [
+        {
+          "no": "immunitet mot straffeforfølgelse",
+          "en": "immunity from prosecution"
+        },
+        {
+          "no": "diplomatisk immunitet",
+          "en": "diplomatic immunity"
+        },
+        {
+          "no": "parlamentarisk immunitet",
+          "en": "parliamentary immunity"
+        }
+      ]
+    }
+  ]
+}

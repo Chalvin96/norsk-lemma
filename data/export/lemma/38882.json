@@ -1,0 +1,106 @@
+{
+  "source_article_id": 38882,
+  "lemmas": [
+    {
+      "lemma": "modulær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45609,
+      "is_sub_article": false,
+      "primary_translation": "modular",
+      "word_forms": [
+        {
+          "word_form": "modulær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$du0$\"l{:r",
+              "ipa": "mʊdʉˈlæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "modulære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$du0$\"l{:$r@",
+              "ipa": "mʊdʉˈlæːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "modulært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$du0$\"l{:t`",
+              "ipa": "mʊdʉˈlæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "25c0e5a49396.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25c0e5a49396.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25c0e5a49396.mp3",
+            "text": "modulær",
+            "source": "generated",
+            "content_sha256": "14819aee3947ee8a58661281835bd80a98984a6592ddd005f850e2c61b216459",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller er satt sammen av modul",
+      "translation": "relating to or composed of modules",
+      "examples": [
+        {
+          "no": "en modulær plattform",
+          "en": "a modular platform"
+        }
+      ]
+    }
+  ]
+}

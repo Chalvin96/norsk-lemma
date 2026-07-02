@@ -1,0 +1,130 @@
+{
+  "source_article_id": 12882,
+  "lemmas": [
+    {
+      "lemma": "entreprise",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 15004,
+      "is_sub_article": false,
+      "primary_translation": "construction contract",
+      "word_forms": [
+        {
+          "word_form": "entreprise",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "AN$tr@$\"\"pri:$s@",
+              "ipa": "ɑŋtrəˈprɪːsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "entreprisen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "AN$tr@$\"\"pri:$sn=",
+              "ipa": "ɑŋtrəˈprɪːsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "entrepriser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "AN$tr@$\"\"pri:$s@r",
+              "ipa": "ɑŋtrəˈprɪːsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "entreprisene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "AN$tr@$\"\"pri:$sn=$@",
+              "ipa": "ɑŋtrəˈprɪːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "987832cfe369.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/987832cfe369.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/987832cfe369.mp3",
+            "text": "entreprise",
+            "source": "generated",
+            "content_sha256": "4d26221786ac99690db410114fdb2ced28166e6f307b0f1f2aa6e39b8d42cb91",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avtale om eller utførelse av et større bygge- eller anleggsarbeid",
+      "translation": "agreement for or execution of a larger construction or civil engineering work",
+      "examples": [
+        {
+          "no": "dele arbeidet opp i flere entrepriser",
+          "en": "divide the work into several contracts"
+        },
+        {
+          "no": "området ble bygd ut i tre entrepriser",
+          "en": "the area was developed in three contracts"
+        },
+        {
+          "no": "sette arbeid ut på entreprise",
+          "en": "put work out to contract"
+        }
+      ]
+    }
+  ]
+}

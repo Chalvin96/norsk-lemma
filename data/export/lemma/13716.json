@@ -1,0 +1,126 @@
+{
+  "source_article_id": 13716,
+  "lemmas": [
+    {
+      "lemma": "falsett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 15916,
+      "is_sub_article": false,
+      "primary_translation": "falsetto",
+      "word_forms": [
+        {
+          "word_form": "falsett",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAl$\"sEt",
+              "ipa": "fɑlˈsɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "falsetten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAl$\"sE$tn=",
+              "ipa": "fɑlˈsɛtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "falsetter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fɑlsˈɛtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "falsettene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fɑlsˈɛtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "48cd10609ebf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48cd10609ebf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48cd10609ebf.mp3",
+            "text": "falsett",
+            "source": "generated",
+            "content_sha256": "59fcc1ed1c251b1db7fb7ea4a37ddb382662dd2e4db892f90a609533ccefd788",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stemmeleie som ligger høyere enn normalt og gir tonene en egen tynn klang",
+      "translation": "vocal range higher than normal, producing a distinct thin tone",
+      "examples": [
+        {
+          "no": "synge i falsett",
+          "en": "sing in falsetto"
+        }
+      ]
+    }
+  ]
+}

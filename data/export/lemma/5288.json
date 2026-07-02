@@ -1,0 +1,85 @@
+{
+  "source_article_id": 5288,
+  "lemmas": [
+    {
+      "lemma": "bensindrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6233,
+      "is_sub_article": false,
+      "primary_translation": "gasoline-powered",
+      "word_forms": [
+        {
+          "word_form": "bensindrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@n$\"si:n$%dre:$v@t",
+              "ipa": "bənˈsɪːnˌdreːvət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bensindrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@n$\"si:n$%dre:v$n@",
+              "ipa": "bənˈsɪːnˌdreːvnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "16d50c6735dd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16d50c6735dd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16d50c6735dd.mp3",
+            "text": "bensindrevet",
+            "source": "generated",
+            "content_sha256": "9096b8cd426ab195f489c9f59d9c51ee05bd5edb8f1769e8803ddbead0f54fd5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om motor: som blir drevet med bensin",
+      "translation": "of an engine: powered by gasoline",
+      "examples": [
+        {
+          "no": "en bensindrevet motor",
+          "en": "a gasoline-powered engine"
+        }
+      ]
+    }
+  ]
+}

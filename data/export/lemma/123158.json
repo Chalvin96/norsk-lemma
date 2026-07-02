@@ -1,0 +1,135 @@
+{
+  "source_article_id": 123158,
+  "lemmas": [
+    {
+      "lemma": "lysforhold",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 121465,
+      "is_sub_article": false,
+      "primary_translation": "lighting conditions",
+      "word_forms": [
+        {
+          "word_form": "lysforhold",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:s$fOr$%hOl",
+              "ipa": "ˈlyːsfɔrˌhɔl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lysforholdet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːsfɔrhˌɔlə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lysforholda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːsfɔrhˌɔlɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lysforholdene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:s$fOr$%hO$ln=$@",
+              "ipa": "ˈlyːsfɔrˌhɔln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a5a54c16e3d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a5a54c16e3d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a5a54c16e3d.mp3",
+            "text": "lysforhold",
+            "source": "generated",
+            "content_sha256": "a51a85d579bfc9e68c472e7a91dab7f5860b8fbabdecfcfe639ab7b670d1d021",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forhold som gjelder naturlig lys eller belysning",
+      "translation": "conditions relating to natural light or illumination",
+      "examples": [
+        {
+          "no": "gode lysforhold",
+          "en": "good lighting conditions"
+        },
+        {
+          "no": "dårlige lysforhold",
+          "en": "poor lighting conditions"
+        },
+        {
+          "no": "ulykken skjedde under vanskelige lysforhold",
+          "en": "the accident happened under difficult lighting conditions"
+        }
+      ]
+    }
+  ]
+}

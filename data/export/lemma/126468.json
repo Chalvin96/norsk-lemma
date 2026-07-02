@@ -1,0 +1,94 @@
+{
+  "source_article_id": 126468,
+  "lemmas": [
+    {
+      "lemma": "pines",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 2860015,
+      "is_sub_article": false,
+      "primary_translation": "suffer / torment",
+      "word_forms": [
+        {
+          "word_form": "pines",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pi:$n@s",
+              "ipa": "ˈpɪːnəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "pintes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pi:n$t@s",
+              "ipa": "ˈpɪːntəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8ecefc191017.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ecefc191017.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ecefc191017.mp3",
+            "text": "pines",
+            "source": "generated",
+            "content_sha256": "08e035883137f5d9604a53d80cf97d293d8eb7f4a6e79948c8c95709f1f5edbb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lide vondt",
+      "translation": "to suffer pain",
+      "examples": []
+    },
+    {
+      "text": "plages",
+      "translation": "to torment",
+      "examples": [
+        {
+          "no": "pines i hjel",
+          "en": "tormented to death"
+        },
+        {
+          "no": "han lå og pintes",
+          "en": "he lay there suffering"
+        }
+      ]
+    }
+  ]
+}

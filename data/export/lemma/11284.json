@@ -1,0 +1,138 @@
+{
+  "source_article_id": 11284,
+  "lemmas": [
+    {
+      "lemma": "dy",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 83611,
+      "is_sub_article": false,
+      "primary_translation": "mud / swamp",
+      "word_forms": [
+        {
+          "word_form": "dy",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dY$\"spru:$sI$u0m",
+              "ipa": "dʏˈspruːsɪʉm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dyet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈyːə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dya",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈyːɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dyene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈyːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "080ff1e9d749.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/080ff1e9d749.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/080ff1e9d749.mp3",
+            "text": "dy",
+            "source": "generated",
+            "content_sha256": "160bcf1bbf5b96e7602b733b143f5f0c68a86ca67f07d136fd91f83d3d2e118c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjørme, søle",
+      "translation": "mud, mire",
+      "examples": []
+    },
+    {
+      "text": "sump, hengemyr, dike",
+      "translation": "swamp, quagmire, ditch",
+      "examples": [
+        {
+          "no": "våt som dy",
+          "en": "wet as a bog"
+        },
+        {
+          "no": "dy og dike",
+          "en": "bog and ditch"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_article_id": 64048,
+  "lemmas": [
+    {
+      "lemma": "ukorrekt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73365,
+      "is_sub_article": false,
+      "primary_translation": "incorrect / unacceptable",
+      "word_forms": [
+        {
+          "word_form": "ukorrekt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$kU$%rEkt",
+              "ipa": "ˈʉːkʊˌrɛkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ukorrekte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$kU$%rEk$t@",
+              "ipa": "ˈʉːkʊˌrɛktə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "45e959cf81d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45e959cf81d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45e959cf81d0.mp3",
+            "text": "ukorrekt",
+            "source": "generated",
+            "content_sha256": "5d0a6bc6e7502e58db36faae87001f01c71d8ba845dd2de2588e193c6c94e579",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gal, misvisende",
+      "translation": "wrong, misleading",
+      "examples": [
+        {
+          "no": "ukorrekte opplysninger",
+          "en": "incorrect information"
+        }
+      ]
+    },
+    {
+      "text": "ikke (allment) akseptert",
+      "translation": "not (generally) accepted",
+      "examples": [
+        {
+          "no": "ukorrekt opptreden, språkbruk",
+          "en": "improper behavior, language use"
+        },
+        {
+          "no": "være ukorrekt kledd",
+          "en": "be dressed improperly"
+        }
+      ]
+    }
+  ]
+}

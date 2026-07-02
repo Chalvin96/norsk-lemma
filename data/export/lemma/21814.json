@@ -1,0 +1,108 @@
+{
+  "source_article_id": 21814,
+  "lemmas": [
+    {
+      "lemma": "habituell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25487,
+      "is_sub_article": false,
+      "primary_translation": "habitual / recurring",
+      "word_forms": [
+        {
+          "word_form": "habituell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$bI$tu0$\"El",
+              "ipa": "hɑbɪtʉˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "habituelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$bI$tu0$\"E$l@",
+              "ipa": "hɑbɪtʉˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "habituelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$bI$tu0$\"Elt",
+              "ipa": "hɑbɪtʉˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f840e9b9e05c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f840e9b9e05c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f840e9b9e05c.mp3",
+            "text": "habituell",
+            "source": "generated",
+            "content_sha256": "1f4539aefb88dab29baeb1c9e498faf36d3e3b9965457e6a7879b7c0648d507a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vanlig, stadig",
+      "translation": "usual, constant",
+      "examples": []
+    },
+    {
+      "text": "i medisin: tilbakevendende",
+      "translation": "in medicine: recurring",
+      "examples": [
+        {
+          "no": "habituell abort",
+          "en": "habitual abortion"
+        }
+      ]
+    }
+  ]
+}

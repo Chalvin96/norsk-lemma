@@ -1,0 +1,122 @@
+{
+  "source_article_id": 66720,
+  "lemmas": [
+    {
+      "lemma": "varmegrad",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 76700,
+      "is_sub_article": false,
+      "primary_translation": "positive temperature degree",
+      "word_forms": [
+        {
+          "word_form": "varmegrad",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$%grA:d",
+              "ipa": "ˈvɑrməˌgrɑːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmegraden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$%grA:$dn=",
+              "ipa": "ˈvɑrməˌgrɑːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmegrader",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$%grA:$d@r",
+              "ipa": "ˈvɑrməˌgrɑːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmegradene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$%grA:$dn=$@",
+              "ipa": "ˈvɑrməˌgrɑːdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "760b7989d7cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/760b7989d7cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/760b7989d7cf.mp3",
+            "text": "varmegrad",
+            "source": "generated",
+            "content_sha256": "c3ae07209729bde57e1d7c2042e010f14e6438e8f9a3efc061843f595646fa5d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grad over frysepunktet",
+      "translation": "degree above freezing point",
+      "examples": [
+        {
+          "no": "det er 20 varmegrader",
+          "en": "it is 20 degrees above zero"
+        }
+      ]
+    }
+  ]
+}

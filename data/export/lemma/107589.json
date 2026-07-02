@@ -1,0 +1,125 @@
+{
+  "source_article_id": 107589,
+  "lemmas": [
+    {
+      "lemma": "antiskrens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160961,
+      "is_sub_article": false,
+      "primary_translation": "anti-skid system",
+      "word_forms": [
+        {
+          "word_form": "antiskrens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"An$tI$%skrEns",
+              "ipa": "ˈɑntɪˌskrɛns",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "antiskrensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑntɪskrˌɛnsn̩",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "antiskrenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑntɪskrˌɛnsər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "antiskrensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑntɪskrˌɛnsn̩ə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bb371e5c2216.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bb371e5c2216.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bb371e5c2216.mp3",
+            "text": "antiskrens",
+            "source": "generated",
+            "content_sha256": "dbc0df639e9be3f5543676623a85de36cecc010c18969af7f757f9d13acbf7c6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "system som skal hjelpe til med å unngå at en bil får skrens",
+      "translation": "system designed to help prevent a car from skidding",
+      "examples": [
+        {
+          "no": "bilene har antiskrens som standard",
+          "en": "the cars have anti-skid control as standard"
+        }
+      ]
+    }
+  ]
+}

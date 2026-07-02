@@ -1,0 +1,126 @@
+{
+  "source_article_id": 32909,
+  "lemmas": [
+    {
+      "lemma": "kusma",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 38600,
+      "is_sub_article": false,
+      "primary_translation": "mumps",
+      "word_forms": [
+        {
+          "word_form": "kusma",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0$smA",
+              "ipa": "ˈkʉsmɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kusmaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0$smA$@n",
+              "ipa": "ˈkʉsmɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kusmaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉsmɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kusmaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉsmɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f79bb4f1da34.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f79bb4f1da34.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f79bb4f1da34.mp3",
+            "text": "kusma",
+            "source": "generated",
+            "content_sha256": "61ef12db43332c4308a1d691ab7c5512b971e93c210a66eb7ce5feccedd4e260",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "smittsom virussykdom med feber og smertefull opphovning av spyttkjertlene",
+      "translation": "contagious viral disease with fever and painful swelling of the salivary glands",
+      "examples": [
+        {
+          "no": "bli vaksinert mot kusma",
+          "en": "get vaccinated against mumps"
+        }
+      ]
+    }
+  ]
+}

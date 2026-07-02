@@ -1,0 +1,131 @@
+{
+  "source_article_id": 61037,
+  "lemmas": [
+    {
+      "lemma": "timotei",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 69814,
+      "is_sub_article": false,
+      "primary_translation": "timothy grass",
+      "word_forms": [
+        {
+          "word_form": "timotei",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tI$mU$\"t{*I",
+              "ipa": "tɪmʊˈtæ͡ɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "timoteien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tI$mU$\"t{*I$@n",
+              "ipa": "tɪmʊˈtæ͡ɪən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "timoteier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tɪmutˈæ͡ɪər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "timoteiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tɪmutˈæ͡ɪənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2dd6947752a3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2dd6947752a3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2dd6947752a3.mp3",
+            "text": "timotei",
+            "source": "generated",
+            "content_sha256": "5a8704e964ac9e1033dbde926dedeabd9ec618471bbd51a357bf4a7d0ddce606",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fôrplante i gressfamilie grasfamilie",
+      "translation": "forage plant in the grass family",
+      "examples": []
+    },
+    {
+      "text": "Phleum pratense",
+      "translation": "Phleum pratense",
+      "examples": [
+        {
+          "no": "eng av kløver og timotei",
+          "en": "meadow of clover and timothy"
+        }
+      ]
+    }
+  ]
+}

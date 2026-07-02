@@ -1,0 +1,143 @@
+{
+  "source_article_id": 11554,
+  "lemmas": [
+    {
+      "lemma": "døpenavn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 13521,
+      "is_sub_article": false,
+      "primary_translation": "given name / birth name",
+      "word_forms": [
+        {
+          "word_form": "døpenavn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$p@$%nAvn",
+              "ipa": "ˈdøːpəˌnɑvn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "døpenavnet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$p@$%nAv$n@",
+              "ipa": "ˈdøːpəˌnɑvnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "døpenavna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$p@$%nAv$nA",
+              "ipa": "ˈdøːpəˌnɑvnɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "døpenavnene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$p@$%nAv$nn=$@",
+              "ipa": "ˈdøːpəˌnɑvnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "084c748d5e6c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/084c748d5e6c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/084c748d5e6c.mp3",
+            "text": "døpenavn",
+            "source": "generated",
+            "content_sha256": "4105d64500bed374c4c13457c8d6316e5c6487c64797bfffb87a33892d3f38d2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fornavn, personnavn",
+      "translation": "first name, given name",
+      "examples": [
+        {
+          "no": "Jan er et vanlig døpenavn i Norge",
+          "en": "Jan is a common given name in Norway"
+        }
+      ]
+    },
+    {
+      "text": "offisielt navn",
+      "translation": "official name",
+      "examples": [
+        {
+          "no": "hva var Marilyn Monroes døpenavn?",
+          "en": "what was Marilyn Monroe's birth name?"
+        }
+      ]
+    },
+    {
+      "text": "etternavn fra fødselen av",
+      "translation": "surname from birth",
+      "examples": [
+        {
+          "no": "hun tok morens døpenavn Bakke",
+          "en": "she took her mother's maiden name, Bakke"
+        }
+      ]
+    }
+  ]
+}

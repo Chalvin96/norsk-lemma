@@ -1,0 +1,110 @@
+{
+  "source_article_id": 18623,
+  "lemmas": [
+    {
+      "lemma": "føderativ",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 21779,
+      "is_sub_article": false,
+      "primary_translation": "federative",
+      "word_forms": [
+        {
+          "word_form": "føderativ",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"f9$d@$rA$%ti:v",
+              "ipa": "ˈfœdərɑˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "føderative",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"f9$d@$rA$%ti:$v@",
+              "ipa": "ˈfœdərɑˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "føderativt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"f9$d@$rA$%ti:vt",
+              "ipa": "ˈfœdərɑˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "95e7f1f4c661.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/95e7f1f4c661.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/95e7f1f4c661.mp3",
+            "text": "føderativ",
+            "source": "generated",
+            "content_sha256": "6449d65013933644ef806dc2df42d4d1f907502ccfa714eaf8f86f962cb9572f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder en føderasjon",
+      "translation": "pertaining to a federation",
+      "examples": [
+        {
+          "no": "en føderativ stat",
+          "en": "a federal state"
+        },
+        {
+          "no": "et føderativt styre",
+          "en": "a federal government"
+        }
+      ]
+    }
+  ]
+}

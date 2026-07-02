@@ -1,0 +1,127 @@
+{
+  "source_article_id": 5013,
+  "lemmas": [
+    {
+      "lemma": "beholder",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5870,
+      "is_sub_article": false,
+      "primary_translation": "container",
+      "word_forms": [
+        {
+          "word_form": "beholder",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hO$l@r",
+              "ipa": "bəˈhɔlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beholderen",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hO$l@n`",
+              "ipa": "bəˈhɔləɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beholdere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hO$l@$r@",
+              "ipa": "bəˈhɔlərə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beholderne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hO$l@$n`@",
+              "ipa": "bəˈhɔləɳə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "39ee11ea9144.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39ee11ea9144.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39ee11ea9144.mp3",
+            "text": "beholder",
+            "source": "generated",
+            "content_sha256": "43debd9e7ba4bc3052082da729237b166a1867e3d332406e0bfaff729bef2078",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hul gjenstand av hardt materiale, brukt til å oppbevare eller transportere væsker, masser eller gjenstander i",
+      "translation": "hollow object made of hard material, used to store or transport liquids, masses, or objects",
+      "examples": []
+    },
+    {
+      "text": "kar, tank, kanne, dunk",
+      "translation": "container, tank, jug, can",
+      "examples": [
+        {
+          "no": "en beholder med brannfarlig væske",
+          "en": "a container with flammable liquid"
+        }
+      ]
+    }
+  ]
+}

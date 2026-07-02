@@ -1,0 +1,121 @@
+{
+  "source_article_id": 122346,
+  "lemmas": [
+    {
+      "lemma": "persentil",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 159836,
+      "is_sub_article": false,
+      "primary_translation": "percentile",
+      "word_forms": [
+        {
+          "word_form": "persentil",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$s`@n$\"ti:l",
+              "ipa": "pəʂənˈtɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "persentilen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$s`@n$\"ti:$ln=",
+              "ipa": "pəʂənˈtɪːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "persentiler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈæʂəntˈiːlər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "persentilene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈæʂəntˌiːln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "35be60f7833e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/35be60f7833e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/35be60f7833e.mp3",
+            "text": "persentil",
+            "source": "generated",
+            "content_sha256": "422229da53536df62941504d90fbcb729b7189ae52fc0bd06695d1f279f2472d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i statistikk: grenseverdi mellom to intervaller i en datamengde som er delt i hundre og ordnet i stigende rekkefølge",
+      "translation": "in statistics: boundary value between two intervals in a dataset divided into one hundred and ordered in ascending order",
+      "examples": []
+    }
+  ]
+}

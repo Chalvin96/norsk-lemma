@@ -1,0 +1,111 @@
+{
+  "source_article_id": 53019,
+  "lemmas": [
+    {
+      "lemma": "skjelv",
+      "hgno": 3,
+      "pos": "ADJ",
+      "source_lemma_id": 61122,
+      "is_sub_article": false,
+      "primary_translation": "trembling",
+      "word_forms": [
+        {
+          "word_form": "skjelv",
+          "tags_json": [
+            "a1, a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SElv",
+              "ipa": "ˈʃɛlv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skjelve",
+          "tags_json": [
+            "a1, a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SEl$v@",
+              "ipa": "ˈʃɛlvə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skjelvt",
+          "tags_json": [
+            "a1, a2",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SElvt",
+              "ipa": "ˈʃɛlvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3b52d3cf49e3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3b52d3cf49e3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3b52d3cf49e3.mp3",
+            "text": "skjelv",
+            "source": "generated",
+            "content_sha256": "fdbe429fbdd43c9cf7e2dc6b1a1c3259dd518a9bbb5366b3613dd02c578b06f6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som rister eller skjelver",
+      "translation": "shaking or trembling",
+      "examples": [
+        {
+          "no": "bli skjelv i knærne",
+          "en": "get weak in the knees"
+        },
+        {
+          "no": "være skjelv i målet",
+          "en": "have a trembling voice"
+        }
+      ]
+    }
+  ]
+}

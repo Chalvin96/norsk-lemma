@@ -1,0 +1,155 @@
+{
+  "source_article_id": 123010,
+  "lemmas": [
+    {
+      "lemma": "mobildekning",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2006737,
+      "is_sub_article": false,
+      "primary_translation": "mobile coverage",
+      "word_forms": [
+        {
+          "word_form": "mobildekning",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"bi:l$%dE$knIN",
+              "ipa": "mʊˈbɪːlˌdɛknɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mobildekningen",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$\"bi:l$%dE$knIN$@n",
+              "ipa": "mʊˈbɪːlˌdɛknɪŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mobildekninger",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mubˈiːldˌɛknɪŋər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "mobildekningene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mubˈiːldˌɛknɪŋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "mobildekninga",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mubˈiːldˌɛknɪŋɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f137890ad88c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f137890ad88c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f137890ad88c.mp3",
+            "text": "mobildekning",
+            "source": "generated",
+            "content_sha256": "9ed8808ad77e7512ca147bc5e1efb0eb8e353f9b627513ce084c7ca3cfd69d0d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mulighet for mottak av signaler til mobiltelefon i et område",
+      "translation": "possibility of receiving signals for a mobile phone in an area",
+      "examples": []
+    },
+    {
+      "text": "jamfør dekning",
+      "translation": "coverage",
+      "examples": [
+        {
+          "no": "de fikk ikke ringt etter hjelp fordi det ikke var mobildekning der ulykken skjedde",
+          "en": "they were unable to call for help because there was no mobile coverage where the accident happened"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 697,
+  "lemmas": [
+    {
+      "lemma": "albansk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 1488,
+      "is_sub_article": false,
+      "primary_translation": "Albanian",
+      "word_forms": [
+        {
+          "word_form": "albansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Al$\"bA:nsk",
+              "ipa": "ɑlˈbɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "albanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Al$\"bA:n$sk@",
+              "ipa": "ɑlˈbɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0083193083d1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0083193083d1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0083193083d1.mp3",
+            "text": "albansk",
+            "source": "generated",
+            "content_sha256": "1eeee86fc21cdd1ee53af40615efbc0040da1179a09db84903c88000d2625553",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Albania og albanere",
+      "translation": "concerning Albania and Albanians",
+      "examples": [
+        {
+          "no": "albansk språk og litteratur",
+          "en": "Albanian language and literature"
+        }
+      ]
+    }
+  ]
+}

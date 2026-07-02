@@ -1,0 +1,105 @@
+{
+  "source_article_id": 12768,
+  "lemmas": [
+    {
+      "lemma": "enkelt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14872,
+      "is_sub_article": false,
+      "primary_translation": "single / not compound",
+      "word_forms": [
+        {
+          "word_form": "enkelt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"EN$k@lt",
+              "ipa": "ˈɛŋkəlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "enkelte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"EN$k@l$t@",
+              "ipa": "ˈɛŋkəltə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9996ea88d0cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9996ea88d0cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9996ea88d0cf.mp3",
+            "text": "enkelt",
+            "source": "generated",
+            "content_sha256": "605454c302eb57f9c672957e5f37302ad052bff3839ad704d7777b8fe0863d50",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som forekommer i ett eksemplar eller én gang",
+      "translation": "occurring in one copy or one time",
+      "examples": []
+    },
+    {
+      "text": "som ikke er sammensatt",
+      "translation": "not compound",
+      "examples": []
+    },
+    {
+      "text": "enkel, enkeltvis",
+      "translation": "single, individually",
+      "examples": [
+        {
+          "no": "vi kjenner bare til ett enkelt tilfelle",
+          "en": "we know of only one single case"
+        },
+        {
+          "no": "oppløse noe i sine enkelte bestanddeler",
+          "en": "dissolve something into its individual components"
+        },
+        {
+          "no": "han satset på bare to enkelte løp denne sesongen",
+          "en": "he focused on only two individual races this season"
+        }
+      ]
+    }
+  ]
+}

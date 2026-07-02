@@ -1,0 +1,111 @@
+{
+  "source_article_id": 110547,
+  "lemmas": [
+    {
+      "lemma": "brennhard",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 162846,
+      "is_sub_article": false,
+      "primary_translation": "extremely hard / burning-",
+      "word_forms": [
+        {
+          "word_form": "brennhard",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈɛnhˌɑrd",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brennharde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈɛnhˌɑːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brennhardt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈɛnhˌɑʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4c14c28201db.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4c14c28201db.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4c14c28201db.mp3",
+            "text": "brennhard",
+            "source": "generated",
+            "content_sha256": "db857a933f8ae1e1ea4eeed48bd179b58144a2d88c7ec46cadb62fbb5f2d75ed"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært hard",
+      "translation": "very hard",
+      "examples": [
+        {
+          "no": "et brennhardt straffespark",
+          "en": "an extremely hard penalty kick"
+        }
+      ]
+    }
+  ]
+}

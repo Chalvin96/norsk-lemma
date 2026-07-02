@@ -1,0 +1,91 @@
+{
+  "source_article_id": 12226,
+  "lemmas": [
+    {
+      "lemma": "ekvivalent",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 14263,
+      "is_sub_article": false,
+      "primary_translation": "equivalent",
+      "word_forms": [
+        {
+          "word_form": "ekvivalent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$kvI$vA$\"lEnt",
+              "ipa": "ɛkvɪvɑˈlɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ekvivalente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$kvI$vA$\"lEn$t@",
+              "ipa": "ɛkvɪvɑˈlɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bbe06938ae65.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbe06938ae65.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbe06938ae65.mp3",
+            "text": "ekvivalent",
+            "source": "generated",
+            "content_sha256": "80aca3463f73dbbc3ac0d7cd1fd76c865b52a94284b5b82b10c047259e235937",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har samme verdi eller gyldighet",
+      "translation": "having the same value or validity",
+      "examples": [
+        {
+          "no": "ekvivalente størrelser",
+          "en": "equivalent quantities"
+        },
+        {
+          "no": "en ekvivalent oljepris legges til grunn",
+          "en": "an equivalent oil price is used as a basis"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "source_article_id": 49195,
+  "lemmas": [
+    {
+      "lemma": "rustfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 83092,
+      "is_sub_article": false,
+      "primary_translation": "rust-free",
+      "word_forms": [
+        {
+          "word_form": "rustfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ru0$%stfri:",
+              "ipa": "ˈrʉˌstfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "rustfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ru0$%stfri:$@",
+              "ipa": "ˈrʉˌstfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "rustfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ru0$%stfrIt",
+              "ipa": "ˈrʉˌstfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "58095adad443.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/58095adad443.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/58095adad443.mp3",
+            "text": "rustfri",
+            "source": "generated",
+            "content_sha256": "4086705879655f4d6c12bc49d0403cd26f99b71041b8af947b0a9e5c7e33a319",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fri for rust",
+      "translation": "free from rust",
+      "examples": []
+    },
+    {
+      "text": "som ikke ruste",
+      "translation": "that does not rust",
+      "examples": []
+    },
+    {
+      "text": "motstandsdyktig mot rust",
+      "translation": "resistant to rust",
+      "examples": [
+        {
+          "no": "rustfritt stål",
+          "en": "stainless steel"
+        }
+      ]
+    }
+  ]
+}

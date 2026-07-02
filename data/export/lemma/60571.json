@@ -1,0 +1,119 @@
+{
+  "source_article_id": 60571,
+  "lemmas": [
+    {
+      "lemma": "ti",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 69266,
+      "is_sub_article": false,
+      "primary_translation": "seventh scale tone",
+      "word_forms": [
+        {
+          "word_form": "ti",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ti:",
+              "ipa": "ˈtɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ti:$@n",
+              "ipa": "ˈtɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ti:$@r",
+              "ipa": "ˈtɪːər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈiːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c6be065c1f11.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c6be065c1f11.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c6be065c1f11.mp3",
+            "text": "ti",
+            "source": "generated",
+            "content_sha256": "ef679ecc7c9d304cfa1fb32dea44ac2ad4e2d95713dea952379c958f28572105",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sjuende tone i durskala",
+      "translation": "seventh tone in the major scale",
+      "examples": []
+    }
+  ]
+}

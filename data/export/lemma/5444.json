@@ -1,0 +1,178 @@
+{
+  "source_article_id": 5444,
+  "lemmas": [
+    {
+      "lemma": "besetning",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 6416,
+      "is_sub_article": false,
+      "primary_translation": "trimming / crew / livestock",
+      "word_forms": [
+        {
+          "word_form": "besetning",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"sEt$nIN",
+              "ipa": "bəˈsɛtnɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besetningen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"sEt$nIN$@n",
+              "ipa": "bəˈsɛtnɪŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besetninger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"sEt$nIN$@r",
+              "ipa": "bəˈsɛtnɪŋər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besetningene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"sEt$nIN$@$n@",
+              "ipa": "bəˈsɛtnɪŋənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besetninga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bəsˈɛtnɪŋɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bdee81411a02.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bdee81411a02.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bdee81411a02.mp3",
+            "text": "besetning",
+            "source": "generated",
+            "content_sha256": "5df0d0e16075239e7bbceaeda720ea5808474ce76512a23159f2549e2d13db5e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "påsydd pynt",
+      "translation": "sewn-on decoration",
+      "examples": [
+        {
+          "no": "jakka har besetning av skinn",
+          "en": "the jacket has fur trim"
+        }
+      ]
+    },
+    {
+      "text": "mannskap og offiserer",
+      "translation": "crew and officers",
+      "examples": [
+        {
+          "no": "skipet har en besetning på 20",
+          "en": "the ship has a crew of 20"
+        },
+        {
+          "no": "hele besetningen ble reddet",
+          "en": "the entire crew was rescued"
+        },
+        {
+          "no": "et orkester med full besetning",
+          "en": "an orchestra in full complement"
+        }
+      ]
+    },
+    {
+      "text": "samlet antall husdyr på en gård",
+      "translation": "total number of livestock on a farm",
+      "examples": [
+        {
+          "no": "gårdens besetning",
+          "en": "the farm's livestock"
+        },
+        {
+          "no": "slakte ned besetningen",
+          "en": "slaughter the livestock"
+        }
+      ]
+    }
+  ]
+}

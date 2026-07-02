@@ -1,0 +1,74 @@
+{
+  "source_article_id": 36801,
+  "lemmas": [
+    {
+      "lemma": "man",
+      "hgno": 2,
+      "pos": "PRON",
+      "source_lemma_id": 43188,
+      "is_sub_article": false,
+      "primary_translation": "one / people (impersonal pronoun)",
+      "word_forms": [
+        {
+          "word_form": "man",
+          "tags_json": [
+            "Prs",
+            "3",
+            "Sing",
+            "Hum",
+            "Nom"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mAn",
+              "ipa": "ˈmɑn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c8e14a1b1acd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8e14a1b1acd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c8e14a1b1acd.mp3",
+            "text": "man",
+            "source": "generated",
+            "content_sha256": "34d9f07eba8345298e589f127c8b087e64e19cea46a2725d853f22b4788e4e75",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bare som subjekt: en, folk",
+      "translation": "one, people",
+      "examples": [
+        {
+          "no": "man kan aldri vite",
+          "en": "you can never know"
+        },
+        {
+          "no": "man har ikke godt av nikotin",
+          "en": "nicotine is not good for you"
+        },
+        {
+          "no": "man kan hva man vil",
+          "en": "you can do whatever you want"
+        }
+      ]
+    }
+  ]
+}

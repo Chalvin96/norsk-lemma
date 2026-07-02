@@ -1,0 +1,163 @@
+{
+  "source_article_id": 59219,
+  "lemmas": [
+    {
+      "lemma": "særlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67853,
+      "is_sub_article": false,
+      "primary_translation": "special",
+      "word_forms": [
+        {
+          "word_form": "særlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s{:$l`I",
+              "ipa": "ˈsæːɭɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "særlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s{:$l`I$@",
+              "ipa": "ˈsæːɭɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "særligere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈæːɭɪərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "særligst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈæːɭɪgst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "særligste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈæːɭɪgstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "08d20aaefc80.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08d20aaefc80.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08d20aaefc80.mp3",
+            "text": "særlig",
+            "source": "generated",
+            "content_sha256": "8131eb497ca6ae5efa601ce8a5c509a8897bbc4fd6439fd6eebb0d2327389ef9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er utenom det vanlige",
+      "translation": "outside the ordinary",
+      "examples": []
+    },
+    {
+      "text": "særskilt, spesiell",
+      "translation": "special, particular",
+      "examples": [
+        {
+          "no": "i særlige tilfeller",
+          "en": "in special cases"
+        },
+        {
+          "no": "bli utnevnt til professor med særlig plikt til å forelese i offentlig rett",
+          "en": "be appointed professor with a special duty to lecture in public law"
+        },
+        {
+          "no": "skaden ble ikke særlig stor",
+          "en": "the damage was not particularly great"
+        },
+        {
+          "no": "været var bra i sommer, særlig på Østlandet",
+          "en": "the weather was good this summer, especially in Eastern Norway"
+        }
+      ]
+    }
+  ]
+}

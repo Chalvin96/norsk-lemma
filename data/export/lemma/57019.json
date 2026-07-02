@@ -1,0 +1,212 @@
+{
+  "source_article_id": 57019,
+  "lemmas": [
+    {
+      "lemma": "stenge",
+      "hgno": 2,
+      "pos": "VERB",
+      "source_lemma_id": 83925,
+      "is_sub_article": false,
+      "primary_translation": "close / block / catch fish",
+      "word_forms": [
+        {
+          "word_form": "stenge",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stEN$@",
+              "ipa": "ˈstɛŋə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stenger",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stEN$@r",
+              "ipa": "ˈstɛŋər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stenges",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stEN$@s",
+              "ipa": "ˈstɛŋəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stengte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stEN$t@",
+              "ipa": "ˈstɛŋtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stengt",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stENt",
+              "ipa": "ˈstɛŋt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "stengende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stEN$@$n@",
+              "ipa": "ˈstɛŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "steng",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stEN",
+              "ipa": "ˈstɛŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a5af670774fc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a5af670774fc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a5af670774fc.mp3",
+            "text": "stenge",
+            "source": "generated",
+            "content_sha256": "f39d9084e1f16b7393397230e8e5c4af83cdc941c8b99137ee8cb811d31dec54",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lukke igjen (og låse)",
+      "translation": "close (and lock)",
+      "examples": [
+        {
+          "no": "stenge døra",
+          "en": "close the door"
+        }
+      ]
+    },
+    {
+      "text": "bli lukke og låst",
+      "translation": "be closed and locked",
+      "examples": [
+        {
+          "no": "kafeen stenger klokka 20",
+          "en": "the cafe closes at 8 p.m."
+        }
+      ]
+    },
+    {
+      "text": "blokkere, hindre, sperre",
+      "translation": "block, hinder, obstruct",
+      "examples": [
+        {
+          "no": "stenge for utsynet",
+          "en": "block the view"
+        },
+        {
+          "no": "kryssere stengte havneinnløpet",
+          "en": "cruisers blocked the harbor entrance"
+        }
+      ]
+    },
+    {
+      "text": "fange fisk i steng",
+      "translation": "catch fish in a weir",
+      "examples": [
+        {
+          "no": "stenge 70 hl sild",
+          "en": "catch 70 hl of herring in an enclosure"
+        }
+      ]
+    }
+  ]
+}

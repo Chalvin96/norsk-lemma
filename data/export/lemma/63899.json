@@ -1,0 +1,187 @@
+{
+  "source_article_id": 63899,
+  "lemmas": [
+    {
+      "lemma": "uggen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73163,
+      "is_sub_article": false,
+      "primary_translation": "unwell / unpleasant",
+      "word_forms": [
+        {
+          "word_form": "uggen",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$g@n",
+              "ipa": "ˈʉgən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ugne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$gn@",
+              "ipa": "ˈʉgnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "uggent",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$g@nt",
+              "ipa": "ˈʉgənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ugnere",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉgnərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ugnest",
+          "tags_json": [
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉgnəst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ugneste",
+          "tags_json": [
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉgnəstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "570480212908.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/570480212908.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/570480212908.mp3",
+            "text": "uggen",
+            "source": "generated",
+            "content_sha256": "f6d3b7f4d6ccab5e349682ed864493202b0953b020b24c9ecf89f6188facd663",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "råkald, sur",
+      "translation": "chilly, raw",
+      "examples": [
+        {
+          "no": "uggent vær",
+          "en": "bleak weather"
+        }
+      ]
+    },
+    {
+      "text": "trøtt og frossen",
+      "translation": "tired and cold",
+      "examples": [
+        {
+          "no": "ha vond hals og uggen kropp",
+          "en": "have a sore throat and an aching, chilled body"
+        }
+      ]
+    },
+    {
+      "text": "ubehagelig, dårlig",
+      "translation": "unpleasant, bad",
+      "examples": [
+        {
+          "no": "ha uggen mage",
+          "en": "have an upset stomach"
+        },
+        {
+          "no": "den ugne følelsen i brystet",
+          "en": "the uneasy feeling in the chest"
+        },
+        {
+          "no": "de skapte uggen stemning på bussen",
+          "en": "they created an unpleasant atmosphere on the bus"
+        }
+      ]
+    }
+  ]
+}

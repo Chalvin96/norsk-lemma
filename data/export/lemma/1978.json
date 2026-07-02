@@ -1,0 +1,87 @@
+{
+  "source_article_id": 1978,
+  "lemmas": [
+    {
+      "lemma": "annenhver",
+      "hgno": 0,
+      "pos": "DET",
+      "source_lemma_id": 2486,
+      "is_sub_article": false,
+      "primary_translation": "every other",
+      "word_forms": [
+        {
+          "word_form": "annenhver",
+          "tags_json": [
+            "Quant",
+            "Masc",
+            "Sing",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:$nn=$%v{:r",
+              "ipa": "ˈɑːnn̩ˌvæːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "annethvert",
+          "tags_json": [
+            "Quant",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A$n@$%tv{t`",
+              "ipa": "ˈɑnəˌtvæʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b6e5ca1e0265.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b6e5ca1e0265.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b6e5ca1e0265.mp3",
+            "text": "annenhver",
+            "source": "generated",
+            "content_sha256": "dae78bc9d9e2eef680fae1e57b7ccbdfe63a161712967e4a7f7fbb79cd8532e7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hver annen",
+      "translation": "every other",
+      "examples": [
+        {
+          "no": "annenhver gang",
+          "en": "every other time"
+        },
+        {
+          "no": "annenhver dag",
+          "en": "every other day"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_article_id": 9309,
+  "lemmas": [
+    {
+      "lemma": "datakriminalitet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10988,
+      "is_sub_article": false,
+      "primary_translation": "cybercrime",
+      "word_forms": [
+        {
+          "word_form": "datakriminalitet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$krI$mI$nA$lI$%te:t",
+              "ipa": "ˈdɑːtɑkrɪmɪnɑlɪˌteːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datakriminaliteten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$krI$mI$nA$lI$%te:$tn=",
+              "ipa": "ˈdɑːtɑkrɪmɪnɑlɪˌteːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datakriminaliteter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑkrɪmɪnɑlɪtˌeːtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "datakriminalitetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑkrɪmɪnɑlɪtˌeːtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cfdf46220e70.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cfdf46220e70.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cfdf46220e70.mp3",
+            "text": "datakriminalitet",
+            "source": "generated",
+            "content_sha256": "69e9e7aa3563c7441e9c1b6277599f5498a39a1dd864e29d9d626d1b49b4de09",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lovbrudd med bruk av datateknologi",
+      "translation": "offense using computer technology",
+      "examples": [
+        {
+          "no": "begå datakriminalitet",
+          "en": "commit cybercrime"
+        },
+        {
+          "no": "innføre lov mot datakriminalitet",
+          "en": "introduce a law against cybercrime"
+        }
+      ]
+    }
+  ]
+}

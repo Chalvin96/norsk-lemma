@@ -1,0 +1,132 @@
+{
+  "source_article_id": 24785,
+  "lemmas": [
+    {
+      "lemma": "hverdag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29229,
+      "is_sub_article": false,
+      "primary_translation": "weekday / ordinary life",
+      "word_forms": [
+        {
+          "word_form": "hverdag",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:$%d`A:g",
+              "ipa": "ˈvæːˌɖɑːg",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hverdagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:$%d`A:$g@n",
+              "ipa": "ˈvæːˌɖɑːgən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hverdager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:$%d`A:$g@r",
+              "ipa": "ˈvæːˌɖɑːgər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hverdagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:$%d`A:$g@$n@",
+              "ipa": "ˈvæːˌɖɑːgənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7f7b01e0c58f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7f7b01e0c58f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7f7b01e0c58f.mp3",
+            "text": "hverdag",
+            "source": "generated",
+            "content_sha256": "0c4dc254df215e7e29aceb78b484d744093576c38f83f5511f266c45ebb0d718",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ukedag som ikke er søndag eller helligdag",
+      "translation": "weekday that is not Sunday or a holiday",
+      "examples": [
+        {
+          "no": "bussen går bare på hverdager",
+          "en": "the bus runs only on weekdays"
+        }
+      ]
+    },
+    {
+      "text": "vanlig dagligliv, med plikter, arbeid osv.",
+      "translation": "ordinary daily life, with duties, work, etc.",
+      "examples": [
+        {
+          "no": "etter bryllupsreisen kom den grå hverdagen",
+          "en": "after the honeymoon, the gray everyday routine set in"
+        }
+      ]
+    }
+  ]
+}

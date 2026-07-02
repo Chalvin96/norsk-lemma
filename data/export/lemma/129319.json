@@ -1,0 +1,120 @@
+{
+  "source_article_id": 129319,
+  "lemmas": [
+    {
+      "lemma": "småsår",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 2873064,
+      "is_sub_article": false,
+      "primary_translation": "slightly sore / sad",
+      "word_forms": [
+        {
+          "word_form": "småsår",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%so:r",
+              "ipa": "ˈsmoːˌsoːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småsåre",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːsˌoːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "småsårt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːsˌoːʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "17ce54d7590c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17ce54d7590c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17ce54d7590c.mp3",
+            "text": "småsår",
+            "source": "generated",
+            "content_sha256": "b475344bafd74c1cb7b700f31016226336737becf5d302ff8f51d1fc819573e3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "litt sår",
+      "translation": "slightly sore",
+      "examples": [
+        {
+          "no": "småsåre tær",
+          "en": "slightly sore toes"
+        }
+      ]
+    },
+    {
+      "text": "som er preget av sorg eller tristhet",
+      "translation": "characterized by grief or sadness",
+      "examples": [
+        {
+          "no": "småsåre ballader",
+          "en": "slightly plaintive ballads"
+        }
+      ]
+    }
+  ]
+}

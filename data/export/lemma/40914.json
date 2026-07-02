@@ -1,0 +1,62 @@
+{
+  "source_article_id": 40914,
+  "lemmas": [
+    {
+      "lemma": "NN",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 609,
+      "is_sub_article": false,
+      "primary_translation": "Mr. X",
+      "word_forms": [
+        {
+          "word_form": "NN",
+          "tags_json": [
+            "ABBR"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"En_\"En",
+              "ipa": "ˈɛn_ˈɛn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c2820229f652.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2820229f652.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2820229f652.mp3",
+            "text": "NN",
+            "source": "generated",
+            "content_sha256": "b13d4f34291754a7377cf65ac877e0d2ec8004c6aa735a9b3cdc0119ce902191",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "betegnelse for en ukjent person, en person en ikke vil nevne navnet på, eller for en hvilken som helst person",
+      "translation": "designation for an unknown person, a person whose name one does not wish to mention, for any person",
+      "examples": [
+        {
+          "no": "herr NN",
+          "en": "Mr. So-and-so"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_article_id": 54120,
+  "lemmas": [
+    {
+      "lemma": "skånsel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62366,
+      "is_sub_article": false,
+      "primary_translation": "mercy",
+      "word_forms": [
+        {
+          "word_form": "skånsel",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skOn$sl=",
+              "ipa": "ˈskɔnsl̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skånselen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skOn$s@$ln=",
+              "ipa": "ˈskɔnsəln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skånsler",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈoːnslər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skånslene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "skˈoːnsln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "29b925e2a9a5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/29b925e2a9a5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/29b925e2a9a5.mp3",
+            "text": "skånsel",
+            "source": "generated",
+            "content_sha256": "365c9a806a4998da3f1f790e9483b766e38f44b85e3ff384b410a1e10a32d376",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å skåne noen fra noe negativt",
+      "translation": "the act of sparing someone from something negative",
+      "examples": [
+        {
+          "no": "straffe uten skånsel",
+          "en": "punish without mercy"
+        },
+        {
+          "no": "hun viste ingen skånsel",
+          "en": "she showed no mercy"
+        }
+      ]
+    }
+  ]
+}

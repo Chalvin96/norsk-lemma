@@ -1,0 +1,124 @@
+{
+  "source_article_id": 110079,
+  "lemmas": [
+    {
+      "lemma": "dropp",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 162607,
+      "is_sub_article": false,
+      "primary_translation": "drop (sports)",
+      "word_forms": [
+        {
+          "word_form": "dropp",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drOp",
+              "ipa": "ˈdrɔp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "droppen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "drˈɔpən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dropper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"drO$p@r",
+              "ipa": "ˈdrɔpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "droppene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drO$p@$n@",
+              "ipa": "ˈdrɔpənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "20b6aa69afee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20b6aa69afee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20b6aa69afee.mp3",
+            "text": "dropp",
+            "source": "generated",
+            "content_sha256": "79e6c9149d9711f90e4a6fc4cd4c21c0ea4cc812e4b9bd7f2a6370fc6a028245",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "slipp slepp av ball eller puck i lagspill",
+      "translation": "release or drop of a ball or puck in team sports",
+      "examples": [
+        {
+          "no": "vinne droppen",
+          "en": "win the faceoff"
+        }
+      ]
+    }
+  ]
+}

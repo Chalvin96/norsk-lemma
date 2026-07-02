@@ -1,0 +1,106 @@
+{
+  "source_article_id": 56342,
+  "lemmas": [
+    {
+      "lemma": "sprengkald",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64841,
+      "is_sub_article": false,
+      "primary_translation": "bitterly cold",
+      "word_forms": [
+        {
+          "word_form": "sprengkald",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sprEN$%kAl",
+              "ipa": "ˈsprɛŋˌkɑl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sprengkalde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sprEN$%kA$l@",
+              "ipa": "ˈsprɛŋˌkɑlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sprengkaldt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sprEN$%kAlt",
+              "ipa": "ˈsprɛŋˌkɑlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "21ec7f0ddbd8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21ec7f0ddbd8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21ec7f0ddbd8.mp3",
+            "text": "sprengkald",
+            "source": "generated",
+            "content_sha256": "018ba5510331afa9d74a68807a7aa00038792d5ae6da59a2bfc6c137275ad5ef",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bitende kald",
+      "translation": "bitingly cold",
+      "examples": [
+        {
+          "no": "det er sprengkaldt i dag",
+          "en": "it's bitterly cold today"
+        }
+      ]
+    }
+  ]
+}

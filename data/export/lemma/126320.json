@@ -1,0 +1,112 @@
+{
+  "source_article_id": 126320,
+  "lemmas": [
+    {
+      "lemma": "blåtann",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2859902,
+      "is_sub_article": false,
+      "primary_translation": "bluetooth",
+      "word_forms": [
+        {
+          "word_form": "blåtann",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$%tAn",
+              "ipa": "ˈbloːˌtɑn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåtannen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈoːtˌɑnn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "blåtanna",
+          "tags_json": [
+            "Fem",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈoːtˌɑnɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cc3ea79b7d25.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc3ea79b7d25.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc3ea79b7d25.mp3",
+            "text": "blåtann",
+            "source": "generated",
+            "content_sha256": "8c38c8fb232fd180c654ae2dafcdc233f4063b8af347a494dc8cae8cea6ef8df",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "teknologi for trådløs overføring av digitale data over korte avstander",
+      "translation": "technology for wireless transmission of digital data over short distances",
+      "examples": [
+        {
+          "no": "strømme musikk ved hjelp av blåtann",
+          "en": "stream music using bluetooth"
+        },
+        {
+          "no": "du kan sende bilder fra mobilen via blåtannen",
+          "en": "you can send pictures from your mobile phone via bluetooth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 135822,
+  "lemmas": [
+    {
+      "lemma": "åh",
+      "hgno": 0,
+      "pos": "INTERJ",
+      "source_lemma_id": 155555,
+      "is_sub_article": false,
+      "primary_translation": "oh / express emotion",
+      "word_forms": [
+        {
+          "word_form": "åh",
+          "tags_json": [
+            "INTJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈoː",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3fbf6ce7838d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3fbf6ce7838d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3fbf6ce7838d.mp3",
+            "text": "åh",
+            "source": "generated",
+            "content_sha256": "30674913c436c3420b9788be3c6da1c10e9c037991dda58dd62303a260b5c4d6"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt for å uttrykke ulike følelser, for eksempel begeistring, overraskelse, skuffelse, oppgitthet",
+      "translation": "used to express various emotions, such as enthusiasm, surprise, disappointment, resignation",
+      "examples": []
+    },
+    {
+      "text": "jamfør å",
+      "translation": "oh",
+      "examples": [
+        {
+          "no": "åh, så heldige de er",
+          "en": "oh, how lucky they are"
+        },
+        {
+          "no": "åh, så synd at dere må dra",
+          "en": "oh, what a shame that you have to leave"
+        },
+        {
+          "no": "åh, det fungerer ikke",
+          "en": "oh, it's not working"
+        },
+        {
+          "no": "åh, det var fint",
+          "en": "oh, that was nice"
+        }
+      ]
+    }
+  ]
+}

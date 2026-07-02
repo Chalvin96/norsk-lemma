@@ -1,0 +1,87 @@
+{
+  "source_article_id": 24946,
+  "lemmas": [
+    {
+      "lemma": "hyklersk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 29460,
+      "is_sub_article": false,
+      "primary_translation": "hypocritical",
+      "word_forms": [
+        {
+          "word_form": "hyklersk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hY$kl@$s`k",
+              "ipa": "ˈhʏkləʂk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hyklerske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hY$kl@$s`k@",
+              "ipa": "ˈhʏkləʂkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a35a085e7a12.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a35a085e7a12.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a35a085e7a12.mp3",
+            "text": "hyklersk",
+            "source": "generated",
+            "content_sha256": "010e3305493ff144d99a2082b060653849fb0d3c251005bae76163512a0c4a41",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fylt av hykleri",
+      "translation": "filled with hypocrisy",
+      "examples": [
+        {
+          "no": "et hyklersk samfunn",
+          "en": "a hypocritical society"
+        }
+      ]
+    }
+  ]
+}

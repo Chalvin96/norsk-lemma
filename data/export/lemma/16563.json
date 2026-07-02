@@ -1,0 +1,105 @@
+{
+  "source_article_id": 16563,
+  "lemmas": [
+    {
+      "lemma": "formentlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19200,
+      "is_sub_article": false,
+      "primary_translation": "alleged/presumably",
+      "word_forms": [
+        {
+          "word_form": "formentlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"mEnt$lI",
+              "ipa": "fɔrˈmɛntlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "formentlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"mEnt$lI$@",
+              "ipa": "fɔrˈmɛntlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e3fc4794b24.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e3fc4794b24.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e3fc4794b24.mp3",
+            "text": "formentlig",
+            "source": "generated",
+            "content_sha256": "e98b61dcdbdbfbd084fbbed2249a4e74487af0be9849972f31bf622c5cdf8cd3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "antatt, påstått",
+      "translation": "assumed, alleged",
+      "examples": [
+        {
+          "no": "den formentlige gjerningsmann",
+          "en": "the alleged perpetrator"
+        },
+        {
+          "no": "de ble tatt med formentlig tyvegods",
+          "en": "they were caught with allegedly stolen goods"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: rimeligvis, formodentlig, sannsynligvis",
+      "translation": "used as: reasonably, presumably, probably",
+      "examples": [
+        {
+          "no": "det er formentlig for sent",
+          "en": "it is presumably too late"
+        },
+        {
+          "no": "de vil formentlig bli framstilt for varektsfengsling i morgen",
+          "en": "they will presumably be brought before the court for pretrial detention tomorrow"
+        }
+      ]
+    }
+  ]
+}

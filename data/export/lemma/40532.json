@@ -1,0 +1,106 @@
+{
+  "source_article_id": 40532,
+  "lemmas": [
+    {
+      "lemma": "nedsenkbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47448,
+      "is_sub_article": false,
+      "primary_translation": "submersible",
+      "word_forms": [
+        {
+          "word_form": "nedsenkbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$s@Nk$%bA:r",
+              "ipa": "ˈneːdsəŋkˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedsenkbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$s@Nk$%bA:$r@",
+              "ipa": "ˈneːdsəŋkˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedsenkbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$s@Nk$%bA:t`",
+              "ipa": "ˈneːdsəŋkˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9db2fdbc66bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9db2fdbc66bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9db2fdbc66bc.mp3",
+            "text": "nedsenkbar",
+            "source": "generated",
+            "content_sha256": "dd83c3ba3642336dd50e9308768895c2292ca6b56c550a2d5232df07e0fbea6e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan senkes ned",
+      "translation": "that can be lowered down",
+      "examples": [
+        {
+          "no": "en halvt nedsenkbar boreplattform",
+          "en": "a semi-submersible drilling platform"
+        }
+      ]
+    }
+  ]
+}

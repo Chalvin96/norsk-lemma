@@ -1,0 +1,100 @@
+{
+  "source_article_id": 35496,
+  "lemmas": [
+    {
+      "lemma": "livsfarlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41270,
+      "is_sub_article": false,
+      "primary_translation": "life-threatening",
+      "word_forms": [
+        {
+          "word_form": "livsfarlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lIvs$%fA:$l`I",
+              "ipa": "ˈlɪvsˌfɑːɭɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "livsfarlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lIvs$%fA:$l`I$@",
+              "ipa": "ˈlɪvsˌfɑːɭɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e9b8a2dea8bd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9b8a2dea8bd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9b8a2dea8bd.mp3",
+            "text": "livsfarlig",
+            "source": "generated",
+            "content_sha256": "0673270bda34ef69f453b8050c2a441c7bb9f110c53254f102af6674e9b6e355",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fører med seg livsfare",
+      "translation": "entailing danger to life",
+      "examples": []
+    },
+    {
+      "text": "svært farlig",
+      "translation": "extremely dangerous",
+      "examples": [
+        {
+          "no": "en livsfarlig dose narkotika",
+          "en": "a deadly dose of narcotics"
+        },
+        {
+          "no": "det er livsfarlig å hoppe av en bil i fart",
+          "en": "it is deadly to jump from a moving car"
+        },
+        {
+          "no": "være livsfarlig skadd",
+          "en": "be critically injured"
+        }
+      ]
+    }
+  ]
+}

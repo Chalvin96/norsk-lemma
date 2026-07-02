@@ -1,0 +1,88 @@
+{
+  "source_article_id": 126231,
+  "lemmas": [
+    {
+      "lemma": "radiostyrt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 132400,
+      "is_sub_article": false,
+      "primary_translation": "radio-controlled",
+      "word_forms": [
+        {
+          "word_form": "radiostyrt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈɑːdɪustˌyːʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "radiostyrte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rA:$dI$U$%sty:$t`@",
+              "ipa": "ˈrɑːdɪʊˌstyːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "397a80b4205e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/397a80b4205e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/397a80b4205e.mp3",
+            "text": "radiostyrt",
+            "source": "generated",
+            "content_sha256": "9c71cce5942b64721bb84f817030fc93f8338ad1e761169fa562b0a279c69e36"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er fjernstyrt ved hjelp av signaler fra radiosender",
+      "translation": "controlled by signals from a radio transmitter",
+      "examples": [
+        {
+          "no": "leke med radiostyrte biler",
+          "en": "play with radio-controlled cars"
+        }
+      ]
+    }
+  ]
+}

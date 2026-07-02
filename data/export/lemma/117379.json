@@ -1,0 +1,128 @@
+{
+  "source_article_id": 117379,
+  "lemmas": [
+    {
+      "lemma": "husvarme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 166441,
+      "is_sub_article": false,
+      "primary_translation": "indoor warmth",
+      "word_forms": [
+        {
+          "word_form": "husvarme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h}:$%svAr$m@",
+              "ipa": "ˈhʉːˌsvɑrmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "husvarmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈʉːsʋˌɑrmən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "husvarmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈʉːsʋˌɑrmər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "husvarmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈʉːsʋˌɑrmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7414729cd5be.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7414729cd5be.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7414729cd5be.mp3",
+            "text": "husvarme",
+            "source": "generated",
+            "content_sha256": "d84fc5ec9f617cd989f36a4d669c066f342a8f780abc196e5ca81de83ff3045d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "varme innendørs",
+      "translation": "warmth indoors",
+      "examples": [
+        {
+          "no": "sitte inne i husvarmen",
+          "en": "sit indoors in the warmth of the house"
+        }
+      ]
+    }
+  ]
+}

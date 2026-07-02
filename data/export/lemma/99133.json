@@ -1,0 +1,111 @@
+{
+  "source_article_id": 99133,
+  "lemmas": [
+    {
+      "lemma": "antiviral",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 157149,
+      "is_sub_article": false,
+      "primary_translation": "antiviral",
+      "word_forms": [
+        {
+          "word_form": "antiviral",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑntɪʋɪrˌɑːl",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "antivirale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑntɪʋɪrˈɑːlə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "antiviralt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑntɪʋɪrˈɑːlt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "efe064170ffd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/efe064170ffd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/efe064170ffd.mp3",
+            "text": "antiviral",
+            "source": "generated",
+            "content_sha256": "aff11f156d629b4797ba30516d6121573098ca258ff96e68bb5f43eb23521f4d"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som motvirker virus",
+      "translation": "that counteracts viruses",
+      "examples": [
+        {
+          "no": "antivirale legemidler",
+          "en": "antiviral drugs"
+        }
+      ]
+    }
+  ]
+}

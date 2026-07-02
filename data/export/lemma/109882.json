@@ -1,0 +1,128 @@
+{
+  "source_article_id": 109882,
+  "lemmas": [
+    {
+      "lemma": "bipolar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 160051,
+      "is_sub_article": false,
+      "primary_translation": "bipolar",
+      "word_forms": [
+        {
+          "word_form": "bipolar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bi:$%pu:$lAr",
+              "ipa": "ˈbɪːˌpuːlɑr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bipolare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bi:$pu:$%lA:$r@",
+              "ipa": "ˈbɪːpuːˌlɑːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bipolart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈiːpulˈɑːʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "310cf91f363c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/310cf91f363c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/310cf91f363c.mp3",
+            "text": "bipolar",
+            "source": "generated",
+            "content_sha256": "3bb263fec6c4195d1b4b1ab874acb8f1e85f152503c4920c5856fd4c8ef7f69e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fins i begge polarområdene",
+      "translation": "found in both polar regions",
+      "examples": [
+        {
+          "no": "bipolare arter",
+          "en": "bipolar species"
+        }
+      ]
+    },
+    {
+      "text": "med to motsetninger",
+      "translation": "with two opposites",
+      "examples": [
+        {
+          "no": "i en bipolar verden",
+          "en": "in a bipolar world"
+        }
+      ]
+    },
+    {
+      "text": "som har bipolar lidelse",
+      "translation": "having bipolar disorder",
+      "examples": [
+        {
+          "no": "han er bipolar",
+          "en": "he is bipolar"
+        }
+      ]
+    }
+  ]
+}

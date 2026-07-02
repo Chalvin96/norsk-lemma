@@ -1,0 +1,87 @@
+{
+  "source_article_id": 15900,
+  "lemmas": [
+    {
+      "lemma": "fonologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 18448,
+      "is_sub_article": false,
+      "primary_translation": "phonological",
+      "word_forms": [
+        {
+          "word_form": "fonologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fU$nU$\"lo:$gI$sk",
+              "ipa": "fʊnʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fonologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fU$nU$\"lo:$gI$sk@",
+              "ipa": "fʊnʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9506170155f8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9506170155f8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9506170155f8.mp3",
+            "text": "fonologisk",
+            "source": "generated",
+            "content_sha256": "102587d4a81f84ea31b49e1f9f4eb0f8b14d3a768a5828aea9679ac3f7493705",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder fonologi",
+      "translation": "relating to phonology",
+      "examples": [
+        {
+          "no": "et fonologisk studium",
+          "en": "a phonological study"
+        }
+      ]
+    }
+  ]
+}

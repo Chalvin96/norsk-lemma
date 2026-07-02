@@ -1,0 +1,128 @@
+{
+  "source_article_id": 46185,
+  "lemmas": [
+    {
+      "lemma": "primo",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 53195,
+      "is_sub_article": false,
+      "primary_translation": "first voice / soprano",
+      "word_forms": [
+        {
+          "word_form": "primo",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pri:$mU",
+              "ipa": "ˈprɪːmʊ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "primoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈiːmˌuːən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "primoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈiːmuər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "primoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈiːmuənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a92e4ed36456.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a92e4ed36456.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a92e4ed36456.mp3",
+            "text": "primo",
+            "source": "generated",
+            "content_sha256": "2ef851c23f171156e9374eea17c9cbb8dbd4d5332ddec4660088fcd437623f86",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "førstestemme (i duett)",
+      "translation": "first voice (in a duet)",
+      "examples": []
+    },
+    {
+      "text": "diskant i firhendig klaverspill",
+      "translation": "soprano in four-hand piano playing",
+      "examples": []
+    }
+  ]
+}

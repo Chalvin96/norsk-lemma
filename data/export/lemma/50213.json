@@ -1,0 +1,144 @@
+{
+  "source_article_id": 50213,
+  "lemmas": [
+    {
+      "lemma": "sart",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57602,
+      "is_sub_article": false,
+      "primary_translation": "delicate / sensitive",
+      "word_forms": [
+        {
+          "word_form": "sart",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sA:t`",
+              "ipa": "ˈsɑːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sarte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA:$t`@",
+              "ipa": "ˈsɑːʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sartere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA:$t`@$r@",
+              "ipa": "ˈsɑːʈərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sartest",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sA:$t`@$st",
+              "ipa": "ˈsɑːʈəst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sarteste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sA:$t`@$st@",
+              "ipa": "ˈsɑːʈəstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cc5c6b19894e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc5c6b19894e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc5c6b19894e.mp3",
+            "text": "sart",
+            "source": "generated",
+            "content_sha256": "ceb1200ca71a32b36e86415347b714e196bd93b31f071fe937428b3963e23b32",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sped, tander, fintfølende",
+      "translation": "delicate, sensitive, easily touched",
+      "examples": [
+        {
+          "no": "unge, sarte sjeler",
+          "en": "young, sensitive souls"
+        },
+        {
+          "no": "ha sarte nerver",
+          "en": "have sensitive nerves"
+        }
+      ]
+    }
+  ]
+}

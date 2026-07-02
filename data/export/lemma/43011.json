@@ -1,0 +1,87 @@
+{
+  "source_article_id": 43011,
+  "lemmas": [
+    {
+      "lemma": "oppsagt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49842,
+      "is_sub_article": false,
+      "primary_translation": "laid off",
+      "word_forms": [
+        {
+          "word_form": "oppsagt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%sAkt",
+              "ipa": "ˈɔpˌsɑkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oppsagte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%sAk$t@",
+              "ipa": "ˈɔpˌsɑktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b262086d4b87.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b262086d4b87.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b262086d4b87.mp3",
+            "text": "oppsagt",
+            "source": "generated",
+            "content_sha256": "b77dd2a085e526e044b23a1691811ad0190c0a8010df6f7879710cbf9388567f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har mistet jobben",
+      "translation": "having lost one's job",
+      "examples": [
+        {
+          "no": "60 arbeidere ved bedriften er oppsagt",
+          "en": "60 workers at the company have been laid off"
+        }
+      ]
+    }
+  ]
+}

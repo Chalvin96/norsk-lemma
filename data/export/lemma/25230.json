@@ -1,0 +1,96 @@
+{
+  "source_article_id": 25230,
+  "lemmas": [
+    {
+      "lemma": "høstlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30152,
+      "is_sub_article": false,
+      "primary_translation": "autumnal",
+      "word_forms": [
+        {
+          "word_form": "høstlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h9$stlI",
+              "ipa": "ˈhœstlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "høstlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h9$stlI$@",
+              "ipa": "ˈhœstlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "586fff874de5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/586fff874de5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/586fff874de5.mp3",
+            "text": "høstlig",
+            "source": "generated",
+            "content_sha256": "859a5998fd884b16f8374f35eb1ce0edae86660f011283e60d99ad92f4cd1f13",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er en del av høsten eller er preget av høst",
+      "translation": "part of autumn, characterized by autumn",
+      "examples": []
+    },
+    {
+      "text": "særlig om vær, landskap og lignende: slik som det pleier å være om høsten",
+      "translation": "describing weather, landscape, etc.: as it usually is in autumn",
+      "examples": [
+        {
+          "no": "en årviss høstlig foreteelse",
+          "en": "an annual autumn occurrence"
+        },
+        {
+          "no": "en høstlig kveldstur langs fjorden",
+          "en": "an autumn evening walk along the fjord"
+        }
+      ]
+    }
+  ]
+}

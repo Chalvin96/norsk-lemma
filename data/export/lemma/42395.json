@@ -1,0 +1,79 @@
+{
+  "source_article_id": 42395,
+  "lemmas": [
+    {
+      "lemma": "oppegående",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49535,
+      "is_sub_article": false,
+      "primary_translation": "up and about / alert",
+      "word_forms": [
+        {
+          "word_form": "oppegående",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"O$p@$%go:$@$n@",
+              "ipa": "ˈɔpəˌgoːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "958ccb8a6209.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/958ccb8a6209.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/958ccb8a6209.mp3",
+            "text": "oppegående",
+            "source": "generated",
+            "content_sha256": "ef61a06a49d2d95490512332ae904abbd50cebdcae480a005ab8641dd4b00de6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke ligger til sengs",
+      "translation": "not confined to bed",
+      "examples": [
+        {
+          "no": "oppegående pasienter",
+          "en": "ambulatory patients"
+        }
+      ]
+    },
+    {
+      "text": "gløgg, oppvakt",
+      "translation": "alert, awake",
+      "examples": [
+        {
+          "no": "han er i høyeste grad oppegående",
+          "en": "he is highly alert"
+        }
+      ]
+    }
+  ]
+}

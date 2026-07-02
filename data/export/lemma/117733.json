@@ -1,0 +1,118 @@
+{
+  "source_article_id": 117733,
+  "lemmas": [
+    {
+      "lemma": "ikke-kristen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 108631,
+      "is_sub_article": false,
+      "primary_translation": "non-Christian",
+      "word_forms": [
+        {
+          "word_form": "ikke-kristen",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪkəkrˌɪstn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ikke-kristne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"I$k@$%krI$stn@",
+              "ipa": "ˈɪkəˌkrɪstnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ikke-kristent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪkəkrˌɪstn̩t",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3a60c04b3ff3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a60c04b3ff3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a60c04b3ff3.mp3",
+            "text": "ikke-kristen",
+            "source": "generated",
+            "content_sha256": "b1d622abfc739e691cc0115186c4df927d6091bce40ccfe03a5b7345fe09f3db"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er kristen",
+      "translation": "who is not Christian",
+      "examples": []
+    },
+    {
+      "text": "som ikke tilhører kristendommen",
+      "translation": "who does not belong to Christianity",
+      "examples": [
+        {
+          "no": "ikke-kristne elever",
+          "en": "non-Christian pupils"
+        },
+        {
+          "no": "ikke-kristne trossamfunn",
+          "en": "non-Christian religious communities"
+        }
+      ]
+    }
+  ]
+}

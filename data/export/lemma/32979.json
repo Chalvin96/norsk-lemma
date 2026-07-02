@@ -1,0 +1,111 @@
+{
+  "source_article_id": 32979,
+  "lemmas": [
+    {
+      "lemma": "kvalfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 38677,
+      "is_sub_article": false,
+      "primary_translation": "agonizing / nauseous",
+      "word_forms": [
+        {
+          "word_form": "kvalfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvA:l$%fu0l",
+              "ipa": "ˈkvɑːlˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kvalfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvA:l$%fu0$l@",
+              "ipa": "ˈkvɑːlˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kvalfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvA:l$%fu0lt",
+              "ipa": "ˈkvɑːlˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "846c798542bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/846c798542bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/846c798542bf.mp3",
+            "text": "kvalfull",
+            "source": "generated",
+            "content_sha256": "922b9c068c9a79047d0ff7b5facd263a2289fa0a95224082ac5febd844ef4385",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "full av kval",
+      "translation": "full of nausea",
+      "examples": []
+    },
+    {
+      "text": "pinefull",
+      "translation": "agonizing",
+      "examples": [
+        {
+          "no": "et kvalfullt sjelsliv",
+          "en": "a soul full of anguish"
+        }
+      ]
+    }
+  ]
+}

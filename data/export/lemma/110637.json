@@ -1,0 +1,94 @@
+{
+  "source_article_id": 110637,
+  "lemmas": [
+    {
+      "lemma": "bråfort",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 92000,
+      "is_sub_article": false,
+      "primary_translation": "very fast",
+      "word_forms": [
+        {
+          "word_form": "bråfort",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈoːfɔʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bråforte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈoːfˌuʈə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "93e97012a1de.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93e97012a1de.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93e97012a1de.mp3",
+            "text": "bråfort",
+            "source": "generated",
+            "content_sha256": "da363d6f8e8de954bce1676ab4e4bea8e005d672f79e327378767c180a93bbd2"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært fort",
+      "translation": "very fast",
+      "examples": [
+        {
+          "no": "i bråforte blink",
+          "en": "in the blink of an eye"
+        },
+        {
+          "no": "hun trekker hånden bråfort til seg",
+          "en": "she jerks her hand back in an instant"
+        }
+      ]
+    }
+  ]
+}

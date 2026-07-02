@@ -1,0 +1,119 @@
+{
+  "source_article_id": 67955,
+  "lemmas": [
+    {
+      "lemma": "verst",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 78460,
+      "is_sub_article": false,
+      "primary_translation": "worst",
+      "word_forms": [
+        {
+          "word_form": "verst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{s`t`",
+              "ipa": "ˈvæʂʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "verste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{s`$t`@",
+              "ipa": "ˈvæʂʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a0be7ff8cf52.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0be7ff8cf52.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0be7ff8cf52.mp3",
+            "text": "verst",
+            "source": "generated",
+            "content_sha256": "0b9b735f32b68f76f717086009394613c324625543db9eecaa4a8b0374d29fe2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mest ugunstig",
+      "translation": "most unfavorable",
+      "examples": []
+    },
+    {
+      "text": "dårligst, minst god",
+      "translation": "worst, least good",
+      "examples": []
+    },
+    {
+      "text": "mest negativ",
+      "translation": "most negative",
+      "examples": []
+    },
+    {
+      "text": "mest ubehagelig",
+      "translation": "most unpleasant",
+      "examples": []
+    },
+    {
+      "text": "mest utrivelig",
+      "translation": "most dreary",
+      "examples": [
+        {
+          "no": "den verste dagen i livet",
+          "en": "the worst day of my life"
+        },
+        {
+          "no": "den verste tørken på mange år",
+          "en": "the worst drought in many years"
+        },
+        {
+          "no": "mitt verste mareritt",
+          "en": "my worst nightmare"
+        },
+        {
+          "no": "det gikk verst på tyskprøven",
+          "en": "I did worst on the German exam"
+        }
+      ]
+    }
+  ]
+}

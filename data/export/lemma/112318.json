@@ -1,0 +1,128 @@
+{
+  "source_article_id": 112318,
+  "lemmas": [
+    {
+      "lemma": "elektrolysør",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163758,
+      "is_sub_article": false,
+      "primary_translation": "electrolyzer",
+      "word_forms": [
+        {
+          "word_form": "elektrolysør",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"lEk$trU$lY$%s2:r",
+              "ipa": "ɛˈlɛktrʊlʏˌsøːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elektrolysøren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛlˈɛktrulʏsˌøːɳ̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elektrolysører",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛlˈɛktrulʏsˌøːrər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elektrolysørene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛlˈɛktrulʏsˌøːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "09dfac96034d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09dfac96034d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09dfac96034d.mp3",
+            "text": "elektrolysør",
+            "source": "generated",
+            "content_sha256": "004eed1aad143a63a0c910bdcbb6ac379ff85c07c3730a40c520e6eedc64eb55",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "apparat for elektrolyse",
+      "translation": "apparatus for electrolysis",
+      "examples": [
+        {
+          "no": "hydrogenstasjonen skal produsere drivstoffet med en elektrolysør",
+          "en": "the hydrogen station will produce the fuel with an electrolyzer"
+        }
+      ]
+    }
+  ]
+}

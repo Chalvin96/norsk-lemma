@@ -1,0 +1,153 @@
+{
+  "source_article_id": 15001,
+  "lemmas": [
+    {
+      "lemma": "fjell",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 17404,
+      "is_sub_article": false,
+      "primary_translation": "mountain / high ground / bedrock",
+      "word_forms": [
+        {
+          "word_form": "fjell",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fjEl",
+              "ipa": "ˈfjɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fjellet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fjE$l@",
+              "ipa": "ˈfjɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fjella",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fjE$lA",
+              "ipa": "ˈfjɛlɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fjellene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fjE$ln=$@",
+              "ipa": "ˈfjɛln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "408481f56c99.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/408481f56c99.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/408481f56c99.mp3",
+            "text": "fjell",
+            "source": "generated",
+            "content_sha256": "006a273dc844c2247607014681686b38e34e0c8eb94f2130530a1e975f2e7e8a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "høyt berg, topp over tregrensen",
+      "translation": "high mountain, peak above the treeline",
+      "examples": [
+        {
+          "no": "høye fjell",
+          "en": "high mountains"
+        },
+        {
+          "no": "verdens høyeste fjell",
+          "en": "the world's highest mountains"
+        },
+        {
+          "no": "fjell og daler",
+          "en": "mountains and valleys"
+        }
+      ]
+    },
+    {
+      "text": "vidde, område som ligger høyt",
+      "translation": "expanse, area that lies high",
+      "examples": [
+        {
+          "no": "gå i fjellet",
+          "en": "go hiking in the mountains"
+        },
+        {
+          "no": "kjøre over fjellet",
+          "en": "drive across the mountains"
+        },
+        {
+          "no": "ha hytte på fjellet",
+          "en": "have a cabin in the mountains"
+        },
+        {
+          "no": "grave ned til fast fjell",
+          "en": "dig down to bedrock"
+        }
+      ]
+    }
+  ]
+}

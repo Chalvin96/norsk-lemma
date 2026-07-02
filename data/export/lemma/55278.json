@@ -1,0 +1,147 @@
+{
+  "source_article_id": 55278,
+  "lemmas": [
+    {
+      "lemma": "snøball",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 63651,
+      "is_sub_article": false,
+      "primary_translation": "snowball",
+      "word_forms": [
+        {
+          "word_form": "snøball",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sn2:$%bAl",
+              "ipa": "ˈsnøːˌbɑl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "snøballen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sn2:$%bA$ln=",
+              "ipa": "ˈsnøːˌbɑln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "snøballer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sn2:$%bA$l@r",
+              "ipa": "ˈsnøːˌbɑlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "snøballene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "snˈøːbˌɑln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "15cbc5590fc1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15cbc5590fc1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15cbc5590fc1.mp3",
+            "text": "snøball",
+            "source": "generated",
+            "content_sha256": "5a937c16ebc51fe8a43db9b68621b7fcd43df9c821a454279a97fee38d47ea08",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rund ball av kram snø",
+      "translation": "snowball",
+      "examples": [
+        {
+          "no": "kaste snøball på hverandre",
+          "en": "throw snowballs at each other"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: utvikling som er vanskelig å stoppe når den først er satt i gang, og som ofte fører mer og mer med seg",
+      "translation": "figurative: development that is hard to stop once started and that often gathers more and more momentum",
+      "examples": []
+    },
+    {
+      "text": "jamfør snøballeffekt",
+      "translation": "",
+      "examples": [
+        {
+          "no": "dette var møtet som fikk snøballen til å rulle",
+          "en": "this was the meeting that got the snowball rolling"
+        },
+        {
+          "no": "alle bidro med litt, og så begynte snøballen å rulle",
+          "en": "everyone contributed a little, and then the snowball started rolling"
+        },
+        {
+          "no": "snøballen rullet fort da prosjektet endelig kom i gang",
+          "en": "the snowball rolled quickly once the project finally got going"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "source_article_id": 47777,
+  "lemmas": [
+    {
+      "lemma": "regel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 54870,
+      "is_sub_article": false,
+      "primary_translation": "rule / guideline / recurring condition",
+      "word_forms": [
+        {
+          "word_form": "regel",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"re:$g@l",
+              "ipa": "ˈreːgəl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "regelen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"re:$g@$ln=",
+              "ipa": "ˈreːgəln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "regler",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"re:$gl@r",
+              "ipa": "ˈreːglər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "reglene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rE$gl@$n@$@",
+              "ipa": "ˈrɛglənəə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5b49cea0508b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b49cea0508b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b49cea0508b.mp3",
+            "text": "regel",
+            "source": "generated",
+            "content_sha256": "f53e23e22e4feb4bf7db4c31ded02ae0aac92ae5e8e926597166576ed8aee193",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "norm som en retter seg etter",
+      "translation": "norm to follow",
+      "examples": []
+    },
+    {
+      "text": "rettesnor, forskrift",
+      "translation": "guideline, regulation",
+      "examples": [
+        {
+          "no": "følge spillets regler",
+          "en": "follow the rules of the game"
+        },
+        {
+          "no": "han ble straffet for å ha brutt reglene",
+          "en": "he was punished for breaking the rules"
+        },
+        {
+          "no": "det er en uskrevet regel at en rydder plassen sin før en går",
+          "en": "it is an unwritten rule that you clear your space before you leave"
+        }
+      ]
+    },
+    {
+      "text": "forhold som stadig gjentar seg",
+      "translation": "condition that constantly repeats itself",
+      "examples": [
+        {
+          "no": "hun har gjort det til en fast regel å stå tidlig opp i helgene",
+          "en": "she has made it a firm rule to get up early on weekends"
+        }
+      ]
+    }
+  ]
+}

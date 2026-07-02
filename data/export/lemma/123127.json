@@ -1,0 +1,127 @@
+{
+  "source_article_id": 123127,
+  "lemmas": [
+    {
+      "lemma": "lyslugg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 121476,
+      "is_sub_article": false,
+      "primary_translation": "fair-haired person",
+      "word_forms": [
+        {
+          "word_form": "lyslugg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːslˌʉg",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lysluggen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$%slu0$g@n",
+              "ipa": "ˈlyːˌslʉgən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lyslugger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːslˌʉgər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lysluggene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːslˌʉgənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7b8432cb23a3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b8432cb23a3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b8432cb23a3.mp3",
+            "text": "lyslugg",
+            "source": "generated",
+            "content_sha256": "3a4e1abd6449c39ed75ac1a8fa8052e8bc3b46f0bb3504e0fe5909c720563f13"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lyslugget lyslugga person, særlig gutt",
+      "translation": "a person with light hair, especially a boy",
+      "examples": [
+        {
+          "no": "en vilter, liten lyslugg",
+          "en": "a wild little blond boy"
+        }
+      ]
+    }
+  ]
+}

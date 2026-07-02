@@ -1,0 +1,112 @@
+{
+  "source_article_id": 69350,
+  "lemmas": [
+    {
+      "lemma": "vår",
+      "hgno": 2,
+      "pos": "DET",
+      "source_lemma_id": 79943,
+      "is_sub_article": false,
+      "primary_translation": "our / each to their own",
+      "word_forms": [
+        {
+          "word_form": "vår",
+          "tags_json": [
+            "Poss",
+            "Masc",
+            "Sing",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vo:r",
+              "ipa": "ˈvoːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vårt",
+          "tags_json": [
+            "Poss",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vOt`",
+              "ipa": "ˈvɔʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "våre",
+          "tags_json": [
+            "Poss",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vo:$r@",
+              "ipa": "ˈvoːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "660d378fbac2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/660d378fbac2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/660d378fbac2.mp3",
+            "text": "vår",
+            "source": "generated",
+            "content_sha256": "18f915cecfca7af759cc6b1b63875262df54b96ce9723c37ff7e4f5f453acd8b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "form av vi som uttrykker possessiv",
+      "translation": "",
+      "examples": [
+        {
+          "no": "hunden vår",
+          "en": "our dog"
+        },
+        {
+          "no": "bilen vår",
+          "en": "our car"
+        },
+        {
+          "no": "språket vårt",
+          "en": "our language"
+        },
+        {
+          "no": "i våre dager",
+          "en": "in our day"
+        }
+      ]
+    }
+  ]
+}

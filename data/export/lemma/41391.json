@@ -1,0 +1,116 @@
+{
+  "source_article_id": 41391,
+  "lemmas": [
+    {
+      "lemma": "nyrik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48381,
+      "is_sub_article": false,
+      "primary_translation": "newly rich / upstart",
+      "word_forms": [
+        {
+          "word_form": "nyrik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$ri:k",
+              "ipa": "ˈnyːrɪːk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nyrike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%ri:$k@",
+              "ipa": "ˈnyːˌrɪːkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nyrikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$ri:kt",
+              "ipa": "ˈnyːrɪːkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9e0b73a6126d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e0b73a6126d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e0b73a6126d.mp3",
+            "text": "nyrik",
+            "source": "generated",
+            "content_sha256": "c9d6fb6b98a08e8c854635c4688e6eca3fac89a3205d3a007144fc34aa94696e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som nylig er blitt rik",
+      "translation": "newly rich",
+      "examples": [
+        {
+          "no": "en nyrik familie",
+          "en": "a newly rich family"
+        }
+      ]
+    },
+    {
+      "text": "brukt som substantiv: oppkomling",
+      "translation": "nouveau riche, upstart (used as a noun)",
+      "examples": [
+        {
+          "no": "de nyrike kastet rundt seg med penger",
+          "en": "the newly rich threw money around"
+        }
+      ]
+    }
+  ]
+}

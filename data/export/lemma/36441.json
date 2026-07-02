@@ -1,0 +1,114 @@
+{
+  "source_article_id": 36441,
+  "lemmas": [
+    {
+      "lemma": "lærd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 42484,
+      "is_sub_article": false,
+      "primary_translation": "learned / knowledgeable",
+      "word_forms": [
+        {
+          "word_form": "lærd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"l{rd",
+              "ipa": "ˈlærd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lærde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l{:$d`@",
+              "ipa": "ˈlæːɖə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "81cfad89a936.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81cfad89a936.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/81cfad89a936.mp3",
+            "text": "lærd",
+            "source": "generated",
+            "content_sha256": "1ebc47b13253719420a115747b4b75e59f2d11dee2a600883228fad46e5f4b01",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har store teoretiske kunnskaper",
+      "translation": "having great theoretical knowledge",
+      "examples": []
+    },
+    {
+      "text": "kunnskapsrik",
+      "translation": "knowledgeable",
+      "examples": [
+        {
+          "no": "munkene var lærde menn",
+          "en": "the monks were learned men"
+        },
+        {
+          "no": "boka kan leses av både lek og lærd",
+          "en": "the book can be read by both laymen and scholars"
+        },
+        {
+          "no": "det var enighet blant de lærde",
+          "en": "there was agreement among the scholars"
+        }
+      ]
+    },
+    {
+      "text": "som vitner om eller er preget av boklig lærdom",
+      "translation": "showing or characterized by bookish learning",
+      "examples": [
+        {
+          "no": "en lærd avhandling",
+          "en": "a learned treatise"
+        },
+        {
+          "no": "lærd stil",
+          "en": "learned style"
+        }
+      ]
+    }
+  ]
+}

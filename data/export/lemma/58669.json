@@ -1,0 +1,87 @@
+{
+  "source_article_id": 58669,
+  "lemmas": [
+    {
+      "lemma": "svensk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 67152,
+      "is_sub_article": false,
+      "primary_translation": "Swedish",
+      "word_forms": [
+        {
+          "word_form": "svensk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"svEnsk",
+              "ipa": "ˈsvɛnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "svenske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"svEn$sk@",
+              "ipa": "ˈsvɛnskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ca5c58b52ef0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca5c58b52ef0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca5c58b52ef0.mp3",
+            "text": "svensk",
+            "source": "generated",
+            "content_sha256": "a79006f76acd438d9d09633c6db635c9771ee74d50181a40cb1ff5054528800e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Sverige og svensker",
+      "translation": "relating to Sweden and Swedes",
+      "examples": [
+        {
+          "no": "særlig unge mennesker liker svensk snus",
+          "en": "young people especially like Swedish snus"
+        }
+      ]
+    }
+  ]
+}

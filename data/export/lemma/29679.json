@@ -1,0 +1,120 @@
+{
+  "source_article_id": 29679,
+  "lemmas": [
+    {
+      "lemma": "kjærkommen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35056,
+      "is_sub_article": false,
+      "primary_translation": "welcome / desired",
+      "word_forms": [
+        {
+          "word_form": "kjærkommen",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C{:r$%kO$m@n",
+              "ipa": "ˈçæːrˌkɔmən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kjærkomne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C{:r$%kOm$n@",
+              "ipa": "ˈçæːrˌkɔmnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kjærkomment",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C{:r$%kO$m@nt",
+              "ipa": "ˈçæːrˌkɔmənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "71fae2399ad0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/71fae2399ad0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/71fae2399ad0.mp3",
+            "text": "kjærkommen",
+            "source": "generated",
+            "content_sha256": "884bb9a664e1ce14aa746e3dde1cb585c96887dad0bc8d4c881527eba7dbf9d5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en er svært glad for å få eller oppleve",
+      "translation": "that one is very happy to receive or experience",
+      "examples": []
+    },
+    {
+      "text": "kjær, ønsket",
+      "translation": "dear, desired",
+      "examples": [
+        {
+          "no": "en kjærkommen gjest",
+          "en": "a welcome guest"
+        },
+        {
+          "no": "en kjærkommen gave",
+          "en": "a welcome gift"
+        },
+        {
+          "no": "dette var kjærkomne penger",
+          "en": "this was welcome money"
+        },
+        {
+          "no": "etter tørken var regnet kjærkomment",
+          "en": "after the drought, the rain was welcome"
+        }
+      ]
+    }
+  ]
+}

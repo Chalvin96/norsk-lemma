@@ -1,0 +1,111 @@
+{
+  "source_article_id": 40454,
+  "lemmas": [
+    {
+      "lemma": "nedbrytbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47344,
+      "is_sub_article": false,
+      "primary_translation": "biodegradable",
+      "word_forms": [
+        {
+          "word_form": "nedbrytbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:$bry:t$%bA:r",
+              "ipa": "ˈneːbryːtˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedbrytbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:$bry:t$%bA:$r@",
+              "ipa": "ˈneːbryːtˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedbrytbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:$bry:t$%bA:t`",
+              "ipa": "ˈneːbryːtˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2629d4e929d8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2629d4e929d8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2629d4e929d8.mp3",
+            "text": "nedbrytbar",
+            "source": "generated",
+            "content_sha256": "ec6969cfc7d26d72de785841d17bf666de0b5ba456c6b6720e7b22255a592f20",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan brytes ned",
+      "translation": "that can be broken down",
+      "examples": []
+    },
+    {
+      "text": "som kan omdannes kjemisk",
+      "translation": "that can be chemically converted",
+      "examples": [
+        {
+          "no": "nedbrytbare avfallsstoffer",
+          "en": "biodegradable waste materials"
+        }
+      ]
+    }
+  ]
+}

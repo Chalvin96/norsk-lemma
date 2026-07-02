@@ -1,0 +1,190 @@
+{
+  "source_article_id": 68076,
+  "lemmas": [
+    {
+      "lemma": "vestlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 78600,
+      "is_sub_article": false,
+      "primary_translation": "western",
+      "word_forms": [
+        {
+          "word_form": "vestlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$stlI",
+              "ipa": "ˈvɛstlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vestlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$stlI$@",
+              "ipa": "ˈvɛstlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vestligere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɛstlɪərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "vestligst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɛstlɪgst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "vestligste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$stlIg$st@",
+              "ipa": "ˈvɛstlɪgstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "078e7b769eed.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/078e7b769eed.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/078e7b769eed.mp3",
+            "text": "vestlig",
+            "source": "generated",
+            "content_sha256": "a8b75f92908e0c711ee0be5c51e907ab75f5764ecc1ae9d9395dfbde3e2ff790",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ligger i vest",
+      "translation": "located in the west",
+      "examples": [
+        {
+          "no": "den vestlige halvkula",
+          "en": "the Western Hemisphere"
+        },
+        {
+          "no": "1° 15' vestlig lengde",
+          "en": "1° 15' west longitude"
+        }
+      ]
+    },
+    {
+      "text": "som går eller fører mot vest",
+      "translation": "going or leading towards the west",
+      "examples": [
+        {
+          "no": "vestlige havstrømmer",
+          "en": "westward ocean currents"
+        },
+        {
+          "no": "gå i vestlig retning",
+          "en": "go in a westerly direction"
+        }
+      ]
+    },
+    {
+      "text": "som kommer fra vest",
+      "translation": "coming from the west",
+      "examples": [
+        {
+          "no": "vestlig vind",
+          "en": "westerly wind"
+        },
+        {
+          "no": "vinden dreier vestlig",
+          "en": "the wind shifts westerly"
+        }
+      ]
+    },
+    {
+      "text": "som gjelder Vesten",
+      "translation": "concerning the West",
+      "examples": [
+        {
+          "no": "den vestlige kulturtradisjonen",
+          "en": "the Western cultural tradition"
+        },
+        {
+          "no": "de vestlige landene",
+          "en": "the Western countries"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "source_article_id": 7082,
+  "lemmas": [
+    {
+      "lemma": "bortefra",
+      "hgno": 0,
+      "pos": "PREP",
+      "source_lemma_id": 8301,
+      "is_sub_article": false,
+      "primary_translation": "from afar",
+      "word_forms": [
+        {
+          "word_form": "bortefra",
+          "tags_json": [
+            "ADP"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuʈəfrˌɑː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "415619e49621.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/415619e49621.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/415619e49621.mp3",
+            "text": "bortefra",
+            "source": "generated",
+            "content_sha256": "0b37fb9b21bd522ad5fc76a1d6b5e3cb66d70c8334c5e8bd96045681970881f0"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fra et sted som ligger et stykke unna",
+      "translation": "from a place that is some distance away",
+      "examples": [
+        {
+          "no": "høre et skrik bortefra skogen",
+          "en": "hear a scream from the woods over there"
+        },
+        {
+          "no": "langt bortefra",
+          "en": "far away over there"
+        }
+      ]
+    }
+  ]
+}

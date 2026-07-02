@@ -1,0 +1,126 @@
+{
+  "source_article_id": 4282,
+  "lemmas": [
+    {
+      "lemma": "ballistikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5071,
+      "is_sub_article": false,
+      "primary_translation": "ballistics",
+      "word_forms": [
+        {
+          "word_form": "ballistikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$lI$\"stIk",
+              "ipa": "bɑlɪˈstɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ballistikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$lI$\"stI$k@n",
+              "ipa": "bɑlɪˈstɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ballistikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑlɪstˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ballistikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bɑlɪstˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d82b995b0781.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d82b995b0781.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d82b995b0781.mp3",
+            "text": "ballistikk",
+            "source": "generated",
+            "content_sha256": "531243f05c4025c69b8469cee9d264b2c98e812e1b0aeb7c781353a38580d3d6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lære om bevegelsen til et prosjektil",
+      "translation": "study of the motion of a projectile",
+      "examples": [
+        {
+          "no": "eksperter på ballistikk undersøker kulehullene i veggen",
+          "en": "experts in ballistics are examining the bullet holes in the wall"
+        }
+      ]
+    }
+  ]
+}

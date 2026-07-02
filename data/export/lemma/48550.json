@@ -1,0 +1,122 @@
+{
+  "source_article_id": 48550,
+  "lemmas": [
+    {
+      "lemma": "rikosjett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 55769,
+      "is_sub_article": false,
+      "primary_translation": "ricochet",
+      "word_forms": [
+        {
+          "word_form": "rikosjett",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rI$kU$\"SEt",
+              "ipa": "rɪkʊˈʃɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rikosjetten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rI$kU$\"SE$tn=",
+              "ipa": "rɪkʊˈʃɛtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rikosjetter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rI$kU$\"SE$t@r",
+              "ipa": "rɪkʊˈʃɛtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rikosjettene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rI$kU$\"SE$tn=$@",
+              "ipa": "rɪkʊˈʃɛtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "41a5767d921b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41a5767d921b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/41a5767d921b.mp3",
+            "text": "rikosjett",
+            "source": "generated",
+            "content_sha256": "b2451ce7a25db524a37958d0290643af774f9347bcb276521cdd3f73b56e0ab0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "prosjektil som rikosjettere",
+      "translation": "projectile that ricochets",
+      "examples": [
+        {
+          "no": "bli truffet av en rikosjett",
+          "en": "be hit by a ricochet"
+        }
+      ]
+    }
+  ]
+}

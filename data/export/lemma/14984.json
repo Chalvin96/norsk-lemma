@@ -1,0 +1,106 @@
+{
+  "source_article_id": 14984,
+  "lemmas": [
+    {
+      "lemma": "fissil",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 17385,
+      "is_sub_article": false,
+      "primary_translation": "fissile",
+      "word_forms": [
+        {
+          "word_form": "fissil",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fI$\"si:l",
+              "ipa": "fɪˈsɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fissile",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fI$\"si:$l@",
+              "ipa": "fɪˈsɪːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fissilt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fI$\"si:lt",
+              "ipa": "fɪˈsɪːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "920c1040fd29.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/920c1040fd29.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/920c1040fd29.mp3",
+            "text": "fissil",
+            "source": "generated",
+            "content_sha256": "99d8f97a9350402e0b437275e00b85c08420ffbd7430398a10929323a61ba9d7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om atomkjerne: som lar seg spalte",
+      "translation": "of an atomic nucleus: that can be split",
+      "examples": []
+    },
+    {
+      "text": "om energikilde: som skyldes atomkjernespalting",
+      "translation": "of an energy source: resulting from nuclear fission",
+      "examples": []
+    }
+  ]
+}

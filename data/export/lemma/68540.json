@@ -1,0 +1,87 @@
+{
+  "source_article_id": 68540,
+  "lemmas": [
+    {
+      "lemma": "vinkelrett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 79139,
+      "is_sub_article": false,
+      "primary_translation": "perpendicular",
+      "word_forms": [
+        {
+          "word_form": "vinkelrett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vIN$k@l$%rEt",
+              "ipa": "ˈvɪŋkəlˌrɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vinkelrette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vIN$k@l$%rE$t@",
+              "ipa": "ˈvɪŋkəlˌrɛtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cecee1151107.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cecee1151107.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cecee1151107.mp3",
+            "text": "vinkelrett",
+            "source": "generated",
+            "content_sha256": "4ff1b235d96778d160ecfa0a5ce6d5b24a9dc86818e7115dc5aaaaccae192b08",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som danner en vinkel på 90 grader i forhold til en flate eller linje",
+      "translation": "forming a 90-degree angle in relation to a surface or line",
+      "examples": [
+        {
+          "no": "to linjer som står vinkelrett på hverandre danner en vinkel på 90°",
+          "en": "two lines that are perpendicular to each other form a 90° angle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_article_id": 32905,
+  "lemmas": [
+    {
+      "lemma": "kusk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 38596,
+      "is_sub_article": false,
+      "primary_translation": "coachman",
+      "word_forms": [
+        {
+          "word_form": "kusk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0$sk",
+              "ipa": "ˈkʉsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kusken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0$sk@n",
+              "ipa": "ˈkʉskən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kusker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ku0$sk@r",
+              "ipa": "ˈkʉskər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kuskene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ku0$sk@$n@",
+              "ipa": "ˈkʉskənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eb0caf9a5122.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb0caf9a5122.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb0caf9a5122.mp3",
+            "text": "kusk",
+            "source": "generated",
+            "content_sha256": "b716790a83788d195f3e9f3652a7d6dd0fe0b51cf234f79ec83c47f46e2f9067",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som kjører vogn som er trukket av hest",
+      "translation": "person who drives a horse-drawn carriage",
+      "examples": [
+        {
+          "no": "kusken spente hestene fra vognen",
+          "en": "the driver unharnessed the horses from the carriage"
+        },
+        {
+          "no": "han er en av de dyktigste kuskene i travsporten i dag",
+          "en": "he is one of the most skilled drivers in harness racing today"
+        }
+      ]
+    }
+  ]
+}

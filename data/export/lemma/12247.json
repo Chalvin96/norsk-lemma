@@ -1,0 +1,89 @@
+{
+  "source_article_id": 12247,
+  "lemmas": [
+    {
+      "lemma": "eldes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 14287,
+      "is_sub_article": false,
+      "primary_translation": "age",
+      "word_forms": [
+        {
+          "word_form": "eldes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"El$d@s",
+              "ipa": "ˈɛldəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eldedes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"El$d@$d@s",
+              "ipa": "ˈɛldədəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5b4a84b7c007.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b4a84b7c007.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b4a84b7c007.mp3",
+            "text": "eldes",
+            "source": "generated",
+            "content_sha256": "9100370f428dc689437567c232e7d2fdef7f8ea92abf63a0c6ae573c80c142bd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli gammel eller eldre",
+      "translation": "grow old or older",
+      "examples": [
+        {
+          "no": "ta til å eldes",
+          "en": "begin to age"
+        },
+        {
+          "no": "eldes fort",
+          "en": "age quickly"
+        }
+      ]
+    }
+  ]
+}

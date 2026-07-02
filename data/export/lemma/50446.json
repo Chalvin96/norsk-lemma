@@ -1,0 +1,140 @@
+{
+  "source_article_id": 50446,
+  "lemmas": [
+    {
+      "lemma": "seismikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 57901,
+      "is_sub_article": false,
+      "primary_translation": "seismics / seismic survey",
+      "word_forms": [
+        {
+          "word_form": "seismikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s{*I$\"smIk",
+              "ipa": "sæ͡ɪˈsmɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "seismikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s{*I$\"smI$k@n",
+              "ipa": "sæ͡ɪˈsmɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "seismikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sæ͡ɪsmˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "seismikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sæ͡ɪsmˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "865e8e427402.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/865e8e427402.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/865e8e427402.mp3",
+            "text": "seismikk",
+            "source": "generated",
+            "content_sha256": "00dbdb6f2542931cf4f5903934799774c5f97f5ac2d6647284925a5bf95f2da9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forhold i jordskorpa, særlig med tanke på variasjoner i typer av bergarter og sedimenter",
+      "translation": "conditions in the earth's crust, especially regarding variations in types of rocks and sediments",
+      "examples": [
+        {
+          "no": "seismikken gjør det vanskelig å bygge her",
+          "en": "the seismic conditions make it difficult to build here"
+        }
+      ]
+    },
+    {
+      "text": "metode for å kartlegge geologiske strukturer ved hjelp av lydbølger",
+      "translation": "method for mapping geological structures using sound waves",
+      "examples": [
+        {
+          "no": "seismikk brukes mye i oljeleting",
+          "en": "seismic surveying is used a lot in oil exploration"
+        },
+        {
+          "no": "utvikling av avansert seismikk",
+          "en": "development of advanced seismic surveying"
+        }
+      ]
+    }
+  ]
+}

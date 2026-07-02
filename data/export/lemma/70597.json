@@ -1,0 +1,126 @@
+{
+  "source_article_id": 70597,
+  "lemmas": [
+    {
+      "lemma": "oppstart",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 128247,
+      "is_sub_article": false,
+      "primary_translation": "start-up",
+      "word_forms": [
+        {
+          "word_form": "oppstart",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Op$%stAt`",
+              "ipa": "ˈɔpˌstɑʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oppstarten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Op$%stA$t`n`=",
+              "ipa": "ˈɔpˌstɑʈɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oppstarter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔpstˌɑʈər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "oppstartene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔpstˌɑʈɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "05dbae078765.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/05dbae078765.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/05dbae078765.mp3",
+            "text": "oppstart",
+            "source": "generated",
+            "content_sha256": "dc2e4a248f2288452d320bbd9204c53bce29a0c225643cadf3fbb626d0080e53",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å starte opp eller sette i gang",
+      "translation": "the act of starting up, setting in motion",
+      "examples": [
+        {
+          "no": "nytt produksjonsanlegg med planlagt oppstart neste år",
+          "en": "new production facility with a planned start-up next year"
+        }
+      ]
+    }
+  ]
+}

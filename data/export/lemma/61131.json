@@ -1,0 +1,106 @@
+{
+  "source_article_id": 61131,
+  "lemmas": [
+    {
+      "lemma": "titanisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 69911,
+      "is_sub_article": false,
+      "primary_translation": "titanic / involving a titan",
+      "word_forms": [
+        {
+          "word_form": "titanisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tI$\"tA:$nI$sk",
+              "ipa": "tɪˈtɑːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "titaniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tI$\"tA:$nI$sk@",
+              "ipa": "tɪˈtɑːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bbfc3b459549.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbfc3b459549.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbfc3b459549.mp3",
+            "text": "titanisk",
+            "source": "generated",
+            "content_sha256": "aece50421047adfde56d9834a36121f6774c0f3f29aad4a21fbb16ee43e2066a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uvanlig stor eller kraftfull",
+      "translation": "unusually large or powerful",
+      "examples": []
+    },
+    {
+      "text": "voldsom, mektig, gigantisk",
+      "translation": "violent, mighty, gigantic",
+      "examples": [
+        {
+          "no": "vise titaniske krefter",
+          "en": "show titanic strength"
+        },
+        {
+          "no": "oppleve titanisk suksess",
+          "en": "experience titanic success"
+        }
+      ]
+    },
+    {
+      "text": "som involverer titan",
+      "translation": "involving a titan",
+      "examples": [
+        {
+          "no": "en titanisk kamp",
+          "en": "a titanium battle"
+        }
+      ]
+    }
+  ]
+}

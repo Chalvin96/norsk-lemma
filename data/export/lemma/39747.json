@@ -1,0 +1,87 @@
+{
+  "source_article_id": 39747,
+  "lemmas": [
+    {
+      "lemma": "myrlendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 46559,
+      "is_sub_article": false,
+      "primary_translation": "boggy / swampy",
+      "word_forms": [
+        {
+          "word_form": "myrlendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"my:$%l`Ent",
+              "ipa": "ˈmyːˌɭɛnt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "myrlendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"my:$%l`En$t@",
+              "ipa": "ˈmyːˌɭɛntə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "54257d559aac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54257d559aac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54257d559aac.mp3",
+            "text": "myrlendt",
+            "source": "generated",
+            "content_sha256": "6cacd58a23aad3a40667fe39fbdcf317d87ad9c275e5527c9870266133e0bd8f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sumpete sumpet, våt",
+      "translation": "boggy, marshy",
+      "examples": [
+        {
+          "no": "de gikk gjennom myrlendt terreng",
+          "en": "they walked through marshy terrain"
+        }
+      ]
+    }
+  ]
+}

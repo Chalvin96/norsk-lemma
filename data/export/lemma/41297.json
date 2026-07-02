@@ -1,0 +1,101 @@
+{
+  "source_article_id": 41297,
+  "lemmas": [
+    {
+      "lemma": "nybakt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48280,
+      "is_sub_article": false,
+      "primary_translation": "newly baked / fresh / newly appointed",
+      "word_forms": [
+        {
+          "word_form": "nybakt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%bAkt",
+              "ipa": "ˈnyːˌbɑkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nybakte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%bAk$t@",
+              "ipa": "ˈnyːˌbɑktə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7aa5454768d5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7aa5454768d5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7aa5454768d5.mp3",
+            "text": "nybakt",
+            "source": "generated",
+            "content_sha256": "29be9e259e8079dd3b823f3c5b99bcb514ac14401fd497d8046fa6d345576846",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som nettopp er bakt",
+      "translation": "just baked",
+      "examples": [
+        {
+          "no": "nybakte kaker",
+          "en": "freshly baked cakes"
+        }
+      ]
+    },
+    {
+      "text": "som nettopp har fått en ny stilling eller status",
+      "translation": "just obtained a new position or status",
+      "examples": [
+        {
+          "no": "nybakt student",
+          "en": "newly graduated student"
+        },
+        {
+          "no": "nybakt norgesmester i svømming",
+          "en": "newly crowned Norwegian swimming champion"
+        }
+      ]
+    }
+  ]
+}

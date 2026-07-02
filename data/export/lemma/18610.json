@@ -1,0 +1,154 @@
+{
+  "source_article_id": 18610,
+  "lemmas": [
+    {
+      "lemma": "føde",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 21767,
+      "is_sub_article": false,
+      "primary_translation": "food / nourishment",
+      "word_forms": [
+        {
+          "word_form": "føde",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f2:$d@",
+              "ipa": "ˈføːdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "føda",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f2:$dA",
+              "ipa": "ˈføːdɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "føder",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f2:$d@r",
+              "ipa": "ˈføːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fødene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈøːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "føden",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"f2:$dn=",
+              "ipa": "ˈføːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "66e9ea454caf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/66e9ea454caf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/66e9ea454caf.mp3",
+            "text": "føde",
+            "source": "generated",
+            "content_sha256": "e17ba21af5a77d2e045b545d69346bd7fec97150cf0be4b3a9ef858e9b03ee7b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "næring, mat, kost",
+      "translation": "nourishment, food, diet",
+      "examples": [
+        {
+          "no": "ta til seg føde",
+          "en": "take in nourishment"
+        },
+        {
+          "no": "slite for føda",
+          "en": "work hard for one's food"
+        },
+        {
+          "no": "maten er halve føda",
+          "en": "food is half the nourishment"
+        }
+      ]
+    }
+  ]
+}

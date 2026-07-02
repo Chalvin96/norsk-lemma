@@ -1,0 +1,141 @@
+{
+  "source_article_id": 18490,
+  "lemmas": [
+    {
+      "lemma": "fylde",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 21614,
+      "is_sub_article": false,
+      "primary_translation": "abundance / richness of tone",
+      "word_forms": [
+        {
+          "word_form": "fylde",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fYl$d@",
+              "ipa": "ˈfʏldə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fylden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fYl$dn=",
+              "ipa": "ˈfʏldn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fylder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈʏldər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fyldene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈʏldn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f9472c0dcc5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f9472c0dcc5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f9472c0dcc5.mp3",
+            "text": "fylde",
+            "source": "generated",
+            "content_sha256": "fbabbd0d8c13b330f66806f7a1f36a64f085a2b661f1a9b808d8d580d579382e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rikelig mengde",
+      "translation": "ample amount",
+      "examples": []
+    },
+    {
+      "text": "overflod",
+      "translation": "abundance",
+      "examples": [
+        {
+          "no": "boka inneholder en fylde av opplysninger",
+          "en": "the book contains a wealth of information"
+        }
+      ]
+    },
+    {
+      "text": "sterk og rund klang",
+      "translation": "strong and round tone",
+      "examples": [
+        {
+          "no": "flygelet har en bemerkelsesverdig fylde",
+          "en": "the grand piano has a remarkable richness"
+        }
+      ]
+    }
+  ]
+}

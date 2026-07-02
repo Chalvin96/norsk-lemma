@@ -1,0 +1,188 @@
+{
+  "source_article_id": 121853,
+  "lemmas": [
+    {
+      "lemma": "knall",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 169079,
+      "is_sub_article": false,
+      "primary_translation": "great / fantastic / strong (color)",
+      "word_forms": [
+        {
+          "word_form": "knall",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"knAl",
+              "ipa": "ˈknɑl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "knalle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"knA$l@",
+              "ipa": "ˈknɑlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "knalt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "knˈɑːlt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "knallere",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "knˈɑlərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "knallest",
+          "tags_json": [
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "knˈɑləst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "knalleste",
+          "tags_json": [
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "knˈɑləstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e2cd0be6692e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e2cd0be6692e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e2cd0be6692e.mp3",
+            "text": "knall",
+            "source": "generated",
+            "content_sha256": "76710c1682bf22797dd1dcdca75e1ff744034549c42eecd5e536d50bbe400a28",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært god",
+      "translation": "very good",
+      "examples": []
+    },
+    {
+      "text": "fantastisk",
+      "translation": "fantastic",
+      "examples": [
+        {
+          "no": "en knall uke i syden",
+          "en": "an awesome week in the South"
+        },
+        {
+          "no": "han skriver knallere låter enn de fleste",
+          "en": "he writes killer songs better than most"
+        },
+        {
+          "no": "testen gikk knall bra",
+          "en": "the test went really well"
+        }
+      ]
+    },
+    {
+      "text": "om farge: kraftig, ren",
+      "translation": "about color: strong, pure",
+      "examples": [
+        {
+          "no": "en knall turkisfarge",
+          "en": "a vivid turquoise color"
+        },
+        {
+          "no": "bilen er knall oransje",
+          "en": "the car is bright orange"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "source_article_id": 225,
+  "lemmas": [
+    {
+      "lemma": "adressat",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1015,
+      "is_sub_article": false,
+      "primary_translation": "addressee",
+      "word_forms": [
+        {
+          "word_form": "adressat",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dr@$\"sA:t",
+              "ipa": "ɑdrəˈsɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adressaten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dr@$\"sA:$tn=",
+              "ipa": "ɑdrəˈsɑːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adressater",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dr@$\"sA:$t@r",
+              "ipa": "ɑdrəˈsɑːtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adressatene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dr@$\"sA:$tn=$@",
+              "ipa": "ɑdrəˈsɑːtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e356df54350f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e356df54350f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e356df54350f.mp3",
+            "text": "adressat",
+            "source": "generated",
+            "content_sha256": "ad46b1afeddee104ac6c6a06683c7eda176d49abd1050dfc5db3915c8f2bd3f8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "den som noe er adressert til",
+      "translation": "the person to whom something is addressed",
+      "examples": [
+        {
+          "no": "brevets adressat",
+          "en": "the letter's addressee"
+        }
+      ]
+    }
+  ]
+}

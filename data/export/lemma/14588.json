@@ -1,0 +1,162 @@
+{
+  "source_article_id": 14588,
+  "lemmas": [
+    {
+      "lemma": "fil",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 16892,
+      "is_sub_article": false,
+      "primary_translation": "lane / data file",
+      "word_forms": [
+        {
+          "word_form": "fil",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fi:l",
+              "ipa": "ˈfɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "filen",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fi:$ln=",
+              "ipa": "ˈfɪːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "filer",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fi:$l@r",
+              "ipa": "ˈfɪːlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "filene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fi:$ln=$@",
+              "ipa": "ˈfɪːln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fila",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fi:$lA",
+              "ipa": "ˈfɪːlɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e11d60c620dc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e11d60c620dc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e11d60c620dc.mp3",
+            "text": "fil",
+            "source": "generated",
+            "content_sha256": "0b22f270e0b3122aa54da8325bdbb6f53f16bcd7bd9e17fa841b7e9abb43d17f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hvert av flere langsgående felter av kjørebane",
+      "translation": "each of several longitudinal sections of a roadway",
+      "examples": [
+        {
+          "no": "skifte fil",
+          "en": "change lanes"
+        },
+        {
+          "no": "holde høyre fil",
+          "en": "keep to the right lane"
+        }
+      ]
+    },
+    {
+      "text": "mengde av digitale data som hører sammen og som behandles under ett",
+      "translation": "set of digital data that belong together and are processed as a unit",
+      "examples": [
+        {
+          "no": "laste ned en fil",
+          "en": "download a file"
+        },
+        {
+          "no": "overføre filer",
+          "en": "transfer files"
+        }
+      ]
+    }
+  ]
+}

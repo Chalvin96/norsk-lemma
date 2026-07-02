@@ -1,0 +1,157 @@
+{
+  "source_article_id": 53082,
+  "lemmas": [
+    {
+      "lemma": "skjerr",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 61189,
+      "is_sub_article": false,
+      "primary_translation": "shy",
+      "word_forms": [
+        {
+          "word_form": "skjerr",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S{r",
+              "ipa": "ˈʃær",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skjerre",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S{$r@",
+              "ipa": "ˈʃærə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skjert",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S{t`",
+              "ipa": "ˈʃæʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skjerrere",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S{$r@$r@",
+              "ipa": "ˈʃærərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skjerrest",
+          "tags_json": [
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"S{$r@$st",
+              "ipa": "ˈʃærəst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skjerreste",
+          "tags_json": [
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S{$r@$st@",
+              "ipa": "ˈʃærəstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b0fb88f3285c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b0fb88f3285c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b0fb88f3285c.mp3",
+            "text": "skjerr",
+            "source": "generated",
+            "content_sha256": "483910b40f90acf060a385a6f1897acfbbd7455007bd19e5ec88efd4f4c538ca",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "redd, sky",
+      "translation": "afraid, shy",
+      "examples": [
+        {
+          "no": "skjerre sauer",
+          "en": "skittish sheep"
+        },
+        {
+          "no": "reinen er skjerr",
+          "en": "the reindeer is skittish"
+        }
+      ]
+    }
+  ]
+}

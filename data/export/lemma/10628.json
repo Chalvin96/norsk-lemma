@@ -1,0 +1,126 @@
+{
+  "source_article_id": 10628,
+  "lemmas": [
+    {
+      "lemma": "domstol",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12418,
+      "is_sub_article": false,
+      "primary_translation": "court",
+      "word_forms": [
+        {
+          "word_form": "domstol",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOm$%stu:l",
+              "ipa": "ˈdɔmˌstuːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "domstolen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOm$%stu:$ln=",
+              "ipa": "ˈdɔmˌstuːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "domstoler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOm$%stu:$l@r",
+              "ipa": "ˈdɔmˌstuːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "domstolene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOm$%stu:$ln=$@",
+              "ipa": "ˈdɔmˌstuːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ae20817af3d8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae20817af3d8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae20817af3d8.mp3",
+            "text": "domstol",
+            "source": "generated",
+            "content_sha256": "fc5d59177d47efb7e6678822284e018cbfbbe652ddd0737301233109f1c1fb4f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "institusjon med dømmende makt",
+      "translation": "institution with judicial power",
+      "examples": [
+        {
+          "no": "prøve en sak for domstolene",
+          "en": "try a case in the courts"
+        },
+        {
+          "no": "bringe en sak for domstolene",
+          "en": "bring a case before the courts"
+        }
+      ]
+    }
+  ]
+}

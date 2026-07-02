@@ -1,0 +1,126 @@
+{
+  "source_article_id": 118935,
+  "lemmas": [
+    {
+      "lemma": "informasjonskanal",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 109205,
+      "is_sub_article": false,
+      "primary_translation": "information channel",
+      "word_forms": [
+        {
+          "word_form": "informasjonskanal",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$fOr$mA$\"Su:n$skA$%nA:l",
+              "ipa": "ɪnfɔrmɑˈʃuːnskɑˌnɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "informasjonskanalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪnfɔrmɑʃˈuːnskɑnˌɑːln̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "informasjonskanaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$fOr$mA$\"Su:n$skA$%nA:$l@r",
+              "ipa": "ɪnfɔrmɑˈʃuːnskɑˌnɑːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "informasjonskanalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪnfɔrmɑʃˈuːnskɑnˌɑːln̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c622789cd055.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c622789cd055.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c622789cd055.mp3",
+            "text": "informasjonskanal",
+            "source": "generated",
+            "content_sha256": "519d1e33a5bc4ba8b7e485d97de5db190ce25cb6ade4cd7b846291c319b5a27a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kanal for formidling av informasjon",
+      "translation": "a channel for conveying information",
+      "examples": [
+        {
+          "no": "kommunen bruker SMS som informasjonskanal",
+          "en": "the municipality uses SMS as an information channel"
+        }
+      ]
+    }
+  ]
+}

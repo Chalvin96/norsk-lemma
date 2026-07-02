@@ -1,0 +1,128 @@
+{
+  "source_article_id": 42026,
+  "lemmas": [
+    {
+      "lemma": "oljetrykk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 49109,
+      "is_sub_article": false,
+      "primary_translation": "oil print / oil pressure",
+      "word_forms": [
+        {
+          "word_form": "oljetrykk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%trYk",
+              "ipa": "ˈɔljəˌtrʏk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oljetrykket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%trY$k@",
+              "ipa": "ˈɔljəˌtrʏkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oljetrykka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%trY$kA",
+              "ipa": "ˈɔljəˌtrʏkɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "oljetrykkene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ol$j@$%trY$k@$n@",
+              "ipa": "ˈɔljəˌtrʏkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "73aa2fcb6ddc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73aa2fcb6ddc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73aa2fcb6ddc.mp3",
+            "text": "oljetrykk",
+            "source": "generated",
+            "content_sha256": "ece5f4606da399e43a3907bb8475065e1f73aaf2cfd56d30330d966c7c40ec91",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fargetrykk med oljefarge",
+      "translation": "colored print made with oil paint",
+      "examples": []
+    },
+    {
+      "text": "trykk som oljepumpen gir, og som fører oljen gjennom motoren",
+      "translation": "pressure provided by the oil pump, which circulates oil through the engine",
+      "examples": [
+        {
+          "no": "oljetrykket i motoren var for lavt",
+          "en": "the oil pressure in the engine was too low"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_article_id": 9362,
+  "lemmas": [
+    {
+      "lemma": "dattersønn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11042,
+      "is_sub_article": false,
+      "primary_translation": "daughter's son",
+      "word_forms": [
+        {
+          "word_form": "dattersønn",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA$t@r$%s9n",
+              "ipa": "ˈdɑtərˌsœn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dattersønnen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA$t@r$%s9$nn=",
+              "ipa": "ˈdɑtərˌsœnn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dattersønner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA$t@r$%s9$n@r",
+              "ipa": "ˈdɑtərˌsœnər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dattersønnene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA$t@r$%s9$nn=$@",
+              "ipa": "ˈdɑtərˌsœnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c18b43478748.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c18b43478748.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c18b43478748.mp3",
+            "text": "dattersønn",
+            "source": "generated",
+            "content_sha256": "5e8972e743b837bee82aa4bfaebef546b7a78f55c34136e118a16f4eb11a5ed6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sønn av noens datter",
+      "translation": "son of one's daughter",
+      "examples": [
+        {
+          "no": "ha en dattersønn",
+          "en": "have a grandson"
+        },
+        {
+          "no": "være dattersønn av en konge",
+          "en": "be the grandson of a king"
+        }
+      ]
+    }
+  ]
+}

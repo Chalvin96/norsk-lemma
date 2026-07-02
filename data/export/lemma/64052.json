@@ -1,0 +1,87 @@
+{
+  "source_article_id": 64052,
+  "lemmas": [
+    {
+      "lemma": "ukrainsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 73368,
+      "is_sub_article": false,
+      "primary_translation": "Ukrainian",
+      "word_forms": [
+        {
+          "word_form": "ukrainsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$krA$\"i:nsk",
+              "ipa": "ʉkrɑˈɪːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ukrainske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$krA$\"i:n$sk@",
+              "ipa": "ʉkrɑˈɪːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "000689414ff3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/000689414ff3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/000689414ff3.mp3",
+            "text": "ukrainsk",
+            "source": "generated",
+            "content_sha256": "4f918c008d669617bbaad512e1a55143fc32fb8767817997713d4fabe09fece9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Ukraina og ukrainere",
+      "translation": "concerning Ukraine and Ukrainians",
+      "examples": [
+        {
+          "no": "ukrainsk eksport av korn",
+          "en": "Ukrainian grain exports"
+        }
+      ]
+    }
+  ]
+}

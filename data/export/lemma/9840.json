@@ -1,0 +1,95 @@
+{
+  "source_article_id": 9840,
+  "lemmas": [
+    {
+      "lemma": "desidert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11565,
+      "is_sub_article": false,
+      "primary_translation": "decided, indisputable",
+      "word_forms": [
+        {
+          "word_form": "desidert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$sI$\"de:t`",
+              "ipa": "dəsɪˈdeːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "desiderte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$sI$\"de:$t`@",
+              "ipa": "dəsɪˈdeːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a0a04192a97b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0a04192a97b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a0a04192a97b.mp3",
+            "text": "desidert",
+            "source": "generated",
+            "content_sha256": "234d179f65674e24ee7b28721ea57f6420c3a45a4d34f94bbfdb2fabbdbbf11b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avgjort, uomtvistelig",
+      "translation": "decided, indisputable",
+      "examples": [
+        {
+          "no": "en desidert vinner",
+          "en": "a clear winner"
+        },
+        {
+          "no": "en desidert bedre prestasjon",
+          "en": "a decidedly better performance"
+        },
+        {
+          "no": "han var den desidert beste på laget",
+          "en": "he was by far the best on the team"
+        }
+      ]
+    }
+  ]
+}

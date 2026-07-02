@@ -1,0 +1,109 @@
+{
+  "source_article_id": 13629,
+  "lemmas": [
+    {
+      "lemma": "faktisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15823,
+      "is_sub_article": false,
+      "primary_translation": "actual / to tell the truth",
+      "word_forms": [
+        {
+          "word_form": "faktisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fAk$tI$sk",
+              "ipa": "ˈfɑktɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fAk$tI$sk@",
+              "ipa": "ˈfɑktɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5597f5c76d37.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5597f5c76d37.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5597f5c76d37.mp3",
+            "text": "faktisk",
+            "source": "generated",
+            "content_sha256": "fb2385dd021d8e93a332d3ee90930c3e16b126dd46106a56bf34eb0c86a8d04a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "virkelig, reell",
+      "translation": "real, actual",
+      "examples": [
+        {
+          "no": "faktisk fortjeneste",
+          "en": "actual profit"
+        },
+        {
+          "no": "faktiske opplysninger",
+          "en": "factual information"
+        },
+        {
+          "no": "de faktiske forhold",
+          "en": "the actual circumstances"
+        },
+        {
+          "no": "boka ble faktisk populær",
+          "en": "the book actually became popular"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: sant å si",
+      "translation": "used as: to tell the truth",
+      "examples": [
+        {
+          "no": "jeg vet faktisk ikke",
+          "en": "I actually don't know"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_article_id": 19857,
+  "lemmas": [
+    {
+      "lemma": "gjennomsnittlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 23144,
+      "is_sub_article": false,
+      "primary_translation": "average / medium / normal",
+      "word_forms": [
+        {
+          "word_form": "gjennomsnittlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jE$nOm$%snIt$lI",
+              "ipa": "ˈjɛnɔmˌsnɪtlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gjennomsnittlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jE$nOm$%snIt$lI$@",
+              "ipa": "ˈjɛnɔmˌsnɪtlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5dbc8d291a71.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5dbc8d291a71.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5dbc8d291a71.mp3",
+            "text": "gjennomsnittlig",
+            "source": "generated",
+            "content_sha256": "19b61f0812300db3131d8b2462aaad0c2ac31855204261d9fd038e423572f0ec",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er gjennomsnitt",
+      "translation": "being the average",
+      "examples": [
+        {
+          "no": "gjennomsnittlig årsvekst",
+          "en": "average annual growth"
+        },
+        {
+          "no": "hva er den gjennomsnittlige årsinntekten din?",
+          "en": "what is your average annual income?"
+        },
+        {
+          "no": "vi ser gjennomsnittlig tre filmer i året",
+          "en": "we watch an average of three films a year"
+        }
+      ]
+    }
+  ]
+}

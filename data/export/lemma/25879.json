@@ -1,0 +1,69 @@
+{
+  "source_article_id": 25879,
+  "lemmas": [
+    {
+      "lemma": "imidlertid",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 30850,
+      "is_sub_article": false,
+      "primary_translation": "however / nevertheless",
+      "word_forms": [
+        {
+          "word_form": "imidlertid",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "I$\"mId$l@$%t`i:d",
+              "ipa": "ɪˈmɪdləˌʈɪːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4c74bf426a55.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4c74bf426a55.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4c74bf426a55.mp3",
+            "text": "imidlertid",
+            "source": "generated",
+            "content_sha256": "beadae3d6c8a94427c65a104d638013f3f80f414fe8ac12023fe7c358527a0b8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke desto mindre, til tross for det",
+      "translation": "nevertheless, despite that",
+      "examples": []
+    },
+    {
+      "text": "likevel",
+      "translation": "however",
+      "examples": [
+        {
+          "no": "det fine været slo imidlertid fort om",
+          "en": "the fine weather, however, quickly changed"
+        },
+        {
+          "no": "til slutt ble de enige. De legger imidlertid ikke skjul på at det var vanskelig",
+          "en": "in the end they agreed. However, they do not hide the fact that it was difficult"
+        }
+      ]
+    }
+  ]
+}

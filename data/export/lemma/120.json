@@ -1,0 +1,120 @@
+{
+  "source_article_id": 120,
+  "lemmas": [
+    {
+      "lemma": "acyl",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 909,
+      "is_sub_article": false,
+      "primary_translation": "acyl radical",
+      "word_forms": [
+        {
+          "word_form": "acyl",
+          "tags_json": [
+            "Neuter",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"sy:l",
+              "ipa": "ɑˈsyːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "acylet",
+          "tags_json": [
+            "Neuter",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsˈyːlə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "acyla",
+          "tags_json": [
+            "Neuter",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsˈyːlɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "acylene",
+          "tags_json": [
+            "Neuter",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsˈyːln̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "13d044226e1b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/13d044226e1b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/13d044226e1b.mp3",
+            "text": "acyl",
+            "source": "generated",
+            "content_sha256": "df6bcb9c47fc6714b87368b4b9ed54d80e1cddf617ce77c22a1f3b469fb138c5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i kjemi: syreradikal",
+      "translation": "acid radical",
+      "examples": []
+    }
+  ]
+}

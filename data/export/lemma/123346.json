@@ -1,0 +1,150 @@
+{
+  "source_article_id": 123346,
+  "lemmas": [
+    {
+      "lemma": "kurssenter",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 118032,
+      "is_sub_article": false,
+      "primary_translation": "course center",
+      "word_forms": [
+        {
+          "word_form": "kurssenter",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:$%s`En$t@r",
+              "ipa": "ˈkʉːˌʂɛntər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kurssenteret",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:$%s`En$t@$r@",
+              "ipa": "ˈkʉːˌʂɛntərə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kurssentera",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉːʂˌɛntərɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kurssentrene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉʂsˌɛntrənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kurssentre",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0s`$%sEn$tr@",
+              "ipa": "ˈkʉʂˌsɛntrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7e1c450459e7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e1c450459e7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e1c450459e7.mp3",
+            "text": "kurssenter",
+            "source": "generated",
+            "content_sha256": "a7f529badf94182bcb0c5e65e0cfa470c8a13cd2139c7557fbd5e5dff94bd10d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sted, hus eller anlegg hvor en arrangerer kurs og der deltakerene også ofte kan overnatte og spise",
+      "translation": "place, building, or facility where courses are arranged and where participants can often also stay and eat",
+      "examples": [
+        {
+          "no": "et kurssenter for mennesker med artrose",
+          "en": "a course center for people with osteoarthritis"
+        },
+        {
+          "no": "på kurssenteret har de plass til 100 deltakere",
+          "en": "the course center has room for 100 participants"
+        }
+      ]
+    }
+  ]
+}

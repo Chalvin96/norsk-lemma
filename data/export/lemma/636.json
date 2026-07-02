@@ -1,0 +1,134 @@
+{
+  "source_article_id": 636,
+  "lemmas": [
+    {
+      "lemma": "aktuell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1434,
+      "is_sub_article": false,
+      "primary_translation": "current / relevant",
+      "word_forms": [
+        {
+          "word_form": "aktuell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tu0$\"El",
+              "ipa": "ɑktʉˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktuelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tu0$\"E$l@",
+              "ipa": "ɑktʉˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "aktuelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ak$tu0$\"Elt",
+              "ipa": "ɑktʉˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "89ed7f0f8539.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89ed7f0f8539.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89ed7f0f8539.mp3",
+            "text": "aktuell",
+            "source": "generated",
+            "content_sha256": "5a1bec81b539cc9bf48fc5beeaa9b2b8edf61d54fe3c51d8cbded18f114b4cb4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nåværende, nærværende",
+      "translation": "current, present",
+      "examples": [
+        {
+          "no": "i den aktuelle situasjonen",
+          "en": "in the current situation"
+        },
+        {
+          "no": "den aktuelle datoen",
+          "en": "the current date"
+        }
+      ]
+    },
+    {
+      "text": "som har interesse eller er på tale (akkurat nå)",
+      "translation": "topical",
+      "examples": []
+    },
+    {
+      "text": "av betydning i en viss sammenheng",
+      "translation": "relevant in a given context",
+      "examples": [
+        {
+          "no": "aktuelle saker",
+          "en": "current issues"
+        },
+        {
+          "no": "spørsmålet er høyst aktuelt",
+          "en": "the question is highly relevant"
+        },
+        {
+          "no": "aktuelle reisemål",
+          "en": "current travel destinations"
+        },
+        {
+          "no": "aktuelle kandidater",
+          "en": "current candidates"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "source_article_id": 9104,
+  "lemmas": [
+    {
+      "lemma": "dagligstue",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10769,
+      "is_sub_article": false,
+      "primary_translation": "living room / common room",
+      "word_forms": [
+        {
+          "word_form": "dagligstue",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$glI$%st}:$@",
+              "ipa": "ˈdɑːglɪˌstʉːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dagligstuen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$glI$%st}:$@n",
+              "ipa": "ˈdɑːglɪˌstʉːən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dagligstuer",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$glI$%st}:$@r",
+              "ipa": "ˈdɑːglɪˌstʉːər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dagligstuene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$glI$%st}:$@$n@",
+              "ipa": "ˈdɑːglɪˌstʉːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dagligstua",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$glI$%st}:$A",
+              "ipa": "ˈdɑːglɪˌstʉːɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "962b1f863f5e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/962b1f863f5e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/962b1f863f5e.mp3",
+            "text": "dagligstue",
+            "source": "generated",
+            "content_sha256": "08b530a92ed7b63235305ff09923565fa62926f00760b82cb9129b9b18afc08d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stue i bolig som en bruker til daglig",
+      "translation": "room in a dwelling used for daily use",
+      "examples": [
+        {
+          "no": "fra dagligstua er det dør inn til spisestua",
+          "en": "from the living room there is a door into the dining room"
+        }
+      ]
+    },
+    {
+      "text": "oppholdsrom i institusjon",
+      "translation": "common room in an institution",
+      "examples": [
+        {
+          "no": "pasientene var samlet i dagligstua",
+          "en": "the patients were gathered in the common room"
+        }
+      ]
+    }
+  ]
+}

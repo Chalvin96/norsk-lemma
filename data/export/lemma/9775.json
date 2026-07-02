@@ -1,0 +1,136 @@
+{
+  "source_article_id": 9775,
+  "lemmas": [
+    {
+      "lemma": "depresjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11497,
+      "is_sub_article": false,
+      "primary_translation": "depression",
+      "word_forms": [
+        {
+          "word_form": "depresjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$pr@$\"Su:n",
+              "ipa": "dəprəˈʃuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "depresjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$pr@$\"Su:$nn=",
+              "ipa": "dəprəˈʃuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "depresjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$pr@$\"Su:$n@r",
+              "ipa": "dəprəˈʃuːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "depresjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$pr@$\"Su:$nn=$@",
+              "ipa": "dəprəˈʃuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "477556d48ede.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/477556d48ede.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/477556d48ede.mp3",
+            "text": "depresjon",
+            "source": "generated",
+            "content_sha256": "37c93ce388cb0b888f13aa766ebc7bb1e2c911a0e21bf2fb0a7c6d3023d406e8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "psykisk lidelse preget av tungsinn og mismot",
+      "translation": "mental disorder characterized by melancholy and dejection",
+      "examples": [
+        {
+          "no": "være inne i en depresjon",
+          "en": "be in a depression"
+        },
+        {
+          "no": "med sykdommen følger ofte depresjon",
+          "en": "the illness is often accompanied by depression"
+        }
+      ]
+    },
+    {
+      "text": "økonomisk nedgang eller krise",
+      "translation": "economic decline or crisis",
+      "examples": [
+        {
+          "no": "depresjonen i 30-årene",
+          "en": "the Depression in the 1930s"
+        }
+      ]
+    }
+  ]
+}

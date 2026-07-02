@@ -1,0 +1,87 @@
+{
+  "source_article_id": 110667,
+  "lemmas": [
+    {
+      "lemma": "budsjettmessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 92331,
+      "is_sub_article": false,
+      "primary_translation": "budgetary",
+      "word_forms": [
+        {
+          "word_form": "budsjettmessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bu0d$\"SEt$%mE$sI",
+              "ipa": "bʉdˈʃɛtˌmɛsɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "budsjettmessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bu0d$\"SEt$%mE$sI$@",
+              "ipa": "bʉdˈʃɛtˌmɛsɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a05d77fe1bb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a05d77fe1bb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a05d77fe1bb.mp3",
+            "text": "budsjettmessig",
+            "source": "generated",
+            "content_sha256": "fac37f1bf4327b59e34c6d80fd2d73194f6708a0249a98dc2cb69f511b7fe04b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder budsjett",
+      "translation": "relating to budget",
+      "examples": [
+        {
+          "no": "forslaget har store budsjettmessige konsekvenser",
+          "en": "the proposal has major budgetary consequences"
+        }
+      ]
+    }
+  ]
+}

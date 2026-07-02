@@ -1,0 +1,100 @@
+{
+  "source_article_id": 17280,
+  "lemmas": [
+    {
+      "lemma": "forvokst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 20045,
+      "is_sub_article": false,
+      "primary_translation": "oversized / deformed",
+      "word_forms": [
+        {
+          "word_form": "forvokst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"vOkst",
+              "ipa": "fɔrˈvɔkst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forvokste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fOr$\"vOk$st@",
+              "ipa": "fɔrˈvɔkstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "23b423369f00.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/23b423369f00.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/23b423369f00.mp3",
+            "text": "forvokst",
+            "source": "generated",
+            "content_sha256": "5f39e66b1257ee16e2dce7e3c91a1754e88b4e0b3136d760c3b4d394af7ef154",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har vokst seg for stor",
+      "translation": "that has grown too big",
+      "examples": []
+    },
+    {
+      "text": "som har vokst for fort eller galt",
+      "translation": "that has grown too fast or wrongly",
+      "examples": [
+        {
+          "no": "et forvokst lem",
+          "en": "an overgrown limb"
+        },
+        {
+          "no": "hengslete som en forvokst konfirmant",
+          "en": "gangly like an overgrown confirmand"
+        },
+        {
+          "no": "et forvokst selvbilde",
+          "en": "an inflated self-image"
+        }
+      ]
+    }
+  ]
+}

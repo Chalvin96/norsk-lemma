@@ -1,0 +1,107 @@
+{
+  "source_article_id": 119299,
+  "lemmas": [
+    {
+      "lemma": "klink",
+      "hgno": 4,
+      "pos": "ADJ",
+      "source_lemma_id": 167656,
+      "is_sub_article": false,
+      "primary_translation": "hard / certain / absolutely",
+      "word_forms": [
+        {
+          "word_form": "klink",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"klINk",
+              "ipa": "ˈklɪŋk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klinke",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klIN$k@",
+              "ipa": "ˈklɪŋkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7c1a93eb47f7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7c1a93eb47f7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7c1a93eb47f7.mp3",
+            "text": "klink",
+            "source": "generated",
+            "content_sha256": "8f4910b8920147db547b4974e54ff575fc630bc6b544f3e766bc6fdfa2d04606",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hard som stein",
+      "translation": "hard as stone",
+      "examples": [
+        {
+          "no": "klink is",
+          "en": "solid ice"
+        }
+      ]
+    },
+    {
+      "text": "sikker, åpenbar",
+      "translation": "certain, obvious",
+      "examples": [
+        {
+          "no": "en klink vinner",
+          "en": "a sure winner"
+        }
+      ]
+    },
+    {
+      "text": "brukt som forsterkende adverb: klinkende",
+      "translation": "used as an intensifier: absolutely",
+      "examples": [
+        {
+          "no": "klink edru",
+          "en": "dead sober"
+        }
+      ]
+    }
+  ]
+}

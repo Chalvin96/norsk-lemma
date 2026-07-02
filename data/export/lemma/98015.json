@@ -1,0 +1,85 @@
+{
+  "source_article_id": 98015,
+  "lemmas": [
+    {
+      "lemma": "maorisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 157954,
+      "is_sub_article": false,
+      "primary_translation": "Maori",
+      "word_forms": [
+        {
+          "word_form": "maorisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑˈuːrɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "maoriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑˈuːrɪskə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b1ccd96cd8b6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b1ccd96cd8b6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b1ccd96cd8b6.mp3",
+            "text": "maorisk",
+            "source": "generated",
+            "content_sha256": "918e9cef99165e9aa9e83df6d158090a1bffe613fb64b7ce91c580402f24fec9"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder maori",
+      "translation": "relating to the Maori people",
+      "examples": []
+    }
+  ]
+}

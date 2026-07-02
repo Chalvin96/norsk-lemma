@@ -1,0 +1,92 @@
+{
+  "source_article_id": 18877,
+  "lemmas": [
+    {
+      "lemma": "galaktisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22048,
+      "is_sub_article": false,
+      "primary_translation": "galactic",
+      "word_forms": [
+        {
+          "word_form": "galaktisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gA$\"lAk$tI$sk",
+              "ipa": "gɑˈlɑktɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "galaktiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gA$\"lAk$tI$sk@",
+              "ipa": "gɑˈlɑktɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cd6083669e7d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cd6083669e7d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cd6083669e7d.mp3",
+            "text": "galaktisk",
+            "source": "generated",
+            "content_sha256": "049f4bfe984ddf30bbd2b4a0d8da46c9689a4fb2e5b30c5077e1911845a22bea",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder galakse",
+      "translation": "pertaining to a galaxy",
+      "examples": []
+    },
+    {
+      "text": "som gjelder Melkeveien",
+      "translation": "pertaining to the Milky Way",
+      "examples": [
+        {
+          "no": "det galaktiske system",
+          "en": "the galactic system"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 128223,
+  "lemmas": [
+    {
+      "lemma": "skattemessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 138652,
+      "is_sub_article": false,
+      "primary_translation": "tax-related",
+      "word_forms": [
+        {
+          "word_form": "skattemessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skA$t@$%mE$sI",
+              "ipa": "ˈskɑtəˌmɛsɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skattemessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skA$t@$%mE$sI$@",
+              "ipa": "ˈskɑtəˌmɛsɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5fe89bac1737.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5fe89bac1737.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5fe89bac1737.mp3",
+            "text": "skattemessig",
+            "source": "generated",
+            "content_sha256": "70bf93015b6b0429f017072570a60c71790e3f4acddcde385c016f5c0b5e7130",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "når det gjelder skatt",
+      "translation": "when it comes to tax",
+      "examples": [
+        {
+          "no": "skattemessige forhold",
+          "en": "tax-related matters"
+        },
+        {
+          "no": "oppnå skattemessige fordeler",
+          "en": "obtain tax advantages"
+        }
+      ]
+    }
+  ]
+}

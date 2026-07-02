@@ -1,0 +1,90 @@
+{
+  "source_article_id": 114120,
+  "lemmas": [
+    {
+      "lemma": "ferromagnetisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 97537,
+      "is_sub_article": false,
+      "primary_translation": "ferromagnetic",
+      "word_forms": [
+        {
+          "word_form": "ferromagnetisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈærumɑŋnˌeːtɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ferromagnetiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈærumɑŋnˌeːtɪskə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "36dbc189c008.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/36dbc189c008.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/36dbc189c008.mp3",
+            "text": "ferromagnetisk",
+            "source": "generated",
+            "content_sha256": "6cc74c0e3da76cf86b5d4cd4ba47ab91c8586486716b2e74dd62f6b9c9ea9b48"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller har ferromagnetisme",
+      "translation": "relating to or having ferromagnetism",
+      "examples": [
+        {
+          "no": "ferromagnetiske stoffer",
+          "en": "ferromagnetic substances"
+        }
+      ]
+    }
+  ]
+}

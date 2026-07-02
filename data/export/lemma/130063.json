@@ -1,0 +1,183 @@
+{
+  "source_article_id": 130063,
+  "lemmas": [
+    {
+      "lemma": "stavnsbunden",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 142778,
+      "is_sub_article": false,
+      "primary_translation": "serf-bound",
+      "word_forms": [
+        {
+          "word_form": "stavnsbunden",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʋnsbˌʉnn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "stavnsbundne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʋnsbˌʉnə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "stavnsbundet",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʋnsbˌʉnət",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "54b3b2e34da2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54b3b2e34da2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54b3b2e34da2.mp3",
+            "text": "stavnsbunden",
+            "source": "generated",
+            "content_sha256": "3d712cdb970501c016bef97059b024fb3cf3e38c224b427702d8d2db781d99ee"
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "stavnsbundet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 142779,
+      "is_sub_article": false,
+      "primary_translation": "serf-bound",
+      "word_forms": [
+        {
+          "word_form": "stavnsbundet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʋnsbˌʉnət",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "stavnsbundne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑʋnsbˌʉnə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "948b90dc1179.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/948b90dc1179.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/948b90dc1179.mp3",
+            "text": "stavnsbundet",
+            "source": "generated",
+            "content_sha256": "47d8e8f8b134dea64fabc5ae4289589b0e819ececad551c4646da290b596d1a2"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bunden til å bli på hjemstedet sitt",
+      "translation": "subject to serfdom",
+      "examples": []
+    },
+    {
+      "text": "som har stavnsbånd stavnsband",
+      "translation": "bound by serfdom",
+      "examples": [
+        {
+          "no": "stavnsbundne bønder",
+          "en": "tenant farmers bound by villeinage"
+        }
+      ]
+    }
+  ]
+}

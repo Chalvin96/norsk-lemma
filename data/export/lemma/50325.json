@@ -1,0 +1,96 @@
+{
+  "source_article_id": 50325,
+  "lemmas": [
+    {
+      "lemma": "sedat",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57737,
+      "is_sub_article": false,
+      "primary_translation": "calm / lethargic",
+      "word_forms": [
+        {
+          "word_form": "sedat",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"dA:t",
+              "ipa": "səˈdɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sedate",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"dA:$t@",
+              "ipa": "səˈdɑːtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a7c9ce849c4d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a7c9ce849c4d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a7c9ce849c4d.mp3",
+            "text": "sedat",
+            "source": "generated",
+            "content_sha256": "ee5b30d7e0bcf2494533c206a460e29e4e4ba42723e5e8bae7f8a348c5c2bb01",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sindig, rolig",
+      "translation": "composed, calm",
+      "examples": []
+    },
+    {
+      "text": "slapp, giddeløs giddelaus",
+      "translation": "limp, lethargic",
+      "examples": [
+        {
+          "no": "en kjedelig og sedat person",
+          "en": "a boring and sluggish person"
+        },
+        {
+          "no": "før var de festløver, men nå er de mer sedate",
+          "en": "they used to be party animals, but now they're more sluggish"
+        }
+      ]
+    }
+  ]
+}

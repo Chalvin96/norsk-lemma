@@ -1,0 +1,97 @@
+{
+  "source_article_id": 10038,
+  "lemmas": [
+    {
+      "lemma": "didaktisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11765,
+      "is_sub_article": false,
+      "primary_translation": "didactic",
+      "word_forms": [
+        {
+          "word_form": "didaktisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"dAk$tI$sk",
+              "ipa": "dɪˈdɑktɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "didaktiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"dAk$tI$sk@",
+              "ipa": "dɪˈdɑktɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "90cbf5d499f5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90cbf5d499f5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90cbf5d499f5.mp3",
+            "text": "didaktisk",
+            "source": "generated",
+            "content_sha256": "33bfb8404b3d944c66c4df3d2cb077793278b18670bfa4d9d387f394ab10bd77",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder undervisning og didaktikk",
+      "translation": "relating to teaching and didactics",
+      "examples": [
+        {
+          "no": "drøfte didaktiske problemstillinger",
+          "en": "discuss didactic issues"
+        }
+      ]
+    },
+    {
+      "text": "som har til formål å gi kunnskap, lærdom",
+      "translation": "intended to impart knowledge or learning",
+      "examples": [
+        {
+          "no": "romanen har lange didaktiske og oppbyggelige passasjer",
+          "en": "the novel has long didactic and edifying passages"
+        }
+      ]
+    }
+  ]
+}

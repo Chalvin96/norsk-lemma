@@ -1,0 +1,95 @@
+{
+  "source_article_id": 5139,
+  "lemmas": [
+    {
+      "lemma": "beksvart",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6047,
+      "is_sub_article": false,
+      "primary_translation": "pitch-black",
+      "word_forms": [
+        {
+          "word_form": "beksvart",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"be:k$%svAt`",
+              "ipa": "ˈbeːkˌsvɑʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "beksvarte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"be:k$%svA$t`@",
+              "ipa": "ˈbeːkˌsvɑʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aad6163dfcc8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aad6163dfcc8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aad6163dfcc8.mp3",
+            "text": "beksvart",
+            "source": "generated",
+            "content_sha256": "cc636626f7bbbd7d5721805476cbacff3b6e01e48b785aa615fd0223ac7f3fea",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svart som bek",
+      "translation": "black as pitch",
+      "examples": [
+        {
+          "no": "beksvart natt",
+          "en": "pitch-black night"
+        },
+        {
+          "no": "en beksvart februarhimmel",
+          "en": "a pitch-black February sky"
+        },
+        {
+          "no": "beksvart satire",
+          "en": "pitch-black satire"
+        }
+      ]
+    }
+  ]
+}

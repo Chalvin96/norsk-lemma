@@ -1,0 +1,127 @@
+{
+  "source_article_id": 10270,
+  "lemmas": [
+    {
+      "lemma": "diskonto",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12013,
+      "is_sub_article": false,
+      "primary_translation": "discount interest / discount rate",
+      "word_forms": [
+        {
+          "word_form": "diskonto",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skOn$tU",
+              "ipa": "dɪˈskɔntʊ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskontoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skOn$tU$@n",
+              "ipa": "dɪˈskɔntʊən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskontoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skOn$tU$@r",
+              "ipa": "dɪˈskɔntʊər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskontoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"skOn$tU$@$n@",
+              "ipa": "dɪˈskɔntʊənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b3e073e31b5a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b3e073e31b5a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b3e073e31b5a.mp3",
+            "text": "diskonto",
+            "source": "generated",
+            "content_sha256": "57bbd522bf9ef566019da72179d494b820520256dbdb60c63d1054b2e37fb565",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rente fram til forfallsdagen som blir trukket fra den summen som en veksel lyder på",
+      "translation": "interest until the due date which is deducted from the sum a bill is drawn for",
+      "examples": []
+    },
+    {
+      "text": "prosentsats som diskonto blir regnet ut etter",
+      "translation": "percentage rate according to which the discount is calculated",
+      "examples": [
+        {
+          "no": "sette opp diskontoen",
+          "en": "raise the discount rate"
+        }
+      ]
+    }
+  ]
+}

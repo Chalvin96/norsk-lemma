@@ -1,0 +1,73 @@
+{
+  "source_article_id": 41014,
+  "lemmas": [
+    {
+      "lemma": "nordenom",
+      "hgno": 0,
+      "pos": "PREP",
+      "source_lemma_id": 47984,
+      "is_sub_article": false,
+      "primary_translation": "north of / on the north side",
+      "word_forms": [
+        {
+          "word_form": "nordenom",
+          "tags_json": [
+            "ADP"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈurdn̩ˌɔm",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2c4583e19ffe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2c4583e19ffe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2c4583e19ffe.mp3",
+            "text": "nordenom",
+            "source": "generated",
+            "content_sha256": "e8df4da046b3871ea3be11ced8f0aafeb33e6c6f925cc0cbc9586804349244e5"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "på nordsiden av",
+      "translation": "on the north side of",
+      "examples": [
+        {
+          "no": "seile nordenom Færøyene",
+          "en": "sail north of the Faroe Islands"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: på nordsiden",
+      "translation": "used as: on the north side",
+      "examples": [
+        {
+          "no": "vi bestemte oss for å gå nordenom",
+          "en": "we decided to go around to the north"
+        }
+      ]
+    }
+  ]
+}

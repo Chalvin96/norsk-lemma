@@ -1,0 +1,158 @@
+{
+  "source_article_id": 15620,
+  "lemmas": [
+    {
+      "lemma": "flytid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 18131,
+      "is_sub_article": false,
+      "primary_translation": "flight time",
+      "word_forms": [
+        {
+          "word_form": "flytid",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$%ti:d",
+              "ipa": "ˈflyːˌtɪːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flytiden",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$%ti:$dn=",
+              "ipa": "ˈflyːˌtɪːdn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flytider",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$%ti:$d@r",
+              "ipa": "ˈflyːˌtɪːdər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flytidene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$%ti:$dn=$@",
+              "ipa": "ˈflyːˌtɪːdn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flytida",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fly:$%ti:$A",
+              "ipa": "ˈflyːˌtɪːɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f1c9bb517b69.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f1c9bb517b69.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f1c9bb517b69.mp3",
+            "text": "flytid",
+            "source": "generated",
+            "content_sha256": "6c39dc1f67c6e6e36943ac89ff76ec17fe18af2dd57e3a5ac6b21096096405f2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tid det tar å fly en viss strekning",
+      "translation": "time it takes to fly a certain distance",
+      "examples": [
+        {
+          "no": "flytiden Oslo–New York",
+          "en": "the flight time Oslo-New York"
+        },
+        {
+          "no": "flytiden er beregnet til 45 minutter",
+          "en": "the flight time is estimated at 45 minutes"
+        }
+      ]
+    },
+    {
+      "text": "samlet tid en har ført et fly",
+      "translation": "total time one has piloted an aircraft",
+      "examples": [
+        {
+          "no": "han hadde over 3 000 timers flytid på denne flytypen",
+          "en": "he had over 3,000 flight hours on this type of aircraft"
+        }
+      ]
+    }
+  ]
+}

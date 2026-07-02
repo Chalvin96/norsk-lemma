@@ -1,0 +1,95 @@
+{
+  "source_article_id": 100529,
+  "lemmas": [
+    {
+      "lemma": "gremmes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 160100,
+      "is_sub_article": false,
+      "primary_translation": "be annoyed / feel embarrassed",
+      "word_forms": [
+        {
+          "word_form": "gremmes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"grE$m@s",
+              "ipa": "ˈgrɛməs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gremtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"grEm$t@s",
+              "ipa": "ˈgrɛmtəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "803dfa451e13.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/803dfa451e13.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/803dfa451e13.mp3",
+            "text": "gremmes",
+            "source": "generated",
+            "content_sha256": "b697b5c9df0360f91121285e8a20c2173f73b2272ffbd510dbe3d8cfebace5f2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ergre seg",
+      "translation": "to be annoyed",
+      "examples": [
+        {
+          "no": "jeg gremtes over at jeg ikke hadde slått til før",
+          "en": "I regretted not taking the opportunity earlier"
+        }
+      ]
+    },
+    {
+      "text": "føle seg flau eller pinlig berørt",
+      "translation": "to feel embarrassed",
+      "examples": [
+        {
+          "no": "hun gremmes over sin egen innsats",
+          "en": "she is ashamed of her own effort"
+        }
+      ]
+    }
+  ]
+}

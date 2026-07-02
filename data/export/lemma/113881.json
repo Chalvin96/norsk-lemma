@@ -1,0 +1,112 @@
+{
+  "source_article_id": 113881,
+  "lemmas": [
+    {
+      "lemma": "flomstor",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 98797,
+      "is_sub_article": false,
+      "primary_translation": "swollen by flood",
+      "word_forms": [
+        {
+          "word_form": "flomstor",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flOm$%stu:r",
+              "ipa": "ˈflɔmˌstuːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flomstore",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flOm$%stu:$r@",
+              "ipa": "ˈflɔmˌstuːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flomstort",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈɔmstˌuːʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5a3296d4e514.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a3296d4e514.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a3296d4e514.mp3",
+            "text": "flomstor",
+            "source": "generated",
+            "content_sha256": "9751c4a6effd2abaa0f1202dd185e63b0c8629d5cccd81f384651a879983f337",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om elv, bekk eller lignende: stor på grunn av flom",
+      "translation": "about a river, stream: large due to flood",
+      "examples": [
+        {
+          "no": "den flomstore fossen",
+          "en": "the flood-swollen waterfall"
+        },
+        {
+          "no": "elva går flomstor",
+          "en": "the river is swollen with floodwater"
+        }
+      ]
+    }
+  ]
+}

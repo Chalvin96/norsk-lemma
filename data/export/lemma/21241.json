@@ -1,0 +1,133 @@
+{
+  "source_article_id": 21241,
+  "lemmas": [
+    {
+      "lemma": "grus",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 24804,
+      "is_sub_article": false,
+      "primary_translation": "gravel",
+      "word_forms": [
+        {
+          "word_form": "grus",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr}:s",
+              "ipa": "ˈgrʉːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "grusen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gr}:$sn=",
+              "ipa": "ˈgrʉːsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gruser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gr}:$s@r",
+              "ipa": "ˈgrʉːsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grusene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈʉːsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "49edd0bb4d87.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49edd0bb4d87.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49edd0bb4d87.mp3",
+            "text": "grus",
+            "source": "generated",
+            "content_sha256": "453e838e74c3d1d6bde73e49b460d3721e7aed52a60108d8fe92ec5097462202",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "masse av småstein eller knuste korn fra større steiner (med en kornstørrelse mellom 2 og 60 mm)",
+      "translation": "mass of small stones or crushed grains from larger stones (with a grain size between 2 and 60 mm)",
+      "examples": []
+    },
+    {
+      "text": "naturlig blanding av sand og småstein",
+      "translation": "natural mixture of sand and small stones",
+      "examples": [
+        {
+          "no": "legge grus på veien",
+          "en": "put gravel on the road"
+        },
+        {
+          "no": "strø grus på isen",
+          "en": "spread gravel on the ice"
+        }
+      ]
+    }
+  ]
+}

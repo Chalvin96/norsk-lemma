@@ -1,0 +1,87 @@
+{
+  "source_article_id": 48841,
+  "lemmas": [
+    {
+      "lemma": "romlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 56080,
+      "is_sub_article": false,
+      "primary_translation": "spatial",
+      "word_forms": [
+        {
+          "word_form": "romlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rUm$lI",
+              "ipa": "ˈrʊmlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "romlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rUm$lI$@",
+              "ipa": "ˈrʊmlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "997295c5f53d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/997295c5f53d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/997295c5f53d.mp3",
+            "text": "romlig",
+            "source": "generated",
+            "content_sha256": "63ab10b1e45c4eaba033201d2e9467a87c839660af5645c9fb6ec2a987d9281d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder det fysiske eller sansbare rom",
+      "translation": "pertaining to physical, perceptible space",
+      "examples": [
+        {
+          "no": "en kan skille mellom logisk, romlig og abstrakt tenkning",
+          "en": "one can distinguish between logical, spatial, and abstract thinking"
+        }
+      ]
+    }
+  ]
+}

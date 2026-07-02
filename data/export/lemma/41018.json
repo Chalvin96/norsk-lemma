@@ -1,0 +1,73 @@
+{
+  "source_article_id": 41018,
+  "lemmas": [
+    {
+      "lemma": "nordgående",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47988,
+      "is_sub_article": false,
+      "primary_translation": "northbound",
+      "word_forms": [
+        {
+          "word_form": "nordgående",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nu:r$%go:$@$n@",
+              "ipa": "ˈnuːrˌgoːənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f717b319d7b6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f717b319d7b6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f717b319d7b6.mp3",
+            "text": "nordgående",
+            "source": "generated",
+            "content_sha256": "b1cc6f666da48253697af024e8f9ac90c75e08ae3aa55635d43231a0720aa3ea",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som går nordover",
+      "translation": "going north",
+      "examples": [
+        {
+          "no": "nordgående trafikk",
+          "en": "northbound traffic"
+        },
+        {
+          "no": "nordgående dagtog",
+          "en": "northbound daytime train"
+        }
+      ]
+    }
+  ]
+}

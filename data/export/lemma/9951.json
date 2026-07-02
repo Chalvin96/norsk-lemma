@@ -1,0 +1,81 @@
+{
+  "source_article_id": 9951,
+  "lemmas": [
+    {
+      "lemma": "dette",
+      "hgno": 1,
+      "pos": "DET",
+      "source_lemma_id": 156331,
+      "is_sub_article": false,
+      "primary_translation": "this (demonstrative pronoun/determiner)",
+      "word_forms": [
+        {
+          "word_form": "dette",
+          "tags_json": [
+            "Dem",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dE$t@",
+              "ipa": "ˈdɛtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4e5c3e72bbc7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e5c3e72bbc7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e5c3e72bbc7.mp3",
+            "text": "dette",
+            "source": "generated",
+            "content_sha256": "e3a23c9383f1be354cdea96ada2d77ccac9b85a3307530279540223241fb9a70",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nøytrum av denne",
+      "translation": "of this",
+      "examples": []
+    },
+    {
+      "text": "jamfør det og disse",
+      "translation": "this and these",
+      "examples": [
+        {
+          "no": "hva er dette?",
+          "en": "what is this?"
+        },
+        {
+          "no": "dette kan vi ikke være bekjent av",
+          "en": "this is something we cannot be associated with"
+        },
+        {
+          "no": "dette må du forklare nærmere",
+          "en": "you have to explain this in more detail"
+        },
+        {
+          "no": "les dette!",
+          "en": "read this!"
+        }
+      ]
+    }
+  ]
+}

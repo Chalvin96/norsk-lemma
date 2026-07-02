@@ -1,0 +1,159 @@
+{
+  "source_article_id": 57200,
+  "lemmas": [
+    {
+      "lemma": "stillhet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 84110,
+      "is_sub_article": false,
+      "primary_translation": "silence / quiet",
+      "word_forms": [
+        {
+          "word_form": "stillhet",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stIl$%he:t",
+              "ipa": "ˈstɪlˌheːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "stillheta",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɪlhˌeːtɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "stillheter",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɪlhˌeːtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "stillhetene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɪlhˌeːtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "stillheten",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stIl$%he:$tn=",
+              "ipa": "ˈstɪlˌheːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b0ca24875ce6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b0ca24875ce6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b0ca24875ce6.mp3",
+            "text": "stillhet",
+            "source": "generated",
+            "content_sha256": "11b802b01ed04142368f8a5a4e27db65289988a80a6e279a7f97c123ab09d408",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være stille",
+      "translation": "the state of being quiet",
+      "examples": []
+    },
+    {
+      "text": "det at det ikke er bråk",
+      "translation": "the absence of noise",
+      "examples": [
+        {
+          "no": "det var en forventningsfull stillhet i salen",
+          "en": "there was an expectant silence in the hall"
+        },
+        {
+          "no": "bare et par snufs brøt stillheten",
+          "en": "only a couple of sniffles broke the silence"
+        }
+      ]
+    }
+  ]
+}

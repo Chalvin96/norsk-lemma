@@ -1,0 +1,82 @@
+{
+  "source_article_id": 41725,
+  "lemmas": [
+    {
+      "lemma": "nåværende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48556,
+      "is_sub_article": false,
+      "primary_translation": "current / present",
+      "word_forms": [
+        {
+          "word_form": "nåværende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"no:$%v{:$n`=$@",
+              "ipa": "ˈnoːˌvæːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0dd5670619b4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0dd5670619b4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0dd5670619b4.mp3",
+            "text": "nåværende",
+            "source": "generated",
+            "content_sha256": "5c21023d03204b96c313041d3a4e75b2a2bc274324df36568c43c29cc0f919fd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som finner sted eller som er nå",
+      "translation": "taking place or existing now",
+      "examples": []
+    },
+    {
+      "text": "som en har for øyeblikket",
+      "translation": "that one has at the moment",
+      "examples": [
+        {
+          "no": "hans nåværende kone",
+          "en": "his current wife"
+        },
+        {
+          "no": "nåværende rektor",
+          "en": "current principal"
+        },
+        {
+          "no": "på det nåværende tidspunkt",
+          "en": "at the present time"
+        }
+      ]
+    }
+  ]
+}

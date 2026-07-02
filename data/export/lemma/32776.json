@@ -1,0 +1,182 @@
+{
+  "source_article_id": 32776,
+  "lemmas": [
+    {
+      "lemma": "kunstig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 38452,
+      "is_sub_article": false,
+      "primary_translation": "artificial / unnatural",
+      "word_forms": [
+        {
+          "word_form": "kunstig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ku0n$stI",
+              "ipa": "ˈkʉnstɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kunstige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ku0n$stI$@",
+              "ipa": "ˈkʉnstɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kunstigere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉnstɪərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kunstigst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉnstɪgst",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kunstigste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉnstɪgstə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6edc6718f65f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6edc6718f65f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6edc6718f65f.mp3",
+            "text": "kunstig",
+            "source": "generated",
+            "content_sha256": "0a090598119be24eec93d893430943394dea9ccfb65f683233d17217274074b8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "laget av mennesker eller maskiner",
+      "translation": "made by humans or machines",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra naturlig",
+      "translation": "synthetic",
+      "examples": [
+        {
+          "no": "blomstene var kunstige",
+          "en": "the flowers were artificial"
+        },
+        {
+          "no": "dropsene var laget med kunstig søtstoff",
+          "en": "the candies were made with artificial sweetener"
+        },
+        {
+          "no": "han hadde fem kunstige tenner",
+          "en": "he had five artificial teeth"
+        }
+      ]
+    },
+    {
+      "text": "som ikke virker ekte eller oppriktig",
+      "translation": "that does not seem real or sincere",
+      "examples": []
+    },
+    {
+      "text": "unaturlig, tilgjort",
+      "translation": "unnatural, affected",
+      "examples": [
+        {
+          "no": "sette et kunstig skille",
+          "en": "draw an artificial distinction"
+        },
+        {
+          "no": "hun hadde et kunstig smil",
+          "en": "she had an artificial smile"
+        },
+        {
+          "no": "han oppførte seg kunstig og unaturlig",
+          "en": "he behaved in an artificial and unnatural way"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_article_id": 61780,
+  "lemmas": [
+    {
+      "lemma": "tralt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70658,
+      "is_sub_article": false,
+      "primary_translation": "routine / drudgery",
+      "word_forms": [
+        {
+          "word_form": "tralt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trAlt",
+              "ipa": "ˈtrɑlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tralten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trAl$tn=",
+              "ipa": "ˈtrɑltn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tralter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈɑːltər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "traltene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈɑltn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b544acfde950.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b544acfde950.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b544acfde950.mp3",
+            "text": "tralt",
+            "source": "generated",
+            "content_sha256": "6734268987398a27a607a129b2a4f0fc2305e874a89dbc63cbf28a7bb71b4cab",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ensformig og vanemessig virksomhet",
+      "translation": "monotonous and habitual activity",
+      "examples": [
+        {
+          "no": "den daglige tralten",
+          "en": "the daily routine"
+        },
+        {
+          "no": "fortsette i den samme, gamle tralten",
+          "en": "continue in the same old routine"
+        }
+      ]
+    }
+  ]
+}

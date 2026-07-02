@@ -1,0 +1,122 @@
+{
+  "source_article_id": 106795,
+  "lemmas": [
+    {
+      "lemma": "ruter",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 160421,
+      "is_sub_article": false,
+      "primary_translation": "network router",
+      "word_forms": [
+        {
+          "word_form": "ruter",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r}:$t@r",
+              "ipa": "ˈrʉːtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ruteren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r}:$t@n`",
+              "ipa": "ˈrʉːtəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "rutere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"r}:$t@$r@",
+              "ipa": "ˈrʉːtərə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ruterne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r}:$t@$n`@",
+              "ipa": "ˈrʉːtəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4907089a0ca5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4907089a0ca5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4907089a0ca5.mp3",
+            "text": "ruter",
+            "source": "generated",
+            "content_sha256": "c55f704d017b09f07b165086b201f651a6f35813afbfd24718dd6ff1fa9cc8ad",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "elektrisk komponent som er knutepunkt i et nettverk av datamaskiner, og som styrer signalene mellom to eller flere nettverk",
+      "translation": "electrical component that is a junction in a network of computers, and that controls signals between two or more networks",
+      "examples": [
+        {
+          "no": "trådløs ruter",
+          "en": "wireless router"
+        }
+      ]
+    }
+  ]
+}

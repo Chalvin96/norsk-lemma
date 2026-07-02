@@ -1,0 +1,122 @@
+{
+  "source_article_id": 2203,
+  "lemmas": [
+    {
+      "lemma": "antikk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 2730,
+      "is_sub_article": false,
+      "primary_translation": "antique / old-fashioned",
+      "word_forms": [
+        {
+          "word_form": "antikk",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"tIk",
+              "ipa": "ɑnˈtɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "antikke",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"tI$k@",
+              "ipa": "ɑnˈtɪkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "antikt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"tIkt",
+              "ipa": "ɑnˈtɪkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b18d907528d5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b18d907528d5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b18d907528d5.mp3",
+            "text": "antikk",
+            "source": "generated",
+            "content_sha256": "d7ca68575be918c1dcd2feaeb2fcf2c7eb6b5d338889eccadc1d23041173cf2a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder, skriver seg fra antikken",
+      "translation": "relating to, originating from antiquity",
+      "examples": [
+        {
+          "no": "antikk stil",
+          "en": "ancient style"
+        },
+        {
+          "no": "de antikke klassikerne",
+          "en": "the ancient classics"
+        }
+      ]
+    },
+    {
+      "text": "i gammeldags gammaldags stil",
+      "translation": "in an old-fashioned style",
+      "examples": []
+    },
+    {
+      "text": "gammel",
+      "translation": "old",
+      "examples": [
+        {
+          "no": "et antikt middagsservise",
+          "en": "an antique dinner service"
+        }
+      ]
+    }
+  ]
+}

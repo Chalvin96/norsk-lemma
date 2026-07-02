@@ -1,0 +1,100 @@
+{
+  "source_article_id": 64863,
+  "lemmas": [
+    {
+      "lemma": "urokkelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74271,
+      "is_sub_article": false,
+      "primary_translation": "unwavering",
+      "word_forms": [
+        {
+          "word_form": "urokkelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"rO$k@$lI",
+              "ipa": "ʉˈrɔkəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "urokkelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"rO$k@$lI$@",
+              "ipa": "ʉˈrɔkəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "655dbd0bfd6f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/655dbd0bfd6f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/655dbd0bfd6f.mp3",
+            "text": "urokkelig",
+            "source": "generated",
+            "content_sha256": "06a4ae077d647dfb1afcf3395ff959f4c6c478781acc3931246b2819080d022c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke kan endres eller påvirkes",
+      "translation": "that cannot be changed or swayed",
+      "examples": []
+    },
+    {
+      "text": "fast, uforanderlig, standhaftig",
+      "translation": "firm; steadfast; unchanging",
+      "examples": [
+        {
+          "no": "stå fast og urokkelig på sitt",
+          "en": "stand firm and unshakable in one's position"
+        },
+        {
+          "no": "være urokkelig i sin tro",
+          "en": "be unshakable in one's faith"
+        },
+        {
+          "no": "avgjørelsen var urokkelig",
+          "en": "the decision was final"
+        }
+      ]
+    }
+  ]
+}

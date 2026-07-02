@@ -1,0 +1,100 @@
+{
+  "source_article_id": 30036,
+  "lemmas": [
+    {
+      "lemma": "klekkelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35436,
+      "is_sub_article": false,
+      "primary_translation": "considerable",
+      "word_forms": [
+        {
+          "word_form": "klekkelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klE$k@$lI",
+              "ipa": "ˈklɛkəlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klekkelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"klE$k@$lI$@",
+              "ipa": "ˈklɛkəlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "32aa617c4700.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/32aa617c4700.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/32aa617c4700.mp3",
+            "text": "klekkelig",
+            "source": "generated",
+            "content_sha256": "3b6caa4605de8fa366bcba683e5c9ef8e70525ac2a4cf788a233b42fe329d7d1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som monner",
+      "translation": "that makes a difference",
+      "examples": []
+    },
+    {
+      "text": "betydelig",
+      "translation": "considerable",
+      "examples": [
+        {
+          "no": "få en klekkelig belønning",
+          "en": "receive a substantial reward"
+        },
+        {
+          "no": "få en klekkelig erstatning",
+          "en": "receive substantial compensation"
+        },
+        {
+          "no": "få en klekkelig bot",
+          "en": "receive a hefty fine"
+        }
+      ]
+    }
+  ]
+}

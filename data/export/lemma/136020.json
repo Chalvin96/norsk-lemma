@@ -1,0 +1,112 @@
+{
+  "source_article_id": 136020,
+  "lemmas": [
+    {
+      "lemma": "årsikker",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2022582,
+      "is_sub_article": false,
+      "primary_translation": "annual",
+      "word_forms": [
+        {
+          "word_form": "årsikker",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈoːrsˌɪkər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "årsikre",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈoːrsˌɪkrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "årsikkert",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈoːrsˌɪkəʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2014882eefc7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2014882eefc7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2014882eefc7.mp3",
+            "text": "årsikker",
+            "source": "generated",
+            "content_sha256": "f78e85d492f29025aa60295e27953f93ccdf2f0ffaebac2a7fb4552752efb681"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som skjer eller gir resultat årlig",
+      "translation": "that happens or yields results annually",
+      "examples": [
+        {
+          "no": "vassdrag med årsikker vannføring",
+          "en": "watercourses with a reliable yearly flow"
+        },
+        {
+          "no": "jorda er årsikker og gir svært gode avlinger",
+          "en": "the soil is reliably productive and yields very good crops"
+        }
+      ]
+    }
+  ]
+}

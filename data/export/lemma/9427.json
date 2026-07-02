@@ -1,0 +1,183 @@
+{
+  "source_article_id": 9427,
+  "lemmas": [
+    {
+      "lemma": "debitere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 11132,
+      "is_sub_article": false,
+      "primary_translation": "debit / charge",
+      "word_forms": [
+        {
+          "word_form": "debitere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$bI$\"te:$r@",
+              "ipa": "dəbɪˈteːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "debiterer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$bI$\"te:$r@r",
+              "ipa": "dəbɪˈteːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "debiteres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$bI$\"te:$r@s",
+              "ipa": "dəbɪˈteːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "debiterte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$bI$\"te:$t`@",
+              "ipa": "dəbɪˈteːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "debitert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$bI$\"te:t`",
+              "ipa": "dəbɪˈteːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "debiterende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$bI$\"te:$n`=$@",
+              "ipa": "dəbɪˈteːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "debiter",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$bI$\"te:r",
+              "ipa": "dəbɪˈteːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "39e62b3bfae2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39e62b3bfae2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39e62b3bfae2.mp3",
+            "text": "debitere",
+            "source": "generated",
+            "content_sha256": "b295e5d4671288cd390c50b969f80cbf7a010347dead7d7f91554a77bb09b393",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "føre inn på debetsiden av en konto",
+      "translation": "enter on the debit side of an account",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra kreditere",
+      "translation": "charge",
+      "examples": [
+        {
+          "no": "beløpet er debitert på kontoen",
+          "en": "the amount has been debited to the account"
+        }
+      ]
+    }
+  ]
+}

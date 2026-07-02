@@ -1,0 +1,87 @@
+{
+  "source_article_id": 21295,
+  "lemmas": [
+    {
+      "lemma": "grytidlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 24863,
+      "is_sub_article": false,
+      "primary_translation": "very early morning",
+      "word_forms": [
+        {
+          "word_form": "grytidlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gry:$%ti:d$lI",
+              "ipa": "ˈgryːˌtɪːdlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grytidlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gry:$%ti:d$lI$@",
+              "ipa": "ˈgryːˌtɪːdlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e9bfb8568a3e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9bfb8568a3e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9bfb8568a3e.mp3",
+            "text": "grytidlig",
+            "source": "generated",
+            "content_sha256": "9b649a42f64a99879960b4ddc959820614f5db94029ef1617f4715c2cb9ef431",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært tidlig om morgenen",
+      "translation": "very early in the morning",
+      "examples": [
+        {
+          "no": "stå opp grytidlig",
+          "en": "get up very early"
+        }
+      ]
+    }
+  ]
+}

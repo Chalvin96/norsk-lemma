@@ -1,0 +1,97 @@
+{
+  "source_article_id": 60267,
+  "lemmas": [
+    {
+      "lemma": "tematisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68930,
+      "is_sub_article": false,
+      "primary_translation": "thematic",
+      "word_forms": [
+        {
+          "word_form": "tematisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$\"mA:$tI$sk",
+              "ipa": "təˈmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tematiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$\"mA:$tI$sk@",
+              "ipa": "təˈmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0e73d216f602.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0e73d216f602.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0e73d216f602.mp3",
+            "text": "tematisk",
+            "source": "generated",
+            "content_sha256": "2ca5d2b0009a353306f07883ca8a500f61a1bb1fe6842c3491108cc1cbc76bb9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som angår tema",
+      "translation": "concerning a theme",
+      "examples": [
+        {
+          "no": "verkene er tematisk beslektet",
+          "en": "the works are thematically related"
+        }
+      ]
+    },
+    {
+      "text": "som holder seg nær tema",
+      "translation": "staying close to the theme",
+      "examples": [
+        {
+          "no": "tematisk musikk",
+          "en": "thematic music"
+        }
+      ]
+    }
+  ]
+}

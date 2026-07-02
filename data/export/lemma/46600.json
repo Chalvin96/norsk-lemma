@@ -1,0 +1,126 @@
+{
+  "source_article_id": 46600,
+  "lemmas": [
+    {
+      "lemma": "prostata",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 53630,
+      "is_sub_article": false,
+      "primary_translation": "prostate",
+      "word_forms": [
+        {
+          "word_form": "prostata",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"prO$stA$tA",
+              "ipa": "ˈprɔstɑtɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "prostataen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"prO$stA$tA$@n",
+              "ipa": "ˈprɔstɑtɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "prostataer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈɔstɑtɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "prostataene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prˈɔstɑtɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a20d233d9aea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a20d233d9aea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a20d233d9aea.mp3",
+            "text": "prostata",
+            "source": "generated",
+            "content_sha256": "e7f1ae4504d1a8a404951a9dd910cbcc22aec30808918e2a19f4efca286db563",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "blærehalskjertel hos menn",
+      "translation": "prostate gland in men",
+      "examples": []
+    },
+    {
+      "text": "betennelse eller svulst i blærehalskjertelen",
+      "translation": "inflammation or tumor of the prostate gland",
+      "examples": []
+    }
+  ]
+}

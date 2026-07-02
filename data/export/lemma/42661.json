@@ -1,0 +1,91 @@
+{
+  "source_article_id": 42661,
+  "lemmas": [
+    {
+      "lemma": "ødslig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 80908,
+      "is_sub_article": false,
+      "primary_translation": "desolate",
+      "word_forms": [
+        {
+          "word_form": "ødslig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"9d$slI",
+              "ipa": "ˈœdslɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ødslige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"9d$slI$@",
+              "ipa": "ˈœdslɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1968549ea390.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1968549ea390.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1968549ea390.mp3",
+            "text": "ødslig",
+            "source": "generated",
+            "content_sha256": "10af104f686e154710166266af627241f95202d0e7603a0fa9922c467bc96f9f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ensom og forlatt",
+      "translation": "unpopulated",
+      "examples": [
+        {
+          "no": "store, ødslige vidder",
+          "en": "vast, desolate expanses"
+        },
+        {
+          "no": "det var stille og ødslig",
+          "en": "it was quiet and desolate"
+        }
+      ]
+    }
+  ]
+}

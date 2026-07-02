@@ -1,0 +1,204 @@
+{
+  "source_article_id": 5019,
+  "lemmas": [
+    {
+      "lemma": "behøve",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 5880,
+      "is_sub_article": false,
+      "primary_translation": "need / be obliged to",
+      "word_forms": [
+        {
+          "word_form": "behøve",
+          "tags_json": [
+            "v3",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"h2:$v@",
+              "ipa": "bəˈhøːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "behøver",
+          "tags_json": [
+            "v3",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"h2:$v@r",
+              "ipa": "bəˈhøːvər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "behøves",
+          "tags_json": [
+            "v3",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"h2:$v@s",
+              "ipa": "bəˈhøːvəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "behøvde",
+          "tags_json": [
+            "v3",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"h9v$d@",
+              "ipa": "bəˈhœvdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "behøvd",
+          "tags_json": [
+            "v3",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"h9vd",
+              "ipa": "bəˈhœvd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "behøvende",
+          "tags_json": [
+            "v3",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"h2:$v@$n@",
+              "ipa": "bəˈhøːvənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "behøv",
+          "tags_json": [
+            "v3",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"h2:v",
+              "ipa": "bəˈhøːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cae2570bcd0f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cae2570bcd0f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cae2570bcd0f.mp3",
+            "text": "behøve",
+            "source": "generated",
+            "content_sha256": "24504c080761ffcf426f0edc5a3ba0eff98986847bd4fde1745fd5b48e301724",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ha bruk for",
+      "translation": "have need of",
+      "examples": [
+        {
+          "no": "behøve mye søvn",
+          "en": "need a lot of sleep"
+        },
+        {
+          "no": "ta så mye som du behøver",
+          "en": "take as much as you need"
+        },
+        {
+          "no": "takk, det behøves ikke",
+          "en": "thanks, that's not necessary"
+        }
+      ]
+    },
+    {
+      "text": "være nødt til",
+      "translation": "be obliged to",
+      "examples": [
+        {
+          "no": "ingen behøver å få vite det",
+          "en": "no one needs to know"
+        },
+        {
+          "no": "det behøvde du ikke å si",
+          "en": "you didn't need to say that"
+        },
+        {
+          "no": "det behøver ikke å bety at …",
+          "en": "that doesn't have to mean that …"
+        }
+      ]
+    }
+  ]
+}

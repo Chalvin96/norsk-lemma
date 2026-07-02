@@ -1,0 +1,167 @@
+{
+  "source_article_id": 17639,
+  "lemmas": [
+    {
+      "lemma": "fraregnet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 20541,
+      "is_sub_article": false,
+      "primary_translation": "not included / exclusive",
+      "word_forms": [
+        {
+          "word_form": "fraregnet",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frA:$%r{*I$n@t",
+              "ipa": "ˈfrɑːˌræ͡ɪnət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fraregnete",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frA:$%r{*I$n@$t@",
+              "ipa": "ˈfrɑːˌræ͡ɪnətə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fraregnede",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frA:$%r{*I$n@$d@",
+              "ipa": "ˈfrɑːˌræ͡ɪnədə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ecbc5ded4fc0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ecbc5ded4fc0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ecbc5ded4fc0.mp3",
+            "text": "fraregnet",
+            "source": "generated",
+            "content_sha256": "8ebf4825ce344010e4da830ae42f6c1179b64ce2ba39918b4e13617caa450406",
+            "tone": 1
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "fraregna",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 20540,
+      "is_sub_article": false,
+      "primary_translation": "not included / exclusive",
+      "word_forms": [
+        {
+          "word_form": "fraregna",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frA:$%r{*I$nA",
+              "ipa": "ˈfrɑːˌræ͡ɪnɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b09bfa94155a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b09bfa94155a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b09bfa94155a.mp3",
+            "text": "fraregna",
+            "source": "generated",
+            "content_sha256": "2c554d6ab9dfe0f138ab7ccbba5aea29211c4d7e9816a304c0af9b8d269581dc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke medregnet",
+      "translation": "not included",
+      "examples": []
+    },
+    {
+      "text": "unntatt, eksklusiv eksklusive",
+      "translation": "except, exclusive",
+      "examples": [
+        {
+          "no": "alle har betalt, meg fraregnet",
+          "en": "everyone has paid, me excepted"
+        },
+        {
+          "no": "fraregnet pausene har vi arbeidet i fem timer",
+          "en": "excluding the breaks, we have worked for five hours"
+        }
+      ]
+    }
+  ]
+}

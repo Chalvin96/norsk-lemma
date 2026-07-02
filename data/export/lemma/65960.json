@@ -1,0 +1,87 @@
+{
+  "source_article_id": 65960,
+  "lemmas": [
+    {
+      "lemma": "utvetydig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75719,
+      "is_sub_article": false,
+      "primary_translation": "unambiguous",
+      "word_forms": [
+        {
+          "word_form": "utvetydig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u:$tve:$%ty:$dI",
+              "ipa": "ˈuːtveːˌtyːdɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "utvetydige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$tve:$%ty:$dI$@",
+              "ipa": "ˈʉːtveːˌtyːdɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "807b022af823.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/807b022af823.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/807b022af823.mp3",
+            "text": "utvetydig",
+            "source": "generated",
+            "content_sha256": "a9137511c3dea53ff484ca4a0a1764fcc71a08cde6b73a2ba4b28cb02e092039",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "entydig, klar",
+      "translation": "unambiguous, clear",
+      "examples": [
+        {
+          "no": "gi utvetydig beskjed",
+          "en": "give clear notice"
+        }
+      ]
+    }
+  ]
+}

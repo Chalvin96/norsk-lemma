@@ -1,0 +1,106 @@
+{
+  "source_article_id": 31108,
+  "lemmas": [
+    {
+      "lemma": "kondisjonal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 36628,
+      "is_sub_article": false,
+      "primary_translation": "conditional",
+      "word_forms": [
+        {
+          "word_form": "kondisjonal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$dI$SU$\"nA:l",
+              "ipa": "kʊndɪʃʊˈnɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kondisjonale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$dI$SU$\"nA:$l@",
+              "ipa": "kʊndɪʃʊˈnɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kondisjonalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$dI$SU$\"nA:lt",
+              "ipa": "kʊndɪʃʊˈnɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "69194038967a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69194038967a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69194038967a.mp3",
+            "text": "kondisjonal",
+            "source": "generated",
+            "content_sha256": "173b332c07a7d75d613097df69ee6c27c36e591ad7072e5cdd5c1f083419bb96",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vilkårlig, som er uten betingelse",
+      "translation": "arbitrary, that is without condition",
+      "examples": [
+        {
+          "no": "kondisjonale leddsetninger",
+          "en": "conditional subordinate clauses"
+        }
+      ]
+    }
+  ]
+}

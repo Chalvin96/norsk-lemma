@@ -1,0 +1,137 @@
+{
+  "source_article_id": 14211,
+  "lemmas": [
+    {
+      "lemma": "fellesnevner",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 16463,
+      "is_sub_article": false,
+      "primary_translation": "common denominator / common thread",
+      "word_forms": [
+        {
+          "word_form": "fellesnevner",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fE$l@$%snEv$n@r",
+              "ipa": "ˈfɛləˌsnɛvnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fellesnevneren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fE$l@$%snEv$n@n`",
+              "ipa": "ˈfɛləˌsnɛvnəɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fellesnevnere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fE$l@$%snEv$n@$r@",
+              "ipa": "ˈfɛləˌsnɛvnərə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fellesnevnerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fE$l@$%snEv$n@$n`@",
+              "ipa": "ˈfɛləˌsnɛvnəɳə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6c99528ad53c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c99528ad53c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c99528ad53c.mp3",
+            "text": "fellesnevner",
+            "source": "generated",
+            "content_sha256": "74cf4dc6b03f071ea531156809fef242860a7d3008c889dcc5cb822d9cd1ee76",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nevner som andre nevnere i et matematisk uttrykk går opp i",
+      "translation": "a denominator that other denominators in a mathematical expression divide into",
+      "examples": [
+        {
+          "no": "dersom en skal addere brøker med forskjellige nevnere, må en først finne fellesnevneren",
+          "en": "if you are going to add fractions with different denominators, you must first find the common denominator"
+        }
+      ]
+    },
+    {
+      "text": "rød tråd",
+      "translation": "common thread",
+      "examples": []
+    },
+    {
+      "text": "forhold, sak, ting som utgjør et bindeledd for noe som ellers er splittet",
+      "translation": "aspect, matter, thing that forms a link for something otherwise divided",
+      "examples": [
+        {
+          "no": "troen på en kraft utenfor mennesket er en fellesnevner for de fleste religioner",
+          "en": "belief in a force outside humanity is a common denominator for most religions"
+        }
+      ]
+    }
+  ]
+}

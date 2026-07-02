@@ -1,0 +1,122 @@
+{
+  "source_article_id": 40459,
+  "lemmas": [
+    {
+      "lemma": "nedbør",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47349,
+      "is_sub_article": false,
+      "primary_translation": "precipitation",
+      "word_forms": [
+        {
+          "word_form": "nedbør",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$%be:r",
+              "ipa": "ˈneːdˌbeːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedbøren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$%be:$n`=",
+              "ipa": "ˈneːdˌbeːɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedbører",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$%be:$r@r",
+              "ipa": "ˈneːdˌbeːrər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedbørene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$%be:$n`=$@",
+              "ipa": "ˈneːdˌbeːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "87885e247942.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87885e247942.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87885e247942.mp3",
+            "text": "nedbør",
+            "source": "generated",
+            "content_sha256": "aadf0990d6ed37bdf96acb0d2aa85b5898a6f2c1e5bddc84b09f2b4ab00a3b47",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "felles betegnelse for regn, snø og hagl",
+      "translation": "collective term for rain, snow, and hail",
+      "examples": [
+        {
+          "no": "det er målt 15 mm nedbør på Blindern de siste 24 timene",
+          "en": "15 mm of precipitation has been measured at Blindern in the last 24 hours"
+        }
+      ]
+    }
+  ]
+}

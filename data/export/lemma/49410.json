@@ -1,0 +1,128 @@
+{
+  "source_article_id": 49410,
+  "lemmas": [
+    {
+      "lemma": "røst",
+      "hgno": 3,
+      "pos": "NOUN",
+      "source_lemma_id": 56829,
+      "is_sub_article": false,
+      "primary_translation": "roof structure / gable",
+      "word_forms": [
+        {
+          "word_form": "røst",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"r9$st",
+              "ipa": "ˈrœst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "røstet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"r9$st@",
+              "ipa": "ˈrœstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "røsta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"r9$stA",
+              "ipa": "ˈrœstɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "røstene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r9$stn=$@",
+              "ipa": "ˈrœstn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "246ec1f60615.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/246ec1f60615.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/246ec1f60615.mp3",
+            "text": "røst",
+            "source": "generated",
+            "content_sha256": "da20d406c1937011ab3155b2177661aaacf13fdbabc16ce51a25fa863636deb4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bærende konstruksjon i hustak med møne",
+      "translation": "load-bearing construction in a house roof with a ridge",
+      "examples": []
+    },
+    {
+      "text": "øvre del av gavlvegg",
+      "translation": "upper part of a gable wall",
+      "examples": [
+        {
+          "no": "et hus med spisst røst",
+          "en": "a house with a pointed gable"
+        }
+      ]
+    }
+  ]
+}

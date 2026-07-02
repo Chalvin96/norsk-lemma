@@ -1,0 +1,134 @@
+{
+  "source_article_id": 69399,
+  "lemmas": [
+    {
+      "lemma": "vås",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 80000,
+      "is_sub_article": false,
+      "primary_translation": "nonsense",
+      "word_forms": [
+        {
+          "word_form": "vås",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vo:s",
+              "ipa": "ˈvoːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "våset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vo:$s@t",
+              "ipa": "ˈvoːsət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "våsa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vo:$sA",
+              "ipa": "ˈvoːsɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "våsene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈoːsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7e86e77c57f1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e86e77c57f1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7e86e77c57f1.mp3",
+            "text": "vås",
+            "source": "generated",
+            "content_sha256": "73adbdd1ca5ff01bed03dee26cf67972f133525bec5db00b86f21e2f497e50da",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "meningsløst eller usant snakk",
+      "translation": "",
+      "examples": []
+    },
+    {
+      "text": "sludder, tullprat, vrøvl",
+      "translation": "",
+      "examples": [
+        {
+          "no": "fare med vås",
+          "en": "talk nonsense"
+        },
+        {
+          "no": "det er bare sludder og vås!",
+          "en": "it's nothing but nonsense and drivel!"
+        }
+      ]
+    }
+  ]
+}

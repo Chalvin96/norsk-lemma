@@ -1,0 +1,126 @@
+{
+  "source_article_id": 108981,
+  "lemmas": [
+    {
+      "lemma": "barnegråt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 88741,
+      "is_sub_article": false,
+      "primary_translation": "child's cry",
+      "word_forms": [
+        {
+          "word_form": "barnegråt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$n`@$%gro:t",
+              "ipa": "ˈbɑːɳəˌgroːt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "barnegråten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bA:$n`@$%gro:$tn=",
+              "ipa": "ˈbɑːɳəˌgroːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "barnegråter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɑːɳəgrˌoːtər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "barnegråtene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɑːɳəgrˌoːtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c9e33c006473.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c9e33c006473.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c9e33c006473.mp3",
+            "text": "barnegråt",
+            "source": "generated",
+            "content_sha256": "301274c18812138651e674f336d2219ae275310ec67603cee3628f835d93c67f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "barns gråt",
+      "translation": "children's crying",
+      "examples": [
+        {
+          "no": "høre sår barnegråt",
+          "en": "hear heartbreaking crying from a child"
+        }
+      ]
+    }
+  ]
+}

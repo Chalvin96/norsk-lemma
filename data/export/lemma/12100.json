@@ -1,0 +1,91 @@
+{
+  "source_article_id": 12100,
+  "lemmas": [
+    {
+      "lemma": "eksplosjonsfarlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14135,
+      "is_sub_article": false,
+      "primary_translation": "explosive risk",
+      "word_forms": [
+        {
+          "word_form": "eksplosjonsfarlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$splU$\"Su:ns$%fA:$l`I",
+              "ipa": "ɛksplʊˈʃuːnsˌfɑːɭɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksplosjonsfarlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$splU$\"Su:ns$%fA:$l`I$@",
+              "ipa": "ɛksplʊˈʃuːnsˌfɑːɭɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6c62aa6e46bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c62aa6e46bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6c62aa6e46bc.mp3",
+            "text": "eksplosjonsfarlig",
+            "source": "generated",
+            "content_sha256": "e44ff4b51943c7e4989ab27e3e8708e4b56766944b80668253141cc62b74751e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har stor fare for å eksplodere",
+      "translation": "that has a great risk of exploding",
+      "examples": [
+        {
+          "no": "en eksplosjonsfarlig gass",
+          "en": "an explosive gas"
+        },
+        {
+          "no": "en beholder med eksplosjonsfarlig innhold",
+          "en": "a container with explosive contents"
+        }
+      ]
+    }
+  ]
+}

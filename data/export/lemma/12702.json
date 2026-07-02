@@ -1,0 +1,165 @@
+{
+  "source_article_id": 12702,
+  "lemmas": [
+    {
+      "lemma": "eng",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 14803,
+      "is_sub_article": false,
+      "primary_translation": "narrow",
+      "word_forms": [
+        {
+          "word_form": "eng",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"EN",
+              "ipa": "ˈɛŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "enge",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"EN$@",
+              "ipa": "ˈɛŋə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "engt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ENt",
+              "ipa": "ˈɛŋt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "engere",
+          "tags_json": [
+            "a1",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"EN$@$r@",
+              "ipa": "ˈɛŋərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "engest",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"EN$@$st",
+              "ipa": "ˈɛŋəst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "engeste",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛŋəstə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "45845d12fb07.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45845d12fb07.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45845d12fb07.mp3",
+            "text": "eng",
+            "source": "generated",
+            "content_sha256": "1d455ac79c72c7d3e9aa0e0b140ec1df959b04740f382c4e94710c90b5b62fcc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særlig brukt i komparativ: snever, avgrenset",
+      "translation": "used in: narrow, limited",
+      "examples": [
+        {
+          "no": "i ordets engere betydning",
+          "en": "in the narrower meaning of the word"
+        },
+        {
+          "no": "i engere forstand",
+          "en": "in the narrower sense"
+        }
+      ]
+    }
+  ]
+}

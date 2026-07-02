@@ -1,0 +1,127 @@
+{
+  "source_article_id": 59780,
+  "lemmas": [
+    {
+      "lemma": "tangens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68429,
+      "is_sub_article": false,
+      "primary_translation": "tangent (math function)",
+      "word_forms": [
+        {
+          "word_form": "tangens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tAN$@ns",
+              "ipa": "ˈtɑŋəns",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tangensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAN$g@n$sn=",
+              "ipa": "ˈtɑŋgənsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tangenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAN$g@n$s@r",
+              "ipa": "ˈtɑŋgənsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tangensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAN$g@n$sn=$@",
+              "ipa": "ˈtɑŋgənsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d4bcbb7cf478.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4bcbb7cf478.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4bcbb7cf478.mp3",
+            "text": "tangens",
+            "source": "generated",
+            "content_sha256": "b65577b4b35cdf9d2664c96b6ada5d9e53c77ad211032a264b0fc1f239fdca0a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i matematikk: funksjon som tar utgangspunkt i forholdet mellom en vinkels motstående og hosliggende katet i en rettvinklet trekant",
+      "translation": "in mathematics: function based on the ratio of a right-angled triangle's opposite and adjacent sides",
+      "examples": []
+    },
+    {
+      "text": "symbol tan",
+      "translation": "symbol tan",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra sinus og cosinus",
+      "translation": "in contrast to sine and cosine",
+      "examples": []
+    }
+  ]
+}

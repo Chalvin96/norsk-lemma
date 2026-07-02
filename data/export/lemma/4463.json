@@ -1,0 +1,87 @@
+{
+  "source_article_id": 4463,
+  "lemmas": [
+    {
+      "lemma": "baptistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5269,
+      "is_sub_article": false,
+      "primary_translation": "Baptist",
+      "word_forms": [
+        {
+          "word_form": "baptistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAp$\"tI$stI$sk",
+              "ipa": "bɑpˈtɪstɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "baptistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAp$\"tI$stI$sk@",
+              "ipa": "bɑpˈtɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5256ca2bc04b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5256ca2bc04b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5256ca2bc04b.mp3",
+            "text": "baptistisk",
+            "source": "generated",
+            "content_sha256": "16b0c3b88c6cd8b816bca6213760d31b766ba3871770cbc7875d8b17896c9543",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder baptisme",
+      "translation": "relating to baptism",
+      "examples": [
+        {
+          "no": "den baptistiske overbevisningen",
+          "en": "the Baptist conviction"
+        }
+      ]
+    }
+  ]
+}

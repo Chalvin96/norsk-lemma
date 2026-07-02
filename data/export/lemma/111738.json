@@ -1,0 +1,135 @@
+{
+  "source_article_id": 111738,
+  "lemmas": [
+    {
+      "lemma": "datagrunnlag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 93402,
+      "is_sub_article": false,
+      "primary_translation": "data basis",
+      "word_forms": [
+        {
+          "word_form": "datagrunnlag",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$gru0n$%lA:g",
+              "ipa": "ˈdɑːtɑgrʉnˌlɑːg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datagrunnlaget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$gru0n$%lA:$g@",
+              "ipa": "ˈdɑːtɑgrʉnˌlɑːgə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datagrunnlaga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑgrʉnlˌɑːgɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "datagrunnlagene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑgrʉnlˌɑːgənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "470d6321920b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/470d6321920b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/470d6321920b.mp3",
+            "text": "datagrunnlag",
+            "source": "generated",
+            "content_sha256": "2f8aea07a3dbc4e71106f7b121c36e897e207536a52375d302408e8e21c5c4bc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mengde og type data en bruker som grunnlag for konklusjoner, vurderinger eller beslutninger",
+      "translation": "amount and type of data used as a basis for conclusions, assessments, or decisions",
+      "examples": [
+        {
+          "no": "mangle nødvendig datagrunnlag",
+          "en": "lack the necessary data basis"
+        },
+        {
+          "no": "bruke helseopplysninger som datagrunnlag",
+          "en": "use health information as a data basis"
+        },
+        {
+          "no": "påstanden bygger på et falskt datagrunnlag",
+          "en": "the claim is based on a false data basis"
+        }
+      ]
+    }
+  ]
+}

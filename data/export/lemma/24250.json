@@ -1,0 +1,122 @@
+{
+  "source_article_id": 24250,
+  "lemmas": [
+    {
+      "lemma": "hospitant",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 28604,
+      "is_sub_article": false,
+      "primary_translation": "auditing student",
+      "word_forms": [
+        {
+          "word_form": "hospitant",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$spI$\"tAnt",
+              "ipa": "hʊspɪˈtɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hospitanten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$spI$\"tAn$tn=",
+              "ipa": "hʊspɪˈtɑntn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hospitanter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$spI$\"tAn$t@r",
+              "ipa": "hʊspɪˈtɑntər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hospitantene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$spI$\"tAn$tn=$@",
+              "ipa": "hʊspɪˈtɑntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d5ab56b30029.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5ab56b30029.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5ab56b30029.mp3",
+            "text": "hospitant",
+            "source": "generated",
+            "content_sha256": "2c0f64d81a0a0cef46d24f28639b10a8ff6855588f4f3e96db518d4e9bdce7e2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "elev som hospitere",
+      "translation": "student who is auditing a course",
+      "examples": [
+        {
+          "no": "hun var hospitant i sang ved konservatoriet",
+          "en": "she was a visiting student in singing at the conservatory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_article_id": 65000,
+  "lemmas": [
+    {
+      "lemma": "ustelt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74438,
+      "is_sub_article": false,
+      "primary_translation": "unkempt",
+      "word_forms": [
+        {
+          "word_form": "ustelt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%stElt",
+              "ipa": "ˈʉːˌstɛlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ustelte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%stEl$t@",
+              "ipa": "ˈʉːˌstɛltə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a37d0df94501.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a37d0df94501.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a37d0df94501.mp3",
+            "text": "ustelt",
+            "source": "generated",
+            "content_sha256": "8707760dc41d5461c64a6bd2953ed797d8d0700128fef22c1165e60bf894380d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som mangler stell",
+      "translation": "lacking care or grooming",
+      "examples": []
+    },
+    {
+      "text": "vanstelt, lurvete lurvet, uflidd, sjuskete sjusket",
+      "translation": "neglected; scruffy; sloppy",
+      "examples": [
+        {
+          "no": "en ustelt hage",
+          "en": "an unkempt garden"
+        },
+        {
+          "no": "være ustelt på håret",
+          "en": "have unkempt hair"
+        }
+      ]
+    }
+  ]
+}

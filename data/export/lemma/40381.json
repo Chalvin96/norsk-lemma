@@ -1,0 +1,87 @@
+{
+  "source_article_id": 40381,
+  "lemmas": [
+    {
+      "lemma": "nautisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47259,
+      "is_sub_article": false,
+      "primary_translation": "nautical",
+      "word_forms": [
+        {
+          "word_form": "nautisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nE*u0$tI$sk",
+              "ipa": "ˈnæ͡ʉtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nautiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nE*u0$tI$sk@",
+              "ipa": "ˈnæ͡ʉtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b24b7a1fdf2e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b24b7a1fdf2e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b24b7a1fdf2e.mp3",
+            "text": "nautisk",
+            "source": "generated",
+            "content_sha256": "18906143b4624822e72d6aa06ba60b640a5684873551f046a6235c82ddf6b72a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til sjøfarten",
+      "translation": "relating to seafaring",
+      "examples": [
+        {
+          "no": "sekstanten er et nautisk instrument",
+          "en": "the sextant is a nautical instrument"
+        }
+      ]
+    }
+  ]
+}

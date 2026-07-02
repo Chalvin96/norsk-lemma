@@ -1,0 +1,207 @@
+{
+  "source_article_id": 35690,
+  "lemmas": [
+    {
+      "lemma": "lokalisere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 41476,
+      "is_sub_article": false,
+      "primary_translation": "locate / find / pinpoint / place geographically / delimit",
+      "word_forms": [
+        {
+          "word_form": "lokalisere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$kA$lI$\"se:$r@",
+              "ipa": "lʊkɑlɪˈseːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokaliserer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$kA$lI$\"se:$r@r",
+              "ipa": "lʊkɑlɪˈseːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokaliseres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$kA$lI$\"se:$r@s",
+              "ipa": "lʊkɑlɪˈseːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokaliserte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$kA$lI$\"se:$t`@",
+              "ipa": "lʊkɑlɪˈseːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokalisert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$kA$lI$\"se:t`",
+              "ipa": "lʊkɑlɪˈseːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokaliserende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$kA$lI$\"se:$n`=$@",
+              "ipa": "lʊkɑlɪˈseːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lokaliser",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "lU$kA$lI$\"se:r",
+              "ipa": "lʊkɑlɪˈseːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2af424d30dea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2af424d30dea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2af424d30dea.mp3",
+            "text": "lokalisere",
+            "source": "generated",
+            "content_sha256": "3ad4efb7265b7284084cbceb20dd8226392df5e365c1dc5b1c28761f6b9aa305",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "peke ut stedet for noe",
+      "translation": "to point out the location of something",
+      "examples": []
+    },
+    {
+      "text": "finne",
+      "translation": "to find",
+      "examples": [
+        {
+          "no": "lokalisere en ubåt",
+          "en": "locate a submarine"
+        },
+        {
+          "no": "lokalisere et sagn",
+          "en": "trace a legend"
+        }
+      ]
+    },
+    {
+      "text": "plassere geografisk",
+      "translation": "to place geographically",
+      "examples": [
+        {
+          "no": "nye bedrifter bør lokaliseres til industrifeltet",
+          "en": "new businesses should be located in the industrial area"
+        }
+      ]
+    },
+    {
+      "text": "avgrense til et visst område",
+      "translation": "to delimit to a certain area",
+      "examples": [
+        {
+          "no": "lokalisert kreft",
+          "en": "localized cancer"
+        }
+      ]
+    }
+  ]
+}

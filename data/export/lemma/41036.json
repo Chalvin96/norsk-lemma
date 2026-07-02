@@ -1,0 +1,63 @@
+{
+  "source_article_id": 41036,
+  "lemmas": [
+    {
+      "lemma": "nordmed",
+      "hgno": 0,
+      "pos": "PREP",
+      "source_lemma_id": 48005,
+      "is_sub_article": false,
+      "primary_translation": "north of",
+      "word_forms": [
+        {
+          "word_form": "nordmed",
+          "tags_json": [
+            "ADP"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈurmˌeːd",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4e13b91867e9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e13b91867e9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e13b91867e9.mp3",
+            "text": "nordmed",
+            "source": "generated",
+            "content_sha256": "f814a1371813666c0af72eb01f168d347f0373ae4452588e810343fdc0281aa6"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er i nord ved siden av",
+      "translation": "situated in the north next to",
+      "examples": [
+        {
+          "no": "veien går nordmed innsjøen",
+          "en": "the road runs north along the lake"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "source_article_id": 36242,
+  "lemmas": [
+    {
+      "lemma": "lykkes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 42071,
+      "is_sub_article": false,
+      "primary_translation": "succeed / be lucky",
+      "word_forms": [
+        {
+          "word_form": "lykkes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lY$k@s",
+              "ipa": "ˈlʏkəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lyktes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lYk$t@s",
+              "ipa": "ˈlʏktəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "13627d936fe9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/13627d936fe9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/13627d936fe9.mp3",
+            "text": "lykkes",
+            "source": "generated",
+            "content_sha256": "14e44f8cdbadd9942e4f6ea288bbf1942471d550e5daf0446b0a716035e5a2f6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gi godt eller ventet resultat",
+      "translation": "yield a good expected result",
+      "examples": []
+    },
+    {
+      "text": "ha framgang",
+      "translation": "have success",
+      "examples": []
+    },
+    {
+      "text": "være heldig",
+      "translation": "be lucky",
+      "examples": [
+        {
+          "no": "det kjemiske forsøket lyktes ikke",
+          "en": "the chemistry experiment did not succeed"
+        },
+        {
+          "no": "alt ser ut til å lykkes for dem",
+          "en": "everything seems to be going well for them"
+        },
+        {
+          "no": "hun har ikke lyktes særlig godt som forfatter",
+          "en": "she has not been particularly successful as a writer"
+        },
+        {
+          "no": "han lyktes ikke i sine forsøk på å vinne folkets tillit",
+          "en": "he did not succeed in his attempts to win the people's trust"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "source_article_id": 119872,
+  "lemmas": [
+    {
+      "lemma": "nattaktiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168101,
+      "is_sub_article": false,
+      "primary_translation": "nocturnal",
+      "word_forms": [
+        {
+          "word_form": "nattaktiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$%tAk$tIv",
+              "ipa": "ˈnɑˌtɑktɪv",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nattaktive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɑtˌɑktɪʋə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nattaktivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$%tAk$tIvt",
+              "ipa": "ˈnɑˌtɑktɪvt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8082c75e3e77.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8082c75e3e77.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8082c75e3e77.mp3",
+            "text": "nattaktiv",
+            "source": "generated",
+            "content_sha256": "22dca670cd04fbb9babd666e477fb7beeeb3ebe86a0db961e8c0d99e868b272e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om dyr: med størst aktivitet om natta",
+      "translation": "of animals: most active at night",
+      "examples": [
+        {
+          "no": "piggsvin er nattaktive",
+          "en": "hedgehogs are nocturnal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "source_article_id": 18558,
+  "lemmas": [
+    {
+      "lemma": "fyrop",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 21689,
+      "is_sub_article": false,
+      "primary_translation": "exclamation of disapproval",
+      "word_forms": [
+        {
+          "word_form": "fyrop",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fy:$%ru:p",
+              "ipa": "ˈfyːˌruːp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fyropet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fy:$%ru:$p@",
+              "ipa": "ˈfyːˌruːpə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fyropa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fy:$%ru:$pA",
+              "ipa": "ˈfyːˌruːpɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fyropene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fy:$%ru:$p@$n@",
+              "ipa": "ˈfyːˌruːpənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3bbd430b808a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3bbd430b808a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3bbd430b808a.mp3",
+            "text": "fyrop",
+            "source": "generated",
+            "content_sha256": "20240b8e03fcd9ef2b98e9e938c2a0c2837c290a67724d4bfaa0de8060a937db",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å rope fy",
+      "translation": "the act of shouting 'fy' (an exclamation of disapproval)",
+      "examples": [
+        {
+          "no": "høre forargede fyrop",
+          "en": "hear indignant cries of shame"
+        }
+      ]
+    }
+  ]
+}

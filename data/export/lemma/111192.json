@@ -1,0 +1,88 @@
+{
+  "source_article_id": 111192,
+  "lemmas": [
+    {
+      "lemma": "dermatologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163150,
+      "is_sub_article": false,
+      "primary_translation": "dermatological",
+      "word_forms": [
+        {
+          "word_form": "dermatologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dərmɑtulˈoːgɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dermatologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@r$mA$tU$\"lO$gI$sk@",
+              "ipa": "dərmɑtʊˈlɔgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fc5f5ae15393.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc5f5ae15393.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc5f5ae15393.mp3",
+            "text": "dermatologisk",
+            "source": "generated",
+            "content_sha256": "ae25dbba59d0ba1ade243f66e09dbf6cffeb7289f1bad3de35978ab2e00bab1d"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder dermatologi",
+      "translation": "relating to dermatology",
+      "examples": [
+        {
+          "no": "dermatologisk avdeling",
+          "en": "dermatological department"
+        }
+      ]
+    }
+  ]
+}

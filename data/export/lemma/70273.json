@@ -1,0 +1,123 @@
+{
+  "source_article_id": 70273,
+  "lemmas": [
+    {
+      "lemma": "grappa",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157632,
+      "is_sub_article": false,
+      "primary_translation": "grappa",
+      "word_forms": [
+        {
+          "word_form": "grappa",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"grA$pA",
+              "ipa": "ˈgrɑpɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "grappaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈɑpɑən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "grappaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈɑpɑər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "grappaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈɑpɑənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "039ee9e2bdcb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/039ee9e2bdcb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/039ee9e2bdcb.mp3",
+            "text": "grappa",
+            "source": "generated",
+            "content_sha256": "c8c761e50ba6114dae31d208c7c18fa6b98bd0aab6d839b5da5c2dda682808b2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "italiensk brennevin som framstilles av druerester etter vinproduksjonen",
+      "translation": "Italian spirit produced from grape residue after winemaking",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_article_id": 48276,
+  "lemmas": [
+    {
+      "lemma": "respekt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 55443,
+      "is_sub_article": false,
+      "primary_translation": "respect",
+      "word_forms": [
+        {
+          "word_form": "respekt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"spEkt",
+              "ipa": "rəˈspɛkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "respekten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"spEk$tn=",
+              "ipa": "rəˈspɛktn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "respekter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$sp@k$\"te:r",
+              "ipa": "rəspəkˈteːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "respektene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rəspˈɛktn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "af4af4fb06fb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af4af4fb06fb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af4af4fb06fb.mp3",
+            "text": "respekt",
+            "source": "generated",
+            "content_sha256": "531a4ab56bee809254f1d50808f33745b31903ffd22a67a50ca5584e505bc61b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "aktelse, ærbødighet, lydighet",
+      "translation": "esteem, reverence, obedience",
+      "examples": [
+        {
+          "no": "ha stor respekt for en",
+          "en": "have great respect for someone"
+        },
+        {
+          "no": "sette seg i respekt",
+          "en": "command respect"
+        }
+      ]
+    }
+  ]
+}

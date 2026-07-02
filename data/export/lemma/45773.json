@@ -1,0 +1,144 @@
+{
+  "source_article_id": 45773,
+  "lemmas": [
+    {
+      "lemma": "postnummer",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 52775,
+      "is_sub_article": false,
+      "primary_translation": "postal code",
+      "word_forms": [
+        {
+          "word_form": "postnummer",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pO$%stnU$m@r",
+              "ipa": "ˈpɔˌstnʊmər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "postnummeret",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pO$%stnU$m@$r@",
+              "ipa": "ˈpɔˌstnʊmərə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "postnummera",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔstnˌumərɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "postnumrene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pO$%stnU$m@$n`@",
+              "ipa": "ˈpɔˌstnʊməɳə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "postnumre",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pO$%stnUm$r@",
+              "ipa": "ˈpɔˌstnʊmrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1799fd127a5b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1799fd127a5b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1799fd127a5b.mp3",
+            "text": "postnummer",
+            "source": "generated",
+            "content_sha256": "95f4e5b46a82ca6a6a2b1babf5bbff76678a4b3a4fcfc821e78677a871997d92",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tallkode som en setter foran poststedet i en postadresse",
+      "translation": "postal code placed before the place name in a postal address",
+      "examples": [
+        {
+          "no": "Fagernes har postnummer 2900",
+          "en": "Fagernes has postal code 2900"
+        }
+      ]
+    }
+  ]
+}

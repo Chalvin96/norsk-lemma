@@ -1,0 +1,90 @@
+{
+  "source_article_id": 131983,
+  "lemmas": [
+    {
+      "lemma": "sårøyd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2066701,
+      "is_sub_article": false,
+      "primary_translation": "sore-eyed",
+      "word_forms": [
+        {
+          "word_form": "sårøyd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈoːrˌœ͡ʏd",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sårøyde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈoːrˌœ͡ʏdə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "60a092b3e162.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/60a092b3e162.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/60a092b3e162.mp3",
+            "text": "sårøyd",
+            "source": "generated",
+            "content_sha256": "95173c606ee200a98edcc7b6552d974d77f96b9628abea9453eb574cc4b9a4e7"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er sår i øynene",
+      "translation": "that has sore eyes",
+      "examples": [
+        {
+          "no": "hun er sårøyd etter å ha stirret på skjermen hele dagen",
+          "en": "her eyes are sore after staring at the screen all day"
+        }
+      ]
+    }
+  ]
+}

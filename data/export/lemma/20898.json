@@ -1,0 +1,97 @@
+{
+  "source_article_id": 20898,
+  "lemmas": [
+    {
+      "lemma": "gresk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 24410,
+      "is_sub_article": false,
+      "primary_translation": "Greek / incomprehensible",
+      "word_forms": [
+        {
+          "word_form": "gresk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gre:$sk",
+              "ipa": "ˈgreːsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "greske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gre:$sk@",
+              "ipa": "ˈgreːskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "22a3e5e87432.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22a3e5e87432.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22a3e5e87432.mp3",
+            "text": "gresk",
+            "source": "generated",
+            "content_sha256": "31495490743aaf134d7182ca33f38e316bd5d7a983c66137e3333b470c4410a2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Hellas og grekere",
+      "translation": "relating to Greece and Greeks",
+      "examples": [
+        {
+          "no": "greske templer",
+          "en": "Greek temples"
+        }
+      ]
+    },
+    {
+      "text": "uforståelig",
+      "translation": "incomprehensible",
+      "examples": [
+        {
+          "no": "det er gresk for meg",
+          "en": "it's Greek to me"
+        }
+      ]
+    }
+  ]
+}

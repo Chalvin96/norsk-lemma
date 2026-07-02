@@ -1,0 +1,101 @@
+{
+  "source_article_id": 136207,
+  "lemmas": [
+    {
+      "lemma": "menneskeskapt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 123059,
+      "is_sub_article": false,
+      "primary_translation": "man-made",
+      "word_forms": [
+        {
+          "word_form": "menneskeskapt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$n@$sk@$%skApt",
+              "ipa": "ˈmɛnəskəˌskɑpt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "menneskeskapte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$n@$sk@$%skAp$t@",
+              "ipa": "ˈmɛnəskəˌskɑptə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "831b652255bd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/831b652255bd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/831b652255bd.mp3",
+            "text": "menneskeskapt",
+            "source": "generated",
+            "content_sha256": "0835cc8448ba19a6366da5fd5ac4cc32c9f68063f99d91d91535d29317439665",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "laget av mennesker",
+      "translation": "made by humans",
+      "examples": [
+        {
+          "no": "menneskeskapte kontruksjoner",
+          "en": "man-made constructions"
+        }
+      ]
+    },
+    {
+      "text": "som er resultat av menneskelig aktivitet",
+      "translation": "that is the result of human activity",
+      "examples": [
+        {
+          "no": "menneskeskapte klimaendringer",
+          "en": "man-made climate change"
+        },
+        {
+          "no": "menneskeskapte utslipp",
+          "en": "man-made emissions"
+        }
+      ]
+    }
+  ]
+}

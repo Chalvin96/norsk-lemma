@@ -1,0 +1,130 @@
+{
+  "source_article_id": 9850,
+  "lemmas": [
+    {
+      "lemma": "desimalbrøk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11575,
+      "is_sub_article": false,
+      "primary_translation": "decimal fraction",
+      "word_forms": [
+        {
+          "word_form": "desimalbrøk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$sI$\"mA:l$%br2:k",
+              "ipa": "dəsɪˈmɑːlˌbrøːk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "desimalbrøken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$sI$\"mA:l$%br2:$k@n",
+              "ipa": "dəsɪˈmɑːlˌbrøːkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "desimalbrøker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$sI$\"mA:l$%br2:$k@r",
+              "ipa": "dəsɪˈmɑːlˌbrøːkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "desimalbrøkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$sI$\"mA:l$%br2:$k@$n@",
+              "ipa": "dəsɪˈmɑːlˌbrøːkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2d0e1e60b58c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2d0e1e60b58c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2d0e1e60b58c.mp3",
+            "text": "desimalbrøk",
+            "source": "generated",
+            "content_sha256": "bf16f801ae60cb1e79064c184e79149bb139b4078e880eee4d6f36304be2df18",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brøk der nevner er en potens av 10, og der teller blir skrevet etter et komma",
+      "translation": "fraction where the denominator is a power of 10, and where the numerator is written after a comma",
+      "examples": [
+        {
+          "no": "7/10 skrives 0,7 som desimalbrøk",
+          "en": "7/10 is written as 0.7 as a decimal fraction"
+        },
+        {
+          "no": "67/100 skrives 0,67 som desimalbrøk",
+          "en": "67/100 is written as 0.67 as a decimal fraction"
+        },
+        {
+          "no": "1/1000 skrives 0,001 som desimalbrøk",
+          "en": "1/1000 is written as 0.001 as a decimal fraction"
+        }
+      ]
+    }
+  ]
+}

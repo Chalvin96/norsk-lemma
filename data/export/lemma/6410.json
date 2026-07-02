@@ -1,0 +1,73 @@
+{
+  "source_article_id": 6410,
+  "lemmas": [
+    {
+      "lemma": "blikkstille",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 7561,
+      "is_sub_article": false,
+      "primary_translation": "completely still / glass still",
+      "word_forms": [
+        {
+          "word_form": "blikkstille",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blIk$%stI$l@",
+              "ipa": "ˈblɪkˌstɪlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5559e58f820f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5559e58f820f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5559e58f820f.mp3",
+            "text": "blikkstille",
+            "source": "generated",
+            "content_sha256": "327d78ed1a3aefb54d1d109efe83a99351e882c4dbf5f1bbe9c776f05c1cf874",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt stille",
+      "translation": "completely still",
+      "examples": [
+        {
+          "no": "vannet var blikkstille",
+          "en": "the water was perfectly still"
+        },
+        {
+          "no": "Mjøsa ligger blikkstille i dag",
+          "en": "Lake Mjosa is perfectly still today"
+        }
+      ]
+    }
+  ]
+}

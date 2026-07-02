@@ -1,0 +1,126 @@
+{
+  "source_article_id": 50,
+  "lemmas": [
+    {
+      "lemma": "abonnent",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 844,
+      "is_sub_article": false,
+      "primary_translation": "subscriber",
+      "word_forms": [
+        {
+          "word_form": "abonnent",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$bU$\"nEnt",
+              "ipa": "ɑbʊˈnɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "abonnenten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$bU$\"nEn$tn=",
+              "ipa": "ɑbʊˈnɛntn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "abonnenter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$bU$\"nEn$t@r",
+              "ipa": "ɑbʊˈnɛntər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "abonnentene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$bU$\"nEn$tn=$@",
+              "ipa": "ɑbʊˈnɛntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0bb84a66bb1e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0bb84a66bb1e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0bb84a66bb1e.mp3",
+            "text": "abonnent",
+            "source": "generated",
+            "content_sha256": "4318bee1ad5bd88d78d5f3c7e2eede8c634545d7f3c56f58597f0df621be5242",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som abonnerer på noe",
+      "translation": "person who subscribes to something",
+      "examples": [
+        {
+          "no": "nye abonnenter",
+          "en": "new subscribers"
+        },
+        {
+          "no": "være abonnent på lokalavisen",
+          "en": "be a subscriber to the local newspaper"
+        }
+      ]
+    }
+  ]
+}

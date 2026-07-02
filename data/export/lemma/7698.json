@@ -1,0 +1,101 @@
+{
+  "source_article_id": 7698,
+  "lemmas": [
+    {
+      "lemma": "brukelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 9118,
+      "is_sub_article": false,
+      "primary_translation": "usable / common",
+      "word_forms": [
+        {
+          "word_form": "brukelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br}:$k@$lI",
+              "ipa": "ˈbrʉːkəlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brukelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br}:$k@$lI$@",
+              "ipa": "ˈbrʉːkəlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b841bcd3ee1a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b841bcd3ee1a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b841bcd3ee1a.mp3",
+            "text": "brukelig",
+            "source": "generated",
+            "content_sha256": "9281ac5a0ccee9455244ff0920d156a34aad25cab52d6cc7ec0f1cd3379be8d0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan brukes",
+      "translation": "that can be used",
+      "examples": [
+        {
+          "no": "sykkel er et brukelig alternativ til bil",
+          "en": "a bicycle is a usable alternative to a car"
+        }
+      ]
+    },
+    {
+      "text": "vanlig, alminnelig",
+      "translation": "common, ordinary",
+      "examples": [
+        {
+          "no": "det er brukelig å takke for seg",
+          "en": "it is customary to say thank you before leaving"
+        },
+        {
+          "no": "det er lite brukelig i vår familie",
+          "en": "it is not very common in our family"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source_article_id": 43086,
+  "lemmas": [
+    {
+      "lemma": "oppstrøms",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 49929,
+      "is_sub_article": false,
+      "primary_translation": "upstream / downstream",
+      "word_forms": [
+        {
+          "word_form": "oppstrøms",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Op$%str9ms",
+              "ipa": "ˈɔpˌstrœms",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c99e62e1059f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c99e62e1059f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c99e62e1059f.mp3",
+            "text": "oppstrøms",
+            "source": "generated",
+            "content_sha256": "60d204738811313838aa7e29fb9a3c3adcaf352a5fa9801f500f68f6d18437de",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i retning mot strømmen",
+      "translation": "in the direction against the current",
+      "examples": []
+    },
+    {
+      "text": "motsatt nedstrøms",
+      "translation": "downstream",
+      "examples": [
+        {
+          "no": "fiske oppstrøms",
+          "en": "fish upstream"
+        }
+      ]
+    },
+    {
+      "text": "nær en kilde knyttet til produksjon og utvinning, særlig om oljevirksomhet",
+      "translation": "near a source related to production and extraction, especially concerning oil industry",
+      "examples": []
+    },
+    {
+      "text": "jamfør oppstrømsvirksomhet",
+      "translation": "upstream activity",
+      "examples": [
+        {
+          "no": "oljeindustrien videreutvikler løsningene både oppstrøms og nedstrøms",
+          "en": "the oil industry is further developing solutions both upstream and downstream"
+        }
+      ]
+    }
+  ]
+}

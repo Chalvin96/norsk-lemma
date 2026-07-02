@@ -1,0 +1,93 @@
+{
+  "source_article_id": 58800,
+  "lemmas": [
+    {
+      "lemma": "svint",
+      "hgno": 2,
+      "pos": "ADV",
+      "source_lemma_id": 67285,
+      "is_sub_article": false,
+      "primary_translation": "swiftly",
+      "word_forms": [
+        {
+          "word_form": "svint",
+          "tags_json": [
+            "Pos"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"svInt",
+              "ipa": "ˈsvɪnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "svintere",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʋˈɪntərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "svintest",
+          "tags_json": [
+            "Sup"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʋˈɪntəst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "244597a2aec2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/244597a2aec2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/244597a2aec2.mp3",
+            "text": "svint",
+            "source": "generated",
+            "content_sha256": "824d701656d34d0aff1044476ba82a867fc5321ec4db780a94a3d523fa0bf518",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "raskt, kjapt",
+      "translation": "quickly, rapidly",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 11142,
+  "lemmas": [
+    {
+      "lemma": "dumdristig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13001,
+      "is_sub_article": false,
+      "primary_translation": "recklessly bold",
+      "word_forms": [
+        {
+          "word_form": "dumdristig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dUm$\"drI$stI",
+              "ipa": "dʊmˈdrɪstɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dumdristige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dUm$%drI$stI$@",
+              "ipa": "ˈdʊmˌdrɪstɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b65d2cff3136.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b65d2cff3136.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b65d2cff3136.mp3",
+            "text": "dumdristig",
+            "source": "generated",
+            "content_sha256": "db58e6ee248614f242f6d0509db981768e094c5d13b7b0bb36e7f8d8acdea9ec",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tankeløst dristig, altfor dristig",
+      "translation": "thoughtlessly bold, excessively bold",
+      "examples": [
+        {
+          "no": "en dumdristig sjåfør",
+          "en": "a reckless driver"
+        },
+        {
+          "no": "et dumdristig påfunn",
+          "en": "a foolhardy scheme"
+        }
+      ]
+    }
+  ]
+}

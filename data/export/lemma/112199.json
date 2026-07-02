@@ -1,0 +1,87 @@
+{
+  "source_article_id": 112199,
+  "lemmas": [
+    {
+      "lemma": "fastsatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163702,
+      "is_sub_article": false,
+      "primary_translation": "determined, decided",
+      "word_forms": [
+        {
+          "word_form": "fastsatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fA$%stsAt",
+              "ipa": "ˈfɑˌstsɑt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fastsatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fA$%stsA$t@",
+              "ipa": "ˈfɑˌstsɑtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "04cefebf4807.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/04cefebf4807.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/04cefebf4807.mp3",
+            "text": "fastsatt",
+            "source": "generated",
+            "content_sha256": "ff71cf1f4b54d25ecc61e68ebbbe6f52f6cbead2d41f9615ce6e8b456b141831",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bestemt, avgjort",
+      "translation": "determined, decided",
+      "examples": [
+        {
+          "no": "møte til fastsatt tid",
+          "en": "show up at the appointed time"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "source_article_id": 123770,
+  "lemmas": [
+    {
+      "lemma": "nordvestvind",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2008037,
+      "is_sub_article": false,
+      "primary_translation": "northwest wind",
+      "word_forms": [
+        {
+          "word_form": "nordvestvind",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nurʋˈɛstʋˌɪn",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nordvestvinden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nurʋˈɛstʋˌɪnn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nordvestvinder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nurʋˈɛstʋˌɪnər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nordvestvindene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nurʋˈɛstʋˌɪnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b1982a9391e9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b1982a9391e9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b1982a9391e9.mp3",
+            "text": "nordvestvind",
+            "source": "generated",
+            "content_sha256": "96c13f3a952bfe6d51422972739e04ffd7fff47763ee56aaa31674cc0e09222b"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vind fra nordvest",
+      "translation": "wind from the northwest",
+      "examples": [
+        {
+          "no": "iskald nordvestvind",
+          "en": "ice-cold northwesterly wind"
+        }
+      ]
+    }
+  ]
+}

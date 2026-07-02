@@ -1,0 +1,73 @@
+{
+  "source_article_id": 17694,
+  "lemmas": [
+    {
+      "lemma": "fredsbevarende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 20601,
+      "is_sub_article": false,
+      "primary_translation": "peacekeeping",
+      "word_forms": [
+        {
+          "word_form": "fredsbevarende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fre:ds$b@$%vA:$n`=$@",
+              "ipa": "ˈfreːdsbəˌvɑːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c460820650bd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c460820650bd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c460820650bd.mp3",
+            "text": "fredsbevarende",
+            "source": "generated",
+            "content_sha256": "44a9c722601c678a4fb2372dd1451c5956e7df20635a1920abaad586a2ad069f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bevarer, opprettholder fred",
+      "translation": "that preserves, maintains peace",
+      "examples": [
+        {
+          "no": "fredsbevarende tiltak",
+          "en": "peacekeeping measures"
+        },
+        {
+          "no": "FNs fredsbevarende operasjoner",
+          "en": "UN peacekeeping operations"
+        }
+      ]
+    }
+  ]
+}

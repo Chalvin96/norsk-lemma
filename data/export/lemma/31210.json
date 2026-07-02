@@ -1,0 +1,142 @@
+{
+  "source_article_id": 31210,
+  "lemmas": [
+    {
+      "lemma": "kongruens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36731,
+      "is_sub_article": false,
+      "primary_translation": "congruence",
+      "word_forms": [
+        {
+          "word_form": "kongruens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kON$gru0$\"Ens",
+              "ipa": "kɔŋgrʉˈɛns",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kongruensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kON$gru0$\"En$sn=",
+              "ipa": "kɔŋgrʉˈɛnsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kongruenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kON$gru0$\"En$s@r",
+              "ipa": "kɔŋgrʉˈɛnsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kongruensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kON$gru0$\"En$sn=$@",
+              "ipa": "kɔŋgrʉˈɛnsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "40cb7bd00a23.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40cb7bd00a23.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40cb7bd00a23.mp3",
+            "text": "kongruens",
+            "source": "generated",
+            "content_sha256": "a4236ba64134ffa038486c822fe407cd3376b000dbcad552f42ff2a6924ecfec",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "formlikhet",
+      "translation": "similarity of form",
+      "examples": [
+        {
+          "no": "kongruens mellom trekanter",
+          "en": "congruence between triangles"
+        }
+      ]
+    },
+    {
+      "text": "samsvar, sammenfall",
+      "translation": "agreement, coincidence",
+      "examples": [
+        {
+          "no": "det er liten kongruens mellom presters utdanning og deres yrkesaktivitet",
+          "en": "there is little congruence between priests' education and their professional activity"
+        }
+      ]
+    },
+    {
+      "text": "i grammatikk: det at to eller flere ord samsvarer grammatisk, for eksempel i person, kjønn eller tall",
+      "translation": "the fact that two or more words agree grammatically, for example in person, gender, or number",
+      "examples": [
+        {
+          "no": "det er kongruens i tallbøyning mellom substantiv og adjektiv",
+          "en": "there is congruence in number inflection between noun and adjective"
+        }
+      ]
+    }
+  ]
+}

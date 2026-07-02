@@ -1,0 +1,128 @@
+{
+  "source_article_id": 20561,
+  "lemmas": [
+    {
+      "lemma": "gotisk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 24012,
+      "is_sub_article": false,
+      "primary_translation": "Gothic language",
+      "word_forms": [
+        {
+          "word_form": "gotisk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gu:$tI$sk",
+              "ipa": "ˈguːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gotisken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gu:$tI$sk@n",
+              "ipa": "ˈguːtɪskən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gotisker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈuːtɪskər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gotiskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈuːtɪskənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e13d716b8dae.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e13d716b8dae.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e13d716b8dae.mp3",
+            "text": "gotisk",
+            "source": "generated",
+            "content_sha256": "f2ecbf3117834147ec2fa18c10df3c7709c4ac6c11c28595e2ecf6630481b503",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utdødd germansk språk",
+      "translation": "extinct Germanic language",
+      "examples": [
+        {
+          "no": "Wulfilas bibeloversettelse er skrevet på gotisk",
+          "en": "Wulfila's Bible translation is written in Gothic"
+        }
+      ]
+    }
+  ]
+}

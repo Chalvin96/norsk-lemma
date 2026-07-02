@@ -1,0 +1,91 @@
+{
+  "source_article_id": 51925,
+  "lemmas": [
+    {
+      "lemma": "sjenert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 59673,
+      "is_sub_article": false,
+      "primary_translation": "shy",
+      "word_forms": [
+        {
+          "word_form": "sjenert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "S@$\"ne:t`",
+              "ipa": "ʃəˈneːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sjenerte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "S@$\"ne:$t`@",
+              "ipa": "ʃəˈneːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "828a79d9d91d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/828a79d9d91d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/828a79d9d91d.mp3",
+            "text": "sjenert",
+            "source": "generated",
+            "content_sha256": "592391a303065f10171894e1c2c314483a53aac22c118dfa3e4b5c185910f533",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "unnselig, blyg",
+      "translation": "reserved, shy",
+      "examples": [
+        {
+          "no": "en sjenert ung pike",
+          "en": "a shy young girl"
+        },
+        {
+          "no": "være fryktelig sjenert",
+          "en": "be terribly shy"
+        }
+      ]
+    }
+  ]
+}

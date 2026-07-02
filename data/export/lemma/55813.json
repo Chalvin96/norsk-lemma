@@ -1,0 +1,132 @@
+{
+  "source_article_id": 55813,
+  "lemmas": [
+    {
+      "lemma": "spar",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 64229,
+      "is_sub_article": false,
+      "primary_translation": "spade suit (cards)",
+      "word_forms": [
+        {
+          "word_form": "spar",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"spA:r",
+              "ipa": "ˈspɑːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sparen",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"spA:$n`=",
+              "ipa": "ˈspɑːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sparer",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spA:$r@r",
+              "ipa": "ˈspɑːrər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sparene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"spA:$n`=$@",
+              "ipa": "ˈspɑːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b91112218793.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b91112218793.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b91112218793.mp3",
+            "text": "spar",
+            "source": "generated",
+            "content_sha256": "354c02810e865b15e94f3970b35a98513a0e3d6d2f124978be9bb3e02b3230ad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortfarge eller spillkort merket med svarte, stiliserte spadeblad",
+      "translation": "card suit or playing card marked with black, stylized spade leaves",
+      "examples": []
+    },
+    {
+      "text": "jamfør hjerter, ruter og kløver",
+      "translation": "hearts, diamonds, and clubs",
+      "examples": [
+        {
+          "no": "spar er trumf",
+          "en": "spades are trumps"
+        },
+        {
+          "no": "kaste en spar",
+          "en": "play a spade"
+        }
+      ]
+    }
+  ]
+}

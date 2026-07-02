@@ -1,0 +1,124 @@
+{
+  "source_article_id": 70505,
+  "lemmas": [
+    {
+      "lemma": "tagger",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 156714,
+      "is_sub_article": false,
+      "primary_translation": "tagger",
+      "word_forms": [
+        {
+          "word_form": "tagger",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tA$g@r",
+              "ipa": "ˈtɑgər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "taggeren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑgəɳ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "taggere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tE$g@$r@",
+              "ipa": "ˈtɛgərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "taggerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tE$g@$n`@",
+              "ipa": "ˈtɛgəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2ab32ec17189.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ab32ec17189.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ab32ec17189.mp3",
+            "text": "tagger",
+            "source": "generated",
+            "content_sha256": "c9446ff49c3cdfa45eca775de24c3398d86f4c86f233a50f18fbe4e002b5b5bb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som tagge",
+      "translation": "person who tags",
+      "examples": [
+        {
+          "no": "vekterne tok en tagger på fersken",
+          "en": "the guards caught a tagger in the act"
+        }
+      ]
+    }
+  ]
+}

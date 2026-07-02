@@ -1,0 +1,146 @@
+{
+  "source_article_id": 70886,
+  "lemmas": [
+    {
+      "lemma": "varmepumpe",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 152709,
+      "is_sub_article": false,
+      "primary_translation": "heat pump",
+      "word_forms": [
+        {
+          "word_form": "varmepumpe",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$%pUm$p@",
+              "ipa": "ˈvɑrməˌpʊmpə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmepumpen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$%pUm$p@n",
+              "ipa": "ˈvɑrməˌpʊmpən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmepumper",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$%pUm$p@r",
+              "ipa": "ˈvɑrməˌpʊmpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmepumpene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$%pUm$p@$n@",
+              "ipa": "ˈvɑrməˌpʊmpənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmepumpa",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɑrməpˌumpɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "72a700f73853.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/72a700f73853.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/72a700f73853.mp3",
+            "text": "varmepumpe",
+            "source": "generated",
+            "content_sha256": "c83ced19e27333625e1f17d50055eb2bd2d29d8be633d160300cd548fe9a61c7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innretning som utvinner varme fra for eksempel lufta, jorda eller sjøvann",
+      "translation": "device that extracts heat from the air, ground, or seawater",
+      "examples": [
+        {
+          "no": "huset blir varmet opp ved hjelp av varmepumpe",
+          "en": "the house is heated with a heat pump"
+        }
+      ]
+    }
+  ]
+}

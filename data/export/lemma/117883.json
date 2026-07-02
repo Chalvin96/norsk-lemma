@@ -1,0 +1,87 @@
+{
+  "source_article_id": 117883,
+  "lemmas": [
+    {
+      "lemma": "brukerorientert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 92100,
+      "is_sub_article": false,
+      "primary_translation": "user-oriented",
+      "word_forms": [
+        {
+          "word_form": "brukerorientert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br}:$k@$rO$rI$@n$%te:t`",
+              "ipa": "ˈbrʉːkərɔrɪənˌteːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brukerorienterte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"br}:$k@$rO$rI$@n$%te:$t`@",
+              "ipa": "ˈbrʉːkərɔrɪənˌteːʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "20cc17ae4ab8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20cc17ae4ab8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20cc17ae4ab8.mp3",
+            "text": "brukerorientert",
+            "source": "generated",
+            "content_sha256": "081fe8d60039f9c74413cc1b60688b207ea9125051b8d46384ef59433374a8c5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som tar hensyn til brukerne",
+      "translation": "that takes users into account",
+      "examples": [
+        {
+          "no": "gi innbyggerne brukerorienterte tjenester",
+          "en": "provide user-oriented services to the residents"
+        }
+      ]
+    }
+  ]
+}

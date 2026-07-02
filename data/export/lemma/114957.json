@@ -1,0 +1,124 @@
+{
+  "source_article_id": 114957,
+  "lemmas": [
+    {
+      "lemma": "gasstank",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 102210,
+      "is_sub_article": false,
+      "primary_translation": "gas tank",
+      "word_forms": [
+        {
+          "word_form": "gasstank",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$%stANk",
+              "ipa": "ˈgɑˌstɑŋk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gasstanken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$%stAN$k@n",
+              "ipa": "ˈgɑˌstɑŋkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gasstanker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gA$%stAN$k@r",
+              "ipa": "ˈgɑˌstɑŋkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gasstankene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈɑsstˌɑŋkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b73f80e11e12.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b73f80e11e12.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b73f80e11e12.mp3",
+            "text": "gasstank",
+            "source": "generated",
+            "content_sha256": "562fd00e2ab0205ec0f22b15d59b9f031a7fe316febde90e56426a1e1ae4b655",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tank for oppbevaring av gass",
+      "translation": "tank for storage of gas",
+      "examples": [
+        {
+          "no": "en lekk gasstank forårsaket brann",
+          "en": "a leaking gas tank caused a fire"
+        }
+      ]
+    }
+  ]
+}

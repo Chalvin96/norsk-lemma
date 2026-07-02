@@ -1,0 +1,106 @@
+{
+  "source_article_id": 34916,
+  "lemmas": [
+    {
+      "lemma": "lesesvak",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 40636,
+      "is_sub_article": false,
+      "primary_translation": "dyslexic",
+      "word_forms": [
+        {
+          "word_form": "lesesvak",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@$%svA:k",
+              "ipa": "ˈleːsəˌsvɑːk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lesesvake",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@$%svA:$k@",
+              "ipa": "ˈleːsəˌsvɑːkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lesesvakt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@$%svA:kt",
+              "ipa": "ˈleːsəˌsvɑːkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "75f2ec2360a9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75f2ec2360a9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75f2ec2360a9.mp3",
+            "text": "lesesvak",
+            "source": "generated",
+            "content_sha256": "448fb8e424801e9db2a4c8247e8acdcf5e83df5a471501c78ec2c5e88cc3d06c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har problemer med å lese",
+      "translation": "who has problems with reading",
+      "examples": [
+        {
+          "no": "lesesvake elever",
+          "en": "students with reading difficulties"
+        }
+      ]
+    }
+  ]
+}

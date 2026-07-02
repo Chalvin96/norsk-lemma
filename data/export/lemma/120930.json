@@ -1,0 +1,107 @@
+{
+  "source_article_id": 120930,
+  "lemmas": [
+    {
+      "lemma": "kveldsåpen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 118212,
+      "is_sub_article": false,
+      "primary_translation": "open in the evening",
+      "word_forms": [
+        {
+          "word_form": "kveldsåpen",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɛlsˌoːpən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kveldsåpne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvEl$%so:p$n@",
+              "ipa": "ˈkvɛlˌsoːpnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kveldsåpent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvEl$%so:$p@nt",
+              "ipa": "ˈkvɛlˌsoːpənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d0d6068e31a0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d0d6068e31a0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d0d6068e31a0.mp3",
+            "text": "kveldsåpen",
+            "source": "generated",
+            "content_sha256": "ad49eec620a6ec651743852bbc71923b13e612b273cb993533a698c950edf804"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "åpen om kvelden",
+      "translation": "open in the evening",
+      "examples": [
+        {
+          "no": "et kveldsåpent apotek",
+          "en": "a pharmacy open in the evening"
+        }
+      ]
+    }
+  ]
+}

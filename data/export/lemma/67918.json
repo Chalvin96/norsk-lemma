@@ -1,0 +1,151 @@
+{
+  "source_article_id": 67918,
+  "lemmas": [
+    {
+      "lemma": "vers",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 78407,
+      "is_sub_article": false,
+      "primary_translation": "verse / stanza",
+      "word_forms": [
+        {
+          "word_form": "vers",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ve:$@s`",
+              "ipa": "ˈveːəʂ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "verset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{$s`@",
+              "ipa": "ˈvæʂə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "versa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{$s`A",
+              "ipa": "ˈvæʂɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "versene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{$s`n`=$@",
+              "ipa": "ˈvæʂɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a9e90262ebf1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a9e90262ebf1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a9e90262ebf1.mp3",
+            "text": "vers",
+            "source": "generated",
+            "content_sha256": "a3b9f850b5bbb26ea4770e3b848164cc651d88810b8b9eb095f482f36fa9501e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "linje i strofe eller dikt",
+      "translation": "line in a stanza or poem",
+      "examples": [
+        {
+          "no": "strofen har fire vers",
+          "en": "the stanza has four lines"
+        },
+        {
+          "no": "skrive talen på vers",
+          "en": "write the speech in verse"
+        }
+      ]
+    },
+    {
+      "text": "gruppe av verselinjer som hører sammen",
+      "translation": "group of verse lines that belong together",
+      "examples": [
+        {
+          "no": "synge alle tre versene",
+          "en": "sing all three verses"
+        },
+        {
+          "no": "skrive vers",
+          "en": "write poetry"
+        }
+      ]
+    },
+    {
+      "text": "del av kapittel i Bibelen",
+      "translation": "part of a chapter in the Bible",
+      "examples": [
+        {
+          "no": "Johannes’ evangelium kapittel 3 vers 16 (Joh 3,16)",
+          "en": "the Gospel of John chapter 3 verse 16 (John 3:16)"
+        }
+      ]
+    }
+  ]
+}

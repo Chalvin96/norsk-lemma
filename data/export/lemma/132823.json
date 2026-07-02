@@ -1,0 +1,126 @@
+{
+  "source_article_id": 132823,
+  "lemmas": [
+    {
+      "lemma": "ulykkesdag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 150061,
+      "is_sub_article": false,
+      "primary_translation": "day of accidents",
+      "word_forms": [
+        {
+          "word_form": "ulykkesdag",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$lY$k@s$%dA:g",
+              "ipa": "ˈʉːlʏkəsˌdɑːg",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ulykkesdagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$lY$k@s$%dA:$g@n",
+              "ipa": "ˈʉːlʏkəsˌdɑːgən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ulykkesdager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːlʏkəsdˌɑːgər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ulykkesdagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːlʏkəsdˌɑːgənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fee75b49c006.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fee75b49c006.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fee75b49c006.mp3",
+            "text": "ulykkesdag",
+            "source": "generated",
+            "content_sha256": "7c239fa40131fbc88d411b0841bf5f27e9f7c5c7c005b95c1d5a0de2ee0798d0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dag der én eller mange ulykker inntreffer",
+      "translation": "day on which one or more accidents occur",
+      "examples": [
+        {
+          "no": "starten på ferien blir ofte en ulykkesdag i trafikken",
+          "en": "the start of the holiday is often an accident-filled day on the roads"
+        }
+      ]
+    }
+  ]
+}

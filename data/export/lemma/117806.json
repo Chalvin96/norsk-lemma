@@ -1,0 +1,128 @@
+{
+  "source_article_id": 117806,
+  "lemmas": [
+    {
+      "lemma": "immunterapi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 166808,
+      "is_sub_article": false,
+      "primary_translation": "immunotherapy",
+      "word_forms": [
+        {
+          "word_form": "immunterapi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"m}:n$t@$rA$%pi:",
+              "ipa": "ɪˈmʉːntərɑˌpɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "immunterapien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪmˈʉːntərɑpˌiːən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "immunterapier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪmˈʉːntərɑpˌiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "immunterapiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪmˈʉːntərɑpˌiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7d6d482704a7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7d6d482704a7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7d6d482704a7.mp3",
+            "text": "immunterapi",
+            "source": "generated",
+            "content_sha256": "c9f6311c1a15da31d0ac9b544f495a857703678d5a86f14d0e959b116f29ed33",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "medisinsk behandlingsmetode som utnytter kroppens eget immunsystem",
+      "translation": "medical treatment method that utilizes the body's own immune system",
+      "examples": [
+        {
+          "no": "få immunterapi mot kreft",
+          "en": "receive immunotherapy for cancer"
+        }
+      ]
+    }
+  ]
+}

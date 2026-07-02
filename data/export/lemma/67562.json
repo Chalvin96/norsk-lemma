@@ -1,0 +1,95 @@
+{
+  "source_article_id": 67562,
+  "lemmas": [
+    {
+      "lemma": "vemodig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77987,
+      "is_sub_article": false,
+      "primary_translation": "melancholy / sad",
+      "word_forms": [
+        {
+          "word_form": "vemodig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "v@$\"mu:$dI",
+              "ipa": "vəˈmuːdɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vemodige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "v@$\"mu:$dI$@",
+              "ipa": "vəˈmuːdɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "472342f484f3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/472342f484f3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/472342f484f3.mp3",
+            "text": "vemodig",
+            "source": "generated",
+            "content_sha256": "f66f6dd9bc46247c9faaa4ad8ba02c331940cd8798852fc5257a38557b614023",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "preget av vemod",
+      "translation": "melancholy",
+      "examples": [
+        {
+          "no": "det er vemodig å skilles",
+          "en": "it is melancholy to part"
+        },
+        {
+          "no": "et vemodig barndomsminne",
+          "en": "a melancholy childhood memory"
+        },
+        {
+          "no": "sangen var vemodig vakker",
+          "en": "the song was beautifully melancholy"
+        }
+      ]
+    }
+  ]
+}

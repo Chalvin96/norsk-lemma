@@ -1,0 +1,87 @@
+{
+  "source_article_id": 27636,
+  "lemmas": [
+    {
+      "lemma": "jernfattig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32773,
+      "is_sub_article": false,
+      "primary_translation": "low in iron",
+      "word_forms": [
+        {
+          "word_form": "jernfattig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j{:n`$%fA$tI",
+              "ipa": "ˈjæːɳˌfɑtɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "jernfattige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j{:n`$%fA$tI$@",
+              "ipa": "ˈjæːɳˌfɑtɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8e3fd2e9424d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e3fd2e9424d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8e3fd2e9424d.mp3",
+            "text": "jernfattig",
+            "source": "generated",
+            "content_sha256": "fdbd136d6ffde5439c4a93fc8a3e4c48a5a2c1b23fc0d2b98f659da3e206593e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som inneholder lite jern",
+      "translation": "containing little iron",
+      "examples": [
+        {
+          "no": "jernfattig kost",
+          "en": "an iron-poor diet"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "source_article_id": 12240,
+  "lemmas": [
+    {
+      "lemma": "elbuss",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 14276,
+      "is_sub_article": false,
+      "primary_translation": "electric bus",
+      "word_forms": [
+        {
+          "word_form": "elbuss",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"El$%bu0s",
+              "ipa": "ˈɛlˌbʉs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elbussen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"El$%bu0$sn=",
+              "ipa": "ˈɛlˌbʉsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elbusser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"El$%bu0$s@r",
+              "ipa": "ˈɛlˌbʉsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elbussene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"El$%bu0$sn=$@",
+              "ipa": "ˈɛlˌbʉsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "62052f9d8ec8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62052f9d8ec8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62052f9d8ec8.mp3",
+            "text": "elbuss",
+            "source": "generated",
+            "content_sha256": "6f3775239b75e9d562e073a5f73a2be2f9230b9dd954921d965b2d0c04aa8144",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "elektrisk drevet buss",
+      "translation": "electric-powered bus",
+      "examples": [
+        {
+          "no": "hun kjører byens første elbuss",
+          "en": "she drives the city's first electric bus"
+        }
+      ]
+    }
+  ]
+}

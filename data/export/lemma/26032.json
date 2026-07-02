@@ -1,0 +1,111 @@
+{
+  "source_article_id": 26032,
+  "lemmas": [
+    {
+      "lemma": "indisponibel",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31013,
+      "is_sub_article": false,
+      "primary_translation": "unavailable",
+      "word_forms": [
+        {
+          "word_form": "indisponibel",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$dI$spU$%ni:$b@l",
+              "ipa": "ˈɪndɪspʊˌnɪːbəl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "indisponible",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$dI$spU$%ni:$bl@",
+              "ipa": "ˈɪndɪspʊˌnɪːblə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "indisponibelt",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$dI$spU$%ni:$b@lt",
+              "ipa": "ˈɪndɪspʊˌnɪːbəlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "76ff5c4b2517.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/76ff5c4b2517.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/76ff5c4b2517.mp3",
+            "text": "indisponibel",
+            "source": "generated",
+            "content_sha256": "c494e3456a855f7d75cf6ac41a9bd50cd1512f4527b08ecee8de7654ec533b16",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er disponibel",
+      "translation": "that is not available",
+      "examples": []
+    },
+    {
+      "text": "ikke tilgjengelig",
+      "translation": "unavailable",
+      "examples": [
+        {
+          "no": "pengene var indisponible",
+          "en": "the money was unavailable"
+        }
+      ]
+    }
+  ]
+}

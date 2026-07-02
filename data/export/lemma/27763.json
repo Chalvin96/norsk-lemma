@@ -1,0 +1,117 @@
+{
+  "source_article_id": 27763,
+  "lemmas": [
+    {
+      "lemma": "joik",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 32931,
+      "is_sub_article": false,
+      "primary_translation": "Sámi song",
+      "word_forms": [
+        {
+          "word_form": "joik",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jO*Yk",
+              "ipa": "ˈjɔ͡ʏk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "joiken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jO*Y$k@n",
+              "ipa": "ˈjɔ͡ʏkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "joiker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jO*Y$k@r",
+              "ipa": "ˈjɔ͡ʏkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "joikene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jO*Y$k@$n@",
+              "ipa": "ˈjɔ͡ʏkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b58055f5088f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b58055f5088f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b58055f5088f.mp3",
+            "text": "joik",
+            "source": "generated",
+            "content_sha256": "55dfa638c48273c66746f04006fca61a0d24ee7512318aa10638ed9bfe4ccf3d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spesiell samisk sang",
+      "translation": "a special Sámi song",
+      "examples": []
+    }
+  ]
+}

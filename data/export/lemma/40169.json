@@ -1,0 +1,106 @@
+{
+  "source_article_id": 40169,
+  "lemmas": [
+    {
+      "lemma": "narrativ",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 47029,
+      "is_sub_article": false,
+      "primary_translation": "narrative (adj.)",
+      "word_forms": [
+        {
+          "word_form": "narrativ",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nA$rA$%ti:v",
+              "ipa": "ˈnɑrɑˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "narrative",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nA$rA$%ti:$v@",
+              "ipa": "ˈnɑrɑˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "narrativt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nA$rA$%ti:vt",
+              "ipa": "ˈnɑrɑˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "324437d6117d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/324437d6117d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/324437d6117d.mp3",
+            "text": "narrativ",
+            "source": "generated",
+            "content_sha256": "95e5a4aa2061bc3663aa15683eb2c95060d8916519c775f5a37298fd5a238bc0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder handlingsgangen i en fortelling",
+      "translation": "relating to the plot of a story",
+      "examples": [
+        {
+          "no": "novellen har en god narrativ struktur",
+          "en": "the short story has a good narrative structure"
+        }
+      ]
+    }
+  ]
+}

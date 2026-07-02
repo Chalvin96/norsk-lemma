@@ -1,0 +1,123 @@
+{
+  "source_article_id": 107844,
+  "lemmas": [
+    {
+      "lemma": "eider",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 161121,
+      "is_sub_article": false,
+      "primary_translation": "person from Eid",
+      "word_forms": [
+        {
+          "word_form": "eider",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"{*I$d@r",
+              "ipa": "ˈæ͡ɪdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eideren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈæ͡ɪdəɳ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "eidere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈæ͡ɪdərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "eiderne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈæ͡ɪdəɳə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "afbfbde88ba6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afbfbde88ba6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afbfbde88ba6.mp3",
+            "text": "eider",
+            "source": "generated",
+            "content_sha256": "225e9d81be7a392fa276c325542e1b66a5e661ff321096d3062b906eae62cf09",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person fra Eid i Nordfjord",
+      "translation": "person from Eid in Nordfjord",
+      "examples": []
+    }
+  ]
+}

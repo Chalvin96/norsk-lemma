@@ -1,0 +1,87 @@
+{
+  "source_article_id": 38126,
+  "lemmas": [
+    {
+      "lemma": "metaspråklig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 44734,
+      "is_sub_article": false,
+      "primary_translation": "metalinguistic",
+      "word_forms": [
+        {
+          "word_form": "metaspråklig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$tA$%spro:$klI",
+              "ipa": "ˈmeːtɑˌsproːklɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "metaspråklige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$tA$%spro:$klI$@",
+              "ipa": "ˈmeːtɑˌsproːklɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f9c78685da46.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f9c78685da46.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f9c78685da46.mp3",
+            "text": "metaspråklig",
+            "source": "generated",
+            "content_sha256": "43bb0a473cbf20a8281db151302e8c3424a823bca7b10cff855586e48d50e09f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller er kjennetegnet av metaspråk",
+      "translation": "relating to or characterized by metalanguage",
+      "examples": [
+        {
+          "no": "metaspråklig bruk",
+          "en": "metalinguistic use"
+        }
+      ]
+    }
+  ]
+}

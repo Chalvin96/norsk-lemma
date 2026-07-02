@@ -1,0 +1,126 @@
+{
+  "source_article_id": 40256,
+  "lemmas": [
+    {
+      "lemma": "nattetime",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47122,
+      "is_sub_article": false,
+      "primary_translation": "night hour",
+      "word_forms": [
+        {
+          "word_form": "nattetime",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$t@$%ti:$m@",
+              "ipa": "ˈnɑtəˌtɪːmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nattetimen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$t@$%ti:$m@n",
+              "ipa": "ˈnɑtəˌtɪːmən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nattetimer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$t@$%ti:$m@r",
+              "ipa": "ˈnɑtəˌtɪːmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nattetimene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"nA$t@$%ti:$m@$n@",
+              "ipa": "ˈnɑtəˌtɪːmənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2a3197f537a2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a3197f537a2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a3197f537a2.mp3",
+            "text": "nattetime",
+            "source": "generated",
+            "content_sha256": "32b384b7b3a81dfc371874c32c37cbe77b80d5de37b4789d37bebd9cde13da0d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tid om natta",
+      "translation": "time at night",
+      "examples": [
+        {
+          "no": "i de sene nattetimer",
+          "en": "in the late hours of the night"
+        },
+        {
+          "no": "en sen nattetime skrev hun boka ferdig",
+          "en": "late one night she finished writing the book"
+        }
+      ]
+    }
+  ]
+}

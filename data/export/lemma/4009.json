@@ -1,0 +1,127 @@
+{
+  "source_article_id": 4009,
+  "lemmas": [
+    {
+      "lemma": "bacon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 4777,
+      "is_sub_article": false,
+      "primary_translation": "bacon",
+      "word_forms": [
+        {
+          "word_form": "bacon",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b{*I$k@n",
+              "ipa": "ˈbæ͡ɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "baconet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b{*I$k@$n@",
+              "ipa": "ˈbæ͡ɪkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bacona",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈæ͡ɪkənɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "baconene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈæ͡ɪkənn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "94f24e8f72f7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/94f24e8f72f7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/94f24e8f72f7.mp3",
+            "text": "bacon",
+            "source": "generated",
+            "content_sha256": "9dc06c30819243d0198860da55510a5d31c44a688fa3cd636315d4dd194bab79",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "røykt, lettsaltet sideflesk",
+      "translation": "smoked, lightly salted side pork",
+      "examples": [
+        {
+          "no": "egg og bacon",
+          "en": "eggs and bacon"
+        }
+      ]
+    }
+  ]
+}

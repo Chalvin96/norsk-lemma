@@ -1,0 +1,85 @@
+{
+  "source_article_id": 37237,
+  "lemmas": [
+    {
+      "lemma": "maskindrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43661,
+      "is_sub_article": false,
+      "primary_translation": "machine-driven",
+      "word_forms": [
+        {
+          "word_form": "maskindrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"Si:n$%dre:$v@t",
+              "ipa": "mɑˈʃɪːnˌdreːvət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "maskindrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"Si:n$%dre:v$n@",
+              "ipa": "mɑˈʃɪːnˌdreːvnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0da4dd33c0d5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0da4dd33c0d5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0da4dd33c0d5.mp3",
+            "text": "maskindrevet",
+            "source": "generated",
+            "content_sha256": "519989f8d9635ea6d703ec1692edc8a6b45c3f5e7560ed69e5497d6faa1defab",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er drevet ved hjelp av en maskin",
+      "translation": "driven by means of a machine",
+      "examples": [
+        {
+          "no": "et maskindrevet fartøy",
+          "en": "a motor-driven vessel"
+        }
+      ]
+    }
+  ]
+}

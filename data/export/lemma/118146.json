@@ -1,0 +1,142 @@
+{
+  "source_article_id": 118146,
+  "lemmas": [
+    {
+      "lemma": "innestemme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 167095,
+      "is_sub_article": false,
+      "primary_translation": "speaking in a low voice / cautious language",
+      "word_forms": [
+        {
+          "word_form": "innestemme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"I$n@$%stE$m@",
+              "ipa": "ˈɪnəˌstɛmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "innestemmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪnəstˌɛmən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "innestemmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪnəstˌɛmər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "innestemmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪnəstˌɛmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2167b080c246.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2167b080c246.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2167b080c246.mp3",
+            "text": "innestemme",
+            "source": "generated",
+            "content_sha256": "b57638ad5c10b32cd40e97c72eb3199005f79ddb11930149ae6c1025f94a320a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stemme med lavt lydnivå",
+      "translation": "voice with low volume",
+      "examples": [
+        {
+          "no": "snakke med innestemme i biblioteket",
+          "en": "speak quietly in the library"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: dempet og forsiktig språkbruk, særlig i kontroversielle saker",
+      "translation": "muted and careful use of language, especially in controversial matters",
+      "examples": [
+        {
+          "no": "bruke forsiktig politisk innestemme",
+          "en": "use a cautious political indoor voice"
+        },
+        {
+          "no": "politikere som snakker med innestemme om innvandringspolitikk",
+          "en": "politicians who speak in hushed tones about immigration policy"
+        }
+      ]
+    }
+  ]
+}

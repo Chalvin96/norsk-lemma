@@ -1,0 +1,91 @@
+{
+  "source_article_id": 44721,
+  "lemmas": [
+    {
+      "lemma": "permisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51688,
+      "is_sub_article": false,
+      "primary_translation": "Permian (geological)",
+      "word_forms": [
+        {
+          "word_form": "permisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"p{r$mI$sk",
+              "ipa": "ˈpærmɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "permiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"p{r$mI$sk@",
+              "ipa": "ˈpærmɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cc0a279a3014.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc0a279a3014.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc0a279a3014.mp3",
+            "text": "permisk",
+            "source": "generated",
+            "content_sha256": "d3a13154ee47fc51ce26d385e925d2c108a6db9323e9455c1758a2f0462c4444",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i geologi: som har med perm å gjøre",
+      "translation": "in geology: relating to the Permian period",
+      "examples": [
+        {
+          "no": "permiske formasjoner",
+          "en": "Permian formations"
+        },
+        {
+          "no": "det permiske system",
+          "en": "the Permian system"
+        }
+      ]
+    }
+  ]
+}

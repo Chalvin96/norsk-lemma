@@ -1,0 +1,114 @@
+{
+  "source_article_id": 3162,
+  "lemmas": [
+    {
+      "lemma": "attraktiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3733,
+      "is_sub_article": false,
+      "primary_translation": "attractive",
+      "word_forms": [
+        {
+          "word_form": "attraktiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A$trAk$%ti:v",
+              "ipa": "ˈɑtrɑkˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "attraktive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A$trAk$%ti:$v@",
+              "ipa": "ˈɑtrɑkˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "attraktivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A$trAk$%ti:vt",
+              "ipa": "ˈɑtrɑkˌtɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fe0d4eb27af3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe0d4eb27af3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe0d4eb27af3.mp3",
+            "text": "attraktiv",
+            "source": "generated",
+            "content_sha256": "7f48e3f1bb518cc70218f24d99444225c4cd196c9ee759ea02772700b8242866",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fristende, tiltrekkende",
+      "translation": "tempting, attractive",
+      "examples": [
+        {
+          "no": "en attraktiv mann",
+          "en": "an attractive man"
+        },
+        {
+          "no": "attraktive omgivelser",
+          "en": "attractive surroundings"
+        },
+        {
+          "no": "et attraktivt tilbud",
+          "en": "an attractive offer"
+        }
+      ]
+    }
+  ]
+}

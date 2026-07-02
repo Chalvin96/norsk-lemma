@@ -1,0 +1,106 @@
+{
+  "source_article_id": 14093,
+  "lemmas": [
+    {
+      "lemma": "febril",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 16331,
+      "is_sub_article": false,
+      "primary_translation": "feverish",
+      "word_forms": [
+        {
+          "word_form": "febril",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "f@$\"bri:l",
+              "ipa": "fəˈbrɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "febrile",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "f@$\"bri:$l@",
+              "ipa": "fəˈbrɪːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "febrilt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "f@$\"bri:lt",
+              "ipa": "fəˈbrɪːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "40218dcf5203.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40218dcf5203.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/40218dcf5203.mp3",
+            "text": "febril",
+            "source": "generated",
+            "content_sha256": "7a8e352083c542bdd5eb6d3baba655a1869f772d101a5c2ffffb9704cf7bd90a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med feber",
+      "translation": "having a fever",
+      "examples": [
+        {
+          "no": "en febril sykdom",
+          "en": "a febrile illness"
+        }
+      ]
+    }
+  ]
+}

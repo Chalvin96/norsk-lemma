@@ -1,0 +1,128 @@
+{
+  "source_article_id": 110116,
+  "lemmas": [
+    {
+      "lemma": "inkonsistens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 109393,
+      "is_sub_article": false,
+      "primary_translation": "inconsistency",
+      "word_forms": [
+        {
+          "word_form": "inkonsistens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"IN$kUn$sI$%stEs",
+              "ipa": "ˈɪŋkʊnsɪˌstɛs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "inkonsistensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪŋkɔnsɪstˈɛnsn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "inkonsistenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪŋkɔnsɪstˈɛnsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "inkonsistensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪŋkɔnsɪstˈɛnsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "df20ab840639.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df20ab840639.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df20ab840639.mp3",
+            "text": "inkonsistens",
+            "source": "generated",
+            "content_sha256": "7def6b9b55deed071dd4405c8b7dcea019b678c7a9b174e5a8e520dd7f725c9d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mangel på sammenheng eller samsvar",
+      "translation": "lack of coherence or correspondence",
+      "examples": [
+        {
+          "no": "det er inkonsistens i argumentasjonen",
+          "en": "there is inconsistency in the argumentation"
+        }
+      ]
+    }
+  ]
+}

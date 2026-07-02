@@ -1,0 +1,132 @@
+{
+  "source_article_id": 29699,
+  "lemmas": [
+    {
+      "lemma": "kjød",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 35076,
+      "is_sub_article": false,
+      "primary_translation": "flesh / body",
+      "word_forms": [
+        {
+          "word_form": "kjød",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"C2:d",
+              "ipa": "ˈçøːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kjødet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"C2:$d@",
+              "ipa": "ˈçøːdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kjøda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈøːdɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kjødene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈøːdn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "45fa97f0feeb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45fa97f0feeb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45fa97f0feeb.mp3",
+            "text": "kjød",
+            "source": "generated",
+            "content_sha256": "c4cef2dd99984b39f45f0d9623804aeefbf07dc74a34c0a93a00ecde2d739619",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i eldre bibelspråk: legeme",
+      "translation": "in older biblical language: body",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra ånd og sjel",
+      "translation": "human nature",
+      "examples": [
+        {
+          "no": "ånden er villig, men kjødet er skrøpelig",
+          "en": "the spirit is willing, but the flesh is weak"
+        }
+      ]
+    }
+  ]
+}

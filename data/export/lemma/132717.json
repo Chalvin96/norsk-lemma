@@ -1,0 +1,108 @@
+{
+  "source_article_id": 132717,
+  "lemmas": [
+    {
+      "lemma": "torvfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2980705,
+      "is_sub_article": false,
+      "primary_translation": "peat-free",
+      "word_forms": [
+        {
+          "word_form": "torvfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɔrʋfrˌiː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "torvfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɔrʋfrˌiːə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "torvfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɔrʋfrˌɪt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7d426fa73a9d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7d426fa73a9d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7d426fa73a9d.mp3",
+            "text": "torvfri",
+            "source": "generated",
+            "content_sha256": "4238e0640c30ef5a0ef0dbf52fe91df2eab36766f1acf5e39c8eda8c4454f229"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om jord: uten torv",
+      "translation": "of soil: without peat",
+      "examples": [
+        {
+          "no": "kjøpe torvfri plantejord",
+          "en": "buy peat-free potting soil"
+        }
+      ]
+    }
+  ]
+}

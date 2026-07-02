@@ -1,0 +1,130 @@
+{
+  "source_article_id": 125438,
+  "lemmas": [
+    {
+      "lemma": "programsjef",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 131761,
+      "is_sub_article": false,
+      "primary_translation": "program manager",
+      "word_forms": [
+        {
+          "word_form": "programsjef",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"grAm$%Se:f",
+              "ipa": "prʊˈgrɑmˌʃeːf",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "programsjefen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"grAm$%Se:$f@n",
+              "ipa": "prʊˈgrɑmˌʃeːfən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "programsjefer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prugrˈɑmʃˌeːfər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "programsjefene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prugrˈɑmʃˌeːfənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "71801371f89d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/71801371f89d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/71801371f89d.mp3",
+            "text": "programsjef",
+            "source": "generated",
+            "content_sha256": "f0024e309eee35e3080c184944f596e4662e174edd6c023fd409323b988dad99",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som er ansvarlig for et program",
+      "translation": "person responsible for a program",
+      "examples": [
+        {
+          "no": "hen er programsjef i fakta og fordypning i NRK",
+          "en": "they are head of factual and in-depth programming at NRK"
+        },
+        {
+          "no": "programsjef for Filmfestivalen i Haugesund",
+          "en": "head of programming for the Haugesund Film Festival"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "source_article_id": 46768,
+  "lemmas": [
+    {
+      "lemma": "psykisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 53805,
+      "is_sub_article": false,
+      "primary_translation": "mental / physical",
+      "word_forms": [
+        {
+          "word_form": "psykisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sY$kI$sk",
+              "ipa": "ˈsʏkɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "psykiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sY$kI$sk@",
+              "ipa": "ˈsʏkɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bc183093cba7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc183093cba7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc183093cba7.mp3",
+            "text": "psykisk",
+            "source": "generated",
+            "content_sha256": "66f4b60a193512426df66b51d983049ccf40ad608833063e59bdcbcf32454780",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder sjelelivet",
+      "translation": "concerning the inner life",
+      "examples": []
+    },
+    {
+      "text": "sjelelig, mental",
+      "translation": "spiritual, mental",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra fysisk",
+      "translation": "physical",
+      "examples": [
+        {
+          "no": "han var helt knekt, både fysisk og psykisk",
+          "en": "he was completely broken, both physically and mentally"
+        },
+        {
+          "no": "hun har vært utsatt for et sterkt psykisk press",
+          "en": "she has been subjected to severe psychological pressure"
+        },
+        {
+          "no": "de har psykiske lidelser",
+          "en": "they have mental disorders"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_article_id": 131205,
+  "lemmas": [
+    {
+      "lemma": "søppelpost",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2926881,
+      "is_sub_article": false,
+      "primary_translation": "junk mail / spam",
+      "word_forms": [
+        {
+          "word_form": "søppelpost",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9$pl=$%pO$st",
+              "ipa": "ˈsœpl̩ˌpɔst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søppelposten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœpl̩pˌɔstn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "søppelposter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœpl̩pˌɔstər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "søppelpostene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœpl̩pˌɔstn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a43f030589b4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a43f030589b4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a43f030589b4.mp3",
+            "text": "søppelpost",
+            "source": "generated",
+            "content_sha256": "f53000ea9181aefc709508d5734af715455fa19f27bccc8423fe554deb9d9630",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uønsket e-post med reklame, svindelforsøk eller lignende som firmaer eller privatpersoner uoppfordret sender ut",
+      "translation": "unwanted email with advertisements, fraud attempts sent unsolicited by companies or private individuals",
+      "examples": [
+        {
+          "no": "innboksen min var full av søppelpost med løfter om millioner og pene damer",
+          "en": "my inbox was full of junk mail promising millions and pretty women"
+        }
+      ]
+    }
+  ]
+}

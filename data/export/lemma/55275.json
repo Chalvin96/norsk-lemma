@@ -1,0 +1,97 @@
+{
+  "source_article_id": 55275,
+  "lemmas": [
+    {
+      "lemma": "snytt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 63643,
+      "is_sub_article": false,
+      "primary_translation": "drunk",
+      "word_forms": [
+        {
+          "word_form": "snytt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"snYt",
+              "ipa": "ˈsnʏt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "snytte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"snY$t@",
+              "ipa": "ˈsnʏtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a07a2759bcb4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a07a2759bcb4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a07a2759bcb4.mp3",
+            "text": "snytt",
+            "source": "generated",
+            "content_sha256": "63386619d2495bbd37d165b192aca7c5812baec411fcb3558cf34538ca8dc699",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lurt, narret",
+      "translation": "cheated, deceived",
+      "examples": [
+        {
+          "no": "føle seg snytt",
+          "en": "feel cheated"
+        }
+      ]
+    },
+    {
+      "text": "påvirket av alkohol",
+      "translation": "under the influence of alcohol",
+      "examples": [
+        {
+          "no": "være temmelig snytt",
+          "en": "be pretty drunk"
+        }
+      ]
+    }
+  ]
+}

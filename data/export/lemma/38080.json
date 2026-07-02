@@ -1,0 +1,130 @@
+{
+  "source_article_id": 38080,
+  "lemmas": [
+    {
+      "lemma": "mestepart",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 44687,
+      "is_sub_article": false,
+      "primary_translation": "majority / largest part",
+      "word_forms": [
+        {
+          "word_form": "mestepart",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$st@$%pAt`",
+              "ipa": "ˈmɛstəˌpɑʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mesteparten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$st@$%pA$t`n`=",
+              "ipa": "ˈmɛstəˌpɑʈɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mesteparter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛstəpˌɑʈər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "mestepartene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛstəpˌɑʈɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "73e13968de4c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73e13968de4c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/73e13968de4c.mp3",
+            "text": "mestepart",
+            "source": "generated",
+            "content_sha256": "6b98c648fa1f2b3559f03b4e3c3a5b952ff24cc42853ca77e15b8b234dc6acb6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "størstedel, storpart",
+      "translation": "largest part, great part",
+      "examples": [
+        {
+          "no": "mesteparten av dagen",
+          "en": "most of the day"
+        },
+        {
+          "no": "mesteparten av elevene",
+          "en": "most of the pupils"
+        }
+      ]
+    }
+  ]
+}

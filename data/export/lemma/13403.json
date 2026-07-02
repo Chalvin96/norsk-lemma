@@ -1,0 +1,87 @@
+{
+  "source_article_id": 13403,
+  "lemmas": [
+    {
+      "lemma": "eufonisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15574,
+      "is_sub_article": false,
+      "primary_translation": "euphonious",
+      "word_forms": [
+        {
+          "word_form": "eufonisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$\"fU$nI$sk",
+              "ipa": "æ͡ʉˈfʊnɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eufoniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0$\"fU$nI$sk@",
+              "ipa": "æ͡ʉˈfʊnɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "be89c9c0c082.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be89c9c0c082.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be89c9c0c082.mp3",
+            "text": "eufonisk",
+            "source": "generated",
+            "content_sha256": "c4dda8d3190c748a22dd81f613c6c1229c3c8a7bffcb1303d96fd9b4fbcaa7c6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vellyd, for vellydens skyld",
+      "translation": "euphony, for the sake of euphony",
+      "examples": [
+        {
+          "no": "en ren og eufonisk klang",
+          "en": "a pure and euphonious sound"
+        }
+      ]
+    }
+  ]
+}

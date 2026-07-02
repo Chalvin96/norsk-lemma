@@ -1,0 +1,117 @@
+{
+  "source_article_id": 2021,
+  "lemmas": [
+    {
+      "lemma": "anodestrøm",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2549,
+      "is_sub_article": false,
+      "primary_translation": "anode current",
+      "word_forms": [
+        {
+          "word_form": "anodestrøm",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"\"nu:$d@$%str9m",
+              "ipa": "ɑˈnuːdəˌstrœm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "anodestrømmen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"\"nu:$d@$%str9$m@n",
+              "ipa": "ɑˈnuːdəˌstrœmən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "anodestrømmer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"\"nu:$d@$%str9$m@r",
+              "ipa": "ɑˈnuːdəˌstrœmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "anodestrømmene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"\"nu:$d@$%str9$m@$n@",
+              "ipa": "ɑˈnuːdəˌstrœmənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bbdb9ea4849a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbdb9ea4849a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bbdb9ea4849a.mp3",
+            "text": "anodestrøm",
+            "source": "generated",
+            "content_sha256": "76c8a93e3ca236890a749feae567a8934f31e75b2283262675d1509109c4fc38",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "strøm av elektroner fra katoden til anoden i et elektronrør",
+      "translation": "flow of electrons from the cathode to the anode in an electron tube",
+      "examples": []
+    }
+  ]
+}

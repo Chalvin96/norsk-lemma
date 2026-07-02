@@ -1,0 +1,99 @@
+{
+  "source_article_id": 121665,
+  "lemmas": [
+    {
+      "lemma": "langreist",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 169008,
+      "is_sub_article": false,
+      "primary_translation": "long-distance / far-traveled",
+      "word_forms": [
+        {
+          "word_form": "langreist",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑŋrˌæ͡ɪst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "langreiste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑŋrˌæ͡ɪstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1aef7f3ba2d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1aef7f3ba2d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1aef7f3ba2d0.mp3",
+            "text": "langreist",
+            "source": "generated",
+            "content_sha256": "299a8a7d21e3736c6029f554a2e0edb7d67c2ec584a986e2d1fcd4441c3bb479"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har reist eller er fraktet lang vei",
+      "translation": "that has traveled or is transported a long way",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra kortreist",
+      "translation": "in contrast to locally sourced",
+      "examples": [
+        {
+          "no": "langreist mat",
+          "en": "food that has traveled far"
+        },
+        {
+          "no": "lytte til langreist musikk",
+          "en": "listen to music from faraway places"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "source_article_id": 70264,
+  "lemmas": [
+    {
+      "lemma": "flush",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157552,
+      "is_sub_article": false,
+      "primary_translation": "poker flush",
+      "word_forms": [
+        {
+          "word_form": "flush",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈœʃ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "flushen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈœʃn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "flusher",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈœʃər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "flushene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈœʃn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a11aefec7124.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a11aefec7124.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a11aefec7124.mp3",
+            "text": "flush",
+            "source": "generated",
+            "content_sha256": "930a14af175e2f5ad87364c5b4e930c03a43d8dcfd23f474580644a7b3c6e18a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i poker: fem kort i samme farge",
+      "translation": "in poker: five cards of the same suit",
+      "examples": [
+        {
+          "no": "få flush",
+          "en": "get a flush"
+        }
+      ]
+    }
+  ]
+}

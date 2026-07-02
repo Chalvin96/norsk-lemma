@@ -1,0 +1,130 @@
+{
+  "source_article_id": 21959,
+  "lemmas": [
+    {
+      "lemma": "halloi",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 25653,
+      "is_sub_article": false,
+      "primary_translation": "commotion / fuss",
+      "word_forms": [
+        {
+          "word_form": "halloi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$\"lO*Y",
+              "ipa": "hɑˈlɔ͡ʏ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "halloien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$\"lO*Y$@n",
+              "ipa": "hɑˈlɔ͡ʏən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "halloier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hɑlˈɔ͡ʏər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "halloiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hɑlˈɔ͡ʏənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3571d883491e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3571d883491e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3571d883491e.mp3",
+            "text": "halloi",
+            "source": "generated",
+            "content_sha256": "7c801231e14e0fbe3740f6ea2ba2eb78aeb01ba8074be8a987f24c608ee59a12",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spetakkel, ståk, oppstyr",
+      "translation": "commotion, fuss, uproar",
+      "examples": [
+        {
+          "no": "det ble noe til halloi",
+          "en": "there was quite a commotion"
+        },
+        {
+          "no": "lage halloi",
+          "en": "make a fuss"
+        }
+      ]
+    }
+  ]
+}

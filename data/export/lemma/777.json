@@ -1,0 +1,127 @@
+{
+  "source_article_id": 777,
+  "lemmas": [
+    {
+      "lemma": "algebra",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1609,
+      "is_sub_article": false,
+      "primary_translation": "algebra",
+      "word_forms": [
+        {
+          "word_form": "algebra",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Al$g@$brA",
+              "ipa": "ˈɑlgəbrɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "algebraen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Al$g@$brA$@n",
+              "ipa": "ˈɑlgəbrɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "algebraer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Al$g@$brA$@r",
+              "ipa": "ˈɑlgəbrɑər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "algebraene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Al$g@$brA$@$n@",
+              "ipa": "ˈɑlgəbrɑənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8d3b86bf6a5e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d3b86bf6a5e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d3b86bf6a5e.mp3",
+            "text": "algebra",
+            "source": "generated",
+            "content_sha256": "29a1119d1206f8ab4cf197576de8036c2b6ad29750d5eeb7c64083e6345ecad9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(lærebok i) bokstavregning",
+      "translation": "(textbook on) symbolic arithmetic",
+      "examples": []
+    },
+    {
+      "text": "regning med ligninger",
+      "translation": "calculation with equations",
+      "examples": [
+        {
+          "no": "i algebra er både tall og variabler viktige",
+          "en": "in algebra, both numbers and variables are important"
+        }
+      ]
+    }
+  ]
+}

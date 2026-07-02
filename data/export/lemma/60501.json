@@ -1,0 +1,164 @@
+{
+  "source_article_id": 60501,
+  "lemmas": [
+    {
+      "lemma": "testing",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 69184,
+      "is_sub_article": false,
+      "primary_translation": "testing",
+      "word_forms": [
+        {
+          "word_form": "testing",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tE$stIN",
+              "ipa": "ˈtɛstɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "testinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tE$stIN$A",
+              "ipa": "ˈtɛstɪŋɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "testinger",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tE$stIN$@r",
+              "ipa": "ˈtɛstɪŋər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "testingene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tE$stIN$@$n@",
+              "ipa": "ˈtɛstɪŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "testingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tE$stIN$@n",
+              "ipa": "ˈtɛstɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c3423df2fd0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c3423df2fd0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c3423df2fd0.mp3",
+            "text": "testing",
+            "source": "generated",
+            "content_sha256": "0812ea4141cd8e201e0b092ad33c89140cfb77cc80de5bc41e091aeab62cf5f5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å prøve ut noe med en test",
+      "translation": "the act of trying something out with a test",
+      "examples": [
+        {
+          "no": "testing av utstyr",
+          "en": "testing of equipment"
+        }
+      ]
+    },
+    {
+      "text": "det å undersøke noen med en test",
+      "translation": "the act of examining someone with a test",
+      "examples": [
+        {
+          "no": "testing av elever",
+          "en": "testing of pupils"
+        }
+      ]
+    },
+    {
+      "text": "det å kontrollere noe eller noen med en test",
+      "translation": "the act of checking something or someone with a test",
+      "examples": [
+        {
+          "no": "testing av personer med symptomer",
+          "en": "testing of people with symptoms"
+        }
+      ]
+    }
+  ]
+}

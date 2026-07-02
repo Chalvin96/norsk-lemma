@@ -1,0 +1,92 @@
+{
+  "source_article_id": 39658,
+  "lemmas": [
+    {
+      "lemma": "mutant",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 46463,
+      "is_sub_article": false,
+      "primary_translation": "mutant",
+      "word_forms": [
+        {
+          "word_form": "mutant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mu0$\"tAnt",
+              "ipa": "mʉˈtɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mutante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mu0$\"tAn$t@",
+              "ipa": "mʉˈtɑntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "24f5cdab3cca.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/24f5cdab3cca.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/24f5cdab3cca.mp3",
+            "text": "mutant",
+            "source": "generated",
+            "content_sha256": "5f90b4c60410241d3ac4cb71d597c60dfe53f4de74e2d4ce7faedea678502ff0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er resultat av mutasjon",
+      "translation": "resulting from mutation",
+      "examples": []
+    },
+    {
+      "text": "mutert",
+      "translation": "mutated",
+      "examples": [
+        {
+          "no": "mutante gener",
+          "en": "mutant genes"
+        }
+      ]
+    }
+  ]
+}

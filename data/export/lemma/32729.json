@@ -1,0 +1,126 @@
+{
+  "source_article_id": 32729,
+  "lemmas": [
+    {
+      "lemma": "kulvert",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 38399,
+      "is_sub_article": false,
+      "primary_translation": "culvert",
+      "word_forms": [
+        {
+          "word_form": "kulvert",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0l$v@t`",
+              "ipa": "ˈkʉlvəʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kulverten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0l$v@$t`n`=",
+              "ipa": "ˈkʉlvəʈɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kulverter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0l$v@$t`@r",
+              "ipa": "ˈkʉlvəʈər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kulvertene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0l$v@$t`n`=$@",
+              "ipa": "ˈkʉlvəʈɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8fb59ed8ce47.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8fb59ed8ce47.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8fb59ed8ce47.mp3",
+            "text": "kulvert",
+            "source": "generated",
+            "content_sha256": "34d9ba490ee28192e8455683d61065944cfff3e4c5d71e83d55277cb48147fd8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "underjordisk rør eller tunnel for vann, ledninger eller transport",
+      "translation": "underground pipe or tunnel for water, conduits, transport",
+      "examples": [
+        {
+          "no": "kulverten leder vannet under jernbanelinjen",
+          "en": "the culvert carries the water under the railway line"
+        },
+        {
+          "no": "gangveien ligger i kulvert under riksveien",
+          "en": "the footpath runs through a culvert under the highway"
+        }
+      ]
+    }
+  ]
+}

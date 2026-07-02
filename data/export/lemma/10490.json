@@ -1,0 +1,122 @@
+{
+  "source_article_id": 10490,
+  "lemmas": [
+    {
+      "lemma": "dobbeltstemme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12264,
+      "is_sub_article": false,
+      "primary_translation": "casting vote",
+      "word_forms": [
+        {
+          "word_form": "dobbeltstemme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dO$b@lt$%stE$m@",
+              "ipa": "ˈdɔbəltˌstɛmə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dobbeltstemmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dO$b@lt$%stE$m@n",
+              "ipa": "ˈdɔbəltˌstɛmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dobbeltstemmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dO$b@lt$%stE$m@r",
+              "ipa": "ˈdɔbəltˌstɛmər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dobbeltstemmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dO$b@lt$%stE$m@$n@",
+              "ipa": "ˈdɔbəltˌstɛmənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "492b0b880aed.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/492b0b880aed.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/492b0b880aed.mp3",
+            "text": "dobbeltstemme",
+            "source": "generated",
+            "content_sha256": "0bff3a514fb8e266e1afd32ee21bbea3a45c6641c3532f1ab766dfee804920d6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stemme som teller dobbelt ved avstemning",
+      "translation": "vote that counts double in a ballot",
+      "examples": [
+        {
+          "no": "forslaget gikk igjennom med ordførerens dobbeltstemme",
+          "en": "the proposal passed with the mayor's double vote"
+        }
+      ]
+    }
+  ]
+}

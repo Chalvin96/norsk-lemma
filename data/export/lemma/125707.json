@@ -1,0 +1,88 @@
+{
+  "source_article_id": 125707,
+  "lemmas": [
+    {
+      "lemma": "påsmurt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2827440,
+      "is_sub_article": false,
+      "primary_translation": "spread on",
+      "word_forms": [
+        {
+          "word_form": "påsmurt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈoːsmˌʉːʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "påsmurte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%sm}:$t`@",
+              "ipa": "ˈpoːˌsmʉːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5a5067483265.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a5067483265.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5a5067483265.mp3",
+            "text": "påsmurt",
+            "source": "generated",
+            "content_sha256": "eb4171ce04fc771fe37ab1baa210cd32939b4479af60759228ff74bafdbed96e"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er smøre på",
+      "translation": "that has been spread on",
+      "examples": [
+        {
+          "no": "lunsjen var ferdig påsmurte brødskiver",
+          "en": "lunch was ready-made sandwiches"
+        }
+      ]
+    }
+  ]
+}

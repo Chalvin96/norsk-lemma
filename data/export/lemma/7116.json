@@ -1,0 +1,73 @@
+{
+  "source_article_id": 7116,
+  "lemmas": [
+    {
+      "lemma": "bortunder",
+      "hgno": 0,
+      "pos": "PREP",
+      "source_lemma_id": 8339,
+      "is_sub_article": false,
+      "primary_translation": "away underneath",
+      "word_forms": [
+        {
+          "word_form": "bortunder",
+          "tags_json": [
+            "ADP"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈuʈʉnər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2e713f74ec69.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e713f74ec69.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e713f74ec69.mp3",
+            "text": "bortunder",
+            "source": "generated",
+            "content_sha256": "d63702fa5577eb7a29765cdb437f344430b2757a9fd35bbc000453c1bdee01c4"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "borte under",
+      "translation": "away underneath",
+      "examples": [
+        {
+          "no": "det ligger snø bortunder gjerdet",
+          "en": "there is snow over by the fence"
+        }
+      ]
+    },
+    {
+      "text": "om bevegelse mot: bort under",
+      "translation": "moving towards: away under",
+      "examples": [
+        {
+          "no": "gå bortunder stupet",
+          "en": "go over beneath the cliff"
+        }
+      ]
+    }
+  ]
+}

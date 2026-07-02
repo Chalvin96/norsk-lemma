@@ -1,0 +1,95 @@
+{
+  "source_article_id": 21454,
+  "lemmas": [
+    {
+      "lemma": "gudgitt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25080,
+      "is_sub_article": false,
+      "primary_translation": "God-given / innate",
+      "word_forms": [
+        {
+          "word_form": "gudgitt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"g}:$%djIt",
+              "ipa": "ˈgʉːˌdjɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gudgitte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"g}:$%djI$t@",
+              "ipa": "ˈgʉːˌdjɪtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4ee51f0da03b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ee51f0da03b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ee51f0da03b.mp3",
+            "text": "gudgitt",
+            "source": "generated",
+            "content_sha256": "e0357953561bdddb3ea7b8808369c70d5a602210a30037a483422731c811ffc7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gitt av Gud",
+      "translation": "given by God",
+      "examples": [
+        {
+          "no": "kirkens gudgitte oppdrag",
+          "en": "the church's God-given mission"
+        },
+        {
+          "no": "en gudgitt rett",
+          "en": "a God-given right"
+        },
+        {
+          "no": "et gudgitt talent",
+          "en": "a God-given talent"
+        }
+      ]
+    }
+  ]
+}

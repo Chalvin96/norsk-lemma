@@ -1,0 +1,110 @@
+{
+  "source_article_id": 60284,
+  "lemmas": [
+    {
+      "lemma": "temporær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68947,
+      "is_sub_article": false,
+      "primary_translation": "temporary",
+      "word_forms": [
+        {
+          "word_form": "temporær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@m$pU$\"r{:r",
+              "ipa": "təmpʊˈræːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "temporære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@m$pU$\"r{:$r@",
+              "ipa": "təmpʊˈræːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "temporært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@m$pU$\"r{:t`",
+              "ipa": "təmpʊˈræːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f860659eec1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f860659eec1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f860659eec1.mp3",
+            "text": "temporær",
+            "source": "generated",
+            "content_sha256": "61553a74a1ab3ab6b7b19ab2b4f1eeeb9eaeaceaed44e1d44645064ee9ac4e45",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forbigående, midlertidig",
+      "translation": "transient, temporary",
+      "examples": [
+        {
+          "no": "temporær knapphet på forbruksvarer",
+          "en": "temporary shortage of consumer goods"
+        },
+        {
+          "no": "temporære kostnader",
+          "en": "temporary costs"
+        }
+      ]
+    }
+  ]
+}

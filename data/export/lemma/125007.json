@@ -1,0 +1,134 @@
+{
+  "source_article_id": 125007,
+  "lemmas": [
+    {
+      "lemma": "poff",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 2010086,
+      "is_sub_article": false,
+      "primary_translation": "pop sound",
+      "word_forms": [
+        {
+          "word_form": "poff",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔf",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "poffet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɔfə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "poffa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔfɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "poffene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔfənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5ee53f413d3a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ee53f413d3a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ee53f413d3a.mp3",
+            "text": "poff",
+            "source": "generated",
+            "content_sha256": "b7cadc05d1d2df8616c0085d873655bcdc7fb062ef493bfcf4d8ec85f55d408e"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lyd av et (svakt) smell",
+      "translation": "sound of a (slight) pop",
+      "examples": []
+    },
+    {
+      "text": "jamfør poff",
+      "translation": "pop",
+      "examples": [
+        {
+          "no": "strømmen ble borte med et poff",
+          "en": "the power went out with a poof"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "source_article_id": 123137,
+  "lemmas": [
+    {
+      "lemma": "lytting",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 121522,
+      "is_sub_article": false,
+      "primary_translation": "listening",
+      "word_forms": [
+        {
+          "word_form": "lytting",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lY$tIN",
+              "ipa": "ˈlʏtɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lyttingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lY$tIN$@n",
+              "ipa": "ˈlʏtɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lyttinger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈʏtɪŋər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lyttingene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈʏtɪŋənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lyttinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈʏtɪŋɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dca5a0bea541.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dca5a0bea541.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dca5a0bea541.mp3",
+            "text": "lytting",
+            "source": "generated",
+            "content_sha256": "44b7cc6cb41cc1f15d176ef8201ebbd743a0f384727e75ad959f8d4eeb7374a6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å lytte",
+      "translation": "the act of listening",
+      "examples": [
+        {
+          "no": "lytting etter skritt i trappa",
+          "en": "listening for footsteps on the stairs"
+        },
+        {
+          "no": "lytting til musikk",
+          "en": "listening to music"
+        },
+        {
+          "no": "lytting på podkaster",
+          "en": "listening to podcasts"
+        }
+      ]
+    }
+  ]
+}

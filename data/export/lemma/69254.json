@@ -1,0 +1,87 @@
+{
+  "source_article_id": 69254,
+  "lemmas": [
+    {
+      "lemma": "væskeaktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 80077,
+      "is_sub_article": false,
+      "primary_translation": "liquid-like",
+      "word_forms": [
+        {
+          "word_form": "væskeaktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$sk@$%Ak$tI",
+              "ipa": "ˈvɛskəˌɑktɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "væskeaktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$sk@$%Ak$tI$@",
+              "ipa": "ˈvɛskəˌɑktɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "332af76c9d55.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/332af76c9d55.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/332af76c9d55.mp3",
+            "text": "væskeaktig",
+            "source": "generated",
+            "content_sha256": "1deaac66ffa541444fc212f8829183539d9b1cee893694190c26d1f2398265a9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ligner væske",
+      "translation": "resembling liquid",
+      "examples": [
+        {
+          "no": "en væskeaktig blanding av mel og vann",
+          "en": "a liquid-like mixture of flour and water"
+        }
+      ]
+    }
+  ]
+}

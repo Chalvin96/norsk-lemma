@@ -1,0 +1,89 @@
+{
+  "source_article_id": 134740,
+  "lemmas": [
+    {
+      "lemma": "verdibasert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 153590,
+      "is_sub_article": false,
+      "primary_translation": "value-based",
+      "word_forms": [
+        {
+          "word_form": "verdibasert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "v@$\"d`i:$bA$%se:t`",
+              "ipa": "vəˈɖɪːbɑˌseːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "verdibaserte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋəɖˈiːbɑsˌeːʈə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "352dccf32588.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/352dccf32588.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/352dccf32588.mp3",
+            "text": "verdibasert",
+            "source": "generated",
+            "content_sha256": "555048e9de6efed1a276be40ac0e65dde6edb845a0b13429f0f023f2075482f6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "basert på åndelige verdi",
+      "translation": "based on spiritual values",
+      "examples": [
+        {
+          "no": "verdibasert politikk",
+          "en": "value-based politics"
+        }
+      ]
+    }
+  ]
+}

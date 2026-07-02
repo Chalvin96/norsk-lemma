@@ -1,0 +1,92 @@
+{
+  "source_article_id": 32304,
+  "lemmas": [
+    {
+      "lemma": "kronologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 37918,
+      "is_sub_article": false,
+      "primary_translation": "chronological",
+      "word_forms": [
+        {
+          "word_form": "kronologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krU$nU$\"lo:$gI$sk",
+              "ipa": "krʊnʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kronologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krU$nU$\"lo:$gI$sk@",
+              "ipa": "krʊnʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fad5a8a7071b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fad5a8a7071b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fad5a8a7071b.mp3",
+            "text": "kronologisk",
+            "source": "generated",
+            "content_sha256": "8ad4a04388ebe16a299c991e3f2f934b02b56d4071ed2ce9bab39bda89329a7a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kronologi",
+      "translation": "relating to chronology",
+      "examples": []
+    },
+    {
+      "text": "som samsvarer med tidsfølgen",
+      "translation": "corresponding to the sequence of time",
+      "examples": [
+        {
+          "no": "ta tingene i kronologisk orden",
+          "en": "take things in chronological order"
+        }
+      ]
+    }
+  ]
+}

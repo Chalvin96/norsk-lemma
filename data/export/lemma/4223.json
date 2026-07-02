@@ -1,0 +1,108 @@
+{
+  "source_article_id": 4223,
+  "lemmas": [
+    {
+      "lemma": "bakteriell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5009,
+      "is_sub_article": false,
+      "primary_translation": "bacterial",
+      "word_forms": [
+        {
+          "word_form": "bakteriell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$t@$rI$\"El",
+              "ipa": "bɑktərɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bakterielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$t@$rI$\"E$l@",
+              "ipa": "bɑktərɪˈɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bakterielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bAk$t@$rI$\"Elt",
+              "ipa": "bɑktərɪˈɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8cf0bb8f0136.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8cf0bb8f0136.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8cf0bb8f0136.mp3",
+            "text": "bakteriell",
+            "source": "generated",
+            "content_sha256": "f4d72cc6b5b4ea5dc7c37915dbab4b7f58b9e96ad899c6e944ee03bc77b3f5e5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er framkalt av bakterie",
+      "translation": "caused by bacteria",
+      "examples": []
+    },
+    {
+      "text": "som gjelder bakterier",
+      "translation": "relating to bacteria",
+      "examples": [
+        {
+          "no": "bakterielle sykdommer",
+          "en": "bacterial diseases"
+        }
+      ]
+    }
+  ]
+}

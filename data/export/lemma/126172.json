@@ -1,0 +1,89 @@
+{
+  "source_article_id": 126172,
+  "lemmas": [
+    {
+      "lemma": "forutberegnelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2859719,
+      "is_sub_article": false,
+      "primary_translation": "calculable in advance",
+      "word_forms": [
+        {
+          "word_form": "forutberegnelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fO$ru0t$b@$r{*I$n@$lI",
+              "ipa": "ˈfɔrʉtbəræ͡ɪnəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "forutberegnelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɔrʉtbəræ͡ɪnəlɪə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "af7fc35d3f7a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af7fc35d3f7a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/af7fc35d3f7a.mp3",
+            "text": "forutberegnelig",
+            "source": "generated",
+            "content_sha256": "7d70c925935fd464b596d3380a8378f92df94d320737848f3eb683749ca30e80",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan beregnes på forhånd",
+      "translation": "that which can be calculated in advance",
+      "examples": [
+        {
+          "no": "et forutberegnelig regelverk",
+          "en": "a predictable regulatory framework"
+        }
+      ]
+    }
+  ]
+}

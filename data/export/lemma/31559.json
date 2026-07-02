@@ -1,0 +1,94 @@
+{
+  "source_article_id": 31559,
+  "lemmas": [
+    {
+      "lemma": "kopper",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 37103,
+      "is_sub_article": false,
+      "primary_translation": "smallpox / pustules",
+      "word_forms": [
+        {
+          "word_form": "kopper",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kO$p@r",
+              "ipa": "ˈkɔpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "koppene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kO$p@$n@",
+              "ipa": "ˈkɔpənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5bd1099366bd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bd1099366bd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5bd1099366bd.mp3",
+            "text": "kopper",
+            "source": "generated",
+            "content_sha256": "fc155c9c994f8f9ec082402b1018d1217ebec31892bb3dc896c4dbec3d4ee6c8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "akutt, smittsom virussykdom med materiefylte blemmer",
+      "translation": "acute, contagious viral disease with pustules",
+      "examples": [
+        {
+          "no": "være vaksinert mot kopper",
+          "en": "be vaccinated against smallpox"
+        }
+      ]
+    },
+    {
+      "text": "materiefylte blemmer",
+      "translation": "pustules",
+      "examples": []
+    },
+    {
+      "text": "smittsom virussykdom hos visse (hus)dyr",
+      "translation": "contagious viral disease in certain (domestic) animals",
+      "examples": []
+    }
+  ]
+}

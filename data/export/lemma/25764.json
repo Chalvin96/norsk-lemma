@@ -1,0 +1,87 @@
+{
+  "source_article_id": 25764,
+  "lemmas": [
+    {
+      "lemma": "ildfast",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30710,
+      "is_sub_article": false,
+      "primary_translation": "heat-resistant",
+      "word_forms": [
+        {
+          "word_form": "ildfast",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Il$%fA$st",
+              "ipa": "ˈɪlˌfɑst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ildfaste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Il$%fA$st",
+              "ipa": "ˈɪlˌfɑst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d4285dab479f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4285dab479f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4285dab479f.mp3",
+            "text": "ildfast",
+            "source": "generated",
+            "content_sha256": "daac08780faec4ce4ce812e8ff21523f49080aaa0b56bfd1ade0c3079b18492d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har evne til å tåle høye temperaturer uten å bli ødelagt",
+      "translation": "having the ability to withstand high temperatures without being destroyed",
+      "examples": [
+        {
+          "no": "ildfast stein",
+          "en": "firebrick"
+        }
+      ]
+    }
+  ]
+}

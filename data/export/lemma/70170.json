@@ -1,0 +1,112 @@
+{
+  "source_article_id": 70170,
+  "lemmas": [
+    {
+      "lemma": "kjennes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 155854,
+      "is_sub_article": false,
+      "primary_translation": "feel / know each other",
+      "word_forms": [
+        {
+          "word_form": "kjennes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"CE$n@s",
+              "ipa": "ˈçɛnəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kjentes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"CEn$t@s",
+              "ipa": "ˈçɛntəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "171947b216f7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/171947b216f7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/171947b216f7.mp3",
+            "text": "kjennes",
+            "source": "generated",
+            "content_sha256": "90626e926f5b2cf3371389906e79baa1a12637528b823cfbbb2a718278f35691",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sanse eller oppleve (på en bestemt måte)",
+      "translation": "sense or experience (in a specific way)",
+      "examples": []
+    },
+    {
+      "text": "jamfør kjenne og kjenne",
+      "translation": "feel and feel",
+      "examples": [
+        {
+          "no": "stoffet kjennes glatt",
+          "en": "the fabric feels smooth"
+        },
+        {
+          "no": "det kjennes urettferdig",
+          "en": "it feels unfair"
+        },
+        {
+          "no": "kjennes godt",
+          "en": "feels good"
+        },
+        {
+          "no": "kjennes hardt",
+          "en": "feels hard"
+        }
+      ]
+    },
+    {
+      "text": "kjenne hverandre (igjen)",
+      "translation": "know each other (again)",
+      "examples": [
+        {
+          "no": "de møttes og kjentes",
+          "en": "they met and recognized each other"
+        }
+      ]
+    }
+  ]
+}

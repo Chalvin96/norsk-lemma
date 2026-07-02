@@ -1,0 +1,91 @@
+{
+  "source_article_id": 23359,
+  "lemmas": [
+    {
+      "lemma": "herostratisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 27546,
+      "is_sub_article": false,
+      "primary_translation": "infamous (due to misdeed)",
+      "word_forms": [
+        {
+          "word_form": "herostratisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "h@$rU$\"strA:$tI$sk",
+              "ipa": "hərʊˈstrɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "herostratiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "h@$rU$\"strA:$tI$sk@",
+              "ipa": "hərʊˈstrɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "742b6082231a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/742b6082231a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/742b6082231a.mp3",
+            "text": "herostratisk",
+            "source": "generated",
+            "content_sha256": "7f5d32a30e0c6db1ed1ffbdaccca24296c0d7be00a86066fe195b9f3c90fc45c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om berømmelse, omdømme: som skyldes en udåd eller en forkastelig handling",
+      "translation": "regarding fame, reputation: resulting from a misdeed, a reprehensible act",
+      "examples": [
+        {
+          "no": "vinne herostratisk berømmelse",
+          "en": "gain Herostratic fame"
+        },
+        {
+          "no": "bli herostratisk berømt",
+          "en": "become Herostratically famous"
+        }
+      ]
+    }
+  ]
+}

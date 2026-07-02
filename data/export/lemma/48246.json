@@ -1,0 +1,116 @@
+{
+  "source_article_id": 48246,
+  "lemmas": [
+    {
+      "lemma": "resiprok",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 55413,
+      "is_sub_article": false,
+      "primary_translation": "reciprocal / inverse",
+      "word_forms": [
+        {
+          "word_form": "resiprok",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"re:$sI$%pru:k",
+              "ipa": "ˈreːsɪˌpruːk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "resiproke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"re:$sI$%pru:$k@",
+              "ipa": "ˈreːsɪˌpruːkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "resiprokt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"re:$sI$%pru:kt",
+              "ipa": "ˈreːsɪˌpruːkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c5a4c6b5d2d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c5a4c6b5d2d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c5a4c6b5d2d.mp3",
+            "text": "resiprok",
+            "source": "generated",
+            "content_sha256": "91f45f404e39777adca284c9e86df68a473720ee00a1f790b48cc0ea3ff388f6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjensidig, innbyrdes",
+      "translation": "mutual, reciprocal",
+      "examples": [
+        {
+          "no": "se på sosialisering som en resiprok prosess",
+          "en": "view socialization as a reciprocal process"
+        }
+      ]
+    },
+    {
+      "text": "i matematikk: invers",
+      "translation": "inverse",
+      "examples": [
+        {
+          "no": "den resiproke brøken til 3/4 er 4/3",
+          "en": "the reciprocal fraction of 3/4 is 4/3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 6855,
+  "lemmas": [
+    {
+      "lemma": "bokstavrett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 8067,
+      "is_sub_article": false,
+      "primary_translation": "literal",
+      "word_forms": [
+        {
+          "word_form": "bokstavrett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bUk$\"stA:$%vrEt",
+              "ipa": "bʊkˈstɑːˌvrɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bokstavrette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bUk$\"stA:$%vrE$t@",
+              "ipa": "bʊkˈstɑːˌvrɛtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9aa5dbf0a7b2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9aa5dbf0a7b2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9aa5dbf0a7b2.mp3",
+            "text": "bokstavrett",
+            "source": "generated",
+            "content_sha256": "3391929294059703e2124e65019d7c2756b42698957b03863c0683d44d33f9c6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som følger en tekst nøye, bokstav for bokstav",
+      "translation": "following a text closely, letter for letter",
+      "examples": [
+        {
+          "no": "en bokstavrett gjengivelse",
+          "en": "a literal rendering"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "source_article_id": 114358,
+  "lemmas": [
+    {
+      "lemma": "frosthard",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 164889,
+      "is_sub_article": false,
+      "primary_translation": "frost-hardened / exposed to cold",
+      "word_forms": [
+        {
+          "word_form": "frosthard",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɔsthɑɖ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "frostharde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɔsthˌɑːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "frosthardt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɔsthˌɑːʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "beb2509caca1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/beb2509caca1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/beb2509caca1.mp3",
+            "text": "frosthard",
+            "source": "generated",
+            "content_sha256": "c8af4fa4e55ff401186baecb9c6d860c859a673e1dccd92c6574d7122aac1833"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hard av frost",
+      "translation": "hard from frost",
+      "examples": []
+    },
+    {
+      "text": "utsatt for sterk kulde",
+      "translation": "exposed to severe cold",
+      "examples": [
+        {
+          "no": "han brukte flere timer på å grave et hull i den frostharde bakken",
+          "en": "he spent several hours digging a hole in the frost-hardened ground"
+        }
+      ]
+    }
+  ]
+}

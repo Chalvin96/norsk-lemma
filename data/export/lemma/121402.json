@@ -1,0 +1,128 @@
+{
+  "source_article_id": 121402,
+  "lemmas": [
+    {
+      "lemma": "lavastrøm",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 168841,
+      "is_sub_article": false,
+      "primary_translation": "lava flow",
+      "word_forms": [
+        {
+          "word_form": "lavastrøm",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lA:$vA$%str9m",
+              "ipa": "ˈlɑːvɑˌstrœm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lavastrømmen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑːʋɑstrˌœmən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lavastrømmer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑːʋɑstrˌœmər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lavastrømmene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑːʋɑstrˌœmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "60c0895c36c0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/60c0895c36c0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/60c0895c36c0.mp3",
+            "text": "lavastrøm",
+            "source": "generated",
+            "content_sha256": "fe8f1538eb4342706db41a36da52cab9c421ebdec6a510b731948252202aa851",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "strøm av lava",
+      "translation": "flow of lava",
+      "examples": [
+        {
+          "no": "byen er truet av lavastrømmer",
+          "en": "the city is threatened by lava flows"
+        }
+      ]
+    }
+  ]
+}

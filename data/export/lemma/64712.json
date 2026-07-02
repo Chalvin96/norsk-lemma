@@ -1,0 +1,100 @@
+{
+  "source_article_id": 64712,
+  "lemmas": [
+    {
+      "lemma": "upartisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74095,
+      "is_sub_article": false,
+      "primary_translation": "impartial / neutral",
+      "word_forms": [
+        {
+          "word_form": "upartisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%pA:$t`I$sk",
+              "ipa": "ˈʉːˌpɑːʈɪsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "upartiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%pA:$t`I$sk@",
+              "ipa": "ˈʉːˌpɑːʈɪskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9d040825fdc2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9d040825fdc2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9d040825fdc2.mp3",
+            "text": "upartisk",
+            "source": "generated",
+            "content_sha256": "f297e50b16977ca98de607ec227c1473a2cd3f7b09d2f253963b8070db1dc8f5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke tar parti for en av to eller flere parter",
+      "translation": "that does not take sides for one of two or more parties",
+      "examples": []
+    },
+    {
+      "text": "nøytral, objektiv",
+      "translation": "neutral, objective",
+      "examples": [
+        {
+          "no": "en upartisk dom",
+          "en": "an impartial judgment"
+        },
+        {
+          "no": "upartisk etterforskning",
+          "en": "impartial investigation"
+        },
+        {
+          "no": "upartiske observatører",
+          "en": "impartial observers"
+        }
+      ]
+    }
+  ]
+}

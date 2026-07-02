@@ -1,0 +1,145 @@
+{
+  "source_article_id": 44033,
+  "lemmas": [
+    {
+      "lemma": "pant",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 50989,
+      "is_sub_article": false,
+      "primary_translation": "pledge / guarantee",
+      "word_forms": [
+        {
+          "word_form": "pant",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pAnt",
+              "ipa": "ˈpɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pantet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pAn$t@",
+              "ipa": "ˈpɑntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "panta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pAn$tA",
+              "ipa": "ˈpɑntɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pantene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pAn$tn=$@",
+              "ipa": "ˈpɑntn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c96cbc40e944.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c96cbc40e944.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c96cbc40e944.mp3",
+            "text": "pant",
+            "source": "generated",
+            "content_sha256": "7eb6d4ab6582a537499d7378efed8b53e3610a5df737acff265d381a6659b3ad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjenstand eller eiendom som en låntaker stiller som sikkerhet for et lån",
+      "translation": "object or property that a borrower provides as security for a loan",
+      "examples": [
+        {
+          "no": "banken lånte oss penger mot pant i eiendommen",
+          "en": "the bank lent us money against the property as collateral"
+        },
+        {
+          "no": "sette noe i pant",
+          "en": "put something up as collateral"
+        },
+        {
+          "no": "ta pant i noe",
+          "en": "take something as collateral"
+        },
+        {
+          "no": "innløse et pant",
+          "en": "redeem a pledge"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: garanti, sikkert tegn, bevis",
+      "translation": "guarantee, sure sign, proof",
+      "examples": [
+        {
+          "no": "pantet på vårt vennskap",
+          "en": "the pledge of our friendship"
+        }
+      ]
+    }
+  ]
+}

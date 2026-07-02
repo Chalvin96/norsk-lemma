@@ -1,0 +1,143 @@
+{
+  "source_article_id": 10029,
+  "lemmas": [
+    {
+      "lemma": "diaspora",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11757,
+      "is_sub_article": false,
+      "primary_translation": "diaspora",
+      "word_forms": [
+        {
+          "word_form": "diaspora",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"A:$spU$rA",
+              "ipa": "dɪˈɑːspʊrɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diasporaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$\"A:$spU$rA$@n",
+              "ipa": "dɪˈɑːspʊrɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diasporaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dɪˈɑːspurɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "diasporaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dɪˈɑːspurɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "951754d742a4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/951754d742a4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/951754d742a4.mp3",
+            "text": "diaspora",
+            "source": "generated",
+            "content_sha256": "39695d1a0a5036b69dc3d11a721936635ccfedc00541693977103c45e50b416d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "folkegruppe som bor spredt i land som har en annen kultur eller religion enn det opprinnelige hjemlandet (og som holder sammen og tar vare på egen kultur eller religion)",
+      "translation": "ethnic group living scattered in countries with a different culture or religion than their original homeland (and who stick together and preserve their own culture or religion)",
+      "examples": []
+    },
+    {
+      "text": "områdene som en slik gruppe lever i",
+      "translation": "the areas where such a group lives",
+      "examples": [
+        {
+          "no": "den jødiske diasporaen",
+          "en": "the Jewish diaspora"
+        },
+        {
+          "no": "den tamilske diasporaen",
+          "en": "the Tamil diaspora"
+        },
+        {
+          "no": "en stat som driver overvåking av befolkningen, både i eget land og i diasporaen",
+          "en": "a state that carries out surveillance of the population, both in its own country and in the diaspora"
+        },
+        {
+          "no": "leve i diaspora",
+          "en": "live in diaspora"
+        }
+      ]
+    }
+  ]
+}

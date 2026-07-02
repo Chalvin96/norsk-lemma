@@ -1,0 +1,133 @@
+{
+  "source_article_id": 9319,
+  "lemmas": [
+    {
+      "lemma": "datanett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10998,
+      "is_sub_article": false,
+      "primary_translation": "data network",
+      "word_forms": [
+        {
+          "word_form": "datanett",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%nEt",
+              "ipa": "ˈdɑːtɑˌnɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datanettet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%nE$t@",
+              "ipa": "ˈdɑːtɑˌnɛtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datanetta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%nE$tA",
+              "ipa": "ˈdɑːtɑˌnɛtɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datanettene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%nE$tn=$@",
+              "ipa": "ˈdɑːtɑˌnɛtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1d9ccd96ea75.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1d9ccd96ea75.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1d9ccd96ea75.mp3",
+            "text": "datanett",
+            "source": "generated",
+            "content_sha256": "6bb964b194561876b6bc99d66b69f89711c471491ad141797e649f7afe4d6fa9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nett for å overføre data med nasjonal eller internasjonal rekkevidde",
+      "translation": "network for transferring data with national or international reach",
+      "examples": [
+        {
+          "no": "oppgradere nasjonale datanett",
+          "en": "upgrade national data networks"
+        }
+      ]
+    },
+    {
+      "text": "nettverk som forbinder og tillater utveksling av data mellom datamaskiner",
+      "translation": "network that connects and allows data exchange between computers",
+      "examples": [
+        {
+          "no": "kople seg på det lokale datanettet",
+          "en": "connect to the local data network"
+        }
+      ]
+    }
+  ]
+}

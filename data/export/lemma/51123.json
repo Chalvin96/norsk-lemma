@@ -1,0 +1,132 @@
+{
+  "source_article_id": 51123,
+  "lemmas": [
+    {
+      "lemma": "sesjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 58817,
+      "is_sub_article": false,
+      "primary_translation": "session / conscription meeting",
+      "word_forms": [
+        {
+          "word_form": "sesjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"Su:n",
+              "ipa": "səˈʃuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sesjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"Su:$nn=",
+              "ipa": "səˈʃuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sesjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"Su:$n@r",
+              "ipa": "səˈʃuːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sesjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@$\"Su:$nn=$@",
+              "ipa": "səˈʃuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c982356b5eb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c982356b5eb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c982356b5eb.mp3",
+            "text": "sesjon",
+            "source": "generated",
+            "content_sha256": "4a61bfc5d8c596794f7cee5d0d1c5252b90559bde2bdc972090fe5ebd0473703",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tidsrom da en representativ forsamling, domstol eller lignende sitter sammen",
+      "translation": "period during which a representative assembly or court is in session",
+      "examples": [
+        {
+          "no": "Nordisk råds sesjon",
+          "en": "the Nordic Council session"
+        }
+      ]
+    },
+    {
+      "text": "møte der vernepliktig blir intervjuet, testet og undersøkt for å avgjøre om og hvor de skal gjøre militærtjeneste",
+      "translation": "meeting where conscripts are interviewed, tested, and examined to determine if and where they will perform military service",
+      "examples": [
+        {
+          "no": "møte på sesjon",
+          "en": "report for military screening"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "source_article_id": 33748,
+  "lemmas": [
+    {
+      "lemma": "landsnummer",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 39591,
+      "is_sub_article": false,
+      "primary_translation": "country code",
+      "word_forms": [
+        {
+          "word_form": "landsnummer",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAn$%snU$m@r",
+              "ipa": "ˈlɑnˌsnʊmər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "landsnummeret",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAn$%snU$m@$r@",
+              "ipa": "ˈlɑnˌsnʊmərə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "landsnummera",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑnsnˌumərɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "landsnumrene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAn$%snU$m@$n`@",
+              "ipa": "ˈlɑnˌsnʊməɳə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "landsnumre",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAn$%snUm$r@",
+              "ipa": "ˈlɑnˌsnʊmrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e66c878d7037.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e66c878d7037.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e66c878d7037.mp3",
+            "text": "landsnummer",
+            "source": "generated",
+            "content_sha256": "3cbee8f0209fe55b11ef22e7daaeff7c8aeace9a44bf3e5f89250096a898fdb3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nummer en skal slå før abonnentens nummer når en ringer til utlandet",
+      "translation": "number to dial before the subscriber's number when calling abroad",
+      "examples": [
+        {
+          "no": "Belgia har landsnummer 32",
+          "en": "Belgium has country code 32"
+        }
+      ]
+    }
+  ]
+}

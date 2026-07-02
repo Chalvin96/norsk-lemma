@@ -1,0 +1,91 @@
+{
+  "source_article_id": 12560,
+  "lemmas": [
+    {
+      "lemma": "empirisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14646,
+      "is_sub_article": false,
+      "primary_translation": "empirical",
+      "word_forms": [
+        {
+          "word_form": "empirisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Em$\"pi:$rI$sk",
+              "ipa": "ɛmˈpɪːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "empiriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Em$\"pi:$rI$sk@",
+              "ipa": "ɛmˈpɪːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a3dc767da044.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3dc767da044.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a3dc767da044.mp3",
+            "text": "empirisk",
+            "source": "generated",
+            "content_sha256": "099d326244124e74252c2d91911b13f9b5b1606a482a95ca41dc6fc088627046",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller bygger på empiri",
+      "translation": "relating to or based on empiricism",
+      "examples": [
+        {
+          "no": "empiriske spørsmål",
+          "en": "empirical questions"
+        },
+        {
+          "no": "empiriske studier",
+          "en": "empirical studies"
+        }
+      ]
+    }
+  ]
+}

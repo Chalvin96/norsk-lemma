@@ -1,0 +1,111 @@
+{
+  "source_article_id": 38693,
+  "lemmas": [
+    {
+      "lemma": "mistenksom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45365,
+      "is_sub_article": false,
+      "primary_translation": "suspicious / mistrustful",
+      "word_forms": [
+        {
+          "word_form": "mistenksom",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$\"stENk$%sOm",
+              "ipa": "mɪˈstɛŋkˌsɔm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mistenksomme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$\"stEN$%sO$m@",
+              "ipa": "mɪˈstɛŋˌsɔmə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mistenksomt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$\"stENk$%sOmt",
+              "ipa": "mɪˈstɛŋkˌsɔmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4e98f6fcd8bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e98f6fcd8bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e98f6fcd8bf.mp3",
+            "text": "mistenksom",
+            "source": "generated",
+            "content_sha256": "e44b7e8a3a94a6a02972b53840cc09e2723f8ecec14800c7244dbc52bca59340",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har mistanke om noe",
+      "translation": "having a suspicion about something",
+      "examples": [
+        {
+          "no": "være mistenksom av seg",
+          "en": "be suspicious by nature"
+        },
+        {
+          "no": "læreren ble mistenksom da han ikke hørte en lyd fra klasserommet",
+          "en": "the teacher became suspicious when he didn't hear a sound from the classroom"
+        },
+        {
+          "no": "se mistenksomt på noen",
+          "en": "look at someone suspiciously"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_article_id": 21453,
+  "lemmas": [
+    {
+      "lemma": "gudfryktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25079,
+      "is_sub_article": false,
+      "primary_translation": "god-fearing / pious",
+      "word_forms": [
+        {
+          "word_form": "gudfryktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gu0d$\"frYk$tI",
+              "ipa": "gʉdˈfrʏktɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gudfryktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gu0d$\"frYk$tI$@",
+              "ipa": "gʉdˈfrʏktɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1809bd891265.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1809bd891265.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1809bd891265.mp3",
+            "text": "gudfryktig",
+            "source": "generated",
+            "content_sha256": "1099dab92ec1f07784619e81f93972ab7cda00d3f82a0e33efb9f59184792759",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som frykte Gud",
+      "translation": "who fears God",
+      "examples": []
+    },
+    {
+      "text": "troende, from",
+      "translation": "believing, pious",
+      "examples": [
+        {
+          "no": "gudfryktige mennesker",
+          "en": "god-fearing people"
+        },
+        {
+          "no": "et gudfryktig hjem",
+          "en": "a god-fearing home"
+        },
+        {
+          "no": "leve gudfryktig",
+          "en": "live a god-fearing life"
+        }
+      ]
+    }
+  ]
+}

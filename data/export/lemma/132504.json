@@ -1,0 +1,87 @@
+{
+  "source_article_id": 132504,
+  "lemmas": [
+    {
+      "lemma": "tilsendt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2980504,
+      "is_sub_article": false,
+      "primary_translation": "sent",
+      "word_forms": [
+        {
+          "word_form": "tilsendt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%sEnt",
+              "ipa": "ˈtɪlˌsɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tilsendte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%sEn$t@",
+              "ipa": "ˈtɪlˌsɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "137b3030529b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/137b3030529b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/137b3030529b.mp3",
+            "text": "tilsendt",
+            "source": "generated",
+            "content_sha256": "f8d823ea858ae6cb9ed674e5e81a625f7f6999bce8fde3417213e51e8c7b8d6f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er sendt (til noen)",
+      "translation": "that has been sent (to someone)",
+      "examples": [
+        {
+          "no": "jeg har lest det tilsendte materialet",
+          "en": "I have read the material sent to me"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_article_id": 31467,
+  "lemmas": [
+    {
+      "lemma": "kontrastiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 37002,
+      "is_sub_article": false,
+      "primary_translation": "contrastive",
+      "word_forms": [
+        {
+          "word_form": "kontrastiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kOn$trA$%sti:v",
+              "ipa": "ˈkɔntrɑˌstɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kontrastive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kOn$trA$%sti:$v@",
+              "ipa": "ˈkɔntrɑˌstɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kontrastivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kOn$trA$%sti:vt",
+              "ipa": "ˈkɔntrɑˌstɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "afff9f8cbf26.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afff9f8cbf26.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/afff9f8cbf26.mp3",
+            "text": "kontrastiv",
+            "source": "generated",
+            "content_sha256": "b3ea73fd5ebead75a382dcf8c250ff8570595ab999e98e0710aa0c5ff88fbc4e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som legger vekt på forskjeller",
+      "translation": "that emphasizes differences",
+      "examples": [
+        {
+          "no": "en kontrastiv analyse",
+          "en": "a contrastive analysis"
+        }
+      ]
+    }
+  ]
+}

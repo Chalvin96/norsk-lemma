@@ -1,0 +1,87 @@
+{
+  "source_article_id": 8405,
+  "lemmas": [
+    {
+      "lemma": "bysantinsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 10003,
+      "is_sub_article": false,
+      "primary_translation": "Byzantine",
+      "word_forms": [
+        {
+          "word_form": "bysantinsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bY$sAn$\"ti:nsk",
+              "ipa": "bʏsɑnˈtɪːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bysantinske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bY$sAn$\"ti:n$sk@",
+              "ipa": "bʏsɑnˈtɪːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a9ff33d042ff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a9ff33d042ff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a9ff33d042ff.mp3",
+            "text": "bysantinsk",
+            "source": "generated",
+            "content_sha256": "9c94e1971199b9842a17c0b09f62693d05b89532d80fa76b70f5f25c20f8845e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Bysants",
+      "translation": "relating to Byzantium",
+      "examples": [
+        {
+          "no": "bysantinsk kunst og kultur",
+          "en": "Byzantine art and culture"
+        }
+      ]
+    }
+  ]
+}

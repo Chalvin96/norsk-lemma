@@ -1,0 +1,111 @@
+{
+  "source_article_id": 48292,
+  "lemmas": [
+    {
+      "lemma": "ressurssvak",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 55460,
+      "is_sub_article": false,
+      "primary_translation": "resource-poor",
+      "word_forms": [
+        {
+          "word_form": "ressurssvak",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"su0s`$%svA:k",
+              "ipa": "rəˈsʉʂˌsvɑːk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ressurssvake",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"su0s`$%svA:$k@",
+              "ipa": "rəˈsʉʂˌsvɑːkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ressurssvakt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"su0s`$%svA:kt",
+              "ipa": "rəˈsʉʂˌsvɑːkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5e95cbd1001f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5e95cbd1001f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5e95cbd1001f.mp3",
+            "text": "ressurssvak",
+            "source": "generated",
+            "content_sha256": "0a7721fbf5c64c3ed787700103243539ec26cf3dab8f8c7fc7a2d89d885453b9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med få ressurs",
+      "translation": "with few resources",
+      "examples": []
+    },
+    {
+      "text": "dårlig utrustet",
+      "translation": "poorly equipped",
+      "examples": [
+        {
+          "no": "ressurssvake hjem",
+          "en": "disadvantaged homes"
+        }
+      ]
+    }
+  ]
+}

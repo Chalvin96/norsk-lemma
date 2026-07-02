@@ -1,0 +1,127 @@
+{
+  "source_article_id": 4334,
+  "lemmas": [
+    {
+      "lemma": "band",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 5126,
+      "is_sub_article": false,
+      "primary_translation": "band",
+      "word_forms": [
+        {
+          "word_form": "band",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAn",
+              "ipa": "ˈbɑn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bandet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA$n@",
+              "ipa": "ˈbɑnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "banda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA$nA",
+              "ipa": "ˈbɑnɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bandene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bAn$dn=$@",
+              "ipa": "ˈbɑndn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e8000cd9fadd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e8000cd9fadd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e8000cd9fadd.mp3",
+            "text": "band",
+            "source": "generated",
+            "content_sha256": "95146dbee333bd50abb30d956d3271078acff3de0aeba17462aff0e9ca42b80f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gruppe av musiker som spiller og opptrer sammen",
+      "translation": "group of musicians who play and perform together",
+      "examples": [
+        {
+          "no": "spille i band",
+          "en": "play in a band"
+        },
+        {
+          "no": "bandet legger snart ut på turné",
+          "en": "the band will soon go on tour"
+        }
+      ]
+    }
+  ]
+}

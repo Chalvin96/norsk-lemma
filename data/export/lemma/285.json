@@ -1,0 +1,92 @@
+{
+  "source_article_id": 285,
+  "lemmas": [
+    {
+      "lemma": "afatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1071,
+      "is_sub_article": false,
+      "primary_translation": "aphasic",
+      "word_forms": [
+        {
+          "word_form": "afatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"fA:$tI$sk",
+              "ipa": "ɑˈfɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "afatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"fA:$tI$sk@",
+              "ipa": "ɑˈfɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2ae2e392be06.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ae2e392be06.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ae2e392be06.mp3",
+            "text": "afatisk",
+            "source": "generated",
+            "content_sha256": "1caf4395e1faeb8c2ec2fa67dbe6d9e77c30b59e12f7faf1c6b50324387cd9e6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lider av afasi",
+      "translation": "suffering from aphasia",
+      "examples": []
+    },
+    {
+      "text": "som skyldes afasi",
+      "translation": "caused by aphasia",
+      "examples": [
+        {
+          "no": "afatiske pasienter",
+          "en": "aphasic patients"
+        }
+      ]
+    }
+  ]
+}

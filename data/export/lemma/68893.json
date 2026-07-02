@@ -1,0 +1,121 @@
+{
+  "source_article_id": 68893,
+  "lemmas": [
+    {
+      "lemma": "vodka",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 79522,
+      "is_sub_article": false,
+      "primary_translation": "vodka",
+      "word_forms": [
+        {
+          "word_form": "vodka",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vOd$kA",
+              "ipa": "ˈvɔdkɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vodkaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vOd$kA$@n",
+              "ipa": "ˈvɔdkɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vodkaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɔdkɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "vodkaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɔdkɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a18123d155f9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a18123d155f9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a18123d155f9.mp3",
+            "text": "vodka",
+            "source": "generated",
+            "content_sha256": "ab2d0265913c79485365ecd3104d310eb258fa544b02abee4cfd75ac76a20e96",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "russisk brennevin",
+      "translation": "Russian spirit",
+      "examples": []
+    }
+  ]
+}

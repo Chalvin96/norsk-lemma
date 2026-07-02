@@ -1,0 +1,124 @@
+{
+  "source_article_id": 28698,
+  "lemmas": [
+    {
+      "lemma": "karate",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 33935,
+      "is_sub_article": false,
+      "primary_translation": "karate",
+      "word_forms": [
+        {
+          "word_form": "karate",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"\"rA:$t@",
+              "ipa": "kɑˈrɑːtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "karaten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"\"rA:$tn=",
+              "ipa": "kɑˈrɑːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "karater",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑrˈɑːtər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "karatene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"rA:$tn=$@",
+              "ipa": "kɑˈrɑːtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "648364350b5b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/648364350b5b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/648364350b5b.mp3",
+            "text": "karate",
+            "source": "generated",
+            "content_sha256": "d7d58a14c74e0264db67e3c602f0bac3c7652610a111df11af78508139ee4d6d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "japansk kampsport uten våpen, med raske slag og spark",
+      "translation": "Japanese martial art without weapons, with fast punches and kicks",
+      "examples": [
+        {
+          "no": "han er nordisk mester i karate",
+          "en": "he is the Nordic karate champion"
+        }
+      ]
+    }
+  ]
+}

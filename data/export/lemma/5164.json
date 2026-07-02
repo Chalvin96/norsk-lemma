@@ -1,0 +1,101 @@
+{
+  "source_article_id": 5164,
+  "lemmas": [
+    {
+      "lemma": "beleilig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6075,
+      "is_sub_article": false,
+      "primary_translation": "convenient / suitable",
+      "word_forms": [
+        {
+          "word_form": "beleilig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"l{*I$lI",
+              "ipa": "bəˈlæ͡ɪlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beleilige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"l{*I$lI$@",
+              "ipa": "bəˈlæ͡ɪlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "16103387f03a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16103387f03a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/16103387f03a.mp3",
+            "text": "beleilig",
+            "source": "generated",
+            "content_sha256": "39238fcbfd39d4c0426dc309b42a62cfc4e0affe68f32892ac629771ba26c8da",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som passer godt med noens planer eller interesser, særlig ved å inntreffe på et gunstig tidspunkt",
+      "translation": "fitting well with someone's plans or interests, especially by occurring at a favorable time",
+      "examples": []
+    },
+    {
+      "text": "velegnet",
+      "translation": "suitable",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra ubeleilig",
+      "translation": "in contrast to inconvenient",
+      "examples": [
+        {
+          "no": "vente på et beleilig øyeblikk",
+          "en": "wait for an opportune moment"
+        },
+        {
+          "no": "komme på et beleilig tidspunkt",
+          "en": "arrive at an opportune time"
+        }
+      ]
+    }
+  ]
+}

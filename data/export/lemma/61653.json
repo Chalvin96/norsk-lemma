@@ -1,0 +1,127 @@
+{
+  "source_article_id": 61653,
+  "lemmas": [
+    {
+      "lemma": "totrinnsrakett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70516,
+      "is_sub_article": false,
+      "primary_translation": "two-stage rocket / two-phase implementation",
+      "word_forms": [
+        {
+          "word_form": "totrinnsrakett",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$trIns$rA$%kEt",
+              "ipa": "ˈtuːtrɪnsrɑˌkɛt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "totrinnsraketten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$trIns$rA$%kE$tn=",
+              "ipa": "ˈtuːtrɪnsrɑˌkɛtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "totrinnsraketter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$trIns$rA$%kE$t@r",
+              "ipa": "ˈtuːtrɪnsrɑˌkɛtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "totrinnsrakettene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$trIns$rA$%kE$tn=$@",
+              "ipa": "ˈtuːtrɪnsrɑˌkɛtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "54cc21b2fafd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54cc21b2fafd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54cc21b2fafd.mp3",
+            "text": "totrinnsrakett",
+            "source": "generated",
+            "content_sha256": "fc8bbd84a7a95796cd90c43f70ca3b63496b0f19059ffb933b25d9f57a3a5610",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rakett i to deler med hver sin brennstoffladning, innrettet slik at den andre utløses når den første er oppbrukt",
+      "translation": "rocket in two parts, each with its own fuel charge, arranged so that the second is triggered when the first is depleted",
+      "examples": []
+    },
+    {
+      "text": "i overført betydning: noe som blir iverksatt i to faser",
+      "translation": "something implemented in two phases",
+      "examples": [
+        {
+          "no": "handlingsplanen er en totrinnsrakett",
+          "en": "the action plan is a two-stage rocket"
+        }
+      ]
+    }
+  ]
+}

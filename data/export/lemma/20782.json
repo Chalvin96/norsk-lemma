@@ -1,0 +1,73 @@
+{
+  "source_article_id": 20782,
+  "lemmas": [
+    {
+      "lemma": "graverende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 24274,
+      "is_sub_article": false,
+      "primary_translation": "serious/gross",
+      "word_forms": [
+        {
+          "word_form": "graverende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "grA$\"ve:$n`=$@",
+              "ipa": "grɑˈveːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "80be576fe12d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/80be576fe12d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/80be576fe12d.mp3",
+            "text": "graverende",
+            "source": "generated",
+            "content_sha256": "6a7c711f81dc7b936357df59d911932e4cd09fba8c6c8f98feace38f4973df88",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "alvorlig, grov",
+      "translation": "serious, gross",
+      "examples": [
+        {
+          "no": "graverende beskyldninger",
+          "en": "serious accusations"
+        },
+        {
+          "no": "det ble avdekket en rekke graverende feil",
+          "en": "a number of serious errors were uncovered"
+        }
+      ]
+    }
+  ]
+}

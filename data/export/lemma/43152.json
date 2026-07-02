@@ -1,0 +1,87 @@
+{
+  "source_article_id": 43152,
+  "lemmas": [
+    {
+      "lemma": "oppveid",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50007,
+      "is_sub_article": false,
+      "primary_translation": "weighed up",
+      "word_forms": [
+        {
+          "word_form": "oppveid",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%v{*Id",
+              "ipa": "ˈɔpˌvæ͡ɪd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oppveide",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%v{*I$d@",
+              "ipa": "ˈɔpˌvæ͡ɪdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "68cfa078afc9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/68cfa078afc9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/68cfa078afc9.mp3",
+            "text": "oppveid",
+            "source": "generated",
+            "content_sha256": "4389c0a3e33852082dbdafcb4af3072265f180db26667c955295ce802c26963b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er veid opp",
+      "translation": "weighed up",
+      "examples": [
+        {
+          "no": "oppveid kvantum",
+          "en": "weighed quantity"
+        }
+      ]
+    }
+  ]
+}

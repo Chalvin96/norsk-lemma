@@ -1,0 +1,110 @@
+{
+  "source_article_id": 16658,
+  "lemmas": [
+    {
+      "lemma": "fornybar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 19316,
+      "is_sub_article": false,
+      "primary_translation": "renewable",
+      "word_forms": [
+        {
+          "word_form": "fornybar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"n`y:$%bA:r",
+              "ipa": "fɔˈɳyːˌbɑːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fornybare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"n`y:$%bA:$r@",
+              "ipa": "fɔˈɳyːˌbɑːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fornybart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"n`y:$%bA:t`",
+              "ipa": "fɔˈɳyːˌbɑːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ce3a0b2852e5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce3a0b2852e5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce3a0b2852e5.mp3",
+            "text": "fornybar",
+            "source": "generated",
+            "content_sha256": "f3acb504afb7cbe7a88ff0e894d2cdb5e6d5ad42230f4104d25f4c39ba207d3a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan fornyes",
+      "translation": "that can be renewed",
+      "examples": [
+        {
+          "no": "fornybar kraft",
+          "en": "renewable power"
+        },
+        {
+          "no": "fornybar plast",
+          "en": "renewable plastic"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_article_id": 122269,
+  "lemmas": [
+    {
+      "lemma": "bytur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 92861,
+      "is_sub_article": false,
+      "primary_translation": "city trip",
+      "word_forms": [
+        {
+          "word_form": "bytur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%t}:r",
+              "ipa": "ˈbyːˌtʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "byturen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%t}:$n`=",
+              "ipa": "ˈbyːˌtʉːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "byturer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%t}:$r@r",
+              "ipa": "ˈbyːˌtʉːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "byturene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈyːtˌʉːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0e3bbb206f89.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0e3bbb206f89.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0e3bbb206f89.mp3",
+            "text": "bytur",
+            "source": "generated",
+            "content_sha256": "3061c08e8067f3f81242c1e2de8495badf8e262b18de7eed85c710337814faa9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tur i eller til en by",
+      "translation": "trip in or to a city",
+      "examples": [
+        {
+          "no": "ta seg en bytur",
+          "en": "go on a trip into town"
+        },
+        {
+          "no": "hun var med mormor på bytur",
+          "en": "she went into town with her grandmother"
+        }
+      ]
+    }
+  ]
+}

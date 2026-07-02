@@ -1,0 +1,142 @@
+{
+  "source_article_id": 154,
+  "lemmas": [
+    {
+      "lemma": "adel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 947,
+      "is_sub_article": false,
+      "primary_translation": "nobility / noble quality",
+      "word_forms": [
+        {
+          "word_form": "adel",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$dl=",
+              "ipa": "ˈɑːdl̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adelen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$d@$ln=",
+              "ipa": "ˈɑːdəln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adler",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:d$l@r",
+              "ipa": "ˈɑːdlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adlene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑːdln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f7cd49bca17a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f7cd49bca17a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f7cd49bca17a.mp3",
+            "text": "adel",
+            "source": "generated",
+            "content_sha256": "a966539f808d837983bea14aacd64c1d26322acc041a93a2ee0de038856b4d6f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særlig om eldre eller utenlandske forhold: (personer fra) øverste samfunnsklasse med arvelige særretter",
+      "translation": "persons from the highest social class with hereditary privileges",
+      "examples": [
+        {
+          "no": "kongen og adelen",
+          "en": "the king and the nobility"
+        },
+        {
+          "no": "den franske adelen",
+          "en": "the French nobility"
+        },
+        {
+          "no": "være av gammel adel",
+          "en": "be of old nobility"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: gjev, opphøyd egenskap eller karakter",
+      "translation": "noble, elevated quality, character",
+      "examples": [
+        {
+          "no": "sinnets adel",
+          "en": "the nobility of the mind"
+        }
+      ]
+    }
+  ]
+}

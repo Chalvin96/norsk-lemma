@@ -1,0 +1,128 @@
+{
+  "source_article_id": 41123,
+  "lemmas": [
+    {
+      "lemma": "norsk-dansk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 48097,
+      "is_sub_article": false,
+      "primary_translation": "Danish-Norwegian",
+      "word_forms": [
+        {
+          "word_form": "norsk-dansk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$%s`kdAnsk",
+              "ipa": "ˈnɔˌʂkdɑnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "norsk-dansken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$%s`kdAn$sk@n",
+              "ipa": "ˈnɔˌʂkdɑnskən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "norsk-dansker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɔʂkdˌɑnskər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "norsk-danskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɔʂkdˌɑnskənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c97cc94f445.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c97cc94f445.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c97cc94f445.mp3",
+            "text": "norsk-dansk",
+            "source": "generated",
+            "content_sha256": "8c4bf6ef34b88103d2b8041b2df6b193f2407c1df0e36694dc37a67b7b537f76",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dansk språk, særlig skriftspråk, slik det ble brukt av nordmenn",
+      "translation": "Danish language, especially written, as used by Norwegians",
+      "examples": [
+        {
+          "no": "en oversikt over norsk-danskens særtrekk",
+          "en": "an overview of the distinctive features of Norwegian Danish"
+        }
+      ]
+    }
+  ]
+}

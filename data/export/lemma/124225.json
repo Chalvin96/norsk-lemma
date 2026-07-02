@@ -1,0 +1,82 @@
+{
+  "source_article_id": 124225,
+  "lemmas": [
+    {
+      "lemma": "mollstemt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 124159,
+      "is_sub_article": false,
+      "primary_translation": "minor key",
+      "word_forms": [
+        {
+          "word_form": "mollstemt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mOl$%stEmt",
+              "ipa": "ˈmɔlˌstɛmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mollstemte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mOl$%stEm$t@",
+              "ipa": "ˈmɔlˌstɛmtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5540a3d2ecec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5540a3d2ecec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5540a3d2ecec.mp3",
+            "text": "mollstemt",
+            "source": "generated",
+            "content_sha256": "ec8b9bef34b926f11100e7242b247e2a163b7a2378ea1c2c3eb4d5d6e4531959",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er stemt i moll",
+      "translation": "tuned to a minor key",
+      "examples": []
+    }
+  ]
+}

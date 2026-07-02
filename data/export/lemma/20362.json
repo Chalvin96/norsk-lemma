@@ -1,0 +1,67 @@
+{
+  "source_article_id": 20362,
+  "lemmas": [
+    {
+      "lemma": "GMT",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 521,
+      "is_sub_article": false,
+      "primary_translation": "GMT",
+      "word_forms": [
+        {
+          "word_form": "GMT",
+          "tags_json": [
+            "ABBR"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈeːˌɛmtiː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "88d09cd536e4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88d09cd536e4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88d09cd536e4.mp3",
+            "text": "GMT",
+            "source": "generated",
+            "content_sha256": "f27136e0accd9d2694f446097512f4d3aca760ae1aa91c707cf92923232c1248"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "Greenwich middeltid",
+      "translation": "Greenwich Mean Time",
+      "examples": [
+        {
+          "no": "klokka stilles til GMT",
+          "en": "the clock is set to GMT"
+        },
+        {
+          "no": "ulykken skjedde klokka 12.20 GMT",
+          "en": "the accident happened at 12:20 GMT"
+        }
+      ]
+    }
+  ]
+}

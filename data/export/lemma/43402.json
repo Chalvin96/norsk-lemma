@@ -1,0 +1,87 @@
+{
+  "source_article_id": 43402,
+  "lemmas": [
+    {
+      "lemma": "ortopedisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50269,
+      "is_sub_article": false,
+      "primary_translation": "orthopedic",
+      "word_forms": [
+        {
+          "word_form": "ortopedisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$t`O$\"pe:$dI$sk",
+              "ipa": "ɔʈɔˈpeːdɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ortopediske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$t`U$\"pe:$dI$sk@",
+              "ipa": "ʊʈʊˈpeːdɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4b4908e14fd7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b4908e14fd7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4b4908e14fd7.mp3",
+            "text": "ortopedisk",
+            "source": "generated",
+            "content_sha256": "d0ffb5c4749418b1b1e9929d7bd50522b6ae255dba4e726fb5b12a290f26fabb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder ortopedi",
+      "translation": "relating to orthopedics",
+      "examples": [
+        {
+          "no": "ortopedisk behandling",
+          "en": "orthopedic treatment"
+        }
+      ]
+    }
+  ]
+}

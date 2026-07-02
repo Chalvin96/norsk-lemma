@@ -1,0 +1,66 @@
+{
+  "source_article_id": 128688,
+  "lemmas": [
+    {
+      "lemma": "sist",
+      "hgno": 2,
+      "pos": "CONJ",
+      "source_lemma_id": 2872382,
+      "is_sub_article": false,
+      "primary_translation": "last time (conjunction)",
+      "word_forms": [
+        {
+          "word_form": "sist",
+          "tags_json": [
+            "SCONJ"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sI$st",
+              "ipa": "ˈsɪst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8776c2b70ce5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8776c2b70ce5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8776c2b70ce5.mp3",
+            "text": "sist",
+            "source": "generated",
+            "content_sha256": "6f6aa80ee55aa3c53da82fdd5c0df80e8e1f21b6de31e5e80588a7380abca5cf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innleder en leddsetning som uttrykker at noe skjedde forrige gang",
+      "translation": "introduces a subordinate clause expressing that something happened the last time",
+      "examples": [
+        {
+          "no": "sist vi var her, var i mars",
+          "en": "the last time we were here was in March"
+        },
+        {
+          "no": "solen skinte sist vi var her",
+          "en": "the sun was shining the last time we were here"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 62354,
+  "lemmas": [
+    {
+      "lemma": "trokeisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 71299,
+      "is_sub_article": false,
+      "primary_translation": "trochaic",
+      "word_forms": [
+        {
+          "word_form": "trokeisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trO$\"ke:$I$sk",
+              "ipa": "trɔˈkeːɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "trokeiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trO$\"ke:$I$sk@",
+              "ipa": "trɔˈkeːɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a4ddf9d421c2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4ddf9d421c2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4ddf9d421c2.mp3",
+            "text": "trokeisk",
+            "source": "generated",
+            "content_sha256": "323363d1f7c93c0531c961effce0ec71227ec0cde3578b070ead98632c1b24ae",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller inneholder troké troke",
+      "translation": "relating to or containing a trochee",
+      "examples": [
+        {
+          "no": "trokeisk versemål",
+          "en": "trochaic meter"
+        },
+        {
+          "no": "‘fola, fola Blakken’ har trokeisk verserytme",
+          "en": "'fola, fola Blakken' has a trochaic rhythm"
+        }
+      ]
+    }
+  ]
+}

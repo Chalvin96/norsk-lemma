@@ -1,0 +1,122 @@
+{
+  "source_article_id": 66728,
+  "lemmas": [
+    {
+      "lemma": "varmekraftmaskin",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 76709,
+      "is_sub_article": false,
+      "primary_translation": "heat engine",
+      "word_forms": [
+        {
+          "word_form": "varmekraftmaskin",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$krAft$mA$%Si:n",
+              "ipa": "ˈvɑrməkrɑftmɑˌʃɪːn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmekraftmaskinen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$krAft$mA$%Si:$nn=",
+              "ipa": "ˈvɑrməkrɑftmɑˌʃɪːnn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmekraftmaskiner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$krAft$mA$%Si:$n@r",
+              "ipa": "ˈvɑrməkrɑftmɑˌʃɪːnər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "varmekraftmaskinene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAr$m@$krAft$mA$%Si:$nn=$@",
+              "ipa": "ˈvɑrməkrɑftmɑˌʃɪːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7682e803a5f8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7682e803a5f8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7682e803a5f8.mp3",
+            "text": "varmekraftmaskin",
+            "source": "generated",
+            "content_sha256": "79fa472f2dfbdc598521894798cf512724d7040e973184480d8ec70ee1747dad",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "maskin som omdanner varme til mekanisk energi",
+      "translation": "machine that converts heat into mechanical energy",
+      "examples": [
+        {
+          "no": "dampmaskinen er en varmekraftmaskin",
+          "en": "the steam engine is a heat engine"
+        }
+      ]
+    }
+  ]
+}

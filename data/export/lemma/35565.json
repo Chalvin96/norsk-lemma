@@ -1,0 +1,129 @@
+{
+  "source_article_id": 35565,
+  "lemmas": [
+    {
+      "lemma": "ljom",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 41340,
+      "is_sub_article": false,
+      "primary_translation": "sound / echo",
+      "word_forms": [
+        {
+          "word_form": "ljom",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ju:m",
+              "ipa": "ˈjuːm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ljomen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ju:$m@n",
+              "ipa": "ˈjuːmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ljomer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ju:$m@r",
+              "ipa": "ˈjuːmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ljomene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈuːmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "424b1a0ec710.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/424b1a0ec710.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/424b1a0ec710.mp3",
+            "text": "ljom",
+            "source": "generated",
+            "content_sha256": "c183e0e0ae4f1275836f6659f44735c3a885d37ccc702105dbe85bcb42701934",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sterk lyd eller klang",
+      "translation": "strong sound or resonance",
+      "examples": []
+    },
+    {
+      "text": "gjallende lyd",
+      "translation": "resounding sound",
+      "examples": [
+        {
+          "no": "høre ljomen av fela",
+          "en": "hear the sound of the fiddle ringing out"
+        }
+      ]
+    }
+  ]
+}

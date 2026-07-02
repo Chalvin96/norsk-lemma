@@ -1,0 +1,87 @@
+{
+  "source_article_id": 4633,
+  "lemmas": [
+    {
+      "lemma": "barometrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5459,
+      "is_sub_article": false,
+      "primary_translation": "barometric",
+      "word_forms": [
+        {
+          "word_form": "barometrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$rU$\"me:$trI$sk",
+              "ipa": "bɑrʊˈmeːtrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "barometriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "bA$rU$\"me:$trI$sk@",
+              "ipa": "bɑrʊˈmeːtrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0d852e7d56b5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d852e7d56b5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d852e7d56b5.mp3",
+            "text": "barometrisk",
+            "source": "generated",
+            "content_sha256": "93e8046f4bc37fb20a00081a5376bb3ddd8b71b07f5e5861af98d535c1ec6b91",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder lufttrykket",
+      "translation": "relating to air pressure",
+      "examples": [
+        {
+          "no": "barometrisk høydemåling",
+          "en": "barometric altitude measurement"
+        }
+      ]
+    }
+  ]
+}

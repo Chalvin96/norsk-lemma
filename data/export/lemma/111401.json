@@ -1,0 +1,90 @@
+{
+  "source_article_id": 111401,
+  "lemmas": [
+    {
+      "lemma": "dimmes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 163325,
+      "is_sub_article": false,
+      "primary_translation": "dim / darken",
+      "word_forms": [
+        {
+          "word_form": "dimmes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dI$m@s",
+              "ipa": "ˈdɪməs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dimtes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dIm$t@s",
+              "ipa": "ˈdɪmtəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "773485bfed4f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/773485bfed4f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/773485bfed4f.mp3",
+            "text": "dimmes",
+            "source": "generated",
+            "content_sha256": "a662defd4106e06dacd6b2470059de90fc481864c2c6472da3332e3b07a27ecc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli dim",
+      "translation": "to become dim",
+      "examples": []
+    },
+    {
+      "text": "mørkne",
+      "translation": "to darken",
+      "examples": [
+        {
+          "no": "det dimtes av kveld",
+          "en": "it grew dim with evening"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "source_article_id": 67715,
+  "lemmas": [
+    {
+      "lemma": "verd",
+      "hgno": 3,
+      "pos": "NOUN",
+      "source_lemma_id": 78178,
+      "is_sub_article": false,
+      "primary_translation": "value / quality",
+      "word_forms": [
+        {
+          "word_form": "verd",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{:d`",
+              "ipa": "ˈvæːɖ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "verdet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈærdə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "verda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{:$d`A",
+              "ipa": "ˈvæːɖɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "verdene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:$d`n`=$@",
+              "ipa": "ˈvæːɖɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e6ca8c9abf6f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6ca8c9abf6f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6ca8c9abf6f.mp3",
+            "text": "verd",
+            "source": "generated",
+            "content_sha256": "c9b70e186a2883f31ce85561c7a1a13ce16eae3b6211119fe4ae0f3f6922287e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "økonomisk verdi",
+      "translation": "economic value",
+      "examples": [
+        {
+          "no": "en eiendom uten verd",
+          "en": "a property without value"
+        }
+      ]
+    },
+    {
+      "text": "egenskap ved noe",
+      "translation": "quality of something",
+      "examples": [
+        {
+          "no": "opplysninger av stort verd",
+          "en": "information of great value"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 315,
+  "lemmas": [
+    {
+      "lemma": "afroamerikansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1100,
+      "is_sub_article": false,
+      "primary_translation": "African American",
+      "word_forms": [
+        {
+          "word_form": "afroamerikansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$frU$A$m@$rI$%kA:nsk",
+              "ipa": "ˈɑːfrʊɑmərɪˌkɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "afroamerikanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$frU$A$m@$rI$%kA:n$sk@",
+              "ipa": "ˈɑːfrʊɑmərɪˌkɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "742ff93a4250.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/742ff93a4250.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/742ff93a4250.mp3",
+            "text": "afroamerikansk",
+            "source": "generated",
+            "content_sha256": "7c23563316daca444c84aeeaf2b43f2bbcd92a749c0154610fc4753f5b6cbfcd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller er særmerkt for afroamerikanere",
+      "translation": "concerning or characteristic of African Americans",
+      "examples": [
+        {
+          "no": "afroamerikansk litteratur",
+          "en": "African American literature"
+        }
+      ]
+    }
+  ]
+}

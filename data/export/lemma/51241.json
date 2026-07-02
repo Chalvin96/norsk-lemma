@@ -1,0 +1,135 @@
+{
+  "source_article_id": 51241,
+  "lemmas": [
+    {
+      "lemma": "shipping",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 58946,
+      "is_sub_article": false,
+      "primary_translation": "shipping industry",
+      "word_forms": [
+        {
+          "word_form": "shipping",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SI$pIN",
+              "ipa": "ˈʃɪpɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "shippingen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SI$pIN$@n",
+              "ipa": "ˈʃɪpɪŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "shippinger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈɪpɪŋər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "shippingene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈɪpɪŋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e99857e00d5d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e99857e00d5d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e99857e00d5d.mp3",
+            "text": "shipping",
+            "source": "generated",
+            "content_sha256": "2359970ffcb2392d39f23d7f28250f45e3bc011420ed2199f35af6d8758c2466",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fraktfart- og rederivirksomhet",
+      "translation": "freight transport and shipping company business",
+      "examples": []
+    },
+    {
+      "text": "sjøfartsnæring",
+      "translation": "maritime industry",
+      "examples": [
+        {
+          "no": "gode tider for shipping",
+          "en": "good times for shipping"
+        },
+        {
+          "no": "arbeide i shipping",
+          "en": "work in shipping"
+        }
+      ]
+    }
+  ]
+}

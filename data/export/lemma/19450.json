@@ -1,0 +1,116 @@
+{
+  "source_article_id": 19450,
+  "lemmas": [
+    {
+      "lemma": "generativ",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22726,
+      "is_sub_article": false,
+      "primary_translation": "generative",
+      "word_forms": [
+        {
+          "word_form": "generativ",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gE$n@$rA$tIv",
+              "ipa": "ˈgɛnərɑtɪv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "generative",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gE$n@$rA$tI$v@",
+              "ipa": "ˈgɛnərɑtɪvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "generativt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gE$n@$rA$tIvt",
+              "ipa": "ˈgɛnərɑtɪvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f64dde1b4919.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f64dde1b4919.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f64dde1b4919.mp3",
+            "text": "generativ",
+            "source": "generated",
+            "content_sha256": "ffcad349428a287d4556308b5fa68c5cd8ddeb1cd9c16145fe8c7100fc7cb836",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder forplantning",
+      "translation": "relating to reproduction",
+      "examples": [
+        {
+          "no": "generativ formering",
+          "en": "generative reproduction"
+        }
+      ]
+    },
+    {
+      "text": "med skapende kraft eller egenskaper",
+      "translation": "having creative power or qualities",
+      "examples": [
+        {
+          "no": "generative kunstneriske prosesser",
+          "en": "generative artistic processes"
+        }
+      ]
+    }
+  ]
+}

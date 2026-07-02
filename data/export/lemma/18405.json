@@ -1,0 +1,169 @@
+{
+  "source_article_id": 18405,
+  "lemmas": [
+    {
+      "lemma": "funksjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 21524,
+      "is_sub_article": false,
+      "primary_translation": "function / operation",
+      "word_forms": [
+        {
+          "word_form": "funksjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fu0N$\"Su:n",
+              "ipa": "fʉŋˈʃuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "funksjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fu0N$\"Su:$nn=",
+              "ipa": "fʉŋˈʃuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "funksjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fu0N$\"Su:$n@r",
+              "ipa": "fʉŋˈʃuːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "funksjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fu0N$\"Su:$nn=$@",
+              "ipa": "fʉŋˈʃuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f79e1bfb850.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f79e1bfb850.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f79e1bfb850.mp3",
+            "text": "funksjon",
+            "source": "generated",
+            "content_sha256": "90abd4954a7abdef377b09fbd46cc0cda75c218c4d3608599586b9f616da2aa0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(evne til å utføre) oppgave eller arbeid",
+      "translation": "(ability to perform) a task or work",
+      "examples": []
+    },
+    {
+      "text": "virkemåte, gjøremål, tjeneste",
+      "translation": "mode of operation, task, service",
+      "examples": [
+        {
+          "no": "være ute av funksjon",
+          "en": "be out of order"
+        },
+        {
+          "no": "anlegget har flere funksjoner",
+          "en": "the facility has several functions"
+        },
+        {
+          "no": "hjernens funksjoner",
+          "en": "the brain's functions"
+        },
+        {
+          "no": "hvilken funksjon har den nederste knappen?",
+          "en": "what function does the bottom button have?"
+        }
+      ]
+    },
+    {
+      "text": "i matematikk: variabel størrelse som er avhengig av en annen størrelses verdi og endrer sin verdi i forhold til denne",
+      "translation": "in mathematics: a variable quantity that depends on the value of another quantity and changes its value in relation to it",
+      "examples": [
+        {
+          "no": "den totale mengden er en funksjon av tiden",
+          "en": "the total amount is a function of time"
+        }
+      ]
+    },
+    {
+      "text": "følge, konsekvens",
+      "translation": "consequence, result",
+      "examples": [
+        {
+          "no": "nåtiden er en funksjon av fortiden",
+          "en": "the present is a function of the past"
+        }
+      ]
+    },
+    {
+      "text": "i IT: operasjon eller handling en datamaskin eller et dataprogram kan utføre",
+      "translation": "in IT: an operation or action that a computer or computer program can perform",
+      "examples": [
+        {
+          "no": "det kommer stadig nye funksjoner på mobilen",
+          "en": "new features keep appearing on the phone"
+        }
+      ]
+    }
+  ]
+}

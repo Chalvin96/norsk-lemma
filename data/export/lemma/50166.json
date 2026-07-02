@@ -1,0 +1,106 @@
+{
+  "source_article_id": 50166,
+  "lemmas": [
+    {
+      "lemma": "sansbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57551,
+      "is_sub_article": false,
+      "primary_translation": "perceptible",
+      "word_forms": [
+        {
+          "word_form": "sansbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAns$%bA:r",
+              "ipa": "ˈsɑnsˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sansbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAns$%bA:$r@",
+              "ipa": "ˈsɑnsˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sansbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAns$%bA:t`",
+              "ipa": "ˈsɑnsˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d4bacb4fa3cd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4bacb4fa3cd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4bacb4fa3cd.mp3",
+            "text": "sansbar",
+            "source": "generated",
+            "content_sha256": "a4102e731976e4d9c9f3eea6af8e0e6b29f9dd7914495590ba8d3124567885d1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan sanses",
+      "translation": "that which can be sensed",
+      "examples": [
+        {
+          "no": "den sansbare virkeligheten",
+          "en": "the perceptible reality"
+        }
+      ]
+    }
+  ]
+}

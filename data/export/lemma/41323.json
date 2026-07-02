@@ -1,0 +1,87 @@
+{
+  "source_article_id": 41323,
+  "lemmas": [
+    {
+      "lemma": "nygift",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48308,
+      "is_sub_article": false,
+      "primary_translation": "newly married",
+      "word_forms": [
+        {
+          "word_form": "nygift",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%jIft",
+              "ipa": "ˈnyːˌjɪft",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nygifte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%jIf$t@",
+              "ipa": "ˈnyːˌjɪftə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d6f3daf34dc4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d6f3daf34dc4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d6f3daf34dc4.mp3",
+            "text": "nygift",
+            "source": "generated",
+            "content_sha256": "67396c0b0afe61568adcb3501ccd559d6a90e5b9822ab786dc6e1039ba80cd24",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som nettopp er blitt gift",
+      "translation": "who has just gotten married",
+      "examples": [
+        {
+          "no": "et nygift par",
+          "en": "a newlywed couple"
+        }
+      ]
+    }
+  ]
+}

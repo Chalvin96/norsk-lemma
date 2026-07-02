@@ -1,0 +1,102 @@
+{
+  "source_article_id": 107023,
+  "lemmas": [
+    {
+      "lemma": "tektonisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 145566,
+      "is_sub_article": false,
+      "primary_translation": "tectonic",
+      "word_forms": [
+        {
+          "word_form": "tektonisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "təktˈuːnɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tektoniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@k$\"tu:$nI$sk@",
+              "ipa": "təkˈtuːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f6ec3481765c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f6ec3481765c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f6ec3481765c.mp3",
+            "text": "tektonisk",
+            "source": "generated",
+            "content_sha256": "07398353e2c091ab362172ce567bf09187469e9fff3f290defc4c06eab847b49"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller har sammenheng med oppbygging, bevegelse og utvikling av jordskorpa",
+      "translation": "relating to or connected with the formation, movement, and development of the Earth's crust",
+      "examples": [
+        {
+          "no": "tektonisk bevegelse",
+          "en": "tectonic movement"
+        },
+        {
+          "no": "tektoniske endringer i jordskorpa",
+          "en": "tectonic changes in the earth's crust"
+        }
+      ]
+    },
+    {
+      "text": "i arkitektur og kunst: som gjelder formgiving der en bevisst smelter sammen de enkelte leddene til en helhet",
+      "translation": "in architecture and art: relating to design where individual parts are consciously merged into a whole",
+      "examples": [
+        {
+          "no": "arbeidene hans har en tektonisk form",
+          "en": "his works have a tectonic form"
+        }
+      ]
+    }
+  ]
+}

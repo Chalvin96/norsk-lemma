@@ -1,0 +1,106 @@
+{
+  "source_article_id": 31019,
+  "lemmas": [
+    {
+      "lemma": "komparabel",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 36530,
+      "is_sub_article": false,
+      "primary_translation": "comparable",
+      "word_forms": [
+        {
+          "word_form": "komparabel",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUm$pA$\"rA:$b@l",
+              "ipa": "kʊmpɑˈrɑːbəl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "komparable",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUm$pA$\"rA:$bl@",
+              "ipa": "kʊmpɑˈrɑːblə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "komparabelt",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUm$pA$\"rA:$b@lt",
+              "ipa": "kʊmpɑˈrɑːbəlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d6f30489dda0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d6f30489dda0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d6f30489dda0.mp3",
+            "text": "komparabel",
+            "source": "generated",
+            "content_sha256": "c6212e4df1eddf7032022e3444782740b7787effd960563d2714ef78df9bde37",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan sammenlignes",
+      "translation": "that can be compared",
+      "examples": [
+        {
+          "no": "komparable størrelser",
+          "en": "comparable quantities"
+        }
+      ]
+    }
+  ]
+}

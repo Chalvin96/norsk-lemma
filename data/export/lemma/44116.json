@@ -1,0 +1,151 @@
+{
+  "source_article_id": 44116,
+  "lemmas": [
+    {
+      "lemma": "paradoks",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 51078,
+      "is_sub_article": false,
+      "primary_translation": "paradox",
+      "word_forms": [
+        {
+          "word_form": "paradoks",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"dOks",
+              "ipa": "pɑrɑˈdɔks",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "paradokset",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"dOk$s@",
+              "ipa": "pɑrɑˈdɔksə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "paradoksa",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"dOk$sA",
+              "ipa": "pɑrɑˈdɔksɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "paradokser",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"dOk$s@r",
+              "ipa": "pɑrɑˈdɔksər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "paradoksene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$\"dOk$sn=$@",
+              "ipa": "pɑrɑˈdɔksn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cf95246bb746.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf95246bb746.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf95246bb746.mp3",
+            "text": "paradoks",
+            "source": "generated",
+            "content_sha256": "960bdd41766ea4cda6eeddfa5c6ef456810a25bd2dbfd911d6bac64cc86977a9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ytring, påstand eller lignende som virker urimelig og selvmotsigende, men likevel inneholder en sannhet",
+      "translation": "utterance, statement that seems unreasonable and self-contradictory, but nevertheless contains a truth",
+      "examples": []
+    },
+    {
+      "text": "tilsynelatende selvmotsigelse",
+      "translation": "apparent contradiction",
+      "examples": [
+        {
+          "no": "‘evig eies kun det tapte’ er et paradoks",
+          "en": "‘only what is lost is ours forever’ is a paradox"
+        },
+        {
+          "no": "det er et paradoks at vi har både overproduksjon av korn og matmangel",
+          "en": "it is a paradox that we have both overproduction of grain and food shortages"
+        }
+      ]
+    }
+  ]
+}

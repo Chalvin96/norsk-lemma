@@ -1,0 +1,126 @@
+{
+  "source_article_id": 910,
+  "lemmas": [
+    {
+      "lemma": "allmenntilstand",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1757,
+      "is_sub_article": false,
+      "primary_translation": "general state of health",
+      "word_forms": [
+        {
+          "word_form": "allmenntilstand",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Al$m@n$tIl$%stAn",
+              "ipa": "ˈɑlməntɪlˌstɑn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "allmenntilstanden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Al$m@n$tIl$%stA$nn=",
+              "ipa": "ˈɑlməntɪlˌstɑnn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "allmenntilstander",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑlməntɪlstˌɑnər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "allmenntilstandene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑlməntɪlstˌɑnn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "da8c075abf06.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/da8c075abf06.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/da8c075abf06.mp3",
+            "text": "allmenntilstand",
+            "source": "generated",
+            "content_sha256": "5f6dbf61ab15cfdcc5e75fe43a8236e54d387bdec40dce78f93210809cf2049d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "generell helsetilstand",
+      "translation": "general state of health",
+      "examples": [
+        {
+          "no": "pasienten greide påkjenningene godt på grunn av god allmenntilstand",
+          "en": "the patient handled the strain well because of good general health"
+        }
+      ]
+    }
+  ]
+}

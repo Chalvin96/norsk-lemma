@@ -1,0 +1,161 @@
+{
+  "source_article_id": 20,
+  "lemmas": [
+    {
+      "lemma": "abc",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 818,
+      "is_sub_article": false,
+      "primary_translation": "primer / textbook",
+      "word_forms": [
+        {
+          "word_form": "abc",
+          "tags_json": [
+            "Fem",
+            "m., f.",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "%A:$b@$\"se:",
+              "ipa": "ˌɑːbəˈseː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "abc-a",
+          "tags_json": [
+            "Fem",
+            "m., f.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˌɑːbeːsˈeːɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "abc-er",
+          "tags_json": [
+            "Fem",
+            "m., f.",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˌɑːbeːsˈeːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "abc-ene",
+          "tags_json": [
+            "Fem",
+            "m., f.",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˌɑːbeːsˈeːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "abc-en",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˌɑːbeːsˈeːən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "08a1a4ac37af.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08a1a4ac37af.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08a1a4ac37af.mp3",
+            "text": "abc",
+            "source": "generated",
+            "content_sha256": "cf73331ae225808629657d0d6c15ea6716f47b3abceccad801d455784748e822",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lærebok i staving og lesing",
+      "translation": "textbook for spelling and reading",
+      "examples": []
+    },
+    {
+      "text": "bok som inneholder elementære kunnskaper innenfor et fag eller emne",
+      "translation": "book containing elementary knowledge in a subject or topic",
+      "examples": [
+        {
+          "no": "abc for førerprøven",
+          "en": "an ABC of the driving test"
+        },
+        {
+          "no": "abc i matlaging",
+          "en": "an ABC of cooking"
+        }
+      ]
+    }
+  ]
+}

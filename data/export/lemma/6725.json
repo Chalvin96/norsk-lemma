@@ -1,0 +1,106 @@
+{
+  "source_article_id": 6725,
+  "lemmas": [
+    {
+      "lemma": "blåsur",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 7862,
+      "is_sub_article": false,
+      "primary_translation": "bluish-sour / grumpy",
+      "word_forms": [
+        {
+          "word_form": "blåsur",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$%s}:r",
+              "ipa": "ˈbloːˌsʉːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåsure",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$%s}:$r@",
+              "ipa": "ˈbloːˌsʉːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåsurt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$%s}:t`",
+              "ipa": "ˈbloːˌsʉːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "83ebb366098c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/83ebb366098c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/83ebb366098c.mp3",
+            "text": "blåsur",
+            "source": "generated",
+            "content_sha256": "e29de236c5d45c58f24216ed6f75c33f83a729c7c029207d8240a77a0695abdb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om melk: som er i ferd med å bli sur og har fått et blålig skjær",
+      "translation": "about milk: beginning to turn sour and has acquired a bluish tinge",
+      "examples": [
+        {
+          "no": "blåsure jenter",
+          "en": "sour-faced girls"
+        }
+      ]
+    }
+  ]
+}

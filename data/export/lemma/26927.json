@@ -1,0 +1,135 @@
+{
+  "source_article_id": 26927,
+  "lemmas": [
+    {
+      "lemma": "intensitet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 32030,
+      "is_sub_article": false,
+      "primary_translation": "intensity / strength",
+      "word_forms": [
+        {
+          "word_form": "intensitet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$t@n$sI$\"te:t",
+              "ipa": "ɪntənsɪˈteːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "intensiteten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$t@n$sI$\"te:$tn=",
+              "ipa": "ɪntənsɪˈteːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "intensiteter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪntənsɪtˈeːtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "intensitetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɪntənsɪtˈeːtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "087c32d93b13.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/087c32d93b13.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/087c32d93b13.mp3",
+            "text": "intensitet",
+            "source": "generated",
+            "content_sha256": "38adc2ba16c1b8d93fa3202e41a8f30c8b307e864fa762215f70fe6f78508664",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være intens",
+      "translation": "the state of being intense",
+      "examples": []
+    },
+    {
+      "text": "styrke, heftighet, energi",
+      "translation": "strength, vehemence, energy",
+      "examples": [
+        {
+          "no": "hun gikk løs på oppgavene med vanlig intensitet",
+          "en": "she tackled the tasks with her usual intensity"
+        },
+        {
+          "no": "intensiteten i kamphandlingene økte",
+          "en": "the intensity of the fighting increased"
+        }
+      ]
+    }
+  ]
+}

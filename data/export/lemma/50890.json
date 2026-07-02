@@ -1,0 +1,126 @@
+{
+  "source_article_id": 50890,
+  "lemmas": [
+    {
+      "lemma": "sengeplass",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 58572,
+      "is_sub_article": false,
+      "primary_translation": "sleeping accommodation",
+      "word_forms": [
+        {
+          "word_form": "sengeplass",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sEN$@$%plAs",
+              "ipa": "ˈsɛŋəˌplɑs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sengeplassen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sEN$@$%plA$sn=",
+              "ipa": "ˈsɛŋəˌplɑsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sengeplasser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sEN$@$%plA$s@r",
+              "ipa": "ˈsɛŋəˌplɑsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sengeplassene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sEN$@$%plA$sn=$@",
+              "ipa": "ˈsɛŋəˌplɑsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9894bcf37312.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9894bcf37312.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9894bcf37312.mp3",
+            "text": "sengeplass",
+            "source": "generated",
+            "content_sha256": "0251536083100dd0247325cffba1488446ab37c1e731455e7dd8d60c7cffefdc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "plass for overnatting",
+      "translation": "place for overnight stay",
+      "examples": [
+        {
+          "no": "hytta har godt med sengeplass",
+          "en": "the cabin has plenty of sleeping space"
+        },
+        {
+          "no": "et hotell med 80 sengeplasser",
+          "en": "a hotel with 80 beds"
+        }
+      ]
+    }
+  ]
+}

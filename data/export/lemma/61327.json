@@ -1,0 +1,69 @@
+{
+  "source_article_id": 61327,
+  "lemmas": [
+    {
+      "lemma": "tofags",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 70151,
+      "is_sub_article": false,
+      "primary_translation": "two-subject",
+      "word_forms": [
+        {
+          "word_form": "tofags",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tu:$%fA:gs",
+              "ipa": "ˈtuːˌfɑːgs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8d8abac9bb68.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d8abac9bb68.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d8abac9bb68.mp3",
+            "text": "tofags",
+            "source": "generated",
+            "content_sha256": "51d6b50b6c703a2f4981d01869b4b60065775b62ed430e1cb30dac735048bb0e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kombinerer to fag",
+      "translation": "combining two subjects",
+      "examples": [
+        {
+          "no": "et tofags studium",
+          "en": "an interdisciplinary course of study"
+        }
+      ]
+    }
+  ]
+}

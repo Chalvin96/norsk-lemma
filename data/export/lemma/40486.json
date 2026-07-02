@@ -1,0 +1,123 @@
+{
+  "source_article_id": 40486,
+  "lemmas": [
+    {
+      "lemma": "nedfall",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47390,
+      "is_sub_article": false,
+      "primary_translation": "fallout",
+      "word_forms": [
+        {
+          "word_form": "nedfall",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$%fAl",
+              "ipa": "ˈneːdˌfɑl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedfallet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$%fA$l@",
+              "ipa": "ˈneːdˌfɑlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedfallene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$%fA$ln=$@",
+              "ipa": "ˈneːdˌfɑln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nedfalla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ne:d$%fA$lA",
+              "ipa": "ˈneːdˌfɑlɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ddd46878f584.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddd46878f584.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddd46878f584.mp3",
+            "text": "nedfall",
+            "source": "generated",
+            "content_sha256": "b3609a3ddfc2cf7993fac38d25d46e485f029cc083a0e468ab0922a93da99f4f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe som faller ned",
+      "translation": "something that falls down",
+      "examples": [
+        {
+          "no": "radioaktivt nedfall",
+          "en": "radioactive fallout"
+        }
+      ]
+    }
+  ]
+}

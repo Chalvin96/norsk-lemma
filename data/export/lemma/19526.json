@@ -1,0 +1,91 @@
+{
+  "source_article_id": 19526,
+  "lemmas": [
+    {
+      "lemma": "geriatrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 22804,
+      "is_sub_article": false,
+      "primary_translation": "geriatric",
+      "word_forms": [
+        {
+          "word_form": "geriatrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "g@$rI$\"A:$trI$sk",
+              "ipa": "gərɪˈɑːtrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "geriatriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "g@$rI$\"A:$trI$sk@",
+              "ipa": "gərɪˈɑːtrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b8c60b5216cf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b8c60b5216cf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b8c60b5216cf.mp3",
+            "text": "geriatrisk",
+            "source": "generated",
+            "content_sha256": "1a35d6aa0872e8d5952c97e36d01a5d46845c9c99fecc00df9d229d343835216",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder geriatri",
+      "translation": "relating to geriatrics",
+      "examples": [
+        {
+          "no": "geriatrisk avdeling",
+          "en": "geriatric ward"
+        },
+        {
+          "no": "geriatrisk klinikk",
+          "en": "geriatric clinic"
+        }
+      ]
+    }
+  ]
+}

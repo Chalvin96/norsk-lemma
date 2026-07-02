@@ -1,0 +1,131 @@
+{
+  "source_article_id": 31843,
+  "lemmas": [
+    {
+      "lemma": "kov",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 37427,
+      "is_sub_article": false,
+      "primary_translation": "gust / snowfall / ice ridge / heavy breathing",
+      "word_forms": [
+        {
+          "word_form": "kov",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ko:v",
+              "ipa": "ˈkoːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kovet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈoːʋət",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kova",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɔʋɑ",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kovene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ko:$v@$n@",
+              "ipa": "ˈkoːvənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "77ac0354097b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77ac0354097b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77ac0354097b.mp3",
+            "text": "kov",
+            "source": "generated",
+            "content_sha256": "29091161d6a46cc6c8a0639989985ffdd61c205c29e0d1d1704bae807393da50",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tett snødrev",
+      "translation": "gust, squall",
+      "examples": []
+    },
+    {
+      "text": "issvull i bekk",
+      "translation": "ice ridge in a stream",
+      "examples": []
+    },
+    {
+      "text": "tung pust",
+      "translation": "heavy breathing",
+      "examples": []
+    }
+  ]
+}

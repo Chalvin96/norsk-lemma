@@ -1,0 +1,131 @@
+{
+  "source_article_id": 69072,
+  "lemmas": [
+    {
+      "lemma": "vott",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 79715,
+      "is_sub_article": false,
+      "primary_translation": "mitten",
+      "word_forms": [
+        {
+          "word_form": "vott",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vOt",
+              "ipa": "ˈvɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "votten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vO$tn=",
+              "ipa": "ˈvɔtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "votter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vO$t@r",
+              "ipa": "ˈvɔtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vottene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vO$tn=$@",
+              "ipa": "ˈvɔtn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d3754ecdba6f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d3754ecdba6f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d3754ecdba6f.mp3",
+            "text": "vott",
+            "source": "generated",
+            "content_sha256": "bc51169bf24108ca5661c0cda58068cfb5629622f518ca97558445f7cd06c6a2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "håndplagg med eget rom til tommelfingeren og felles rom til de andre fire fingrene",
+      "translation": "hand garment with a separate compartment for the thumb and a common compartment for the other four fingers",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra vante og hanske",
+      "translation": "mitten and glove",
+      "examples": [
+        {
+          "no": "kjøpe et par votter",
+          "en": "buy a pair of mittens"
+        },
+        {
+          "no": "strikke votter",
+          "en": "knit mittens"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source_article_id": 20899,
+  "lemmas": [
+    {
+      "lemma": "gresk-katolsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 24412,
+      "is_sub_article": false,
+      "primary_translation": "Greek Catholic",
+      "word_forms": [
+        {
+          "word_form": "gresk-katolsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gre:$skkA$%tu:lsk",
+              "ipa": "ˈgreːskkɑˌtuːlsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gresk-katolske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gre:$skkA$%tu:l$sk@",
+              "ipa": "ˈgreːskkɑˌtuːlskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "75549ac4c8d2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75549ac4c8d2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/75549ac4c8d2.mp3",
+            "text": "gresk-katolsk",
+            "source": "generated",
+            "content_sha256": "1952690ffd7a43cdbeb8fe75f9734c3d22dac00d47d023b7c51ef8703813e0fd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder den katolske kirken med gresk-ortodoks liturgi",
+      "translation": "relating to the Catholic Church with Greek Orthodox liturgy",
+      "examples": []
+    }
+  ]
+}

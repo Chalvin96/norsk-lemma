@@ -1,0 +1,127 @@
+{
+  "source_article_id": 26869,
+  "lemmas": [
+    {
+      "lemma": "instruks",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 31970,
+      "is_sub_article": false,
+      "primary_translation": "instruction / order / prompt",
+      "word_forms": [
+        {
+          "word_form": "instruks",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$\"stru0ks",
+              "ipa": "ɪnˈstrʉks",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "instruksen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$\"stru0k$sn=",
+              "ipa": "ɪnˈstrʉksn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "instrukser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$\"stru0k$s@r",
+              "ipa": "ɪnˈstrʉksər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "instruksene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$\"stru0k$sn=$@",
+              "ipa": "ɪnˈstrʉksn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "792fbab59033.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/792fbab59033.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/792fbab59033.mp3",
+            "text": "instruks",
+            "source": "generated",
+            "content_sha256": "841114d28bf4031cdf844c854a7c51003833bcf86f31d4f4625f9a882b13ed31",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i IT: kort tekst eller kommando som en gir til et digitalt program for å utløse en ønsket respons",
+      "translation": "in IT: a short text or command given to a digital program to trigger a desired response",
+      "examples": []
+    },
+    {
+      "text": "ledetekst, prompt",
+      "translation": "prompt",
+      "examples": [
+        {
+          "no": "for å ha nytte av kunstig intelligens må du gi gode instrukser",
+          "en": "to benefit from artificial intelligence, you need to give good prompts"
+        }
+      ]
+    }
+  ]
+}

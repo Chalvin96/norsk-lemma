@@ -1,0 +1,283 @@
+{
+  "source_article_id": 9074,
+  "lemmas": [
+    {
+      "lemma": "dag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10729,
+      "is_sub_article": false,
+      "primary_translation": "day",
+      "word_forms": [
+        {
+          "word_form": "dag",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:g",
+              "ipa": "ˈdɑːg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$g@n",
+              "ipa": "ˈdɑːgən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$g@r",
+              "ipa": "ˈdɑːgər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dA:$g@$n@",
+              "ipa": "ˈdɑːgənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f1226a646af.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f1226a646af.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f1226a646af.mp3",
+            "text": "dag",
+            "source": "generated",
+            "content_sha256": "f31b23f5ea9fc12927b5dafed0f46f627a0134665b454a66fb061f307d4343e4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "del av døgnet da det er lyst",
+      "translation": "part of the 24-hour period when it is light",
+      "examples": [
+        {
+          "no": "dag og natt",
+          "en": "day and night"
+        },
+        {
+          "no": "midt på lyse dagen",
+          "en": "in broad daylight"
+        },
+        {
+          "no": "dagen gryr",
+          "en": "day is breaking"
+        },
+        {
+          "no": "arbeide mens det er dag",
+          "en": "work while it is day"
+        }
+      ]
+    },
+    {
+      "text": "brukt i hilsen",
+      "translation": "used in greetings",
+      "examples": [
+        {
+          "no": "god dag!",
+          "en": "good day!"
+        },
+        {
+          "no": "ha en fin dag!",
+          "en": "have a nice day!"
+        },
+        {
+          "no": "arbeide halv dag",
+          "en": "work a half day"
+        },
+        {
+          "no": "være ferdig for dagen",
+          "en": "be done for the day"
+        }
+      ]
+    },
+    {
+      "text": "døgn som tidsrom",
+      "translation": "24-hour period as a duration",
+      "examples": [
+        {
+          "no": "for tre dager siden",
+          "en": "three days ago"
+        },
+        {
+          "no": "om 14 dager",
+          "en": "in 14 days"
+        },
+        {
+          "no": "året har 365 dager",
+          "en": "the year has 365 days"
+        }
+      ]
+    },
+    {
+      "text": "døgn som tidspunkt",
+      "translation": "24-hour period as a point in time",
+      "examples": []
+    },
+    {
+      "text": "dato",
+      "translation": "date",
+      "examples": [
+        {
+          "no": "hver dag",
+          "en": "every day"
+        },
+        {
+          "no": "neste dag",
+          "en": "the next day"
+        },
+        {
+          "no": "i dag",
+          "en": "today"
+        }
+      ]
+    },
+    {
+      "text": "brukt om ubestemt tidsangivelse",
+      "translation": "used for an indefinite time indication",
+      "examples": [
+        {
+          "no": "en svart dag",
+          "en": "a black day"
+        },
+        {
+          "no": "en dag hendte det at …",
+          "en": "one day it happened that ..."
+        },
+        {
+          "no": "en vakker dag er alt slutt",
+          "en": "one fine day it's all over"
+        },
+        {
+          "no": "her en dag",
+          "en": "the other day"
+        }
+      ]
+    },
+    {
+      "text": "tid akkurat nå",
+      "translation": "time right now",
+      "examples": [
+        {
+          "no": "dagens tilbud",
+          "en": "today's offer"
+        },
+        {
+          "no": "dagens rett",
+          "en": "dish of the day"
+        },
+        {
+          "no": "dagens ungdom",
+          "en": "today's youth"
+        },
+        {
+          "no": "dagen i dag",
+          "en": "the present day"
+        }
+      ]
+    },
+    {
+      "text": "i flertall: brukt om tidsrom",
+      "translation": "in: used for a period of time",
+      "examples": [
+        {
+          "no": "i våre dager",
+          "en": "in our day"
+        },
+        {
+          "no": "i gamle dager",
+          "en": "in the old days"
+        },
+        {
+          "no": "leve herrens glade dager",
+          "en": "live the good life"
+        },
+        {
+          "no": "det kommer dager etter disse",
+          "en": "there are days to come after these"
+        }
+      ]
+    },
+    {
+      "text": "i flertall: liv, levetid",
+      "translation": "in plural: life, lifetime",
+      "examples": [
+        {
+          "no": "han er blitt pratsom på sine gamle dager",
+          "en": "he has become talkative in his old age"
+        }
+      ]
+    },
+    {
+      "text": "brukt som etterledd i flertall i navn på arrangement eller kampanje som varer i minst to dager",
+      "translation": "used as a suffix in names of events or campaigns lasting at least two days",
+      "examples": [
+        {
+          "no": "Oslodagene",
+          "en": "the Oslo Days"
+        }
+      ]
+    }
+  ]
+}

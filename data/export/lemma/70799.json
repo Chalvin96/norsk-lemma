@@ -1,0 +1,132 @@
+{
+  "source_article_id": 70799,
+  "lemmas": [
+    {
+      "lemma": "tanketom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 145074,
+      "is_sub_article": false,
+      "primary_translation": "thoughtless / banal",
+      "word_forms": [
+        {
+          "word_form": "tanketom",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑːŋkətˌum",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tanketomme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑːŋkətˌɔmə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tanketomt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑːŋkətˌumt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e9c4c6c2c3b8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9c4c6c2c3b8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9c4c6c2c3b8.mp3",
+            "text": "tanketom",
+            "source": "generated",
+            "content_sha256": "97f0c52596065b72c8bf052ce45779c7c311efd388e710a2b4976da126542e3f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten tegn på tankevirksomhet",
+      "translation": "without signs of thought activity",
+      "examples": [
+        {
+          "no": "et tanketomt uttrykk",
+          "en": "a vacant expression"
+        }
+      ]
+    },
+    {
+      "text": "banal, intetsigende, enfoldig",
+      "translation": "banal, meaningless, simple-minded",
+      "examples": [
+        {
+          "no": "tanketomme uttalelser",
+          "en": "thoughtless statements"
+        }
+      ]
+    },
+    {
+      "text": "som ikke fordrer mye tankevirksomhet",
+      "translation": "requiring little thought activity",
+      "examples": [
+        {
+          "no": "tanketom tidtrøyte",
+          "en": "mindless pastime"
+        },
+        {
+          "no": "et tanketomt og underholdende tv-program",
+          "en": "a mindless and entertaining TV program"
+        }
+      ]
+    }
+  ]
+}

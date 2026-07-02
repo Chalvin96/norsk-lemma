@@ -1,0 +1,177 @@
+{
+  "source_article_id": 4012,
+  "lemmas": [
+    {
+      "lemma": "bad",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 4780,
+      "is_sub_article": false,
+      "primary_translation": "bath / bathroom / spa / accumulation",
+      "word_forms": [
+        {
+          "word_form": "bad",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:d",
+              "ipa": "ˈbɑːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "badet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:$d@",
+              "ipa": "ˈbɑːdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bada",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:$dA",
+              "ipa": "ˈbɑːdɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "badene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bA:$dn=$@",
+              "ipa": "ˈbɑːdn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6e72ba06c789.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e72ba06c789.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e72ba06c789.mp3",
+            "text": "bad",
+            "source": "generated",
+            "content_sha256": "9b3ccdd56cf7697790145d8008a47b508240ef2428f3909f764dcb6384f45e3f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å bade",
+      "translation": "the act of bathing",
+      "examples": [
+        {
+          "no": "ta seg et bad",
+          "en": "take a bath"
+        },
+        {
+          "no": "et ufrivillig bad",
+          "en": "an involuntary bath"
+        }
+      ]
+    },
+    {
+      "text": "væske som en bader noe i",
+      "translation": "liquid in which something is bathed",
+      "examples": [
+        {
+          "no": "varmt bad",
+          "en": "hot bath"
+        },
+        {
+          "no": "elektrolytisk bad",
+          "en": "electrolytic bath"
+        },
+        {
+          "no": "leiligheten har nyoppusset bad",
+          "en": "the apartment has a newly renovated bathroom"
+        },
+        {
+          "no": "være på badet",
+          "en": "be in the bathroom"
+        }
+      ]
+    },
+    {
+      "text": "badested, spa",
+      "translation": "bathing resort, spa",
+      "examples": [
+        {
+          "no": "ta en kur ved et bad",
+          "en": "take a cure at a spa"
+        },
+        {
+          "no": "et offentlig bad",
+          "en": "a public bath"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: stor mengde, ansamling",
+      "translation": "in a figurative sense: large quantity, accumulation",
+      "examples": [
+        {
+          "no": "et bad av lys",
+          "en": "a bath of light"
+        },
+        {
+          "no": "den lå i et bad av fløte og ost",
+          "en": "it lay in a bath of cream and cheese"
+        }
+      ]
+    }
+  ]
+}

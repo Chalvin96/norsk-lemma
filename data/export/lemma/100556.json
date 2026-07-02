@@ -1,0 +1,133 @@
+{
+  "source_article_id": 100556,
+  "lemmas": [
+    {
+      "lemma": "romani",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 56036,
+      "is_sub_article": false,
+      "primary_translation": "Romani language",
+      "word_forms": [
+        {
+          "word_form": "romani",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rU$mA$nI",
+              "ipa": "ˈrʊmɑnɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "romanien",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rU$mA$nI$@n",
+              "ipa": "ˈrʊmɑnɪən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "romanier",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈumɑnɪər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "romaniene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈumɑnɪənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b5a56c89369d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b5a56c89369d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b5a56c89369d.mp3",
+            "text": "romani",
+            "source": "generated",
+            "content_sha256": "03dfde0f22f6d419f10a29ba763f17365fa5be90753e97982acd1279662940d3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språk hovedsakelig brukt av det skandinaviske romanifolket, og som har trekk fra skandinaviske språk i tillegg til en kjerne av indoarisk ord",
+      "translation": "language spoken mainly by the Scandinavian Roma people, with features from Scandinavian languages in addition to a core of Indo-Aryan words",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra romanes",
+      "translation": "Romani",
+      "examples": [
+        {
+          "no": "snakke norsk romani",
+          "en": "speak Norwegian Romani"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_article_id": 132604,
+  "lemmas": [
+    {
+      "lemma": "treningstur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 148245,
+      "is_sub_article": false,
+      "primary_translation": "training trip",
+      "word_forms": [
+        {
+          "word_form": "treningstur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$nIN$%st}:r",
+              "ipa": "ˈtreːnɪŋˌstʉːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "treningsturen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈeːnɪŋstˌʉːɳ̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "treningsturer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$nIN$%st}:$r@r",
+              "ipa": "ˈtreːnɪŋˌstʉːrər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "treningsturene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$nIN$%st}:$n`=$@",
+              "ipa": "ˈtreːnɪŋˌstʉːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cf6543cfa1f0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf6543cfa1f0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf6543cfa1f0.mp3",
+            "text": "treningstur",
+            "source": "generated",
+            "content_sha256": "079828caabec2e1e3503901a445c7611f5693ecc3fa70452f273c0ba768021ea",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tur en tar for å trene",
+      "translation": "a trip taken for training",
+      "examples": [
+        {
+          "no": "jogge en treningstur rundt vannet",
+          "en": "go for a training run around the lake"
+        },
+        {
+          "no": "utøveren har som regel flere treningsturer om dagen",
+          "en": "the athlete usually has several training runs a day"
+        }
+      ]
+    }
+  ]
+}

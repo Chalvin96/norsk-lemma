@@ -1,0 +1,132 @@
+{
+  "source_article_id": 7262,
+  "lemmas": [
+    {
+      "lemma": "brannalarm",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 8543,
+      "is_sub_article": false,
+      "primary_translation": "fire alarm",
+      "word_forms": [
+        {
+          "word_form": "brannalarm",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brA$nA$%lArm",
+              "ipa": "ˈbrɑnɑˌlɑrm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "brannalarmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brA$nA$%lAr$m@n",
+              "ipa": "ˈbrɑnɑˌlɑrmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "brannalarmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brA$nA$%lAr$m@r",
+              "ipa": "ˈbrɑnɑˌlɑrmər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "brannalarmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brA$nA$%lAr$m@$n@",
+              "ipa": "ˈbrɑnɑˌlɑrmənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dd8cf8189a47.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd8cf8189a47.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dd8cf8189a47.mp3",
+            "text": "brannalarm",
+            "source": "generated",
+            "content_sha256": "30a84b83b04b884215e24f0b357aea92a4a05684038e87eff0e1badcdb19b25e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "alarmsignal som varsler brann",
+      "translation": "alarm signal that warns of fire",
+      "examples": [
+        {
+          "no": "brannalarmen gikk i bygården",
+          "en": "the fire alarm went off in the apartment building"
+        }
+      ]
+    },
+    {
+      "text": "innretning som utløser alarmsignal ved brann",
+      "translation": "device that triggers an alarm signal in case of fire",
+      "examples": [
+        {
+          "no": "knuse dekselet til brannalarmen",
+          "en": "break the cover of the fire alarm"
+        }
+      ]
+    }
+  ]
+}

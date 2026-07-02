@@ -1,0 +1,91 @@
+{
+  "source_article_id": 13537,
+  "lemmas": [
+    {
+      "lemma": "fabrikkmessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15730,
+      "is_sub_article": false,
+      "primary_translation": "factory-made",
+      "word_forms": [
+        {
+          "word_form": "fabrikkmessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brIk$%mE$sI",
+              "ipa": "fɑˈbrɪkˌmɛsɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fabrikkmessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"brIk$%mE$sI$@",
+              "ipa": "fɑˈbrɪkˌmɛsɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0e52e1a81e8a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0e52e1a81e8a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0e52e1a81e8a.mp3",
+            "text": "fabrikkmessig",
+            "source": "generated",
+            "content_sha256": "d04e0b4ba5f76ffab562f94bb9abf3ed5ef8185e0ac571283a9a991604564642",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(produsert eller gjort) som i en fabrikk",
+      "translation": "produced or done in a factory",
+      "examples": [
+        {
+          "no": "fabrikkmessig drift",
+          "en": "industrial operation"
+        },
+        {
+          "no": "fabrikkmessig husdyrhold",
+          "en": "industrial livestock farming"
+        }
+      ]
+    }
+  ]
+}

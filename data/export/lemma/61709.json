@@ -1,0 +1,101 @@
+{
+  "source_article_id": 61709,
+  "lemmas": [
+    {
+      "lemma": "trafikkfarlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 70584,
+      "is_sub_article": false,
+      "primary_translation": "traffic hazard",
+      "word_forms": [
+        {
+          "word_form": "trafikkfarlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$\"fIk$%fA:$l`I",
+              "ipa": "trɑˈfɪkˌfɑːɭɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "trafikkfarlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$\"fIk$%fA:$l`I$@",
+              "ipa": "trɑˈfɪkˌfɑːɭɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "526e032918c7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/526e032918c7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/526e032918c7.mp3",
+            "text": "trafikkfarlig",
+            "source": "generated",
+            "content_sha256": "1b71610f2d23fa357fbab7381ed4a8f2daa5bbce20e5e1e9bfa259deea08857b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har farlig trafikk",
+      "translation": "having dangerous traffic",
+      "examples": [
+        {
+          "no": "en trafikkfarlig skolevei",
+          "en": "a dangerous route to school"
+        }
+      ]
+    },
+    {
+      "text": "som er en fare i trafikken",
+      "translation": "being a danger in traffic",
+      "examples": [
+        {
+          "no": "gamle, trafikkfarlige biler",
+          "en": "old cars that are dangerous in traffic"
+        },
+        {
+          "no": "en trafikkfarlig situasjon",
+          "en": "a traffic-dangerous situation"
+        }
+      ]
+    }
+  ]
+}

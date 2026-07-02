@@ -1,0 +1,95 @@
+{
+  "source_article_id": 35440,
+  "lemmas": [
+    {
+      "lemma": "livat",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41208,
+      "is_sub_article": false,
+      "primary_translation": "lively / cheerful",
+      "word_forms": [
+        {
+          "word_form": "livat",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"li:$vAt",
+              "ipa": "ˈlɪːvɑt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "livate",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"li:$vA$t@",
+              "ipa": "ˈlɪːvɑtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b405643d3aab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b405643d3aab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b405643d3aab.mp3",
+            "text": "livat",
+            "source": "generated",
+            "content_sha256": "b5b2ca3b3a61c478e866976567794f26202f1c9c311118dda4dea190aaaf1e92",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "livlig, kvikk, lystig",
+      "translation": "lively, brisk, cheerful",
+      "examples": [
+        {
+          "no": "en livat jente",
+          "en": "a lively girl"
+        },
+        {
+          "no": "en livat fest",
+          "en": "a lively party"
+        },
+        {
+          "no": "det gikk livat for seg",
+          "en": "things got lively"
+        }
+      ]
+    }
+  ]
+}

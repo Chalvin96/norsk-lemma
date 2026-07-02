@@ -1,0 +1,132 @@
+{
+  "source_article_id": 44032,
+  "lemmas": [
+    {
+      "lemma": "pant",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 50988,
+      "is_sub_article": false,
+      "primary_translation": "deposit / refund",
+      "word_forms": [
+        {
+          "word_form": "pant",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pAnt",
+              "ipa": "ˈpɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "panten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pAn$tn=",
+              "ipa": "ˈpɑntn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "panter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pAn$t@r",
+              "ipa": "ˈpɑntər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "pantene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pAn$tn=$@",
+              "ipa": "ˈpɑntn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c96cbc40e944.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c96cbc40e944.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c96cbc40e944.mp3",
+            "text": "pant",
+            "source": "generated",
+            "content_sha256": "7eb6d4ab6582a537499d7378efed8b53e3610a5df737acff265d381a6659b3ad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fast tillegg i prisen for en vare som kjøper får refundert når varen (eller emballasjen) leveres tilbake",
+      "translation": "fixed addition to the price of a product that the buyer gets refunded when the product (or packaging) is returned",
+      "examples": [
+        {
+          "no": "på store flasker er panten tre kroner",
+          "en": "on large bottles, the deposit is three kroner"
+        }
+      ]
+    },
+    {
+      "text": "noe en kan få pant tilbake for",
+      "translation": "something that can be returned for a refund",
+      "examples": [
+        {
+          "no": "hun gikk i butikken med panten",
+          "en": "she went to the store with the returnables"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "source_article_id": 28161,
+  "lemmas": [
+    {
+      "lemma": "kaffe",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 33363,
+      "is_sub_article": false,
+      "primary_translation": "coffee (beans / drink / portion / social gathering)",
+      "word_forms": [
+        {
+          "word_form": "kaffe",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$f@",
+              "ipa": "ˈkɑfə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kaffen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$f@n",
+              "ipa": "ˈkɑfən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kaffer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kA$f@r",
+              "ipa": "ˈkɑfər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kaffene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑfənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "418cf1b3664f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/418cf1b3664f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/418cf1b3664f.mp3",
+            "text": "kaffe",
+            "source": "generated",
+            "content_sha256": "f490421e557507b8ff4368d07502e1b3e1c275643af0f3e61e61d3d3b82758f6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(hele eller malte) bønner av kaffetreet",
+      "translation": "ground beans of the coffee tree",
+      "examples": [
+        {
+          "no": "rå kaffe",
+          "en": "raw coffee"
+        },
+        {
+          "no": "brent kaffe",
+          "en": "roasted coffee"
+        },
+        {
+          "no": "male kaffe",
+          "en": "grind coffee"
+        }
+      ]
+    },
+    {
+      "text": "drikk av brent kaffe og kokende vann",
+      "translation": "drink made from roasted coffee and boiling water",
+      "examples": [
+        {
+          "no": "trakte kaffe",
+          "en": "brew coffee"
+        },
+        {
+          "no": "kan du koke kaffe til oss?",
+          "en": "can you make us some coffee?"
+        },
+        {
+          "no": "drikke kaffe med fløte og sukker",
+          "en": "drink coffee with cream and sugar"
+        },
+        {
+          "no": "kaffe og kaker",
+          "en": "coffee and cakes"
+        }
+      ]
+    },
+    {
+      "text": "porsjon med kaffe",
+      "translation": "portion of coffee",
+      "examples": [
+        {
+          "no": "bestille to kaffe på kafé",
+          "en": "order two coffees at a cafe"
+        }
+      ]
+    },
+    {
+      "text": "lettere måltid (for eksempel småkaker) med kaffe til",
+      "translation": "light meal (e.g. cookies) with coffee",
+      "examples": [
+        {
+          "no": "be noen til kaffe",
+          "en": "invite someone over for coffee"
+        }
+      ]
+    }
+  ]
+}

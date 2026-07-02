@@ -1,0 +1,154 @@
+{
+  "source_article_id": 109727,
+  "lemmas": [
+    {
+      "lemma": "bindingstid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 90445,
+      "is_sub_article": false,
+      "primary_translation": "lock-in period",
+      "word_forms": [
+        {
+          "word_form": "bindingstid",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$nIN$%sti:d",
+              "ipa": "ˈbɪnɪŋˌstɪːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bindingstiden",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$nIN$%sti:$dn=",
+              "ipa": "ˈbɪnɪŋˌstɪːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bindingstider",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɪnɪŋstˌiːdər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bindingstidene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɪnɪŋstˌiːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bindingstida",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈɪnɪŋstˌiːɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3b75f558c931.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3b75f558c931.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3b75f558c931.mp3",
+            "text": "bindingstid",
+            "source": "generated",
+            "content_sha256": "a44c2f628ff76e62d885ca821bd36d11da086d98c92c54c6a9a64d12b953611c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tid da kontrakt ikke kan oppheves",
+      "translation": "period during which a contract cannot be terminated",
+      "examples": [
+        {
+          "no": "lån med bindingstid på tre år",
+          "en": "a loan with a three-year lock-in period"
+        },
+        {
+          "no": "et abonnement med seks måneders bindingstid",
+          "en": "a subscription with a six-month lock-in period"
+        }
+      ]
+    }
+  ]
+}

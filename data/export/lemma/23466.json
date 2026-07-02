@@ -1,0 +1,128 @@
+{
+  "source_article_id": 23466,
+  "lemmas": [
+    {
+      "lemma": "hete",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 27663,
+      "is_sub_article": false,
+      "primary_translation": "intense heat",
+      "word_forms": [
+        {
+          "word_form": "hete",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"he:$t@",
+              "ipa": "ˈheːtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "heten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"he:$tn=",
+              "ipa": "ˈheːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "heter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"he:$t@r",
+              "ipa": "ˈheːtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈeːtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "624d07a719a0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/624d07a719a0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/624d07a719a0.mp3",
+            "text": "hete",
+            "source": "generated",
+            "content_sha256": "9562f9da92d30b2e1ac3580e1de6e45d704641b37738c433757c2fa5f49d64be",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sterk varme",
+      "translation": "intense heat",
+      "examples": [
+        {
+          "no": "heten fra ovnen",
+          "en": "the heat from the oven"
+        },
+        {
+          "no": "midt på dagen var heten plagsom",
+          "en": "the heat was oppressive in the middle of the day"
+        }
+      ]
+    }
+  ]
+}

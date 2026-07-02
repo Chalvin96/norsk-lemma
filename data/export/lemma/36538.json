@@ -1,0 +1,131 @@
+{
+  "source_article_id": 36538,
+  "lemmas": [
+    {
+      "lemma": "magi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 42908,
+      "is_sub_article": false,
+      "primary_translation": "magic / enchantment",
+      "word_forms": [
+        {
+          "word_form": "magi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"gi:",
+              "ipa": "mɑˈgɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "magien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"gi:$@n",
+              "ipa": "mɑˈgɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "magier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑgˈiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "magiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɑgˈiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "edb2e772fed9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/edb2e772fed9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/edb2e772fed9.mp3",
+            "text": "magi",
+            "source": "generated",
+            "content_sha256": "e4bf51f70cd2c1f6bc24810c0f1b0f1b0a880ab34e21bde613e4d88cbf852c70",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å bruke overnaturlige krefter til å påvirke omgivelsene",
+      "translation": "the use of supernatural powers to influence the surroundings",
+      "examples": []
+    },
+    {
+      "text": "opplevelse eller stemning som bergtar",
+      "translation": "experience or atmosphere that captivates",
+      "examples": [
+        {
+          "no": "filmen har glimt av ren magi",
+          "en": "the film has moments of pure magic"
+        }
+      ]
+    }
+  ]
+}

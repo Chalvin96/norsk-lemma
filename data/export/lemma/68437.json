@@ -1,0 +1,127 @@
+{
+  "source_article_id": 68437,
+  "lemmas": [
+    {
+      "lemma": "vindkast",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 78996,
+      "is_sub_article": false,
+      "primary_translation": "gust of wind",
+      "word_forms": [
+        {
+          "word_form": "vindkast",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIN$%kA$st",
+              "ipa": "ˈvɪŋˌkɑst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vindkastet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIN$%kA$st@",
+              "ipa": "ˈvɪŋˌkɑstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vindkasta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIN$%kA$stA",
+              "ipa": "ˈvɪŋˌkɑstɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vindkastene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIN$%kA$stn=$@",
+              "ipa": "ˈvɪŋˌkɑstn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "20ee029a8717.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20ee029a8717.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20ee029a8717.mp3",
+            "text": "vindkast",
+            "source": "generated",
+            "content_sha256": "10b8c5f6ae5959f8ba0627682321983cc50e8ee8c1149ea34e3b404d6f448363",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortvarig, sterk vind",
+      "translation": "short-lived, strong wind",
+      "examples": [
+        {
+          "no": "et vindkast rev taket av låven",
+          "en": "a gust of wind tore the roof off the barn"
+        },
+        {
+          "no": "på natta blåste det opp med vindkast i orkan styrke",
+          "en": "during the night, it picked up with hurricane-force gusts"
+        }
+      ]
+    }
+  ]
+}

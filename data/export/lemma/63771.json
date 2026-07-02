@@ -1,0 +1,91 @@
+{
+  "source_article_id": 63771,
+  "lemmas": [
+    {
+      "lemma": "uetterrettelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73014,
+      "is_sub_article": false,
+      "primary_translation": "unreliable",
+      "word_forms": [
+        {
+          "word_form": "uetterrettelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$@$t@$\"rE$t@$lI",
+              "ipa": "ʉətəˈrɛtəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uetterrettelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$@$t@$\"rE$t@$lI$@",
+              "ipa": "ʉətəˈrɛtəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4fb06dea680b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4fb06dea680b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4fb06dea680b.mp3",
+            "text": "uetterrettelig",
+            "source": "generated",
+            "content_sha256": "c2ac256ea5614acc8b4af2ab01bca9b817ed751cdc0e8945558ea822ad72f5d1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er etterrettelig",
+      "translation": "that is not reliable",
+      "examples": [
+        {
+          "no": "være uetterrettelig i pengesaker",
+          "en": "be unreliable in money matters"
+        },
+        {
+          "no": "komme med uetterrettelige påstander",
+          "en": "make unfounded claims"
+        }
+      ]
+    }
+  ]
+}

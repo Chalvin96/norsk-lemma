@@ -1,0 +1,107 @@
+{
+  "source_article_id": 15850,
+  "lemmas": [
+    {
+      "lemma": "folketom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 82435,
+      "is_sub_article": false,
+      "primary_translation": "unpeopled",
+      "word_forms": [
+        {
+          "word_form": "folketom",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$%tOm",
+              "ipa": "ˈfɔlkəˌtɔm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "folketomme",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$%tU$m@",
+              "ipa": "ˈfɔlkəˌtʊmə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "folketomt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$%tOmt",
+              "ipa": "ˈfɔlkəˌtɔmt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "716d17854afe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/716d17854afe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/716d17854afe.mp3",
+            "text": "folketom",
+            "source": "generated",
+            "content_sha256": "ba59995d16a1b0048c81727f8c5fb2c3c01f279fc8c5f9c919d86d3612b92526",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten folk",
+      "translation": "without people",
+      "examples": [
+        {
+          "no": "folketomme gater",
+          "en": "deserted streets"
+        },
+        {
+          "no": "huset var folketomt",
+          "en": "the house was empty"
+        }
+      ]
+    }
+  ]
+}

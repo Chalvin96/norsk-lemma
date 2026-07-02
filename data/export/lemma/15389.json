@@ -1,0 +1,96 @@
+{
+  "source_article_id": 15389,
+  "lemmas": [
+    {
+      "lemma": "flidd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 17863,
+      "is_sub_article": false,
+      "primary_translation": "neat/well-groomed",
+      "word_forms": [
+        {
+          "word_form": "flidd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flId",
+              "ipa": "ˈflɪd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flidde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flI$d@",
+              "ipa": "ˈflɪdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7c231e8e22f7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7c231e8e22f7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7c231e8e22f7.mp3",
+            "text": "flidd",
+            "source": "generated",
+            "content_sha256": "e576d211e648c48bc450ca54e7430bb068a9b0a345ac7b8ee0a3e099a2a9ce93",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ren rein, velstelt",
+      "translation": "neat, well-groomed",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra uflidd",
+      "translation": "in contrast to unkempt",
+      "examples": [
+        {
+          "no": "se flidd ut",
+          "en": "look neat"
+        },
+        {
+          "no": "vasket og flidd",
+          "en": "washed and well-groomed"
+        }
+      ]
+    }
+  ]
+}

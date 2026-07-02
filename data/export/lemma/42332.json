@@ -1,0 +1,135 @@
+{
+  "source_article_id": 42332,
+  "lemmas": [
+    {
+      "lemma": "opinion",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 49452,
+      "is_sub_article": false,
+      "primary_translation": "public opinion",
+      "word_forms": [
+        {
+          "word_form": "opinion",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$pI$nI$\"u:n",
+              "ipa": "ɔpɪnɪˈuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "opinionen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$pI$nI$\"u:$nn=",
+              "ipa": "ɔpɪnɪˈuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "opinioner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɔpɪnɪˈuːnər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "opinionene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɔpɪnɪˈuːnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f397f8969ab1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f397f8969ab1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f397f8969ab1.mp3",
+            "text": "opinion",
+            "source": "generated",
+            "content_sha256": "63f0e2a87276ba53acddc51bbe57348f420eff220c0cea7c55a82ce1e7911941",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rådende oppfatning om politikk eller andre samfunnsspørsmål i en befolkning",
+      "translation": "prevailing opinion on politics or other societal issues in a population",
+      "examples": []
+    },
+    {
+      "text": "folkemening",
+      "translation": "public opinion",
+      "examples": [
+        {
+          "no": "få opinionen mot seg",
+          "en": "turn public opinion against oneself"
+        },
+        {
+          "no": "skape en opinion mot noe",
+          "en": "create public opinion against something"
+        }
+      ]
+    }
+  ]
+}

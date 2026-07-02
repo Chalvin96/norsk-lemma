@@ -1,0 +1,126 @@
+{
+  "source_article_id": 52070,
+  "lemmas": [
+    {
+      "lemma": "sjøbåt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 59888,
+      "is_sub_article": false,
+      "primary_translation": "seaworthy boat",
+      "word_forms": [
+        {
+          "word_form": "sjøbåt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%bo:t",
+              "ipa": "ˈʃøːˌboːt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sjøbåten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%bo:$tn=",
+              "ipa": "ˈʃøːˌboːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sjøbåter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%bo:$t@r",
+              "ipa": "ˈʃøːˌboːtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sjøbåtene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%bo:$tn=$@",
+              "ipa": "ˈʃøːˌboːtn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "69dad2845f95.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69dad2845f95.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/69dad2845f95.mp3",
+            "text": "sjøbåt",
+            "source": "generated",
+            "content_sha256": "864d25cac371015d091e67967d4343274c437b647f6150dcc2ac885be8c6aa4c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "båt med hensyn til om den er god eller dårlig i sjøgang",
+      "translation": "boat with respect to whether it is good or bad in rough seas",
+      "examples": [
+        {
+          "no": "en god sjøbåt",
+          "en": "a good seaboat"
+        },
+        {
+          "no": "det var ingen dårlig sjøbåt",
+          "en": "it was no bad seaboat"
+        }
+      ]
+    }
+  ]
+}

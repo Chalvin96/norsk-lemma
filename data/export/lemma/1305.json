@@ -1,0 +1,127 @@
+{
+  "source_article_id": 1305,
+  "lemmas": [
+    {
+      "lemma": "allofon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1774,
+      "is_sub_article": false,
+      "primary_translation": "allophone",
+      "word_forms": [
+        {
+          "word_form": "allofon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lU$\"fu:n",
+              "ipa": "ɑlʊˈfuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "allofonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lU$\"fu:$nn=",
+              "ipa": "ɑlʊˈfuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "allofoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lU$\"fu:$n@r",
+              "ipa": "ɑlʊˈfuːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "allofonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lU$\"fu:$nn=$@",
+              "ipa": "ɑlʊˈfuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fae46f58a638.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fae46f58a638.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fae46f58a638.mp3",
+            "text": "allofon",
+            "source": "generated",
+            "content_sha256": "5cdfd9d7dbc3dff201cc7f4c3b34bdf50ca7d92679389812b44393eca27420a4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i språkvitenskap: fon som er en variant av et fonem",
+      "translation": "phoneme that is a variant of a phoneme",
+      "examples": []
+    },
+    {
+      "text": "språklyd som ikke er betydningsskillende",
+      "translation": "speech sound that does not distinguish meaning",
+      "examples": [
+        {
+          "no": "skarre-r og rulle-r er allofoner av fonemet r",
+          "en": "uvular r and trilled r are allophones of the phoneme /r/"
+        }
+      ]
+    }
+  ]
+}

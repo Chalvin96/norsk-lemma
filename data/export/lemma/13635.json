@@ -1,0 +1,178 @@
+{
+  "source_article_id": 13635,
+  "lemmas": [
+    {
+      "lemma": "faktorisere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 15829,
+      "is_sub_article": false,
+      "primary_translation": "factorize (math)",
+      "word_forms": [
+        {
+          "word_form": "faktorisere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tU$rI$\"se:$r@",
+              "ipa": "fɑktʊrɪˈseːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktoriserer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tU$rI$\"se:$r@r",
+              "ipa": "fɑktʊrɪˈseːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktoriseres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tU$rI$\"se:$r@s",
+              "ipa": "fɑktʊrɪˈseːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktoriserte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tU$rI$\"se:$t`@",
+              "ipa": "fɑktʊrɪˈseːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktorisert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tU$rI$\"se:t`",
+              "ipa": "fɑktʊrɪˈseːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktoriserende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tU$rI$\"se:$n`=$@",
+              "ipa": "fɑktʊrɪˈseːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "faktoriser",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fAk$tU$rI$\"se:r",
+              "ipa": "fɑktʊrɪˈseːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "14e74d91bf52.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/14e74d91bf52.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/14e74d91bf52.mp3",
+            "text": "faktorisere",
+            "source": "generated",
+            "content_sha256": "12ee52d2354168d528ae6fc15e3baa57b7892687ebcf8fdceda77f8e75502788",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i matematikk: skrive et sammensatt tall som produkt av bare primtall",
+      "translation": "in mathematics: to write a composite number as a product of prime numbers only",
+      "examples": [
+        {
+          "no": "faktorisere et polynom",
+          "en": "factorize a polynomial"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_article_id": 3015,
+  "lemmas": [
+    {
+      "lemma": "asymmetrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3575,
+      "is_sub_article": false,
+      "primary_translation": "asymmetrical / unbalanced",
+      "word_forms": [
+        {
+          "word_form": "asymmetrisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$sY$%me:$trI$sk",
+              "ipa": "ˈɑːsʏˌmeːtrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "asymmetriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A$sY$%me:$trI$sk@",
+              "ipa": "ˈɑsʏˌmeːtrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "77353903357b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77353903357b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77353903357b.mp3",
+            "text": "asymmetrisk",
+            "source": "generated",
+            "content_sha256": "23bb7b8f4e32cae4a8b7fcbe6c022b5c00cc20f722208d547a908b592d96a555",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke ensartet",
+      "translation": "unsymmetrical",
+      "examples": [
+        {
+          "no": "bygningen har en asymmetrisk form",
+          "en": "the building has an asymmetrical shape"
+        }
+      ]
+    },
+    {
+      "text": "ikke jevnt fordelt",
+      "translation": "not evenly distributed",
+      "examples": [
+        {
+          "no": "maktforholdet er asymmetrisk",
+          "en": "the power relationship is asymmetrical"
+        }
+      ]
+    }
+  ]
+}

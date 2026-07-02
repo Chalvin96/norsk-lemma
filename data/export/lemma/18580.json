@@ -1,0 +1,105 @@
+{
+  "source_article_id": 18580,
+  "lemmas": [
+    {
+      "lemma": "fysikalsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 21712,
+      "is_sub_article": false,
+      "primary_translation": "physical",
+      "word_forms": [
+        {
+          "word_form": "fysikalsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fY$sI$\"kA:lsk",
+              "ipa": "fʏsɪˈkɑːlsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fysikalske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fY$sI$\"kA:l$sk@",
+              "ipa": "fʏsɪˈkɑːlskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f4a848b82a3a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4a848b82a3a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4a848b82a3a.mp3",
+            "text": "fysikalsk",
+            "source": "generated",
+            "content_sha256": "ff276ccd4e5d955b445a0cf053342b79ef27a2b5c897bdaef58e1921fb2e9c88",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder fysikk",
+      "translation": "relating to physics",
+      "examples": [
+        {
+          "no": "fysikalske prosesser",
+          "en": "physical processes"
+        },
+        {
+          "no": "ha doktorgrad i fysikalsk elektronikk",
+          "en": "have a doctorate in physical electronics"
+        }
+      ]
+    },
+    {
+      "text": "som gjelder fysikk",
+      "translation": "relating to physics",
+      "examples": [
+        {
+          "no": "fysikalsk avdeling på et sykehus",
+          "en": "physiotherapy department at a hospital"
+        },
+        {
+          "no": "få medisinsk og fysikalsk hjelp",
+          "en": "receive medical and physiotherapeutic help"
+        }
+      ]
+    }
+  ]
+}

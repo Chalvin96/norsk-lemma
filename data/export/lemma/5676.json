@@ -1,0 +1,122 @@
+{
+  "source_article_id": 5676,
+  "lemmas": [
+    {
+      "lemma": "betryggelse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 6659,
+      "is_sub_article": false,
+      "primary_translation": "reassurance",
+      "word_forms": [
+        {
+          "word_form": "betryggelse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"trY$gl=$s@",
+              "ipa": "bəˈtrʏgl̩sə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "betryggelsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"trY$gl=$sn=",
+              "ipa": "bəˈtrʏgl̩sn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "betryggelser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"trY$gl=$s@r",
+              "ipa": "bəˈtrʏgl̩sər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "betryggelsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"trY$gl=$sn=$@",
+              "ipa": "bəˈtrʏgl̩sn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "099a64b451ca.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/099a64b451ca.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/099a64b451ca.mp3",
+            "text": "betryggelse",
+            "source": "generated",
+            "content_sha256": "bd75b97e7d1ce363e717272207dc5ab664f1863c1ba2daa7b424f2d9b72876b6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å ha trygghet",
+      "translation": "the state of being secure",
+      "examples": [
+        {
+          "no": "det er en betryggelse å vite at huset er forsikret",
+          "en": "it is reassuring to know that the house is insured"
+        }
+      ]
+    }
+  ]
+}

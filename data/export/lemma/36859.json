@@ -1,0 +1,123 @@
+{
+  "source_article_id": 36859,
+  "lemmas": [
+    {
+      "lemma": "mang",
+      "hgno": 0,
+      "pos": "DET",
+      "source_lemma_id": 43233,
+      "is_sub_article": false,
+      "primary_translation": "many (things)",
+      "word_forms": [
+        {
+          "word_form": "mang",
+          "tags_json": [
+            "Quant",
+            "Masc",
+            "Sing",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mAN",
+              "ipa": "ˈmɑŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mangt",
+          "tags_json": [
+            "Quant",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mANt",
+              "ipa": "ˈmɑŋt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "30cae54d1753.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/30cae54d1753.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/30cae54d1753.mp3",
+            "text": "mang",
+            "source": "generated",
+            "content_sha256": "a2558462de4425e943495566c44ef178b672f0de50b59c2fc6d14d6b11a3b731",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i entall: en av flere",
+      "translation": "in: one of several",
+      "examples": [
+        {
+          "no": "han har tatt mangt et tungt tak",
+          "en": "he has done many a hard stint"
+        },
+        {
+          "no": "vi har hatt mang en trivelig stund",
+          "en": "we have had many a pleasant time"
+        },
+        {
+          "no": "mang en ung jente måtte ut i tjeneste",
+          "en": "many a young girl had to go out to service"
+        },
+        {
+          "no": "mang en sommerdag drog han til fjells",
+          "en": "many a summer day he went to the mountains"
+        }
+      ]
+    },
+    {
+      "text": "i nøytrum: mye forskjellig",
+      "translation": "in: many different things",
+      "examples": [
+        {
+          "no": "de fortalte mangt og mye",
+          "en": "they told of many things"
+        },
+        {
+          "no": "ha mangt å lære",
+          "en": "have much to learn"
+        }
+      ]
+    },
+    {
+      "text": "i flertall: atskillige, ikke så få",
+      "translation": "in: several, not a few",
+      "examples": [
+        {
+          "no": "mange andre",
+          "en": "many others"
+        },
+        {
+          "no": "vi måtte gå mange ganger",
+          "en": "we had to go many times"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_article_id": 129408,
+  "lemmas": [
+    {
+      "lemma": "solosang",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 141070,
+      "is_sub_article": false,
+      "primary_translation": "solo singing",
+      "word_forms": [
+        {
+          "word_form": "solosang",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"su:$lU$%sAN",
+              "ipa": "ˈsuːlʊˌsɑŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "solosangen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈuːlusˌɑŋən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "solosanger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈuːlusˌɑŋər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "solosangene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈuːlusˌɑŋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6a456e4e3e49.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a456e4e3e49.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a456e4e3e49.mp3",
+            "text": "solosang",
+            "source": "generated",
+            "content_sha256": "c65bd20575e3edd46b3bcd058226ebd5b61c133d269b5898021026814d7d09f9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sang av én person",
+      "translation": "song by one person",
+      "examples": [
+        {
+          "no": "seremonien ble innledet med solosang",
+          "en": "the ceremony opened with a solo song"
+        }
+      ]
+    }
+  ]
+}

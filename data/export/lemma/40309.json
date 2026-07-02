@@ -1,0 +1,112 @@
+{
+  "source_article_id": 40309,
+  "lemmas": [
+    {
+      "lemma": "naturell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47181,
+      "is_sub_article": false,
+      "primary_translation": "natural / plain",
+      "word_forms": [
+        {
+          "word_form": "naturell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$tu0$\"rEl",
+              "ipa": "nɑtʉˈrɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "naturelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$tu0$\"rE$l@",
+              "ipa": "nɑtʉˈrɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "naturelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$tu0$\"rElt",
+              "ipa": "nɑtʉˈrɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2f562cf2fecf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f562cf2fecf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f562cf2fecf.mp3",
+            "text": "naturell",
+            "source": "generated",
+            "content_sha256": "5716131f1fa5412ccacb1dc25d12280c03067cceface64bf76bea69ce0017293",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i naturlig tilstand",
+      "translation": "in a natural state",
+      "examples": []
+    },
+    {
+      "text": "med lite tilberedning, smakstilsetning og lignende",
+      "translation": "with little preparation, seasoning",
+      "examples": [
+        {
+          "no": "jeg liker best den naturelle varianten av yoghurt",
+          "en": "I like the plain variety of yogurt best"
+        },
+        {
+          "no": "naturell hvit ull",
+          "en": "natural white wool"
+        }
+      ]
+    }
+  ]
+}

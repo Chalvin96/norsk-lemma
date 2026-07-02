@@ -1,0 +1,110 @@
+{
+  "source_article_id": 29700,
+  "lemmas": [
+    {
+      "lemma": "kjødelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35077,
+      "is_sub_article": false,
+      "primary_translation": "consanguineous",
+      "word_forms": [
+        {
+          "word_form": "kjødelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C2:$d@$lI",
+              "ipa": "ˈçøːdəlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kjødelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"C2:$d@$lI$@",
+              "ipa": "ˈçøːdəlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "421fb956f428.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/421fb956f428.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/421fb956f428.mp3",
+            "text": "kjødelig",
+            "source": "generated",
+            "content_sha256": "f0c24cf636cee8bef50017f49c2536d3988756a60d1070149e2ed451bcef9261",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kroppen og de fysiske behov og begjær den har",
+      "translation": "relating to the body and its physical needs and desires",
+      "examples": []
+    },
+    {
+      "text": "legemlig, sanselig",
+      "translation": "bodily, sensual",
+      "examples": [
+        {
+          "no": "våre kjødelige lyster",
+          "en": "our carnal desires"
+        },
+        {
+          "no": "han var kjent for sine kjødelige utskeielser",
+          "en": "he was known for his carnal excesses"
+        }
+      ]
+    },
+    {
+      "text": "som har felles biologisk avstamning",
+      "translation": "having common biological descent",
+      "examples": [
+        {
+          "no": "min kjødelige bror",
+          "en": "my flesh-and-blood brother"
+        },
+        {
+          "no": "et kjødelig opphav",
+          "en": "a flesh-and-blood origin"
+        }
+      ]
+    }
+  ]
+}

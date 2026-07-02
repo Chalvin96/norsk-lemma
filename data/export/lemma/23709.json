@@ -1,0 +1,173 @@
+{
+  "source_article_id": 23709,
+  "lemmas": [
+    {
+      "lemma": "hjelp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 27921,
+      "is_sub_article": false,
+      "primary_translation": "help / usefulness / assistant",
+      "word_forms": [
+        {
+          "word_form": "hjelp",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jElp",
+              "ipa": "ˈjɛlp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hjelpa",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jEl$pA",
+              "ipa": "ˈjɛlpɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hjelper",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jEl$p@r",
+              "ipa": "ˈjɛlpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hjelpene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈɛlpənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hjelpen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jEl$p@n",
+              "ipa": "ˈjɛlpən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "15ee87944a4e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15ee87944a4e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/15ee87944a4e.mp3",
+            "text": "hjelp",
+            "source": "generated",
+            "content_sha256": "2f5d4c96d0b5c2d96e1ff9f4ce4eb96fbbaedc0d41ddf050cea709d8f445db9a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å hjelpe, støtte, berging",
+      "translation": "act of helping, support, rescue",
+      "examples": []
+    },
+    {
+      "text": "nytte, gagn",
+      "translation": "usefulness, benefit",
+      "examples": [
+        {
+          "no": "det var ingen hjelp i det",
+          "en": "there was no help in that"
+        },
+        {
+          "no": "når nøden er størst, er hjelpen nærmest",
+          "en": "when the need is greatest, help is nearest"
+        },
+        {
+          "no": "ta tiden til hjelp",
+          "en": "let time help"
+        },
+        {
+          "no": "søke hjelp hos en psykiater",
+          "en": "seek help from a psychiatrist"
+        }
+      ]
+    },
+    {
+      "text": "arbeidsfolk, medhjelper, assistent",
+      "translation": "workers, helper, assistant",
+      "examples": [
+        {
+          "no": "ha lite hjelp på gården",
+          "en": "have little help on the farm"
+        }
+      ]
+    }
+  ]
+}

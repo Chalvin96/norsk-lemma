@@ -1,0 +1,131 @@
+{
+  "source_article_id": 1778,
+  "lemmas": [
+    {
+      "lemma": "angina",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2272,
+      "is_sub_article": false,
+      "primary_translation": "angina / heart cramp",
+      "word_forms": [
+        {
+          "word_form": "angina",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "AN$\"gi:$nA",
+              "ipa": "ɑŋˈgɪːnɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "anginaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "AN$\"gi:$nA$@n",
+              "ipa": "ɑŋˈgɪːnɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "anginaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑŋgˈiːnɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "anginaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑŋgˈiːnɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9d9a9d8fb70e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9d9a9d8fb70e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9d9a9d8fb70e.mp3",
+            "text": "angina",
+            "source": "generated",
+            "content_sha256": "670b15ce737dd87a1fede23e0f845904f583ece5799506148b3062d92631d9d9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortord for angina tonsillaris",
+      "translation": "short for angina tonsillaris",
+      "examples": []
+    },
+    {
+      "text": "akutt halsesyke",
+      "translation": "acute throat illness",
+      "examples": []
+    },
+    {
+      "text": "kortord for angina pectoris",
+      "translation": "short for angina pectoris",
+      "examples": []
+    }
+  ]
+}

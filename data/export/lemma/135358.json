@@ -1,0 +1,90 @@
+{
+  "source_article_id": 135358,
+  "lemmas": [
+    {
+      "lemma": "voksaktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2110548,
+      "is_sub_article": false,
+      "primary_translation": "waxy",
+      "word_forms": [
+        {
+          "word_form": "voksaktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɔksˌɑktɪ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "voksaktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɔksˌɑktɪə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0267604b9540.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0267604b9540.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0267604b9540.mp3",
+            "text": "voksaktig",
+            "source": "generated",
+            "content_sha256": "bd8edf4928c8b9f27100d8df4e36ce59d038e1801c506b4ed74844b584784323"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som minner om voks",
+      "translation": "resembling wax",
+      "examples": [
+        {
+          "no": "en voksaktig konsistens",
+          "en": "a waxy consistency"
+        }
+      ]
+    }
+  ]
+}

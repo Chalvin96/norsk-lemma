@@ -1,0 +1,122 @@
+{
+  "source_article_id": 43303,
+  "lemmas": [
+    {
+      "lemma": "organell",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 50166,
+      "is_sub_article": false,
+      "primary_translation": "organelle",
+      "word_forms": [
+        {
+          "word_form": "organell",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$gA$\"nEl",
+              "ipa": "ɔrgɑˈnɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "organellen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$gA$\"nE$ln=",
+              "ipa": "ɔrgɑˈnɛln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "organeller",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$gA$\"nE$l@r",
+              "ipa": "ɔrgɑˈnɛlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "organellene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Or$gA$\"nE$ln=$@",
+              "ipa": "ɔrgɑˈnɛln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "31d6a221d798.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/31d6a221d798.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/31d6a221d798.mp3",
+            "text": "organell",
+            "source": "generated",
+            "content_sha256": "2962b00c8124f739076d4d270f8348cd803b3ad8c5603cec13735ad80ad91f28",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "liten enhet i en celle selle som har en fast fysiologisk funksjon",
+      "translation": "small unit in a cell that has a fixed physiological function",
+      "examples": [
+        {
+          "no": "mitokondrier er organeller",
+          "en": "mitochondria are organelles"
+        }
+      ]
+    }
+  ]
+}

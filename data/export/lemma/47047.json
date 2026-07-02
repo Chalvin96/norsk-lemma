@@ -1,0 +1,127 @@
+{
+  "source_article_id": 47047,
+  "lemmas": [
+    {
+      "lemma": "påbud",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 54068,
+      "is_sub_article": false,
+      "primary_translation": "mandate",
+      "word_forms": [
+        {
+          "word_form": "påbud",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"po:$%b}:d",
+              "ipa": "ˈpoːˌbʉːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "påbudet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"po:$%b}:$d@",
+              "ipa": "ˈpoːˌbʉːdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "påbuda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"po:$%b}:$dA",
+              "ipa": "ˈpoːˌbʉːdɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "påbudene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"po:$%b}:$dn=$@",
+              "ipa": "ˈpoːˌbʉːdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c3856d80eb16.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c3856d80eb16.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c3856d80eb16.mp3",
+            "text": "påbud",
+            "source": "generated",
+            "content_sha256": "9963956aff30b24e98d4a652868fd2cb69a45877434b5a95d073df2af22b56c8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ordre, befaling",
+      "translation": "order, command",
+      "examples": [
+        {
+          "no": "et påbud om betaling",
+          "en": "an order to pay"
+        },
+        {
+          "no": "følge påbudene",
+          "en": "follow the orders"
+        }
+      ]
+    }
+  ]
+}

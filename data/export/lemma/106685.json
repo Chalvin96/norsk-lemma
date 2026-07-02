@@ -1,0 +1,130 @@
+{
+  "source_article_id": 106685,
+  "lemmas": [
+    {
+      "lemma": "postdoktor",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 159845,
+      "is_sub_article": false,
+      "primary_translation": "postdoctoral researcher",
+      "word_forms": [
+        {
+          "word_form": "postdoktor",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pO$%stdOk$tUr",
+              "ipa": "ˈpɔˌstdɔktʊr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "postdoktoren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔstdɔktuɳ̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "postdoktorer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pO$%stdOk$tU$r@r",
+              "ipa": "ˈpɔˌstdɔktʊrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "postdoktorene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈɔstdɔktuɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c727d729b9ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c727d729b9ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c727d729b9ab.mp3",
+            "text": "postdoktor",
+            "source": "generated",
+            "content_sha256": "bed65989ef5acd3c67bfb77568b1c3339c94f255d246136100d1c1f93f51c33e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(person tilsatt i) tidsavgrenset, vitenskapelig stilling som krever doktorgrad",
+      "translation": "(person employed in a) fixed-term academic position requiring a doctorate",
+      "examples": [
+        {
+          "no": "være postdoktor ved universitetet",
+          "en": "be a postdoctoral fellow at the university"
+        },
+        {
+          "no": "lyse ut en postdoktor",
+          "en": "advertise a postdoctoral position"
+        }
+      ]
+    }
+  ]
+}

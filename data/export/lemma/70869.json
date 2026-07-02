@@ -1,0 +1,127 @@
+{
+  "source_article_id": 70869,
+  "lemmas": [
+    {
+      "lemma": "hacker",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157648,
+      "is_sub_article": false,
+      "primary_translation": "hacker",
+      "word_forms": [
+        {
+          "word_form": "hacker",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h{$k@r",
+              "ipa": "ˈhækər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hackeren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"h{$k@n`",
+              "ipa": "ˈhækəɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hackere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hE$k@$r@",
+              "ipa": "ˈhɛkərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hackerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hE$k@$n`@",
+              "ipa": "ˈhɛkəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1b2ad0bc59d2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b2ad0bc59d2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b2ad0bc59d2.mp3",
+            "text": "hacker",
+            "source": "generated",
+            "content_sha256": "d1974cb501e93584687fe881b27d714af580a67fa17e044a5e39d226165bf4d0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som urettmessig kobler seg inn på andres datamaskin for å stjele eller endre data",
+      "translation": "person who unlawfully connects to another's computer to steal or alter data",
+      "examples": [
+        {
+          "no": "hackere har brutt seg inn på datanettverket",
+          "en": "hackers have broken into the computer network"
+        }
+      ]
+    },
+    {
+      "text": "person som bruker IT-verktøy for finne nye løsninger for datasikkerhet og databehandling",
+      "translation": "person who uses IT tools to find new solutions for data security and data processing",
+      "examples": []
+    }
+  ]
+}

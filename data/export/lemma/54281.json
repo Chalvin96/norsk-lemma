@@ -1,0 +1,131 @@
+{
+  "source_article_id": 54281,
+  "lemmas": [
+    {
+      "lemma": "slaps",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62565,
+      "is_sub_article": false,
+      "primary_translation": "slush",
+      "word_forms": [
+        {
+          "word_form": "slaps",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SlAps",
+              "ipa": "ˈʃlɑps",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slapset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SlAp$s@t",
+              "ipa": "ˈʃlɑpsət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "slapsa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃlˈɑpsɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "slapsene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃlˈɑpsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "97aae5db6d1f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/97aae5db6d1f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/97aae5db6d1f.mp3",
+            "text": "slaps",
+            "source": "generated",
+            "content_sha256": "3eee897c7d49d59bdeab3564faf596f13f711c1cc33f9e3a0ec9396979c8278e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "våt, sørpete snø",
+      "translation": "wet, slushy snow",
+      "examples": [
+        {
+          "no": "gatene var fylt av snø og slaps",
+          "en": "the streets were filled with snow and slush"
+        },
+        {
+          "no": "slapset fryser og det blir kaos på veiene",
+          "en": "the slush freezes and there is chaos on the roads"
+        }
+      ]
+    }
+  ]
+}

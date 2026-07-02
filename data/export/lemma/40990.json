@@ -1,0 +1,101 @@
+{
+  "source_article_id": 40990,
+  "lemmas": [
+    {
+      "lemma": "nord",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 47947,
+      "is_sub_article": false,
+      "primary_translation": "north (direction/land/bridge player)",
+      "word_forms": [
+        {
+          "word_form": "nord",
+          "tags_json": [
+            "Neuter",
+            "Uninfl",
+            "n."
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nu:r",
+              "ipa": "ˈnuːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d65f2f02d6a1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d65f2f02d6a1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d65f2f02d6a1.mp3",
+            "text": "nord",
+            "source": "generated",
+            "content_sha256": "4aaa26b8d800cfcaf095447226d807d4349705d45d5c00c1d7cce9bd814f71a3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "himmelretning som ligger motsatt retningen mot sola midt på dagen",
+      "translation": "cardinal direction opposite the sun at midday",
+      "examples": []
+    },
+    {
+      "text": "motsatt sør syd",
+      "translation": "north south",
+      "examples": [
+        {
+          "no": "vinden stod fra nord",
+          "en": "the wind was coming from the north"
+        },
+        {
+          "no": "det klarner i nord",
+          "en": "it's clearing in the north"
+        },
+        {
+          "no": "finne nord ved hjelp av kompasset",
+          "en": "find north using the compass"
+        },
+        {
+          "no": "Frankrike grenser til Belgia i nord",
+          "en": "France borders Belgium to the north"
+        }
+      ]
+    },
+    {
+      "text": "landområde eller stat som ligger i nordlig retning",
+      "translation": "land area or country located in a northerly direction",
+      "examples": [
+        {
+          "no": "i det høye nord",
+          "en": "in the far north"
+        }
+      ]
+    },
+    {
+      "text": "i bridge: spiller som har sør syd som makker",
+      "translation": "in bridge: player partnered with South",
+      "examples": [
+        {
+          "no": "nord melder 2 kløver",
+          "en": "North bids 2 clubs"
+        }
+      ]
+    }
+  ]
+}

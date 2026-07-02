@@ -1,0 +1,96 @@
+{
+  "source_article_id": 50703,
+  "lemmas": [
+    {
+      "lemma": "selvisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 58267,
+      "is_sub_article": false,
+      "primary_translation": "selfish",
+      "word_forms": [
+        {
+          "word_form": "selvisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sEl$vI$sk",
+              "ipa": "ˈsɛlvɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "selviske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sEl$vI$sk@",
+              "ipa": "ˈsɛlvɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eda6f420a624.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eda6f420a624.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eda6f420a624.mp3",
+            "text": "selvisk",
+            "source": "generated",
+            "content_sha256": "29a59dcdc8ace715f596c2f4b1f6b90d8413d44b5c5644203cf27593c34e658c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bare tar hensyn til seg selv",
+      "translation": "one who only considers oneself",
+      "examples": []
+    },
+    {
+      "text": "egenkjærlig eigenkjærlig, egoistisk",
+      "translation": "self-loving, egoistic",
+      "examples": [
+        {
+          "no": "en selvisk person",
+          "en": "a selfish person"
+        },
+        {
+          "no": "de tok bare selviske hensyn i avgjørelsen",
+          "en": "they considered only selfish interests in the decision"
+        }
+      ]
+    }
+  ]
+}

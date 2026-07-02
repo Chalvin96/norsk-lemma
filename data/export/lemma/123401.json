@@ -1,0 +1,153 @@
+{
+  "source_article_id": 123401,
+  "lemmas": [
+    {
+      "lemma": "HMS-arbeid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2007341,
+      "is_sub_article": false,
+      "primary_translation": "HSE work",
+      "word_forms": [
+        {
+          "word_form": "HMS-arbeid",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "%ho:$@$\"mE$sAr$%b{*Id",
+              "ipa": "ˌhoːəˈmɛsɑrˌbæ͡ɪd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "HMS-arbeidet",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "%ho:$@$\"mE$sAr$%b{*I$d@",
+              "ipa": "ˌhoːəˈmɛsɑrˌbæ͡ɪdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "HMS-arbeida",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈoːˌɛmsɑrbˌæ͡ɪdɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "HMS-arbeider",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈoːˌɛmsɑrbˌæ͡ɪdər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "HMS-arbeidene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈoːˌɛmsɑrbˌæ͡ɪdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fc96cc0093f6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc96cc0093f6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc96cc0093f6.mp3",
+            "text": "HMS-arbeid",
+            "source": "generated",
+            "content_sha256": "ffc4afafd8cfa760ecc1e2d3d1a0361b7ecec671aa67744b03c02756967c670e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "arbeid som skal sikre arbeidsmiljø på en arbeidsplass",
+      "translation": "work aimed at ensuring a safe working environment at a workplace",
+      "examples": []
+    },
+    {
+      "text": "jamfør HMS",
+      "translation": "HSE (Health, Safety, and Environment)",
+      "examples": [
+        {
+          "no": "ha rutiner for systematisk HMS-arbeid",
+          "en": "have routines for systematic HSE work"
+        }
+      ]
+    }
+  ]
+}

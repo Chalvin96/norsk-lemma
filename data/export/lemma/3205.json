@@ -1,0 +1,130 @@
+{
+  "source_article_id": 3205,
+  "lemmas": [
+    {
+      "lemma": "auksjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3780,
+      "is_sub_article": false,
+      "primary_translation": "auction",
+      "word_forms": [
+        {
+          "word_form": "auksjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0k$\"Su:n",
+              "ipa": "æ͡ʉkˈʃuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "auksjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0k$\"Su:$nn=",
+              "ipa": "æ͡ʉkˈʃuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "auksjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0k$\"Su:$n@r",
+              "ipa": "æ͡ʉkˈʃuːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "auksjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E*u0k$\"Su:$nn=$@",
+              "ipa": "æ͡ʉkˈʃuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2f9c54eb3a0f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f9c54eb3a0f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f9c54eb3a0f.mp3",
+            "text": "auksjon",
+            "source": "generated",
+            "content_sha256": "a3124f53f9b3bb84e9239462b511586893f7ee6cf8da4ae3a05cb812d44b71e8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "salg der den som byr høyest, får varen",
+      "translation": "sale where the highest bidder gets the item",
+      "examples": [
+        {
+          "no": "selge, kjøpe på auksjon",
+          "en": "sell, buy at auction"
+        },
+        {
+          "no": "frivillig auksjon",
+          "en": "voluntary auction"
+        },
+        {
+          "no": "holde auksjon over gården",
+          "en": "hold an auction for the farm"
+        }
+      ]
+    }
+  ]
+}

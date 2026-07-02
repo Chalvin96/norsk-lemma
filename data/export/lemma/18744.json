@@ -1,0 +1,87 @@
+{
+  "source_article_id": 18744,
+  "lemmas": [
+    {
+      "lemma": "førnevnt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 21927,
+      "is_sub_article": false,
+      "primary_translation": "aforementioned",
+      "word_forms": [
+        {
+          "word_form": "førnevnt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"f2:r$%nEvnt",
+              "ipa": "ˈføːrˌnɛvnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "førnevnte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"f2:r$%nEvn$t@",
+              "ipa": "ˈføːrˌnɛvntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b7a4e33308bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7a4e33308bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7a4e33308bc.mp3",
+            "text": "førnevnt",
+            "source": "generated",
+            "content_sha256": "9a2e7fe6ef9d2ccca1dd56c44e9ffd760f95cc4aa88714f7bdaf8f2bc56fe031",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er nevnt før",
+      "translation": "mentioned before",
+      "examples": [
+        {
+          "no": "førnevnte person",
+          "en": "the aforementioned person"
+        }
+      ]
+    }
+  ]
+}

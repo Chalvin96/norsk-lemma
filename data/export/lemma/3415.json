@@ -1,0 +1,99 @@
+{
+  "source_article_id": 3415,
+  "lemmas": [
+    {
+      "lemma": "avdragsvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4060,
+      "is_sub_article": false,
+      "primary_translation": "in installments",
+      "word_forms": [
+        {
+          "word_form": "avdragsvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑːʋdrɑːgsʋˌiːs",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "avdragsvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑːʋdrɑːgsʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f4c8273fd1de.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4c8273fd1de.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4c8273fd1de.mp3",
+            "text": "avdragsvis",
+            "source": "generated",
+            "content_sha256": "00127fbb861055384a82b1fe1d5f66b900a8290f0dc4a694b0f0abdfa8fd17aa"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i avdrag",
+      "translation": "in installments",
+      "examples": []
+    },
+    {
+      "text": "avdrag for avdrag",
+      "translation": "installment by installment",
+      "examples": [
+        {
+          "no": "tillate avdragsvis betaling",
+          "en": "allow payment in installments"
+        },
+        {
+          "no": "lånet kan tilbakebetales avdragsvis",
+          "en": "the loan can be repaid in installments"
+        }
+      ]
+    }
+  ]
+}

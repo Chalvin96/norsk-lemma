@@ -1,0 +1,101 @@
+{
+  "source_article_id": 15364,
+  "lemmas": [
+    {
+      "lemma": "flertydig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 17836,
+      "is_sub_article": false,
+      "primary_translation": "ambiguous / equivocal",
+      "word_forms": [
+        {
+          "word_form": "flertydig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fl@$\"t`y:$dI$@",
+              "ipa": "fləˈʈyːdɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flertydige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fl@$\"t`y:$dI$@",
+              "ipa": "fləˈʈyːdɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7df7b0586561.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7df7b0586561.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7df7b0586561.mp3",
+            "text": "flertydig",
+            "source": "generated",
+            "content_sha256": "7f41601963adeb7e56ede8d4ae4efa7b686db68ae79935c485b6ec299496e791",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har flere betydninger",
+      "translation": "having several meanings",
+      "examples": [
+        {
+          "no": "et flertydig ord",
+          "en": "an ambiguous word"
+        }
+      ]
+    },
+    {
+      "text": "som kan tolkes på flere måter",
+      "translation": "that can be interpreted in several ways",
+      "examples": [
+        {
+          "no": "et flertydig resultat",
+          "en": "an ambiguous result"
+        },
+        {
+          "no": "en flertydig uttalelse",
+          "en": "an ambiguous statement"
+        }
+      ]
+    }
+  ]
+}

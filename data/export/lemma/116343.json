@@ -1,0 +1,124 @@
+{
+  "source_article_id": 116343,
+  "lemmas": [
+    {
+      "lemma": "høstdag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 104466,
+      "is_sub_article": false,
+      "primary_translation": "autumn day",
+      "word_forms": [
+        {
+          "word_form": "høstdag",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h9$%stdA:g",
+              "ipa": "ˈhœˌstdɑːg",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "høstdagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h9$%stdA:$g@n",
+              "ipa": "ˈhœˌstdɑːgən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "høstdager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h9$%stdA:$g@r",
+              "ipa": "ˈhœˌstdɑːgər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "høstdagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈœstdˌɑːgənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b38f5ae5fb3e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b38f5ae5fb3e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b38f5ae5fb3e.mp3",
+            "text": "høstdag",
+            "source": "generated",
+            "content_sha256": "f958c57029d9ebf33245e867f852b4b0786e9f6f9c07483fe1f11afb9736a5f0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dag om høst",
+      "translation": "a day in autumn",
+      "examples": [
+        {
+          "no": "en klar og fin høstdag",
+          "en": "a clear and beautiful autumn day"
+        }
+      ]
+    }
+  ]
+}

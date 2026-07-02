@@ -1,0 +1,111 @@
+{
+  "source_article_id": 50969,
+  "lemmas": [
+    {
+      "lemma": "sentimental",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 58656,
+      "is_sub_article": false,
+      "primary_translation": "sentimental",
+      "word_forms": [
+        {
+          "word_form": "sentimental",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@n$tI$m@n$\"tA:l",
+              "ipa": "səntɪmənˈtɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sentimentale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@n$tI$m@n$\"tA:$l@",
+              "ipa": "səntɪmənˈtɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sentimentalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@n$tI$m@n$\"tA:lt",
+              "ipa": "səntɪmənˈtɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fd24d335c04c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd24d335c04c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd24d335c04c.mp3",
+            "text": "sentimental",
+            "source": "generated",
+            "content_sha256": "3c181bcde40d261dea9f6b9f0edfc8c8d9bf90516146071c0eb612b19f945923",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(altfor) følelsesfull",
+      "translation": "(too) emotional",
+      "examples": []
+    },
+    {
+      "text": "svermerisk, søtlaten",
+      "translation": "dreamy, saccharine",
+      "examples": [
+        {
+          "no": "en sentimental kjærlighetshistorie",
+          "en": "a sentimental love story"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "source_article_id": 47298,
+  "lemmas": [
+    {
+      "lemma": "ragg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 54354,
+      "is_sub_article": false,
+      "primary_translation": "shaggy fur / hair",
+      "word_forms": [
+        {
+          "word_form": "ragg",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rAg",
+              "ipa": "ˈrɑg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ragget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rA$g@",
+              "ipa": "ˈrɑgə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ragga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈɑgɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "raggene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈɑgənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c75aaed70a96.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c75aaed70a96.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c75aaed70a96.mp3",
+            "text": "ragg",
+            "source": "generated",
+            "content_sha256": "41600d3335aa468fc6cf7fed15e9081de6873e533ca83da80887c41e23e921bd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lang, stri og bustete dyrepels",
+      "translation": "long, coarse, and shaggy animal fur",
+      "examples": []
+    },
+    {
+      "text": "langt, stritt og bustete hår",
+      "translation": "long, coarse, and shaggy hair",
+      "examples": [
+        {
+          "no": "det er på tide å klippe ragget",
+          "en": "it's time to cut the shaggy hair"
+        }
+      ]
+    }
+  ]
+}

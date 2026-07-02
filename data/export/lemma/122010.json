@@ -1,0 +1,88 @@
+{
+  "source_article_id": 122010,
+  "lemmas": [
+    {
+      "lemma": "levres",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 169156,
+      "is_sub_article": false,
+      "primary_translation": "coagulate",
+      "word_forms": [
+        {
+          "word_form": "levres",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lE$vr@s",
+              "ipa": "ˈlɛvrəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "levredes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɛʋrədəs",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "50f5a81fa22e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/50f5a81fa22e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/50f5a81fa22e.mp3",
+            "text": "levres",
+            "source": "generated",
+            "content_sha256": "adda2fccb20cbf6447688063fa7f9588b759bd550c93f6063696db6c87a10907",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "levre seg",
+      "translation": "to coagulate",
+      "examples": [
+        {
+          "no": "blodet levres",
+          "en": "the blood clots"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "source_article_id": 5002,
+  "lemmas": [
+    {
+      "lemma": "behendig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 5856,
+      "is_sub_article": false,
+      "primary_translation": "agile / dexterous / tactful",
+      "word_forms": [
+        {
+          "word_form": "behendig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hEn$dI",
+              "ipa": "bəˈhɛndɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "behendige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hEn$dI$@",
+              "ipa": "bəˈhɛndɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e9b3a36da2c1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9b3a36da2c1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e9b3a36da2c1.mp3",
+            "text": "behendig",
+            "source": "generated",
+            "content_sha256": "10f4c1c24067c9d9dde6797dd4488f701950bf0974d90f27e9d100d14016e736",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rask og smidig",
+      "translation": "quick and agile",
+      "examples": [
+        {
+          "no": "behendige bevegelser",
+          "en": "nimble movements"
+        }
+      ]
+    },
+    {
+      "text": "som vitner om smart taktikk",
+      "translation": "showing smart tactics",
+      "examples": [
+        {
+          "no": "en behendig vri",
+          "en": "an ingenious twist"
+        },
+        {
+          "no": "de har på en behendig måte omgått forbudet",
+          "en": "they have skilfully circumvented the ban"
+        },
+        {
+          "no": "han unngikk behendig alle vanskelige spørsmål",
+          "en": "he skilfully avoided all difficult questions"
+        }
+      ]
+    }
+  ]
+}

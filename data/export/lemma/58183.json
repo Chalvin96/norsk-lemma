@@ -1,0 +1,152 @@
+{
+  "source_article_id": 58183,
+  "lemmas": [
+    {
+      "lemma": "subjekt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 66635,
+      "is_sub_article": false,
+      "primary_translation": "subject",
+      "word_forms": [
+        {
+          "word_form": "subjekt",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"bjEkt",
+              "ipa": "sʉˈbjɛkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "subjektet",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"bjEk$t@",
+              "ipa": "sʉˈbjɛktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "subjektene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"bjEk$tn=$@",
+              "ipa": "sʉˈbjɛktn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "subjekter",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"bjEk$t@r",
+              "ipa": "sʉˈbjɛktər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "subjekta",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$\"bjEk$tA",
+              "ipa": "sʉˈbjɛktɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4e2ac355005e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e2ac355005e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e2ac355005e.mp3",
+            "text": "subjekt",
+            "source": "generated",
+            "content_sha256": "555b11683fd37118b20d5c5755e133d3fd64a1232ce205d5aee7fef2abeb021a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i filosofi: det erkjennende jeg",
+      "translation": "the knowing self",
+      "examples": []
+    },
+    {
+      "text": "motsatt objekt",
+      "translation": "object",
+      "examples": []
+    },
+    {
+      "text": "i grammatikk: setningsledd som verbalet sier noe om, og som betegner det som er eller gjør noe i aktive setninger, og det som handlingen rettes mot i passive setninger",
+      "translation": "sentence element that the predicate says something about, and which denotes what does something in active sentences, and what the action is directed towards in passive sentences",
+      "examples": [
+        {
+          "no": "‘mannen’ er subjekt i ‘mannen kjører bil’ og ‘bilen’ er subjekt i ‘bilen ble kjørt av mannen’",
+          "en": "'the man' is the subject in 'the man drives a car' and 'the car' is the subject in 'the car was driven by the man'"
+        }
+      ]
+    }
+  ]
+}

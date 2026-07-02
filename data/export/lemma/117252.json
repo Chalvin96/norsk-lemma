@@ -1,0 +1,124 @@
+{
+  "source_article_id": 117252,
+  "lemmas": [
+    {
+      "lemma": "hotellgjest",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 107168,
+      "is_sub_article": false,
+      "primary_translation": "hotel guest",
+      "word_forms": [
+        {
+          "word_form": "hotellgjest",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$\"tEl$%jE$st",
+              "ipa": "hʊˈtɛlˌjɛst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hotellgjesten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hutˈɛljˌɛstn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hotellgjester",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$\"tEl$%jE$st@r",
+              "ipa": "hʊˈtɛlˌjɛstər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hotellgjestene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hU$\"tEl$%jE$stn=$@",
+              "ipa": "hʊˈtɛlˌjɛstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "34da1756a0d7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/34da1756a0d7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/34da1756a0d7.mp3",
+            "text": "hotellgjest",
+            "source": "generated",
+            "content_sha256": "e45f1643a89c6ea37dcc46446eb6cc902b00981476903ea5fb76bb429f8baf25",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjest på hotell",
+      "translation": "guest at a hotel",
+      "examples": [
+        {
+          "no": "hotellgjestene stod i kø ved frokostbuffeen",
+          "en": "the hotel guests stood in line at the breakfast buffet"
+        }
+      ]
+    }
+  ]
+}

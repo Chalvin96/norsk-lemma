@@ -1,0 +1,159 @@
+{
+  "source_article_id": 5014,
+  "lemmas": [
+    {
+      "lemma": "beholdning",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5871,
+      "is_sub_article": false,
+      "primary_translation": "stock / inventory",
+      "word_forms": [
+        {
+          "word_form": "beholdning",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hOl$nIN",
+              "ipa": "bəˈhɔlnɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beholdningen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hOl$nIN$@n",
+              "ipa": "bəˈhɔlnɪŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beholdninger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hOl$nIN$@r",
+              "ipa": "bəˈhɔlnɪŋər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beholdningene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"hOl$nIN$@$n@",
+              "ipa": "bəˈhɔlnɪŋənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beholdninga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bəhˈɔlnɪŋɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "612a26dcdf89.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/612a26dcdf89.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/612a26dcdf89.mp3",
+            "text": "beholdning",
+            "source": "generated",
+            "content_sha256": "343ff9c4fdeaac60a83fef585877d0d892d7492721b7c41c46705582a32df6e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mengde av varer eller penger",
+      "translation": "quantity of goods, money",
+      "examples": []
+    },
+    {
+      "text": "lager, forråd",
+      "translation": "stock, supply",
+      "examples": [
+        {
+          "no": "beholdningen tar snart slutt",
+          "en": "the supply will soon run out"
+        },
+        {
+          "no": "bankens beholdning av penger",
+          "en": "the bank's holdings of money"
+        },
+        {
+          "no": "selskapets beholdning av aksjer",
+          "en": "the company's stock holdings"
+        }
+      ]
+    }
+  ]
+}

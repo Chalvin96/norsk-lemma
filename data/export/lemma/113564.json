@@ -1,0 +1,126 @@
+{
+  "source_article_id": 113564,
+  "lemmas": [
+    {
+      "lemma": "flikk",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 17867,
+      "is_sub_article": false,
+      "primary_translation": "flick (in ball games)",
+      "word_forms": [
+        {
+          "word_form": "flikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flIk",
+              "ipa": "ˈflɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flI$k@n",
+              "ipa": "ˈflɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flI$k@r",
+              "ipa": "ˈflɪkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flI$k@$n@",
+              "ipa": "ˈflɪkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "56d822b47fb4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56d822b47fb4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56d822b47fb4.mp3",
+            "text": "flikk",
+            "source": "generated",
+            "content_sha256": "db96e112eb274acd294ae9d7183483acae43d388df373fe193634c5a1981df25",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i ballspill: det å sende ballen videre i (tilnærmet) samme retning med et kort spark eller støt",
+      "translation": "in ball games: the act of passing the ball forward in (approximately) the same direction with a short kick or nudge",
+      "examples": [
+        {
+          "no": "hun satte ballen i mål med en flikk",
+          "en": "she flicked the ball into the goal"
+        },
+        {
+          "no": "han fikk ballen etter en flikk fra Solskjær",
+          "en": "he got the ball after a flick from Solskjaer"
+        }
+      ]
+    }
+  ]
+}

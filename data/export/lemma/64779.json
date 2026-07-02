@@ -1,0 +1,155 @@
+{
+  "source_article_id": 64779,
+  "lemmas": [
+    {
+      "lemma": "uredd",
+      "hgno": 1,
+      "pos": "ADJ",
+      "source_lemma_id": 74168,
+      "is_sub_article": false,
+      "primary_translation": "fearless / brave",
+      "word_forms": [
+        {
+          "word_form": "uredd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:$%rEd",
+              "ipa": "ˈʉːˌrɛd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uredde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%rE$d@",
+              "ipa": "ˈʉːˌrɛdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ureddere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːrˌɛdərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ureddest",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːrˌɛdəst",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ureddeste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːrˌɛdəstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ba7e27c5da9c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba7e27c5da9c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba7e27c5da9c.mp3",
+            "text": "uredd",
+            "source": "generated",
+            "content_sha256": "caf0743ca1fd7b22c742a9fb292185c71a12517f038cfead4acd52aa5597fda8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er redd",
+      "translation": "not afraid",
+      "examples": []
+    },
+    {
+      "text": "modig, djerv",
+      "translation": "brave, daring",
+      "examples": [
+        {
+          "no": "en uredd soldat",
+          "en": "a fearless soldier"
+        },
+        {
+          "no": "uredde politikere",
+          "en": "fearless politicians"
+        }
+      ]
+    }
+  ]
+}

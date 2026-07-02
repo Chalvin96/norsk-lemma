@@ -1,0 +1,126 @@
+{
+  "source_article_id": 6091,
+  "lemmas": [
+    {
+      "lemma": "bisk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 7169,
+      "is_sub_article": false,
+      "primary_translation": "dog (in address)",
+      "word_forms": [
+        {
+          "word_form": "bisk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bI$sk",
+              "ipa": "ˈbɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bisken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bI$sk@n",
+              "ipa": "ˈbɪskən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bisker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$sk@r",
+              "ipa": "ˈbɪskər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "biskene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$sk@$n@",
+              "ipa": "ˈbɪskənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5944a03cb7c1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5944a03cb7c1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5944a03cb7c1.mp3",
+            "text": "bisk",
+            "source": "generated",
+            "content_sha256": "baafff0b48ca096bb857fe3d9999d1164506beb7cdb4b14c79629d5a9fee3043",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særlig brukt i tiltale: hund",
+      "translation": "especially used in address: dog",
+      "examples": [
+        {
+          "no": "flink bisk!",
+          "en": "good dog!"
+        },
+        {
+          "no": "kom da, bisken!",
+          "en": "come on, doggie!"
+        }
+      ]
+    }
+  ]
+}

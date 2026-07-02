@@ -1,0 +1,137 @@
+{
+  "source_article_id": 34909,
+  "lemmas": [
+    {
+      "lemma": "leser",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 40629,
+      "is_sub_article": false,
+      "primary_translation": "reader / device for reading",
+      "word_forms": [
+        {
+          "word_form": "leser",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@r",
+              "ipa": "ˈleːsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "leseren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@n`",
+              "ipa": "ˈleːsəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lesere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@$r@",
+              "ipa": "ˈleːsərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "leserne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$s@$n`@",
+              "ipa": "ˈleːsəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dc8b476afc18.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc8b476afc18.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dc8b476afc18.mp3",
+            "text": "leser",
+            "source": "generated",
+            "content_sha256": "b75aefebce7bf1c00dea16f6bc45e37853de4a1c86a79b503584c3ceed62bdf2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som leser noe",
+      "translation": "person who reads something",
+      "examples": [
+        {
+          "no": "bladet har mange lesere",
+          "en": "the magazine has many readers"
+        }
+      ]
+    },
+    {
+      "text": "ivrig bibelleser",
+      "translation": "avid Bible reader",
+      "examples": []
+    },
+    {
+      "text": "innretning for overføring eller behandling av tekst eller data",
+      "translation": "device for transferring and processing text data",
+      "examples": [
+        {
+          "no": "optisk leser",
+          "en": "optical reader"
+        }
+      ]
+    }
+  ]
+}

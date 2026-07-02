@@ -1,0 +1,87 @@
+{
+  "source_article_id": 49995,
+  "lemmas": [
+    {
+      "lemma": "samnordisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57370,
+      "is_sub_article": false,
+      "primary_translation": "pan-Nordic",
+      "word_forms": [
+        {
+          "word_form": "samnordisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAm$%nUr$dI$sk",
+              "ipa": "ˈsɑmˌnʊrdɪsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "samnordiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAm$%nUr$dI$sk@",
+              "ipa": "ˈsɑmˌnʊrdɪskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "87b3ad159d2a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87b3ad159d2a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/87b3ad159d2a.mp3",
+            "text": "samnordisk",
+            "source": "generated",
+            "content_sha256": "29ccea054dcd92073f29c3f8d97f10f27a82b903ff7de66d0e666dc717e0cd45",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er felles for eller gjelder hele Norden",
+      "translation": "that is common to or applies to all of the Nordic countries",
+      "examples": [
+        {
+          "no": "samnordisk innsats for å beskytte natur og miljø",
+          "en": "pan-Nordic efforts to protect nature and the environment"
+        }
+      ]
+    }
+  ]
+}

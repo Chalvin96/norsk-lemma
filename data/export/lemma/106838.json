@@ -1,0 +1,127 @@
+{
+  "source_article_id": 106838,
+  "lemmas": [
+    {
+      "lemma": "klimautslipp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160456,
+      "is_sub_article": false,
+      "primary_translation": "climate emission",
+      "word_forms": [
+        {
+          "word_form": "klimautslipp",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kli:$mA$}:t$%SlIp",
+              "ipa": "ˈklɪːmɑʉːtˌʃlɪp",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klimautslippet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "klˈiːmɑʉːtʃlˌɪpə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "klimautslippa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "klˈiːmɑʉːtʃlˌɪpɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "klimautslippene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kli:$mA$}:t$%SlI$p@$n@",
+              "ipa": "ˈklɪːmɑʉːtˌʃlɪpənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9d4cd10013a7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9d4cd10013a7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9d4cd10013a7.mp3",
+            "text": "klimautslipp",
+            "source": "generated",
+            "content_sha256": "68b54f97dc7c2a74cf80a14980c14ec82c364578cabeaa0be7d5738f1728b67b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utslipp utslepp av klimagass",
+      "translation": "emission of greenhouse gas",
+      "examples": [
+        {
+          "no": "oljeindustrien står for en stor del av klimautslippene",
+          "en": "the oil industry accounts for a large share of greenhouse gas emissions"
+        }
+      ]
+    }
+  ]
+}

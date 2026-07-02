@@ -1,0 +1,87 @@
+{
+  "source_article_id": 27261,
+  "lemmas": [
+    {
+      "lemma": "islandsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 32367,
+      "is_sub_article": false,
+      "primary_translation": "Icelandic",
+      "word_forms": [
+        {
+          "word_form": "islandsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"i:$%slAnsk",
+              "ipa": "ˈɪːˌslɑnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "islandske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"i:$%slAn$sk@",
+              "ipa": "ˈɪːˌslɑnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "274354883c45.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/274354883c45.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/274354883c45.mp3",
+            "text": "islandsk",
+            "source": "generated",
+            "content_sha256": "8d52f0c700db23160bb60e5a6b3256fc8738951a843673c522fbcea933c8cf95",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Island og islendinger",
+      "translation": "relating to Iceland and Icelanders",
+      "examples": [
+        {
+          "no": "islandsk statsborger",
+          "en": "Icelandic citizen"
+        }
+      ]
+    }
+  ]
+}

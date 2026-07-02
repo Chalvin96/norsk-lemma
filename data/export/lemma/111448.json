@@ -1,0 +1,148 @@
+{
+  "source_article_id": 111448,
+  "lemmas": [
+    {
+      "lemma": "børsmelding",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163348,
+      "is_sub_article": false,
+      "primary_translation": "stock exchange announcement",
+      "word_forms": [
+        {
+          "word_form": "børsmelding",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b2:$%s`mE$lIN",
+              "ipa": "ˈbøːˌʂmɛlɪŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "børsmeldingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b2:$%s`mE$lIN$@n",
+              "ipa": "ˈbøːˌʂmɛlɪŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "børsmeldinger",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"b2:$%s`mE$lIN$@r",
+              "ipa": "ˈbøːˌʂmɛlɪŋər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "børsmeldingene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈøːʂmˌɛlɪŋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "børsmeldinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈøːʂmˌɛlɪŋɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c62f193481d2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c62f193481d2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c62f193481d2.mp3",
+            "text": "børsmelding",
+            "source": "generated",
+            "content_sha256": "3d9f059a9af31dfd675cb8f2bc4418f7dcbc01293e8729c759a52045fda901e0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kunngjøring fra børs som inneholder en nyhet om et selskap",
+      "translation": "announcement from the stock exchange containing news about a company",
+      "examples": [
+        {
+          "no": "sende ut en børsmelding om den nye kontrakten",
+          "en": "issue a stock exchange announcement about the new contract"
+        }
+      ]
+    }
+  ]
+}

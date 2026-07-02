@@ -1,0 +1,127 @@
+{
+  "source_article_id": 35864,
+  "lemmas": [
+    {
+      "lemma": "lovord",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 41655,
+      "is_sub_article": false,
+      "primary_translation": "praise",
+      "word_forms": [
+        {
+          "word_form": "lovord",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lo:$%vu:r",
+              "ipa": "ˈloːˌvuːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lovordet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lo:$%vu:$r@",
+              "ipa": "ˈloːˌvuːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lovorda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lo:$%vu:$rA",
+              "ipa": "ˈloːˌvuːrɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lovordene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lo:$%vu:$n`=$@",
+              "ipa": "ˈloːˌvuːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "323e397c3f0f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/323e397c3f0f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/323e397c3f0f.mp3",
+            "text": "lovord",
+            "source": "generated",
+            "content_sha256": "d0b49d1b49d35218d2d194fd7f8f9550b30b7d9102e7a35b167841c8463d8d0c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rosende omtale",
+      "translation": "praiseful mention",
+      "examples": [
+        {
+          "no": "han fikk mange lovord for arbeidet",
+          "en": "he received much praise for the work"
+        },
+        {
+          "no": "hun var full av lovord",
+          "en": "she was full of praise"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_article_id": 6705,
+  "lemmas": [
+    {
+      "lemma": "blåne",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 7843,
+      "is_sub_article": false,
+      "primary_translation": "blue ridge (distant)",
+      "word_forms": [
+        {
+          "word_form": "blåne",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$n@",
+              "ipa": "ˈbloːnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blånen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$nn=",
+              "ipa": "ˈbloːnn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$n@r",
+              "ipa": "ˈbloːnər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blånene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$nn=$@",
+              "ipa": "ˈbloːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5c7e683cd5b3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5c7e683cd5b3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5c7e683cd5b3.mp3",
+            "text": "blåne",
+            "source": "generated",
+            "content_sha256": "f38b25840a3070db3642fa4ec890345eb5497490af7373423b29c511333eafa2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "høydedrag som ligger så langt borte at det ser blått ut mot fjell enda lenger borte eller mot synsranden",
+      "translation": "ridge that is so far away it appears blue against mountains even further away or the horizon",
+      "examples": [
+        {
+          "no": "bortenfor alle blåner",
+          "en": "beyond all blue hills"
+        },
+        {
+          "no": "utsikt over blåner og hav",
+          "en": "a view of blue hills and sea"
+        }
+      ]
+    }
+  ]
+}

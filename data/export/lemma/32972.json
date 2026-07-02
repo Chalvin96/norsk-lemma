@@ -1,0 +1,126 @@
+{
+  "source_article_id": 32972,
+  "lemmas": [
+    {
+      "lemma": "kval",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 38664,
+      "is_sub_article": false,
+      "primary_translation": "torment",
+      "word_forms": [
+        {
+          "word_form": "kval",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kvA:l",
+              "ipa": "ˈkvɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kvalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kvA:$ln=",
+              "ipa": "ˈkvɑːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kvaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvA:$l@r",
+              "ipa": "ˈkvɑːlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kvalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvA:$ln=$@",
+              "ipa": "ˈkvɑːln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "72ed836dbd6b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/72ed836dbd6b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/72ed836dbd6b.mp3",
+            "text": "kval",
+            "source": "generated",
+            "content_sha256": "b12f71d1f4e8679f0630ddeab89a1af7d1ca20087555d4c5990b9665edc18123",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lidelse, pine",
+      "translation": "suffering, torment",
+      "examples": [
+        {
+          "no": "lide helvetes kvaler",
+          "en": "suffer hellish torments"
+        },
+        {
+          "no": "valgets kval",
+          "en": "the agony of choice"
+        }
+      ]
+    }
+  ]
+}

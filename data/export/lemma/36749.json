@@ -1,0 +1,110 @@
+{
+  "source_article_id": 36749,
+  "lemmas": [
+    {
+      "lemma": "malisiøs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43135,
+      "is_sub_article": false,
+      "primary_translation": "malicious",
+      "word_forms": [
+        {
+          "word_form": "malisiøs",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$lI$sI$\"2:s",
+              "ipa": "mɑlɪsɪˈøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "malisiøse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$lI$sI$\"2:$s@",
+              "ipa": "mɑlɪsɪˈøːsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "malisiøst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$lI$sI$\"2:$st",
+              "ipa": "mɑlɪsɪˈøːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6ac27bad326a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ac27bad326a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6ac27bad326a.mp3",
+            "text": "malisiøs",
+            "source": "generated",
+            "content_sha256": "f4370d03297ee0f2d83136df3ba430855a7efcc33cbdefce361807e0a9452a19",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ondskapsfull, skadefro",
+      "translation": "malicious, gloating",
+      "examples": [
+        {
+          "no": "malisiøs glede",
+          "en": "malicious joy"
+        },
+        {
+          "no": "en malisiøs replikk",
+          "en": "a malicious retort"
+        }
+      ]
+    }
+  ]
+}

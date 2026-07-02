@@ -1,0 +1,87 @@
+{
+  "source_article_id": 3507,
+  "lemmas": [
+    {
+      "lemma": "avgått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4162,
+      "is_sub_article": false,
+      "primary_translation": "resigned",
+      "word_forms": [
+        {
+          "word_form": "avgått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%gOt",
+              "ipa": "ˈɑːvˌgɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "avgåtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%gO$t@",
+              "ipa": "ˈɑːvˌgɔtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fc1dc8dd4313.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc1dc8dd4313.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc1dc8dd4313.mp3",
+            "text": "avgått",
+            "source": "generated",
+            "content_sha256": "bced38e4713c93cfa432cede50e962f95a2a58a86e99f20469cac95ef644b250",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har fratrådt en stilling",
+      "translation": "who has resigned from a position",
+      "examples": [
+        {
+          "no": "en avgått statsminister",
+          "en": "a former prime minister"
+        }
+      ]
+    }
+  ]
+}

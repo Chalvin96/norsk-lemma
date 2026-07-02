@@ -1,0 +1,127 @@
+{
+  "source_article_id": 25027,
+  "lemmas": [
+    {
+      "lemma": "hyssing",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29549,
+      "is_sub_article": false,
+      "primary_translation": "string / twine",
+      "word_forms": [
+        {
+          "word_form": "hyssing",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hY$sIN",
+              "ipa": "ˈhʏsɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hyssingen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hY$sIN$@n",
+              "ipa": "ˈhʏsɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hyssinger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hY$sIN$@r",
+              "ipa": "ˈhʏsɪŋər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hyssingene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hY$sIN$@$n@",
+              "ipa": "ˈhʏsɪŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e78724ef44ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e78724ef44ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e78724ef44ab.mp3",
+            "text": "hyssing",
+            "source": "generated",
+            "content_sha256": "af285fcfbd94e41496c329da9bed0e4a02ca7253716d49f83b3ca5d839964025",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grov tråd",
+      "translation": "coarse thread",
+      "examples": []
+    },
+    {
+      "text": "snøre",
+      "translation": "string",
+      "examples": [
+        {
+          "no": "binde hyssing om en pakke",
+          "en": "tie string around a package"
+        }
+      ]
+    }
+  ]
+}

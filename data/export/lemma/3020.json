@@ -1,0 +1,101 @@
+{
+  "source_article_id": 3020,
+  "lemmas": [
+    {
+      "lemma": "asynkron",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3580,
+      "is_sub_article": false,
+      "primary_translation": "asynchronous",
+      "word_forms": [
+        {
+          "word_form": "asynkron",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$sYN$%kru:n",
+              "ipa": "ˈɑːsʏŋˌkruːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "asynkrone",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$sYN$%kru:$n@",
+              "ipa": "ˈɑːsʏŋˌkruːnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "asynkront",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$sYN$%kru:nt",
+              "ipa": "ˈɑːsʏŋˌkruːnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "403419a4c7c3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/403419a4c7c3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/403419a4c7c3.mp3",
+            "text": "asynkron",
+            "source": "generated",
+            "content_sha256": "fb3162a54bb065d39ba3f01fa8c8e83d49daecd5d144e225e33f984492eb70f6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke synkron",
+      "translation": "not synchronous",
+      "examples": []
+    }
+  ]
+}

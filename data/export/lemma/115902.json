@@ -1,0 +1,112 @@
+{
+  "source_article_id": 115902,
+  "lemmas": [
+    {
+      "lemma": "halvmørk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 104865,
+      "is_sub_article": false,
+      "primary_translation": "dim / twilight",
+      "word_forms": [
+        {
+          "word_form": "halvmørk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlmˌœrk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "halvmørke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAl$%m9r$k@",
+              "ipa": "ˈhɑlˌmœrkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "halvmørkt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAl$%m9rkt",
+              "ipa": "ˈhɑlˌmœrkt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7ee79135e891.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ee79135e891.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ee79135e891.mp3",
+            "text": "halvmørk",
+            "source": "generated",
+            "content_sha256": "1faeed5276544fa5dc36793c268e705159b55f5534c98422cb1f72b70f7de3e0"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ganske mørk",
+      "translation": "quite dark",
+      "examples": []
+    },
+    {
+      "text": "skym, tussmørk",
+      "translation": "twilight, dusk",
+      "examples": [
+        {
+          "no": "halvmørke kvelder",
+          "en": "half-dark evenings"
+        }
+      ]
+    }
+  ]
+}

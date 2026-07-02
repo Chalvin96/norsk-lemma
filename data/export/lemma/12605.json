@@ -1,0 +1,91 @@
+{
+  "source_article_id": 12605,
+  "lemmas": [
+    {
+      "lemma": "endemisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14704,
+      "is_sub_article": false,
+      "primary_translation": "endemic",
+      "word_forms": [
+        {
+          "word_form": "endemisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "En$\"de:$mI$sk",
+              "ipa": "ɛnˈdeːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "endemiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "En$\"de:$mI$sk@",
+              "ipa": "ɛnˈdeːmɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6e64e1071554.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e64e1071554.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6e64e1071554.mp3",
+            "text": "endemisk",
+            "source": "generated",
+            "content_sha256": "07ec30c7237482a750ea96f70fe44abb2f9be8fc1cb87614467bf3b427cd94f3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bare forekommer innenfor et begrenset geografisk område",
+      "translation": "occurring only within a limited geographical area",
+      "examples": [
+        {
+          "no": "en nasjonalpark med mange endemiske dyre- og plantearter",
+          "en": "a national park with many endemic animal and plant species"
+        },
+        {
+          "no": "endemisk sykdom",
+          "en": "endemic disease"
+        }
+      ]
+    }
+  ]
+}

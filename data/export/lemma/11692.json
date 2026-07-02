@@ -1,0 +1,116 @@
+{
+  "source_article_id": 11692,
+  "lemmas": [
+    {
+      "lemma": "edsvoren",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13638,
+      "is_sub_article": false,
+      "primary_translation": "sworn",
+      "word_forms": [
+        {
+          "word_form": "edsvoren",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"e:d$%svu:$n`=",
+              "ipa": "ˈeːdˌsvuːɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "edsvorne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"e:d$%svu:$n`@",
+              "ipa": "ˈeːdˌsvuːɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "edsvorent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"e:d$%svu:$n`=t`",
+              "ipa": "ˈeːdˌsvuːɳ̩ʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "827c738ec021.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/827c738ec021.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/827c738ec021.mp3",
+            "text": "edsvoren",
+            "source": "generated",
+            "content_sha256": "207f460338d9637f4fa32f6e7cfa1448f640a22ea21e0d9d2ce0869b659ce93a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har avlagt ed",
+      "translation": "who has taken an oath",
+      "examples": [
+        {
+          "no": "edsvoren dommer",
+          "en": "a sworn judge"
+        }
+      ]
+    },
+    {
+      "text": "som har forpliktet seg til noe ved ed",
+      "translation": "who has committed to something by oath",
+      "examples": [
+        {
+          "no": "en edsvoren erklæring",
+          "en": "a sworn statement"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 63686,
+  "lemmas": [
+    {
+      "lemma": "ubetalt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 72911,
+      "is_sub_article": false,
+      "primary_translation": "unpaid",
+      "word_forms": [
+        {
+          "word_form": "ubetalt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$b@$%tA:lt",
+              "ipa": "ˈʉːbəˌtɑːlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ubetalte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$b@$%tA:l$t@",
+              "ipa": "ˈʉːbəˌtɑːltə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d16ee0110bfc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d16ee0110bfc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d16ee0110bfc.mp3",
+            "text": "ubetalt",
+            "source": "generated",
+            "content_sha256": "9f5619d84d99f3ca5ed6afe2a8f2570da435476e3cde0cc5a6505395f5406ec3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke er betalt",
+      "translation": "unpaid",
+      "examples": [
+        {
+          "no": "ubetalte regninger",
+          "en": "unpaid bills"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source_article_id": 55865,
+  "lemmas": [
+    {
+      "lemma": "spedalsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64282,
+      "is_sub_article": false,
+      "primary_translation": "leprous",
+      "word_forms": [
+        {
+          "word_form": "spedalsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sp@$\"dA:lsk",
+              "ipa": "spəˈdɑːlsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spedalske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sp@$\"dA:l$sk@",
+              "ipa": "spəˈdɑːlskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "561419158e1c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/561419158e1c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/561419158e1c.mp3",
+            "text": "spedalsk",
+            "source": "generated",
+            "content_sha256": "be31061a6f05f279df2df8edfe2cfb7c4266cea5f0939b0ada17fda6d36d7d2a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lider av spedalskhet",
+      "translation": "suffering from leprosy",
+      "examples": []
+    }
+  ]
+}

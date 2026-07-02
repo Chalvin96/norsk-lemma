@@ -1,0 +1,124 @@
+{
+  "source_article_id": 110238,
+  "lemmas": [
+    {
+      "lemma": "salgspris",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 135629,
+      "is_sub_article": false,
+      "primary_translation": "selling price",
+      "word_forms": [
+        {
+          "word_form": "salgspris",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAlg$%spri:s",
+              "ipa": "ˈsɑlgˌsprɪːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "salgsprisen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAlg$%spri:$sn=",
+              "ipa": "ˈsɑlgˌsprɪːsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "salgspriser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAlg$%spri:$s@r",
+              "ipa": "ˈsɑlgˌsprɪːsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "salgsprisene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑlgsprˌiːsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "94b8d4b693b5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/94b8d4b693b5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/94b8d4b693b5.mp3",
+            "text": "salgspris",
+            "source": "generated",
+            "content_sha256": "93a291a57ddccaa7f4c11522fc87a4fb74983d97d9425421f98c86dd7676d682",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pris som noe selges for",
+      "translation": "price at which something is sold",
+      "examples": [
+        {
+          "no": "salgspris er satt til fire millioner",
+          "en": "the sale price is set at four million"
+        }
+      ]
+    }
+  ]
+}

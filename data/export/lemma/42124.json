@@ -1,0 +1,123 @@
+{
+  "source_article_id": 42124,
+  "lemmas": [
+    {
+      "lemma": "omheng",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 49219,
+      "is_sub_article": false,
+      "primary_translation": "hanging curtain",
+      "word_forms": [
+        {
+          "word_form": "omheng",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$%hEN",
+              "ipa": "ˈɔmˌhɛŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "omhenget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$%hEN$@",
+              "ipa": "ˈɔmˌhɛŋə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "omhenga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$%hEN$A",
+              "ipa": "ˈɔmˌhɛŋɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "omhengene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$%hEN$@$n@",
+              "ipa": "ˈɔmˌhɛŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "542ba61684ac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/542ba61684ac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/542ba61684ac.mp3",
+            "text": "omheng",
+            "source": "generated",
+            "content_sha256": "3bb7dc86558805a5e88254d43b1ee6a64a31571f4e033b6cc2519e8508e31a62",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gardin eller lignende som henger rundt noe",
+      "translation": "curtain that hangs around something",
+      "examples": [
+        {
+          "no": "omhenget til dusjen",
+          "en": "the shower curtain"
+        }
+      ]
+    }
+  ]
+}

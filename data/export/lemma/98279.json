@@ -1,0 +1,131 @@
+{
+  "source_article_id": 98279,
+  "lemmas": [
+    {
+      "lemma": "eksponentiell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 95204,
+      "is_sub_article": false,
+      "primary_translation": "exponential",
+      "word_forms": [
+        {
+          "word_form": "eksponentiell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$spU$n@n$sI$\"El",
+              "ipa": "ɛkspʊnənsɪˈɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksponentielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛkspunənsɪˈɛlə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "eksponentielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛkspunənsɪˈɛlt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "33b5ee527cb6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/33b5ee527cb6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/33b5ee527cb6.mp3",
+            "text": "eksponentiell",
+            "source": "generated",
+            "content_sha256": "6cb35e2cc1d5b2ca9dbaa969756309d6d0ecd38d9fad6905102a3c82b56f9de3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eksponent",
+      "translation": "concerning an exponent",
+      "examples": [
+        {
+          "no": "eksponentielle funksjoner",
+          "en": "exponential functions"
+        }
+      ]
+    },
+    {
+      "text": "som utvikler seg likt en eksponentialfunksjon",
+      "translation": "developing like an exponential function",
+      "examples": []
+    },
+    {
+      "text": "som blir stadig større eller utvikler seg etter en stadig brattere kurve",
+      "translation": "increasing or developing along an ever steeper curve",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra lineær",
+      "translation": "as opposed to linear",
+      "examples": [
+        {
+          "no": "et eksponentielt forløp",
+          "en": "an exponential progression"
+        },
+        {
+          "no": "en populasjon med eksponentiell vekst",
+          "en": "a population with exponential growth"
+        }
+      ]
+    }
+  ]
+}

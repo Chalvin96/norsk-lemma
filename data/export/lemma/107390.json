@@ -1,0 +1,134 @@
+{
+  "source_article_id": 107390,
+  "lemmas": [
+    {
+      "lemma": "angreknapp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160846,
+      "is_sub_article": false,
+      "primary_translation": "undo button / figurative undo",
+      "word_forms": [
+        {
+          "word_form": "angreknapp",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑŋrəknˌɑp",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "angreknappen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑŋrəknˌɑpən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "angreknapper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑŋrəknˌɑpər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "angreknappene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑŋrəknˌɑpənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c826d995df21.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c826d995df21.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c826d995df21.mp3",
+            "text": "angreknapp",
+            "source": "generated",
+            "content_sha256": "d920ae4d31925346e9874dd91f6c18c27fec74ba60fef5851757151667b7937b"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "knapp på tastatur til en datamaskin som gjør at en får tilbake en tidligere versjon av det en har skrevet",
+      "translation": "button on a computer keyboard that allows one to revert to a previous version of what has been written",
+      "examples": []
+    },
+    {
+      "text": "i overført betydning: mulighet til å gjøre noe ugjort",
+      "translation": "in a figurative sense: opportunity to undo something",
+      "examples": [
+        {
+          "no": "vi fattet gale beslutninger, og det fins ingen angreknapp",
+          "en": "we made bad decisions, and there is no undo button"
+        }
+      ]
+    }
+  ]
+}

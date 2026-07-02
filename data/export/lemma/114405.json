@@ -1,0 +1,88 @@
+{
+  "source_article_id": 114405,
+  "lemmas": [
+    {
+      "lemma": "franchisedrevet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 164928,
+      "is_sub_article": false,
+      "primary_translation": "franchise-operated",
+      "word_forms": [
+        {
+          "word_form": "franchisedrevet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frɑŋʃˈiːsədrˌeːʋət",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "franchisedrevne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frɑŋʃˈiːsədrˌeːʋnə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9eb97c4343fe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9eb97c4343fe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9eb97c4343fe.mp3",
+            "text": "franchisedrevet",
+            "source": "generated",
+            "content_sha256": "0f5709442d4ef8cedbbc9d98d2b4bd370018d388b8d306f86867624ee1f38ea9"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "drevet som del av franchisekjede",
+      "translation": "operated as part of a franchise chain",
+      "examples": [
+        {
+          "no": "salongene er delvis egeneide, delvis franchisedrevne",
+          "en": "the salons are partly company-owned, partly franchise-operated"
+        }
+      ]
+    }
+  ]
+}

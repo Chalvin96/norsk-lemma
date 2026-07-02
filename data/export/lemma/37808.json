@@ -1,0 +1,87 @@
+{
+  "source_article_id": 37808,
+  "lemmas": [
+    {
+      "lemma": "mellomnorsk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 44370,
+      "is_sub_article": false,
+      "primary_translation": "Middle Norwegian",
+      "word_forms": [
+        {
+          "word_form": "mellomnorsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$lOm$%nO$s`k",
+              "ipa": "ˈmɛlɔmˌnɔʂk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "mellomnorske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mE$lOm$%nO$s`k@",
+              "ipa": "ˈmɛlɔmˌnɔʂkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "27317947276f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/27317947276f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/27317947276f.mp3",
+            "text": "mellomnorsk",
+            "source": "generated",
+            "content_sha256": "dc4f141c37bb35bbeceff30c0c219d9614baaece7fcc03ece5498633736f8a14",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder mellomnorsk",
+      "translation": "relating to Middle Norwegian",
+      "examples": [
+        {
+          "no": "i mellomnorsk tid",
+          "en": "in the Middle Norwegian period"
+        }
+      ]
+    }
+  ]
+}

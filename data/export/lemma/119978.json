@@ -1,0 +1,104 @@
+{
+  "source_article_id": 119978,
+  "lemmas": [
+    {
+      "lemma": "katatonisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168152,
+      "is_sub_article": false,
+      "primary_translation": "catatonic",
+      "word_forms": [
+        {
+          "word_form": "katatonisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑtɑtˈuːnɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "katatoniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑtɑtˈuːnɪskə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4115a5c51d34.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4115a5c51d34.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4115a5c51d34.mp3",
+            "text": "katatonisk",
+            "source": "generated",
+            "content_sha256": "027b5c62af470e3226820f48677f66dfcee0736d9d9ade10ebd6bf80816ef76f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i medisin: som er stivnet på grunn av katatoni",
+      "translation": "stiffened due to catatonia",
+      "examples": []
+    },
+    {
+      "text": "som er ute av stand til å bevege seg",
+      "translation": "unable to move",
+      "examples": []
+    },
+    {
+      "text": "stivnet",
+      "translation": "stiffened",
+      "examples": [
+        {
+          "no": "de så foran seg med katatoniske blikk",
+          "en": "they stared straight ahead with catatonic expressions"
+        },
+        {
+          "no": "han var katatonisk av sorg",
+          "en": "he was catatonic with grief"
+        }
+      ]
+    }
+  ]
+}

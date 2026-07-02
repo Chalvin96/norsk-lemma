@@ -1,0 +1,131 @@
+{
+  "source_article_id": 9222,
+  "lemmas": [
+    {
+      "lemma": "damper",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10891,
+      "is_sub_article": false,
+      "primary_translation": "steamship",
+      "word_forms": [
+        {
+          "word_form": "damper",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dAm$p@r",
+              "ipa": "ˈdɑmpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "damperen",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dAm$p@n`",
+              "ipa": "ˈdɑmpəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dampere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dAm$p@$r@",
+              "ipa": "ˈdɑmpərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "damperne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dAm$p@$n`@",
+              "ipa": "ˈdɑmpəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "77ef473ecaa8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77ef473ecaa8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/77ef473ecaa8.mp3",
+            "text": "damper",
+            "source": "generated",
+            "content_sha256": "e4ca5f6e75f6f28b4d3c15920961d167f1c17ca0e652759db540ed2e3911dbcf",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "farkost som er drevet av en dampmaskin",
+      "translation": "vessel propelled by a steam engine",
+      "examples": []
+    },
+    {
+      "text": "dampbåt, dampskip",
+      "translation": "steamship, steamboat",
+      "examples": [
+        {
+          "no": "en damper av Stavanger",
+          "en": "a steamer from Stavanger"
+        },
+        {
+          "no": "en enslig damper med kursen mot vågen",
+          "en": "a solitary steamer heading toward the bay"
+        }
+      ]
+    }
+  ]
+}

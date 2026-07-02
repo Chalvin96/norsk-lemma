@@ -1,0 +1,121 @@
+{
+  "source_article_id": 17619,
+  "lemmas": [
+    {
+      "lemma": "franko",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 20521,
+      "is_sub_article": false,
+      "primary_translation": "postage amount",
+      "word_forms": [
+        {
+          "word_form": "franko",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frAN$kU",
+              "ipa": "ˈfrɑŋkʊ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "frankoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"frAN$kU$@n",
+              "ipa": "ˈfrɑŋkʊən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "frankoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɑŋkuər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "frankoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɑŋkuənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4d10e8fbb164.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4d10e8fbb164.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4d10e8fbb164.mp3",
+            "text": "franko",
+            "source": "generated",
+            "content_sha256": "300ae5b3c929aedaee581fc6e338833490e2d46ccdbd96fc66e509a73c620325",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "beløp som porto utgjør",
+      "translation": "amount representing postage",
+      "examples": []
+    }
+  ]
+}

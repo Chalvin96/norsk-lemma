@@ -1,0 +1,121 @@
+{
+  "source_article_id": 100505,
+  "lemmas": [
+    {
+      "lemma": "liks",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 40981,
+      "is_sub_article": false,
+      "primary_translation": "readability",
+      "word_forms": [
+        {
+          "word_form": "liks",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"li:ks",
+              "ipa": "ˈlɪːks",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "liksen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lIk$sn=",
+              "ipa": "ˈlɪksn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "likser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɪksər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "liksene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɪksn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "02d2b121f5f5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/02d2b121f5f5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/02d2b121f5f5.mp3",
+            "text": "liks",
+            "source": "generated",
+            "content_sha256": "82b95234e4f309b3ddee2798f637247109451cd226592e2fe5856c723b8d99d4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mål på hvor lett eller tung en tekst er å oppfatte",
+      "translation": "measure of how easy or difficult a text is to understand",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 64619,
+  "lemmas": [
+    {
+      "lemma": "unnskyldelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73991,
+      "is_sub_article": false,
+      "primary_translation": "excusable",
+      "word_forms": [
+        {
+          "word_form": "unnskyldelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0n$\"SYl$d@$lI",
+              "ipa": "ʉnˈʃʏldəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "unnskyldelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0n$\"SYl$d@$lI$@",
+              "ipa": "ʉnˈʃʏldəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5727639fe4bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5727639fe4bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5727639fe4bc.mp3",
+            "text": "unnskyldelig",
+            "source": "generated",
+            "content_sha256": "ccebe1f65b66e504e7389fcbed9809ada8bb7fbd647776696fa2c2c487f91300",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan eller bør unnskyldes",
+      "translation": "that which can or should be excused",
+      "examples": [
+        {
+          "no": "forsinkelsen skyldes en unnskyldelig omstendighet",
+          "en": "the delay is due to an excusable circumstance"
+        }
+      ]
+    }
+  ]
+}

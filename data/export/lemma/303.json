@@ -1,0 +1,82 @@
+{
+  "source_article_id": 303,
+  "lemmas": [
+    {
+      "lemma": "afghansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1090,
+      "is_sub_article": false,
+      "primary_translation": "Afghan",
+      "word_forms": [
+        {
+          "word_form": "afghansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Af$\"gA:nsk",
+              "ipa": "ɑfˈgɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "afghanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Af$\"gA:n$sk@",
+              "ipa": "ɑfˈgɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "799f2a30243d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/799f2a30243d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/799f2a30243d.mp3",
+            "text": "afghansk",
+            "source": "generated",
+            "content_sha256": "8e5c5c45e52dbe684f01e9c47ac9796920dcf8aab967934ef9fcfdac60cbb0e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Afghanistan og afghanere",
+      "translation": "relating to Afghanistan and Afghans",
+      "examples": []
+    }
+  ]
+}

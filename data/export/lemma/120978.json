@@ -1,0 +1,87 @@
+{
+  "source_article_id": 120978,
+  "lemmas": [
+    {
+      "lemma": "kulturhistorisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 117659,
+      "is_sub_article": false,
+      "primary_translation": "cultural-historical",
+      "word_forms": [
+        {
+          "word_form": "kulturhistorisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0l$\"t}:r$hI$%stu:$rI$sk",
+              "ipa": "kʉlˈtʉːrhɪˌstuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kulturhistoriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ku0l$\"t}:r$hI$%stu:$rI$sk@",
+              "ipa": "kʉlˈtʉːrhɪˌstuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e0adef6f6b22.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e0adef6f6b22.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e0adef6f6b22.mp3",
+            "text": "kulturhistorisk",
+            "source": "generated",
+            "content_sha256": "46f1c6cd54366f91fc01d5caf4f098c6e374101af9d70bb45183ea307c77e838",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kulturhistorie",
+      "translation": "relating to cultural history",
+      "examples": [
+        {
+          "no": "et kulturhistorisk museum",
+          "en": "a cultural history museum"
+        }
+      ]
+    }
+  ]
+}

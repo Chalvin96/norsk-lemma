@@ -1,0 +1,137 @@
+{
+  "source_article_id": 60100,
+  "lemmas": [
+    {
+      "lemma": "teknisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68762,
+      "is_sub_article": false,
+      "primary_translation": "technical / practical",
+      "word_forms": [
+        {
+          "word_form": "teknisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tE$knI$sk",
+              "ipa": "ˈtɛknɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tekniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tE$knI$sk@",
+              "ipa": "ˈtɛknɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8c9f66aa7776.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c9f66aa7776.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c9f66aa7776.mp3",
+            "text": "teknisk",
+            "source": "generated",
+            "content_sha256": "267641498a5c5a6b46c3ece8cc3a1a7cf4e823a022d49faf433e041f7379826b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder teknikk",
+      "translation": "relating to technique",
+      "examples": []
+    },
+    {
+      "text": "som gjelder metodikk som gjør at noe lages, utføres eller at noe virker",
+      "translation": "relating to methodology that makes something be made, performed, or work",
+      "examples": [
+        {
+          "no": "det var en teknisk feil i det elektriske anlegget",
+          "en": "there was a technical fault in the electrical system"
+        },
+        {
+          "no": "tekniske hjelpemidler kan lette hverdagen",
+          "en": "technical aids can make everyday life easier"
+        }
+      ]
+    },
+    {
+      "text": "som har med teknikk eller innøvde praktiske ferdigheter å gjøre",
+      "translation": "relating to practiced practical skills",
+      "examples": [
+        {
+          "no": "det var en dårlig teknisk framførelse",
+          "en": "it was a poor technical performance"
+        },
+        {
+          "no": "en utrolig teknisk pianist",
+          "en": "an incredibly technical pianist"
+        },
+        {
+          "no": "denne øvelsen i friidrett er svært teknisk",
+          "en": "this track and field event is highly technical"
+        }
+      ]
+    },
+    {
+      "text": "som gjelder formelle krav eller forutsetninger",
+      "translation": "relating to formal requirements or prerequisites",
+      "examples": []
+    },
+    {
+      "text": "praktisk",
+      "translation": "practical",
+      "examples": [
+        {
+          "no": "det var teknisk umulig å komme fram i tide",
+          "en": "it was technically impossible to arrive on time"
+        },
+        {
+          "no": "teknisk sett kan du først begynne i jobben neste måned",
+          "en": "technically speaking, you can't start the job until next month"
+        },
+        {
+          "no": "det er teknisk korrekt at du kan bruke alle pengene, men det betyr ikke at du burde gjøre det",
+          "en": "it is technically correct that you can use all the money, but that doesn't mean you should do it"
+        }
+      ]
+    }
+  ]
+}

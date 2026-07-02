@@ -1,0 +1,78 @@
+{
+  "source_article_id": 57979,
+  "lemmas": [
+    {
+      "lemma": "styrbord",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 162153,
+      "is_sub_article": false,
+      "primary_translation": "starboard / port",
+      "word_forms": [
+        {
+          "word_form": "styrbord",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sty:r$%bu:r",
+              "ipa": "ˈstyːrˌbuːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "47d5a284ac49.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/47d5a284ac49.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/47d5a284ac49.mp3",
+            "text": "styrbord",
+            "source": "generated",
+            "content_sha256": "6e590ba0e1bebf819115e7e5a85d6d3e91666e4d498f2ff65d435d26ab59bdf7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er på høyre side av et fartøy sett fra akterenden",
+      "translation": "on the right-hand side of a vessel as seen from the stern",
+      "examples": []
+    },
+    {
+      "text": "motsatt babord",
+      "translation": "starboard",
+      "examples": [
+        {
+          "no": "på styrbord side",
+          "en": "on the starboard side"
+        },
+        {
+          "no": "dreie roret hardt styrbord",
+          "en": "turn the rudder hard to starboard"
+        }
+      ]
+    }
+  ]
+}

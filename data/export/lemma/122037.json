@@ -1,0 +1,124 @@
+{
+  "source_article_id": 122037,
+  "lemmas": [
+    {
+      "lemma": "levegg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 120211,
+      "is_sub_article": false,
+      "primary_translation": "windbreak",
+      "word_forms": [
+        {
+          "word_form": "levegg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"le:$%vEg",
+              "ipa": "ˈleːˌvɛg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "leveggen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ləʋˌɛgən",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "levegger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"le:$%vE$g@r",
+              "ipa": "ˈleːˌvɛgər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "leveggene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ləʋˌɛgənə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "caedf1217812.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/caedf1217812.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/caedf1217812.mp3",
+            "text": "levegg",
+            "source": "generated",
+            "content_sha256": "78af10f95b76bfc9768fa5f5ed8f6b284384b28d25a59fbb2bfe0d2db985798a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vegg som er plassert ute for å gi ly mot vinden",
+      "translation": "wall placed outdoors to provide shelter from the wind",
+      "examples": [
+        {
+          "no": "det er lunt å sitte bak leveggen",
+          "en": "it's nice and sheltered to sit behind the windbreak"
+        }
+      ]
+    }
+  ]
+}

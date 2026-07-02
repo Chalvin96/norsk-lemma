@@ -1,0 +1,163 @@
+{
+  "source_article_id": 99,
+  "lemmas": [
+    {
+      "lemma": "absurd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 894,
+      "is_sub_article": false,
+      "primary_translation": "absurd / absurdist",
+      "word_forms": [
+        {
+          "word_form": "absurd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ab$\"su0rd",
+              "ipa": "ɑbˈsʉrd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "absurde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ab$\"su0r$d@",
+              "ipa": "ɑbˈsʉrdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "absurdere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑbsˈʉrdərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "absurdest",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑbsˈʉrdəst",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "absurdeste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑbsˈʉrdəstə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "25de0d1392ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25de0d1392ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25de0d1392ab.mp3",
+            "text": "absurd",
+            "source": "generated",
+            "content_sha256": "a615c0e6b43fabe2615106b1a672c863a71997e7b40517a04ee1205e7ec93e01",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "meningsløs meiningslaus meiningsløs meningslaus, urimelig",
+      "translation": "meaningless, unreasonable",
+      "examples": []
+    },
+    {
+      "text": "jamfør ad absurdum og in absurdum",
+      "translation": "ad absurdum and in absurdum",
+      "examples": [
+        {
+          "no": "en absurd påstand",
+          "en": "an absurd claim"
+        },
+        {
+          "no": "det høres absurd ut",
+          "en": "that sounds absurd"
+        },
+        {
+          "no": "det grenser til det absurde",
+          "en": "it borders on the absurd"
+        },
+        {
+          "no": "absurd teater",
+          "en": "theater of the absurd"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source_article_id": 15515,
+  "lemmas": [
+    {
+      "lemma": "fluks",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 18013,
+      "is_sub_article": false,
+      "primary_translation": "flux (physics/engineering)",
+      "word_forms": [
+        {
+          "word_form": "fluks",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flu0ks",
+              "ipa": "ˈflʉks",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fluksen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flu0k$sn=",
+              "ipa": "ˈflʉksn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flukser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈʉksər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fluksene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈʉksn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5cd0bee04a8c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5cd0bee04a8c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5cd0bee04a8c.mp3",
+            "text": "fluks",
+            "source": "generated",
+            "content_sha256": "47699d1de07818e83b9a33bc3aac40515d913ab3a409cc110b28ceb23a001b9f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "strøm av energi, væske, partikler eller lys gjennom en flate per tidsenhet",
+      "translation": "flow of energy, liquid, particles, or light through a surface per unit of time",
+      "examples": []
+    }
+  ]
+}

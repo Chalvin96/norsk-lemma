@@ -1,0 +1,77 @@
+{
+  "source_article_id": 41844,
+  "lemmas": [
+    {
+      "lemma": "offshore",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48932,
+      "is_sub_article": false,
+      "primary_translation": "offshore",
+      "word_forms": [
+        {
+          "word_form": "offshore",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Of$%So:r",
+              "ipa": "ˈɔfˌʃoːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "774893de3508.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/774893de3508.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/774893de3508.mp3",
+            "text": "offshore",
+            "source": "generated",
+            "content_sha256": "1baa8dc3ee8b3e8348b3d78eb1b8085f5f6a310528dc3ed5960cdc4f2fde3385",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "særlig om oljevirksomhet: som går for seg eller fins til havs, utenfor kysten eller utaskjærs",
+      "translation": "concerning oil operations: taking place or located at sea, off the coast or overseas",
+      "examples": [
+        {
+          "no": "et offshore produksjonsskip",
+          "en": "an offshore production vessel"
+        },
+        {
+          "no": "offshore vindmøller",
+          "en": "offshore wind turbines"
+        },
+        {
+          "no": "jobbe offshore",
+          "en": "work offshore"
+        }
+      ]
+    }
+  ]
+}

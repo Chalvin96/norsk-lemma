@@ -1,0 +1,186 @@
+{
+  "source_article_id": 11457,
+  "lemmas": [
+    {
+      "lemma": "dødelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13403,
+      "is_sub_article": false,
+      "primary_translation": "deadly / mortal / very",
+      "word_forms": [
+        {
+          "word_form": "dødelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$dl=$I",
+              "ipa": "ˈdøːdl̩ɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dødelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$dl=$I$@",
+              "ipa": "ˈdøːdl̩ɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dødeligere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈøːdl̩ɪərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dødeligst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈøːdəlɪgst",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dødeligste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈøːdəlɪgstə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3c0d34538ade.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c0d34538ade.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3c0d34538ade.mp3",
+            "text": "dødelig",
+            "source": "generated",
+            "content_sha256": "30dbb1f02cf34ef61ea45182359e2b585839f3c3bf554b554378b9484399f8fa",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fører til død",
+      "translation": "leading to death",
+      "examples": [
+        {
+          "no": "et dødelig sår",
+          "en": "a fatal wound"
+        },
+        {
+          "no": "et dødelig slag",
+          "en": "a fatal stroke"
+        },
+        {
+          "no": "en dødelig sykdom",
+          "en": "a fatal illness"
+        },
+        {
+          "no": "en sykdom med dødelig utgang",
+          "en": "an illness with a fatal outcome"
+        }
+      ]
+    },
+    {
+      "text": "som en gang må dø",
+      "translation": "that must one day die",
+      "examples": [
+        {
+          "no": "alle mennesker er dødelige",
+          "en": "all people are mortal"
+        },
+        {
+          "no": "vi alminnelige dødelige",
+          "en": "we ordinary mortals"
+        }
+      ]
+    },
+    {
+      "text": "brukt som forsterkende adverb: svær, veldig",
+      "translation": "used as an intensifying adverb: very, extremely",
+      "examples": [
+        {
+          "no": "være dødelig forelsket",
+          "en": "be madly in love"
+        },
+        {
+          "no": "jeg ble dødelig fornærmet",
+          "en": "I was mortally offended"
+        }
+      ]
+    }
+  ]
+}

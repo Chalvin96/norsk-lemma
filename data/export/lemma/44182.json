@@ -1,0 +1,135 @@
+{
+  "source_article_id": 44182,
+  "lemmas": [
+    {
+      "lemma": "pardong",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 51145,
+      "is_sub_article": false,
+      "primary_translation": "pardon / mercy",
+      "word_forms": [
+        {
+          "word_form": "pardong",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$\"d`ON",
+              "ipa": "pɑˈɖɔŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pardongen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$\"d`ON$@n",
+              "ipa": "pɑˈɖɔŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pardonger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɑɖˈɔŋər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "pardongene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pɑɖˈɔŋənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f035b55fe837.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f035b55fe837.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f035b55fe837.mp3",
+            "text": "pardong",
+            "source": "generated",
+            "content_sha256": "870b76951b757c28dd44af4f3f0d1a62372dd0d74ea9c16951037c61dcd66232",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ettergivelse av straff",
+      "translation": "remission of punishment",
+      "examples": []
+    },
+    {
+      "text": "benådning, nåde",
+      "translation": "pardon, mercy",
+      "examples": [
+        {
+          "no": "her gis ingen pardong",
+          "en": "no quarter is given here"
+        },
+        {
+          "no": "uten pardong",
+          "en": "without mercy"
+        }
+      ]
+    }
+  ]
+}

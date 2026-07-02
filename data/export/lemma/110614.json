@@ -1,0 +1,90 @@
+{
+  "source_article_id": 110614,
+  "lemmas": [
+    {
+      "lemma": "brunsvidd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 92197,
+      "is_sub_article": false,
+      "primary_translation": "brown-scorched",
+      "word_forms": [
+        {
+          "word_form": "brunsvidd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈʉːnsʋˌɪd",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brunsvidde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈʉːnsʋˌɪdə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e908b9300044.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e908b9300044.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e908b9300044.mp3",
+            "text": "brunsvidd",
+            "source": "generated",
+            "content_sha256": "ee88bb74efc88a68c6f860bffa3c4f459ae8bfe32e71804dfaab700d08868152"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er så svidd av sterk varme at fargen er blitt til brun",
+      "translation": "having been scorched by intense heat to the point of turning brown",
+      "examples": [
+        {
+          "no": "brunsvidd pizza",
+          "en": "brown-scorched pizza"
+        }
+      ]
+    }
+  ]
+}

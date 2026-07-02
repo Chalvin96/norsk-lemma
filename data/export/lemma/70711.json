@@ -1,0 +1,128 @@
+{
+  "source_article_id": 70711,
+  "lemmas": [
+    {
+      "lemma": "lysterapi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 121496,
+      "is_sub_article": false,
+      "primary_translation": "light therapy",
+      "word_forms": [
+        {
+          "word_form": "lysterapi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$st@$rA$%pi:",
+              "ipa": "ˈlyːstərɑˌpɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lysterapien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːstərɑpˌiːən",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lysterapier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːstərɑpˌiːər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lysterapiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːstərɑpˌiːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "18c5424fc7c0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18c5424fc7c0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18c5424fc7c0.mp3",
+            "text": "lysterapi",
+            "source": "generated",
+            "content_sha256": "7a370770e4185800dc8966ca29aebf882ce3e26a06339dd8ba8b6a651e9f0661",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "behandling for depresjoner, trøtthet eller lignende ved hjelp av lys",
+      "translation": "treatment for depression, fatigue using light",
+      "examples": [
+        {
+          "no": "lysterapi hadde positiv effekt på pasienter med mørketidsplager",
+          "en": "light therapy had a positive effect on patients with winter depression"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "source_article_id": 121073,
+  "lemmas": [
+    {
+      "lemma": "halvklar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 104852,
+      "is_sub_article": false,
+      "primary_translation": "hazy / diffuse",
+      "word_forms": [
+        {
+          "word_form": "halvklar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAl$%klA:r",
+              "ipa": "ˈhɑlˌklɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "halvklare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAl$%klA:$r@",
+              "ipa": "ˈhɑlˌklɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "halvklart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAl$%klA:t`",
+              "ipa": "ˈhɑlˌklɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ba390d67d17a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba390d67d17a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba390d67d17a.mp3",
+            "text": "halvklar",
+            "source": "generated",
+            "content_sha256": "f5d0d78b7a866456074a734aa282bf318d447273c728b2b57c6838dafa729f2e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om dagslys, skydekke: litt disig, halvt overskyet",
+      "translation": "of daylight, cloud cover: slightly hazy, partly cloudy",
+      "examples": []
+    },
+    {
+      "text": "om minne, forestilling: diffus, uskarp",
+      "translation": "of memory, notion: diffuse, unclear",
+      "examples": [
+        {
+          "no": "en halvklar erindring",
+          "en": "a vague memory"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_article_id": 135104,
+  "lemmas": [
+    {
+      "lemma": "vintersesong",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 154350,
+      "is_sub_article": false,
+      "primary_translation": "winter season",
+      "word_forms": [
+        {
+          "word_form": "vintersesong",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$t@r$s@$%sON",
+              "ipa": "ˈvɪntərsəˌsɔŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vintersesongen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$t@r$s@$%sON$@n",
+              "ipa": "ˈvɪntərsəˌsɔŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vintersesonger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪntərsəsˌɔŋər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "vintersesongene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪntərsəsˌɔŋənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "566a4406cbce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/566a4406cbce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/566a4406cbce.mp3",
+            "text": "vintersesong",
+            "source": "generated",
+            "content_sha256": "798b15230cd1c1dab4c466bb4a6fba7f4b797c7ea91dd958eb63b94bd7112efd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sesong som omfatter vinteren",
+      "translation": "season that includes winter",
+      "examples": [
+        {
+          "no": "det kommer mange turister til byen i vintersesongen",
+          "en": "many tourists come to the city during the winter season"
+        }
+      ]
+    }
+  ]
+}

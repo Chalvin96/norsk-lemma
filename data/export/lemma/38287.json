@@ -1,0 +1,105 @@
+{
+  "source_article_id": 38287,
+  "lemmas": [
+    {
+      "lemma": "midtre",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 44917,
+      "is_sub_article": false,
+      "primary_translation": "middle",
+      "word_forms": [
+        {
+          "word_form": "midtre",
+          "tags_json": [
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$tr@",
+              "ipa": "ˈmɪtrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "midterst",
+          "tags_json": [
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mI$t@s`t`",
+              "ipa": "ˈmɪtəʂʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "midterste",
+          "tags_json": [
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mI$t@s`$t`@",
+              "ipa": "ˈmɪtəʂʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ab52d65dfb7b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ab52d65dfb7b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ab52d65dfb7b.mp3",
+            "text": "midtre",
+            "source": "generated",
+            "content_sha256": "5b329d45f771ba11ffcd6e6d70d2deacf20da1bffa3927fd53d4acfa3b215c5e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er midt i",
+      "translation": "being in the middle",
+      "examples": []
+    },
+    {
+      "text": "mellomst",
+      "translation": "middle",
+      "examples": [
+        {
+          "no": "de midtre delene av byen",
+          "en": "the central parts of the city"
+        },
+        {
+          "no": "indre og midtre strøk av landet",
+          "en": "the inner and central districts of the country"
+        }
+      ]
+    }
+  ]
+}

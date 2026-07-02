@@ -1,0 +1,131 @@
+{
+  "source_article_id": 129274,
+  "lemmas": [
+    {
+      "lemma": "småskade",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 140677,
+      "is_sub_article": false,
+      "primary_translation": "minor injury",
+      "word_forms": [
+        {
+          "word_form": "småskade",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːskˌɑːdə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "småskaden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːskˌɑːdn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "småskader",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$%skA:$d@r",
+              "ipa": "ˈsmoːˌskɑːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småskadene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "smˈoːskˌɑːdn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "996eb8c27c6e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/996eb8c27c6e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/996eb8c27c6e.mp3",
+            "text": "småskade",
+            "source": "generated",
+            "content_sha256": "685017133161382e37e5338e7659ef51bd2b13b41f1731d4c4b79bee881e770d"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "liten skade",
+      "translation": "minor injury",
+      "examples": [
+        {
+          "no": "han sliter med småskader",
+          "en": "he is struggling with minor injuries"
+        },
+        {
+          "no": "få småskader på bilen",
+          "en": "sustain minor damage to the car"
+        }
+      ]
+    }
+  ]
+}

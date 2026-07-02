@@ -1,0 +1,126 @@
+{
+  "source_article_id": 123038,
+  "lemmas": [
+    {
+      "lemma": "halvvill",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2006783,
+      "is_sub_article": false,
+      "primary_translation": "half-wild / unruly",
+      "word_forms": [
+        {
+          "word_form": "halvvill",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlʋˌɪl",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "halvville",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlʋˌɪlə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "halvvilt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlʋˌɪlt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "54ddb70a42b8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54ddb70a42b8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54ddb70a42b8.mp3",
+            "text": "halvvill",
+            "source": "generated",
+            "content_sha256": "574cee7603d356d6b8e850b3759d4cd56cde050902269b58bd158bfb48aa5613"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "halvt vill",
+      "translation": "half wild",
+      "examples": [
+        {
+          "no": "halvville hester",
+          "en": "semi-wild horses"
+        },
+        {
+          "no": "halvville planter",
+          "en": "semi-wild plants"
+        },
+        {
+          "no": "en halvvill skogkatt hadde sneket seg inn",
+          "en": "a semi-wild forest cat had sneaked in"
+        }
+      ]
+    },
+    {
+      "text": "ustyrlig, vilter, ubehøvlet",
+      "translation": "unruly, wild, uncouth",
+      "examples": [
+        {
+          "no": "et forsøk på oppdra den halvville guttungen",
+          "en": "an attempt to raise the half-wild boy"
+        }
+      ]
+    }
+  ]
+}

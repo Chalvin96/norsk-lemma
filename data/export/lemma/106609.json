@@ -1,0 +1,128 @@
+{
+  "source_article_id": 106609,
+  "lemmas": [
+    {
+      "lemma": "emoji",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 160254,
+      "is_sub_article": false,
+      "primary_translation": "emoji / ideogram",
+      "word_forms": [
+        {
+          "word_form": "emoji",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"mu:$djI",
+              "ipa": "ɛˈmuːdjɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "emojien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛmujˈiːən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "emojier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"mu:$djI$@r",
+              "ipa": "ɛˈmuːdjɪər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "emojiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"mu:$djI$@$n@",
+              "ipa": "ɛˈmuːdjɪənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "668ee6961f43.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/668ee6961f43.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/668ee6961f43.mp3",
+            "text": "emoji",
+            "source": "generated",
+            "content_sha256": "b617933f02783efdbe9b0962804b32784c9922c1720143304e22a98ebbc6164b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lite bilde som symboliserer et begrep, for eksempel en følelse, brukt i digital kommunikasjon",
+      "translation": "small image symbolizing a concept or emotion, used in digital communication",
+      "examples": [
+        {
+          "no": "den mest brukte emojien er smilefjeset",
+          "en": "the most used emoji is the smiley face"
+        },
+        {
+          "no": "en emoji som viser sinne",
+          "en": "an emoji showing anger"
+        }
+      ]
+    }
+  ]
+}

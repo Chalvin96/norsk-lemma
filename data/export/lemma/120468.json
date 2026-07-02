@@ -1,0 +1,126 @@
+{
+  "source_article_id": 120468,
+  "lemmas": [
+    {
+      "lemma": "kriminalstatistikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 117187,
+      "is_sub_article": false,
+      "primary_translation": "crime statistics",
+      "word_forms": [
+        {
+          "word_form": "kriminalstatistikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krI$mI$\"nA:l$stA$tI$%stIk",
+              "ipa": "krɪmɪˈnɑːlstɑtɪˌstɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kriminalstatistikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krI$mI$\"nA:l$stA$tI$%stI$k@n",
+              "ipa": "krɪmɪˈnɑːlstɑtɪˌstɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kriminalstatistikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "krɪmɪnˈɑːlstɑtɪstˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kriminalstatistikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "krɪmɪnˈɑːlstɑtɪstˌɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b128a8dfcfa0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b128a8dfcfa0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b128a8dfcfa0.mp3",
+            "text": "kriminalstatistikk",
+            "source": "generated",
+            "content_sha256": "a163d9c34be6584ce86eee49f1db4a16abf4d7c8fbe4588a32a3066967e6551f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "statistikk over forbrytelser",
+      "translation": "statistics on crimes",
+      "examples": [
+        {
+          "no": "grupper som er overrepresenterte i kriminalstatistikken",
+          "en": "groups that are overrepresented in the crime statistics"
+        }
+      ]
+    }
+  ]
+}

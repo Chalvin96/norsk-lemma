@@ -1,0 +1,85 @@
+{
+  "source_article_id": 25698,
+  "lemmas": [
+    {
+      "lemma": "ihjelfrosset",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30648,
+      "is_sub_article": false,
+      "primary_translation": "frozen to death",
+      "word_forms": [
+        {
+          "word_form": "ihjelfrosset",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"je:l$%frO$s@t",
+              "ipa": "ɪˈjeːlˌfrɔsət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ihjelfrosne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"je:l$%frO$sn@",
+              "ipa": "ɪˈjeːlˌfrɔsnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5d4798e05b84.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d4798e05b84.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d4798e05b84.mp3",
+            "text": "ihjelfrosset",
+            "source": "generated",
+            "content_sha256": "2b5089143f244e4b6ad7ef9e4a2caca2fcda272d3029be0a50362b6bd9321934",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har frosset i hjel",
+      "translation": "having frozen to death",
+      "examples": [
+        {
+          "no": "ihjelfrosne småfugler",
+          "en": "small birds frozen to death"
+        }
+      ]
+    }
+  ]
+}

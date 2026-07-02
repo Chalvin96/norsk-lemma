@@ -1,0 +1,191 @@
+{
+  "source_article_id": 11448,
+  "lemmas": [
+    {
+      "lemma": "død",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 13388,
+      "is_sub_article": false,
+      "primary_translation": "death",
+      "word_forms": [
+        {
+          "word_form": "død",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d2:d",
+              "ipa": "ˈdøːd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "døden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"d2:$dn=",
+              "ipa": "ˈdøːdn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "døder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:$d@r",
+              "ipa": "ˈdøːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dødene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈøːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "89af6287a9ad.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89af6287a9ad.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/89af6287a9ad.mp3",
+            "text": "død",
+            "source": "generated",
+            "content_sha256": "026ccc8c1933564ba2d7c10e54150109132b99f4c135294781eb7718587903e1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å dø",
+      "translation": "the act of dying",
+      "examples": []
+    },
+    {
+      "text": "undergang, bortgang, endelikt",
+      "translation": "downfall, passing away, end",
+      "examples": [
+        {
+          "no": "dømme til døden",
+          "en": "sentence to death"
+        },
+        {
+          "no": "være døden nær",
+          "en": "be near death"
+        },
+        {
+          "no": "få en smertefull død",
+          "en": "suffer a painful death"
+        },
+        {
+          "no": "han har vært langt inn i døden",
+          "en": "he has been at death's door"
+        }
+      ]
+    },
+    {
+      "text": "personifisering av død",
+      "translation": "personification of death",
+      "examples": [
+        {
+          "no": "stå ansikt til ansikt med døden",
+          "en": "stand face to face with death"
+        },
+        {
+          "no": "bli dødens bytte",
+          "en": "fall prey to death"
+        },
+        {
+          "no": "døden møter oss alle",
+          "en": "death comes for us all"
+        },
+        {
+          "no": "innhentet av døden",
+          "en": "overtaken by death"
+        }
+      ]
+    },
+    {
+      "text": "noe som volder død",
+      "translation": "something that causes death",
+      "examples": [
+        {
+          "no": "straffes med døden",
+          "en": "be punished with death"
+        },
+        {
+          "no": "hendelsen ble deres død",
+          "en": "the incident caused their deaths"
+        },
+        {
+          "no": "det var døden å streve slik",
+          "en": "it was death to struggle like that"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: noe som blir borte eller tar slutt",
+      "translation": "something that disappears or ends",
+      "examples": [
+        {
+          "no": "en epokes død",
+          "en": "the death of an era"
+        }
+      ]
+    }
+  ]
+}

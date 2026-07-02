@@ -1,0 +1,94 @@
+{
+  "source_article_id": 131271,
+  "lemmas": [
+    {
+      "lemma": "taklagt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2942844,
+      "is_sub_article": false,
+      "primary_translation": "tiled",
+      "word_forms": [
+        {
+          "word_form": "taklagt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑːklˌɑkt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "taklagte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑːklˌɑktə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f81ab011d86.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f81ab011d86.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f81ab011d86.mp3",
+            "text": "taklagt",
+            "source": "generated",
+            "content_sha256": "2b4d8f74a60ed8cd20c0f7dc788dfd852798f2166f14f3cf2e64fa8c4cebc14f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ligger delvis over hverandre (som takstein)",
+      "translation": "lying partially over each other (like roof tiles)",
+      "examples": [
+        {
+          "no": "en plante med taklagte dekkblad",
+          "en": "a plant with overlapping bracts"
+        },
+        {
+          "no": "sikadenes vinger ligger taklagt",
+          "en": "the cicadas' wings lie overlapping"
+        }
+      ]
+    }
+  ]
+}

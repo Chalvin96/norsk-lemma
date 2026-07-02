@@ -1,0 +1,115 @@
+{
+  "source_article_id": 119667,
+  "lemmas": [
+    {
+      "lemma": "kjøttrik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167992,
+      "is_sub_article": false,
+      "primary_translation": "meaty",
+      "word_forms": [
+        {
+          "word_form": "kjøttrik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈœtrˌiːk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kjøttrike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈœtrˌiːkə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kjøttrikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈœtrˌiːkt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "62746c3f1074.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62746c3f1074.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62746c3f1074.mp3",
+            "text": "kjøttrik",
+            "source": "generated",
+            "content_sha256": "13157c5fd762cdf26d60fef303405d56d41e48a63f219965892a5b6fa1abc124"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har mye kjøtt",
+      "translation": "having a lot of meat",
+      "examples": [
+        {
+          "no": "en kjøttrik storferase",
+          "en": "a meaty cattle breed"
+        },
+        {
+          "no": "kjøttrike pølser",
+          "en": "meaty sausages"
+        }
+      ]
+    }
+  ]
+}

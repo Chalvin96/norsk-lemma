@@ -1,0 +1,98 @@
+{
+  "source_article_id": 99673,
+  "lemmas": [
+    {
+      "lemma": "møllspist",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 158752,
+      "is_sub_article": false,
+      "primary_translation": "moth-eaten / shabby",
+      "word_forms": [
+        {
+          "word_form": "møllspist",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈœlspˌiːst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "møllspiste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"m9l$%spi:$st@",
+              "ipa": "ˈmœlˌspɪːstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8682e2a0f7da.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8682e2a0f7da.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8682e2a0f7da.mp3",
+            "text": "møllspist",
+            "source": "generated",
+            "content_sha256": "27404ce6caebf9ef063530fe214809079f358eac7842b199293af3c9e0582960"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ødelagt av møll",
+      "translation": "damaged by moths",
+      "examples": [
+        {
+          "no": "en møllspist vinterfrakk",
+          "en": "a moth-eaten winter coat"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: avfeldig, umoderne",
+      "translation": "shabby, old-fashioned",
+      "examples": [
+        {
+          "no": "de kom med møllspiste argumenter",
+          "en": "they came up with moth-eaten arguments"
+        }
+      ]
+    }
+  ]
+}

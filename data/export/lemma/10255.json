@@ -1,0 +1,132 @@
+{
+  "source_article_id": 10255,
+  "lemmas": [
+    {
+      "lemma": "disk",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 11996,
+      "is_sub_article": false,
+      "primary_translation": "disk (storage)",
+      "word_forms": [
+        {
+          "word_form": "disk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dI$sk",
+              "ipa": "ˈdɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "disken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dI$sk@n",
+              "ipa": "ˈdɪskən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "disker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dI$sk@r",
+              "ipa": "ˈdɪskər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "diskene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dI$sk@$n@",
+              "ipa": "ˈdɪskənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d9e862904509.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d9e862904509.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d9e862904509.mp3",
+            "text": "disk",
+            "source": "generated",
+            "content_sha256": "f18a9bce6a4d8a8b61c1d4042ca6945059a8cc0d4c0a3b8b91d6425831085b72",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "rund magnetisk plate for ekstern lagring av data",
+      "translation": "round magnetic plate for external data storage",
+      "examples": [
+        {
+          "no": "en disk med ekstramateriale",
+          "en": "a disc with bonus material"
+        }
+      ]
+    },
+    {
+      "text": "rund magnetisk plate for lagring av data",
+      "translation": "round magnetic plate for data storage",
+      "examples": [
+        {
+          "no": "disk og magnetbånd er typiske elektromagnetiske lagre",
+          "en": "disks and magnetic tape are typical electromagnetic storage media"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_article_id": 1655,
+  "lemmas": [
+    {
+      "lemma": "andaktsfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2125,
+      "is_sub_article": false,
+      "primary_translation": "devout (full of devotion / devout)",
+      "word_forms": [
+        {
+          "word_form": "andaktsfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"An$dAkts$%fu0l",
+              "ipa": "ˈɑndɑktsˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "andaktsfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"An$dAkts$%fu0$l@",
+              "ipa": "ˈɑndɑktsˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "andaktsfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"An$dAkts$%fu0lt",
+              "ipa": "ˈɑndɑktsˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0ba8397ae237.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0ba8397ae237.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0ba8397ae237.mp3",
+            "text": "andaktsfull",
+            "source": "generated",
+            "content_sha256": "dd458ae1ae2006135b1d7cb3d386b33ab2e6db1360d4d66647d8397c1a86a073",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "full av andakt",
+      "translation": "full of devotion",
+      "examples": [
+        {
+          "no": "bli andaktsfull i kirken",
+          "en": "become devout in church"
+        }
+      ]
+    }
+  ]
+}

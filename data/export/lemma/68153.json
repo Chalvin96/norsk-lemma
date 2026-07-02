@@ -1,0 +1,107 @@
+{
+  "source_article_id": 68153,
+  "lemmas": [
+    {
+      "lemma": "vibrasjonsfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 83506,
+      "is_sub_article": false,
+      "primary_translation": "vibration-free",
+      "word_forms": [
+        {
+          "word_form": "vibrasjonsfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vI$brA$\"Su:ns$%fri:",
+              "ipa": "vɪbrɑˈʃuːnsˌfrɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vibrasjonsfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vI$brA$\"Su:ns$%fri:$@",
+              "ipa": "vɪbrɑˈʃuːnsˌfrɪːə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vibrasjonsfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vI$brA$\"Su:ns$%frIt",
+              "ipa": "vɪbrɑˈʃuːnsˌfrɪt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3a99b2c38da4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a99b2c38da4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a99b2c38da4.mp3",
+            "text": "vibrasjonsfri",
+            "source": "generated",
+            "content_sha256": "188e255de2d89da1812da9803601d6a5a3ccc72bb15c7507d4c5b99df14895e8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten vibrasjon",
+      "translation": "without vibration",
+      "examples": [
+        {
+          "no": "ferja er bortimot lydløs og vibrasjonsfri",
+          "en": "the ferry is almost silent and vibration-free"
+        },
+        {
+          "no": "sentrifugeringen foregår så å si vibrasjonsfritt",
+          "en": "the spin cycle is, so to speak, vibration-free"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "source_article_id": 54593,
+  "lemmas": [
+    {
+      "lemma": "slurk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62919,
+      "is_sub_article": false,
+      "primary_translation": "gulp / sip",
+      "word_forms": [
+        {
+          "word_form": "slurk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Slu0rk",
+              "ipa": "ˈʃlʉrk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slurken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Slu0r$k@n",
+              "ipa": "ˈʃlʉrkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slurker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Slu0r$k@r",
+              "ipa": "ˈʃlʉrkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "slurkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Slu0r$k@$n@",
+              "ipa": "ˈʃlʉrkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e207ff737de5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e207ff737de5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e207ff737de5.mp3",
+            "text": "slurk",
+            "source": "generated",
+            "content_sha256": "c43ec20ef2e5cbb2e0a8133b245cecd2e7638c676012eeec2978df47422f89ec",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "munnfull med drikke som en svelger på én gang",
+      "translation": "mouthful of drink that is swallowed at once",
+      "examples": []
+    },
+    {
+      "text": "sup, svelg",
+      "translation": "gulp, swallow",
+      "examples": [
+        {
+          "no": "ta seg en slurk av flaska",
+          "en": "take a swig from the bottle"
+        }
+      ]
+    },
+    {
+      "text": "skvett med drikke",
+      "translation": "sip of drink",
+      "examples": [
+        {
+          "no": "tømme i seg siste slurken",
+          "en": "gulp down the last sip"
+        }
+      ]
+    }
+  ]
+}

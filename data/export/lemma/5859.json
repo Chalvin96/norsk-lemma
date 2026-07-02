@@ -1,0 +1,106 @@
+{
+  "source_article_id": 5859,
+  "lemmas": [
+    {
+      "lemma": "bikkjekald",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6860,
+      "is_sub_article": false,
+      "primary_translation": "freezing cold",
+      "word_forms": [
+        {
+          "word_form": "bikkjekald",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$C@$%kAl",
+              "ipa": "ˈbɪçəˌkɑl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bikkjekalde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$C@$%kA$l@",
+              "ipa": "ˈbɪçəˌkɑlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bikkjekaldt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bI$C@$%kAlt",
+              "ipa": "ˈbɪçəˌkɑlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "21dd9468b6ba.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21dd9468b6ba.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21dd9468b6ba.mp3",
+            "text": "bikkjekald",
+            "source": "generated",
+            "content_sha256": "323fd63c8065c768ce23b6bf34c17ea2aa5cefa138b87966bbe63ab3f803ab64",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært kald",
+      "translation": "very cold",
+      "examples": [
+        {
+          "no": "det var bikkjekaldt ute",
+          "en": "it was bitterly cold outside"
+        }
+      ]
+    }
+  ]
+}

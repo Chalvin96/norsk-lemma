@@ -1,0 +1,131 @@
+{
+  "source_article_id": 61739,
+  "lemmas": [
+    {
+      "lemma": "tragikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70613,
+      "is_sub_article": false,
+      "primary_translation": "tragedy / cause of tragedy",
+      "word_forms": [
+        {
+          "word_form": "tragikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$\"gIk",
+              "ipa": "trɑˈgɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tragikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$\"gI$k@n",
+              "ipa": "trɑˈgɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tragikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trɑgˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tragikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trɑgˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "120daccd35c7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/120daccd35c7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/120daccd35c7.mp3",
+            "text": "tragikk",
+            "source": "generated",
+            "content_sha256": "10a12d88995e5b5a11367ea3b9e1e55bee03371f6e27ee9b7ec255336cadf258",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grunnlag for en sørgelig eller trist utvikling",
+      "translation": "basis for a sorrowful or sad development",
+      "examples": []
+    },
+    {
+      "text": "årsak til en tragedie",
+      "translation": "cause of a tragedy",
+      "examples": [
+        {
+          "no": "tragikken ligger i sammenstøtet mellom ideal og virkelighet",
+          "en": "the tragedy lies in the clash between ideal and reality"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "source_article_id": 123112,
+  "lemmas": [
+    {
+      "lemma": "nachos",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2006520,
+      "is_sub_article": false,
+      "primary_translation": "nachos",
+      "word_forms": [
+        {
+          "word_form": "nachos",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɑtʃus",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nachosen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɑʃˌuːsn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nachosene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɑtʃusn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fb01e3c80c0a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb01e3c80c0a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb01e3c80c0a.mp3",
+            "text": "nachos",
+            "source": "generated",
+            "content_sha256": "4e5b99d962c1b20fd700acb8ef43403ca404776b2c328d527d162d8332939c80"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "krydret, trekantet chips av maismel",
+      "translation": "spiced, triangular chip made of corn flour",
+      "examples": [
+        {
+          "no": "de koste seg med nachos foran tv-en",
+          "en": "they enjoyed some nachos in front of the TV"
+        }
+      ]
+    }
+  ]
+}

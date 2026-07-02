@@ -1,0 +1,91 @@
+{
+  "source_article_id": 122505,
+  "lemmas": [
+    {
+      "lemma": "medbrakt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2005829,
+      "is_sub_article": false,
+      "primary_translation": "brought along",
+      "word_forms": [
+        {
+          "word_form": "medbrakt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:d$%brAkt",
+              "ipa": "ˈmeːdˌbrɑkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "medbrakte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:d$%brAk$t@",
+              "ipa": "ˈmeːdˌbrɑktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7bd8f7c97061.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7bd8f7c97061.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7bd8f7c97061.mp3",
+            "text": "medbrakt",
+            "source": "generated",
+            "content_sha256": "1f9f8e40e706a1209dcf581e48ae865ab1b32714c998156de2f02112cfb2fc86",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er tatt med",
+      "translation": "that which is brought along",
+      "examples": [
+        {
+          "no": "nyte medbrakt alkohol",
+          "en": "enjoy brought-along alcohol"
+        },
+        {
+          "no": "de koste seg med medbrakt mat",
+          "en": "they enjoyed the food they had brought with them"
+        }
+      ]
+    }
+  ]
+}

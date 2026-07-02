@@ -1,0 +1,136 @@
+{
+  "source_article_id": 68706,
+  "lemmas": [
+    {
+      "lemma": "virvar",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 79310,
+      "is_sub_article": false,
+      "primary_translation": "chaos / mess",
+      "word_forms": [
+        {
+          "word_form": "virvar",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vIr$%vAr",
+              "ipa": "ˈvɪrˌvɑr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "virvaret",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vIr$%vA:$r@",
+              "ipa": "ˈvɪrˌvɑːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "virvara",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪrʋˌɑːrɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "virvarene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪrʋˌɑːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0607b2c02ded.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0607b2c02ded.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0607b2c02ded.mp3",
+            "text": "virvar",
+            "source": "generated",
+            "content_sha256": "8ae70f39caa25567a64bc44feb9f9db98362fd0b3754684318fb2205ae57c3ca",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uoversiktlig, kaotisk samling eller tilstand",
+      "translation": "incoherent, chaotic collection or state",
+      "examples": []
+    },
+    {
+      "text": "rot, røre",
+      "translation": "mess, muddle",
+      "examples": [
+        {
+          "no": "et virvar av ledninger",
+          "en": "a tangle of wires"
+        },
+        {
+          "no": "det er ikke lett å navigere i virvaret av lover og regler",
+          "en": "it is not easy to navigate the tangle of laws and regulations"
+        }
+      ]
+    }
+  ]
+}

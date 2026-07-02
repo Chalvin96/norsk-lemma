@@ -1,0 +1,83 @@
+{
+  "source_article_id": 35448,
+  "lemmas": [
+    {
+      "lemma": "live",
+      "hgno": 1,
+      "pos": "ADJ",
+      "source_lemma_id": 41217,
+      "is_sub_article": false,
+      "primary_translation": "live",
+      "word_forms": [
+        {
+          "word_form": "live",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lA*Iv",
+              "ipa": "ˈlɑ͡ɪv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ed3cf57fc3af.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed3cf57fc3af.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed3cf57fc3af.mp3",
+            "text": "live",
+            "source": "generated",
+            "content_sha256": "7b2dd4159bff236cde14d37530c999b1367528891cc64c8439dd1ddb47a81d34",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som framføres foran publikum",
+      "translation": "performed in front of an audience",
+      "examples": [
+        {
+          "no": "en live opptreden",
+          "en": "a live performance"
+        }
+      ]
+    },
+    {
+      "text": "om radio- eller tv-sending: som sendes direkte",
+      "translation": "for radio or TV broadcast: transmitted directly",
+      "examples": [
+        {
+          "no": "være til stede i studio under live sending",
+          "en": "be present in the studio during a live broadcast"
+        },
+        {
+          "no": "NRK sender konserten live",
+          "en": "NRK is broadcasting the concert live"
+        }
+      ]
+    }
+  ]
+}

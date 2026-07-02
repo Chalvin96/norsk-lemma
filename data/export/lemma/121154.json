@@ -1,0 +1,116 @@
+{
+  "source_article_id": 121154,
+  "lemmas": [
+    {
+      "lemma": "halvoffisiell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168717,
+      "is_sub_article": false,
+      "primary_translation": "semi-official",
+      "word_forms": [
+        {
+          "word_form": "halvoffisiell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlɔfɪsɪˌɛl",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "halvoffisielle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hA$lO$fI$sI$%E$l@",
+              "ipa": "ˈhɑlɔfɪsɪˌɛlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "halvoffisielt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlɔfɪsɪˈɛlt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4d05db8ccc89.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4d05db8ccc89.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4d05db8ccc89.mp3",
+            "text": "halvoffisiell",
+            "source": "generated",
+            "content_sha256": "b8e14e36d5461332e7b39dbf9a11b898417ae0a406b855a327c30668fc6bf329"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er halvveis eller dels tilgjengelig for alle",
+      "translation": "partially accessible to everyone",
+      "examples": [
+        {
+          "no": "hemmeligheten var allerede halvoffisiell",
+          "en": "the secret was already semi-official"
+        }
+      ]
+    },
+    {
+      "text": "som delvis er på vegne av offentlig sektor",
+      "translation": "partially on behalf of the public sector",
+      "examples": [
+        {
+          "no": "et halvoffisielt besøk",
+          "en": "a semi-official visit"
+        }
+      ]
+    }
+  ]
+}

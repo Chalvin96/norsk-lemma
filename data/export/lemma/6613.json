@@ -1,0 +1,151 @@
+{
+  "source_article_id": 6613,
+  "lemmas": [
+    {
+      "lemma": "bly",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7783,
+      "is_sub_article": false,
+      "primary_translation": "lead (metal/element/shot/pencil)",
+      "word_forms": [
+        {
+          "word_form": "bly",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bly:",
+              "ipa": "ˈblyː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "blyet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bly:$@",
+              "ipa": "ˈblyːə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "blya",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈyːɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "blyene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈyːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fe0a8ac7ec5b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe0a8ac7ec5b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe0a8ac7ec5b.mp3",
+            "text": "bly",
+            "source": "generated",
+            "content_sha256": "03d2dd7fef6bb7e94504e56aedd22b20a3890f65c34dff4c89cb9f44135672f4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mykt, blåhvitt tungmetall",
+      "translation": "soft, bluish-white heavy metal",
+      "examples": []
+    },
+    {
+      "text": "grunnstoff med atomnummer 82",
+      "translation": "element with atomic number 82",
+      "examples": []
+    },
+    {
+      "text": "kjemisk symbol Pb",
+      "translation": "chemical symbol Pb",
+      "examples": [
+        {
+          "no": "kofferten er tung som bly",
+          "en": "the suitcase is as heavy as lead"
+        }
+      ]
+    },
+    {
+      "text": "blykule, blyhagl",
+      "translation": "lead shot, lead pellet",
+      "examples": [
+        {
+          "no": "i patronen var det krutt og bly",
+          "en": "the cartridge contained powder and lead"
+        },
+        {
+          "no": "bryte av blyet",
+          "en": "break off the lead"
+        }
+      ]
+    }
+  ]
+}

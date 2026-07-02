@@ -1,0 +1,122 @@
+{
+  "source_article_id": 29018,
+  "lemmas": [
+    {
+      "lemma": "katolikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 34286,
+      "is_sub_article": false,
+      "primary_translation": "Catholic",
+      "word_forms": [
+        {
+          "word_form": "katolikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$tU$\"lIk",
+              "ipa": "kɑtʊˈlɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "katolikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$tU$\"lI$k@n",
+              "ipa": "kɑtʊˈlɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "katolikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$tU$\"lI$k@r",
+              "ipa": "kɑtʊˈlɪkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "katolikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$tU$\"lI$k@$n@",
+              "ipa": "kɑtʊˈlɪkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0a6c53651adc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0a6c53651adc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0a6c53651adc.mp3",
+            "text": "katolikk",
+            "source": "generated",
+            "content_sha256": "60dc38234cb6c61bba752acff35099c661c389a33071cdce7f2c0f7c030029c6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som hører til den katolske kirken",
+      "translation": "person who belongs to the Catholic Church",
+      "examples": [
+        {
+          "no": "halvparten av alle kristne er katolikker",
+          "en": "half of all Christians are Catholics"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 65377,
+  "lemmas": [
+    {
+      "lemma": "utholdelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74968,
+      "is_sub_article": false,
+      "primary_translation": "bearable",
+      "word_forms": [
+        {
+          "word_form": "utholdelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0t$\"hO$l@$lI",
+              "ipa": "ʉtˈhɔləlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utholdelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0t$\"hO$l@$lI$@",
+              "ipa": "ʉtˈhɔləlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4f4d0cf5fa14.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4f4d0cf5fa14.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4f4d0cf5fa14.mp3",
+            "text": "utholdelig",
+            "source": "generated",
+            "content_sha256": "d6306ac63296301731edecf6a399c4507d8ad631f7c5b10fe2f7949eec2f7df4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er til å holde ut",
+      "translation": "that can be endured",
+      "examples": [
+        {
+          "no": "1600 meter over havet er varmen utholdelig",
+          "en": "At 1600 meters above sea level, the heat is bearable"
+        }
+      ]
+    }
+  ]
+}

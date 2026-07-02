@@ -1,0 +1,130 @@
+{
+  "source_article_id": 13203,
+  "lemmas": [
+    {
+      "lemma": "etat",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 15341,
+      "is_sub_article": false,
+      "primary_translation": "agency",
+      "word_forms": [
+        {
+          "word_form": "etat",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"tA:t",
+              "ipa": "ɛˈtɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "etaten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"tA:$tn=",
+              "ipa": "ɛˈtɑːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "etater",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"tA:$t@r",
+              "ipa": "ɛˈtɑːtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "etatene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"tA:$tn=$@",
+              "ipa": "ɛˈtɑːtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a23222e49219.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a23222e49219.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a23222e49219.mp3",
+            "text": "etat",
+            "source": "generated",
+            "content_sha256": "07c3321da138af3ad5a8527cdd582943b3980955ab1c8aa10ac2ed9b4b426239",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gren av offentlig forvaltning eller gruppe av personale ved en slik instans",
+      "translation": "branch of public administration or group of personnel at such an institution",
+      "examples": [
+        {
+          "no": "prosjektet er et samarbeid mellom flere ulike etater",
+          "en": "the project is a collaboration between several different public agencies"
+        },
+        {
+          "no": "ledige stillinger i etaten",
+          "en": "vacancies in the agency"
+        },
+        {
+          "no": "etaten skal legge fram sitt forslag på mandag",
+          "en": "the agency will present its proposal on Monday"
+        }
+      ]
+    }
+  ]
+}

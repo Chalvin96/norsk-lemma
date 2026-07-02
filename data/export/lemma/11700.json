@@ -1,0 +1,136 @@
+{
+  "source_article_id": 11700,
+  "lemmas": [
+    {
+      "lemma": "effekt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 13643,
+      "is_sub_article": false,
+      "primary_translation": "effect / personal belongings",
+      "word_forms": [
+        {
+          "word_form": "effekt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"fEkt",
+              "ipa": "ɛˈfɛkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "effekten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"fEk$tn=",
+              "ipa": "ɛˈfɛktn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "effekter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"fEk$t@r",
+              "ipa": "ɛˈfɛktər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "effektene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"fEk$tn=$@",
+              "ipa": "ɛˈfɛktn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "95c40847b229.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/95c40847b229.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/95c40847b229.mp3",
+            "text": "effekt",
+            "source": "generated",
+            "content_sha256": "00c534e73f383e9a7ba653ff56cd67b8bde551e7c1029f71c56d224826f35349",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i fysikk: arbeid per tidsenhet",
+      "translation": "in physics: work per unit of time",
+      "examples": [
+        {
+          "no": "et kraftverk med en effekt på 350 megawatt",
+          "en": "a power plant with an output of 350 megawatts"
+        }
+      ]
+    },
+    {
+      "text": "i flertall: mindre, løse gjenstander",
+      "translation": "smaller, loose objects",
+      "examples": [
+        {
+          "no": "personlige effekter",
+          "en": "personal effects"
+        },
+        {
+          "no": "militære effekter",
+          "en": "military equipment"
+        }
+      ]
+    }
+  ]
+}

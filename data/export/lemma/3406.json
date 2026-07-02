@@ -1,0 +1,92 @@
+{
+  "source_article_id": 3406,
+  "lemmas": [
+    {
+      "lemma": "avdelingsvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4051,
+      "is_sub_article": false,
+      "primary_translation": "departmental",
+      "word_forms": [
+        {
+          "word_form": "avdelingsvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑʋdˈeːlɪŋsʋˌiːs",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "avdelingsvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Av$\"de:$lIN$%svi:$s@",
+              "ipa": "ɑvˈdeːlɪŋˌsvɪːsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ae9a76ed5f80.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae9a76ed5f80.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ae9a76ed5f80.mp3",
+            "text": "avdelingsvis",
+            "source": "generated",
+            "content_sha256": "1fcf1fc22cf65b4202403ae9f29b8e08cd819926e20a7210fd7e95244d57d426"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som foregår avdeling for avdeling",
+      "translation": "that takes place department by department",
+      "examples": [
+        {
+          "no": "en avdelingsvis kartlegging",
+          "en": "a department-by-department survey"
+        },
+        {
+          "no": "rykke fram avdelingsvis",
+          "en": "advance unit by unit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source_article_id": 68006,
+  "lemmas": [
+    {
+      "lemma": "vesle",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 78521,
+      "is_sub_article": false,
+      "primary_translation": "little / small",
+      "word_forms": [
+        {
+          "word_form": "vesle",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vE$sl@",
+              "ipa": "ˈvɛslə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "295d5f28d14e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/295d5f28d14e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/295d5f28d14e.mp3",
+            "text": "vesle",
+            "source": "generated",
+            "content_sha256": "baba8ffcc1e98c80b74b9afd5ae7797f8dce40666a9011ea96be1d7849012a2a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "oftest i bestemt form: med ganske begrenset størrelse, omfang eller mengde",
+      "translation": "often in definite form: of quite limited size, scope, quantity",
+      "examples": []
+    },
+    {
+      "text": "jamfør liten",
+      "translation": "little",
+      "examples": [
+        {
+          "no": "den vesle gutten",
+          "en": "the little boy"
+        },
+        {
+          "no": "den vesle jenta",
+          "en": "the little girl"
+        },
+        {
+          "no": "miste det vesle en har",
+          "en": "lose what little one has"
+        }
+      ]
+    }
+  ]
+}

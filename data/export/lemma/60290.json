@@ -1,0 +1,115 @@
+{
+  "source_article_id": 60290,
+  "lemmas": [
+    {
+      "lemma": "tendensiøs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68955,
+      "is_sub_article": false,
+      "primary_translation": "biased / partisan",
+      "word_forms": [
+        {
+          "word_form": "tendensiøs",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@n$d@n$sI$\"2:s",
+              "ipa": "təndənsɪˈøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tendensiøse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@n$d@n$sI$\"2:$s@",
+              "ipa": "təndənsɪˈøːsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tendensiøst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@n$d@n$sI$\"2:$st",
+              "ipa": "təndənsɪˈøːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1f8a7bb96f4b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f8a7bb96f4b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f8a7bb96f4b.mp3",
+            "text": "tendensiøs",
+            "source": "generated",
+            "content_sha256": "691fe272c0d6627f90dab425c2641162a88bb75231e6c9dd59c7caf45740213c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er preget av en underliggende tendens",
+      "translation": "characterized by an underlying tendency",
+      "examples": []
+    },
+    {
+      "text": "partisk, farget farga",
+      "translation": "biased, colored",
+      "examples": [
+        {
+          "no": "en tendensiøs framstilling av saken",
+          "en": "a biased presentation of the matter"
+        },
+        {
+          "no": "tendensiøs journalistikk",
+          "en": "biased journalism"
+        }
+      ]
+    }
+  ]
+}

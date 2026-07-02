@@ -1,0 +1,110 @@
+{
+  "source_article_id": 59548,
+  "lemmas": [
+    {
+      "lemma": "tagal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68176,
+      "is_sub_article": false,
+      "primary_translation": "silent / saying little",
+      "word_forms": [
+        {
+          "word_form": "tagal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tA:$%gA:l",
+              "ipa": "ˈtɑːˌgɑːl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tagale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tA:$%gA:$l@",
+              "ipa": "ˈtɑːˌgɑːlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tagalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tA:$%gA:lt",
+              "ipa": "ˈtɑːˌgɑːlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fb182808635f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb182808635f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb182808635f.mp3",
+            "text": "tagal",
+            "source": "generated",
+            "content_sha256": "c95c6c4cefd4683a652520c5fdc2e37dc97daedab4a4fda036ec0c9ed3e0c024",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som sier lite",
+      "translation": "saying little",
+      "examples": [
+        {
+          "no": "han var en tagal mann",
+          "en": "he was a taciturn man"
+        },
+        {
+          "no": "hun ble sittende tagal en stund",
+          "en": "she remained sitting silent for a while"
+        }
+      ]
+    }
+  ]
+}

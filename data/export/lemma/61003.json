@@ -1,0 +1,87 @@
+{
+  "source_article_id": 61003,
+  "lemmas": [
+    {
+      "lemma": "tilvant",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 69774,
+      "is_sub_article": false,
+      "primary_translation": "accustomed / ingrained",
+      "word_forms": [
+        {
+          "word_form": "tilvant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%vAnt",
+              "ipa": "ˈtɪlˌvɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tilvante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tIl$%vAn$t@",
+              "ipa": "ˈtɪlˌvɑntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b823a53970aa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b823a53970aa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b823a53970aa.mp3",
+            "text": "tilvant",
+            "source": "generated",
+            "content_sha256": "01ad1dcae3e816887b4658573f9942a2582353ac75a5fa6024035b8e93722baa",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en er blitt vant til",
+      "translation": "that one has become used to",
+      "examples": [
+        {
+          "no": "gamle, tilvante synspunkter",
+          "en": "old, habitual views"
+        }
+      ]
+    }
+  ]
+}

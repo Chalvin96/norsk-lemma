@@ -1,0 +1,91 @@
+{
+  "source_article_id": 21695,
+  "lemmas": [
+    {
+      "lemma": "gynekologisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25340,
+      "is_sub_article": false,
+      "primary_translation": "gynecological",
+      "word_forms": [
+        {
+          "word_form": "gynekologisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gY$n@$kU$\"lo:$gI$sk",
+              "ipa": "gʏnəkʊˈloːgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gynekologiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "gY$n@$kU$\"lo:$gI$sk@",
+              "ipa": "gʏnəkʊˈloːgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e153ac28d087.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e153ac28d087.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e153ac28d087.mp3",
+            "text": "gynekologisk",
+            "source": "generated",
+            "content_sha256": "5f0144e88cf2b2dbd7720f59a7f980691ca9ea0dc8e85718eff9a7d471e5b4f0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder gynekologi",
+      "translation": "relating to gynecology",
+      "examples": [
+        {
+          "no": "gå til gynekologisk undersøkelse",
+          "en": "go for a gynecological examination"
+        },
+        {
+          "no": "gynekologisk avdeling",
+          "en": "gynecological department"
+        }
+      ]
+    }
+  ]
+}

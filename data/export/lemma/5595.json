@@ -1,0 +1,100 @@
+{
+  "source_article_id": 5595,
+  "lemmas": [
+    {
+      "lemma": "besynderlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6575,
+      "is_sub_article": false,
+      "primary_translation": "peculiar",
+      "word_forms": [
+        {
+          "word_form": "besynderlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"sY$n@$l`I",
+              "ipa": "bəˈsʏnəɭɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besynderlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"sY$n@$%l`I$@",
+              "ipa": "bəˈsʏnəˌɭɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "88117989fc4d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88117989fc4d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/88117989fc4d.mp3",
+            "text": "besynderlig",
+            "source": "generated",
+            "content_sha256": "3111ac7e062c0bf1137956812b423713818e50afe7364cf96083a09ad8a9a020",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som stikker seg ut",
+      "translation": "that stands out",
+      "examples": []
+    },
+    {
+      "text": "merkverdig, rar, underlig",
+      "translation": "remarkable, strange, odd",
+      "examples": [
+        {
+          "no": "det var da en besynderlig oppførsel",
+          "en": "that was certainly strange behavior"
+        },
+        {
+          "no": "et besynderlig utseende",
+          "en": "a strange appearance"
+        },
+        {
+          "no": "være kledd på en høyst besynderlig måte",
+          "en": "be dressed in a highly peculiar way"
+        }
+      ]
+    }
+  ]
+}

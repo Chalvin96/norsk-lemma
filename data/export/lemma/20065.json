@@ -1,0 +1,74 @@
+{
+  "source_article_id": 20065,
+  "lemmas": [
+    {
+      "lemma": "gjørs",
+      "hgno": 3,
+      "pos": "VERB",
+      "source_lemma_id": 23395,
+      "is_sub_article": false,
+      "primary_translation": "do",
+      "word_forms": [
+        {
+          "word_form": "gjørs",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"j9s`",
+              "ipa": "ˈjœʂ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gjors",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>",
+            "<PerfPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ju0s`",
+              "ipa": "ˈjʉʂ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e6f8248a652c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6f8248a652c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e6f8248a652c.mp3",
+            "text": "gjørs",
+            "source": "generated",
+            "content_sha256": "119383285f548622f3143e583a1ce2f4c5fd0a5315fcfe3898a4466531c3a31e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": []
+}

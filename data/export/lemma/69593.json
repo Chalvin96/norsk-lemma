@@ -1,0 +1,99 @@
+{
+  "source_article_id": 69593,
+  "lemmas": [
+    {
+      "lemma": "yngst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 80274,
+      "is_sub_article": false,
+      "primary_translation": "youngest",
+      "word_forms": [
+        {
+          "word_form": "yngst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"YNst",
+              "ipa": "ˈʏŋst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "yngste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"YN$st@",
+              "ipa": "ˈʏŋstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a1b37c77e480.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1b37c77e480.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1b37c77e480.mp3",
+            "text": "yngst",
+            "source": "generated",
+            "content_sha256": "9aa7337d6ed0ccc3a1a348510cf4b5f48f98465a0eedfc879dd3703f0348dff7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har lavest alder",
+      "translation": "having the lowest age",
+      "examples": [
+        {
+          "no": "han er yngst av søskene",
+          "en": "he is the youngest of the siblings"
+        },
+        {
+          "no": "den yngste datteren",
+          "en": "the youngest daughter"
+        },
+        {
+          "no": "den yngste årsklassen",
+          "en": "the youngest age group"
+        },
+        {
+          "no": "de yngste fikk også slippe til",
+          "en": "the youngest were also allowed to take part"
+        }
+      ]
+    }
+  ]
+}

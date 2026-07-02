@@ -1,0 +1,104 @@
+{
+  "source_article_id": 123359,
+  "lemmas": [
+    {
+      "lemma": "naturskjønn",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 125554,
+      "is_sub_article": false,
+      "primary_translation": "scenic",
+      "word_forms": [
+        {
+          "word_form": "naturskjønn",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɑtˈʉːʂˌœn",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "naturskjønne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"t}:$%s`9$n@",
+              "ipa": "nɑˈtʉːˌʂœnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "naturskjønt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"t}:$%s`9nt",
+              "ipa": "nɑˈtʉːˌʂœnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "78074c8da56d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/78074c8da56d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/78074c8da56d.mp3",
+            "text": "naturskjønn",
+            "source": "generated",
+            "content_sha256": "23c91dcb41ed0a4c0b7bb276cb4042442e8aab2f640a61f703c1bf450053182c"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med vakker natur",
+      "translation": "with beautiful nature",
+      "examples": [
+        {
+          "no": "naturskjønne omgivelser",
+          "en": "scenic surroundings"
+        }
+      ]
+    }
+  ]
+}

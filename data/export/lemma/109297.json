@@ -1,0 +1,126 @@
+{
+  "source_article_id": 109297,
+  "lemmas": [
+    {
+      "lemma": "bilvask",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 90417,
+      "is_sub_article": false,
+      "primary_translation": "car wash",
+      "word_forms": [
+        {
+          "word_form": "bilvask",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%vA$sk",
+              "ipa": "ˈbɪːlˌvɑsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bilvasken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bi:l$%vA$sk@n",
+              "ipa": "ˈbɪːlˌvɑskən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bilvasker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈiːlʋˌɑskər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bilvaskene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈiːlʋˌɑskənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2584c906efb9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2584c906efb9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2584c906efb9.mp3",
+            "text": "bilvask",
+            "source": "generated",
+            "content_sha256": "c51627afaa9e8fcc374e885e2958af058631253e19d51265d0ffba948cebca3e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vask av bil",
+      "translation": "washing of a car",
+      "examples": [
+        {
+          "no": "kjøpe drivstoff og bilvask på samme sted",
+          "en": "buy fuel and a car wash in the same place"
+        }
+      ]
+    }
+  ]
+}

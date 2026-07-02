@@ -1,0 +1,123 @@
+{
+  "source_article_id": 50187,
+  "lemmas": [
+    {
+      "lemma": "santali",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 57574,
+      "is_sub_article": false,
+      "primary_translation": "Santali language",
+      "word_forms": [
+        {
+          "word_form": "santali",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sAn$\"tA:$lI",
+              "ipa": "sɑnˈtɑːlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "santalien",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sAn$\"tA:$lI$@n",
+              "ipa": "sɑnˈtɑːlɪən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "santalier",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sɑntˈɑːlɪər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "santaliene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sɑntˈɑːlɪənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ff6c06cebfb3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ff6c06cebfb3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ff6c06cebfb3.mp3",
+            "text": "santali",
+            "source": "generated",
+            "content_sha256": "90ace0c7a4475283185174f613b546cdb027dac698c122be3812571fffae763e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språk hovedsakelig brukt av santal i India, Bangladesh, Bhutan og Nepal",
+      "translation": "language primarily spoken by the Santal people in India, Bangladesh, Bhutan, and Nepal",
+      "examples": []
+    }
+  ]
+}

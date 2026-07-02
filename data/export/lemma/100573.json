@@ -1,0 +1,126 @@
+{
+  "source_article_id": 100573,
+  "lemmas": [
+    {
+      "lemma": "julepynt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 111641,
+      "is_sub_article": false,
+      "primary_translation": "Christmas decoration",
+      "word_forms": [
+        {
+          "word_form": "julepynt",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j}:$l@$%pYnt",
+              "ipa": "ˈjʉːləˌpʏnt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "julepynten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"j}:$l@$%pYn$tn=",
+              "ipa": "ˈjʉːləˌpʏntn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "julepynter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈʉːləpˌʏntər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "julepyntene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈʉːləpˌʏntn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c2b07f2e2460.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2b07f2e2460.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2b07f2e2460.mp3",
+            "text": "julepynt",
+            "source": "generated",
+            "content_sha256": "bad1c60a43c3f848d44d9dd415863f2e0aae653a834fb6702b22cf72ea8d947c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "pynt som brukes til jul",
+      "translation": "decoration used for Christmas",
+      "examples": [
+        {
+          "no": "i kassen med julepynt lå julekurver og glasskuler",
+          "en": "in the box of Christmas decorations were woven heart baskets and glass baubles"
+        }
+      ]
+    }
+  ]
+}

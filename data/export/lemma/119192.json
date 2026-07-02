@@ -1,0 +1,113 @@
+{
+  "source_article_id": 119192,
+  "lemmas": [
+    {
+      "lemma": "kalkrik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 112043,
+      "is_sub_article": false,
+      "primary_translation": "rich in lime",
+      "word_forms": [
+        {
+          "word_form": "kalkrik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAl$%kri:k",
+              "ipa": "ˈkɑlˌkrɪːk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kalkrike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAl$%kri:$k@",
+              "ipa": "ˈkɑlˌkrɪːkə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kalkrikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑlkrˌiːkt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7549895adacf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7549895adacf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7549895adacf.mp3",
+            "text": "kalkrik",
+            "source": "generated",
+            "content_sha256": "05a41b6c3cbebe85d7b79383b136b493e95868e270ce782a56109f2e301a645b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som inneholder mye kalk",
+      "translation": "containing a lot of lime",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra kalkfattig",
+      "translation": "as opposed to lime-poor",
+      "examples": [
+        {
+          "no": "kalkrik jord",
+          "en": "lime-rich soil"
+        }
+      ]
+    }
+  ]
+}

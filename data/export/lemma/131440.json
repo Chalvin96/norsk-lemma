@@ -1,0 +1,129 @@
+{
+  "source_article_id": 131440,
+  "lemmas": [
+    {
+      "lemma": "tankanlegg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 145051,
+      "is_sub_article": false,
+      "primary_translation": "tank facility",
+      "word_forms": [
+        {
+          "word_form": "tankanlegg",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tAN$kAn$%lEg",
+              "ipa": "ˈtɑŋkɑnˌlɛg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tankanlegget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑŋkɑnlˌɛgə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tankanlegga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑŋkɑnlˌɛgɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tankanleggene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑŋkɑnlˌɛgənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "49d2005d62b0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49d2005d62b0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49d2005d62b0.mp3",
+            "text": "tankanlegg",
+            "source": "generated",
+            "content_sha256": "d3ddfa847d0af51528e4cf708e8cbe3fda939be66e03ed56c159a9645e79a773",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "anlegg med tank",
+      "translation": "facility with a tank",
+      "examples": [
+        {
+          "no": "oljeselskapet har tankanlegg på land",
+          "en": "the oil company has tank facilities on land"
+        }
+      ]
+    }
+  ]
+}

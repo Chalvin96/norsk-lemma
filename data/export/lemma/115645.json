@@ -1,0 +1,110 @@
+{
+  "source_article_id": 115645,
+  "lemmas": [
+    {
+      "lemma": "gulgrå",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 165543,
+      "is_sub_article": false,
+      "primary_translation": "yellowish gray",
+      "word_forms": [
+        {
+          "word_form": "gulgrå",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʉːlgrˌoː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gulgråe",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʉːlgrˌoːə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gulgrått",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʉːlgrˌoːt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "48e189556d1a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48e189556d1a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48e189556d1a.mp3",
+            "text": "gulgrå",
+            "source": "generated",
+            "content_sha256": "4bb8491e29cc758cebd5650f4baad969c3ff6e467e39d06695f74dca00516d30"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grå med gult skjær",
+      "translation": "gray with a yellow hue",
+      "examples": [
+        {
+          "no": "en gulgrå bergart",
+          "en": "a yellowish-gray rock"
+        }
+      ]
+    }
+  ]
+}

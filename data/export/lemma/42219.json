@@ -1,0 +1,106 @@
+{
+  "source_article_id": 42219,
+  "lemmas": [
+    {
+      "lemma": "omsorgsfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49323,
+      "is_sub_article": false,
+      "primary_translation": "caring",
+      "word_forms": [
+        {
+          "word_form": "omsorgsfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$sOrgs$%fu0l",
+              "ipa": "ˈɔmsɔrgsˌfʉl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "omsorgsfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$sOrgs$%fu0$l@",
+              "ipa": "ˈɔmsɔrgsˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "omsorgsfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Om$sOrgs$%fu0lt",
+              "ipa": "ˈɔmsɔrgsˌfʉlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "576fad81e870.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/576fad81e870.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/576fad81e870.mp3",
+            "text": "omsorgsfull",
+            "source": "generated",
+            "content_sha256": "423f4becc2c4b68b0ee5c62e3e7d609be579e42f67cbd1783c3c824682c5da23",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er full av omsorg for noen",
+      "translation": "full of care for someone",
+      "examples": [
+        {
+          "no": "en kjærlig og omsorgsfull mor",
+          "en": "a loving and caring mother"
+        }
+      ]
+    }
+  ]
+}

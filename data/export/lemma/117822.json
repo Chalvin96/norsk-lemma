@@ -1,0 +1,134 @@
+{
+  "source_article_id": 117822,
+  "lemmas": [
+    {
+      "lemma": "serbisk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 166833,
+      "is_sub_article": false,
+      "primary_translation": "Serbian language",
+      "word_forms": [
+        {
+          "word_form": "serbisk",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Ind",
+            "Neuter",
+            "Uninfl"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s{r$bI$sk",
+              "ipa": "ˈsærbɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "serbisken",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈærbɪskən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "serbisker",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈærbɪskər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "serbiskene",
+          "tags_json": [
+            "Masc",
+            "m1, n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈærbɪskənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "93fd3d86c5ef.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93fd3d86c5ef.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/93fd3d86c5ef.mp3",
+            "text": "serbisk",
+            "source": "generated",
+            "content_sha256": "7d043bbe1f3986c391a16b692b2f0a4c3066abd772ceece84a8b4e60cd87bc0a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "slavisk språk hovedsakelig brukt i Serbia, Montenegro og Bosnia-Hercegovina",
+      "translation": "Slavic language spoken mainly in Serbia, Montenegro, and Bosnia-Herzegovina",
+      "examples": [
+        {
+          "no": "lese serbisk",
+          "en": "read Serbian"
+        },
+        {
+          "no": "snakke et godt serbisk",
+          "en": "speak good Serbian"
+        }
+      ]
+    }
+  ]
+}

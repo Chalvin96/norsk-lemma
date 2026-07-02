@@ -1,0 +1,92 @@
+{
+  "source_article_id": 45517,
+  "lemmas": [
+    {
+      "lemma": "polyglott",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 52502,
+      "is_sub_article": false,
+      "primary_translation": "polyglot",
+      "word_forms": [
+        {
+          "word_form": "polyglott",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$\"glOt",
+              "ipa": "pʊlɪˈglɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "polyglotte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$\"glO$t@",
+              "ipa": "pʊlɪˈglɔtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b0839847a7f0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b0839847a7f0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b0839847a7f0.mp3",
+            "text": "polyglott",
+            "source": "generated",
+            "content_sha256": "95fa8ba933d0f32e9d0ee2e9a62a539a3b2f265f4d0d295752305ad44bfa9901",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som taler flere språk",
+      "translation": "speaking several languages",
+      "examples": []
+    },
+    {
+      "text": "som har samme tekst på flere språk",
+      "translation": "having the same text in several languages",
+      "examples": [
+        {
+          "no": "en polyglott bibel",
+          "en": "a polyglot Bible"
+        }
+      ]
+    }
+  ]
+}

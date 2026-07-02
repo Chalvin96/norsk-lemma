@@ -1,0 +1,152 @@
+{
+  "source_article_id": 111741,
+  "lemmas": [
+    {
+      "lemma": "datafil",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 93396,
+      "is_sub_article": false,
+      "primary_translation": "data file",
+      "word_forms": [
+        {
+          "word_form": "datafil",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%fi:l",
+              "ipa": "ˈdɑːtɑˌfɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datafilen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%fi:$ln=",
+              "ipa": "ˈdɑːtɑˌfɪːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datafiler",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%fi:$l@r",
+              "ipa": "ˈdɑːtɑˌfɪːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datafilene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑfˌiːln̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "datafila",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑfˌiːlɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ddf7bf2d61da.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddf7bf2d61da.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddf7bf2d61da.mp3",
+            "text": "datafil",
+            "source": "generated",
+            "content_sha256": "d25bf5c0bcd0339bf347cc790b9937c6d648bd472750623eac28775c16554b52",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "digital enhet bestående av sammenhørende data",
+      "translation": "digital unit consisting of related data",
+      "examples": [
+        {
+          "no": "åpne en datafil",
+          "en": "open a data file"
+        },
+        {
+          "no": "lagre datafilene i samme mappe",
+          "en": "save the data files in the same folder"
+        }
+      ]
+    }
+  ]
+}

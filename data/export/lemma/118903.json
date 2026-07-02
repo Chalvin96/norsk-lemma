@@ -1,0 +1,128 @@
+{
+  "source_article_id": 118903,
+  "lemmas": [
+    {
+      "lemma": "kaiplass",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 111969,
+      "is_sub_article": false,
+      "primary_translation": "berth",
+      "word_forms": [
+        {
+          "word_form": "kaiplass",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kA*I$%plAs",
+              "ipa": "ˈkɑ͡ɪˌplɑs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kaiplassen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑ͡ɪplˌɑsn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kaiplasser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑ͡ɪplˌɑsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kaiplassene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑ͡ɪplˌɑsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "700dd7c51128.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/700dd7c51128.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/700dd7c51128.mp3",
+            "text": "kaiplass",
+            "source": "generated",
+            "content_sha256": "44e3cc508b00edea770a7a6896511e85257499bbe44199ef1d87f0f2eb87e317",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "plass for et fartøy ved en kai",
+      "translation": "place for a vessel at a quay",
+      "examples": [
+        {
+          "no": "de ventet på kaiplass",
+          "en": "they were waiting for a berth"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "source_article_id": 123255,
+  "lemmas": [
+    {
+      "lemma": "umild",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 150115,
+      "is_sub_article": false,
+      "primary_translation": "unmild / harsh",
+      "word_forms": [
+        {
+          "word_form": "umild",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːmˌɪl",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "umilde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːmˌɪlə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "umildt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːmˌɪlt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "beb6e1beed3b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/beb6e1beed3b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/beb6e1beed3b.mp3",
+            "text": "umild",
+            "source": "generated",
+            "content_sha256": "36a970bf780c1af1511a799e6a9f76ec5e2651ca68310f6686898bcedf38d988"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lite eller ikke mild",
+      "translation": "little or not mild",
+      "examples": []
+    },
+    {
+      "text": "hard, streng, uvennlig",
+      "translation": "hard, strict, unfriendly",
+      "examples": [
+        {
+          "no": "et umildt vær",
+          "en": "harsh weather"
+        },
+        {
+          "no": "motta umild behandling",
+          "en": "receive harsh treatment"
+        },
+        {
+          "no": "få en umild skjebne",
+          "en": "meet a harsh fate"
+        }
+      ]
+    }
+  ]
+}

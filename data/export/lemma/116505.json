@@ -1,0 +1,91 @@
+{
+  "source_article_id": 116505,
+  "lemmas": [
+    {
+      "lemma": "fotballinteressert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 100693,
+      "is_sub_article": false,
+      "primary_translation": "football fan",
+      "word_forms": [
+        {
+          "word_form": "fotballinteressert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fUt$bA$lIn$t@$r@$%se:t`",
+              "ipa": "ˈfʊtbɑlɪntərəˌseːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fotballinteresserte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fUt$bA$lIn$t@$r@$%se:$t`@",
+              "ipa": "ˈfʊtbɑlɪntərəˌseːʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7710877a0832.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7710877a0832.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7710877a0832.mp3",
+            "text": "fotballinteressert",
+            "source": "generated",
+            "content_sha256": "a7cc97c3c9c310704ff5478c3d9939c2eb09a818e19a4cafe12c757628940eab",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "glad i å spille fotball eller å se på fotballkamper",
+      "translation": "fond of playing or watching football matches",
+      "examples": [
+        {
+          "no": "som de fleste briter, er han fotballinteressert",
+          "en": "like most Britons, he is interested in football"
+        },
+        {
+          "no": "jeg er fotballinteressert  og leser sportssidene i avisene",
+          "en": "I am interested in football and read the sports pages in the newspapers"
+        }
+      ]
+    }
+  ]
+}

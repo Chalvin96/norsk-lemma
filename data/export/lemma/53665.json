@@ -1,0 +1,194 @@
+{
+  "source_article_id": 53665,
+  "lemmas": [
+    {
+      "lemma": "skru",
+      "hgno": 2,
+      "pos": "VERB",
+      "source_lemma_id": 61840,
+      "is_sub_article": false,
+      "primary_translation": "turn / rotate / force",
+      "word_forms": [
+        {
+          "word_form": "skru",
+          "tags_json": [
+            "v4",
+            "Inf",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skr}:",
+              "ipa": "ˈskrʉː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skrur",
+          "tags_json": [
+            "v4",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skr}:r",
+              "ipa": "ˈskrʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skrus",
+          "tags_json": [
+            "v4",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skr}:s",
+              "ipa": "ˈskrʉːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skrudde",
+          "tags_json": [
+            "v4",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skru0$d@",
+              "ipa": "ˈskrʉdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skrudd",
+          "tags_json": [
+            "v4",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"skru0dd",
+              "ipa": "ˈskrʉdd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skruende",
+          "tags_json": [
+            "v4",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"skr}:$@$n@",
+              "ipa": "ˈskrʉːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "10cc7cc8cf15.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/10cc7cc8cf15.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/10cc7cc8cf15.mp3",
+            "text": "skru",
+            "source": "generated",
+            "content_sha256": "9aa5cebb9c6495e5b9d2d93470c2b376d1ee8279ecf32f22147dbf639bb15cba",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dreie skrue eller justere noe ved å snu eller vri på mekanisme",
+      "translation": "turn a screw, adjust something by turning or twisting a mechanism",
+      "examples": [
+        {
+          "no": "skru i en skrue",
+          "en": "drive in a screw"
+        },
+        {
+          "no": "skru av et hjul",
+          "en": "take off a wheel"
+        }
+      ]
+    },
+    {
+      "text": "sette i roterende bevegelse",
+      "translation": "set in rotational motion",
+      "examples": [
+        {
+          "no": "skru ballen i mål",
+          "en": "curl the ball into the goal"
+        }
+      ]
+    },
+    {
+      "text": "tvinge, presse, trykke",
+      "translation": "force, press, push",
+      "examples": [
+        {
+          "no": "skru utviklingen tilbake",
+          "en": "turn back the course of development"
+        },
+        {
+          "no": "skru prisene i været",
+          "en": "drive prices sky-high"
+        },
+        {
+          "no": "skuta ble skrudd ned av drivisen",
+          "en": "the ship was forced down by the pack ice"
+        }
+      ]
+    }
+  ]
+}

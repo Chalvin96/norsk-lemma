@@ -1,0 +1,100 @@
+{
+  "source_article_id": 133438,
+  "lemmas": [
+    {
+      "lemma": "tårefylt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2261472,
+      "is_sub_article": false,
+      "primary_translation": "tearful",
+      "word_forms": [
+        {
+          "word_form": "tårefylt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈoːrəfˌʏlt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tårefylte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈoːrəfˌʏltə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "376ff7180a9f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/376ff7180a9f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/376ff7180a9f.mp3",
+            "text": "tårefylt",
+            "source": "generated",
+            "content_sha256": "322d217a5fc8fb77cc6c7348fc3b350a4d19a8eece6ea426abe78059d036ba14"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fylt av tårer",
+      "translation": "filled with tears",
+      "examples": [
+        {
+          "no": "tårefylte øyne",
+          "en": "tear-filled eyes"
+        }
+      ]
+    },
+    {
+      "text": "som kaller fram tårer",
+      "translation": "that calls forth tears",
+      "examples": [
+        {
+          "no": "et tårefylt farvel",
+          "en": "a tearful farewell"
+        }
+      ]
+    }
+  ]
+}

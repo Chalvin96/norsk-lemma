@@ -1,0 +1,131 @@
+{
+  "source_article_id": 33084,
+  "lemmas": [
+    {
+      "lemma": "kveik",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 38796,
+      "is_sub_article": false,
+      "primary_translation": "kvæik / refreshment / new strength",
+      "word_forms": [
+        {
+          "word_form": "kveik",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kv{*Ik",
+              "ipa": "ˈkvæ͡ɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kveiken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kv{*I$k@n",
+              "ipa": "ˈkvæ͡ɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kveiker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kv{*I$k@r",
+              "ipa": "ˈkvæ͡ɪkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kveikene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kv{*I$k@$n@",
+              "ipa": "ˈkvæ͡ɪkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2c7770dc6b78.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2c7770dc6b78.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2c7770dc6b78.mp3",
+            "text": "kveik",
+            "source": "generated",
+            "content_sha256": "3a45a89bf5ddfa5a828a5b205a82a9633aca3b06f02b9ab52837ac469ee680bc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forfriskning",
+      "translation": "refreshment",
+      "examples": []
+    },
+    {
+      "text": "ny kraft, nytt mot",
+      "translation": "new strength, new courage",
+      "examples": [
+        {
+          "no": "få en kveik",
+          "en": "get a new spark"
+        },
+        {
+          "no": "sette ny kveik i en",
+          "en": "put new life into someone"
+        }
+      ]
+    }
+  ]
+}

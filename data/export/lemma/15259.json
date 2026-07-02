@@ -1,0 +1,129 @@
+{
+  "source_article_id": 15259,
+  "lemmas": [
+    {
+      "lemma": "flass",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 17705,
+      "is_sub_article": false,
+      "primary_translation": "dandruff",
+      "word_forms": [
+        {
+          "word_form": "flass",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flAs",
+              "ipa": "ˈflɑs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flasset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"flA$s@",
+              "ipa": "ˈflɑsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "flassa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flA$sA",
+              "ipa": "ˈflɑsɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flassene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈɑsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d6cba270f2f9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d6cba270f2f9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d6cba270f2f9.mp3",
+            "text": "flass",
+            "source": "generated",
+            "content_sha256": "576b36a669de9b08eb41ae64684d162d28211e1487997a5cb0d99a4b168fe305",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avskallede små flak fra hudens overflate, særlig fra hodebunnen",
+      "translation": "peeled off small flakes from the surface of the skin, especially from the scalp",
+      "examples": [
+        {
+          "no": "være plaget med flass",
+          "en": "be bothered by dandruff"
+        },
+        {
+          "no": "et middel mot flass",
+          "en": "a remedy for dandruff"
+        }
+      ]
+    }
+  ]
+}

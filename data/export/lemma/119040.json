@@ -1,0 +1,137 @@
+{
+  "source_article_id": 119040,
+  "lemmas": [
+    {
+      "lemma": "karbonfangst",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 167533,
+      "is_sub_article": false,
+      "primary_translation": "carbon capture",
+      "word_forms": [
+        {
+          "word_form": "karbonfangst",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kAr$\"bu:n$%fANst",
+              "ipa": "kɑrˈbuːnˌfɑŋst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "karbonfangsten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑrbˈuːnfˌɑŋstn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "karbonfangster",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑrbˈuːnfˌɑŋstər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "karbonfangstene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑrbˈuːnfˌɑŋstn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "33beb93d8a50.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/33beb93d8a50.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/33beb93d8a50.mp3",
+            "text": "karbonfangst",
+            "source": "generated",
+            "content_sha256": "bf5dc01efef0a3708f1c08b1613ef68d5a2f3513e37abe5c497728f8c0d40de5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "oppsamling og lagring av karbondioksid fra utslipp utslepp",
+      "translation": "collection and storage of carbon dioxide from emissions",
+      "examples": []
+    },
+    {
+      "text": "jamfør karbonbinding",
+      "translation": "see also carbon sequestration",
+      "examples": [
+        {
+          "no": "det ble satset stort på karbonfangst",
+          "en": "there was major investment in carbon capture"
+        },
+        {
+          "no": "trær fortsetter karbonfangsten så lenge de lever",
+          "en": "trees continue the carbon capture as long as they live"
+        }
+      ]
+    }
+  ]
+}

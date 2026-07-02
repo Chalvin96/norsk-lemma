@@ -1,0 +1,136 @@
+{
+  "source_article_id": 2321,
+  "lemmas": [
+    {
+      "lemma": "apati",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2852,
+      "is_sub_article": false,
+      "primary_translation": "apathy",
+      "word_forms": [
+        {
+          "word_form": "apati",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pA$\"ti:",
+              "ipa": "ɑpɑˈtɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "apatien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$pA$\"ti:$@n",
+              "ipa": "ɑpɑˈtɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "apatier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑpɑtˈiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "apatiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑpɑtˈiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4409dcc6ce43.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4409dcc6ce43.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4409dcc6ce43.mp3",
+            "text": "apati",
+            "source": "generated",
+            "content_sha256": "9fffbd40e00f0530ac1a2d3eed61c25f1982c7c0e8dc77b5abceec109f1deb2e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være følelsesløs følelseslaus, sløv eller uten handlekraft",
+      "translation": "the state of being numb, listless, or lacking initiative",
+      "examples": [
+        {
+          "no": "en befolkning preget av apati og motløshet",
+          "en": "a population marked by apathy and discouragement"
+        }
+      ]
+    },
+    {
+      "text": "sykelig tilstand av likegyldighet",
+      "translation": "a pathological condition of indifference",
+      "examples": [
+        {
+          "no": "lide av apati",
+          "en": "suffer from apathy"
+        }
+      ]
+    }
+  ]
+}

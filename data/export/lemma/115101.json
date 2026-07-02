@@ -1,0 +1,112 @@
+{
+  "source_article_id": 115101,
+  "lemmas": [
+    {
+      "lemma": "glansfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 103017,
+      "is_sub_article": false,
+      "primary_translation": "shiny / honorable",
+      "word_forms": [
+        {
+          "word_form": "glansfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"glAns$%fu0l",
+              "ipa": "ˈglɑnsˌfʉl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "glansfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glAns$%fu0$l@",
+              "ipa": "ˈglɑnsˌfʉlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glansfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "glˈɑnsfˌʉlt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9c79679ea51f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9c79679ea51f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9c79679ea51f.mp3",
+            "text": "glansfull",
+            "source": "generated",
+            "content_sha256": "d22d6c8593f4ad44de990606109c6b6c0ceedb8148116fec9ead61b2dfe3e433",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "full av glans",
+      "translation": "full of shine",
+      "examples": [
+        {
+          "no": "glansfullt hår",
+          "en": "glossy hair"
+        },
+        {
+          "no": "en glansfull fortid",
+          "en": "a glorious past"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_article_id": 43200,
+  "lemmas": [
+    {
+      "lemma": "oral",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50054,
+      "is_sub_article": false,
+      "primary_translation": "oral",
+      "word_forms": [
+        {
+          "word_form": "oral",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$\"rA:l",
+              "ipa": "ʊˈrɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "orale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$\"rA:$l@",
+              "ipa": "ʊˈrɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oralt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$\"rA:lt",
+              "ipa": "ʊˈrɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ab6242383aa4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ab6242383aa4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ab6242383aa4.mp3",
+            "text": "oral",
+            "source": "generated",
+            "content_sha256": "589e538eebc765f33fb586ee730e62f9cc7b1561d906c4efbbffce9ac51a47be",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder munnen",
+      "translation": "relating to the mouth",
+      "examples": []
+    }
+  ]
+}

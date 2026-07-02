@@ -1,0 +1,134 @@
+{
+  "source_article_id": 52344,
+  "lemmas": [
+    {
+      "lemma": "sjøvær",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 60385,
+      "is_sub_article": false,
+      "primary_translation": "sea weather",
+      "word_forms": [
+        {
+          "word_form": "sjøvær",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"S2:$%v{:r",
+              "ipa": "ˈʃøːˌvæːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sjøværet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈøːʋˌæːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sjøværa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈøːʋˌæːrɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sjøværene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈøːʋˌæːɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fbc8dfc311ec.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fbc8dfc311ec.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fbc8dfc311ec.mp3",
+            "text": "sjøvær",
+            "source": "generated",
+            "content_sha256": "4c0fecc295b025fbaa3bd36690808cafc4a27e7a5ab6785c6ecd5b052b5dd98f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vær som gjør det mulig å være på sjøen",
+      "translation": "weather that makes it possible to be at sea",
+      "examples": []
+    },
+    {
+      "text": "godt vær på sjøen",
+      "translation": "good weather at sea",
+      "examples": [
+        {
+          "no": "det er ikke sjøvær i dag",
+          "en": "it's not suitable boating weather today"
+        }
+      ]
+    }
+  ]
+}

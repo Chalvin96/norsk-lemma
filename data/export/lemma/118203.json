@@ -1,0 +1,90 @@
+{
+  "source_article_id": 118203,
+  "lemmas": [
+    {
+      "lemma": "innridd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167123,
+      "is_sub_article": false,
+      "primary_translation": "ridden (horse)",
+      "word_forms": [
+        {
+          "word_form": "innridd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪnrˌɪd",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "innridde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪnrˌɪdə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "51d986950fcf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/51d986950fcf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/51d986950fcf.mp3",
+            "text": "innridd",
+            "source": "generated",
+            "content_sha256": "8d1bd96d457bba1ce405bdf6c422cda42ebbed5b79207fde924228de13602765"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om hest: som er ri inn",
+      "translation": "of a horse: that has been ridden",
+      "examples": [
+        {
+          "no": "en innridd islandshest",
+          "en": "a broken-in Icelandic horse"
+        }
+      ]
+    }
+  ]
+}

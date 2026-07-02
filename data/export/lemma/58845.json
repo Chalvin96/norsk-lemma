@@ -1,0 +1,245 @@
+{
+  "source_article_id": 58845,
+  "lemmas": [
+    {
+      "lemma": "svær",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67335,
+      "is_sub_article": false,
+      "primary_translation": "large / unusual / very",
+      "word_forms": [
+        {
+          "word_form": "svær",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sv{:r",
+              "ipa": "ˈsvæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "svære",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sv{:$r@",
+              "ipa": "ˈsvæːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "svært",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sv{:t`",
+              "ipa": "ˈsvæːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sværere",
+          "tags_json": [
+            "a1",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sv{:$r@$r@",
+              "ipa": "ˈsvæːrərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sværest",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sv{:$r@$st",
+              "ipa": "ˈsvæːrəst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sværeste",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sv{:$r@$st@",
+              "ipa": "ˈsvæːrəstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "645dbe4ee593.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/645dbe4ee593.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/645dbe4ee593.mp3",
+            "text": "svær",
+            "source": "generated",
+            "content_sha256": "fc0b5f42aead7eeeac74539947b33439564b6c450974567aec6e91697ff6d527",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stor",
+      "translation": "large",
+      "examples": []
+    },
+    {
+      "text": "kraftig",
+      "translation": "powerful",
+      "examples": []
+    },
+    {
+      "text": "tykk",
+      "translation": "thick",
+      "examples": [
+        {
+          "no": "en stor, svær kar",
+          "en": "a big, hefty fellow"
+        },
+        {
+          "no": "det kom en svær lastebil",
+          "en": "a huge truck came"
+        },
+        {
+          "no": "de bor i et svært hus",
+          "en": "they live in a huge house"
+        },
+        {
+          "no": "de har brukt svære summer",
+          "en": "they have spent huge sums"
+        }
+      ]
+    },
+    {
+      "text": "tung, grov",
+      "translation": "heavy, coarse",
+      "examples": [
+        {
+          "no": "svær sjø",
+          "en": "heavy seas"
+        },
+        {
+          "no": "det er svært så det blåser",
+          "en": "it's blowing hard"
+        },
+        {
+          "no": "svært til hastverk du har",
+          "en": "you're in a mighty hurry"
+        }
+      ]
+    },
+    {
+      "text": "flink, dyktig",
+      "translation": "skilled",
+      "examples": [
+        {
+          "no": "han er en svær jeger",
+          "en": "he is a great hunter"
+        },
+        {
+          "no": "du er svær til å gå på ski",
+          "en": "you're great at skiing"
+        }
+      ]
+    },
+    {
+      "text": "veldig ivrig",
+      "translation": "very eager",
+      "examples": [
+        {
+          "no": "han er svær til å snakke",
+          "en": "he's very fond of talking"
+        },
+        {
+          "no": "hun er svær til å lyve",
+          "en": "she's very fond of lying"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: i høy grad, veldig",
+      "translation": "used adverbially: very much",
+      "examples": [
+        {
+          "no": "jeg var svært sliten etter turen",
+          "en": "i was very tired after the trip"
+        },
+        {
+          "no": "det er svært så fin du er",
+          "en": "you look बेहद fine"
+        },
+        {
+          "no": "vi har det svært bra",
+          "en": "we are doing very well"
+        }
+      ]
+    }
+  ]
+}

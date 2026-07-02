@@ -1,0 +1,97 @@
+{
+  "source_article_id": 135094,
+  "lemmas": [
+    {
+      "lemma": "vinterkledd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 154320,
+      "is_sub_article": false,
+      "primary_translation": "winter-dressed / snow-covered",
+      "word_forms": [
+        {
+          "word_form": "vinterkledd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vIn$t@r$%klEd",
+              "ipa": "ˈvɪntərˌklɛd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vinterkledde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɪntərklˌɛdə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8cc1ed8d9022.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8cc1ed8d9022.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8cc1ed8d9022.mp3",
+            "text": "vinterkledd",
+            "source": "generated",
+            "content_sha256": "cc8b41c22ca8816bebcee0368dd3ce59d5eba2b4019d613d1bb734fa9950caca",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om folk: kledd til å tåle vintervær",
+      "translation": "of people: dressed to withstand winter weather",
+      "examples": [
+        {
+          "no": "vinterkledde barn",
+          "en": "children dressed for winter"
+        },
+        {
+          "no": "vinterkledde veier",
+          "en": "winter-clad roads"
+        },
+        {
+          "no": "et vinterkledd landskap",
+          "en": "a winter-clad landscape"
+        }
+      ]
+    }
+  ]
+}

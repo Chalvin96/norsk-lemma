@@ -1,0 +1,79 @@
+{
+  "source_article_id": 121925,
+  "lemmas": [
+    {
+      "lemma": "lesende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 169114,
+      "is_sub_article": false,
+      "primary_translation": "reading / legible",
+      "word_forms": [
+        {
+          "word_form": "lesende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"le:$sn=$@",
+              "ipa": "ˈleːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "21245f0a1f0a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21245f0a1f0a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21245f0a1f0a.mp3",
+            "text": "lesende",
+            "source": "generated",
+            "content_sha256": "81fae241d2d1369c4c9f90337b1faf3e5324a82fab9705733e593b94ec8175a7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som leser",
+      "translation": "who is reading",
+      "examples": [
+        {
+          "no": "lesende ungdommer",
+          "en": "young readers"
+        }
+      ]
+    },
+    {
+      "text": "som er mulig eller verdt å lese",
+      "translation": "that is possible or worth reading",
+      "examples": [
+        {
+          "no": "boka var absolutt lesende",
+          "en": "the book was definitely worth reading"
+        }
+      ]
+    }
+  ]
+}

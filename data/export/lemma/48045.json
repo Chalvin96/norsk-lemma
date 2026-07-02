@@ -1,0 +1,131 @@
+{
+  "source_article_id": 48045,
+  "lemmas": [
+    {
+      "lemma": "relevans",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 55190,
+      "is_sub_article": false,
+      "primary_translation": "relevance",
+      "word_forms": [
+        {
+          "word_form": "relevans",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$l@$\"vAns",
+              "ipa": "rələˈvɑns",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "relevansen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$l@$\"vAn$sn=",
+              "ipa": "rələˈvɑnsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "relevanser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rələʋˈɑnsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "relevansene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rələʋˈɑnsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f8e97f50b6c0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f8e97f50b6c0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f8e97f50b6c0.mp3",
+            "text": "relevans",
+            "source": "generated",
+            "content_sha256": "9d725027013bdc35ec6c772b6d1cfaf54fa2b7999338bff56d338a937107c816",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være relevant",
+      "translation": "the state of being relevant",
+      "examples": []
+    },
+    {
+      "text": "betydning eller viktighet i en bestemt sammenheng",
+      "translation": "significance or importance in a specific context",
+      "examples": [
+        {
+          "no": "dette har ikke relevans for saken",
+          "en": "this has no relevance to the case"
+        }
+      ]
+    }
+  ]
+}

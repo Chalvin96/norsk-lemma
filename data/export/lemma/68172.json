@@ -1,0 +1,127 @@
+{
+  "source_article_id": 68172,
+  "lemmas": [
+    {
+      "lemma": "video",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 78697,
+      "is_sub_article": false,
+      "primary_translation": "video",
+      "word_forms": [
+        {
+          "word_form": "video",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vi:$d@$U",
+              "ipa": "ˈvɪːdəʊ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "videoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vi:$d@$U$@n",
+              "ipa": "ˈvɪːdəʊən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "videoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vi:$d@$U$@r",
+              "ipa": "ˈvɪːdəʊər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "videoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vi:$d@$U$@$n@",
+              "ipa": "ˈvɪːdəʊənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "384362c088d6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/384362c088d6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/384362c088d6.mp3",
+            "text": "video",
+            "source": "generated",
+            "content_sha256": "68652d628f9765fa166832026f60c6691ed023764cbdea3dbbcc8f04bf8e6e00",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "levende bilder med lyd som er lagret på elektronisk format som kan avspilles på en skjerm",
+      "translation": "moving images with sound stored in an electronic format that can be played on a screen",
+      "examples": []
+    },
+    {
+      "text": "kortform av videofilm",
+      "translation": "short form of videofilm",
+      "examples": [
+        {
+          "no": "se på video",
+          "en": "watch video"
+        }
+      ]
+    }
+  ]
+}

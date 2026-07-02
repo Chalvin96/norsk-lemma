@@ -1,0 +1,90 @@
+{
+  "source_article_id": 110073,
+  "lemmas": [
+    {
+      "lemma": "bohemsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 162602,
+      "is_sub_article": false,
+      "primary_translation": "bohemian",
+      "word_forms": [
+        {
+          "word_form": "bohemsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "buhˈeːmsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bohemske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "buhˈeːmskə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "10559509da81.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/10559509da81.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/10559509da81.mp3",
+            "text": "bohemsk",
+            "source": "generated",
+            "content_sha256": "0c6d602cb3650cd5925fdc1b4b65e68986300a6c593e6b79235c7f1f7ac8a664"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bohemaktig, ukonvensjonell",
+      "translation": "bohemian, unconventional",
+      "examples": [
+        {
+          "no": "en bohemsk livsstil",
+          "en": "a bohemian lifestyle"
+        }
+      ]
+    }
+  ]
+}

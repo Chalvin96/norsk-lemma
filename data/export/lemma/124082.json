@@ -1,0 +1,93 @@
+{
+  "source_article_id": 124082,
+  "lemmas": [
+    {
+      "lemma": "oppbrent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 127794,
+      "is_sub_article": false,
+      "primary_translation": "burnt out / burn up",
+      "word_forms": [
+        {
+          "word_form": "oppbrent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔpbrˌɛnt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "oppbrente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%brEn$t@",
+              "ipa": "ˈɔpˌbrɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "dfb2f3220848.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dfb2f3220848.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/dfb2f3220848.mp3",
+            "text": "oppbrent",
+            "source": "generated",
+            "content_sha256": "a65134f7aa4b4a1f998b4a1cea7254999a6be787918c84f3cc250c973b783621"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er helt ødelagt av ild",
+      "translation": "completely destroyed by fire",
+      "examples": []
+    },
+    {
+      "text": "jamfør brenne opp",
+      "translation": "to burn up",
+      "examples": [
+        {
+          "no": "en oppbrent bil",
+          "en": "a burned-out car"
+        }
+      ]
+    }
+  ]
+}

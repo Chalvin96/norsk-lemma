@@ -1,0 +1,101 @@
+{
+  "source_article_id": 110308,
+  "lemmas": [
+    {
+      "lemma": "rutinemessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 134938,
+      "is_sub_article": false,
+      "primary_translation": "routine",
+      "word_forms": [
+        {
+          "word_form": "rutinemessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ru0$\"\"ti:$n@$%mE$sI",
+              "ipa": "rʉˈtɪːnəˌmɛsɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "rutinemessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ru0$\"\"ti:$n@$%mE$sI$@",
+              "ipa": "rʉˈtɪːnəˌmɛsɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5406112fcd3c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5406112fcd3c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5406112fcd3c.mp3",
+            "text": "rutinemessig",
+            "source": "generated",
+            "content_sha256": "da152278a021b0e8cbbbb36fea482feaf71c12fb01c1d64fbaff941208156cae",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er preget av gjentakelse og automatikk",
+      "translation": "characterized by repetition and automatism",
+      "examples": [
+        {
+          "no": "mye av arbeidet er rutinemessig og krever liten konsentrasjon",
+          "en": "much of the work is routine and requires little concentration"
+        },
+        {
+          "no": "det ukentlige, rutinemessige vedlikeholdet av utstyret",
+          "en": "the weekly, routine maintenance of the equipment"
+        }
+      ]
+    },
+    {
+      "text": "som er gjort etter gjeldende rutine eller fastlagt framgangsmåte",
+      "translation": "done according to current routine or established procedure",
+      "examples": [
+        {
+          "no": "politiet tok en rutinemessig blodprøve",
+          "en": "the police took a routine blood sample"
+        }
+      ]
+    }
+  ]
+}

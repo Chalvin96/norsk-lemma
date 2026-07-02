@@ -1,0 +1,96 @@
+{
+  "source_article_id": 36906,
+  "lemmas": [
+    {
+      "lemma": "manisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 43302,
+      "is_sub_article": false,
+      "primary_translation": "manic",
+      "word_forms": [
+        {
+          "word_form": "manisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mA:$nI$sk",
+              "ipa": "ˈmɑːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "maniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mA:$nI$sk@",
+              "ipa": "ˈmɑːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "17cc113a0cc3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17cc113a0cc3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17cc113a0cc3.mp3",
+            "text": "manisk",
+            "source": "generated",
+            "content_sha256": "eecae4ca22e31667e90f10f772f1dcf26789b76d2bd2a74eb8402f5107c0f15f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lider av mani",
+      "translation": "suffering from mania",
+      "examples": []
+    },
+    {
+      "text": "som viser overdreven interesse for noe",
+      "translation": "showing excessive interest in something",
+      "examples": [
+        {
+          "no": "bli mer og mer manisk og besatt",
+          "en": "become more and more manic and obsessed"
+        },
+        {
+          "no": "de er manisk opptatt av å følge reglene",
+          "en": "they are manically preoccupied with following the rules"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 26577,
+  "lemmas": [
+    {
+      "lemma": "innlåst",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31628,
+      "is_sub_article": false,
+      "primary_translation": "locked in",
+      "word_forms": [
+        {
+          "word_form": "innlåst",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%lo:$st",
+              "ipa": "ˈɪnˌloːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "innlåste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%lo:$st@",
+              "ipa": "ˈɪnˌloːstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "291112588a71.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/291112588a71.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/291112588a71.mp3",
+            "text": "innlåst",
+            "source": "generated",
+            "content_sha256": "951b0ac68255312c36ddb4d413ee00e853169b081f581537b551413f32ecd28a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er låst inn",
+      "translation": "locked in",
+      "examples": [
+        {
+          "no": "innlåste verdisaker",
+          "en": "locked-up valuables"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "source_article_id": 25935,
+  "lemmas": [
+    {
+      "lemma": "implisitt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30906,
+      "is_sub_article": false,
+      "primary_translation": "implicit / implied",
+      "word_forms": [
+        {
+          "word_form": "implisitt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$plI$\"sIt",
+              "ipa": "ɪmplɪˈsɪt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "implisitte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Im$plI$\"sI$t@",
+              "ipa": "ɪmplɪˈsɪtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "589a2b434a98.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/589a2b434a98.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/589a2b434a98.mp3",
+            "text": "implisitt",
+            "source": "generated",
+            "content_sha256": "430e183e02cef732f546d36852d9568ed5bfb3b65d1ef1733f03e329da88d6af",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan utledes, men ikke er direkte uttrykt",
+      "translation": "that can be inferred but is not directly expressed",
+      "examples": []
+    },
+    {
+      "text": "underforstått",
+      "translation": "implied",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra eksplisitt",
+      "translation": "in contrast to explicit",
+      "examples": [
+        {
+          "no": "implisitt kritikk",
+          "en": "implicit criticism"
+        },
+        {
+          "no": "den implisitte betydningen i teksten",
+          "en": "the implicit meaning in the text"
+        },
+        {
+          "no": "implisitt inneholder artikkelen flere insinuasjoner",
+          "en": "implicitly, the article contains several insinuations"
+        }
+      ]
+    }
+  ]
+}

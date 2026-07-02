@@ -1,0 +1,125 @@
+{
+  "source_article_id": 44829,
+  "lemmas": [
+    {
+      "lemma": "petrokjemi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 51794,
+      "is_sub_article": false,
+      "primary_translation": "petrochemistry",
+      "word_forms": [
+        {
+          "word_form": "petrokjemi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$trU$C@$\"mi:",
+              "ipa": "pətrʊçəˈmɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "petrokjemien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "p@$trU$C@$\"mi:$@n",
+              "ipa": "pətrʊçəˈmɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "petrokjemier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pətruçəmˈiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "petrokjemiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pətruçəmˌiːənə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6584fdc98783.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6584fdc98783.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6584fdc98783.mp3",
+            "text": "petrokjemi",
+            "source": "generated",
+            "content_sha256": "8c2141f25431f67778fb5d8e3b1d38d941bbba2b0a5f029eb36bd17c648545e2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kjemi som gjelder bergarter",
+      "translation": "chemistry relating to rocks",
+      "examples": []
+    },
+    {
+      "text": "kjemi som gjelder råolje og naturgass",
+      "translation": "chemistry relating to crude oil and natural gas",
+      "examples": []
+    }
+  ]
+}

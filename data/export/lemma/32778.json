@@ -1,0 +1,127 @@
+{
+  "source_article_id": 32778,
+  "lemmas": [
+    {
+      "lemma": "kunstis",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 38454,
+      "is_sub_article": false,
+      "primary_translation": "artificial ice",
+      "word_forms": [
+        {
+          "word_form": "kunstis",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0n$%sti:s",
+              "ipa": "ˈkʉnˌstɪːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kunstisen",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ku0n$%sti:$sn=",
+              "ipa": "ˈkʉnˌstɪːsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kunstiser",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉnstɪsˈeːr",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kunstisene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉnstˌiːsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "60dbd80f832b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/60dbd80f832b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/60dbd80f832b.mp3",
+            "text": "kunstis",
+            "source": "generated",
+            "content_sha256": "e0a54db329a7266635cb4b53e6d622c5dc5b6985fa3ee4d11defa155137f2137",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kunstig framstilt is, ofte brukt til å stå på skøyter på",
+      "translation": "artificially produced ice, often used for ice skating",
+      "examples": [
+        {
+          "no": "skøytebane med kunstis",
+          "en": "skating rink with artificial ice"
+        }
+      ]
+    }
+  ]
+}

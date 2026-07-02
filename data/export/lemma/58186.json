@@ -1,0 +1,124 @@
+{
+  "source_article_id": 58186,
+  "lemmas": [
+    {
+      "lemma": "subjektivitet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 66638,
+      "is_sub_article": false,
+      "primary_translation": "subjectivity",
+      "word_forms": [
+        {
+          "word_form": "subjektivitet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$bj@k$tI$vI$\"te:t",
+              "ipa": "sʉbjəktɪvɪˈteːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "subjektiviteten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "su0$bj@k$tI$vI$\"te:$tn=",
+              "ipa": "sʉbjəktɪvɪˈteːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "subjektiviteter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʉbjəktɪʋɪtˌeːtər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "subjektivitetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sʉbjəktɪʋɪtˌeːtn̩ə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b18b09ee9fc2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b18b09ee9fc2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b18b09ee9fc2.mp3",
+            "text": "subjektivitet",
+            "source": "generated",
+            "content_sha256": "ce0cb698a4d7d9c26ebd4c6e48702ca7266dfded5665021bab7b2d5f0c40bb0a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å være subjektiv",
+      "translation": "the state of being subjective",
+      "examples": [
+        {
+          "no": "tolkningen var preget av forskerens subjektivitet",
+          "en": "the interpretation was marked by the researcher's subjectivity"
+        }
+      ]
+    }
+  ]
+}

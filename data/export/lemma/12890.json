@@ -1,0 +1,102 @@
+{
+  "source_article_id": 12890,
+  "lemmas": [
+    {
+      "lemma": "enverdig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15015,
+      "is_sub_article": false,
+      "primary_translation": "monovalent / intransitive",
+      "word_forms": [
+        {
+          "word_form": "enverdig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"e:n$%v{r$dI",
+              "ipa": "ˈeːnˌværdɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "enverdige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"e:n$%v{r$dI$@",
+              "ipa": "ˈeːnˌværdɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "242d91ddf7a1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/242d91ddf7a1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/242d91ddf7a1.mp3",
+            "text": "enverdig",
+            "source": "generated",
+            "content_sha256": "2ecd2f9b44ab794d9c68468ce3137db3939755347601723474d9663f945a5e02",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om grunnstoff: der hvert atom kan binde eller erstatte ett hydrogenatom",
+      "translation": "of an element: where each atom can bind or replace one hydrogen atom",
+      "examples": []
+    },
+    {
+      "text": "om verb: som bare krever ett ledd for å danne grammatikalsk setninger",
+      "translation": "of a verb: requiring only one element to form grammatical sentences",
+      "examples": [
+        {
+          "no": "‘sove’ er et enverdig verb",
+          "en": "'sleep' is a monovalent verb"
+        }
+      ]
+    },
+    {
+      "text": "som teller enkelt, én enhet, ett poeng eller lignende",
+      "translation": "counting as single, one unit, one point or similar",
+      "examples": [
+        {
+          "no": "faget er enverdig på vitnemålet",
+          "en": "the subject counts as one unit on the diploma"
+        }
+      ]
+    }
+  ]
+}

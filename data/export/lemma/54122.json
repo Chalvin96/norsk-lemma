@@ -1,0 +1,82 @@
+{
+  "source_article_id": 54122,
+  "lemmas": [
+    {
+      "lemma": "skånsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 62371,
+      "is_sub_article": false,
+      "primary_translation": "Scanian",
+      "word_forms": [
+        {
+          "word_form": "skånsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sko:nsk",
+              "ipa": "ˈskoːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skånske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sko:n$sk@",
+              "ipa": "ˈskoːnskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e3851061edf8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3851061edf8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3851061edf8.mp3",
+            "text": "skånsk",
+            "source": "generated",
+            "content_sha256": "fb4206a996e5fd1070f27b36971fec2debdc61c4116f434faafaeda209cde2be",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Skåne og skåninger",
+      "translation": "relating to Skåne and its people",
+      "examples": []
+    }
+  ]
+}

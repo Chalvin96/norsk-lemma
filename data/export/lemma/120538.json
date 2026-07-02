@@ -1,0 +1,82 @@
+{
+  "source_article_id": 120538,
+  "lemmas": [
+    {
+      "lemma": "kosovoalbansk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 116530,
+      "is_sub_article": false,
+      "primary_translation": "Kosovo Albanian",
+      "word_forms": [
+        {
+          "word_form": "kosovoalbansk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kO$sU$vU$Al$%bA:nsk",
+              "ipa": "ˈkɔsʊvʊɑlˌbɑːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kosovoalbanske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kO$sU$vU$Al$%bA:n$sk@",
+              "ipa": "ˈkɔsʊvʊɑlˌbɑːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "20cb5794b6b9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20cb5794b6b9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20cb5794b6b9.mp3",
+            "text": "kosovoalbansk",
+            "source": "generated",
+            "content_sha256": "521d7ceb62ac58a161e6dc85b38214703a18985bdf18fab5040681b3edd4b537",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder kosovoalbaner",
+      "translation": "relating to Kosovo Albanians",
+      "examples": []
+    }
+  ]
+}

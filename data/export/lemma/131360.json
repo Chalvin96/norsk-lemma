@@ -1,0 +1,129 @@
+{
+  "source_article_id": 131360,
+  "lemmas": [
+    {
+      "lemma": "tastetrykk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 145260,
+      "is_sub_article": false,
+      "primary_translation": "keystroke",
+      "word_forms": [
+        {
+          "word_form": "tastetrykk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tA$st@$%trYk",
+              "ipa": "ˈtɑstəˌtrʏk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tastetrykket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑstətrˌʏkə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tastetrykka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑstətrˌʏkɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tastetrykkene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɑstətrˌʏkənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2e4cb191a6e1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e4cb191a6e1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e4cb191a6e1.mp3",
+            "text": "tastetrykk",
+            "source": "generated",
+            "content_sha256": "5f862360c070564b2906a7b4beab70c60cd913e6983a221678f4160c33b9b4dc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "trykk på en tast",
+      "translation": "press of a key",
+      "examples": [
+        {
+          "no": "med mobiltelefon er informasjon bare et tastetrykk unna",
+          "en": "with a mobile phone, information is only a keystroke away"
+        }
+      ]
+    }
+  ]
+}

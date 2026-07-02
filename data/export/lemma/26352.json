@@ -1,0 +1,93 @@
+{
+  "source_article_id": 26352,
+  "lemmas": [
+    {
+      "lemma": "innefrosset",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31360,
+      "is_sub_article": false,
+      "primary_translation": "frozen in",
+      "word_forms": [
+        {
+          "word_form": "innefrosset",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"I$n@$%frO$s@t",
+              "ipa": "ˈɪnəˌfrɔsət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "innefrosne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"I$n@$%frO$sn@",
+              "ipa": "ˈɪnəˌfrɔsnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "78b9f9c750cb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/78b9f9c750cb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/78b9f9c750cb.mp3",
+            "text": "innefrosset",
+            "source": "generated",
+            "content_sha256": "f64129093374e00df833369231821fa279f38d49c2d8d03b200bf1df33efb40c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt omsluttet (og stengt inne) av is",
+      "translation": "completely surrounded (and trapped) by ice",
+      "examples": [
+        {
+          "no": "innefrosne skip",
+          "en": "ships frozen in ice"
+        },
+        {
+          "no": "islykter med innefrosset granbar",
+          "en": "ice lanterns with spruce twigs frozen inside"
+        },
+        {
+          "no": "skuta lå innefrosset i isen",
+          "en": "the ship was frozen in the ice"
+        }
+      ]
+    }
+  ]
+}

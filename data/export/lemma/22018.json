@@ -1,0 +1,107 @@
+{
+  "source_article_id": 22018,
+  "lemmas": [
+    {
+      "lemma": "halvannen",
+      "hgno": 0,
+      "pos": "DET",
+      "source_lemma_id": 25718,
+      "is_sub_article": false,
+      "primary_translation": "one and a half",
+      "word_forms": [
+        {
+          "word_form": "halvannen",
+          "tags_json": [
+            "Quant",
+            "Masc",
+            "Sing",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$\"\"lA:$nn=",
+              "ipa": "hɑˈlɑːnn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "halvanna",
+          "tags_json": [
+            "Quant",
+            "Fem",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlʋɑnɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "halvannet",
+          "tags_json": [
+            "Quant",
+            "Neuter",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$\"\"lA:$n=t",
+              "ipa": "hɑˈlɑːn̩t",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6636fe66c291.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6636fe66c291.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6636fe66c291.mp3",
+            "text": "halvannen",
+            "source": "generated",
+            "content_sha256": "be3de328a8718872e8a6f6d5fe625555cc10bb664f3e92e78254f6b1b36c56a5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "en og en halv, 1 1/2",
+      "translation": "one and a half, 1",
+      "examples": [
+        {
+          "no": "halvannen uke",
+          "en": "a week and a half"
+        },
+        {
+          "no": "i halvannet år",
+          "en": "for a year and a half"
+        }
+      ]
+    }
+  ]
+}

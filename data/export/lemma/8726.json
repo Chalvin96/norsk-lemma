@@ -1,0 +1,122 @@
+{
+  "source_article_id": 8726,
+  "lemmas": [
+    {
+      "lemma": "C-dur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 437,
+      "is_sub_article": false,
+      "primary_translation": "C major",
+      "word_forms": [
+        {
+          "word_form": "C-dur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"se:$%d}:r",
+              "ipa": "ˈseːˌdʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "C-duren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"se:$%d}:$n`=",
+              "ipa": "ˈseːˌdʉːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "C-durer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"se:$%d}:$r@r",
+              "ipa": "ˈseːˌdʉːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "C-durene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"se:$%d}:$n`=$@",
+              "ipa": "ˈseːˌdʉːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8a000e369243.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a000e369243.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8a000e369243.mp3",
+            "text": "C-dur",
+            "source": "generated",
+            "content_sha256": "402e6959bfd090f4386e8d0b74c0d419ba196f73f1cc1ad7954f5fe4e801807b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "toneart med C c til grunntone og uten fortegn",
+      "translation": "key with C as the tonic and no sharps or flats",
+      "examples": []
+    },
+    {
+      "text": "parallelltoneart til a-moll",
+      "translation": "relative major key to A minor",
+      "examples": []
+    }
+  ]
+}

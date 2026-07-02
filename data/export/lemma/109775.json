@@ -1,0 +1,127 @@
+{
+  "source_article_id": 109775,
+  "lemmas": [
+    {
+      "lemma": "blodstrøm",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 90980,
+      "is_sub_article": false,
+      "primary_translation": "blood flow",
+      "word_forms": [
+        {
+          "word_form": "blodstrøm",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈuːstrˌœm",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "blodstrømmen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blu:$%str9$m@n",
+              "ipa": "ˈbluːˌstrœmən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blodstrømmer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈuːstrˌœmər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "blodstrømmene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈuːstrˌœmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a1c3a07cbc1e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1c3a07cbc1e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1c3a07cbc1e.mp3",
+            "text": "blodstrøm",
+            "source": "generated",
+            "content_sha256": "c21e5ce112c184ce56221f6d23ecf56fb944c4fa8a39b8772c680b55c22ae45a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "strøm av blod",
+      "translation": "flow of blood",
+      "examples": [
+        {
+          "no": "presse sammen såret for å stanse blodstrømmen",
+          "en": "press the wound together to stop the blood flow"
+        }
+      ]
+    }
+  ]
+}

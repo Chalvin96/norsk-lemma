@@ -1,0 +1,110 @@
+{
+  "source_article_id": 10293,
+  "lemmas": [
+    {
+      "lemma": "diskutabel",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 12037,
+      "is_sub_article": false,
+      "primary_translation": "debatable / doubtful",
+      "word_forms": [
+        {
+          "word_form": "diskutabel",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$sku0$\"tA:$b@l",
+              "ipa": "dɪskʉˈtɑːbəl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskutable",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$sku0$\"tA:$bl@",
+              "ipa": "dɪskʉˈtɑːblə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diskutabelt",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$sku0$\"tA:$b@lt",
+              "ipa": "dɪskʉˈtɑːbəlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5d9ab652b3df.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d9ab652b3df.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d9ab652b3df.mp3",
+            "text": "diskutabel",
+            "source": "generated",
+            "content_sha256": "692b3d7a13c3e126cb66e18f6e43d6fd5b1ff5b1d3735a7bd6845e36816a3dce",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det er delte meninger om, åpen, usikker",
+      "translation": "about which there are divided opinions, open, uncertain",
+      "examples": [
+        {
+          "no": "han røk ut etter en diskutabel dommeravgjørelse",
+          "en": "he was knocked out after a questionable refereeing decision"
+        },
+        {
+          "no": "de har funnet ytterst diskutable smutthull",
+          "en": "they have found highly questionable loopholes"
+        }
+      ]
+    }
+  ]
+}

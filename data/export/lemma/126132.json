@@ -1,0 +1,111 @@
+{
+  "source_article_id": 126132,
+  "lemmas": [
+    {
+      "lemma": "reklamefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 133301,
+      "is_sub_article": false,
+      "primary_translation": "ad-free",
+      "word_forms": [
+        {
+          "word_form": "reklamefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"\"klA:$m@$%fri:",
+              "ipa": "rəˈklɑːməˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "reklamefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"\"klA:$m@$%fri:$@",
+              "ipa": "rəˈklɑːməˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "reklamefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "r@$\"\"klA:$m@$%frIt",
+              "ipa": "rəˈklɑːməˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2a908f3b925c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a908f3b925c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2a908f3b925c.mp3",
+            "text": "reklamefri",
+            "source": "generated",
+            "content_sha256": "5d24fc19acafe7f869267da6d336abc3e2f88d0e4a478f4ec530ac516152af81",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er uten reklame",
+      "translation": "which is without advertising",
+      "examples": [
+        {
+          "no": "reklamefri emballasje",
+          "en": "advertising-free packaging"
+        },
+        {
+          "no": "en reklamefri radiokanal",
+          "en": "an advertising-free radio channel"
+        },
+        {
+          "no": "skolebøker skal være reklamefrie",
+          "en": "schoolbooks must be advertising-free"
+        }
+      ]
+    }
+  ]
+}

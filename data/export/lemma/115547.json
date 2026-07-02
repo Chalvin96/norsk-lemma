@@ -1,0 +1,104 @@
+{
+  "source_article_id": 115547,
+  "lemmas": [
+    {
+      "lemma": "grovgjort",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 165488,
+      "is_sub_article": false,
+      "primary_translation": "roughly done / coarse",
+      "word_forms": [
+        {
+          "word_form": "grovgjort",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈoːʋjˌuʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "grovgjorte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "grˈoːʋjˌuʈə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6576cea76f3f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6576cea76f3f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6576cea76f3f.mp3",
+            "text": "grovgjort",
+            "source": "generated",
+            "content_sha256": "8c8a69d46e30119817c03a42321a1c25d2b954f39c45e9d9785b5c19d015f2bb"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uferdig eller unøyaktig gjort",
+      "translation": "unfinished or inaccurate",
+      "examples": []
+    },
+    {
+      "text": "med grove trekk",
+      "translation": "with rough outlines",
+      "examples": []
+    },
+    {
+      "text": "stor, klumpete, tung, klossete",
+      "translation": "large, bulky, heavy, clumsy",
+      "examples": [
+        {
+          "no": "et grovgjort furutre",
+          "en": "a crudely hewn pine tree"
+        },
+        {
+          "no": "romanen framstår grovgjort og lite nyansert",
+          "en": "the novel comes across as crude and lacking nuance"
+        }
+      ]
+    }
+  ]
+}

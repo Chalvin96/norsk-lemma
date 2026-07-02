@@ -1,0 +1,88 @@
+{
+  "source_article_id": 111231,
+  "lemmas": [
+    {
+      "lemma": "diftongisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163173,
+      "is_sub_article": false,
+      "primary_translation": "diphthongal",
+      "word_forms": [
+        {
+          "word_form": "diftongisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dɪftɔŋgɪsk",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "diftongiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dɪftɔŋgɪskə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d8d45cbdc371.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d8d45cbdc371.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d8d45cbdc371.mp3",
+            "text": "diftongisk",
+            "source": "generated",
+            "content_sha256": "9fdb681522d064baac725650053a1213a196e41eb4d53eddc4192532733c0e5c"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "(uttalt) som en diftong",
+      "translation": "(pronounced) like a diphthong",
+      "examples": [
+        {
+          "no": "diftongisk uttale",
+          "en": "diphthongal pronunciation"
+        }
+      ]
+    }
+  ]
+}

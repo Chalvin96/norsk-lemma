@@ -1,0 +1,106 @@
+{
+  "source_article_id": 2385,
+  "lemmas": [
+    {
+      "lemma": "appellabel",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2916,
+      "is_sub_article": false,
+      "primary_translation": "appealable",
+      "word_forms": [
+        {
+          "word_form": "appellabel",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$p@$\"lA:$b@l",
+              "ipa": "ɑpəˈlɑːbəl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "appellable",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$p@$\"lA:$bl@",
+              "ipa": "ɑpəˈlɑːblə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "appellabelt",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$p@$\"lA:$b@lt",
+              "ipa": "ɑpəˈlɑːbəlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ef64160eb664.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef64160eb664.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ef64160eb664.mp3",
+            "text": "appellabel",
+            "source": "generated",
+            "content_sha256": "30ea0fb968db41fffb981f84f8ca8449f940a5165666bf16f0f34d5e37d01d45",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "jus: som kan anke",
+      "translation": "that which can be appealed",
+      "examples": [
+        {
+          "no": "en appellabel avgjørelse",
+          "en": "an appealable decision"
+        }
+      ]
+    }
+  ]
+}

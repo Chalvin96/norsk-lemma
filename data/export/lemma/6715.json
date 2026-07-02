@@ -1,0 +1,157 @@
+{
+  "source_article_id": 6715,
+  "lemmas": [
+    {
+      "lemma": "blåse",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 7853,
+      "is_sub_article": false,
+      "primary_translation": "buoy / whistle",
+      "word_forms": [
+        {
+          "word_form": "blåse",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$s@",
+              "ipa": "ˈbloːsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåsen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$sn=",
+              "ipa": "ˈbloːsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåser",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$s@r",
+              "ipa": "ˈbloːsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåsene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$sn=$@",
+              "ipa": "ˈbloːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåsa",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$sA",
+              "ipa": "ˈbloːsɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "76f93706b884.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/76f93706b884.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/76f93706b884.mp3",
+            "text": "blåse",
+            "source": "generated",
+            "content_sha256": "2c9915b2dc549a601daf195e8bf2fe87103ce1afc0544f374e3a3e1e31a82e59",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "luftfylt kule festet i overkanten av fiskegarn for å hindre det i å synke og gjøre det lett synlig",
+      "translation": "air-filled ball attached to the top of a fishing net to prevent it from sinking and make it easily visible",
+      "examples": []
+    },
+    {
+      "text": "bøye av plast eller lignende",
+      "translation": "plastic buoy",
+      "examples": [
+        {
+          "no": "båten er fortøyd til blåsa",
+          "en": "the boat is moored to the buoy"
+        },
+        {
+          "no": "høre blåsa fra fabrikken",
+          "en": "hear the factory whistle"
+        },
+        {
+          "no": "russen blåste i blåsene sine",
+          "en": "the graduating students blew their whistles"
+        }
+      ]
+    }
+  ]
+}

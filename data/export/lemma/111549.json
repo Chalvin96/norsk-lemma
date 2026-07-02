@@ -1,0 +1,111 @@
+{
+  "source_article_id": 111549,
+  "lemmas": [
+    {
+      "lemma": "driftsklar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 94486,
+      "is_sub_article": false,
+      "primary_translation": "ready for operation",
+      "word_forms": [
+        {
+          "word_form": "driftsklar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "drˈɪftsklˌɑːr",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "driftsklare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "drˈɪftsklˌɑːrə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "driftsklart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "drˈɪftsklˌɑːʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3f0085e01edf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f0085e01edf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f0085e01edf.mp3",
+            "text": "driftsklar",
+            "source": "generated",
+            "content_sha256": "8c23516efbe2168af49700061d1479fa1e68377c2309d740832d4c74f885ed80"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "klar for drift",
+      "translation": "ready for operation",
+      "examples": [
+        {
+          "no": "vi håper anlegget er driftsklart neste år",
+          "en": "we hope the facility will be operational next year"
+        }
+      ]
+    }
+  ]
+}

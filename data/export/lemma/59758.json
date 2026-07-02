@@ -1,0 +1,122 @@
+{
+  "source_article_id": 59758,
+  "lemmas": [
+    {
+      "lemma": "tamil",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 81971,
+      "is_sub_article": false,
+      "primary_translation": "Tamil person",
+      "word_forms": [
+        {
+          "word_form": "tamil",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$\"mi:l",
+              "ipa": "tɑˈmɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tamilen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$\"mi:$ln=",
+              "ipa": "tɑˈmɪːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tamiler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$\"mi:$l@r",
+              "ipa": "tɑˈmɪːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tamilene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$\"mi:$ln=$@",
+              "ipa": "tɑˈmɪːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aacc0332c1ac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aacc0332c1ac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aacc0332c1ac.mp3",
+            "text": "tamil",
+            "source": "generated",
+            "content_sha256": "4353bd2dc45c18537a373e9841647549d129778f81965d2fb86b789da1211460",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som har tamil som morsmål",
+      "translation": "person who has Tamil as their mother tongue",
+      "examples": [
+        {
+          "no": "tamiler fra India",
+          "en": "Tamils from India"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "source_article_id": 60220,
+  "lemmas": [
+    {
+      "lemma": "teleslynge",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 68883,
+      "is_sub_article": false,
+      "primary_translation": "telecoil system / telecoil",
+      "word_forms": [
+        {
+          "word_form": "teleslynge",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%slYN$@",
+              "ipa": "ˈteːləˌslʏŋə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "teleslynga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%slYN$A",
+              "ipa": "ˈteːləˌslʏŋɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "teleslynger",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%slYN$@r",
+              "ipa": "ˈteːləˌslʏŋər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "teleslyngene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%slYN$@$n@",
+              "ipa": "ˈteːləˌslʏŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "teleslyngen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"te:$l@$%slYN$@n",
+              "ipa": "ˈteːləˌslʏŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c55a33ab873f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c55a33ab873f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c55a33ab873f.mp3",
+            "text": "teleslynge",
+            "source": "generated",
+            "content_sha256": "8bb75e551be429bad8e88d310282e7f3ce251617262373487cb21b7db9578513",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "anlegg av antenner som sender ut lyd i form av elektromagnetisk bølger som blir fanget opp av høreapparat",
+      "translation": "system of antennas that transmits sound in the form of electromagnetic waves captured by a hearing aid",
+      "examples": []
+    },
+    {
+      "text": "jamfør telespole",
+      "translation": "telecoil",
+      "examples": [
+        {
+          "no": "bruke teleslyngen i teateret",
+          "en": "use the hearing loop in the theater"
+        }
+      ]
+    }
+  ]
+}

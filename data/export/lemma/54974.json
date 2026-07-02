@@ -1,0 +1,87 @@
+{
+  "source_article_id": 54974,
+  "lemmas": [
+    {
+      "lemma": "småkupert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 63279,
+      "is_sub_article": false,
+      "primary_translation": "gently undulating / hilly",
+      "word_forms": [
+        {
+          "word_form": "småkupert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$ku0$%pe:t`",
+              "ipa": "ˈsmoːkʉˌpeːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "småkuperte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"smo:$ku0$%pe:$t`@",
+              "ipa": "ˈsmoːkʉˌpeːʈə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5aa637ee84e1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5aa637ee84e1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5aa637ee84e1.mp3",
+            "text": "småkupert",
+            "source": "generated",
+            "content_sha256": "0428915be8e21f18ec9536a232ab429255908a6e7fc34a9ed64532a3f1564e9b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svakt kupert",
+      "translation": "gently undulating",
+      "examples": [
+        {
+          "no": "løypa var småkupert uten harde stigninger",
+          "en": "the trail was gently rolling without steep climbs"
+        }
+      ]
+    }
+  ]
+}

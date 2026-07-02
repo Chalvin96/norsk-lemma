@@ -1,0 +1,127 @@
+{
+  "source_article_id": 70817,
+  "lemmas": [
+    {
+      "lemma": "domenenavn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157372,
+      "is_sub_article": false,
+      "primary_translation": "domain name",
+      "word_forms": [
+        {
+          "word_form": "domenenavn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dU$\"\"me:$n@$%nAvn",
+              "ipa": "dʊˈmeːnəˌnɑvn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "domenenavnet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dU$\"\"me:$n@$%nAv$n@",
+              "ipa": "dʊˈmeːnəˌnɑvnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "domenenavna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dumˈeːnənˌɑʋnɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "domenenavnene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dumˈeːnənˌɑʋnn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e44d6f2f216e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e44d6f2f216e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e44d6f2f216e.mp3",
+            "text": "domenenavn",
+            "source": "generated",
+            "content_sha256": "164cff4f1c82903ce2b4353dd756b02e3d2f93f423523ef3e6573c720aa9651a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "del av en internettadresse som angir hvem som rår over en bestemt internettserver",
+      "translation": "part of an internet address that indicates who controls a specific internet server",
+      "examples": [
+        {
+          "no": "uib.no er domenenavnet til Universitetet i Bergen",
+          "en": "uib.no is the domain name of the University of Bergen"
+        }
+      ]
+    }
+  ]
+}

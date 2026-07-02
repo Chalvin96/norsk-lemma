@@ -1,0 +1,102 @@
+{
+  "source_article_id": 65117,
+  "lemmas": [
+    {
+      "lemma": "utbrent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74621,
+      "is_sub_article": false,
+      "primary_translation": "burnt out / exhausted",
+      "word_forms": [
+        {
+          "word_form": "utbrent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%brEnt",
+              "ipa": "ˈʉːtˌbrɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utbrente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%brEn$t@",
+              "ipa": "ˈʉːtˌbrɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "132e46132768.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/132e46132768.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/132e46132768.mp3",
+            "text": "utbrent",
+            "source": "generated",
+            "content_sha256": "b3ee962b7aa88a68920a727dd59e04d98959665454378a857ecaefd7a61b5e5c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er helt ødelangt av ild",
+      "translation": "completely destroyed by fire",
+      "examples": []
+    },
+    {
+      "text": "jamfør brenne ut",
+      "translation": "burn out",
+      "examples": [
+        {
+          "no": "utbrente ruiner",
+          "en": "burnt-out ruins"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: tappet for energi og arbeidsevne",
+      "translation": "drained of energy and ability to work",
+      "examples": [
+        {
+          "no": "hun var helt utbrent etter intenst kunstnerisk arbeid i fem år",
+          "en": "she was completely burned out after five years of intense artistic work"
+        }
+      ]
+    }
+  ]
+}

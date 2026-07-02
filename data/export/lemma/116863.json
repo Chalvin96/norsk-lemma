@@ -1,0 +1,85 @@
+{
+  "source_article_id": 116863,
+  "lemmas": [
+    {
+      "lemma": "innbundet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 166208,
+      "is_sub_article": false,
+      "primary_translation": "bound (book)",
+      "word_forms": [
+        {
+          "word_form": "innbundet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%bu0$n@t",
+              "ipa": "ˈɪnˌbʉnət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "innbundne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%bu0nd$n@",
+              "ipa": "ˈɪnˌbʉndnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9644ada1e7e2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9644ada1e7e2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9644ada1e7e2.mp3",
+            "text": "innbundet",
+            "source": "generated",
+            "content_sha256": "600450cfad5fe885c8ab82dac5a1b076dfc7ee0e170214aad2f45df8267e3c48",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er binde inn",
+      "translation": "to be bound (in a book)",
+      "examples": [
+        {
+          "no": "en innbundet utgave av romanen",
+          "en": "a hardcover edition of the novel"
+        }
+      ]
+    }
+  ]
+}

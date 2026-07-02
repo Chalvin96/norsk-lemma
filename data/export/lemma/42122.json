@@ -1,0 +1,132 @@
+{
+  "source_article_id": 42122,
+  "lemmas": [
+    {
+      "lemma": "omgås",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 49217,
+      "is_sub_article": false,
+      "primary_translation": "associate / handle",
+      "word_forms": [
+        {
+          "word_form": "omgås",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Om$%go:s",
+              "ipa": "ˈɔmˌgoːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "omgikkes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Om$%jI$k@s",
+              "ipa": "ˈɔmˌjɪkəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "omgåttes",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Om$%gO$t@s",
+              "ipa": "ˈɔmˌgɔtəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "944280f10d02.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/944280f10d02.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/944280f10d02.mp3",
+            "text": "omgås",
+            "source": "generated",
+            "content_sha256": "041d85f200a2d4333037ec96140aea232f94610711795b324b9cfb99d474963a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ha selskapelig samkvem med",
+      "translation": "to keep company with",
+      "examples": []
+    },
+    {
+      "text": "være sammen med",
+      "translation": "to be together with",
+      "examples": [
+        {
+          "no": "de omgås ikke naboene sine",
+          "en": "they do not associate with their neighbors"
+        }
+      ]
+    },
+    {
+      "text": "være opptatt av",
+      "translation": "to be occupied with",
+      "examples": []
+    },
+    {
+      "text": "pønske på",
+      "translation": "to be plotting, planning",
+      "examples": [
+        {
+          "no": "de omgikkes med planer om eget hus",
+          "en": "they were entertaining plans for a house of their own"
+        }
+      ]
+    },
+    {
+      "text": "bruke, behandle",
+      "translation": "to handle, treat",
+      "examples": [
+        {
+          "no": "de nye stoffene må omgås med varsomhet",
+          "en": "the new materials must be handled with care"
+        }
+      ]
+    }
+  ]
+}

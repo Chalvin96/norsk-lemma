@@ -1,0 +1,132 @@
+{
+  "source_article_id": 29060,
+  "lemmas": [
+    {
+      "lemma": "kausjon",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 34330,
+      "is_sub_article": false,
+      "primary_translation": "guarantee / bail",
+      "word_forms": [
+        {
+          "word_form": "kausjon",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kE*u0$\"Su:n",
+              "ipa": "kæ͡ʉˈʃuːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kausjonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kE*u0$\"Su:$nn=",
+              "ipa": "kæ͡ʉˈʃuːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kausjoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kE*u0$\"Su:$n@r",
+              "ipa": "kæ͡ʉˈʃuːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kausjonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kE*u0$\"Su:$nn=$@",
+              "ipa": "kæ͡ʉˈʃuːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "10d8bb7f7ef7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/10d8bb7f7ef7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/10d8bb7f7ef7.mp3",
+            "text": "kausjon",
+            "source": "generated",
+            "content_sha256": "a51345124133dee7d8c6eabff428a175610200cb634d130ae77ba0b6b1d9b9ff",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "garanti som en stiller for at en annen kan betale gjelden sin",
+      "translation": "guarantee that someone will pay their debt",
+      "examples": [
+        {
+          "no": "de bad foreldrene stille kausjon slik at de kunne få huslån",
+          "en": "they asked the parents to put up collateral so they could get a mortgage"
+        }
+      ]
+    },
+    {
+      "text": "om utenlanske forhold: pengesum som stilles som sikkerhet for å bli løslatt fra varetekt, og som må betales dersom den siktede ikke møter i retten",
+      "translation": "regarding foreign affairs: sum of money provided as security for release from custody, which must be paid if the accused does not appear in court",
+      "examples": [
+        {
+          "no": "hun ble løslatt mot en kausjon på 500 000 dollar",
+          "en": "she was released on $500,000 bail"
+        }
+      ]
+    }
+  ]
+}

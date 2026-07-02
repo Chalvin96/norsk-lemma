@@ -1,0 +1,126 @@
+{
+  "source_article_id": 70866,
+  "lemmas": [
+    {
+      "lemma": "geovarme",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157617,
+      "is_sub_article": false,
+      "primary_translation": "geothermal heat",
+      "word_forms": [
+        {
+          "word_form": "geovarme",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ge:$U$%vAr$m@",
+              "ipa": "ˈgeːʊˌvɑrmə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "geovarmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ge:$U$%vAr$m@n",
+              "ipa": "ˈgeːʊˌvɑrmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "geovarmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈeːuʋˌɑrmər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "geovarmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈeːuʋˌɑrmənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "79645338452f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/79645338452f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/79645338452f.mp3",
+            "text": "geovarme",
+            "source": "generated",
+            "content_sha256": "0d393539cdf0409396220fa4d4374dacdabfd8056a003f9580c69f8f7687a36b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "varme som fins i jorda",
+      "translation": "heat found in the earth",
+      "examples": [
+        {
+          "no": "anlegg for solenergi og geovarme fritas for investeringsavgift",
+          "en": "solar energy and geothermal heating installations are exempt from investment tax"
+        }
+      ]
+    }
+  ]
+}

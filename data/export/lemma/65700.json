@@ -1,0 +1,120 @@
+{
+  "source_article_id": 65700,
+  "lemmas": [
+    {
+      "lemma": "utsatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75377,
+      "is_sub_article": false,
+      "primary_translation": "postponed / put out / exposed / risky",
+      "word_forms": [
+        {
+          "word_form": "utsatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%sAt",
+              "ipa": "ˈʉːtˌsɑt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utsatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%sA$t@",
+              "ipa": "ˈʉːtˌsɑtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3e33b2e5636f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3e33b2e5636f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3e33b2e5636f.mp3",
+            "text": "utsatt",
+            "source": "generated",
+            "content_sha256": "df8247e5f1cc4e1ae0656ae41112b15032de3f54cb2d2c765c677c3bec8d2cdd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en venter med",
+      "translation": "that which is postponed",
+      "examples": [
+        {
+          "no": "gå opp til utsatt prøve",
+          "en": "sit a deferred exam"
+        }
+      ]
+    },
+    {
+      "text": "som er sette ut",
+      "translation": "that which has been put out",
+      "examples": [
+        {
+          "no": "utsatt fiskeyngel",
+          "en": "released fish fry"
+        }
+      ]
+    },
+    {
+      "text": "som lett rammes",
+      "translation": "that which is easily affected",
+      "examples": []
+    },
+    {
+      "text": "risikofylt",
+      "translation": "risky",
+      "examples": [
+        {
+          "no": "kuling på utsatte steder",
+          "en": "gale-force winds in exposed places"
+        },
+        {
+          "no": "gården ligger utsatt til for ras",
+          "en": "the farm is vulnerably situated for landslides"
+        },
+        {
+          "no": "ha en utsatt stilling",
+          "en": "have a vulnerable position"
+        }
+      ]
+    }
+  ]
+}

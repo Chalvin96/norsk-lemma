@@ -1,0 +1,99 @@
+{
+  "source_article_id": 56314,
+  "lemmas": [
+    {
+      "lemma": "sprangvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64805,
+      "is_sub_article": false,
+      "primary_translation": "leap-by-leap / step-by-step",
+      "word_forms": [
+        {
+          "word_form": "sprangvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sprAN$%vi:s",
+              "ipa": "ˈsprɑŋˌvɪːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sprangvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sprˈɑŋʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f45598119bb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f45598119bb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f45598119bb.mp3",
+            "text": "sprangvis",
+            "source": "generated",
+            "content_sha256": "3f69c1571f0498eb79dc1be29df3faa433ee2b281f112cbc161e6fef2a8dc400",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som foregår i sprang",
+      "translation": "that takes place in leaps",
+      "examples": [
+        {
+          "no": "en sprangvis utvikling",
+          "en": "a stepwise development"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: én om gangen",
+      "translation": "used as an adverb: one at a time",
+      "examples": [
+        {
+          "no": "rykke fram sprangvis",
+          "en": "move forward step by step"
+        }
+      ]
+    }
+  ]
+}

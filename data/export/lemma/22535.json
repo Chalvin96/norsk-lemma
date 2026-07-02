@@ -1,0 +1,122 @@
+{
+  "source_article_id": 22535,
+  "lemmas": [
+    {
+      "lemma": "hattsopp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 26404,
+      "is_sub_article": false,
+      "primary_translation": "cap mushroom",
+      "word_forms": [
+        {
+          "word_form": "hattsopp",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAt$%sOp",
+              "ipa": "ˈhɑtˌsɔp",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hattsoppen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAt$%sO$p@n",
+              "ipa": "ˈhɑtˌsɔpən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hattsopper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAt$%sO$p@r",
+              "ipa": "ˈhɑtˌsɔpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hattsoppene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAt$%sO$p@$n@",
+              "ipa": "ˈhɑtˌsɔpənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "468c33d65d82.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/468c33d65d82.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/468c33d65d82.mp3",
+            "text": "hattsopp",
+            "source": "generated",
+            "content_sha256": "2777604efef81b2aa9ad27dbc6f5079d0c896a84eb5949789b1111b6a8db3bc5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sopp som har fruktlegeme med hatt",
+      "translation": "fungus that has a fruiting body with a cap",
+      "examples": [
+        {
+          "no": "fluesopp er en hattsopp",
+          "en": "the fly agaric is a cap mushroom"
+        }
+      ]
+    }
+  ]
+}

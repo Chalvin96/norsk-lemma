@@ -1,0 +1,83 @@
+{
+  "source_article_id": 13521,
+  "lemmas": [
+    {
+      "lemma": "f.",
+      "hgno": 0,
+      "pos": "UNKNOWN",
+      "source_lemma_id": 15710,
+      "is_sub_article": false,
+      "primary_translation": "abbr. (birth / before / following)",
+      "word_forms": [
+        {
+          "word_form": "f.",
+          "tags_json": [
+            "ABBR"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈuːn",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b82a6babb728.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b82a6babb728.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b82a6babb728.mp3",
+            "text": "f.",
+            "source": "generated",
+            "content_sha256": "6dd68ac286ede307f74ddef788c9f0e20fca269f39becf4690c26627dcb7b77d"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forkorting for føde",
+      "translation": "abbreviation for 'føde' (birth)",
+      "examples": [
+        {
+          "no": "Anne Berg, f. Olsen",
+          "en": "Anne Berg, née Olsen"
+        }
+      ]
+    },
+    {
+      "text": "forkorting for før",
+      "translation": "abbreviation for 'før' (before)",
+      "examples": [
+        {
+          "no": "år 70 f.Kr.",
+          "en": "the year 70 BC"
+        }
+      ]
+    },
+    {
+      "text": "forkorting for følgende eller følgende side",
+      "translation": "abbreviation for 'følgende' or 'følgende side' (following or following page)",
+      "examples": [
+        {
+          "no": "se s. 32 f.",
+          "en": "see p. 32 f."
+        }
+      ]
+    }
+  ]
+}

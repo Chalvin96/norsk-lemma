@@ -1,0 +1,129 @@
+{
+  "source_article_id": 98199,
+  "lemmas": [
+    {
+      "lemma": "sporbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 158428,
+      "is_sub_article": false,
+      "primary_translation": "traceable / demonstrable",
+      "word_forms": [
+        {
+          "word_form": "sporbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spu:r$%bA:r",
+              "ipa": "ˈspuːrˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sporbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "spˈuːrbɑːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sporbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "spˈuːrbˌɑːʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ec4cff3585b2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec4cff3585b2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ec4cff3585b2.mp3",
+            "text": "sporbar",
+            "source": "generated",
+            "content_sha256": "2511b1490af80ece543427a6ec54c2602536d64659bcf16b4cb2909789330afc",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan etterspores",
+      "translation": "that can be traced",
+      "examples": [
+        {
+          "no": "de vil selge sporbar fisk",
+          "en": "they want to sell traceable fish"
+        },
+        {
+          "no": "sporbare mobiltelefoner",
+          "en": "traceable mobile phones"
+        }
+      ]
+    },
+    {
+      "text": "som kan registreres",
+      "translation": "that can be registered",
+      "examples": []
+    },
+    {
+      "text": "påviselig",
+      "translation": "demonstrable",
+      "examples": [
+        {
+          "no": "en sporbar effekt",
+          "en": "a detectable effect"
+        }
+      ]
+    }
+  ]
+}

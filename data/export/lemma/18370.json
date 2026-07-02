@@ -1,0 +1,106 @@
+{
+  "source_article_id": 18370,
+  "lemmas": [
+    {
+      "lemma": "fullmoden",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 21484,
+      "is_sub_article": false,
+      "primary_translation": "fully ripe",
+      "word_forms": [
+        {
+          "word_form": "fullmoden",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu0l$%mu:$dn=",
+              "ipa": "ˈfʉlˌmuːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fullmodne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu0l$%mu:d$n@",
+              "ipa": "ˈfʉlˌmuːdnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fullmodent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fu0l$%mu:$dn=t",
+              "ipa": "ˈfʉlˌmuːdn̩t",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "07dea578c79d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07dea578c79d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07dea578c79d.mp3",
+            "text": "fullmoden",
+            "source": "generated",
+            "content_sha256": "31f6500af77b2dd594c284df182af124a7aa6b7f2dc1e0c7a3d5ac1eec3578b0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt moden",
+      "translation": "fully ripe",
+      "examples": [
+        {
+          "no": "fullmodent korn",
+          "en": "fully ripe grain"
+        }
+      ]
+    }
+  ]
+}

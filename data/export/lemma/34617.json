@@ -1,0 +1,126 @@
+{
+  "source_article_id": 34617,
+  "lemmas": [
+    {
+      "lemma": "låg",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 42290,
+      "is_sub_article": false,
+      "primary_translation": "plant extract / decoction",
+      "word_forms": [
+        {
+          "word_form": "låg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lo:g",
+              "ipa": "ˈloːg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lågen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lo:$g@n",
+              "ipa": "ˈloːgən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "låger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈoːgər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lågene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈoːgənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3e0d832145ac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3e0d832145ac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3e0d832145ac.mp3",
+            "text": "låg",
+            "source": "generated",
+            "content_sha256": "96bcaac5ff03dd287037e24bf36f5c37a2f1f4611d999e4157338d06dabe9fb7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uttrekk av planter",
+      "translation": "extract from plants",
+      "examples": [
+        {
+          "no": "koke en låg av pors, humle og vann",
+          "en": "boil a decoction of bog myrtle, hops and water"
+        }
+      ]
+    }
+  ]
+}

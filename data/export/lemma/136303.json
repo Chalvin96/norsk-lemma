@@ -1,0 +1,128 @@
+{
+  "source_article_id": 136303,
+  "lemmas": [
+    {
+      "lemma": "telefonstorm",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 145620,
+      "is_sub_article": false,
+      "primary_translation": "telephone storm",
+      "word_forms": [
+        {
+          "word_form": "telefonstorm",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "t@$l@$\"fu:n$%stOrm",
+              "ipa": "tələˈfuːnˌstɔrm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "telefonstormen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tələfˈuːnstˌɔrmən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "telefonstormer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tələfˈuːnstˌɔrmər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "telefonstormene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tələfˈuːnstˌɔrmənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7b37136ca608.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b37136ca608.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7b37136ca608.mp3",
+            "text": "telefonstorm",
+            "source": "generated",
+            "content_sha256": "d3c47c00882c6026e6cefec6a4e1ce8caae14c495d3337cc060c034848ac793e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stort antall telefonoppringinger i løpet av kort tid, ofte utløst av en bestemt handling, uttalelse eller lignende",
+      "translation": "large number of telephone calls within a short period, often triggered by a specific action or statement",
+      "examples": [
+        {
+          "no": "det var en telefonstorm mot avisen etter atintervjuet kom på trykk",
+          "en": "there was a flood of phone calls to the newspaper after the interview was published"
+        }
+      ]
+    }
+  ]
+}

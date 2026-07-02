@@ -1,0 +1,106 @@
+{
+  "source_article_id": 69580,
+  "lemmas": [
+    {
+      "lemma": "yngel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 80261,
+      "is_sub_article": false,
+      "primary_translation": "fry (young fish)",
+      "word_forms": [
+        {
+          "word_form": "yngel",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"YN$@l",
+              "ipa": "ˈʏŋəl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "yngelen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"YN$@$ln=",
+              "ipa": "ˈʏŋəln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ynglene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʏŋln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3549e10871fb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3549e10871fb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3549e10871fb.mp3",
+            "text": "yngel",
+            "source": "generated",
+            "content_sha256": "cfd7ef8fbb26ef66566f3a036b44e98b3a583de5652b2a52db33d299cea7640d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "unger av visse dyr, særlig fisk",
+      "translation": "young of certain animals, especially fish",
+      "examples": [
+        {
+          "no": "sette ut yngel i et vann",
+          "en": "stock a lake with fry"
+        }
+      ]
+    }
+  ]
+}

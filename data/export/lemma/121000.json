@@ -1,0 +1,111 @@
+{
+  "source_article_id": 121000,
+  "lemmas": [
+    {
+      "lemma": "kvinnesterk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 118376,
+      "is_sub_article": false,
+      "primary_translation": "with many women",
+      "word_forms": [
+        {
+          "word_form": "kvinnesterk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɪnəstˌærk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kvinnesterke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɪnəstˌærkə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kvinnesterkt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɪnəstˌærkt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0baca6e4b18f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0baca6e4b18f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0baca6e4b18f.mp3",
+            "text": "kvinnesterk",
+            "source": "generated",
+            "content_sha256": "9895734ce9440d58e53618520cce94a24f29bac102721683203491611d0733ad"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med mange kvinner",
+      "translation": "with many women",
+      "examples": [
+        {
+          "no": "en kvinnesterk delegasjon",
+          "en": "a delegation with many women"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_article_id": 112328,
+  "lemmas": [
+    {
+      "lemma": "elektrooptisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 163764,
+      "is_sub_article": false,
+      "primary_translation": "electro-optical",
+      "word_forms": [
+        {
+          "word_form": "elektrooptisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛlˈɛktruuptɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elektrooptiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛlˈɛktruuptɪskə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "48b924aeca4f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48b924aeca4f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48b924aeca4f.mp3",
+            "text": "elektrooptisk",
+            "source": "generated",
+            "content_sha256": "70fdf2ffc84c65c4185d7436f120aaf21d9c3f003f03c278a3a6732c53e599a0"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har sammenheng med elektrooptikk",
+      "translation": "related to electro-optics",
+      "examples": [
+        {
+          "no": "elektrooptisk kamera",
+          "en": "electro-optical camera"
+        },
+        {
+          "no": "bygging av elektrooptiske sensorer",
+          "en": "construction of electro-optical sensors"
+        }
+      ]
+    }
+  ]
+}

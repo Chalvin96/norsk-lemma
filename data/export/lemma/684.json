@@ -1,0 +1,188 @@
+{
+  "source_article_id": 684,
+  "lemmas": [
+    {
+      "lemma": "alarmere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 1476,
+      "is_sub_article": false,
+      "primary_translation": "to alarm",
+      "word_forms": [
+        {
+          "word_form": "alarmere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lAr$\"me:$r@",
+              "ipa": "ɑlɑrˈmeːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmerer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lAr$\"me:$r@r",
+              "ipa": "ɑlɑrˈmeːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmeres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lAr$\"me:$r@s",
+              "ipa": "ɑlɑrˈmeːrəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmerte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lAr$\"me:$t`@",
+              "ipa": "ɑlɑrˈmeːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lAr$\"me:t`",
+              "ipa": "ɑlɑrˈmeːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmerende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lAr$\"me:$n`=$@",
+              "ipa": "ɑlɑrˈmeːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmer",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$lAr$\"me:r",
+              "ipa": "ɑlɑrˈmeːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9f058e7c522c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f058e7c522c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9f058e7c522c.mp3",
+            "text": "alarmere",
+            "source": "generated",
+            "content_sha256": "ff2ceae0fb88c8a4bc7d0fab08d4632745a3931acbb3e77d6209d0e76ecef7e2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "varsle (med alarm)",
+      "translation": "to notify (with an alarm)",
+      "examples": [
+        {
+          "no": "alarmere politiet",
+          "en": "alert the police"
+        }
+      ]
+    },
+    {
+      "text": "gjøre urolig",
+      "translation": "to make uneasy",
+      "examples": [
+        {
+          "no": "meldingen alarmerte oss",
+          "en": "the message alarmed us"
+        }
+      ]
+    }
+  ]
+}

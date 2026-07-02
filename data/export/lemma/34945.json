@@ -1,0 +1,87 @@
+{
+  "source_article_id": 34945,
+  "lemmas": [
+    {
+      "lemma": "lettantennelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 40673,
+      "is_sub_article": false,
+      "primary_translation": "flammable",
+      "word_forms": [
+        {
+          "word_form": "lettantennelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lE$tAn$%tE$n@$lI",
+              "ipa": "ˈlɛtɑnˌtɛnəlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lettantennelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lE$tAn$%tE$n@$lI$@",
+              "ipa": "ˈlɛtɑnˌtɛnəlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "49e9e50b2fe0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49e9e50b2fe0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49e9e50b2fe0.mp3",
+            "text": "lettantennelig",
+            "source": "generated",
+            "content_sha256": "f12730bc7ce8d3186a256d6c50d3ba294e7e89af50a15cb5d93c9bfb3322afcb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lett antenne",
+      "translation": "that easily ignites",
+      "examples": [
+        {
+          "no": "lettantennelige gasser",
+          "en": "highly flammable gases"
+        }
+      ]
+    }
+  ]
+}

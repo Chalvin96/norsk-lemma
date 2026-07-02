@@ -1,0 +1,112 @@
+{
+  "source_article_id": 113865,
+  "lemmas": [
+    {
+      "lemma": "avslått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 164641,
+      "is_sub_article": false,
+      "primary_translation": "off / broken / rejected",
+      "word_forms": [
+        {
+          "word_form": "avslått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%SlOt",
+              "ipa": "ˈɑːvˌʃlɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "avslåtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%SlO$t@",
+              "ipa": "ˈɑːvˌʃlɔtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b3cec98cabef.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b3cec98cabef.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b3cec98cabef.mp3",
+            "text": "avslått",
+            "source": "generated",
+            "content_sha256": "70fc57badc5a1c9e5eb48943c199d108e0adb0e3c22a9135ffc04f0b1dd685ec",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er skrudd av",
+      "translation": "having been switched off",
+      "examples": [
+        {
+          "no": "en avslått mobil",
+          "en": "a switched-off mobile phone"
+        }
+      ]
+    },
+    {
+      "text": "som er slått av",
+      "translation": "having been turned off",
+      "examples": []
+    },
+    {
+      "text": "som er brutt ved slag",
+      "translation": "having been broken by a blow",
+      "examples": [
+        {
+          "no": "en avslått stav",
+          "en": "a broken stick"
+        }
+      ]
+    },
+    {
+      "text": "som ikke er godtatt",
+      "translation": "not having been accepted",
+      "examples": [
+        {
+          "no": "klage på den avslåtte søknaden",
+          "en": "appeal the rejected application"
+        }
+      ]
+    }
+  ]
+}

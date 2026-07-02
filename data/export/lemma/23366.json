@@ -1,0 +1,75 @@
+{
+  "source_article_id": 23366,
+  "lemmas": [
+    {
+      "lemma": "herre",
+      "hgno": 2,
+      "pos": "DET",
+      "source_lemma_id": 27551,
+      "is_sub_article": false,
+      "primary_translation": "here and there",
+      "word_forms": [
+        {
+          "word_form": "herre",
+          "tags_json": [
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"h{$r@",
+              "ipa": "ˈhærə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "745fb77a36ab.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/745fb77a36ab.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/745fb77a36ab.mp3",
+            "text": "herre",
+            "source": "generated",
+            "content_sha256": "8af2f2747b51d4f1415a95ded171dfb8d7e4c397d3a559015a672fe02d364c98",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt etter pronomen eller determinativ for å framheve noen eller noe som allerede er kjent",
+      "translation": "used after a pronoun or determiner to emphasize someone or something already known",
+      "examples": []
+    },
+    {
+      "text": "jamfør her og derre",
+      "translation": "here and there",
+      "examples": [
+        {
+          "no": "hun herre dama",
+          "en": "this lady here"
+        },
+        {
+          "no": "hva er dette herre for noe tull?",
+          "en": "what kind of nonsense is this here?"
+        },
+        {
+          "no": "de herre plutselige regnbygene",
+          "en": "these sudden rain showers here"
+        }
+      ]
+    }
+  ]
+}

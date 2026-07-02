@@ -1,0 +1,82 @@
+{
+  "source_article_id": 36715,
+  "lemmas": [
+    {
+      "lemma": "malayisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 43103,
+      "is_sub_article": false,
+      "primary_translation": "Malay",
+      "word_forms": [
+        {
+          "word_form": "malayisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"lA*I$I$sk",
+              "ipa": "mɑˈlɑ͡ɪɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "malayiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mA$\"lA*I$I$sk@",
+              "ipa": "mɑˈlɑ͡ɪɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "67026cb1e9da.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/67026cb1e9da.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/67026cb1e9da.mp3",
+            "text": "malayisk",
+            "source": "generated",
+            "content_sha256": "135b9b8eae7e5b22acbcc6c5a2fb6c001970cab394eda75680f7b011571cde5b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder malay",
+      "translation": "relating to Malay",
+      "examples": []
+    }
+  ]
+}

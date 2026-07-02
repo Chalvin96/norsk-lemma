@@ -1,0 +1,82 @@
+{
+  "source_article_id": 42294,
+  "lemmas": [
+    {
+      "lemma": "onomatopoetisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49411,
+      "is_sub_article": false,
+      "primary_translation": "onomatopoeic",
+      "word_forms": [
+        {
+          "word_form": "onomatopoetisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$nU$mA$tU$pU$\"e:$tI$sk",
+              "ipa": "ʊnʊmɑtʊpʊˈeːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "onomatopoetiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$nU$mA$tU$pU$\"e:$tI$sk@",
+              "ipa": "ʊnʊmɑtʊpʊˈeːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d958cc6a5883.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d958cc6a5883.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d958cc6a5883.mp3",
+            "text": "onomatopoetisk",
+            "source": "generated",
+            "content_sha256": "ab270c491dfb021ba2e948aa23cf89870555639b8cc189e9efda37a1c342509f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lydhermende, lydmalende",
+      "translation": "sound-imitating, sound-painting",
+      "examples": []
+    }
+  ]
+}

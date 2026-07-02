@@ -1,0 +1,92 @@
+{
+  "source_article_id": 133716,
+  "lemmas": [
+    {
+      "lemma": "umålelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 150122,
+      "is_sub_article": false,
+      "primary_translation": "immeasurable",
+      "word_forms": [
+        {
+          "word_form": "umålelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʉmˈoːləlɪ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "umålelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"mo:$l@$lI$@",
+              "ipa": "ʉˈmoːləlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "19af55206595.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/19af55206595.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/19af55206595.mp3",
+            "text": "umålelig",
+            "source": "generated",
+            "content_sha256": "c793d465392fbd66b386773e36f587b8b0d367257ca98fb44018a463a3ce8a72"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke lar seg måle",
+      "translation": "that cannot be measured",
+      "examples": [
+        {
+          "no": "sorgen er umålelig",
+          "en": "the grief is immeasurable"
+        },
+        {
+          "no": "et umålelig stort arbeid",
+          "en": "an immeasurably great amount of work"
+        }
+      ]
+    }
+  ]
+}

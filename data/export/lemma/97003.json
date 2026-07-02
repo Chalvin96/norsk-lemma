@@ -1,0 +1,128 @@
+{
+  "source_article_id": 97003,
+  "lemmas": [
+    {
+      "lemma": "action",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 85224,
+      "is_sub_article": false,
+      "primary_translation": "action",
+      "word_forms": [
+        {
+          "word_form": "action",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ek$Sn=",
+              "ipa": "ˈɛkʃn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "actionen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛkʃn̩ən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "actioner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛkʃn̩ər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "actionene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛkʃn̩ənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0123e7249d1b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0123e7249d1b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0123e7249d1b.mp3",
+            "text": "action",
+            "source": "generated",
+            "content_sha256": "71d6b72eb517ebb4d0cddeb3ebfd5e9eb39ae56df40952574dfe76baff1ea329",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spenningsfylt, dramatisk handling",
+      "translation": "exciting, dramatic action",
+      "examples": [
+        {
+          "no": "en kriminalroman med mye action",
+          "en": "a crime novel with a lot of action"
+        }
+      ]
+    }
+  ]
+}

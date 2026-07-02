@@ -1,0 +1,122 @@
+{
+  "source_article_id": 19551,
+  "lemmas": [
+    {
+      "lemma": "Gess-dur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 528,
+      "is_sub_article": false,
+      "primary_translation": "G-flat major",
+      "word_forms": [
+        {
+          "word_form": "Gess-dur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gEs$%d}:r",
+              "ipa": "ˈgɛsˌdʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "Gess-duren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gEs$%d}:$n`=",
+              "ipa": "ˈgɛsˌdʉːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "Gess-durer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gEs$%d}:$r@r",
+              "ipa": "ˈgɛsˌdʉːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "Gess-durene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gEs$%d}:$n`=$@",
+              "ipa": "ˈgɛsˌdʉːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e151aa8fea0e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e151aa8fea0e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e151aa8fea0e.mp3",
+            "text": "Gess-dur",
+            "source": "generated",
+            "content_sha256": "8c14ecdb918eabeed0587dd085ee39a1eeaf7a2fbc92761d560caf473a5141ca",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "toneart med Gess gess til grunntone og B b for h, e, a, d, g og c",
+      "translation": "key with G-flat as the tonic and B-flat for B, E, A, D, G, and C",
+      "examples": []
+    },
+    {
+      "text": "parallelltoneart til ess-moll",
+      "translation": "relative major key to E-flat minor",
+      "examples": []
+    }
+  ]
+}

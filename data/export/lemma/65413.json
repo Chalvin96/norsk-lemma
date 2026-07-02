@@ -1,0 +1,92 @@
+{
+  "source_article_id": 65413,
+  "lemmas": [
+    {
+      "lemma": "utilpass",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75011,
+      "is_sub_article": false,
+      "primary_translation": "unwell / out of sorts",
+      "word_forms": [
+        {
+          "word_form": "utilpass",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$tIl$%pAs",
+              "ipa": "ˈʉːtɪlˌpɑs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "utilpasse",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$tIl$%pA$s@",
+              "ipa": "ˈʉːtɪlˌpɑsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "416ae7d1d1fa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/416ae7d1d1fa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/416ae7d1d1fa.mp3",
+            "text": "utilpass",
+            "source": "generated",
+            "content_sha256": "b73c0b58471c475d00bcc32bf8f1936b1f2dff1bfdc47487c5c39238b2e19566",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke til pass",
+      "translation": "not fitting",
+      "examples": []
+    },
+    {
+      "text": "uvel, uopplagt",
+      "translation": "unwell, out of sorts",
+      "examples": [
+        {
+          "no": "føle seg utilpass",
+          "en": "feel unwell"
+        }
+      ]
+    }
+  ]
+}

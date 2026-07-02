@@ -1,0 +1,425 @@
+{
+  "source_article_id": 69211,
+  "lemmas": [
+    {
+      "lemma": "være",
+      "hgno": 2,
+      "pos": "VERB",
+      "source_lemma_id": 80034,
+      "is_sub_article": false,
+      "primary_translation": "to be / exist / live / stay / occur / mean / have (auxiliary)",
+      "word_forms": [
+        {
+          "word_form": "være",
+          "tags_json": [
+            "verb",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:$r@",
+              "ipa": "ˈvæːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "er",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"{:r",
+              "ipa": "ˈæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "var",
+          "tags_json": [
+            "verb",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vA:r",
+              "ipa": "ˈvɑːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vært",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{t`",
+              "ipa": "ˈvæʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "værende",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"v{:$n`=$@",
+              "ipa": "ˈvæːɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vær",
+          "tags_json": [
+            "verb",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"v{:r",
+              "ipa": "ˈvæːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "998f02acf5b2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/998f02acf5b2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/998f02acf5b2.mp3",
+            "text": "være",
+            "source": "generated",
+            "content_sha256": "9d40a72dc33f718e2855741b865fdf0e780d0ff3ae70e1b832ee1c323e5f3866",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "finnes, eksistere",
+      "translation": "to exist, to be",
+      "examples": []
+    },
+    {
+      "text": "om person: leve",
+      "translation": "concerning a person: to live",
+      "examples": [
+        {
+          "no": "det er ikke mer mat i kjøleskapet",
+          "en": "there is no more food in the refrigerator"
+        },
+        {
+          "no": "det var en gang en konge",
+          "en": "once there was a king"
+        },
+        {
+          "no": "det var ingenting å finne",
+          "en": "there was nothing to be found"
+        },
+        {
+          "no": "hadde det ikke vært for alt søppelet, ville området vært en perle",
+          "en": "if it hadn't been for all the trash, the area would have been a gem"
+        }
+      ]
+    },
+    {
+      "text": "holde til på et sted",
+      "translation": "to be located in a place",
+      "examples": []
+    },
+    {
+      "text": "oppholde seg",
+      "translation": "to stay",
+      "examples": []
+    },
+    {
+      "text": "komme",
+      "translation": "to come",
+      "examples": [
+        {
+          "no": "ha et sted å være",
+          "en": "have a place to be"
+        },
+        {
+          "no": "de er i utlandet",
+          "en": "they are abroad"
+        },
+        {
+          "no": "jeg skal være der hele dagen",
+          "en": "I will be there all day"
+        },
+        {
+          "no": "bli værende lenge et sted",
+          "en": "remain somewhere for a long time"
+        }
+      ]
+    },
+    {
+      "text": "foregå, finne sted",
+      "translation": "to take place, to occur",
+      "examples": [
+        {
+          "no": "når skal møtet være?",
+          "en": "when will the meeting be?"
+        },
+        {
+          "no": "de hadde meldt kulde i uka som var",
+          "en": "they had forecast cold weather for the past week"
+        }
+      ]
+    },
+    {
+      "text": "befinne seg i en bestemt situasjon eller tilstand, på et bestemt nivå, trinn eller lignende",
+      "translation": "to be in a specific situation or state, at a specific level, step",
+      "examples": [
+        {
+          "no": "være sammen om noe",
+          "en": "be involved in something together"
+        },
+        {
+          "no": "være i sekstiårsalderen",
+          "en": "be in one's sixties"
+        },
+        {
+          "no": "de var i samme situasjon",
+          "en": "they were in the same situation"
+        },
+        {
+          "no": "hvilken side i boka er du på?",
+          "en": "what page in the book are you on?"
+        }
+      ]
+    },
+    {
+      "text": "(opprinnelig) høre hjemme",
+      "translation": "to belong (originally)",
+      "examples": []
+    },
+    {
+      "text": "komme fra",
+      "translation": "to come from",
+      "examples": [
+        {
+          "no": "de er fra Førde",
+          "en": "they are from Førde"
+        },
+        {
+          "no": "huset var fra 1800-tallet",
+          "en": "the house was from the 1800s"
+        }
+      ]
+    },
+    {
+      "text": "bli i samme posisjon eller tilstand over en viss tid",
+      "translation": "to remain in the same position or state over a period of time",
+      "examples": []
+    },
+    {
+      "text": "ikke bli rørt eller gjort noe med",
+      "translation": "not to be touched or interfered with",
+      "examples": [
+        {
+          "no": "det kan være til i morgen",
+          "en": "that can wait until tomorrow"
+        },
+        {
+          "no": "la dem være i fred!",
+          "en": "leave them alone!"
+        },
+        {
+          "no": "det får heller være",
+          "en": "just let it be"
+        },
+        {
+          "no": "fred være med deg!",
+          "en": "peace be with you!"
+        }
+      ]
+    },
+    {
+      "text": "te seg, arte seg",
+      "translation": "to behave, to act",
+      "examples": []
+    },
+    {
+      "text": "forholde seg",
+      "translation": "to relate",
+      "examples": [
+        {
+          "no": "en god måte å være på",
+          "en": "a good way to be"
+        },
+        {
+          "no": "hvordan er det med deg?",
+          "en": "how are you?"
+        },
+        {
+          "no": "det er som jeg sier",
+          "en": "it's as I say"
+        },
+        {
+          "no": "være for en sak",
+          "en": "support a cause"
+        }
+      ]
+    },
+    {
+      "text": "ville si",
+      "translation": "to mean",
+      "examples": []
+    },
+    {
+      "text": "føre med seg",
+      "translation": "to entail",
+      "examples": [
+        {
+          "no": "de vet virkelig hva arbeid er",
+          "en": "they really know what work is"
+        }
+      ]
+    },
+    {
+      "text": "brukt i uttrykk med gjentatt subjekt, for å understreke en vanlig forestilling knyttet til dette ordet",
+      "translation": "used in expressions with a repeated subject, to emphasize a common notion associated with that word",
+      "examples": [
+        {
+          "no": "et ord er et ord",
+          "en": "a word is a word"
+        },
+        {
+          "no": "krig er krig",
+          "en": "war is war"
+        },
+        {
+          "no": "fjelluft er nå fjelluft, da",
+          "en": "mountain air is mountain air, after all"
+        }
+      ]
+    },
+    {
+      "text": "brukt som kopula: kunne klassifiseres eller beskrives som",
+      "translation": "used as a copula: to be classifiable or describable as",
+      "examples": [
+        {
+          "no": "være lærer",
+          "en": "be a teacher"
+        },
+        {
+          "no": "hun var flyger",
+          "en": "she was a pilot"
+        },
+        {
+          "no": "alle har vært barn en gang",
+          "en": "everyone has been a child once"
+        },
+        {
+          "no": "være frisk",
+          "en": "be healthy"
+        }
+      ]
+    },
+    {
+      "text": "brukt i setning med ‘det’ som formelt subjekt (presenteringssetning)",
+      "translation": "used in a sentence with 'det' as a formal subject (presentational sentence)",
+      "examples": [
+        {
+          "no": "det var du som sa det",
+          "en": "it was you who said it"
+        },
+        {
+          "no": "hva er det som står på?",
+          "en": "what is going on?"
+        },
+        {
+          "no": "det er i morgen de kommer",
+          "en": "it is tomorrow that they are coming"
+        }
+      ]
+    },
+    {
+      "text": "brukt som hjelpeverb (i presens eller preteritum perfektum) ved intransitive verb som betegner bevegelse eller overgang til et nytt sted eller en ny tilstand",
+      "translation": "used as an auxiliary verb (in present or perfect past tense) with intransitive verbs denoting movement or transition to a new place or state",
+      "examples": []
+    },
+    {
+      "text": "jamfør ha",
+      "translation": "to have",
+      "examples": [
+        {
+          "no": "hun er forsvunnet",
+          "en": "she has disappeared"
+        },
+        {
+          "no": "de var gått",
+          "en": "they had gone"
+        },
+        {
+          "no": "han er blitt syk",
+          "en": "he has fallen ill"
+        },
+        {
+          "no": "opplysningene var kommet fram",
+          "en": "the information had emerged"
+        }
+      ]
+    },
+    {
+      "text": "brukt som hjelpeverb i passiv",
+      "translation": "used as an auxiliary verb in",
+      "examples": [
+        {
+          "no": "hun er sett",
+          "en": "she is seen"
+        },
+        {
+          "no": "de var tatt for tyveri",
+          "en": "they were arrested for theft"
+        }
+      ]
+    }
+  ]
+}

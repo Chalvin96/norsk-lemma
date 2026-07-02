@@ -1,0 +1,75 @@
+{
+  "source_article_id": 120857,
+  "lemmas": [
+    {
+      "lemma": "kvasi",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168568,
+      "is_sub_article": false,
+      "primary_translation": "quasi / fake",
+      "word_forms": [
+        {
+          "word_form": "kvasi",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɑːsɪ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5f4853222703.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5f4853222703.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5f4853222703.mp3",
+            "text": "kvasi",
+            "source": "generated",
+            "content_sha256": "6ae345f0af4bf44ca5e7eacb50efc2b65898734bad03ed32f404b7c312d872de"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bare tilsynelatende",
+      "translation": "only apparently",
+      "examples": []
+    },
+    {
+      "text": "uekte",
+      "translation": "fake",
+      "examples": [
+        {
+          "no": "vekterselskapet har blitt et kvasi ordenspoliti",
+          "en": "the security company has become a quasi law enforcement police force"
+        }
+      ]
+    }
+  ]
+}

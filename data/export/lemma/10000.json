@@ -1,0 +1,106 @@
+{
+  "source_article_id": 10000,
+  "lemmas": [
+    {
+      "lemma": "dialektal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11727,
+      "is_sub_article": false,
+      "primary_translation": "dialectal",
+      "word_forms": [
+        {
+          "word_form": "dialektal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$l@k$\"tA:l",
+              "ipa": "dɪɑləkˈtɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dialektale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$l@k$\"tA:$l@",
+              "ipa": "dɪɑləkˈtɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dialektalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$A$l@k$\"tA:lt",
+              "ipa": "dɪɑləkˈtɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d90708b3a7f1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d90708b3a7f1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d90708b3a7f1.mp3",
+            "text": "dialektal",
+            "source": "generated",
+            "content_sha256": "92a8b01266d36faeb22fd677abc42684efc588d4e9a14db17b3d7cea12e63e9e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder dialekt",
+      "translation": "relating to dialect",
+      "examples": [
+        {
+          "no": "dialektale trekk i elevenes skriftspråk",
+          "en": "dialectal features in the students' written language"
+        }
+      ]
+    }
+  ]
+}

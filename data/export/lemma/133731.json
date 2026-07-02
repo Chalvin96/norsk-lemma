@@ -1,0 +1,71 @@
+{
+  "source_article_id": 133731,
+  "lemmas": [
+    {
+      "lemma": "underan",
+      "hgno": 0,
+      "pos": "PREP",
+      "source_lemma_id": 2981690,
+      "is_sub_article": false,
+      "primary_translation": "under / below",
+      "word_forms": [
+        {
+          "word_form": "underan",
+          "tags_json": [
+            "ADP"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉnərˌɑːn",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fd45c157c699.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd45c157c699.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fd45c157c699.mp3",
+            "text": "underan",
+            "source": "generated",
+            "content_sha256": "39f20692ce084cf358402b0f0e14105c7271d4e9904f89b1075585d2eed9bfc4"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "under, nedenfor nedafor",
+      "translation": "under, below",
+      "examples": [
+        {
+          "no": "komme underan taket",
+          "en": "come in under the roof"
+        },
+        {
+          "no": "sitte underan trappa",
+          "en": "sit under the stairs"
+        },
+        {
+          "no": "de bor underan",
+          "en": "they live downstairs"
+        }
+      ]
+    }
+  ]
+}

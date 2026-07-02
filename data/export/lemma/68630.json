@@ -1,0 +1,85 @@
+{
+  "source_article_id": 68630,
+  "lemmas": [
+    {
+      "lemma": "vintres",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 79232,
+      "is_sub_article": false,
+      "primary_translation": "to turn winter",
+      "word_forms": [
+        {
+          "word_form": "vintres",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$tr@s",
+              "ipa": "ˈvɪntrəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vintredes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vIn$tr@$d@s",
+              "ipa": "ˈvɪntrədəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "585b55a3150c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/585b55a3150c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/585b55a3150c.mp3",
+            "text": "vintres",
+            "source": "generated",
+            "content_sha256": "6edfc1151e65275dfe7eb22c4d56b62b7f85611aa1e35e54164d708fdf39dc29",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli vinter",
+      "translation": "to become winter",
+      "examples": [
+        {
+          "no": "det vintres i nord",
+          "en": "winter is setting in in the north"
+        }
+      ]
+    }
+  ]
+}

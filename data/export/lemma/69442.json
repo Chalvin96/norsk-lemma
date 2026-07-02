@@ -1,0 +1,82 @@
+{
+  "source_article_id": 69442,
+  "lemmas": [
+    {
+      "lemma": "wattsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 80128,
+      "is_sub_article": false,
+      "primary_translation": "wattage-related",
+      "word_forms": [
+        {
+          "word_form": "wattsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vAtsk",
+              "ipa": "ˈvɑtsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "wattske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vAt$sk@",
+              "ipa": "ˈvɑtskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "157fddb84a6b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/157fddb84a6b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/157fddb84a6b.mp3",
+            "text": "wattsk",
+            "source": "generated",
+            "content_sha256": "5c96201c9b7dce0c4d9c83e282105a131b0af2a2106484e9edc16ee2bb7f3ff9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder måling i watt",
+      "translation": "relating to measurement in watts",
+      "examples": []
+    }
+  ]
+}

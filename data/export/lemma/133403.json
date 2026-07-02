@@ -1,0 +1,160 @@
+{
+  "source_article_id": 133403,
+  "lemmas": [
+    {
+      "lemma": "teksting",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 145533,
+      "is_sub_article": false,
+      "primary_translation": "subtitling / texting",
+      "word_forms": [
+        {
+          "word_form": "teksting",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tEk$stIN",
+              "ipa": "ˈtɛkstɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tekstinga",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɛkstɪŋɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tekstinger",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɛkstɪŋər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tekstingene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈɛkstɪŋənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tekstingen",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tEk$stIN$@n",
+              "ipa": "ˈtɛkstɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3736da2e3510.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3736da2e3510.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3736da2e3510.mp3",
+            "text": "teksting",
+            "source": "generated",
+            "content_sha256": "838da0c1f9d7f84f48c53ca20160fa7e8663dfa6a238c6c4facb1bc519454d36",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å sette tekst til film, fjernsynsprogram eller lignende",
+      "translation": "subtitling of film, television program",
+      "examples": [
+        {
+          "no": "tekstingen fra engelsk til norsk manglet",
+          "en": "the subtitling from English to Norwegian was missing"
+        }
+      ]
+    },
+    {
+      "text": "det å sende tekstmelding til noen",
+      "translation": "sending text messages to someone",
+      "examples": [
+        {
+          "no": "det var mye teksting mellom dem i løpet av møtet",
+          "en": "there was a lot of texting between them during the meeting"
+        }
+      ]
+    }
+  ]
+}

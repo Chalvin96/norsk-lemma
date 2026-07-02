@@ -1,0 +1,87 @@
+{
+  "source_article_id": 43208,
+  "lemmas": [
+    {
+      "lemma": "oratorisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50063,
+      "is_sub_article": false,
+      "primary_translation": "oratorical / eloquent",
+      "word_forms": [
+        {
+          "word_form": "oratorisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$rA$\"tu:$rI$sk",
+              "ipa": "ʊrɑˈtuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oratoriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$rA$\"tu:$rI$sk@",
+              "ipa": "ʊrɑˈtuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a2eb6441aa0f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2eb6441aa0f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a2eb6441aa0f.mp3",
+            "text": "oratorisk",
+            "source": "generated",
+            "content_sha256": "4d69a877af1bac8dc83d9a6284a9c837f14fc5de0720faca2eb77a7fc21f2f54",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har med veltalenhet å gjøre",
+      "translation": "relating to eloquence",
+      "examples": [
+        {
+          "no": "talen var et oratorisk mesterstykke",
+          "en": "the speech was an oratorical masterpiece"
+        }
+      ]
+    }
+  ]
+}

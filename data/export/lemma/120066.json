@@ -1,0 +1,102 @@
+{
+  "source_article_id": 120066,
+  "lemmas": [
+    {
+      "lemma": "kongeblå",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 115343,
+      "is_sub_article": false,
+      "primary_translation": "royal blue / cobalt blue",
+      "word_forms": [
+        {
+          "word_form": "kongeblå",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kON$@$%blo:",
+              "ipa": "ˈkɔŋəˌbloː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kongeblåe",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɔŋəblˌoːə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kongeblått",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kON$@$%blOt",
+              "ipa": "ˈkɔŋəˌblɔt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "950d59b5d954.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/950d59b5d954.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/950d59b5d954.mp3",
+            "text": "kongeblå",
+            "source": "generated",
+            "content_sha256": "79c67cf91c0df31fa324c28c3444fd1e4336572945aacb1011acacd7f451e154",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med dyp blå farge",
+      "translation": "deep blue color",
+      "examples": []
+    }
+  ]
+}

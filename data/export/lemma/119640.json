@@ -1,0 +1,94 @@
+{
+  "source_article_id": 119640,
+  "lemmas": [
+    {
+      "lemma": "romsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167980,
+      "is_sub_article": false,
+      "primary_translation": "Romani",
+      "word_forms": [
+        {
+          "word_form": "romsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈumsk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "romske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈumskə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "66afb11d0acb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/66afb11d0acb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/66afb11d0acb.mp3",
+            "text": "romsk",
+            "source": "generated",
+            "content_sha256": "3d4fae06bb53d258f781a36a1bf2fab7fa6273f9642b880c2a2b3c519f228980"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller er typisk for rom",
+      "translation": "relating to or typical of Roma",
+      "examples": [
+        {
+          "no": "romsk språk og kultur",
+          "en": "Romani language and culture"
+        },
+        {
+          "no": "vakre, romske fortellinger",
+          "en": "beautiful Romani stories"
+        }
+      ]
+    }
+  ]
+}

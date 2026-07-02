@@ -1,0 +1,122 @@
+{
+  "source_article_id": 50100,
+  "lemmas": [
+    {
+      "lemma": "sangfugl",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 57483,
+      "is_sub_article": false,
+      "primary_translation": "songbird",
+      "word_forms": [
+        {
+          "word_form": "sangfugl",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAN$%fu0$gl",
+              "ipa": "ˈsɑŋˌfʉgl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sangfuglen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAN$%fu0$gln=",
+              "ipa": "ˈsɑŋˌfʉgln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sangfugler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAN$%f}:$l@r",
+              "ipa": "ˈsɑŋˌfʉːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sangfuglene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAN$%f}:$ln=$@",
+              "ipa": "ˈsɑŋˌfʉːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a992acf8656d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a992acf8656d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a992acf8656d.mp3",
+            "text": "sangfugl",
+            "source": "generated",
+            "content_sha256": "f348e70ec947e8366d2432e9f2ff1d7e335319f6a8940b7d7379cc6b22980cc6",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "spurvefugl som kan frambringe syngende lyder",
+      "translation": "sparrowbird that can produce singing sounds",
+      "examples": [
+        {
+          "no": "lerken er en sangfugl",
+          "en": "the lark is a songbird"
+        }
+      ]
+    }
+  ]
+}

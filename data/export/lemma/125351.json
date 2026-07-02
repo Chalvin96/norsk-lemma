@@ -1,0 +1,94 @@
+{
+  "source_article_id": 125351,
+  "lemmas": [
+    {
+      "lemma": "probiotisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2010639,
+      "is_sub_article": false,
+      "primary_translation": "probiotic",
+      "word_forms": [
+        {
+          "word_form": "probiotisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prubɪˈuːtɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "probiotiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "prubɪˈuːtɪskə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "863935bd82e5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/863935bd82e5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/863935bd82e5.mp3",
+            "text": "probiotisk",
+            "source": "generated",
+            "content_sha256": "42be99ee1e6fc7294dc2497052e6138aa8bb7ef19aaaaf3d59b900a5aa3c9850"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller inneholder et probiotikum",
+      "translation": "concerning or containing a probiotic",
+      "examples": [
+        {
+          "no": "probiotiske bakterier",
+          "en": "probiotic bacteria"
+        },
+        {
+          "no": "probiotiske melkeprodukter",
+          "en": "probiotic dairy products"
+        }
+      ]
+    }
+  ]
+}

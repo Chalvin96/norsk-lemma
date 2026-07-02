@@ -1,0 +1,126 @@
+{
+  "source_article_id": 38442,
+  "lemmas": [
+    {
+      "lemma": "mimikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 45094,
+      "is_sub_article": false,
+      "primary_translation": "mimicry / facial expression",
+      "word_forms": [
+        {
+          "word_form": "mimikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$\"mIk",
+              "ipa": "mɪˈmɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mimikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mI$\"mI$k@n",
+              "ipa": "mɪˈmɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "mimikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɪmˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "mimikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mɪmˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b58c05d7248b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b58c05d7248b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b58c05d7248b.mp3",
+            "text": "mimikk",
+            "source": "generated",
+            "content_sha256": "08d316f254fd0318f2a378c30642749da2ccb3d0492872084ebbe78deb80bc4f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stadig skiftning i ansiktsuttrykk",
+      "translation": "constant change in facial expression",
+      "examples": [
+        {
+          "no": "ha en livlig mimikk",
+          "en": "have lively facial expressions"
+        }
+      ]
+    }
+  ]
+}

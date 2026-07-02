@@ -1,0 +1,106 @@
+{
+  "source_article_id": 17309,
+  "lemmas": [
+    {
+      "lemma": "fosforsur",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 20078,
+      "is_sub_article": false,
+      "primary_translation": "phosphoric acid-related",
+      "word_forms": [
+        {
+          "word_form": "fosforsur",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fUs$fUr$%s}:r",
+              "ipa": "ˈfʊsfʊrˌsʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fosforsure",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fUs$fUr$%s}:$r@",
+              "ipa": "ˈfʊsfʊrˌsʉːrə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fosforsurt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fUs$fUr$%s}:t`",
+              "ipa": "ˈfʊsfʊrˌsʉːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "486325e98d07.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/486325e98d07.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/486325e98d07.mp3",
+            "text": "fosforsur",
+            "source": "generated",
+            "content_sha256": "9848f62939e127e89d543cc79783a6229937feb731178794118089168a72a952",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forbundet med fosforsyre",
+      "translation": "connected with phosphoric acid",
+      "examples": [
+        {
+          "no": "fosforsur kalk",
+          "en": "phosphatic lime"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source_article_id": 120376,
+  "lemmas": [
+    {
+      "lemma": "data",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 168313,
+      "is_sub_article": false,
+      "primary_translation": "computer (short form)",
+      "word_forms": [
+        {
+          "word_form": "data",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA",
+              "ipa": "ˈdɑːtɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dataen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$@n",
+              "ipa": "ˈdɑːtɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dataer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dataene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$@$n@",
+              "ipa": "ˈdɑːtɑənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "df5300050d94.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df5300050d94.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df5300050d94.mp3",
+            "text": "data",
+            "source": "generated",
+            "content_sha256": "ee804bf713d83d712e377e259bc80682f031988dc7466539f712de6b2f70d0e9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kortord for datamaskin",
+      "translation": "short for computer",
+      "examples": [
+        {
+          "no": "skrive på data",
+          "en": "write on a computer"
+        },
+        {
+          "no": "kjøpe seg ny data",
+          "en": "buy a new computer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "source_article_id": 60504,
+  "lemmas": [
+    {
+      "lemma": "tet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 69187,
+      "is_sub_article": false,
+      "primary_translation": "lead (group)",
+      "word_forms": [
+        {
+          "word_form": "tet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"te:t",
+              "ipa": "ˈteːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "teten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"te:$tn=",
+              "ipa": "ˈteːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "teter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈeːtər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈeːtn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d4e247d2406e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4e247d2406e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4e247d2406e.mp3",
+            "text": "tet",
+            "source": "generated",
+            "content_sha256": "bb324f9624c2d8c58c067a8a7c37f9870fe8d0d8a1004d009938fd96a64f79ea",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "framste del av en flokk, en gruppe eller lignende",
+      "translation": "front part of a flock, group, or similar",
+      "examples": [
+        {
+          "no": "det er jevnt i teten",
+          "en": "it is even at the front"
+        },
+        {
+          "no": "ta teten",
+          "en": "take the lead"
+        },
+        {
+          "no": "være med i teten",
+          "en": "be among the leaders"
+        },
+        {
+          "no": "kjempe helt i teten",
+          "en": "fight right at the front"
+        }
+      ]
+    }
+  ]
+}

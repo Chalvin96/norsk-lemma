@@ -1,0 +1,125 @@
+{
+  "source_article_id": 110873,
+  "lemmas": [
+    {
+      "lemma": "bysamfunn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 92827,
+      "is_sub_article": false,
+      "primary_translation": "urban community",
+      "word_forms": [
+        {
+          "word_form": "bysamfunn",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$sAm$%fu0n",
+              "ipa": "ˈbyːsɑmˌfʉn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bysamfunnet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$sAm$%fu0$n@",
+              "ipa": "ˈbyːsɑmˌfʉnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bysamfunna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈyːsɑmfˌʉnɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "bysamfunnene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$sAm$%fu0$nn=$@",
+              "ipa": "ˈbyːsɑmˌfʉnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cf661fc882cd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf661fc882cd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf661fc882cd.mp3",
+            "text": "bysamfunn",
+            "source": "generated",
+            "content_sha256": "c1cafef96f455f5d25a5b2842dceda5bb22fe31867b58d539a245247e8c73e33",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "by sett på som samfunn",
+      "translation": "city seen as a community",
+      "examples": [
+        {
+          "no": "ta vare på et levende bysamfunn",
+          "en": "preserve a vibrant urban community"
+        }
+      ]
+    }
+  ]
+}

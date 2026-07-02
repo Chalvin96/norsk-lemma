@@ -1,0 +1,136 @@
+{
+  "source_article_id": 266,
+  "lemmas": [
+    {
+      "lemma": "advokatur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1054,
+      "is_sub_article": false,
+      "primary_translation": "barrister's qualification / defense",
+      "word_forms": [
+        {
+          "word_form": "advokatur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dvU$kA$\"t}:r",
+              "ipa": "ɑdvʊkɑˈtʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "advokaturen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dvU$kA$\"t}:$n`=",
+              "ipa": "ɑdvʊkɑˈtʉːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "advokaturer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑdʋukɑtˈʉːrər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "advokaturene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑdʋukɑtˈʉːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "100e5cb09782.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/100e5cb09782.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/100e5cb09782.mp3",
+            "text": "advokatur",
+            "source": "generated",
+            "content_sha256": "1be543e4c69d0b99b7b9674fb51c2f879250b3f9bc23384710831bc1a3b35d29",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "prøve som en advokat må avlegge for å kunne føre saker for Høyesterett",
+      "translation": "exam that a lawyer must pass to be able to conduct cases before the Supreme Court",
+      "examples": [
+        {
+          "no": "ta advokaturen",
+          "en": "take the bar exam"
+        }
+      ]
+    },
+    {
+      "text": "forsvar, argumentering",
+      "translation": "defense, argumentation",
+      "examples": [
+        {
+          "no": "en advokatur for saken",
+          "en": "a defense of the case"
+        }
+      ]
+    }
+  ]
+}

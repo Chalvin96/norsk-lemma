@@ -1,0 +1,128 @@
+{
+  "source_article_id": 11085,
+  "lemmas": [
+    {
+      "lemma": "duchesse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 12925,
+      "is_sub_article": false,
+      "primary_translation": "heavy silk fabric",
+      "word_forms": [
+        {
+          "word_form": "duchesse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dY$\"SEs",
+              "ipa": "dʏˈʃɛs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "duchessen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dʏʃˈɛsn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "duchesser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dʏʃˈɛsər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "duchessene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dʏʃˈɛsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "57d422fd6482.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57d422fd6482.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57d422fd6482.mp3",
+            "text": "duchesse",
+            "source": "generated",
+            "content_sha256": "47c60d428bb1a9e25bae9a492ef9f7f996274367cb5c6780e98a73382cd1ced7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tungt, glansfullt silketøy, særlig brukt til selskapskjoler",
+      "translation": "heavy, lustrous silk fabric, especially used for evening gowns",
+      "examples": [
+        {
+          "no": "en brudekjole i duchesse",
+          "en": "a wedding dress in duchesse satin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "source_article_id": 70703,
+  "lemmas": [
+    {
+      "lemma": "kommunikator",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157861,
+      "is_sub_article": false,
+      "primary_translation": "communicator",
+      "word_forms": [
+        {
+          "word_form": "kommunikator",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$mu0$nI$\"kA:$tUr",
+              "ipa": "kʊmʉnɪˈkɑːtʊr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kommunikatoren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kumʉnɪkɑtˌuːɳ̩",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kommunikatorer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kumʉnɪkɑtˌuːrər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kommunikatorene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kumʉnɪkɑtˈuːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a4566920ac38.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4566920ac38.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a4566920ac38.mp3",
+            "text": "kommunikator",
+            "source": "generated",
+            "content_sha256": "d4c57b516323dbe29553b77c01bd6ccec948ac71ca62bdb602b280a00ef88227",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som kommunisere",
+      "translation": "person who communicates",
+      "examples": []
+    },
+    {
+      "text": "person som formidler et budskap",
+      "translation": "person who conveys a message",
+      "examples": [
+        {
+          "no": "i boka framstår han som en dyktig kommunikator",
+          "en": "in the book, he comes across as a skilled communicator"
+        }
+      ]
+    }
+  ]
+}

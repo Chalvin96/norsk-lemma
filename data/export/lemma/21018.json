@@ -1,0 +1,112 @@
+{
+  "source_article_id": 21018,
+  "lemmas": [
+    {
+      "lemma": "grissen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 24564,
+      "is_sub_article": false,
+      "primary_translation": "sparse / leaky",
+      "word_forms": [
+        {
+          "word_form": "grissen",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"grI$sn=",
+              "ipa": "ˈgrɪsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grisne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"grI$sn@",
+              "ipa": "ˈgrɪsnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "grissent",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"grI$sn=t",
+              "ipa": "ˈgrɪsn̩t",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2ff27d3775fa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ff27d3775fa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2ff27d3775fa.mp3",
+            "text": "grissen",
+            "source": "generated",
+            "content_sha256": "41383799c148e79774ff91a588e944dfb7bc1bd99d3b657f926091957c0587c2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har (mange) hull, mellomrom eller åpninger",
+      "translation": "having (many) holes, gaps, or openings",
+      "examples": []
+    },
+    {
+      "text": "spredt, utett",
+      "translation": "sparse, leaky",
+      "examples": [
+        {
+          "no": "grisne skoger",
+          "en": "sparse forests"
+        },
+        {
+          "no": "han begynner å bli grissen i håret",
+          "en": "his hair is starting to thin out"
+        }
+      ]
+    }
+  ]
+}

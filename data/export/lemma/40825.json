@@ -1,0 +1,87 @@
+{
+  "source_article_id": 40825,
+  "lemmas": [
+    {
+      "lemma": "nikensk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47782,
+      "is_sub_article": false,
+      "primary_translation": "Nicene",
+      "word_forms": [
+        {
+          "word_form": "nikensk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nI$\"ke:nsk",
+              "ipa": "nɪˈkeːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nikenske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nI$\"ke:n$sk@",
+              "ipa": "nɪˈkeːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a396f352bd5c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a396f352bd5c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a396f352bd5c.mp3",
+            "text": "nikensk",
+            "source": "generated",
+            "content_sha256": "c5fdb037d7758b734604ef5fd76e00fc8f4e3d1b65551cd2871b770b95a56712",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller skriver seg fra Nikea i Lilleasia (etter kirkemøtet i 325)",
+      "translation": "relating to Nicaea in Asia Minor (after the council in 325)",
+      "examples": [
+        {
+          "no": "den nikenske trosbekjennelsen",
+          "en": "the Nicene Creed"
+        }
+      ]
+    }
+  ]
+}

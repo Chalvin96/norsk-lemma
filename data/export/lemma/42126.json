@@ -1,0 +1,91 @@
+{
+  "source_article_id": 42126,
+  "lemmas": [
+    {
+      "lemma": "omhyggelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49222,
+      "is_sub_article": false,
+      "primary_translation": "thorough, accurate",
+      "word_forms": [
+        {
+          "word_form": "omhyggelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Om$\"hY$g@$lI",
+              "ipa": "ɔmˈhʏgəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "omhyggelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Om$\"hY$g@$lI$@",
+              "ipa": "ɔmˈhʏgəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d4b317ea9ea7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4b317ea9ea7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4b317ea9ea7.mp3",
+            "text": "omhyggelig",
+            "source": "generated",
+            "content_sha256": "3307fe4a597e320262e621bf7c8cc5711937cdd5b60a5bb463b801dbf55698c7",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "omsorgsfull, nøyaktig, grundig",
+      "translation": "caring, accurate, thorough",
+      "examples": [
+        {
+          "no": "hun er omhyggelig med å betale i rett tid",
+          "en": "she is careful to pay on time"
+        },
+        {
+          "no": "pusse tennene omhyggelig",
+          "en": "brush your teeth carefully"
+        }
+      ]
+    }
+  ]
+}

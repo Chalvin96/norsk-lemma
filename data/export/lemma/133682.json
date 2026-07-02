@@ -1,0 +1,111 @@
+{
+  "source_article_id": 133682,
+  "lemmas": [
+    {
+      "lemma": "tåreblank",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2862280,
+      "is_sub_article": false,
+      "primary_translation": "tearful",
+      "word_forms": [
+        {
+          "word_form": "tåreblank",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈoːrəblˌɑŋk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tåreblanke",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈoːrəblˌɑŋkə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tåreblankt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "tˈoːrəblˌɑŋkt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ac3eb3385326.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac3eb3385326.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac3eb3385326.mp3",
+            "text": "tåreblank",
+            "source": "generated",
+            "content_sha256": "d697a5fdc09626aa3ab220da4645d982c5366e30f600588a43d606fb6bec7dc9"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "blank av tårer",
+      "translation": "wet with tears",
+      "examples": [
+        {
+          "no": "tåreblanke øyne",
+          "en": "tear-filled eyes"
+        }
+      ]
+    }
+  ]
+}

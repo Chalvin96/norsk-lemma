@@ -1,0 +1,127 @@
+{
+  "source_article_id": 981,
+  "lemmas": [
+    {
+      "lemma": "åndedrett",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 80517,
+      "is_sub_article": false,
+      "primary_translation": "breathing / respiration",
+      "word_forms": [
+        {
+          "word_form": "åndedrett",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"O$n@$%drEt",
+              "ipa": "ˈɔnəˌdrɛt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "åndedrettet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"O$n@$%drE$t@",
+              "ipa": "ˈɔnəˌdrɛtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "åndedretta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔnədrˌɛtɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "åndedrettene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɔnədrˌɛtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c7823fcb71fe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c7823fcb71fe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c7823fcb71fe.mp3",
+            "text": "åndedrett",
+            "source": "generated",
+            "content_sha256": "3dcc48766eed0e9e845f4d52f932e70a5ac6224d1362b6079e6b56e44a8a3161",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å puste",
+      "translation": "the act of breathing",
+      "examples": [
+        {
+          "no": "åndedrettet var jevnt og rolig",
+          "en": "the breathing was steady and calm"
+        }
+      ]
+    }
+  ]
+}

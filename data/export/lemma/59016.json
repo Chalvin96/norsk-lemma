@@ -1,0 +1,122 @@
+{
+  "source_article_id": 59016,
+  "lemmas": [
+    {
+      "lemma": "symbolsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67586,
+      "is_sub_article": false,
+      "primary_translation": "symbolic",
+      "word_forms": [
+        {
+          "word_form": "symbolsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sYm$\"bu:lsk",
+              "ipa": "sʏmˈbuːlsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "symbolske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sYm$\"bu:l$sk@",
+              "ipa": "sʏmˈbuːlskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5db57247eebe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5db57247eebe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5db57247eebe.mp3",
+            "text": "symbolsk",
+            "source": "generated",
+            "content_sha256": "edb177e85b53bd20c05bdecfde5f21f2f568d3d10bfb01841a9d9c8704d8772d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som tjener eller virker som et symbol",
+      "translation": "serving as or functioning as a symbol",
+      "examples": []
+    },
+    {
+      "text": "som representerer noe abstrakt eller åndelig",
+      "translation": "representing something abstract or spiritual",
+      "examples": [
+        {
+          "no": "tiltaket har kun symbolsk betydning",
+          "en": "the measure has only symbolic significance"
+        },
+        {
+          "no": "saken har stor symbolsk verdi",
+          "en": "the case has great symbolic value"
+        },
+        {
+          "no": "gjennombruddet i forhandlingene er en viktig symbolsk seier for presidenten",
+          "en": "the breakthrough in the negotiations is an important symbolic victory for the president"
+        }
+      ]
+    },
+    {
+      "text": "som er av mindre omfang eller verdi enn det som er vanlig eller forholdsmessig",
+      "translation": "smaller in scope or value than is usual or proportionate",
+      "examples": [
+        {
+          "no": "kjøpe butikken for en symbolsk sum",
+          "en": "buy the shop for a symbolic sum"
+        },
+        {
+          "no": "betale en symbolsk pris",
+          "en": "pay a symbolic price"
+        },
+        {
+          "no": "jeg rakk bare å kjøpe en symbolsk gave",
+          "en": "I only had time to buy a token gift"
+        },
+        {
+          "no": "utestengelsen er en symbolsk straff",
+          "en": "the exclusion is a symbolic punishment"
+        }
+      ]
+    }
+  ]
+}

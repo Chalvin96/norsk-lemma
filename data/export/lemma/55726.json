@@ -1,0 +1,87 @@
+{
+  "source_article_id": 55726,
+  "lemmas": [
+    {
+      "lemma": "sosioøkonomisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64138,
+      "is_sub_article": false,
+      "primary_translation": "socioeconomic",
+      "word_forms": [
+        {
+          "word_form": "sosioøkonomisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"su:$sI$U$9$kU$%nu:$mI$sk",
+              "ipa": "ˈsuːsɪʊœkʊˌnuːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sosioøkonomiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"su:$sI$U$9$kU$%nu:$mI$sk@",
+              "ipa": "ˈsuːsɪʊœkʊˌnuːmɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "47e1449e810e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/47e1449e810e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/47e1449e810e.mp3",
+            "text": "sosioøkonomisk",
+            "source": "generated",
+            "content_sha256": "b95b735bc7d81da6ca5cffd543b714c0cb7c0af9eb9b8b6cd69c6f6e4ec9c515",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder den sosiale og økonomiske stillingen",
+      "translation": "concerning social and economic status",
+      "examples": [
+        {
+          "no": "mange unge narkotikamisbrukere kommer fra hjem med høy sosioøkonomisk status",
+          "en": "many young drug addicts come from homes with high socioeconomic status"
+        }
+      ]
+    }
+  ]
+}

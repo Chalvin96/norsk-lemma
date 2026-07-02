@@ -1,0 +1,132 @@
+{
+  "source_article_id": 12861,
+  "lemmas": [
+    {
+      "lemma": "entall",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 14982,
+      "is_sub_article": false,
+      "primary_translation": "singular (grammar)",
+      "word_forms": [
+        {
+          "word_form": "entall",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:n$%tAl",
+              "ipa": "ˈeːnˌtɑl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "entallet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:n$%tA$l@",
+              "ipa": "ˈeːnˌtɑlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "entalla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:n$%tA$lA",
+              "ipa": "ˈeːnˌtɑlɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "entallene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"e:n$%tA$ln=$@",
+              "ipa": "ˈeːnˌtɑln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e905cd14d711.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e905cd14d711.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e905cd14d711.mp3",
+            "text": "entall",
+            "source": "generated",
+            "content_sha256": "e3fe946579ab29c4823eed0e7afb07d2bb43eaaf7c8ee152cf3f25d06125d81f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i grammatikk: form av et ord eller en frase som viser at det er snakk om én",
+      "translation": "in grammar: form of a word or phrase indicating singularity",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra flertall og totall",
+      "translation": "singularis singular",
+      "examples": [
+        {
+          "no": "ordet blir bare brukt i entall",
+          "en": "the word is only used in the singular"
+        },
+        {
+          "no": "ubestemt form entall",
+          "en": "indefinite singular form"
+        }
+      ]
+    }
+  ]
+}

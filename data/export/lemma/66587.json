@@ -1,0 +1,96 @@
+{
+  "source_article_id": 66587,
+  "lemmas": [
+    {
+      "lemma": "vanskeligstilt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 76555,
+      "is_sub_article": false,
+      "primary_translation": "disadvantaged",
+      "word_forms": [
+        {
+          "word_form": "vanskeligstilt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAn$sk@$lI$%stIlt",
+              "ipa": "ˈvɑnskəlɪˌstɪlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vanskeligstilte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vAn$sk@$lI$%stIl$t@",
+              "ipa": "ˈvɑnskəlɪˌstɪltə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f966c7842aa1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f966c7842aa1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f966c7842aa1.mp3",
+            "text": "vanskeligstilt",
+            "source": "generated",
+            "content_sha256": "c70f572367812f731679137a13d1ad4d5ea3076bb06452de9a3d1c620adb1a17",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har det økonomisk eller sosialt vanskelig",
+      "translation": "hard-pressed",
+      "examples": []
+    },
+    {
+      "text": "som sitter trangt i det",
+      "translation": "hard up",
+      "examples": [
+        {
+          "no": "vanskeligstilte grupper",
+          "en": "disadvantaged groups"
+        },
+        {
+          "no": "vanskeligstilte må få mer hjelp",
+          "en": "the disadvantaged must receive more help"
+        }
+      ]
+    }
+  ]
+}

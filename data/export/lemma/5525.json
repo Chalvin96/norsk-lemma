@@ -1,0 +1,87 @@
+{
+  "source_article_id": 5525,
+  "lemmas": [
+    {
+      "lemma": "besteborgerlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6504,
+      "is_sub_article": false,
+      "primary_translation": "burgherly",
+      "word_forms": [
+        {
+          "word_form": "besteborgerlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bE$st@$%bOr$g@$l`I",
+              "ipa": "ˈbɛstəˌbɔrgəɭɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "besteborgerlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bE$st@$%bOr$g@$l`I$@",
+              "ipa": "ˈbɛstəˌbɔrgəɭɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5ff159b6e96c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ff159b6e96c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ff159b6e96c.mp3",
+            "text": "besteborgerlig",
+            "source": "generated",
+            "content_sha256": "2ba398214f89124ccacccc3f8bea8d72185dc6a898f28df3d3e72c13901f1142",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder, er spesielt for besteborger",
+      "translation": "concerning, especially for a burgher",
+      "examples": [
+        {
+          "no": "besteborgerlige synspunkter",
+          "en": "upper-class viewpoints"
+        }
+      ]
+    }
+  ]
+}

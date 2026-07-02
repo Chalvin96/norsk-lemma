@@ -1,0 +1,114 @@
+{
+  "source_article_id": 9703,
+  "lemmas": [
+    {
+      "lemma": "demokratisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11420,
+      "is_sub_article": false,
+      "primary_translation": "democratic",
+      "word_forms": [
+        {
+          "word_form": "demokratisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$mU$\"krA:$tI$sk",
+              "ipa": "dəmʊˈkrɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "demokratiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "d@$mU$\"krA:$tI$sk@",
+              "ipa": "dəmʊˈkrɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d56e158d04ac.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d56e158d04ac.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d56e158d04ac.mp3",
+            "text": "demokratisk",
+            "source": "generated",
+            "content_sha256": "6536adeaf869b28e8f97cb258949054e05ba7e3ad965b5d5179f6889e56f8292",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder demokrati",
+      "translation": "relating to democracy",
+      "examples": []
+    },
+    {
+      "text": "folkestyrt",
+      "translation": "people-ruled",
+      "examples": [
+        {
+          "no": "et demokratisk land",
+          "en": "a democratic country"
+        },
+        {
+          "no": "demokratisk styreform",
+          "en": "democratic form of government"
+        },
+        {
+          "no": "demokratiske prosesser",
+          "en": "democratic processes"
+        }
+      ]
+    },
+    {
+      "text": "med prinsipper om demokrati og rettferdighet",
+      "translation": "with principles of democracy and justice",
+      "examples": [
+        {
+          "no": "en demokratisk innstilling",
+          "en": "a democratic attitude"
+        },
+        {
+          "no": "fraværet av demokratisk sinnelag",
+          "en": "the absence of a democratic mindset"
+        }
+      ]
+    }
+  ]
+}

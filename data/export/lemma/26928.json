@@ -1,0 +1,118 @@
+{
+  "source_article_id": 26928,
+  "lemmas": [
+    {
+      "lemma": "intensiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32031,
+      "is_sub_article": false,
+      "primary_translation": "intensive",
+      "word_forms": [
+        {
+          "word_form": "intensiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$tn=$%si:v",
+              "ipa": "ˈɪntn̩ˌsɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "intensive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$tn=$%si:$v@",
+              "ipa": "ˈɪntn̩ˌsɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "intensivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$tn=$%si:vt",
+              "ipa": "ˈɪntn̩ˌsɪːvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4ef60ec6d210.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ef60ec6d210.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4ef60ec6d210.mp3",
+            "text": "intensiv",
+            "source": "generated",
+            "content_sha256": "eeb5eb9455fbf5f5cace12ff4488bf8ce8a65ed7f4449306e9e13d3703fa1a1e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "intens, effektiv",
+      "translation": "intense, effective",
+      "examples": [
+        {
+          "no": "intensiv drift",
+          "en": "intensive operations"
+        },
+        {
+          "no": "intensive språkkurs",
+          "en": "intensive language courses"
+        },
+        {
+          "no": "en intensiv propagandakampanje",
+          "en": "an intensive propaganda campaign"
+        },
+        {
+          "no": "hun får intensiv behandling på brannskadeavdelingen",
+          "en": "she is receiving intensive care in the burn unit"
+        }
+      ]
+    }
+  ]
+}

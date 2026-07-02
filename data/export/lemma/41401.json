@@ -1,0 +1,87 @@
+{
+  "source_article_id": 41401,
+  "lemmas": [
+    {
+      "lemma": "nysilt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48392,
+      "is_sub_article": false,
+      "primary_translation": "newly filtered",
+      "word_forms": [
+        {
+          "word_form": "nysilt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%si:lt",
+              "ipa": "ˈnyːˌsɪːlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nysilte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$%si:l$t@",
+              "ipa": "ˈnyːˌsɪːltə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "98bc6e6228d5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/98bc6e6228d5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/98bc6e6228d5.mp3",
+            "text": "nysilt",
+            "source": "generated",
+            "content_sha256": "e96cb6a1cc38cfc5157b1238beed998346d7ed002575afb2f97761748c431504",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om væske: som nylig er silt gjennom et filter",
+      "translation": "of liquid: that has recently been filtered",
+      "examples": [
+        {
+          "no": "nysilt melk",
+          "en": "freshly strained milk"
+        }
+      ]
+    }
+  ]
+}

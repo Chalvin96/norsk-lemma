@@ -1,0 +1,85 @@
+{
+  "source_article_id": 62092,
+  "lemmas": [
+    {
+      "lemma": "trellbundet",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 71011,
+      "is_sub_article": false,
+      "primary_translation": "enslaved",
+      "word_forms": [
+        {
+          "word_form": "trellbundet",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"trEl$%bu0$n@t",
+              "ipa": "ˈtrɛlˌbʉnət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "trellbundne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"trEl$%bu0$n@",
+              "ipa": "ˈtrɛlˌbʉnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5923ded5ed4a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5923ded5ed4a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5923ded5ed4a.mp3",
+            "text": "trellbundet",
+            "source": "generated",
+            "content_sha256": "0d6968e675d083161933c1c035f7f2dbd7a2333e396a26e76f7c900330e5684f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ufri, kue",
+      "translation": "unfree, subjugated",
+      "examples": [
+        {
+          "no": "et trellbundet folk",
+          "en": "a people bound in thrall"
+        }
+      ]
+    }
+  ]
+}

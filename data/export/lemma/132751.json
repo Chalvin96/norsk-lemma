@@ -1,0 +1,160 @@
+{
+  "source_article_id": 132751,
+  "lemmas": [
+    {
+      "lemma": "tredjeperson",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 148027,
+      "is_sub_article": false,
+      "primary_translation": "third person / third party",
+      "word_forms": [
+        {
+          "word_form": "tredjeperson",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$dj@$p@$%s`u:n",
+              "ipa": "ˈtreːdjəpəˌʂuːn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tredjepersonen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈeːdjəpəʂˌuːnn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tredjepersoner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈeːdjəpəʂˌuːnər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "tredjepersonene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈeːdjəpəʂˌuːnn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5ecb71dd3c6b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ecb71dd3c6b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ecb71dd3c6b.mp3",
+            "text": "tredjeperson",
+            "source": "generated",
+            "content_sha256": "d63e6a767a97800d5e284d3743e3f26f16f33c20f9f8419889c9da55ce6b687f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som står utenfor en sak eller et forhold mellom to personer",
+      "translation": "person who stands outside a matter or a relationship between two people",
+      "examples": [
+        {
+          "no": "diskutere saken med en tredjeperson",
+          "en": "discuss the matter with a third person"
+        },
+        {
+          "no": "politiet ble varslet av en tredjeperson",
+          "en": "the police were alerted by a third person"
+        }
+      ]
+    },
+    {
+      "text": "synsvinkel fra utsiden av en person eller en karakter som innebærer at pronomen i tredjeperson eller tilsvarende blir brukt",
+      "translation": "point of view from outside a person or character, involving the use of third-person pronouns or equivalents",
+      "examples": [
+        {
+          "no": "boka er skrevet i tredjeperson med en allvitende forteller",
+          "en": "the book is written in the third person with an omniscient narrator"
+        },
+        {
+          "no": "omtale seg selv i tredjeperson",
+          "en": "refer to oneself in the third person"
+        }
+      ]
+    },
+    {
+      "text": "grammatisk trekk som angir at et utsagn gjelder verken avsenderen eller mottakeren",
+      "translation": "grammatical feature indicating that a statement concerns neither the sender nor the receiver",
+      "examples": [
+        {
+          "no": "'han' og 'de' er tredjeperson",
+          "en": "'he' and 'they' are third person"
+        },
+        {
+          "no": "skrive noe i 3. person entall",
+          "en": "write something in the third person singular"
+        }
+      ]
+    }
+  ]
+}

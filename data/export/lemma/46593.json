@@ -1,0 +1,87 @@
+{
+  "source_article_id": 46593,
+  "lemmas": [
+    {
+      "lemma": "prosodisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 53623,
+      "is_sub_article": false,
+      "primary_translation": "prosodic",
+      "word_forms": [
+        {
+          "word_form": "prosodisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"su:$dI$sk",
+              "ipa": "prʊˈsuːdɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "prosodiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "prU$\"su:$dI$sk@",
+              "ipa": "prʊˈsuːdɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f342f5075e09.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f342f5075e09.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f342f5075e09.mp3",
+            "text": "prosodisk",
+            "source": "generated",
+            "content_sha256": "ad8d0ed13e2757878ef9cf7bb86e98136eb0f7e4e52f3c4d82916f87c4d16b7b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører til eller gjelder prosodi",
+      "translation": "relating to or concerning prosody",
+      "examples": [
+        {
+          "no": "prosodiske elementer",
+          "en": "prosodic elements"
+        }
+      ]
+    }
+  ]
+}

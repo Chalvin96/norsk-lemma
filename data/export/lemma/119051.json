@@ -1,0 +1,89 @@
+{
+  "source_article_id": 119051,
+  "lemmas": [
+    {
+      "lemma": "karrieremessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 112569,
+      "is_sub_article": false,
+      "primary_translation": "career-wise",
+      "word_forms": [
+        {
+          "word_form": "karrieremessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$rI$\"\"{:$r@$%mE$sI",
+              "ipa": "kɑrɪˈæːrəˌmɛsɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "karrieremessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kɑrɪˈæːrəmˌɛsɪə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0ca845d8cdb4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0ca845d8cdb4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0ca845d8cdb4.mp3",
+            "text": "karrieremessig",
+            "source": "generated",
+            "content_sha256": "9a5d444531171ef445bc944d78157649f5beefeedc0994cb9ca7daa62e45d206",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder karriere",
+      "translation": "relating to a career",
+      "examples": [
+        {
+          "no": "leve et rikt liv, både personlig og karrieremessig",
+          "en": "live a rich life, both personally and career-wise"
+        }
+      ]
+    }
+  ]
+}

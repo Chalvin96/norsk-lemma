@@ -1,0 +1,209 @@
+{
+  "source_article_id": 5600,
+  "lemmas": [
+    {
+      "lemma": "besøke",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 6581,
+      "is_sub_article": false,
+      "primary_translation": "visit / attend",
+      "word_forms": [
+        {
+          "word_form": "besøke",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"s2:$k@",
+              "ipa": "bəˈsøːkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besøker",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"s2:$k@r",
+              "ipa": "bəˈsøːkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besøkes",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"s2:$k@s",
+              "ipa": "bəˈsøːkəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besøkte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"s2:k$t@",
+              "ipa": "bəˈsøːktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besøkt",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"s2:kt",
+              "ipa": "bəˈsøːkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besøkende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"s2:$k@$n@",
+              "ipa": "bəˈsøːkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "besøk",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"s2:k",
+              "ipa": "bəˈsøːk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1086ab2da532.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1086ab2da532.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1086ab2da532.mp3",
+            "text": "besøke",
+            "source": "generated",
+            "content_sha256": "38a5493d287031203437f0357e93f903e6f200a0c879bbb95a62cbff95185a94",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hilse på, oppholde seg hos, være sammen med",
+      "translation": "visit, stay with, be with",
+      "examples": [
+        {
+          "no": "besøke slekt og venner",
+          "en": "visit relatives and friends"
+        },
+        {
+          "no": "jeg skal besøke deg i morgen",
+          "en": "I will visit you tomorrow"
+        }
+      ]
+    },
+    {
+      "text": "delta på, møte opp på, være til stede for",
+      "translation": "attend, show up at, be present for",
+      "examples": []
+    },
+    {
+      "text": "oppsøke, overvære",
+      "translation": "visit, attend",
+      "examples": [
+        {
+          "no": "besøke et museum",
+          "en": "visit a museum"
+        },
+        {
+          "no": "turister som besøker Norge",
+          "en": "tourists visiting Norway"
+        },
+        {
+          "no": "utstillingen ble besøkt av mange",
+          "en": "the exhibition was visited by many"
+        },
+        {
+          "no": "arrangementet var dårlig besøkt",
+          "en": "the event was poorly attended"
+        }
+      ]
+    }
+  ]
+}

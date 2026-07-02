@@ -1,0 +1,101 @@
+{
+  "source_article_id": 64809,
+  "lemmas": [
+    {
+      "lemma": "urett",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 74206,
+      "is_sub_article": false,
+      "primary_translation": "wrong / blameworthy / illegal",
+      "word_forms": [
+        {
+          "word_form": "urett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%rEt",
+              "ipa": "ˈʉːˌrɛt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "urette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%rE$t@",
+              "ipa": "ˈʉːˌrɛtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4310b76929b3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4310b76929b3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4310b76929b3.mp3",
+            "text": "urett",
+            "source": "generated",
+            "content_sha256": "43a765505f452846f47bf05a81c9fe8f847fa95fcfbe36ec5002d7fee795cb8d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uriktig, gal",
+      "translation": "incorrect, wrong",
+      "examples": [
+        {
+          "no": "havne på urett sted",
+          "en": "end up in the wrong place"
+        },
+        {
+          "no": "svare urett",
+          "en": "answer incorrectly"
+        }
+      ]
+    },
+    {
+      "text": "ulovlig",
+      "translation": "blameworthy",
+      "examples": [
+        {
+          "no": "en umoralsk og urett handling",
+          "en": "an immoral and unlawful act"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_article_id": 57967,
+  "lemmas": [
+    {
+      "lemma": "stykkevis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 66378,
+      "is_sub_article": false,
+      "primary_translation": "piece by piece",
+      "word_forms": [
+        {
+          "word_form": "stykkevis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stY$k@$%vi:s",
+              "ipa": "ˈstʏkəˌvɪːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stykkevise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈʏkəʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "35fd71aebf38.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/35fd71aebf38.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/35fd71aebf38.mp3",
+            "text": "stykkevis",
+            "source": "generated",
+            "content_sha256": "72794c3a8796860dd0a367239b339851fa3a260870d536dd69272b053207811d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stykke for stykke",
+      "translation": "piece by piece",
+      "examples": []
+    },
+    {
+      "text": "trinnvis, gradvis",
+      "translation": "step by step, gradually",
+      "examples": [
+        {
+          "no": "en stykkevis prosess",
+          "en": "a piecemeal process"
+        },
+        {
+          "no": "en stykkesvis regulering",
+          "en": "piecemeal regulation"
+        },
+        {
+          "no": "stykkevis var veien bar",
+          "en": "here and there the road was bare"
+        },
+        {
+          "no": "bære mursteinene opp stykkevis",
+          "en": "carry the bricks up bit by bit"
+        }
+      ]
+    }
+  ]
+}

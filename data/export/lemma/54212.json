@@ -1,0 +1,140 @@
+{
+  "source_article_id": 54212,
+  "lemmas": [
+    {
+      "lemma": "slakk",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 62495,
+      "is_sub_article": false,
+      "primary_translation": "slack (rope) / leeway",
+      "word_forms": [
+        {
+          "word_form": "slakk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SlAk",
+              "ipa": "ˈʃlɑk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slakken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SlA$k@n",
+              "ipa": "ˈʃlɑkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slakker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SlA$k@r",
+              "ipa": "ˈʃlɑkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "slakkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SlA$k@$n@",
+              "ipa": "ˈʃlɑkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1bded93dbb77.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1bded93dbb77.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1bded93dbb77.mp3",
+            "text": "slakk",
+            "source": "generated",
+            "content_sha256": "c1b01557304fe17f14ceecc0c500c8040954ba5df29f1e00655e0647888100c4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "del av tau eller lignende som henger slapt (i en bue)",
+      "translation": "part of a rope that hangs loosely (in a curve)",
+      "examples": [
+        {
+          "no": "hale inn slakken",
+          "en": "haul in the slack"
+        },
+        {
+          "no": "du må ha litt slakk i snøret",
+          "en": "you need to have a little slack in the line"
+        }
+      ]
+    },
+    {
+      "text": "fritaking, ettergivelse",
+      "translation": "exemption, concession",
+      "examples": [
+        {
+          "no": "alle fortjener litt slakk iblant",
+          "en": "everyone deserves a little slack now and then"
+        },
+        {
+          "no": "gi ungene litt slakk",
+          "en": "cut the kids a little slack"
+        }
+      ]
+    }
+  ]
+}

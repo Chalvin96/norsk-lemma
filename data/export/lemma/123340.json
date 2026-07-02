@@ -1,0 +1,127 @@
+{
+  "source_article_id": 123340,
+  "lemmas": [
+    {
+      "lemma": "kursopplegg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 118024,
+      "is_sub_article": false,
+      "primary_translation": "course plan",
+      "word_forms": [
+        {
+          "word_form": "kursopplegg",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:$s`O$%plEg",
+              "ipa": "ˈkʉːʂɔˌplɛg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kursopplegget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:$s`O$%plE$g@",
+              "ipa": "ˈkʉːʂɔˌplɛgə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kursopplegga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉːʂɔplˌɛgɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kursoppleggene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈʉːʂɔplˌɛgənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cde635af5e57.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cde635af5e57.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cde635af5e57.mp3",
+            "text": "kursopplegg",
+            "source": "generated",
+            "content_sha256": "248a1c423d0e627e09dedc41570c055b626ec0f977d291299937311a1e73698c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "plan for innhold og undervisning på et kurs",
+      "translation": "plan for content and teaching in a course",
+      "examples": [
+        {
+          "no": "studentene tester ut det nye kursopplegget",
+          "en": "the students are trying out the new course format"
+        }
+      ]
+    }
+  ]
+}

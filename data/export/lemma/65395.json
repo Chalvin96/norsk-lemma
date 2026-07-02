@@ -1,0 +1,100 @@
+{
+  "source_article_id": 65395,
+  "lemmas": [
+    {
+      "lemma": "utilbørlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74990,
+      "is_sub_article": false,
+      "primary_translation": "improper",
+      "word_forms": [
+        {
+          "word_form": "utilbørlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$tIl$\"b2:$l`I",
+              "ipa": "ʉtɪlˈbøːɭɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utilbørlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$tIl$\"b2:$l`I$@",
+              "ipa": "ʉtɪlˈbøːɭɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "626c3343a7bb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/626c3343a7bb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/626c3343a7bb.mp3",
+            "text": "utilbørlig",
+            "source": "generated",
+            "content_sha256": "c151c12ca49f877d7bf987d52360245148b5476894513deebab799f4cfc223b3",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke passer eller er rett",
+      "translation": "that is not fitting or right",
+      "examples": []
+    },
+    {
+      "text": "upassende, uriktig, urimelig",
+      "translation": "inappropriate, incorrect, unreasonable",
+      "examples": [
+        {
+          "no": "oppføre seg utilbørlig",
+          "en": "behave improperly"
+        },
+        {
+          "no": "utilbørlig reklame",
+          "en": "improper advertising"
+        },
+        {
+          "no": "ta utilbørlig høye priser",
+          "en": "charge unreasonably high prices"
+        }
+      ]
+    }
+  ]
+}

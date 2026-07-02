@@ -1,0 +1,150 @@
+{
+  "source_article_id": 11322,
+  "lemmas": [
+    {
+      "lemma": "dynamikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 13187,
+      "is_sub_article": false,
+      "primary_translation": "dynamics / drive",
+      "word_forms": [
+        {
+          "word_form": "dynamikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dY$nA$\"mIk",
+              "ipa": "dʏnɑˈmɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dynamikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dY$nA$\"mI$k@n",
+              "ipa": "dʏnɑˈmɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dynamikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dʏnɑmˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dynamikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dʏnɑmˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1528cf7c87b3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1528cf7c87b3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1528cf7c87b3.mp3",
+            "text": "dynamikk",
+            "source": "generated",
+            "content_sha256": "76b744dea718758facb96d7dea97fbac339d3cf68e4414fee79f1fa14a65686f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i fysikk: lære om sammenhengen mellom bevegelse og kraft",
+      "translation": "in physics: the study of the relationship between motion and force",
+      "examples": []
+    },
+    {
+      "text": "jamfør kinematikk",
+      "translation": "cf. kinematics",
+      "examples": []
+    },
+    {
+      "text": "lære om styrkegradene i musikk og hvordan en bruker dem",
+      "translation": "the study of the gradations of strength in music and how they are used",
+      "examples": [
+        {
+          "no": "framføringen hadde fine nyanseringer i dynamikk og tempo",
+          "en": "the performance had fine nuances in dynamics and tempo"
+        }
+      ]
+    },
+    {
+      "text": "handlekraft, energi, driv",
+      "translation": "drive, energy, momentum",
+      "examples": [
+        {
+          "no": "systemets indre dynamikk",
+          "en": "the system's internal dynamics"
+        },
+        {
+          "no": "spillets dynamikk",
+          "en": "the game's dynamics"
+        }
+      ]
+    }
+  ]
+}

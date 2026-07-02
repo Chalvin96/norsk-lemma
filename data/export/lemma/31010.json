@@ -1,0 +1,82 @@
+{
+  "source_article_id": 31010,
+  "lemmas": [
+    {
+      "lemma": "komorisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 36521,
+      "is_sub_article": false,
+      "primary_translation": "Comorian",
+      "word_forms": [
+        {
+          "word_form": "komorisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"mu:$rI$sk",
+              "ipa": "kʊˈmuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "komoriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"mu:$rI$sk@",
+              "ipa": "kʊˈmuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "765d4c173fe3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/765d4c173fe3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/765d4c173fe3.mp3",
+            "text": "komorisk",
+            "source": "generated",
+            "content_sha256": "f42551fb2cc9741634dda7ebe139bdd686db0eb750f8562500a815e6ee68db32",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Komorene og komorere",
+      "translation": "relating to the Comoros and Comorians",
+      "examples": []
+    }
+  ]
+}

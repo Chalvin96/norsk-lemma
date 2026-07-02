@@ -1,0 +1,103 @@
+{
+  "source_article_id": 64029,
+  "lemmas": [
+    {
+      "lemma": "ukevis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2129993,
+      "is_sub_article": false,
+      "primary_translation": "weekly / for weeks",
+      "word_forms": [
+        {
+          "word_form": "ukevis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$k@$%vi:s",
+              "ipa": "ˈʉːkəˌvɪːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ukevise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːkəʋˌiːsə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f0896b00230c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f0896b00230c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f0896b00230c.mp3",
+            "text": "ukevis",
+            "source": "generated",
+            "content_sha256": "16f26464317a26f257d8d33be79a42db7dac6a2bac2db84161e3333ba5f8dca7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hender hver uke",
+      "translation": "happening every week",
+      "examples": [
+        {
+          "no": "ukevise møter",
+          "en": "weekly meetings"
+        }
+      ]
+    },
+    {
+      "text": "brukt som substantiv: mange uker",
+      "translation": "for many weeks",
+      "examples": [
+        {
+          "no": "være syk i ukevis",
+          "en": "be sick for weeks"
+        },
+        {
+          "no": "jeg har ikke sett henne på ukevis",
+          "en": "I haven't seen her in weeks"
+        }
+      ]
+    }
+  ]
+}

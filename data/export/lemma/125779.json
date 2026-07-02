@@ -1,0 +1,167 @@
+{
+  "source_article_id": 125779,
+  "lemmas": [
+    {
+      "lemma": "pålogget",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2845129,
+      "is_sub_article": false,
+      "primary_translation": "logged in",
+      "word_forms": [
+        {
+          "word_form": "pålogget",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%lO$g@t",
+              "ipa": "ˈpoːˌlɔgət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "påloggete",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈoːlˌɔgətə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "påloggede",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈoːlˌɔgədə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "72abac20e98b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/72abac20e98b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/72abac20e98b.mp3",
+            "text": "pålogget",
+            "source": "generated",
+            "content_sha256": "d0b0f44026d00fb4f377baef8d0376c8f728b9b61f1b6d28f0adbe21ab4c7d14",
+            "tone": 1
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "pålogga",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2845130,
+      "is_sub_article": false,
+      "primary_translation": "logged in",
+      "word_forms": [
+        {
+          "word_form": "pålogga",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "pˈoːlˌɔgɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a1454235456d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1454235456d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1454235456d.mp3",
+            "text": "pålogga",
+            "source": "generated",
+            "content_sha256": "6295caf6b49bef109fa57f9530e053c687ab271acb231eeb591446695e1a1a0f"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har forbindelse med datamaskin, dataprogram eller lignende",
+      "translation": "having a connection to a computer, computer program, or similar",
+      "examples": [
+        {
+          "no": "han var nesten alltid pålogget",
+          "en": "he was almost always logged in"
+        },
+        {
+          "no": "påloggede brukere",
+          "en": "logged-in users"
+        }
+      ]
+    }
+  ]
+}

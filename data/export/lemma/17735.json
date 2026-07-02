@@ -1,0 +1,87 @@
+{
+  "source_article_id": 17735,
+  "lemmas": [
+    {
+      "lemma": "frekvent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 20644,
+      "is_sub_article": false,
+      "primary_translation": "frequent",
+      "word_forms": [
+        {
+          "word_form": "frekvent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fr@$\"kvEnt",
+              "ipa": "frəˈkvɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "frekvente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fr@$\"kvEn$t@",
+              "ipa": "frəˈkvɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "469cfe4ab1ee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/469cfe4ab1ee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/469cfe4ab1ee.mp3",
+            "text": "frekvent",
+            "source": "generated",
+            "content_sha256": "7ffed48b7d1652e62c6fd07c3896d7d3403a6f381b6876974a0aa44e8b4ac0f5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fins eller skjer ofte",
+      "translation": "that occurs often",
+      "examples": [
+        {
+          "no": "ordet er lite frekvent",
+          "en": "the word is infrequent"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "source_article_id": 5267,
+  "lemmas": [
+    {
+      "lemma": "benjamin",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 6195,
+      "is_sub_article": false,
+      "primary_translation": "Benjamin (youngest/darling)",
+      "word_forms": [
+        {
+          "word_form": "benjamin",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bEn$jA$%mi:n",
+              "ipa": "ˈbɛnjɑˌmɪːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "benjaminen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bEn$jA$%mi:$nn=",
+              "ipa": "ˈbɛnjɑˌmɪːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "benjaminer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bEn$jA$%mi:$n@r",
+              "ipa": "ˈbɛnjɑˌmɪːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "benjaminene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bEn$jA$%mi:$nn=$@",
+              "ipa": "ˈbɛnjɑˌmɪːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8525dff51840.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8525dff51840.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8525dff51840.mp3",
+            "text": "benjamin",
+            "source": "generated",
+            "content_sha256": "f125cdae192f46fd376625262c2294fe0ffc985bfecffc04427c76e4ed418eca",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "yngstemann, yndling",
+      "translation": "youngest child, darling",
+      "examples": [
+        {
+          "no": "landslagets benjamin",
+          "en": "the national team's youngest player"
+        }
+      ]
+    }
+  ]
+}

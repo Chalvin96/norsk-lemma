@@ -1,0 +1,102 @@
+{
+  "source_article_id": 65450,
+  "lemmas": [
+    {
+      "lemma": "utkjørt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75060,
+      "is_sub_article": false,
+      "primary_translation": "exhausted / worn out / driven out",
+      "word_forms": [
+        {
+          "word_form": "utkjørt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%C2:t`",
+              "ipa": "ˈʉːtˌçøːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "utkjørte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"}:t$%C2:$t`@",
+              "ipa": "ˈʉːtˌçøːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ba5f448cbd68.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba5f448cbd68.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba5f448cbd68.mp3",
+            "text": "utkjørt",
+            "source": "generated",
+            "content_sha256": "586edee6d4c0b041d02f48cf75674a8c57b02fd9c9084e0bce3586282e255b97",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utmattet av anstrengelse",
+      "translation": "exhausted from exertion",
+      "examples": []
+    },
+    {
+      "text": "utslitt",
+      "translation": "worn out",
+      "examples": [
+        {
+          "no": "han var utkjørt etter den lange turen",
+          "en": "he was exhausted after the long trip"
+        }
+      ]
+    },
+    {
+      "text": "som er kjørt ut",
+      "translation": "that has been driven out",
+      "examples": [
+        {
+          "no": "utkjørte varer",
+          "en": "delivered goods"
+        }
+      ]
+    }
+  ]
+}

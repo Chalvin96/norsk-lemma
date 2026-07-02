@@ -1,0 +1,132 @@
+{
+  "source_article_id": 61474,
+  "lemmas": [
+    {
+      "lemma": "tonefall",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70316,
+      "is_sub_article": false,
+      "primary_translation": "intonation / accent",
+      "word_forms": [
+        {
+          "word_form": "tonefall",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tu:$n@$%fAl",
+              "ipa": "ˈtuːnəˌfɑl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tonefallet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tu:$n@$%fA$l@",
+              "ipa": "ˈtuːnəˌfɑlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tonefalla",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tu:$n@$%fA$lA",
+              "ipa": "ˈtuːnəˌfɑlɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "tonefallene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tu:$n@$%fA$ln=$@",
+              "ipa": "ˈtuːnəˌfɑln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "396d843fb7da.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396d843fb7da.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396d843fb7da.mp3",
+            "text": "tonefall",
+            "source": "generated",
+            "content_sha256": "a048830089bcc48c81cb3006122a07d060dc99f0f7938462e90e857801e39ddb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skifte i tonehøyde gjennom et ord eller en ytring",
+      "translation": "change in pitch through a word or utterance",
+      "examples": []
+    },
+    {
+      "text": "aksent, intonasjon",
+      "translation": "accent, intonation",
+      "examples": [
+        {
+          "no": "hun sa det i et muntert tonefall",
+          "en": "she said it in a cheerful tone"
+        },
+        {
+          "no": "et trøndersk tonefall",
+          "en": "a Trondelag intonation"
+        }
+      ]
+    }
+  ]
+}

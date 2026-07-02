@@ -1,0 +1,115 @@
+{
+  "source_article_id": 68637,
+  "lemmas": [
+    {
+      "lemma": "vinøs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 79240,
+      "is_sub_article": false,
+      "primary_translation": "vinous",
+      "word_forms": [
+        {
+          "word_form": "vinøs",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vI$\"n2:s",
+              "ipa": "vɪˈnøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vinøse",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vI$\"n2:$s@",
+              "ipa": "vɪˈnøːsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vinøst",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vI$\"n2:$st",
+              "ipa": "vɪˈnøːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d188f37078f9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d188f37078f9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d188f37078f9.mp3",
+            "text": "vinøs",
+            "source": "generated",
+            "content_sha256": "0c14adbe136033d1b4d6193bd39e206d62eccdfec8dacc3e81256c6c43933a0c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller er karakteristisk for vin",
+      "translation": "relating to or characteristic of wine",
+      "examples": []
+    },
+    {
+      "text": "som minner om vin",
+      "translation": "reminiscent of wine",
+      "examples": [
+        {
+          "no": "vinøs aroma",
+          "en": "vinous aroma"
+        },
+        {
+          "no": "et syrlig og vinøst øl",
+          "en": "a tart, vinous beer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 27026,
+  "lemmas": [
+    {
+      "lemma": "intervokalisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32131,
+      "is_sub_article": false,
+      "primary_translation": "intervocalic",
+      "word_forms": [
+        {
+          "word_form": "intervokalisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$t@r$vU$%kA:$lI$sk",
+              "ipa": "ˈɪntərvʊˌkɑːlɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "intervokaliske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$t@r$vU$%kA:$lI$sk@",
+              "ipa": "ˈɪntərvʊˌkɑːlɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0d5d78f81732.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d5d78f81732.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0d5d78f81732.mp3",
+            "text": "intervokalisk",
+            "source": "generated",
+            "content_sha256": "3b7a788d2f12cd3ee5a94d1a73d416ed1cde1696f13c603f4e2e039b42664034",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som står mellom to vokaler",
+      "translation": "standing between two vowels",
+      "examples": [
+        {
+          "no": "en intervokalisk konsonant",
+          "en": "an intervocalic consonant"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "source_article_id": 21979,
+  "lemmas": [
+    {
+      "lemma": "halofil",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25674,
+      "is_sub_article": false,
+      "primary_translation": "living in salty environments",
+      "word_forms": [
+        {
+          "word_form": "halofil",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$lU$\"fi:l",
+              "ipa": "hɑlʊˈfɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "halofile",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$lU$\"fi:$l@",
+              "ipa": "hɑlʊˈfɪːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "halofilt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hA$lU$\"fi:lt",
+              "ipa": "hɑlʊˈfɪːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "06db44c28a6a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/06db44c28a6a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/06db44c28a6a.mp3",
+            "text": "halofil",
+            "source": "generated",
+            "content_sha256": "dce1a762c5bc2fcd725e369942ed5d83995ce7fc2da92922c04d982e3da588df",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om plante eller annen organisme: som lever i saltvann eller i saltrik jord",
+      "translation": "of a plant or other organism: living in saltwater or salty soil",
+      "examples": [
+        {
+          "no": "halofile planter",
+          "en": "halophilic plants"
+        },
+        {
+          "no": "halofile bakterier",
+          "en": "halophilic bacteria"
+        }
+      ]
+    }
+  ]
+}

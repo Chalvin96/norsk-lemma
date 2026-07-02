@@ -1,0 +1,123 @@
+{
+  "source_article_id": 110621,
+  "lemmas": [
+    {
+      "lemma": "brevpost",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 91968,
+      "is_sub_article": false,
+      "primary_translation": "letter post",
+      "word_forms": [
+        {
+          "word_form": "brevpost",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"bre:v$%pO$st",
+              "ipa": "ˈbreːvˌpɔst",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brevposten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈeːʋpˌɔstn̩",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brevposter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈeːʋpˌɔstər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "brevpostene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "brˈeːʋpˌustn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a845300db690.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a845300db690.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a845300db690.mp3",
+            "text": "brevpost",
+            "source": "generated",
+            "content_sha256": "d737a1096796f93b3d4c28760967603c29505786b9f02acdd203ad977a17b991",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "postsending i form av brev",
+      "translation": "mail sent in the form of letters",
+      "examples": []
+    }
+  ]
+}

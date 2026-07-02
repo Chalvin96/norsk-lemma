@@ -1,0 +1,130 @@
+{
+  "source_article_id": 54064,
+  "lemmas": [
+    {
+      "lemma": "skytteltrafikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62329,
+      "is_sub_article": false,
+      "primary_translation": "shuttle traffic",
+      "word_forms": [
+        {
+          "word_form": "skytteltrafikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SY$tl=$trA$%fIk",
+              "ipa": "ˈʃʏtl̩trɑˌfɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skytteltrafikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SY$tl=$trA$%fI$k@n",
+              "ipa": "ˈʃʏtl̩trɑˌfɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "skytteltrafikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈʏtl̩trɑfˌɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "skytteltrafikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃˈʏtl̩trɑfˌɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "48f992f20205.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48f992f20205.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/48f992f20205.mp3",
+            "text": "skytteltrafikk",
+            "source": "generated",
+            "content_sha256": "7997fb40a2a00aa6ebfdebe82a113012b3cf21db00d496e8ca52ee1650bc52d5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "trafikk som ustanselig går fram og tilbake",
+      "translation": "traffic that constantly goes back and forth",
+      "examples": [
+        {
+          "no": "bussene kjørte i skytteltrafikk hele dagen",
+          "en": "the buses ran a shuttle service all day"
+        },
+        {
+          "no": "han går i skytteltrafikk mellom kjøkken og vaskerom",
+          "en": "he keeps shuttling between the kitchen and the laundry room"
+        }
+      ]
+    }
+  ]
+}

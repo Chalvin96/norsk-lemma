@@ -1,0 +1,111 @@
+{
+  "source_article_id": 47511,
+  "lemmas": [
+    {
+      "lemma": "rasjonal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54580,
+      "is_sub_article": false,
+      "primary_translation": "rational / expressible as a fraction",
+      "word_forms": [
+        {
+          "word_form": "rasjonal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rA$SU$\"nA:l",
+              "ipa": "rɑʃʊˈnɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rasjonale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rA$SU$\"nA:$l@",
+              "ipa": "rɑʃʊˈnɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rasjonalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "rA$SU$\"nA:lt",
+              "ipa": "rɑʃʊˈnɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "004fd855724d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/004fd855724d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/004fd855724d.mp3",
+            "text": "rasjonal",
+            "source": "generated",
+            "content_sha256": "0dad56a5332272505f822c5011191bf064c76a841027e0163aea5959a5532917",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i matematikk: som lar seg uttrykke ved hele tall eller brøker",
+      "translation": "expressible as a whole number or fraction",
+      "examples": []
+    },
+    {
+      "text": "motsatt irrasjonal",
+      "translation": "irrational",
+      "examples": [
+        {
+          "no": "rasjonale tall",
+          "en": "rational numbers"
+        }
+      ]
+    }
+  ]
+}

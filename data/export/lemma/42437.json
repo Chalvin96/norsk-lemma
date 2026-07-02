@@ -1,0 +1,92 @@
+{
+  "source_article_id": 42437,
+  "lemmas": [
+    {
+      "lemma": "oppglødd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49585,
+      "is_sub_article": false,
+      "primary_translation": "enthusiastic / on fire",
+      "word_forms": [
+        {
+          "word_form": "oppglødd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%gl9d",
+              "ipa": "ˈɔpˌglœd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oppglødde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%gl9$d@",
+              "ipa": "ˈɔpˌglœdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fc45c2e5ebd7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc45c2e5ebd7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fc45c2e5ebd7.mp3",
+            "text": "oppglødd",
+            "source": "generated",
+            "content_sha256": "5042a305cabb72d3876373a15759e135293745ea1983272e2b183c5100c51050",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "begeistret",
+      "translation": "enthusiastic",
+      "examples": []
+    },
+    {
+      "text": "i fyr og flamme",
+      "translation": "on fire",
+      "examples": [
+        {
+          "no": "være oppglødd av en sak",
+          "en": "be fired up about a cause"
+        }
+      ]
+    }
+  ]
+}

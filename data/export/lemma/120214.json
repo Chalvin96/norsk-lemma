@@ -1,0 +1,129 @@
+{
+  "source_article_id": 120214,
+  "lemmas": [
+    {
+      "lemma": "kontaktledd",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 115812,
+      "is_sub_article": false,
+      "primary_translation": "contact person",
+      "word_forms": [
+        {
+          "word_form": "kontaktledd",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"tAkt$%lEd",
+              "ipa": "kʊnˈtɑktˌlɛd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kontaktleddet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kuntˈɑktlˌɛdə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kontaktledda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kuntˈɑktlˌɛdɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kontaktleddene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kuntˈɑktlˌɛdn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "536dffd5debd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/536dffd5debd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/536dffd5debd.mp3",
+            "text": "kontaktledd",
+            "source": "generated",
+            "content_sha256": "9504a1d1d78f97375a432a893d382326fc6021d7c24bc99343975bd4fa35d694",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mellomledd som formidler kontakt",
+      "translation": "intermediary that facilitates contact",
+      "examples": [
+        {
+          "no": "være kontaktledd mellom utleier og leietaker",
+          "en": "serve as a liaison between landlord and tenant"
+        }
+      ]
+    }
+  ]
+}

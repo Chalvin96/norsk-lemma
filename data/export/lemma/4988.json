@@ -1,0 +1,200 @@
+{
+  "source_article_id": 4988,
+  "lemmas": [
+    {
+      "lemma": "begå",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 5840,
+      "is_sub_article": false,
+      "primary_translation": "commit / carry out",
+      "word_forms": [
+        {
+          "word_form": "begå",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"go:",
+              "ipa": "bəˈgoː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "begår",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"go:r",
+              "ipa": "bəˈgoːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "begås",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"go:s",
+              "ipa": "bəˈgoːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "begikk",
+          "tags_json": [
+            "verb",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"jIk",
+              "ipa": "bəˈjɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "begått",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"gOt",
+              "ipa": "bəˈgɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "begåtte",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"gO$t@",
+              "ipa": "bəˈgɔtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "begående",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"go:$@$n@",
+              "ipa": "bəˈgoːənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e655f50415c2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e655f50415c2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e655f50415c2.mp3",
+            "text": "begå",
+            "source": "generated",
+            "content_sha256": "fa9ce2d2ab6e483126b3ce7fa0c55aec7b16ce60761fc91d3e631e13f1d0633c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjøre seg skyldig i",
+      "translation": "make oneself guilty of",
+      "examples": []
+    },
+    {
+      "text": "utøve",
+      "translation": "exercise",
+      "examples": []
+    },
+    {
+      "text": "utføre",
+      "translation": "carry out",
+      "examples": [
+        {
+          "no": "begå selvmord",
+          "en": "commit suicide"
+        },
+        {
+          "no": "begå en dumhet",
+          "en": "do something stupid"
+        },
+        {
+          "no": "folk som begår straffbare handlinger",
+          "en": "people who commit criminal acts"
+        },
+        {
+          "no": "rusavhengige som begår kriminalitet",
+          "en": "drug addicts who commit crimes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "source_article_id": 27733,
+  "lemmas": [
+    {
+      "lemma": "jobb",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 32898,
+      "is_sub_article": false,
+      "primary_translation": "job / work / task",
+      "word_forms": [
+        {
+          "word_form": "jobb",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jOb",
+              "ipa": "ˈjɔb",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "jobben",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jO$b@n",
+              "ipa": "ˈjɔbən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "jobber",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jO$b@r",
+              "ipa": "ˈjɔbər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "jobbene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jO$b@$n@",
+              "ipa": "ˈjɔbənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cf29044d90c7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf29044d90c7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cf29044d90c7.mp3",
+            "text": "jobb",
+            "source": "generated",
+            "content_sha256": "b032feca1d1a28e4c9f3e4d719c5ac9c9ae85bd503fe45c59355fac4124ef647",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lønnet virksomhet",
+      "translation": "paid employment",
+      "examples": [
+        {
+          "no": "få seg jobb",
+          "en": "get a job"
+        },
+        {
+          "no": "skifte jobb",
+          "en": "change jobs"
+        },
+        {
+          "no": "gå på jobb",
+          "en": "go to work"
+        }
+      ]
+    },
+    {
+      "text": "sted der en jobber",
+      "translation": "place where one works",
+      "examples": [
+        {
+          "no": "jeg har glemt veska mi på jobben",
+          "en": "I forgot my bag at work"
+        }
+      ]
+    },
+    {
+      "text": "oppgave",
+      "translation": "task",
+      "examples": []
+    },
+    {
+      "text": "strev",
+      "translation": "effort",
+      "examples": [
+        {
+          "no": "det er din jobb",
+          "en": "that's your job"
+        },
+        {
+          "no": "gjøre en god jobb",
+          "en": "do a good job"
+        },
+        {
+          "no": "det ble litt av en jobb",
+          "en": "it turned into quite a job"
+        },
+        {
+          "no": "få jobben med å rydde opp",
+          "en": "get the job of cleaning up"
+        }
+      ]
+    }
+  ]
+}

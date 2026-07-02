@@ -1,0 +1,122 @@
+{
+  "source_article_id": 30802,
+  "lemmas": [
+    {
+      "lemma": "kolikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36281,
+      "is_sub_article": false,
+      "primary_translation": "colic",
+      "word_forms": [
+        {
+          "word_form": "kolikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"lIk",
+              "ipa": "kʊˈlɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kolikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"lI$k@n",
+              "ipa": "kʊˈlɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kolikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"lI$k@r",
+              "ipa": "kʊˈlɪkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kolikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"lI$k@$n@",
+              "ipa": "kʊˈlɪkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "086486361e7d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/086486361e7d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/086486361e7d.mp3",
+            "text": "kolikk",
+            "source": "generated",
+            "content_sha256": "00f17284f5d9d5e272234306a8f1c8eb4a81b87bd0844c12c65b48b3da42a231",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "krampelignende magesmerte som kommer som anfall",
+      "translation": "cramp-like abdominal pain that occurs in attacks",
+      "examples": [
+        {
+          "no": "et spedbarn med kolikk",
+          "en": "an infant with colic"
+        }
+      ]
+    }
+  ]
+}

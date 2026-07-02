@@ -1,0 +1,126 @@
+{
+  "source_article_id": 112567,
+  "lemmas": [
+    {
+      "lemma": "driver",
+      "hgno": 2,
+      "pos": "NOUN",
+      "source_lemma_id": 12758,
+      "is_sub_article": false,
+      "primary_translation": "computer driver",
+      "word_forms": [
+        {
+          "word_form": "driver",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dri:$v@r",
+              "ipa": "ˈdrɪːvər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "driveren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dri:$v@n`",
+              "ipa": "ˈdrɪːvəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "drivere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dri:$v@$r@",
+              "ipa": "ˈdrɪːvərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "driverne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dri:$v@$n`@",
+              "ipa": "ˈdrɪːvəɳə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "320a2bd3106c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/320a2bd3106c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/320a2bd3106c.mp3",
+            "text": "driver",
+            "source": "generated",
+            "content_sha256": "5f32856d7f941552a8d3849b0a3d39a9984f2e349adc5646e8c944ed762c17d1",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dataprogram som gjør det mulig for programvare til en datamaskin å hente informasjon fra eksterne enheter som tastatur, mus, skriver eller lignende",
+      "translation": "computer program that enables software to retrieve information from external devices like a keyboard, mouse, printer, or similar",
+      "examples": [
+        {
+          "no": "søke etter drivere og produktinformasjon på internett",
+          "en": "search for drivers and product information on the internet"
+        },
+        {
+          "no": "installere drivere",
+          "en": "install drivers"
+        }
+      ]
+    }
+  ]
+}

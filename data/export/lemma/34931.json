@@ -1,0 +1,79 @@
+{
+  "source_article_id": 34931,
+  "lemmas": [
+    {
+      "lemma": "less",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 40651,
+      "is_sub_article": false,
+      "primary_translation": "pretend",
+      "word_forms": [
+        {
+          "word_form": "less",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pres",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lEs",
+              "ipa": "ˈlɛs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "238a61f6710a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/238a61f6710a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/238a61f6710a.mp3",
+            "text": "less",
+            "source": "generated",
+            "content_sha256": "62ef5aa38336e23404f3c7fcfd46347793922c3b28793db0f0aac71f621a90af",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "te seg som",
+      "translation": "behave like",
+      "examples": []
+    },
+    {
+      "text": "gi seg ut for å være noe",
+      "translation": "pretend to be something",
+      "examples": []
+    },
+    {
+      "text": "late (som om)",
+      "translation": "pretend (to be)",
+      "examples": [
+        {
+          "no": "han less ikke se",
+          "en": "he pretends not to see"
+        },
+        {
+          "no": "hun less som hun var syk",
+          "en": "she pretended to be sick"
+        }
+      ]
+    }
+  ]
+}

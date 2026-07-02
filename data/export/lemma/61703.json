@@ -1,0 +1,160 @@
+{
+  "source_article_id": 61703,
+  "lemmas": [
+    {
+      "lemma": "trafikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70573,
+      "is_sub_article": false,
+      "primary_translation": "traffic / activity / shady business",
+      "word_forms": [
+        {
+          "word_form": "trafikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$\"fIk",
+              "ipa": "trɑˈfɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "trafikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$\"fI$k@n",
+              "ipa": "trɑˈfɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "trafikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "trA$fI$\"ke:r",
+              "ipa": "trɑfɪˈkeːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "trafikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trɑfˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f4fd88073a20.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4fd88073a20.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4fd88073a20.mp3",
+            "text": "trafikk",
+            "source": "generated",
+            "content_sha256": "5f0c022c1a5c425872a1151de18adf13b407c094e40af93ba9b59c03295ff45f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "strøm av kjøretøy eller fotgjengere på vei eller gate, av tog på jernbanelinje, av båter på sjøen, av fly i luftfart m.m.",
+      "translation": "flow of vehicles or pedestrians on a road or street, of trains on a railway line, of boats on the sea, of aircraft in aviation, etc.",
+      "examples": [
+        {
+          "no": "en politibetjent dirigerte trafikken",
+          "en": "a police officer directed the traffic"
+        },
+        {
+          "no": "bruke radarstyrte trafikklys for å avvikle trafikken",
+          "en": "use radar-controlled traffic lights to keep the traffic moving"
+        },
+        {
+          "no": "han var ikke tilstrekkelig oppmerksom på møtende trafikk",
+          "en": "he was not sufficiently attentive to oncoming traffic"
+        },
+        {
+          "no": "det er stor trafikk ute på fjorden",
+          "en": "there is heavy traffic out on the fjord"
+        }
+      ]
+    },
+    {
+      "text": "det å sende eller frakte noe",
+      "translation": "the sending of freight",
+      "examples": [
+        {
+          "no": "livlig trafikk på torget",
+          "en": "lively traffic in the square"
+        },
+        {
+          "no": "det har vært stor trafikk på foreningens nettsider",
+          "en": "there has been heavy traffic on the association's website"
+        }
+      ]
+    },
+    {
+      "text": "lyssky virksomhet",
+      "translation": "shady business",
+      "examples": []
+    },
+    {
+      "text": "jamfør gatetrafikk",
+      "translation": "street traffic",
+      "examples": []
+    }
+  ]
+}

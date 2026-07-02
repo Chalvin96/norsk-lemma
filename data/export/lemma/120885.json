@@ -1,0 +1,165 @@
+{
+  "source_article_id": 120885,
+  "lemmas": [
+    {
+      "lemma": "kvalitetssikret",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168586,
+      "is_sub_article": false,
+      "primary_translation": "quality assured",
+      "word_forms": [
+        {
+          "word_form": "kvalitetssikret",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kvA$lI$\"te:t$%sI$kr@t",
+              "ipa": "kvɑlɪˈteːtˌsɪkrət",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kvalitetssikrete",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋɑlɪtˈeːtsˌɪkrətə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kvalitetssikrede",
+          "tags_json": [
+            "a4",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kvA$lI$\"te:ts$%sI$kr@$d@",
+              "ipa": "kvɑlɪˈteːtsˌsɪkrədə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b33980e64656.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b33980e64656.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b33980e64656.mp3",
+            "text": "kvalitetssikret",
+            "source": "generated",
+            "content_sha256": "e7b95c713ff5140142d88216e01c4a8d19ffa28960944e4bad3a04010845c04f",
+            "tone": 1
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "kvalitetssikra",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168587,
+      "is_sub_article": false,
+      "primary_translation": "quality assured",
+      "word_forms": [
+        {
+          "word_form": "kvalitetssikra",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋɑlɪtˈeːtsˌɪkrɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fb698c93c4ff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb698c93c4ff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb698c93c4ff.mp3",
+            "text": "kvalitetssikra",
+            "source": "generated",
+            "content_sha256": "890823e530f5c7aa5397a3f793d7fa648e9d6f1ba9ee30fe8ae0c0ba5e45e2ae"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har gjennomgått en kvalitetssikring",
+      "translation": "that has undergone quality assurance",
+      "examples": [
+        {
+          "no": "kvalitetssikret informasjon",
+          "en": "quality-assured information"
+        },
+        {
+          "no": "offisielle, kvalitetssikrede tall fra myndighetene",
+          "en": "official, quality-assured figures from the authorities"
+        }
+      ]
+    }
+  ]
+}

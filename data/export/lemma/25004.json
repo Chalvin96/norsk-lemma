@@ -1,0 +1,137 @@
+{
+  "source_article_id": 25004,
+  "lemmas": [
+    {
+      "lemma": "hyrde",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29519,
+      "is_sub_article": false,
+      "primary_translation": "shepherd / leader",
+      "word_forms": [
+        {
+          "word_form": "hyrde",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hYr$d@",
+              "ipa": "ˈhʏrdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hyrden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hYr$dn=",
+              "ipa": "ˈhʏrdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hyrder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hYr$d@r",
+              "ipa": "ˈhʏrdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hyrdene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hYr$dn=$@",
+              "ipa": "ˈhʏrdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cb9cc33594a6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cb9cc33594a6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cb9cc33594a6.mp3",
+            "text": "hyrde",
+            "source": "generated",
+            "content_sha256": "214a6e187827cbefa3be9eb711c4863e6733cad7180e5762aaedd695b793a60f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "eldre betegnelse for gjeter",
+      "translation": "older term for shepherd",
+      "examples": []
+    },
+    {
+      "text": "i bibelspråk: vokter",
+      "translation": "keeper",
+      "examples": [
+        {
+          "no": "Herren er min hyrde, jeg mangler ikke noe",
+          "en": "The Lord is my shepherd, I shall lack nothing"
+        }
+      ]
+    },
+    {
+      "text": "kirkelig leder",
+      "translation": "ecclesiastical leader",
+      "examples": [
+        {
+          "no": "presten er menighetens hyrde",
+          "en": "the priest is the shepherd of the congregation"
+        }
+      ]
+    }
+  ]
+}

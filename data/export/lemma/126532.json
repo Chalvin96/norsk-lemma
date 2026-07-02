@@ -1,0 +1,197 @@
+{
+  "source_article_id": 126532,
+  "lemmas": [
+    {
+      "lemma": "replikere",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 2188201,
+      "is_sub_article": false,
+      "primary_translation": "replicate / reproduce",
+      "word_forms": [
+        {
+          "word_form": "replikere",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rəplɪkərə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "replikerer",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rəplɪkərər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "replikeres",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rəplɪkˈeːrəs",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "replikerte",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rəplɪkˈeːʈə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "replikert",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rəplɪkˈeːʈ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "replikerende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rəplɪkˈeːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "repliker",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rəplɪkər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ce7fc228db1d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce7fc228db1d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ce7fc228db1d.mp3",
+            "text": "replikere",
+            "source": "generated",
+            "content_sha256": "a414a82e389602266ef86b42ed659837bdf2b44af2df5fa04024407286edd25a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "skape på nytt",
+      "translation": "to create anew",
+      "examples": []
+    },
+    {
+      "text": "gjenta, reprodusere",
+      "translation": "to repeat, to reproduce",
+      "examples": [
+        {
+          "no": "roboten kan replikere ny tekst ut fra store mengder data",
+          "en": "the robot can replicate new text based on large amounts of data"
+        },
+        {
+          "no": "i denne studien replikerte vi funn som var gjort tidligere",
+          "en": "in this study, we replicated findings that had been made earlier"
+        }
+      ]
+    }
+  ]
+}

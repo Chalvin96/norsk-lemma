@@ -1,0 +1,159 @@
+{
+  "source_article_id": 133909,
+  "lemmas": [
+    {
+      "lemma": "utenlandsfødt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2981837,
+      "is_sub_article": false,
+      "primary_translation": "born abroad",
+      "word_forms": [
+        {
+          "word_form": "utenlandsfødt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$tn=$lAns$%f9t",
+              "ipa": "ˈʉːtn̩lɑnsˌfœt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "utenlandsfødte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$tn=$lAns$%f9$t@",
+              "ipa": "ˈʉːtn̩lɑnsˌfœtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43614df813ce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43614df813ce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43614df813ce.mp3",
+            "text": "utenlandsfødt",
+            "source": "generated",
+            "content_sha256": "fef4059898bf1816123c4134b03635e2d53326dd8046e348dc799fa42fec9bf8",
+            "tone": 2
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "utalandsfødt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2981842,
+      "is_sub_article": false,
+      "primary_translation": "born abroad",
+      "word_forms": [
+        {
+          "word_form": "utalandsfødt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːtɑlɑnsfˌœt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "utalandsfødte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉːtɑlɑnsfˌœtə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cb0c56eb783a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cb0c56eb783a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cb0c56eb783a.mp3",
+            "text": "utalandsfødt",
+            "source": "generated",
+            "content_sha256": "960cc233faeb2dc063aafeda89c578047b8c31d188cedf1eb41623315a00dcf9"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er født utenfor landet, men som bor og eventuelt er statsborger i landet",
+      "translation": "born outside the country, but living and possibly a citizen of the country",
+      "examples": [
+        {
+          "no": "mange nordmenn har minst én utenlandsfødt besteforelder",
+          "en": "many Norwegians have at least one foreign-born grandparent"
+        }
+      ]
+    }
+  ]
+}

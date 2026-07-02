@@ -1,0 +1,91 @@
+{
+  "source_article_id": 13688,
+  "lemmas": [
+    {
+      "lemma": "fallitt",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 15890,
+      "is_sub_article": false,
+      "primary_translation": "bankrupt / having gone bankrupt",
+      "word_forms": [
+        {
+          "word_form": "fallitt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"lIt",
+              "ipa": "fɑˈlɪt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fallitte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"lI$t@",
+              "ipa": "fɑˈlɪtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d049371d2d92.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d049371d2d92.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d049371d2d92.mp3",
+            "text": "fallitt",
+            "source": "generated",
+            "content_sha256": "53486e02ed12cd661ca591df1904cd3cf8cf6c7cfb4baed8284ec2b6018e7b38",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har gått fallitt",
+      "translation": "having gone bankrupt",
+      "examples": [
+        {
+          "no": "erklære seg fallitt",
+          "en": "declare bankruptcy"
+        },
+        {
+          "no": "firmaet er fallitt",
+          "en": "the company is bankrupt"
+        }
+      ]
+    }
+  ]
+}

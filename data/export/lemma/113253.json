@@ -1,0 +1,124 @@
+{
+  "source_article_id": 113253,
+  "lemmas": [
+    {
+      "lemma": "flyktningstrøm",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 98900,
+      "is_sub_article": false,
+      "primary_translation": "refugee flow",
+      "word_forms": [
+        {
+          "word_form": "flyktningstrøm",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flYkt$nIN$%str9m",
+              "ipa": "ˈflʏktnɪŋˌstrœm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flyktningstrømmen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flYkt$nIN$%str9$m@n",
+              "ipa": "ˈflʏktnɪŋˌstrœmən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flyktningstrømmer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flYkt$nIN$%str9$m@r",
+              "ipa": "ˈflʏktnɪŋˌstrœmər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flyktningstrømmene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "flˈʏktnɪŋstrˌœmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "060a9af74edc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/060a9af74edc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/060a9af74edc.mp3",
+            "text": "flyktningstrøm",
+            "source": "generated",
+            "content_sha256": "96535dfcc57e23f0b16b09f0c3154aad1b2a0a70c89588a5af30e63d37b1e8cd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "strøm av flyktninger",
+      "translation": "stream of refugees",
+      "examples": [
+        {
+          "no": "flyktningstrømmen til Europa",
+          "en": "the flow of refugees to Europe"
+        }
+      ]
+    }
+  ]
+}

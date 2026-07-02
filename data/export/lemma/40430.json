@@ -1,0 +1,147 @@
+{
+  "source_article_id": 40430,
+  "lemmas": [
+    {
+      "lemma": "ne",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47312,
+      "is_sub_article": false,
+      "primary_translation": "waning moon / opposite of new",
+      "word_forms": [
+        {
+          "word_form": "ne",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"E$%ne:",
+              "ipa": "ˈɛˌneː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "neet",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:$@",
+              "ipa": "ˈneːə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nea",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:$A",
+              "ipa": "ˈneːɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "neene",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:$@$n@",
+              "ipa": "ˈneːənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "neer",
+          "tags_json": [
+            "Neuter",
+            "n3",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ne:$@r",
+              "ipa": "ˈneːər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4e0c5d06090e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e0c5d06090e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4e0c5d06090e.mp3",
+            "text": "ne",
+            "source": "generated",
+            "content_sha256": "11166c9e9fb3e28015b75731ba21269b17207047fd9ecafba480df7fa38a0e6a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tid da månen er i avtakende",
+      "translation": "time when the moon is waning",
+      "examples": []
+    },
+    {
+      "text": "motsatt ny",
+      "translation": "opposite of new (moon phase)",
+      "examples": [
+        {
+          "no": "månen er i ne",
+          "en": "the moon is waning"
+        }
+      ]
+    }
+  ]
+}

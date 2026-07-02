@@ -1,0 +1,87 @@
+{
+  "source_article_id": 118172,
+  "lemmas": [
+    {
+      "lemma": "innfelt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167107,
+      "is_sub_article": false,
+      "primary_translation": "inlaid",
+      "word_forms": [
+        {
+          "word_form": "innfelt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%fElt",
+              "ipa": "ˈɪnˌfɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "innfelte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%fEl$t@",
+              "ipa": "ˈɪnˌfɛltə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "da36c113fc2c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/da36c113fc2c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/da36c113fc2c.mp3",
+            "text": "innfelt",
+            "source": "generated",
+            "content_sha256": "4f470c054df8bb32cfa2355f236e9c9152b873003f21a3b2f7a439967fa83bed",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er felle inn",
+      "translation": "that which is inlaid",
+      "examples": [
+        {
+          "no": "et skrin med innfelte steiner",
+          "en": "a box with inset stones"
+        }
+      ]
+    }
+  ]
+}

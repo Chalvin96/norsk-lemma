@@ -1,0 +1,127 @@
+{
+  "source_article_id": 120768,
+  "lemmas": [
+    {
+      "lemma": "kopimedisin",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 168535,
+      "is_sub_article": false,
+      "primary_translation": "generic medicine",
+      "word_forms": [
+        {
+          "word_form": "kopimedisin",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kupˈiːmədɪsˌiːn",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kopimedisinen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kupˈiːmədɪsˌiːnn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kopimedisiner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$\"pi:$m@$dI$%si:$n@r",
+              "ipa": "kʊˈpɪːmədɪˌsɪːnər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kopimedisinene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kupˈiːmədɪsˌiːnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fb6c27643c91.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb6c27643c91.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fb6c27643c91.mp3",
+            "text": "kopimedisin",
+            "source": "generated",
+            "content_sha256": "6ffaecd7e4bbb4efeb93ac6faca8a337d1a7772f1baa366695acff416d74880c"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "medisin som er en kopi av (den patenterte) originalen",
+      "translation": "medicine that is a copy of the (patented) original",
+      "examples": [
+        {
+          "no": "kjøpe en billig kopimedisin",
+          "en": "buy a cheap generic medicine"
+        }
+      ]
+    }
+  ]
+}

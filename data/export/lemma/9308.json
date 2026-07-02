@@ -1,0 +1,148 @@
+{
+  "source_article_id": 9308,
+  "lemmas": [
+    {
+      "lemma": "datakraft",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 10987,
+      "is_sub_article": false,
+      "primary_translation": "computing power",
+      "word_forms": [
+        {
+          "word_form": "datakraft",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%krAft",
+              "ipa": "ˈdɑːtɑˌkrɑft",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datakraften",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%krAf$tn=",
+              "ipa": "ˈdɑːtɑˌkrɑftn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datakrefter",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑkrˌɛftər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "datakreftene",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑkrˌɛftn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "datakrafta",
+          "tags_json": [
+            "Fem",
+            "m., f.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%krAf$tA",
+              "ipa": "ˈdɑːtɑˌkrɑftɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "07cff40eb44b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07cff40eb44b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/07cff40eb44b.mp3",
+            "text": "datakraft",
+            "source": "generated",
+            "content_sha256": "c34c6f16998571abd3a73c65ad0afbe18da10e3057670a7f1ee18b4f9a8c2602",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "datamaskins kapasitet til å lagre, behandle og transportere data",
+      "translation": "a computer's capacity to store, process, and transport data",
+      "examples": [
+        {
+          "no": "programmet krever enorm datakraft",
+          "en": "the program requires enormous computing power"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "source_article_id": 50040,
+  "lemmas": [
+    {
+      "lemma": "samtidig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57420,
+      "is_sub_article": false,
+      "primary_translation": "simultaneous / at the same time / contemporary",
+      "word_forms": [
+        {
+          "word_form": "samtidig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sAm$\"ti:$dI",
+              "ipa": "sɑmˈtɪːdɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "samtidige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAm$%ti:$dI$@",
+              "ipa": "ˈsɑmˌtɪːdɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e883b2a975d6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e883b2a975d6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e883b2a975d6.mp3",
+            "text": "samtidig",
+            "source": "generated",
+            "content_sha256": "3515b1893a16c74c11cb20bc45f79fdd46c6c06603b49dbadae83cd1370168f1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som faller sammen i tid",
+      "translation": "that which coincides in time",
+      "examples": [
+        {
+          "no": "begivenhetene var nesten samtidige",
+          "en": "the events were almost simultaneous"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: på samme tid",
+      "translation": "used as: at the same time",
+      "examples": [
+        {
+          "no": "de kom samtidig",
+          "en": "they arrived at the same time"
+        },
+        {
+          "no": "han ble redd, men samtidig glad",
+          "en": "he became frightened, but at the same time glad"
+        }
+      ]
+    },
+    {
+      "text": "som hører til samme tid",
+      "translation": "that belongs to the same time",
+      "examples": [
+        {
+          "no": "de var samtidige kunstnere",
+          "en": "they were contemporary artists"
+        },
+        {
+          "no": "være av Wergelands samtidige",
+          "en": "be one of Wergeland's contemporaries"
+        },
+        {
+          "no": "han var en samtidig av Vinje",
+          "en": "he was a contemporary of Vinje"
+        }
+      ]
+    }
+  ]
+}

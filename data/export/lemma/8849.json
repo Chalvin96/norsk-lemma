@@ -1,0 +1,82 @@
+{
+  "source_article_id": 8849,
+  "lemmas": [
+    {
+      "lemma": "chilensk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 10500,
+      "is_sub_article": false,
+      "primary_translation": "Chilean",
+      "word_forms": [
+        {
+          "word_form": "chilensk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tSI$\"le:nsk",
+              "ipa": "tʃɪˈleːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "chilenske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tSI$\"le:n$sk@",
+              "ipa": "tʃɪˈleːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1c522690962a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1c522690962a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1c522690962a.mp3",
+            "text": "chilensk",
+            "source": "generated",
+            "content_sha256": "68eddece02349c6f1967e86f956f919ecf2c7ab3905baccc443a36370299f871",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Chile og chilenere",
+      "translation": "relating to Chile and Chileans",
+      "examples": []
+    }
+  ]
+}

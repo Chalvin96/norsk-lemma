@@ -1,0 +1,127 @@
+{
+  "source_article_id": 54299,
+  "lemmas": [
+    {
+      "lemma": "slaur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62585,
+      "is_sub_article": false,
+      "primary_translation": "slovenly person / scoundrel",
+      "word_forms": [
+        {
+          "word_form": "slaur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SlE*u0r",
+              "ipa": "ˈʃlæ͡ʉr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slauren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"SlE*u0$r@n",
+              "ipa": "ˈʃlæ͡ʉrən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slaurer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SlE*u0$r@r",
+              "ipa": "ˈʃlæ͡ʉrər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "slaurene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"SlE*u0$r@$n@",
+              "ipa": "ˈʃlæ͡ʉrənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "323c94dd44db.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/323c94dd44db.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/323c94dd44db.mp3",
+            "text": "slaur",
+            "source": "generated",
+            "content_sha256": "6e621bc5a5baef1dfa9ecbbdaf7ffb035410064578f9fd84744cb0ab956075bb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lat og sluskete person",
+      "translation": "lazy and slovenly person",
+      "examples": []
+    },
+    {
+      "text": "slamp, slask",
+      "translation": "scoundrel, rascal",
+      "examples": [
+        {
+          "no": "den slauren har aldri gjort et ærlig dagsverk",
+          "en": "that bum has never done an honest day's work"
+        }
+      ]
+    }
+  ]
+}

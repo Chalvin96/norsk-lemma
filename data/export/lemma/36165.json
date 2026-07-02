@@ -1,0 +1,142 @@
+{
+  "source_article_id": 36165,
+  "lemmas": [
+    {
+      "lemma": "ly",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 41983,
+      "is_sub_article": false,
+      "primary_translation": "shelter / protection",
+      "word_forms": [
+        {
+          "word_form": "ly",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ly:",
+              "ipa": "ˈlyː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lyet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$@t",
+              "ipa": "ˈlyːət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lya",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ly:$A",
+              "ipa": "ˈlyːɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lyene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈyːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9ff9f7e5c77a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ff9f7e5c77a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ff9f7e5c77a.mp3",
+            "text": "ly",
+            "source": "generated",
+            "content_sha256": "9df5c17021f5b1879a316dd12babdbba4912442a316c63b5ecab2df8f7e42844",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vern (mot vind og vær)",
+      "translation": "shelter (from wind and weather)",
+      "examples": []
+    },
+    {
+      "text": "beskyttelse, dekning",
+      "translation": "protection, cover",
+      "examples": [
+        {
+          "no": "søke ly for uværet",
+          "en": "seek shelter from the storm"
+        },
+        {
+          "no": "sitte i ly",
+          "en": "sit in the shelter"
+        },
+        {
+          "no": "de kom seg unna i ly av mørket",
+          "en": "they got away under cover of darkness"
+        },
+        {
+          "no": "industrien har utviklet seg i ly av høye tollsatser",
+          "en": "industry has developed under the protection of high tariffs"
+        }
+      ]
+    }
+  ]
+}

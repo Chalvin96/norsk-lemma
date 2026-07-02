@@ -1,0 +1,87 @@
+{
+  "source_article_id": 3527,
+  "lemmas": [
+    {
+      "lemma": "avholdende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4186,
+      "is_sub_article": false,
+      "primary_translation": "abstaining / ascetic / sober / abstaining (vote)",
+      "word_forms": [
+        {
+          "word_form": "avholdende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:v$%hO$ln=$@",
+              "ipa": "ˈɑːvˌhɔln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1e09173c2510.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1e09173c2510.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1e09173c2510.mp3",
+            "text": "avholdende",
+            "source": "generated",
+            "content_sha256": "1ae17e09bc21558df76fb6311c6ca2eab3933fb2d143daea319582d860d7d70c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som avholder seg fra nyting",
+      "translation": "abstaining from indulgence",
+      "examples": [
+        {
+          "no": "leve avholdende",
+          "en": "live abstinently"
+        },
+        {
+          "no": "hun har vært avholdende de siste seks årene",
+          "en": "she has been abstinent for the past six years"
+        }
+      ]
+    },
+    {
+      "text": "som unnlater å ta stilling",
+      "translation": "refraining from taking a stance",
+      "examples": [
+        {
+          "no": "gjøre et vedtak med én avholdende stemme",
+          "en": "pass a resolution with one abstaining vote"
+        },
+        {
+          "no": "stemme avholdende",
+          "en": "abstain from voting"
+        }
+      ]
+    }
+  ]
+}

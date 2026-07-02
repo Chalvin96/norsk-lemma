@@ -1,0 +1,101 @@
+{
+  "source_article_id": 1925,
+  "lemmas": [
+    {
+      "lemma": "anlagt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2426,
+      "is_sub_article": false,
+      "primary_translation": "arranged / having aptitude",
+      "word_forms": [
+        {
+          "word_form": "anlagt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"An$%lAkt",
+              "ipa": "ˈɑnˌlɑkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "anlagte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"An$%lAk$t@",
+              "ipa": "ˈɑnˌlɑktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "346230f34d73.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/346230f34d73.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/346230f34d73.mp3",
+            "text": "anlagt",
+            "source": "generated",
+            "content_sha256": "3762498bd1dceeda774a2c16992f0837363a18ddd6e9e257c7b3ec6ca24e23ae",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har et visst anlegg for noe",
+      "translation": "having a certain aptitude for something",
+      "examples": [
+        {
+          "no": "være praktisk anlagt",
+          "en": "be practically inclined"
+        }
+      ]
+    },
+    {
+      "text": "som er ordnet eller framstilt på en bestemt måte",
+      "translation": "arranged or produced in a certain way",
+      "examples": [
+        {
+          "no": "en stort anlagt symfoni",
+          "en": "a grandly conceived symphony"
+        },
+        {
+          "no": "skildringen er bredt anlagt",
+          "en": "the portrayal is broad in scope"
+        }
+      ]
+    }
+  ]
+}

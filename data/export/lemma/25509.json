@@ -1,0 +1,130 @@
+{
+  "source_article_id": 25509,
+  "lemmas": [
+    {
+      "lemma": "hårklipp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29786,
+      "is_sub_article": false,
+      "primary_translation": "haircut / hairstyle",
+      "word_forms": [
+        {
+          "word_form": "hårklipp",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ho:r$%klIp",
+              "ipa": "ˈhoːrˌklɪp",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hårklippen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ho:r$%klI$p@n",
+              "ipa": "ˈhoːrˌklɪpən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hårklipper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈoːrklˌɪpər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hårklippene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈoːrklˌɪpənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3ecc2e548e99.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ecc2e548e99.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3ecc2e548e99.mp3",
+            "text": "hårklipp",
+            "source": "generated",
+            "content_sha256": "a0a9028235900c4fbe1336c20388f56286927729d77bbec7618203a489ceaa49",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "klipping av hår",
+      "translation": "cutting of hair",
+      "examples": [
+        {
+          "no": "du trenger en hårklipp nå",
+          "en": "you need a haircut now"
+        },
+        {
+          "no": "en ny hårklipp",
+          "en": "a new haircut"
+        }
+      ]
+    }
+  ]
+}

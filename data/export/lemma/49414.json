@@ -1,0 +1,127 @@
+{
+  "source_article_id": 49414,
+  "lemmas": [
+    {
+      "lemma": "røver",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 56834,
+      "is_sub_article": false,
+      "primary_translation": "robber / rascal",
+      "word_forms": [
+        {
+          "word_form": "røver",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r2:$v@r",
+              "ipa": "ˈrøːvər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "røveren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r2:$v@n`",
+              "ipa": "ˈrøːvəɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "røvere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r2:$v@$r@",
+              "ipa": "ˈrøːvərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "røverne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r2:$v@$n`@",
+              "ipa": "ˈrøːvəɳə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "caf2b2a7c3eb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/caf2b2a7c3eb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/caf2b2a7c3eb.mp3",
+            "text": "røver",
+            "source": "generated",
+            "content_sha256": "b5d68fc37a46f1722e84d0f34e859cd11c00da57482c4ac6d4e98078cf5e451b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som røve fra en annen",
+      "translation": "person who robs another",
+      "examples": []
+    },
+    {
+      "text": "tyv tjuv, banditt",
+      "translation": "thief, bandit",
+      "examples": [
+        {
+          "no": "din lille røver!",
+          "en": "you little rascal!"
+        }
+      ]
+    }
+  ]
+}

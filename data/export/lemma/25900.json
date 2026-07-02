@@ -1,0 +1,120 @@
+{
+  "source_article_id": 25900,
+  "lemmas": [
+    {
+      "lemma": "immun",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30871,
+      "is_sub_article": false,
+      "primary_translation": "immune",
+      "word_forms": [
+        {
+          "word_form": "immun",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"m}:n",
+              "ipa": "ɪˈmʉːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "immune",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"m}:$n@",
+              "ipa": "ɪˈmʉːnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "immunt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "I$\"m}:nt",
+              "ipa": "ɪˈmʉːnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "fe4da2539953.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe4da2539953.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/fe4da2539953.mp3",
+            "text": "immun",
+            "source": "generated",
+            "content_sha256": "1a4f7b495e82070c048d7aa7742649954029ff590fbc6fe38ac73e66b9e6d268",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uimottakelig for smittestoffer og smittsom sykdom",
+      "translation": "impervious to infectious agents and infectious disease",
+      "examples": [
+        {
+          "no": "være immun mot viruset",
+          "en": "be immune to the virus"
+        }
+      ]
+    },
+    {
+      "text": "uimottakelig for påvirkning",
+      "translation": "impervious to influence",
+      "examples": [
+        {
+          "no": "være helt immun overfor kritikk",
+          "en": "be completely immune to criticism"
+        },
+        {
+          "no": "han ble immun mot enhver ideologi",
+          "en": "he became immune to every ideology"
+        }
+      ]
+    }
+  ]
+}

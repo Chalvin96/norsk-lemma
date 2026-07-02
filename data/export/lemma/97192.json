@@ -1,0 +1,106 @@
+{
+  "source_article_id": 97192,
+  "lemmas": [
+    {
+      "lemma": "gatebarn",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 102229,
+      "is_sub_article": false,
+      "primary_translation": "street child",
+      "word_forms": [
+        {
+          "word_form": "gatebarn",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gA:$t@$%bA:n`",
+              "ipa": "ˈgɑːtəˌbɑːɳ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "gatebarnet",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈɑːtəbˌɑːɳə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gatebarna",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"gA:$t@$%bA:$n`A",
+              "ipa": "ˈgɑːtəˌbɑːɳɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "74ec6e22bee3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/74ec6e22bee3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/74ec6e22bee3.mp3",
+            "text": "gatebarn",
+            "source": "generated",
+            "content_sha256": "52402a74ff7047daa85c8b9a4772b55b325eb7396a149f29712072053bb4e560",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hjemløst barn i by",
+      "translation": "homeless child in a city",
+      "examples": [
+        {
+          "no": "en innsamlingsaksjon for gatebarn i Brasil",
+          "en": "a fundraising campaign for street children in Brazil"
+        }
+      ]
+    }
+  ]
+}

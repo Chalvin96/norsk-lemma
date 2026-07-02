@@ -1,0 +1,118 @@
+{
+  "source_article_id": 41790,
+  "lemmas": [
+    {
+      "lemma": "odds",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 48879,
+      "is_sub_article": false,
+      "primary_translation": "odds / chance",
+      "word_forms": [
+        {
+          "word_form": "odds",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Ods",
+              "ipa": "ˈɔds",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oddsen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Od$sn=",
+              "ipa": "ˈɔdsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oddsene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Od$sn=$@",
+              "ipa": "ˈɔdsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "71ed51de1efa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/71ed51de1efa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/71ed51de1efa.mp3",
+            "text": "odds",
+            "source": "generated",
+            "content_sha256": "3d766e4af1b593d3751bf841a66cea756a7a385796da363ffa64cf3b61412ab8",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det antall ganger gevinsten er større enn innsatsen ved totalisatorspill totalisatorspell",
+      "translation": "the number of times the winnings are greater than the stake in pari-mutuel betting",
+      "examples": [
+        {
+          "no": "hesten gav dagens høyeste odds",
+          "en": "the horse gave the day's highest odds"
+        }
+      ]
+    },
+    {
+      "text": "forventet mulighet til å lykkes med noe",
+      "translation": "expected chance of success in something",
+      "examples": [
+        {
+          "no": "ha alle odds mot seg",
+          "en": "have all the odds against one"
+        },
+        {
+          "no": "laget tapte mot alle odds",
+          "en": "the team lost against all odds"
+        }
+      ]
+    }
+  ]
+}

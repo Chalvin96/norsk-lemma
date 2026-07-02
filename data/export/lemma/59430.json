@@ -1,0 +1,103 @@
+{
+  "source_article_id": 59430,
+  "lemmas": [
+    {
+      "lemma": "søvndrukken",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68111,
+      "is_sub_article": false,
+      "primary_translation": "drowsy",
+      "word_forms": [
+        {
+          "word_form": "søvndrukken",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9vn$%drU$k@n",
+              "ipa": "ˈsœvnˌdrʊkən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søvndrukne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9vn$%drU$kn@",
+              "ipa": "ˈsœvnˌdrʊknə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søvndrukkent",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9vn$%drU$k@nt",
+              "ipa": "ˈsœvnˌdrʊkənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43bc08e69d3c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43bc08e69d3c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43bc08e69d3c.mp3",
+            "text": "søvndrukken",
+            "source": "generated",
+            "content_sha256": "efd7f5a0ad5a43697eda491e3bba8fc7180b5ff979a798f41b46913d7bb6086e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tung eller ør av søvn",
+      "translation": "heavy or dazed from sleep",
+      "examples": [
+        {
+          "no": "hun er søvndrukken og mutt under frokosten",
+          "en": "she is groggy and grumpy at breakfast"
+        }
+      ]
+    }
+  ]
+}

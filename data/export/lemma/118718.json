@@ -1,0 +1,127 @@
+{
+  "source_article_id": 118718,
+  "lemmas": [
+    {
+      "lemma": "kalvekjøtt",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 112086,
+      "is_sub_article": false,
+      "primary_translation": "veal",
+      "word_forms": [
+        {
+          "word_form": "kalvekjøtt",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAl$v@$%C9t",
+              "ipa": "ˈkɑlvəˌçœt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kalvekjøttet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAl$v@$%C9$t@",
+              "ipa": "ˈkɑlvəˌçœtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kalvekjøtta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑlʋəçˌœtɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kalvekjøttene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑlʋəçˌœtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b9e2e0adf518.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b9e2e0adf518.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b9e2e0adf518.mp3",
+            "text": "kalvekjøtt",
+            "source": "generated",
+            "content_sha256": "24504b20b7107595875911dc5320b267da3e9f69f40e9cb572d193d5a94a106c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kjøtt fra kalv",
+      "translation": "meat from a calf",
+      "examples": [
+        {
+          "no": "finmalt kalvekjøtt",
+          "en": "finely ground veal"
+        }
+      ]
+    }
+  ]
+}

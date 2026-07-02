@@ -1,0 +1,179 @@
+{
+  "source_article_id": 129779,
+  "lemmas": [
+    {
+      "lemma": "spilleglad",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 141848,
+      "is_sub_article": false,
+      "primary_translation": "fond of playing / gambling",
+      "word_forms": [
+        {
+          "word_form": "spilleglad",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spI$l@$%glA:",
+              "ipa": "ˈspɪləˌglɑː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "spilleglade",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spI$l@$%glA:$d@",
+              "ipa": "ˈspɪləˌglɑːdə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b8d20f4d6cf5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b8d20f4d6cf5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b8d20f4d6cf5.mp3",
+            "text": "spilleglad",
+            "source": "generated",
+            "content_sha256": "1807968baed43b9d86590a21aebad291ea925bac3b33bad9de774870b0bf4509",
+            "tone": 2
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "spelleglad",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2942670,
+      "is_sub_article": false,
+      "primary_translation": "fond of playing / gambling",
+      "word_forms": [
+        {
+          "word_form": "spelleglad",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "spˈɛləglˌɑː",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "spelleglade",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "spˈɛləglˌɑːdə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9285d4ebe508.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9285d4ebe508.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9285d4ebe508.mp3",
+            "text": "spelleglad",
+            "source": "generated",
+            "content_sha256": "49cfd9bf835692e36b5556a7f08632d631204e1f04e8eaf8209d14133aff49a5"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "glad i å spille idrettskamper",
+      "translation": "fond of playing sports matches",
+      "examples": [
+        {
+          "no": "spilleglade Norway Cup-deltakere",
+          "en": "sports-loving Norway Cup participants"
+        }
+      ]
+    },
+    {
+      "text": "glad i å spille om penger",
+      "translation": "fond of gambling",
+      "examples": [
+        {
+          "no": "poker tiltrekker spilleglade nordmenn",
+          "en": "poker attracts gambling-loving Norwegians"
+        }
+      ]
+    },
+    {
+      "text": "glad i å spille et instrument",
+      "translation": "fond of playing a musical instrument",
+      "examples": [
+        {
+          "no": "bandet framstår som en spilleglad gjeng",
+          "en": "the band comes across as a group that loves to play"
+        }
+      ]
+    }
+  ]
+}

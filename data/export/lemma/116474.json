@@ -1,0 +1,92 @@
+{
+  "source_article_id": 116474,
+  "lemmas": [
+    {
+      "lemma": "harmes",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 165972,
+      "is_sub_article": false,
+      "primary_translation": "to be angry / annoyed",
+      "word_forms": [
+        {
+          "word_form": "harmes",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "<SPass>",
+            "Pres",
+            "<PerfPart>",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAr$m@s",
+              "ipa": "ˈhɑrməs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "harmedes",
+          "tags_json": [
+            "verb",
+            "Past",
+            "<SPass>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑrmədəs",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bc7f0b04ff4a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc7f0b04ff4a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc7f0b04ff4a.mp3",
+            "text": "harmes",
+            "source": "generated",
+            "content_sha256": "5862fc122c918599a7a640f6d365919e47ae87896f1647b153acffea01488821",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bli arg, vred eller sint",
+      "translation": "to become angry, wrathful, or mad",
+      "examples": []
+    },
+    {
+      "text": "harme seg, ergre seg",
+      "translation": "to be annoyed, to vex oneself",
+      "examples": [
+        {
+          "no": "jeg harmes over den urettferdige situasjonen",
+          "en": "I resent the unfair situation"
+        }
+      ]
+    }
+  ]
+}

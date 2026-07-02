@@ -1,0 +1,125 @@
+{
+  "source_article_id": 12075,
+  "lemmas": [
+    {
+      "lemma": "eksperimentell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14109,
+      "is_sub_article": false,
+      "primary_translation": "experimental",
+      "word_forms": [
+        {
+          "word_form": "eksperimentell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$sp@$rI$m@n$\"tEl",
+              "ipa": "ɛkspərɪmənˈtɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksperimentelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$sp@$rI$m@n$\"tE$l@",
+              "ipa": "ɛkspərɪmənˈtɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksperimentelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$sp@$rI$m@n$\"tElt",
+              "ipa": "ɛkspərɪmənˈtɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b7e7191f4a4e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7e7191f4a4e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7e7191f4a4e.mp3",
+            "text": "eksperimentell",
+            "source": "generated",
+            "content_sha256": "c75fdafef5de61808fee62255b17ed13b7080de50e33bf361790c9366d90a7fb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bygger på vitenskapelige forsøk",
+      "translation": "based on scientific experiments",
+      "examples": [
+        {
+          "no": "eksperimentelle metoder",
+          "en": "experimental methods"
+        },
+        {
+          "no": "bevise noe eksperimentelt",
+          "en": "prove something experimentally"
+        },
+        {
+          "no": "gå eksperimentelt til verks",
+          "en": "proceed experimentally"
+        }
+      ]
+    },
+    {
+      "text": "som tar i bruk nye og utradisjonelle virkemidler",
+      "translation": "using new and unconventional means",
+      "examples": [
+        {
+          "no": "eksperimentell kunst",
+          "en": "experimental art"
+        },
+        {
+          "no": "eksperimentell medisin",
+          "en": "experimental medicine"
+        }
+      ]
+    }
+  ]
+}

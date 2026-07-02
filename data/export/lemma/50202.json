@@ -1,0 +1,87 @@
+{
+  "source_article_id": 50202,
+  "lemmas": [
+    {
+      "lemma": "sardonisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57591,
+      "is_sub_article": false,
+      "primary_translation": "sardonic",
+      "word_forms": [
+        {
+          "word_form": "sardonisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sA$\"d`u:$nI$sk",
+              "ipa": "sɑˈɖuːnɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sardoniske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sA$\"d`u:$nI$sk@",
+              "ipa": "sɑˈɖuːnɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f4777f2758b7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4777f2758b7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f4777f2758b7.mp3",
+            "text": "sardonisk",
+            "source": "generated",
+            "content_sha256": "cc1f19a97164b789b4b75fdafe93034a1e8cabd958c927fbfd4bd6aae23f4300",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hånlig, bitter",
+      "translation": "mocking, bitter",
+      "examples": [
+        {
+          "no": "en sardonisk latter",
+          "en": "a sardonic laugh"
+        }
+      ]
+    }
+  ]
+}

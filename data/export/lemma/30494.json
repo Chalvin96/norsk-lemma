@@ -1,0 +1,110 @@
+{
+  "source_article_id": 30494,
+  "lemmas": [
+    {
+      "lemma": "knepen",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 35936,
+      "is_sub_article": false,
+      "primary_translation": "meager / narrow",
+      "word_forms": [
+        {
+          "word_form": "knepen",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kne:$p@n",
+              "ipa": "ˈkneːpən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "knepne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kne:p$n@",
+              "ipa": "ˈkneːpnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "knepent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kne:$p@nt",
+              "ipa": "ˈkneːpənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c7f975ea1dd8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c7f975ea1dd8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c7f975ea1dd8.mp3",
+            "text": "knepen",
+            "source": "generated",
+            "content_sha256": "139a13a463371a35b794740c2fb9330b7fad4ad8e7504e028177af12933ec177",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "snau, knapp",
+      "translation": "meager, narrow",
+      "examples": [
+        {
+          "no": "en knepen seier",
+          "en": "a narrow victory"
+        },
+        {
+          "no": "det var knepent flertall for utsettelse",
+          "en": "there was a narrow majority for postponement"
+        }
+      ]
+    }
+  ]
+}

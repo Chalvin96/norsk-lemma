@@ -1,0 +1,87 @@
+{
+  "source_article_id": 22045,
+  "lemmas": [
+    {
+      "lemma": "halvferdig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25747,
+      "is_sub_article": false,
+      "primary_translation": "halfway finished",
+      "word_forms": [
+        {
+          "word_form": "halvferdig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAl$%f{r$dI",
+              "ipa": "ˈhɑlˌfærdɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "halvferdige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAl$%f{r$dI$@",
+              "ipa": "ˈhɑlˌfærdɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "4bfd1803a0af.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4bfd1803a0af.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/4bfd1803a0af.mp3",
+            "text": "halvferdig",
+            "source": "generated",
+            "content_sha256": "27c412ed1ec8e1c395e41493f542d248e9a6c5f59e2647b8e37dc2bc1459bc95",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "halvveis ferdig",
+      "translation": "halfway finished",
+      "examples": [
+        {
+          "no": "huset var bare halvferdig",
+          "en": "the house was only half-finished"
+        }
+      ]
+    }
+  ]
+}

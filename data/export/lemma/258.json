@@ -1,0 +1,110 @@
+{
+  "source_article_id": 258,
+  "lemmas": [
+    {
+      "lemma": "adverbial",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 1044,
+      "is_sub_article": false,
+      "primary_translation": "adverbial",
+      "word_forms": [
+        {
+          "word_form": "adverbial",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dv@r$bI$\"A:l",
+              "ipa": "ɑdvərbɪˈɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adverbiale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dv@r$bI$\"A:$l@",
+              "ipa": "ɑdvərbɪˈɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "adverbialt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$dv@r$bI$\"A:lt",
+              "ipa": "ɑdvərbɪˈɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3f61bca30fdc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f61bca30fdc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3f61bca30fdc.mp3",
+            "text": "adverbial",
+            "source": "generated",
+            "content_sha256": "433e6a22eafd0d023ee3f9414d61735d717c4979a6169f79e652989c4193cf8e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som fungerer som et adverb",
+      "translation": "functioning as an adverb",
+      "examples": [
+        {
+          "no": "ha adverbial funksjon",
+          "en": "have an adverbial function"
+        },
+        {
+          "no": "adverbiale ledd",
+          "en": "adverbial elements"
+        }
+      ]
+    }
+  ]
+}

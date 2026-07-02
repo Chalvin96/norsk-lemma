@@ -1,0 +1,91 @@
+{
+  "source_article_id": 16172,
+  "lemmas": [
+    {
+      "lemma": "foresatt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 18752,
+      "is_sub_article": false,
+      "primary_translation": "guardian / responsible person",
+      "word_forms": [
+        {
+          "word_form": "foresatt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fo:$r@$%sAt",
+              "ipa": "ˈfoːrəˌsɑt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "foresatte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fo:$r@$%sA$t@",
+              "ipa": "ˈfoːrəˌsɑtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "982fa3a22648.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/982fa3a22648.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/982fa3a22648.mp3",
+            "text": "foresatt",
+            "source": "generated",
+            "content_sha256": "90653b42bb53d85936eb2e62ba00291b1d77f3d59d304eef4d89a54d9e803a5b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har myndighet over eller ansvar for noen",
+      "translation": "having authority over or responsibility for someone",
+      "examples": [
+        {
+          "no": "elevenes foresatte",
+          "en": "the students' guardians"
+        },
+        {
+          "no": "foreldre eller andre foresatte",
+          "en": "parents or other guardians"
+        }
+      ]
+    }
+  ]
+}

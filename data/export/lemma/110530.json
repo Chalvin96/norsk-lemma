@@ -1,0 +1,128 @@
+{
+  "source_article_id": 110530,
+  "lemmas": [
+    {
+      "lemma": "beruselse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 89694,
+      "is_sub_article": false,
+      "primary_translation": "intoxication",
+      "word_forms": [
+        {
+          "word_form": "beruselse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"r}:$sl=$s@",
+              "ipa": "bəˈrʉːsl̩sə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beruselsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"r}:$sl=$sn=",
+              "ipa": "bəˈrʉːsl̩sn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beruselser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"r}:$sl=$s@r",
+              "ipa": "bəˈrʉːsl̩sər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beruselsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bərˈʉːsl̩sn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d09944c04807.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d09944c04807.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d09944c04807.mp3",
+            "text": "beruselse",
+            "source": "generated",
+            "content_sha256": "88c906deba91791b737aa42958c58b9784bd3896e403ae3559a142cd65380832",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å beruse seg eller være beruset",
+      "translation": "the act of getting intoxicated, being intoxicated",
+      "examples": [
+        {
+          "no": "drikkemønsteret er preget av beruselse og fyll",
+          "en": "the drinking pattern is marked by intoxication and drunkenness"
+        },
+        {
+          "no": "beruselsen gjorde henne ukritisk",
+          "en": "the intoxication made her uncritical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_article_id": 6731,
+  "lemmas": [
+    {
+      "lemma": "blåved",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 7868,
+      "is_sub_article": false,
+      "primary_translation": "blue stain",
+      "word_forms": [
+        {
+          "word_form": "blåved",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$%ve:",
+              "ipa": "ˈbloːˌveː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåveden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$%ve:$@n",
+              "ipa": "ˈbloːˌveːən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåveder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈoːʋˌeːər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "blåvedene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈoːʋˌeːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0eb0b78a1169.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0eb0b78a1169.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0eb0b78a1169.mp3",
+            "text": "blåved",
+            "source": "generated",
+            "content_sha256": "2094c576504fa3c2acf3da3771fc9c45440d868cfa7e507117a1ddd7039fda5d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "blågrå misfarging av ved i tømmer og trelast som skyldes sopp",
+      "translation": "bluish-gray discoloration of wood in timber and lumber caused by fungus",
+      "examples": [
+        {
+          "no": "råte og blåved",
+          "en": "rot and blue stain"
+        }
+      ]
+    }
+  ]
+}

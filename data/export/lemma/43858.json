@@ -1,0 +1,110 @@
+{
+  "source_article_id": 43858,
+  "lemmas": [
+    {
+      "lemma": "paddeflat",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50805,
+      "is_sub_article": false,
+      "primary_translation": "flat as a pancake",
+      "word_forms": [
+        {
+          "word_form": "paddeflat",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pA$d@$%flA:t",
+              "ipa": "ˈpɑdəˌflɑːt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "paddeflate",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pA$d@$%flA:$t@",
+              "ipa": "ˈpɑdəˌflɑːtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "paddeflatt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pA$d@$%flAt",
+              "ipa": "ˈpɑdəˌflɑt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e3e22fc6e6ce.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3e22fc6e6ce.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e3e22fc6e6ce.mp3",
+            "text": "paddeflat",
+            "source": "generated",
+            "content_sha256": "0a2ab73e06ad37fac0e2176e3ea6a98eafaadc2562f849f0d38c69f085a6b6ef",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt flat",
+      "translation": "completely flat",
+      "examples": [
+        {
+          "no": "paddeflate Danmark",
+          "en": "flat as a pancake Denmark"
+        },
+        {
+          "no": "ligge paddeflat på bakken",
+          "en": "lie flat on the ground"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "source_article_id": 56397,
+  "lemmas": [
+    {
+      "lemma": "sprukken",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 64897,
+      "is_sub_article": false,
+      "primary_translation": "hoarse",
+      "word_forms": [
+        {
+          "word_form": "sprukken",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sprU$k@n",
+              "ipa": "ˈsprʊkən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sprukne",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sprU$kn@",
+              "ipa": "ˈsprʊknə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sprukkent",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sprU$k@nt",
+              "ipa": "ˈsprʊkənt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d356355ebc9b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d356355ebc9b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d356355ebc9b.mp3",
+            "text": "sprukken",
+            "source": "generated",
+            "content_sha256": "25f3b071c9fce6a697339ecd84b0c698fa398f69bee898488ad95d0f0ee7003a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ru, rusten",
+      "translation": "rough, hoarse",
+      "examples": [
+        {
+          "no": "en sprukken stemme",
+          "en": "a hoarse voice"
+        }
+      ]
+    }
+  ]
+}

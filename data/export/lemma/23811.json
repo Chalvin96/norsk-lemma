@@ -1,0 +1,113 @@
+{
+  "source_article_id": 23811,
+  "lemmas": [
+    {
+      "lemma": "hjemom",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 28106,
+      "is_sub_article": false,
+      "primary_translation": "in passing by home",
+      "word_forms": [
+        {
+          "word_form": "hjemom",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"\"je:$mOm",
+              "ipa": "ˈjeːmɔm",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d94787274a0d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d94787274a0d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d94787274a0d.mp3",
+            "text": "hjemom",
+            "source": "generated",
+            "content_sha256": "5e6f6aa309dbb08956ca167dbe30f62ecc5f0c083f10364402cde9fd0bd7f6c2",
+            "tone": 2
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "heimom",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 26932,
+      "is_sub_article": false,
+      "primary_translation": "in passing by home",
+      "word_forms": [
+        {
+          "word_form": "heimom",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈæ͡ɪmɔm",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "45ced99005db.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45ced99005db.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45ced99005db.mp3",
+            "text": "heimom",
+            "source": "generated",
+            "content_sha256": "22689b471fbe6747f21a5f1466133d2afff518f4435e9f2e5ba4f3bf0e5a6916"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innom hjemmet",
+      "translation": "in passing by home",
+      "examples": [
+        {
+          "no": "svippe en tur hjemom",
+          "en": "pop home for a moment"
+        }
+      ]
+    },
+    {
+      "text": "brukt som preposisjon: innom hjemmet i",
+      "translation": "used as: in passing by home on the way to",
+      "examples": [
+        {
+          "no": "dra hjemom Trondheim på vei nordover",
+          "en": "go by Trondheim on the way north"
+        }
+      ]
+    }
+  ]
+}

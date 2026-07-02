@@ -1,0 +1,111 @@
+{
+  "source_article_id": 25819,
+  "lemmas": [
+    {
+      "lemma": "illgjeten",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30794,
+      "is_sub_article": false,
+      "primary_translation": "infamous",
+      "word_forms": [
+        {
+          "word_form": "illgjeten",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Il$%je:$tn=",
+              "ipa": "ˈɪlˌjeːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "illgjetne",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Il$%je:t$n@",
+              "ipa": "ˈɪlˌjeːtnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "illgjetent",
+          "tags_json": [
+            "a5",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Il$%je:$tn=t",
+              "ipa": "ˈɪlˌjeːtn̩t",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "56bc55760004.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56bc55760004.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56bc55760004.mp3",
+            "text": "illgjeten",
+            "source": "generated",
+            "content_sha256": "987b9cd0800d417835f92124cb08b22bdabb5699305d4bef26d5d86f38375eb5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har dårlig ord på seg",
+      "translation": "having a bad reputation",
+      "examples": []
+    },
+    {
+      "text": "beryktet",
+      "translation": "infamous",
+      "examples": [
+        {
+          "no": "den illgjetne internatskolen",
+          "en": "the notorious boarding school"
+        }
+      ]
+    }
+  ]
+}

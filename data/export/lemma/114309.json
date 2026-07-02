@@ -1,0 +1,125 @@
+{
+  "source_article_id": 114309,
+  "lemmas": [
+    {
+      "lemma": "fylkeslag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 101787,
+      "is_sub_article": false,
+      "primary_translation": "county association",
+      "word_forms": [
+        {
+          "word_form": "fylkeslag",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fYl$k@$%slA:g",
+              "ipa": "ˈfʏlkəˌslɑːg",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fylkeslaget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fYl$k@$%slA:$g@",
+              "ipa": "ˈfʏlkəˌslɑːgə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fylkeslaga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈʏlkəslˌɑːgɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fylkeslagene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fYl$k@$%slA:$g@$n@",
+              "ipa": "ˈfʏlkəˌslɑːgənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "835e22e63411.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/835e22e63411.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/835e22e63411.mp3",
+            "text": "fylkeslag",
+            "source": "generated",
+            "content_sha256": "d535f700b44dcece0829807f723c8544f5ab7e2b356589b73dcd63548461e042",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sammenslutning av lag i et fylke",
+      "translation": "association of clubs in a county",
+      "examples": [
+        {
+          "no": "det største fylkeslaget til partiet",
+          "en": "the party's largest county branch"
+        }
+      ]
+    }
+  ]
+}

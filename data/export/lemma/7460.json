@@ -1,0 +1,106 @@
+{
+  "source_article_id": 7460,
+  "lemmas": [
+    {
+      "lemma": "brennsnar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 8806,
+      "is_sub_article": false,
+      "primary_translation": "burning fast",
+      "word_forms": [
+        {
+          "word_form": "brennsnar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEn$%snA:r",
+              "ipa": "ˈbrɛnˌsnɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brennsnare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEn$%snA:$r@",
+              "ipa": "ˈbrɛnˌsnɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "brennsnart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"brEn$%snA:t`",
+              "ipa": "ˈbrɛnˌsnɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "62aac0c9dd1a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62aac0c9dd1a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62aac0c9dd1a.mp3",
+            "text": "brennsnar",
+            "source": "generated",
+            "content_sha256": "e0dc35692d1f178336ba7a2d0fb5055fb327eb401a4168f33e55430b870b08e3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært snar",
+      "translation": "very fast",
+      "examples": [
+        {
+          "no": "en brennsnar reaksjon",
+          "en": "a lightning-fast reaction"
+        }
+      ]
+    }
+  ]
+}

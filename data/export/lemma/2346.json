@@ -1,0 +1,97 @@
+{
+  "source_article_id": 2346,
+  "lemmas": [
+    {
+      "lemma": "apolitisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2878,
+      "is_sub_article": false,
+      "primary_translation": "apolitical",
+      "word_forms": [
+        {
+          "word_form": "apolitisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$pU$%li:$tI$sk",
+              "ipa": "ˈɑːpʊˌlɪːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "apolitiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$pU$%li:$tI$sk@",
+              "ipa": "ˈɑːpʊˌlɪːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8cc95f448a14.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8cc95f448a14.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8cc95f448a14.mp3",
+            "text": "apolitisk",
+            "source": "generated",
+            "content_sha256": "4a48d43ecf88a655e62143e7355c4194f10efd27bca9b5299d509604c32ddde5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke har å gjøre med politikk",
+      "translation": "having no connection with politics",
+      "examples": [
+        {
+          "no": "en apolitisk interesseorganisasjon",
+          "en": "a non-political special interest organization"
+        }
+      ]
+    },
+    {
+      "text": "aktivt eller bevisst ikke-politisk",
+      "translation": "actively and consciously non-political",
+      "examples": [
+        {
+          "no": "være del av et apolitisk mijø",
+          "en": "be part of an apolitical environment"
+        }
+      ]
+    }
+  ]
+}

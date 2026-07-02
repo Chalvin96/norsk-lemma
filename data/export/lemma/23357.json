@@ -1,0 +1,64 @@
+{
+  "source_article_id": 23357,
+  "lemmas": [
+    {
+      "lemma": "herom",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 27543,
+      "is_sub_article": false,
+      "primary_translation": "about this",
+      "word_forms": [
+        {
+          "word_form": "herom",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"h{:$%rOm",
+              "ipa": "ˈhæːˌrɔm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3a0d11544616.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a0d11544616.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3a0d11544616.mp3",
+            "text": "herom",
+            "source": "generated",
+            "content_sha256": "7eedaebbc927d01771c1f9cc9832ec788194291332eb644911f8c98b3fcdecdb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "om dette",
+      "translation": "about this",
+      "examples": [
+        {
+          "no": "herom tier historien",
+          "en": "history is silent on this"
+        },
+        {
+          "no": "herom strides ekspertisen",
+          "en": "the experts are divided on this"
+        }
+      ]
+    }
+  ]
+}

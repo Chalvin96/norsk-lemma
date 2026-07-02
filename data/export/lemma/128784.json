@@ -1,0 +1,87 @@
+{
+  "source_article_id": 128784,
+  "lemmas": [
+    {
+      "lemma": "føkkings",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2872509,
+      "is_sub_article": false,
+      "primary_translation": "fucking (intensifier)",
+      "word_forms": [
+        {
+          "word_form": "føkkings",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈœkɪŋs",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1b78c20d6394.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b78c20d6394.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b78c20d6394.mp3",
+            "text": "føkkings",
+            "source": "generated",
+            "content_sha256": "d133156d2f1a87ae44ee37083758890cb95e988b059deb5087a22a073a838162"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "brukt som forsterker i kraftuttrykk",
+      "translation": "used as an intensifier in strong expressions",
+      "examples": []
+    },
+    {
+      "text": "jævla, fordømt",
+      "translation": "damned, cursed",
+      "examples": [
+        {
+          "no": "jeg må fylle ut de føkkings skjemaene",
+          "en": "I have to fill out those fucking forms"
+        },
+        {
+          "no": "få den føkkings ballen i nettet!",
+          "en": "get the fucking ball into the net!"
+        },
+        {
+          "no": "musikken er føkkings fantastisk",
+          "en": "the music is fucking fantastic"
+        },
+        {
+          "no": "det er føkkings vanskelig å gjøre noe med det",
+          "en": "it's fucking hard to do anything about it"
+        }
+      ]
+    }
+  ]
+}

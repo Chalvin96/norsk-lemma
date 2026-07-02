@@ -1,0 +1,122 @@
+{
+  "source_article_id": 55607,
+  "lemmas": [
+    {
+      "lemma": "sonant",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 64012,
+      "is_sub_article": false,
+      "primary_translation": "sonorant",
+      "word_forms": [
+        {
+          "word_form": "sonant",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$\"nAnt",
+              "ipa": "sʊˈnɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sonanten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$\"nAn$tn=",
+              "ipa": "sʊˈnɑntn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sonanter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$\"nAn$t@r",
+              "ipa": "sʊˈnɑntər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sonantene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sU$\"nAn$tn=$@",
+              "ipa": "sʊˈnɑntn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ea6f6e58d1ba.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea6f6e58d1ba.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ea6f6e58d1ba.mp3",
+            "text": "sonant",
+            "source": "generated",
+            "content_sha256": "9e570aceb6ab1847e87dfc7d13b074c071bc8587cb68a26912846886500d86ba",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "språklyd som kan danne en stavelse alene, eller er kjernen i en stavelse",
+      "translation": "speech sound that can form a syllable alone, is the nucleus of a syllable",
+      "examples": [
+        {
+          "no": "vokalene og konsonantlydene l, m, n, ng og r er sonanter",
+          "en": "the vowels and the consonant sounds l, m, n, ng, and r are sonorants"
+        }
+      ]
+    }
+  ]
+}

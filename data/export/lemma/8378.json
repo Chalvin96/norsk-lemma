@@ -1,0 +1,122 @@
+{
+  "source_article_id": 8378,
+  "lemmas": [
+    {
+      "lemma": "bymur",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 9975,
+      "is_sub_article": false,
+      "primary_translation": "city wall",
+      "word_forms": [
+        {
+          "word_form": "bymur",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%m}:r",
+              "ipa": "ˈbyːˌmʉːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bymuren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%m}:$n`=",
+              "ipa": "ˈbyːˌmʉːɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bymurer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%m}:$r@r",
+              "ipa": "ˈbyːˌmʉːrər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bymurene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"by:$%m}:$n`=$@",
+              "ipa": "ˈbyːˌmʉːɳ̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d3cea623f21b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d3cea623f21b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d3cea623f21b.mp3",
+            "text": "bymur",
+            "source": "generated",
+            "content_sha256": "9c54521b377a2add970fc090e48fedef93ab4bdbd0ded4a6f06205e86a1887c4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mur omkring en by",
+      "translation": "wall surrounding a city",
+      "examples": [
+        {
+          "no": "bymuren i Visby",
+          "en": "the city wall in Visby"
+        }
+      ]
+    }
+  ]
+}

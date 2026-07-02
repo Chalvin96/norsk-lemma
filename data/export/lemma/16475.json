@@ -1,0 +1,73 @@
+{
+  "source_article_id": 16475,
+  "lemmas": [
+    {
+      "lemma": "forlengs",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 19106,
+      "is_sub_article": false,
+      "primary_translation": "forward",
+      "word_forms": [
+        {
+          "word_form": "forlengs",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fO$%l`ENs",
+              "ipa": "ˈfɔˌɭɛŋs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1021b6e6fa82.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1021b6e6fa82.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1021b6e6fa82.mp3",
+            "text": "forlengs",
+            "source": "generated",
+            "content_sha256": "401f171f1c56dc3819625b4febb5f7179f3e2872039127fde4c1c610a5c62aa8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med forsiden i bevegelsesretningen",
+      "translation": "with the front in the direction of movement",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra baklengs",
+      "translation": "as opposed to backward",
+      "examples": [
+        {
+          "no": "hoppe forlengs",
+          "en": "jump forwards"
+        },
+        {
+          "no": "brikken kan bevege seg både forlengs, baklengs og sidelengs",
+          "en": "the piece can move forwards, backwards and sideways"
+        },
+        {
+          "no": "forlengs salto",
+          "en": "forward somersault"
+        }
+      ]
+    }
+  ]
+}

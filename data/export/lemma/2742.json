@@ -1,0 +1,141 @@
+{
+  "source_article_id": 2742,
+  "lemmas": [
+    {
+      "lemma": "arrest",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3285,
+      "is_sub_article": false,
+      "primary_translation": "arrest / detention",
+      "word_forms": [
+        {
+          "word_form": "arrest",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"rE$st",
+              "ipa": "ɑˈrɛst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "arresten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"rE$stn=",
+              "ipa": "ɑˈrɛstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "arrester",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"rE$st@r",
+              "ipa": "ɑˈrɛstər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "arrestene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"rE$stn=$@",
+              "ipa": "ɑˈrɛstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "39b2b1cd1fed.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39b2b1cd1fed.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39b2b1cd1fed.mp3",
+            "text": "arrest",
+            "source": "generated",
+            "content_sha256": "55873b218c5ed402602f0c31353dbe31e12e3b30627f824829f079a84e494719",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i jus: midlertidig fengsling av person eller beslaglegging av gods",
+      "translation": "in law: temporary detention of a person, seizure of goods",
+      "examples": [
+        {
+          "no": "ta arrest i utestående fordringer",
+          "en": "attach outstanding claims"
+        },
+        {
+          "no": "begjære arrest",
+          "en": "petition for an attachment"
+        }
+      ]
+    },
+    {
+      "text": "militært: vaktarrest, kakebu",
+      "translation": "military: guard arrest, brig",
+      "examples": []
+    },
+    {
+      "text": "rom til å ha arrestanter i",
+      "translation": "room for holding prisoners",
+      "examples": [
+        {
+          "no": "sitte i arresten",
+          "en": "be in the holding cell"
+        }
+      ]
+    }
+  ]
+}

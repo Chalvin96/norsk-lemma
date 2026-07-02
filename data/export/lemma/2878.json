@@ -1,0 +1,121 @@
+{
+  "source_article_id": 2878,
+  "lemmas": [
+    {
+      "lemma": "asbestose",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3424,
+      "is_sub_article": false,
+      "primary_translation": "asbestosis",
+      "word_forms": [
+        {
+          "word_form": "asbestose",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "As$b@$\"\"stu:$s@",
+              "ipa": "ɑsbəˈstuːsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "asbestosen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "As$b@$\"\"stu:$sn=",
+              "ipa": "ɑsbəˈstuːsn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "asbestoser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsbəstˈuːsər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "asbestosene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsbəstˈuːsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2f4ac23263aa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f4ac23263aa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f4ac23263aa.mp3",
+            "text": "asbestose",
+            "source": "generated",
+            "content_sha256": "37ff85ba4dc7ff37746b3c25ae956d0d4975b6f468490799f0f71ea05354657b",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lungesykdom lungesjukdom som skyldes innånding av asbeststøv",
+      "translation": "lung disease caused by inhaling asbestos dust",
+      "examples": []
+    }
+  ]
+}

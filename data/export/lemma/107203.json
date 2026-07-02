@@ -1,0 +1,127 @@
+{
+  "source_article_id": 107203,
+  "lemmas": [
+    {
+      "lemma": "administrasjonsbygg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 85264,
+      "is_sub_article": false,
+      "primary_translation": "administration building",
+      "word_forms": [
+        {
+          "word_form": "administrasjonsbygg",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ad$mI$nI$strA$\"Su:ns$%bYg",
+              "ipa": "ɑdmɪnɪstrɑˈʃuːnsˌbʏg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "administrasjonsbygget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ad$mI$nI$strA$\"Su:ns$%bY$g@",
+              "ipa": "ɑdmɪnɪstrɑˈʃuːnsˌbʏgə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "administrasjonsbygga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑdmɪnɪstrɑʃˈuːnsbˌʏgɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "administrasjonsbyggene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑdmɪnɪstrɑʃˈuːnsbˌʏgənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8160cc81cfc4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8160cc81cfc4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8160cc81cfc4.mp3",
+            "text": "administrasjonsbygg",
+            "source": "generated",
+            "content_sha256": "2d490f07f8dee981f1683d77e1e8a1c07920a68638ac868ef2af0498b47fe7cf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bygg der en administrasjon holder til",
+      "translation": "building where an administration is located",
+      "examples": [
+        {
+          "no": "kommunens administrasjonsbygg",
+          "en": "the municipality's administration building"
+        }
+      ]
+    }
+  ]
+}

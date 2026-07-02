@@ -1,0 +1,146 @@
+{
+  "source_article_id": 123696,
+  "lemmas": [
+    {
+      "lemma": "datakyndig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2007889,
+      "is_sub_article": false,
+      "primary_translation": "computer-savvy",
+      "word_forms": [
+        {
+          "word_form": "datakyndig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%CYn$dI",
+              "ipa": "ˈdɑːtɑˌçʏndɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datakyndige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tA$%CYn$dI$@",
+              "ipa": "ˈdɑːtɑˌçʏndɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "datakyndigere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑçˌʏndɪərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "datakyndigst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑçˌʏndɪgst",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "datakyndigste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɑːtɑçˌʏndɪgstə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "0f9e5649e5ff.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f9e5649e5ff.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/0f9e5649e5ff.mp3",
+            "text": "datakyndig",
+            "source": "generated",
+            "content_sha256": "ff3f07743fb99d2537736c9fd13de7de710f387867147baff5cf65b3f466afe0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har god kunnskap om datamaskiner og datasystem",
+      "translation": "knowledgeable about computers and computer systems",
+      "examples": [
+        {
+          "no": "la en datakyndig person sjekke kamera og minnebrikke",
+          "en": "have a computer-savvy person check the camera and memory card"
+        }
+      ]
+    }
+  ]
+}

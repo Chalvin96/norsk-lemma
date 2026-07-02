@@ -1,0 +1,128 @@
+{
+  "source_article_id": 125997,
+  "lemmas": [
+    {
+      "lemma": "quiche",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2214346,
+      "is_sub_article": false,
+      "primary_translation": "quiche",
+      "word_forms": [
+        {
+          "word_form": "quiche",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ki:tS",
+              "ipa": "ˈkɪːtʃ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "quichen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɪtʃn̩",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "quicher",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɪtʃər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "quichene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɪtʃn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "df8b37141baa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df8b37141baa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df8b37141baa.mp3",
+            "text": "quiche",
+            "source": "generated",
+            "content_sha256": "928d5d21641da751ba1898fb87bb77df08d05d9e41adfd30d42387a0f5d5815a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "terte eller pai med fyll av sammenpisket egg, melk og revet ost i tillegg til grønnsaker, kjøtt eller fisk",
+      "translation": "tart or pie with a filling of beaten egg, milk, and grated cheese in addition to vegetables, meat, or fish",
+      "examples": [
+        {
+          "no": "han serverte quichen med salat",
+          "en": "he served the quiche with salad"
+        }
+      ]
+    }
+  ]
+}

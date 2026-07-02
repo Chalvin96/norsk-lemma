@@ -1,0 +1,136 @@
+{
+  "source_article_id": 18582,
+  "lemmas": [
+    {
+      "lemma": "fysikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 21714,
+      "is_sub_article": false,
+      "primary_translation": "physics / constitution",
+      "word_forms": [
+        {
+          "word_form": "fysikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fY$\"sIk",
+              "ipa": "fʏˈsɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fysikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fY$\"sI$k@n",
+              "ipa": "fʏˈsɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fysikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fʏsˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fysikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fʏsˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "57fae3ce442e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57fae3ce442e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57fae3ce442e.mp3",
+            "text": "fysikk",
+            "source": "generated",
+            "content_sha256": "3588666f5afe38a07231660ee95d73b32221342e175b03fa905c39d8314d7641",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lære om den uorganisk naturens krefter og energiformer",
+      "translation": "study of the forces and forms of energy in the inorganic natural world",
+      "examples": [
+        {
+          "no": "studere fysikk",
+          "en": "study physics"
+        }
+      ]
+    },
+    {
+      "text": "kroppstilstand, konstitusjon",
+      "translation": "bodily condition, constitution",
+      "examples": [
+        {
+          "no": "ha en god fysikk",
+          "en": "have a good physique"
+        }
+      ]
+    }
+  ]
+}

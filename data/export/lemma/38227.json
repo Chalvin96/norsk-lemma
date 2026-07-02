@@ -1,0 +1,97 @@
+{
+  "source_article_id": 38227,
+  "lemmas": [
+    {
+      "lemma": "middelaldersk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 44842,
+      "is_sub_article": false,
+      "primary_translation": "medieval / archaic",
+      "word_forms": [
+        {
+          "word_form": "middelaldersk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mI$dl=$%Al$d@$s`k",
+              "ipa": "ˈmɪdl̩ˌɑldəʂk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "middelalderske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"mI$dl=$%Al$d@$s`k@",
+              "ipa": "ˈmɪdl̩ˌɑldəʂkə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "849045b7b4c7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/849045b7b4c7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/849045b7b4c7.mp3",
+            "text": "middelaldersk",
+            "source": "generated",
+            "content_sha256": "e4762d3bbce03a201259fbccd1ddd64f27bf85b493b0b969238b58f7a74d9763",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller skriver seg fra middelalder",
+      "translation": "concerning or originating from the Middle Ages",
+      "examples": [
+        {
+          "no": "middelalderske treskulpturer",
+          "en": "medieval wooden sculptures"
+        }
+      ]
+    },
+    {
+      "text": "avleggs, primitiv, barbarisk",
+      "translation": "archaic, primitive, barbaric",
+      "examples": [
+        {
+          "no": "middelalderske straffemetoder",
+          "en": "medieval methods of punishment"
+        }
+      ]
+    }
+  ]
+}

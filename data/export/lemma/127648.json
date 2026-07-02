@@ -1,0 +1,125 @@
+{
+  "source_article_id": 127648,
+  "lemmas": [
+    {
+      "lemma": "signalanlegg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 137572,
+      "is_sub_article": false,
+      "primary_translation": "signaling system",
+      "word_forms": [
+        {
+          "word_form": "signalanlegg",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sIN$\"nA:$lAn$%lEg",
+              "ipa": "sɪŋˈnɑːlɑnˌlɛg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "signalanlegget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sIN$\"nA:$lAn$%lE$g@",
+              "ipa": "sɪŋˈnɑːlɑnˌlɛgə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "signalanlegga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sɪŋnˈɑːlɑnlˌɛgɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "signalanleggene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sIN$\"nA:$lAn$%lE$g@$n@",
+              "ipa": "sɪŋˈnɑːlɑnˌlɛgənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2e96a542d250.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e96a542d250.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2e96a542d250.mp3",
+            "text": "signalanlegg",
+            "source": "generated",
+            "content_sha256": "d12add0a083390f82c8339ec0167f1d7fdf9f1edc1221b6c2b188fb7ec59af10",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "anlegg som gir signal (for eksempel med sirener eller lys) ved en bestemt påvirkning",
+      "translation": "system that gives a signal (e.g., with sirens or lights) upon a specific influence",
+      "examples": [
+        {
+          "no": "signalanlegget ved planovergangen blir aktivert når et tog nærmer seg",
+          "en": "the signalling system at the level crossing is activated when a train approaches"
+        }
+      ]
+    }
+  ]
+}

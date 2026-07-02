@@ -1,0 +1,82 @@
+{
+  "source_article_id": 6987,
+  "lemmas": [
+    {
+      "lemma": "boolsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 8197,
+      "is_sub_article": false,
+      "primary_translation": "Boolean",
+      "word_forms": [
+        {
+          "word_form": "boolsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bu:lsk",
+              "ipa": "ˈbuːlsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "boolske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bu:l$sk@",
+              "ipa": "ˈbuːlskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a89a3ec58d66.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a89a3ec58d66.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a89a3ec58d66.mp3",
+            "text": "boolsk",
+            "source": "generated",
+            "content_sha256": "5c381517fb09ef540de528ab4c244940fd5f9485f5e9f6920058d70f4b99be19",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i matematikk og logikk: som har to mulige verdier for variabler, kalt ‘sann’ eller ‘usann’, og uttrykt som 1 eller 0",
+      "translation": "in logic: having two possible values for variables, called 'true' or 'false', and expressed as 1 or 0",
+      "examples": []
+    }
+  ]
+}

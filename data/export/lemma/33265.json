@@ -1,0 +1,113 @@
+{
+  "source_article_id": 33265,
+  "lemmas": [
+    {
+      "lemma": "kvistfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 39020,
+      "is_sub_article": false,
+      "primary_translation": "knot-free",
+      "word_forms": [
+        {
+          "word_form": "kvistfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvI$%stfri:",
+              "ipa": "ˈkvɪˌstfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kvistfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvI$%stfri:$@",
+              "ipa": "ˈkvɪˌstfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kvistfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvI$%stfrIt",
+              "ipa": "ˈkvɪˌstfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43bfd2c591bc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43bfd2c591bc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43bfd2c591bc.mp3",
+            "text": "kvistfri",
+            "source": "generated",
+            "content_sha256": "8ebbc8c6d4ff44c14a37074d7b1e6410075195eb84233658b4d1faa6fb4ec1a0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten kvist",
+      "translation": "knot-free",
+      "examples": [
+        {
+          "no": "kvistfritt tømmer",
+          "en": "knot-free timber"
+        }
+      ]
+    },
+    {
+      "text": "uten kvist",
+      "translation": "without knots",
+      "examples": [
+        {
+          "no": "et kvistfritt furugulv",
+          "en": "a knot-free pine floor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "source_article_id": 11586,
+  "lemmas": [
+    {
+      "lemma": "døvblind",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13557,
+      "is_sub_article": false,
+      "primary_translation": "deaf-blind",
+      "word_forms": [
+        {
+          "word_form": "døvblind",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:v$%blIn",
+              "ipa": "ˈdøːvˌblɪn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "døvblinde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:v$%blI$n@",
+              "ipa": "ˈdøːvˌblɪnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "døvblindt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"d2:v$%blInt",
+              "ipa": "ˈdøːvˌblɪnt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c2189cae7e61.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2189cae7e61.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2189cae7e61.mp3",
+            "text": "døvblind",
+            "source": "generated",
+            "content_sha256": "38a4f6c4f13dc49edf5801fac9d539ef5f7635eb77a0f6c2c6c5ad1963051c6d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som både er døv og blind",
+      "translation": "being both deaf and blind",
+      "examples": []
+    }
+  ]
+}

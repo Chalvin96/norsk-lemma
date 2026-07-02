@@ -1,0 +1,124 @@
+{
+  "source_article_id": 64293,
+  "lemmas": [
+    {
+      "lemma": "undergjær",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 73632,
+      "is_sub_article": false,
+      "primary_translation": "bottom-fermenting yeast",
+      "word_forms": [
+        {
+          "word_form": "undergjær",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$n@r$%j{:r",
+              "ipa": "ˈʉnərˌjæːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "undergjæren",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$n@r$%j{:$n`=",
+              "ipa": "ˈʉnərˌjæːɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "undergjærer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u0$n@r$%j{:$r@r",
+              "ipa": "ˈʉnərˌjæːrər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "undergjærene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈʉnərjˌæːɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8f4bc69e1f9f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f4bc69e1f9f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8f4bc69e1f9f.mp3",
+            "text": "undergjær",
+            "source": "generated",
+            "content_sha256": "5d072dbd96da8743d7fd89e5982a11d9e8d5ebe3265abb187ad62af9d99962bb",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gjær til brygging som siger til bunns under gjæringen",
+      "translation": "yeast for brewing that settles to the bottom during fermentation",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra overgjær",
+      "translation": "in contrast to top-fermenting yeast",
+      "examples": []
+    }
+  ]
+}

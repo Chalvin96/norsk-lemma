@@ -1,0 +1,97 @@
+{
+  "source_article_id": 40944,
+  "lemmas": [
+    {
+      "lemma": "nomadisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47901,
+      "is_sub_article": false,
+      "primary_translation": "nomadic",
+      "word_forms": [
+        {
+          "word_form": "nomadisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$\"\"mA:$dI$sk",
+              "ipa": "nʊˈmɑːdɪsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nomadiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$\"\"mA:$dI$sk@",
+              "ipa": "nʊˈmɑːdɪskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a3aacae74dd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a3aacae74dd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a3aacae74dd.mp3",
+            "text": "nomadisk",
+            "source": "generated",
+            "content_sha256": "fd26cac8af1ad37e031eb86a1c4677fb749cfb234374ccc7520bf6ca2d110aa0",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kjennetegner nomade",
+      "translation": "characterizing a nomad",
+      "examples": [
+        {
+          "no": "reindriftssamene har hatt et nomadisk levevis",
+          "en": "the Sami reindeer herders have had a nomadic way of life"
+        }
+      ]
+    },
+    {
+      "text": "som er preget av en omflakkende levemåte",
+      "translation": "characterized by a wandering way of life",
+      "examples": [
+        {
+          "no": "de førte en nomadisk tilværelse i utenrikstjenesten",
+          "en": "they led a nomadic existence in the foreign service"
+        }
+      ]
+    }
+  ]
+}

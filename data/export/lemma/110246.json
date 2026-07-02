@@ -1,0 +1,125 @@
+{
+  "source_article_id": 110246,
+  "lemmas": [
+    {
+      "lemma": "østgående",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 155413,
+      "is_sub_article": false,
+      "primary_translation": "eastbound",
+      "word_forms": [
+        {
+          "word_form": "østgående",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"9$%stgo:$@$n@",
+              "ipa": "ˈœˌstgoːənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eec8811ff2b3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eec8811ff2b3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eec8811ff2b3.mp3",
+            "text": "østgående",
+            "source": "generated",
+            "content_sha256": "abe6c0aab6a249d0ec2271720f02efcdf8111df4a73b4ce4dce645b4379d4f88",
+            "tone": 1
+          }
+        ]
+      }
+    },
+    {
+      "lemma": "austgående",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 162681,
+      "is_sub_article": false,
+      "primary_translation": "eastbound",
+      "word_forms": [
+        {
+          "word_form": "austgående",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈæ͡ʉstgˌoːənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1f5d1329768a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f5d1329768a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1f5d1329768a.mp3",
+            "text": "austgående",
+            "source": "generated",
+            "content_sha256": "da0af55d30cbd8e9d1ef26ea9912cdee1f2a10089cd7e6545baf76899d1ae396"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som går i østlig retning",
+      "translation": "going in an easterly direction",
+      "examples": [
+        {
+          "no": "østgående tog",
+          "en": "eastbound train"
+        },
+        {
+          "no": "østgående kjøreretning",
+          "en": "eastbound direction of travel"
+        }
+      ]
+    }
+  ]
+}

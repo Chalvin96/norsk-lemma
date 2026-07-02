@@ -1,0 +1,113 @@
+{
+  "source_article_id": 115904,
+  "lemmas": [
+    {
+      "lemma": "halvstor",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 104907,
+      "is_sub_article": false,
+      "primary_translation": "medium-sized",
+      "word_forms": [
+        {
+          "word_form": "halvstor",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlstˌuːr",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "halvstore",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"hAl$%stu:$r@",
+              "ipa": "ˈhɑlˌstuːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "halvstort",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hˈɑlstˌuːʈ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e48ff4b651bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e48ff4b651bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e48ff4b651bf.mp3",
+            "text": "halvstor",
+            "source": "generated",
+            "content_sha256": "db61cfb583f55f286571bc2a6287974e23b663b349e3badf5feff09658cd5039"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "mellomstor",
+      "translation": "medium-sized",
+      "examples": [
+        {
+          "no": "verftet tar både halvstore og små oppdrag",
+          "en": "the shipyard takes on both medium-sized and small jobs"
+        },
+        {
+          "no": "halvstore barn",
+          "en": "medium-sized children"
+        }
+      ]
+    }
+  ]
+}

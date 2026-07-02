@@ -1,0 +1,124 @@
+{
+  "source_article_id": 31095,
+  "lemmas": [
+    {
+      "lemma": "kondens",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36614,
+      "is_sub_article": false,
+      "primary_translation": "condensation",
+      "word_forms": [
+        {
+          "word_form": "kondens",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"dn=s",
+              "ipa": "kʊnˈdn̩s",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kondensen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"dEn$sn=",
+              "ipa": "kʊnˈdɛnsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kondenser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kUn$\"dEn$s@r",
+              "ipa": "kʊnˈdɛnsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kondensene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kundˈɛnsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d85db0a0ac26.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d85db0a0ac26.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d85db0a0ac26.mp3",
+            "text": "kondens",
+            "source": "generated",
+            "content_sha256": "24a1215c67ebe1e96349f2e4b88d36ef481aabc538c02b64af803addc2efd679",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kondensere væske",
+      "translation": "condensed liquid",
+      "examples": [
+        {
+          "no": "få kondens på innsiden av vinduet",
+          "en": "get condensation on the inside of the window"
+        }
+      ]
+    }
+  ]
+}

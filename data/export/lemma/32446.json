@@ -1,0 +1,126 @@
+{
+  "source_article_id": 32446,
+  "lemmas": [
+    {
+      "lemma": "kryptologi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 38076,
+      "is_sub_article": false,
+      "primary_translation": "cryptology",
+      "word_forms": [
+        {
+          "word_form": "kryptologi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krYp$tU$lU$\"gi:",
+              "ipa": "krʏptʊlʊˈgɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kryptologien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "krYp$tU$lU$\"gi:$@n",
+              "ipa": "krʏptʊlʊˈgɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kryptologier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "krʏptulugˈiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kryptologiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "krʏptulugˈiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "27737cd62698.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/27737cd62698.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/27737cd62698.mp3",
+            "text": "kryptologi",
+            "source": "generated",
+            "content_sha256": "0fec10f5a43f044f1ec0d4a8364ce37ebf4beb3fe0cd823c1d877f537180df2d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lære om sikre kommunikasjonssystemer",
+      "translation": "study of secure communication systems",
+      "examples": []
+    },
+    {
+      "text": "jamfør kryptografi og kryptoanalyse",
+      "translation": "cryptography and cryptanalysis",
+      "examples": []
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "source_article_id": 31750,
+  "lemmas": [
+    {
+      "lemma": "kortsiktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 37331,
+      "is_sub_article": false,
+      "primary_translation": "short-term",
+      "word_forms": [
+        {
+          "word_form": "kortsiktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kOt`$%sIk$tI",
+              "ipa": "ˈkɔʈˌsɪktɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kortsiktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kOt`$%sIk$tI$@",
+              "ipa": "ˈkɔʈˌsɪktɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d4fe31fba360.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4fe31fba360.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d4fe31fba360.mp3",
+            "text": "kortsiktig",
+            "source": "generated",
+            "content_sha256": "ac2f99034469385a8689b96bba3731f68076854b6f12c3a34e56e0bfa7e6dff2",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder for kort tid",
+      "translation": "relating to a short period of time",
+      "examples": []
+    },
+    {
+      "text": "på kort sikt",
+      "translation": "in the short term",
+      "examples": [
+        {
+          "no": "ta opp et kortsiktig lån",
+          "en": "take out a short-term loan"
+        },
+        {
+          "no": "kortsiktige resultater",
+          "en": "short-term results"
+        },
+        {
+          "no": "kortsiktig politikk",
+          "en": "short-sighted policy"
+        }
+      ]
+    }
+  ]
+}

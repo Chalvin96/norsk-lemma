@@ -1,0 +1,145 @@
+{
+  "source_article_id": 49006,
+  "lemmas": [
+    {
+      "lemma": "rubrikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 56277,
+      "is_sub_article": false,
+      "primary_translation": "heading / newspaper column / form field",
+      "word_forms": [
+        {
+          "word_form": "rubrikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ru0$\"brIk",
+              "ipa": "rʉˈbrɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rubrikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ru0$\"brI$k@n",
+              "ipa": "rʉˈbrɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rubrikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ru0$\"brI$k@r",
+              "ipa": "rʉˈbrɪkər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rubrikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "ru0$\"brI$k@$n@",
+              "ipa": "rʉˈbrɪkənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "18ac3f01c8f2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18ac3f01c8f2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18ac3f01c8f2.mp3",
+            "text": "rubrikk",
+            "source": "generated",
+            "content_sha256": "c417875d85e773711a4f6fa469bb65ca53f9840fb69d7ae8909bd77a4d16cd4c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "overskrift over spalte eller lignende",
+      "translation": "heading above a column",
+      "examples": []
+    },
+    {
+      "text": "spalte eller samling tekster under felles overskrift, for eksempel i avis",
+      "translation": "column or collection of texts under a common heading, e.g., in a newspaper",
+      "examples": [
+        {
+          "no": "rubrikker for boligannonsering",
+          "en": "sections for housing ads"
+        },
+        {
+          "no": "en jobbannonse under rubrikken ‘Grafisk designer søkes’",
+          "en": "a job ad under the heading ‘Graphic designer wanted’"
+        }
+      ]
+    },
+    {
+      "text": "felt i skjema",
+      "translation": "field in a form",
+      "examples": [
+        {
+          "no": "krysse av i rubrikkene",
+          "en": "tick the boxes"
+        },
+        {
+          "no": "et skjema med egne rubrikker for nedbørsmengde",
+          "en": "a form with separate boxes for precipitation amounts"
+        }
+      ]
+    }
+  ]
+}

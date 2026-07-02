@@ -1,0 +1,87 @@
+{
+  "source_article_id": 113312,
+  "lemmas": [
+    {
+      "lemma": "erfaringsbasert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 164232,
+      "is_sub_article": false,
+      "primary_translation": "experience-based",
+      "word_forms": [
+        {
+          "word_form": "erfaringsbasert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"fA:$rINs$bA$%se:t`",
+              "ipa": "ærˈfɑːrɪŋsbɑˌseːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "erfaringsbaserte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "{r$\"fA:$rINs$bA$%se:$t`@",
+              "ipa": "ærˈfɑːrɪŋsbɑˌseːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b75d0cd7da4e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b75d0cd7da4e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b75d0cd7da4e.mp3",
+            "text": "erfaringsbasert",
+            "source": "generated",
+            "content_sha256": "c7e981d8c15500dd2d13ff1a57fb0f0ee1c5e3b78ca468f764ef7bd1f4c07cf5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bygger på erfaring",
+      "translation": "based on experience",
+      "examples": [
+        {
+          "no": "erfaringsbasert kunnskap",
+          "en": "experience-based knowledge"
+        }
+      ]
+    }
+  ]
+}

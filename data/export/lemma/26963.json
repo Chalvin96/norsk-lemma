@@ -1,0 +1,106 @@
+{
+  "source_article_id": 26963,
+  "lemmas": [
+    {
+      "lemma": "interglasial",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32067,
+      "is_sub_article": false,
+      "primary_translation": "interglacial",
+      "word_forms": [
+        {
+          "word_form": "interglasial",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$t@r$glA$sI$\"A:l",
+              "ipa": "ɪntərglɑsɪˈɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "interglasiale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$t@r$glA$sI$\"A:$l@",
+              "ipa": "ɪntərglɑsɪˈɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "interglasialt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "In$t@r$glA$sI$\"A:lt",
+              "ipa": "ɪntərglɑsɪˈɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "54f89203e4b6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54f89203e4b6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/54f89203e4b6.mp3",
+            "text": "interglasial",
+            "source": "generated",
+            "content_sha256": "3020570f2167269c27c525a8225348a93480890c83f6575dd301ef513281ad91",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er mellom to istid",
+      "translation": "occurring between two ice ages",
+      "examples": [
+        {
+          "no": "en interglasial periode",
+          "en": "an interglacial period"
+        }
+      ]
+    }
+  ]
+}

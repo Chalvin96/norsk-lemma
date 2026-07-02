@@ -1,0 +1,104 @@
+{
+  "source_article_id": 61490,
+  "lemmas": [
+    {
+      "lemma": "tonnkilometer",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70332,
+      "is_sub_article": false,
+      "primary_translation": "ton-kilometer",
+      "word_forms": [
+        {
+          "word_form": "tonnkilometer",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tOn$Ci:$lU$%me:$t@r",
+              "ipa": "ˈtɔnçɪːlʊˌmeːtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tonnkilometeren",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tOn$Ci:$lU$%me:$t@n`",
+              "ipa": "ˈtɔnçɪːlʊˌmeːtəɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "tonnkilometerne",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"tOn$Ci:$lU$%me:$t@$n`@",
+              "ipa": "ˈtɔnçɪːlʊˌmeːtəɳə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "396b174a9b9f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396b174a9b9f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/396b174a9b9f.mp3",
+            "text": "tonnkilometer",
+            "source": "generated",
+            "content_sha256": "3abd2bf74fee88c596c3aa55846552d87c916a0773260f94250568239027ebea",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enhet for fraktet godsmengde",
+      "translation": "unit for the amount of freight transported",
+      "examples": [
+        {
+          "no": "100 tonn malm som blir fraktet 20 kilometer utgjør 2000 tonnkilometer",
+          "en": "100 tons of ore transported 20 kilometers amounts to 2,000 ton-kilometers"
+        }
+      ]
+    }
+  ]
+}

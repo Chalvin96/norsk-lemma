@@ -1,0 +1,130 @@
+{
+  "source_article_id": 2983,
+  "lemmas": [
+    {
+      "lemma": "astma",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3540,
+      "is_sub_article": false,
+      "primary_translation": "asthma",
+      "word_forms": [
+        {
+          "word_form": "astma",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A$smA",
+              "ipa": "ˈɑsmɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "astmaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A$smA$@n",
+              "ipa": "ˈɑsmɑən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "astmaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑsmɑər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "astmaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑsmɑənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2f4c2112dfbe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f4c2112dfbe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f4c2112dfbe.mp3",
+            "text": "astma",
+            "source": "generated",
+            "content_sha256": "bcbfd359c2f62b3d80d13c007df4a3609bff785afab740e6000fdd3c41e5157c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "sykdom som fører med seg åndenød og hoste",
+      "translation": "disease causing shortness of breath and coughing",
+      "examples": [
+        {
+          "no": "utvikle astma",
+          "en": "develop asthma"
+        },
+        {
+          "no": "barn med astma",
+          "en": "children with asthma"
+        }
+      ]
+    }
+  ]
+}

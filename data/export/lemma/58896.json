@@ -1,0 +1,87 @@
+{
+  "source_article_id": 58896,
+  "lemmas": [
+    {
+      "lemma": "sydlandsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 67392,
+      "is_sub_article": false,
+      "primary_translation": "southern (relating to countries/people)",
+      "word_forms": [
+        {
+          "word_form": "sydlandsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sy:d$%lAnsk",
+              "ipa": "ˈsyːdˌlɑnsk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sydlandske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sy:d$%lAn$sk@",
+              "ipa": "ˈsyːdˌlɑnskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "23f3d3f98b5e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/23f3d3f98b5e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/23f3d3f98b5e.mp3",
+            "text": "sydlandsk",
+            "source": "generated",
+            "content_sha256": "d660ad519075daba2aad31ab91ff12aea6c945e461784d2c09d526d27ce13113",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder land i Syden og sydlendinger",
+      "translation": "relating to countries in the South and people from the South",
+      "examples": [
+        {
+          "no": "det var rent sydlandsk stemning i byen",
+          "en": "there was a distinctly southern atmosphere in the city"
+        }
+      ]
+    }
+  ]
+}

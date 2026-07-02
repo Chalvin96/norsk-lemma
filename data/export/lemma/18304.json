@@ -1,0 +1,197 @@
+{
+  "source_article_id": 18304,
+  "lemmas": [
+    {
+      "lemma": "frøse",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 21421,
+      "is_sub_article": false,
+      "primary_translation": "foam / snort",
+      "word_forms": [
+        {
+          "word_form": "frøse",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fr2:$s@",
+              "ipa": "ˈfrøːsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "frøser",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fr2:$s@r",
+              "ipa": "ˈfrøːsər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "frøses",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fr2:$s@s",
+              "ipa": "ˈfrøːsəs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "frøste",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fr2:$st@",
+              "ipa": "ˈfrøːstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "frøst",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fr2:$st",
+              "ipa": "ˈfrøːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "frøsende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fr2:$sn=$@",
+              "ipa": "ˈfrøːsn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "frøs",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"fr2:s",
+              "ipa": "ˈfrøːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a6481ba95cd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a6481ba95cd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a6481ba95cd.mp3",
+            "text": "frøse",
+            "source": "generated",
+            "content_sha256": "60155fdeffa12b7c2c30946bf4b4b6feac1f1a686118782e1c733cc0cdbfe291",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fosse, skumme",
+      "translation": "foam, froth",
+      "examples": [
+        {
+          "no": "bølgene frøser om båten",
+          "en": "the waves foam around the boat"
+        }
+      ]
+    },
+    {
+      "text": "fnyse, snerre",
+      "translation": "snort, growl",
+      "examples": []
+    },
+    {
+      "text": "blåse luft fort ut",
+      "translation": "blow air out quickly",
+      "examples": [
+        {
+          "no": "hesten frøser",
+          "en": "the horse snorts"
+        },
+        {
+          "no": "frøse av sinne",
+          "en": "snort with anger"
+        }
+      ]
+    }
+  ]
+}

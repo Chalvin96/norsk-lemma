@@ -1,0 +1,113 @@
+{
+  "source_article_id": 12303,
+  "lemmas": [
+    {
+      "lemma": "elegant",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14377,
+      "is_sub_article": false,
+      "primary_translation": "elegant / graceful",
+      "word_forms": [
+        {
+          "word_form": "elegant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$l@$\"gAnt",
+              "ipa": "ɛləˈgɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elegante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$l@$\"gAn$t@",
+              "ipa": "ɛləˈgɑntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "be45c9418ace.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be45c9418ace.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be45c9418ace.mp3",
+            "text": "elegant",
+            "source": "generated",
+            "content_sha256": "d06afa75c8418d6c8cff7cc0284748fd08a10af1d574236b81bcec1b34dfab7e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "smakfull, stilig, velkledd",
+      "translation": "tasteful, stylish, well-dressed",
+      "examples": [
+        {
+          "no": "være elegant i tøyet",
+          "en": "be elegantly dressed"
+        },
+        {
+          "no": "en elegant herre",
+          "en": "an elegant gentleman"
+        },
+        {
+          "no": "kle seg elegant",
+          "en": "dress elegantly"
+        }
+      ]
+    },
+    {
+      "text": "lekende, lett",
+      "translation": "playful, light",
+      "examples": [
+        {
+          "no": "i elegant stil",
+          "en": "in elegant style"
+        },
+        {
+          "no": "innredningen var en elegant løsning",
+          "en": "the decor was an elegant solution"
+        },
+        {
+          "no": "hoppe elegant over alle innvendinger",
+          "en": "elegantly sidestep all objections"
+        }
+      ]
+    }
+  ]
+}

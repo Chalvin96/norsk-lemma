@@ -1,0 +1,135 @@
+{
+  "source_article_id": 111405,
+  "lemmas": [
+    {
+      "lemma": "mengdeord",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 122977,
+      "is_sub_article": false,
+      "primary_translation": "quantifier",
+      "word_forms": [
+        {
+          "word_form": "mengdeord",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛŋdəˌuːr",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "mengdeordet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛŋdəˌuːrə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "mengdeorda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛŋdəˌuːrɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "mengdeordene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mˈɛŋdəˌuːɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1b9fdeef7979.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b9fdeef7979.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1b9fdeef7979.mp3",
+            "text": "mengdeord",
+            "source": "generated",
+            "content_sha256": "2886b21836db3620074339ffff3d3f49c750db71b411654179f5bd20d0d233a7"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i grammatikk: ord som uttrykker mengde eller antall av noe det blir referert til i teksten",
+      "translation": "in grammar: word that expresses quantity or number of something referred to in the text",
+      "examples": []
+    },
+    {
+      "text": "undergruppe av determinativ",
+      "translation": "subgroup of determiners",
+      "examples": [
+        {
+          "no": "i frasen ‘alle barna’ er ‘alle’ et mengdeord som står til ‘barna’",
+          "en": "in the phrase ‘all the children’, ‘all’ is a quantifier modifying ‘the children’"
+        }
+      ]
+    }
+  ]
+}

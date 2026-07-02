@@ -1,0 +1,125 @@
+{
+  "source_article_id": 5082,
+  "lemmas": [
+    {
+      "lemma": "bek",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5985,
+      "is_sub_article": false,
+      "primary_translation": "black pitch",
+      "word_forms": [
+        {
+          "word_form": "bek",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"be:k",
+              "ipa": "ˈbeːk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "beket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"be:$k@t",
+              "ipa": "ˈbeːkət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "beka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"be:$kA",
+              "ipa": "ˈbeːkɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "bekene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "bˈeːkənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "49c2c350646b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49c2c350646b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49c2c350646b.mp3",
+            "text": "bek",
+            "source": "generated",
+            "content_sha256": "9560500362894837fa5ff2ce5dc5e11703fb2c34a48c41abcac53ac2a3fd6956",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svartbrun destillasjonsrest av tjære og andre organiske stoffer",
+      "translation": "blackish-brown distillation residue of tar and other organic substances",
+      "examples": [
+        {
+          "no": "svart som bek",
+          "en": "black as pitch"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "source_article_id": 5341,
+  "lemmas": [
+    {
+      "lemma": "bereist",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6298,
+      "is_sub_article": false,
+      "primary_translation": "well-traveled",
+      "word_forms": [
+        {
+          "word_form": "bereist",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"r{*I$st",
+              "ipa": "bəˈræ͡ɪst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "bereiste",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"r{*I$st@",
+              "ipa": "bəˈræ͡ɪstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d22b6981f8de.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d22b6981f8de.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d22b6981f8de.mp3",
+            "text": "bereist",
+            "source": "generated",
+            "content_sha256": "d7ebf4d5bc6701e054ee1a8b62a358bc6bcadd2c6dbe08497652ded275604974",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har reist mye",
+      "translation": "who has traveled a lot",
+      "examples": [
+        {
+          "no": "hun var en vidt bereist dame",
+          "en": "she was a widely traveled lady"
+        }
+      ]
+    }
+  ]
+}

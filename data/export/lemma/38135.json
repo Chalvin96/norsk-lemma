@@ -1,0 +1,121 @@
+{
+  "source_article_id": 38135,
+  "lemmas": [
+    {
+      "lemma": "meter",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 44743,
+      "is_sub_article": false,
+      "primary_translation": "meter",
+      "word_forms": [
+        {
+          "word_form": "meter",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$t@r",
+              "ipa": "ˈmeːtər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "meteren",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$t@n`",
+              "ipa": "ˈmeːtəɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "meterne",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"me:$t@$n`@",
+              "ipa": "ˈmeːtəɳə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f12f473bf793.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f12f473bf793.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f12f473bf793.mp3",
+            "text": "meter",
+            "source": "generated",
+            "content_sha256": "7c56a4137bd6f993b7500f5e76f35af5749ef65a5dc0c7d1525938078e0a27e0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grunnenhet for lengde",
+      "translation": "base unit for length",
+      "examples": []
+    },
+    {
+      "text": "symbol m",
+      "translation": "symbol m",
+      "examples": [
+        {
+          "no": "huset er ti meter langt",
+          "en": "the house is ten meters long"
+        },
+        {
+          "no": "tøyet koster 80 kr meteren",
+          "en": "the fabric costs 80 kroner a meter"
+        },
+        {
+          "no": "gå de siste meterne",
+          "en": "walk the last few meters"
+        },
+        {
+          "no": "vekten er et helt tonn per meter",
+          "en": "the weight is a full ton per meter"
+        }
+      ]
+    }
+  ]
+}

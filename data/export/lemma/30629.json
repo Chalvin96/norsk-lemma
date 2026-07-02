@@ -1,0 +1,123 @@
+{
+  "source_article_id": 30629,
+  "lemmas": [
+    {
+      "lemma": "knyst",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36078,
+      "is_sub_article": false,
+      "primary_translation": "silence",
+      "word_forms": [
+        {
+          "word_form": "knyst",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"knY$st",
+              "ipa": "ˈknʏst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "knystet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"knY$st@",
+              "ipa": "ˈknʏstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "knysta",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"knY$stA",
+              "ipa": "ˈknʏstɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "knystene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"knY$stn=$@",
+              "ipa": "ˈknʏstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e59ce47fa19d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e59ce47fa19d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e59ce47fa19d.mp3",
+            "text": "knyst",
+            "source": "generated",
+            "content_sha256": "615d40189dc11fc570e047b2f94fd8e0097e0a07f04cebc6ad07870fb7e74150",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å knyste",
+      "translation": "the act of keeping quiet",
+      "examples": [
+        {
+          "no": "arbeide uten et knyst",
+          "en": "work without a sound"
+        }
+      ]
+    }
+  ]
+}

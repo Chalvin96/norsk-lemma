@@ -1,0 +1,131 @@
+{
+  "source_article_id": 24901,
+  "lemmas": [
+    {
+      "lemma": "hydraulikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29414,
+      "is_sub_article": false,
+      "primary_translation": "hydraulics",
+      "word_forms": [
+        {
+          "word_form": "hydraulikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$drE*u0$\"lIk",
+              "ipa": "hʏdræ͡ʉˈlɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hydraulikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$drE*u0$\"lI$k@n",
+              "ipa": "hʏdræ͡ʉˈlɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hydraulikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hʏdræ͡ʉlˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "hydraulikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "hʏdræ͡ʉlˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ecde695dafe6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ecde695dafe6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ecde695dafe6.mp3",
+            "text": "hydraulikk",
+            "source": "generated",
+            "content_sha256": "5bad647ad35d4ee58ebc3ff302c31d24df4978dfa271b069057bf3e453e9b373",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "del av hydrodynamikk som omfatter væskers bevegelse gjennom rør og maskiner",
+      "translation": "part of hydrodynamics concerning the movement of liquids through pipes and machines",
+      "examples": []
+    },
+    {
+      "text": "hydraulisk system",
+      "translation": "hydraulic system",
+      "examples": [
+        {
+          "no": "hydraulikken på en lastebil",
+          "en": "the hydraulics on a truck"
+        }
+      ]
+    }
+  ]
+}

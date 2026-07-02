@@ -1,0 +1,120 @@
+{
+  "source_article_id": 38947,
+  "lemmas": [
+    {
+      "lemma": "momentan",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 45692,
+      "is_sub_article": false,
+      "primary_translation": "momentary / immediately",
+      "word_forms": [
+        {
+          "word_form": "momentan",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$m@n$\"tA:n",
+              "ipa": "mʊmənˈtɑːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "momentane",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$m@n$\"tA:$n@",
+              "ipa": "mʊmənˈtɑːnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "momentant",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "mU$m@n$\"tAnt",
+              "ipa": "mʊmənˈtɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f45490fa2514.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f45490fa2514.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f45490fa2514.mp3",
+            "text": "momentan",
+            "source": "generated",
+            "content_sha256": "db592269d3ed65c300a7fefd94ccb4378740eb85c009fed7666d3f3f4f3a9142",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder bare et øyeblikk",
+      "translation": "lasting only a moment",
+      "examples": [
+        {
+          "no": "momentan pengemangel",
+          "en": "momentary lack of money"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: straks, med det samme",
+      "translation": "used as: immediately, at once",
+      "examples": [
+        {
+          "no": "stoppe momentant",
+          "en": "stop instantly"
+        },
+        {
+          "no": "bilføreren ble drept momentant",
+          "en": "the driver was killed instantly"
+        }
+      ]
+    }
+  ]
+}

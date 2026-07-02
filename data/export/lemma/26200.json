@@ -1,0 +1,111 @@
+{
+  "source_article_id": 26200,
+  "lemmas": [
+    {
+      "lemma": "inhabil",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 31181,
+      "is_sub_article": false,
+      "primary_translation": "disqualified / unfit",
+      "word_forms": [
+        {
+          "word_form": "inhabil",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$hA$%bi:l",
+              "ipa": "ˈɪnhɑˌbɪːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "inhabile",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$hA$%bi:$l@",
+              "ipa": "ˈɪnhɑˌbɪːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "inhabilt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$hA$%bi:lt",
+              "ipa": "ˈɪnhɑˌbɪːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "df693618f030.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df693618f030.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/df693618f030.mp3",
+            "text": "inhabil",
+            "source": "generated",
+            "content_sha256": "9eeaa9d6ce67c69dbc7ad714dd367b4deea53621c259e0c9424034e36f5bca15",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i jus: ugild",
+      "translation": "in law: disqualified",
+      "examples": [
+        {
+          "no": "dommeren ble erklært inhabil",
+          "en": "the judge was declared disqualified"
+        }
+      ]
+    },
+    {
+      "text": "uskikket uskikka, inkompetent",
+      "translation": "unfit, incompetent",
+      "examples": []
+    }
+  ]
+}

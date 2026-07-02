@@ -1,0 +1,124 @@
+{
+  "source_article_id": 48741,
+  "lemmas": [
+    {
+      "lemma": "rock",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 55974,
+      "is_sub_article": false,
+      "primary_translation": "rock music",
+      "word_forms": [
+        {
+          "word_form": "rock",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rOk",
+              "ipa": "ˈrɔk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rocken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"rO$k@n",
+              "ipa": "ˈrɔkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "rocker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"rO$k@r",
+              "ipa": "ˈrɔkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "rockene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈɔkənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f107f185277a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f107f185277a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f107f185277a.mp3",
+            "text": "rock",
+            "source": "generated",
+            "content_sha256": "c058f7d25cfa7dc8ce53b8d71d119a2e92f85328918612166bc7309060eef1d5",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "musikk kjennetegnet av en markert firedelt takt, røft lydbilde og oftest bruk av elektrisk gitar, bass og trommer",
+      "translation": "music characterized by a marked four-beat rhythm, rough sound, and usually the use of electric guitar, bass, and drums",
+      "examples": [
+        {
+          "no": "musikk i grenselandet mellom rock og jazz",
+          "en": "music on the borderland between rock and jazz"
+        }
+      ]
+    }
+  ]
+}

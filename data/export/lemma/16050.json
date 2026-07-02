@@ -1,0 +1,130 @@
+{
+  "source_article_id": 16050,
+  "lemmas": [
+    {
+      "lemma": "fordelingsnøkkel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 18612,
+      "is_sub_article": false,
+      "primary_translation": "distribution key / key",
+      "word_forms": [
+        {
+          "word_form": "fordelingsnøkkel",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"d`e:$lIN$%sn9$k@l",
+              "ipa": "fɔˈɖeːlɪŋˌsnœkəl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fordelingsnøkkelen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"d`e:$lIN$%sn9$k@$ln=",
+              "ipa": "fɔˈɖeːlɪŋˌsnœkəln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fordelingsnøkler",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"d`e:$lIN$%sn9$kl@r",
+              "ipa": "fɔˈɖeːlɪŋˌsnœklər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fordelingsnøklene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fO$\"d`e:$lIN$%sn9$kln=$@",
+              "ipa": "fɔˈɖeːlɪŋˌsnœkln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f251f80b99c6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f251f80b99c6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f251f80b99c6.mp3",
+            "text": "fordelingsnøkkel",
+            "source": "generated",
+            "content_sha256": "db36c1bad318c0b4b6fc3e78d992c42c4d687cdf3a2c57e3901457fd98065168",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kode for tallmessig fordeling av en mengde",
+      "translation": "code for numerical distribution of a quantity",
+      "examples": [
+        {
+          "no": "fastsette en fordelingsnøkkel",
+          "en": "establish a distribution key"
+        },
+        {
+          "no": "fordelingsnøkkelen for statsrådspostene",
+          "en": "the distribution key for the cabinet posts"
+        },
+        {
+          "no": "fordelingsnøkkelen mellom stat, fylke og kommune",
+          "en": "the distribution key between the state, county, and municipality"
+        }
+      ]
+    }
+  ]
+}

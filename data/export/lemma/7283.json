@@ -1,0 +1,106 @@
+{
+  "source_article_id": 7283,
+  "lemmas": [
+    {
+      "lemma": "brannrød",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 8565,
+      "is_sub_article": false,
+      "primary_translation": "fiery red",
+      "word_forms": [
+        {
+          "word_form": "brannrød",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brAn$%r2:",
+              "ipa": "ˈbrɑnˌrøː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "brannrøde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brAn$%r2:$d@",
+              "ipa": "ˈbrɑnˌrøːdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "brannrødt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"brAn$%r9t",
+              "ipa": "ˈbrɑnˌrœt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8924e753407f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8924e753407f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8924e753407f.mp3",
+            "text": "brannrød",
+            "source": "generated",
+            "content_sha256": "73382abe0ef49d38e94b3208f42042998aa31961ff99092ba3ae45657da0317c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "flammende rød",
+      "translation": "flaming red",
+      "examples": [
+        {
+          "no": "en brannrød sykkel",
+          "en": "a fire-red bicycle"
+        }
+      ]
+    }
+  ]
+}

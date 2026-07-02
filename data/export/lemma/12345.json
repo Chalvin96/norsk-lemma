@@ -1,0 +1,87 @@
+{
+  "source_article_id": 12345,
+  "lemmas": [
+    {
+      "lemma": "elektrometallurgisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 14419,
+      "is_sub_article": false,
+      "primary_translation": "electrometallurgical",
+      "word_forms": [
+        {
+          "word_form": "elektrometallurgisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"lEk$trU$m@$tA$%lu0r$gI$sk",
+              "ipa": "ɛˈlɛktrʊmətɑˌlʉrgɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elektrometallurgiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"lEk$trU$m@$tA$%lu0r$gI$sk@",
+              "ipa": "ɛˈlɛktrʊmətɑˌlʉrgɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c2b0a65a7df5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2b0a65a7df5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c2b0a65a7df5.mp3",
+            "text": "elektrometallurgisk",
+            "source": "generated",
+            "content_sha256": "1a50676e158b092f49cead63f7f00571ab7aa1009a274fd96c089d685ba62cbd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder elektrometallurgi",
+      "translation": "relating to electrometallurgy",
+      "examples": [
+        {
+          "no": "den elektrometallurgiske industrien",
+          "en": "the electrometallurgical industry"
+        }
+      ]
+    }
+  ]
+}

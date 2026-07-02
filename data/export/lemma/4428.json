@@ -1,0 +1,123 @@
+{
+  "source_article_id": 4428,
+  "lemmas": [
+    {
+      "lemma": "banklån",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 5234,
+      "is_sub_article": false,
+      "primary_translation": "bank loan",
+      "word_forms": [
+        {
+          "word_form": "banklån",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$%klo:n",
+              "ipa": "ˈbɑŋˌkloːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "banklånet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$%klo:$n@",
+              "ipa": "ˈbɑŋˌkloːnə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "banklåna",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$%klo:$nA",
+              "ipa": "ˈbɑŋˌkloːnɑ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "banklånene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"bAN$%klo:$nn=$@",
+              "ipa": "ˈbɑŋˌkloːnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1728beaca51d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1728beaca51d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1728beaca51d.mp3",
+            "text": "banklån",
+            "source": "generated",
+            "content_sha256": "6a41e17b8425bf5d9649d56121b78beab7e231ebe7671ae2378122a9d930fdcd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lån av penger fra en bank",
+      "translation": "loan of money from a bank",
+      "examples": [
+        {
+          "no": "oppta et banklån",
+          "en": "take out a bank loan"
+        }
+      ]
+    }
+  ]
+}

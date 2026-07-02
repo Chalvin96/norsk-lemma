@@ -1,0 +1,92 @@
+{
+  "source_article_id": 25975,
+  "lemmas": [
+    {
+      "lemma": "inadekvat",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30962,
+      "is_sub_article": false,
+      "primary_translation": "inadequate / unsuitable",
+      "word_forms": [
+        {
+          "word_form": "inadekvat",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$nA$d@$%kvA:t",
+              "ipa": "ˈɪnɑdəˌkvɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "inadekvate",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"I$nA$d@$%kvA:$t@",
+              "ipa": "ˈɪnɑdəˌkvɑːtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f83f611000f8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f83f611000f8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f83f611000f8.mp3",
+            "text": "inadekvat",
+            "source": "generated",
+            "content_sha256": "6ca0c7f020e7d6c6256696f8e484f7e9071eadca02f71e66d8ef7dfc87a994b2",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ikke adekvat",
+      "translation": "not adequate",
+      "examples": []
+    },
+    {
+      "text": "som ikke passer i den aktuelle situasjonen",
+      "translation": "unsuitable",
+      "examples": [
+        {
+          "no": "reaksjonen var inadekvat",
+          "en": "the reaction was inadequate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "source_article_id": 6700,
+  "lemmas": [
+    {
+      "lemma": "blålig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 7837,
+      "is_sub_article": false,
+      "primary_translation": "bluish",
+      "word_forms": [
+        {
+          "word_form": "blålig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$lI",
+              "ipa": "ˈbloːlɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blålige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"blo:$lI$@",
+              "ipa": "ˈbloːlɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "blåligere",
+          "tags_json": [
+            "a2",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈoːlɪərə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "blåligst",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈoːlɪgst",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "blåligste",
+          "tags_json": [
+            "a2",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "blˈoːlɪgstə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "86e5d9de18b9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/86e5d9de18b9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/86e5d9de18b9.mp3",
+            "text": "blålig",
+            "source": "generated",
+            "content_sha256": "0bf03b969c9cb1d72472e5583024816769f32e059b490f8bbc0e8574dfcbb3fe",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe blå",
+      "translation": "somewhat blue",
+      "examples": [
+        {
+          "no": "blålig farge",
+          "en": "bluish color"
+        },
+        {
+          "no": "et blålig skjær",
+          "en": "a bluish tint"
+        },
+        {
+          "no": "et skarpt, blålig lys",
+          "en": "a sharp, bluish light"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source_article_id": 135819,
+  "lemmas": [
+    {
+      "lemma": "ørkenaktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 155361,
+      "is_sub_article": false,
+      "primary_translation": "desert-like",
+      "word_forms": [
+        {
+          "word_form": "ørkenaktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"9r$k@$%nAk$tI",
+              "ipa": "ˈœrkəˌnɑktɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ørkenaktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈœrkənˌɑktɪə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6457f05fd2b0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6457f05fd2b0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6457f05fd2b0.mp3",
+            "text": "ørkenaktig",
+            "source": "generated",
+            "content_sha256": "8b57a25809f55fc44bd8e2e3cedb366ca2595f8ad3c32b46cfb8ef5f5e0de683",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som minner om en ørken",
+      "translation": "resembling a desert",
+      "examples": [
+        {
+          "no": "det golde og ørkenaktige høyfjellet",
+          "en": "the barren, desert-like high mountains"
+        }
+      ]
+    }
+  ]
+}

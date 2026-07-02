@@ -1,0 +1,132 @@
+{
+  "source_article_id": 2056,
+  "lemmas": [
+    {
+      "lemma": "anseelse",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2583,
+      "is_sub_article": false,
+      "primary_translation": "reputation",
+      "word_forms": [
+        {
+          "word_form": "anseelse",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"se:$@l$s@",
+              "ipa": "ɑnˈseːəlsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "anseelsen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"se:$@l$sn=",
+              "ipa": "ɑnˈseːəlsn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "anseelser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$\"se:$l=$s@r",
+              "ipa": "ɑnˈseːl̩sər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "anseelsene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑnsˈeːəlsn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1851f22b0178.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1851f22b0178.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1851f22b0178.mp3",
+            "text": "anseelse",
+            "source": "generated",
+            "content_sha256": "79579118da5a4a51d54dfe3e96606d3f8363465d2c73ed8ae85438cfb7e69e72",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "aktelse, omdømme, respekt",
+      "translation": "esteem, reputation, respect",
+      "examples": [
+        {
+          "no": "miste sin anseelse",
+          "en": "lose one's standing"
+        },
+        {
+          "no": "en mann med høy anseelse",
+          "en": "a man of high standing"
+        },
+        {
+          "no": "nyte stor anseelse",
+          "en": "enjoy great esteem"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_article_id": 3008,
+  "lemmas": [
+    {
+      "lemma": "astronomisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3568,
+      "is_sub_article": false,
+      "primary_translation": "astronomical / enormous",
+      "word_forms": [
+        {
+          "word_form": "astronomisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$strU$\"nu:$mI$sk",
+              "ipa": "ɑstrʊˈnuːmɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "astronomiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$strU$\"nu:$mI$sk@",
+              "ipa": "ɑstrʊˈnuːmɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c0f54eb753d6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c0f54eb753d6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c0f54eb753d6.mp3",
+            "text": "astronomisk",
+            "source": "generated",
+            "content_sha256": "1536704e91bddfe01cb0bad75b227a23ae234a1037de511496d68857bf4309bf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder astronomi",
+      "translation": "concerning astronomy",
+      "examples": [
+        {
+          "no": "astronomiske observasjoner",
+          "en": "astronomical observations"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: enorm",
+      "translation": "enormous",
+      "examples": [
+        {
+          "no": "astronomiske summer",
+          "en": "astronomical sums"
+        }
+      ]
+    }
+  ]
+}

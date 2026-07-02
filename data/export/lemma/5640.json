@@ -1,0 +1,119 @@
+{
+  "source_article_id": 5640,
+  "lemmas": [
+    {
+      "lemma": "betent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 6621,
+      "is_sub_article": false,
+      "primary_translation": "inflamed / controversial",
+      "word_forms": [
+        {
+          "word_form": "betent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"tEnt",
+              "ipa": "bəˈtɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "betente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"tEn$t@",
+              "ipa": "bəˈtɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "22a423600ec4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22a423600ec4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22a423600ec4.mp3",
+            "text": "betent",
+            "source": "generated",
+            "content_sha256": "ab1556f39336494306868b05c130d6bcb84213ef0a5c82b3c4d69f4955bc1321",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som det er gått betennelse i",
+      "translation": "inflamed",
+      "examples": []
+    },
+    {
+      "text": "hoven",
+      "translation": "swollen",
+      "examples": [
+        {
+          "no": "betente mandler",
+          "en": "inflamed tonsils"
+        },
+        {
+          "no": "et betent sår",
+          "en": "an inflamed wound"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: som skaper stor uenighet eller stort engasjement",
+      "translation": "causing great disagreement or engagement",
+      "examples": []
+    },
+    {
+      "text": "tilspisset, kontroversiell, omstridt omstridd, konfliktfylt",
+      "translation": "tense, controversial, disputed, conflict-ridden",
+      "examples": [
+        {
+          "no": "politisk betente spørsmål",
+          "en": "politically charged issues"
+        },
+        {
+          "no": "et betent tema",
+          "en": "a sensitive topic"
+        },
+        {
+          "no": "den betente drapssaken",
+          "en": "the controversial murder case"
+        }
+      ]
+    }
+  ]
+}

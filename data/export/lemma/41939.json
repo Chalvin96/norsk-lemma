@@ -1,0 +1,127 @@
+{
+  "source_article_id": 41939,
+  "lemmas": [
+    {
+      "lemma": "Ola",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 629,
+      "is_sub_article": false,
+      "primary_translation": "typical Norwegian man / typical Norwegian woman",
+      "word_forms": [
+        {
+          "word_form": "Ola",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u:$lA",
+              "ipa": "ˈuːlɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "Olaen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u:$lA$@n",
+              "ipa": "ˈuːlɑən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "Olaer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u:$lA$@r",
+              "ipa": "ˈuːlɑər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "Olaene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u:$lA$@$n@",
+              "ipa": "ˈuːlɑənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "65f40105bb86.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/65f40105bb86.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/65f40105bb86.mp3",
+            "text": "Ola",
+            "source": "generated",
+            "content_sha256": "69e5c1cb78daa1dc908777e9ee880e6faadc3275ad45d1f504d39cbd31f94cc3",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "typisk nordmann",
+      "translation": "typical Norwegian man",
+      "examples": []
+    },
+    {
+      "text": "jamfør Kari",
+      "translation": "Kari (typical Norwegian woman)",
+      "examples": [
+        {
+          "no": "det er mange Olaer og Karier som ønsker seg til Syden denne sommeren",
+          "en": "there are many average Joes and Janes who want to go to Southern Europe this summer"
+        }
+      ]
+    }
+  ]
+}

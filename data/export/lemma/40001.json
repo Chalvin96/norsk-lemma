@@ -1,0 +1,159 @@
+{
+  "source_article_id": 40001,
+  "lemmas": [
+    {
+      "lemma": "måne",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 46686,
+      "is_sub_article": false,
+      "primary_translation": "moon / bald spot",
+      "word_forms": [
+        {
+          "word_form": "måne",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$n@",
+              "ipa": "ˈmoːnə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "månen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$nn=",
+              "ipa": "ˈmoːnn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "måner",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$n@r",
+              "ipa": "ˈmoːnər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "månene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"mo:$nn=$@",
+              "ipa": "ˈmoːnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ad3532875d9e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ad3532875d9e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ad3532875d9e.mp3",
+            "text": "måne",
+            "source": "generated",
+            "content_sha256": "afc74ebe2de62ad9c0d1659a3f0245aa4af047d328e525584f1a623e43d45aa4",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "himmellegeme som går i bane omkring en planet",
+      "translation": "celestial body orbiting a planet",
+      "examples": []
+    },
+    {
+      "text": "drabant, satellitt",
+      "translation": "moon, satellite",
+      "examples": [
+        {
+          "no": "jorda har én måne, mens Jupiter har tretten",
+          "en": "the earth has one moon, while Jupiter has thirteen"
+        }
+      ]
+    },
+    {
+      "text": "måne som går omkring jorda, og som er mer eller mindre synlig på himmelen",
+      "translation": "the moon orbiting Earth, visible in the sky",
+      "examples": [
+        {
+          "no": "månen har en middelavstand på 384 402 km fra jorda",
+          "en": "the moon has an average distance of 384,402 km from the earth"
+        },
+        {
+          "no": "månen er i ne",
+          "en": "the moon is new"
+        },
+        {
+          "no": "voksende måne",
+          "en": "waxing moon"
+        }
+      ]
+    },
+    {
+      "text": "noe som minner om månen, særlig skallet flekk på hodet",
+      "translation": "a bald spot on the head resembling the moon",
+      "examples": [
+        {
+          "no": "begynnende måne",
+          "en": "incipient bald spot"
+        },
+        {
+          "no": "han har begynt å få måne",
+          "en": "he is starting to go bald"
+        }
+      ]
+    }
+  ]
+}

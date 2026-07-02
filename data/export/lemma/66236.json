@@ -1,0 +1,127 @@
+{
+  "source_article_id": 66236,
+  "lemmas": [
+    {
+      "lemma": "valgflesk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 76033,
+      "is_sub_article": false,
+      "primary_translation": "election promises",
+      "word_forms": [
+        {
+          "word_form": "valgflesk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vAlg$%flE$sk",
+              "ipa": "ˈvɑlgˌflɛsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "valgflesket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"vAlg$%flE$sk@",
+              "ipa": "ˈvɑlgˌflɛskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "valgfleskene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɑlgflˌɛskənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "valgfleska",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈɑlgflˌɛskɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c91c4d682f2c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c91c4d682f2c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c91c4d682f2c.mp3",
+            "text": "valgflesk",
+            "source": "generated",
+            "content_sha256": "75659cf248ba891cebc592781db2497b07f20957a129c9239b0aa3ed7d451edc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "store og overdrevne løfter som gis foran et valg for å vinne stemmer",
+      "translation": "election promises",
+      "examples": [
+        {
+          "no": "forslaget om skattelettelser er bare valgflesk",
+          "en": "the proposal for tax cuts is just election pork"
+        }
+      ]
+    }
+  ]
+}

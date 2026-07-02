@@ -1,0 +1,156 @@
+{
+  "source_article_id": 123881,
+  "lemmas": [
+    {
+      "lemma": "nysignering",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 2008220,
+      "is_sub_article": false,
+      "primary_translation": "new signing (act/player)",
+      "word_forms": [
+        {
+          "word_form": "nysignering",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$sIN$%ne:$rIN",
+              "ipa": "ˈnyːsɪŋˌneːrɪŋ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nysigneringen",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$sIN$%ne:$rIN$@n",
+              "ipa": "ˈnyːsɪŋˌneːrɪŋən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nysigneringer",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$sIN$%ne:$rIN$@r",
+              "ipa": "ˈnyːsɪŋˌneːrɪŋər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nysigneringene",
+          "tags_json": [
+            "Masc",
+            "f1,m1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ny:$sIN$%ne:$rIN$@$n@",
+              "ipa": "ˈnyːsɪŋˌneːrɪŋənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "nysigneringa",
+          "tags_json": [
+            "Fem",
+            "f1,m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈyːsɪŋnˈeːrɪŋɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d5dd6909f986.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5dd6909f986.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5dd6909f986.mp3",
+            "text": "nysignering",
+            "source": "generated",
+            "content_sha256": "1d70bd3de012cbc98fdde59d38e799fcdaba83be6c548c6833fe45e4cb45581a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å skrive under en kontrakt som bekrefter kjøpet av en ny spiller til et lag",
+      "translation": "the act of signing a contract confirming the purchase of a new player for a team",
+      "examples": [
+        {
+          "no": "treneren var svært fornøyd med nysigneringen av den nye spissen",
+          "en": "the coach was very pleased with the signing of the new striker"
+        }
+      ]
+    },
+    {
+      "text": "spiller som nylig har signert en kontrakt med en ny klubb",
+      "translation": "player who has recently signed a contract with a new club",
+      "examples": [
+        {
+          "no": "nysigneringen er klar for kamp på lørdag",
+          "en": "the new signing is ready for the match on Saturday"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_article_id": 722,
+  "lemmas": [
+    {
+      "lemma": "alderdommelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 1548,
+      "is_sub_article": false,
+      "primary_translation": "old-fashioned",
+      "word_forms": [
+        {
+          "word_form": "alderdommelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Al$d@$\"d`O$m@$lI",
+              "ipa": "ɑldəˈɖɔməlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alderdommelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Al$d@$\"d`O$m@$lI$@",
+              "ipa": "ɑldəˈɖɔməlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a13655b7e250.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a13655b7e250.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a13655b7e250.mp3",
+            "text": "alderdommelig",
+            "source": "generated",
+            "content_sha256": "1441a5c76e05696e9cae2d7545da5a48e0c40372f8481a18d185b147b434d908",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "gammel gammal, gammeldags gammaldags",
+      "translation": "old, old-fashioned",
+      "examples": [
+        {
+          "no": "et alderdommelig ord",
+          "en": "an old-fashioned word"
+        },
+        {
+          "no": "et alderdommelig synspunkt",
+          "en": "an old-fashioned point of view"
+        },
+        {
+          "no": "gå alderdommelig kledd",
+          "en": "dress in an old-fashioned way"
+        }
+      ]
+    }
+  ]
+}

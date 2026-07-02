@@ -1,0 +1,94 @@
+{
+  "source_article_id": 124359,
+  "lemmas": [
+    {
+      "lemma": "oversådd",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2009002,
+      "is_sub_article": false,
+      "primary_translation": "strewn",
+      "word_forms": [
+        {
+          "word_form": "oversådd",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈoːʋəʂˌɔd",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "oversådde",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈoːʋəʂˌɔdə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "18596f75940f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18596f75940f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/18596f75940f.mp3",
+            "text": "oversådd",
+            "source": "generated",
+            "content_sha256": "ca1b11d9d014ba4d547cae2dd85275c23eba50af471ee16ea06038716bb7d12d"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er dekt med store mengder av noe",
+      "translation": "covered with large quantities of something",
+      "examples": [
+        {
+          "no": "himmelen var oversådd med stjerner",
+          "en": "the sky was strewn with stars"
+        },
+        {
+          "no": "området er oversådd med miner",
+          "en": "the area is littered with mines"
+        }
+      ]
+    }
+  ]
+}

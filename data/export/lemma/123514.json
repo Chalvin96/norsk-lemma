@@ -1,0 +1,94 @@
+{
+  "source_article_id": 123514,
+  "lemmas": [
+    {
+      "lemma": "nivådelt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2007556,
+      "is_sub_article": false,
+      "primary_translation": "level-divided",
+      "word_forms": [
+        {
+          "word_form": "nivådelt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɪʋˈoːdˌeːlt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nivådelte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nɪʋˈoːdˌeːltə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "25b8d92d265e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25b8d92d265e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/25b8d92d265e.mp3",
+            "text": "nivådelt",
+            "source": "generated",
+            "content_sha256": "3e1429e617e09d8c070298e91adaafcc7159ed276b5939840caa4bb5fa5e9c65"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er delt i nivåer",
+      "translation": "divided into levels",
+      "examples": [
+        {
+          "no": "nivådelt undervisning",
+          "en": "ability-grouped teaching"
+        },
+        {
+          "no": "nivådelte klasser",
+          "en": "ability-grouped classes"
+        }
+      ]
+    }
+  ]
+}

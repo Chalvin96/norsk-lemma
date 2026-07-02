@@ -1,0 +1,91 @@
+{
+  "source_article_id": 65031,
+  "lemmas": [
+    {
+      "lemma": "usårlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74474,
+      "is_sub_article": false,
+      "primary_translation": "invulnerable",
+      "word_forms": [
+        {
+          "word_form": "usårlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"so:$l`I",
+              "ipa": "ʉˈsoːɭɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "usårlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"so:$l`I$@",
+              "ipa": "ʉˈsoːɭɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bcf530c5eb69.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bcf530c5eb69.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bcf530c5eb69.mp3",
+            "text": "usårlig",
+            "source": "generated",
+            "content_sha256": "d95e637080f52c1f578e49db4352808b99b51ae841202597322f67244b3fc86a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er svært vanskelig å skade, såre eller ramme",
+      "translation": "invulnerable",
+      "examples": [
+        {
+          "no": "være usårlig overfor noe",
+          "en": "be immune to something"
+        },
+        {
+          "no": "føle seg sterk og usårlig",
+          "en": "feel strong and invulnerable"
+        }
+      ]
+    }
+  ]
+}

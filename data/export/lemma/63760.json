@@ -1,0 +1,110 @@
+{
+  "source_article_id": 63760,
+  "lemmas": [
+    {
+      "lemma": "uendelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73001,
+      "is_sub_article": false,
+      "primary_translation": "infinite / very",
+      "word_forms": [
+        {
+          "word_form": "uendelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"En$d@$lI",
+              "ipa": "ʉˈɛndəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uendelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"En$d@$lI$@",
+              "ipa": "ʉˈɛndəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b007a95cf980.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b007a95cf980.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b007a95cf980.mp3",
+            "text": "uendelig",
+            "source": "generated",
+            "content_sha256": "9025a5cb4500e3b467914cca4ca3cb5acb0c731a97bfdaa84cc8a596b8d5babd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten slutt eller grenser",
+      "translation": "without end or limits",
+      "examples": []
+    },
+    {
+      "text": "endeløs, evig",
+      "translation": "endless, eternal",
+      "examples": [
+        {
+          "no": "verdensrommet er uendelig",
+          "en": "space is infinite"
+        },
+        {
+          "no": "uendelig lang",
+          "en": "infinitely long"
+        },
+        {
+          "no": "verdien går mot det uendelige",
+          "en": "the value approaches infinity"
+        }
+      ]
+    },
+    {
+      "text": "brukt som forsterkende adverb: inderlig, veldig",
+      "translation": "used as an intensifier: heartily, very",
+      "examples": [
+        {
+          "no": "være uendelig god og snill",
+          "en": "be infinitely good and kind"
+        }
+      ]
+    }
+  ]
+}

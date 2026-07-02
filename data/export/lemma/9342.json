@@ -1,0 +1,130 @@
+{
+  "source_article_id": 9342,
+  "lemmas": [
+    {
+      "lemma": "dativ",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 11022,
+      "is_sub_article": false,
+      "primary_translation": "dative case",
+      "word_forms": [
+        {
+          "word_form": "dativ",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tIv",
+              "ipa": "ˈdɑːtɪv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dativen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tI$v@n",
+              "ipa": "ˈdɑːtɪvən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dativer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tI$v@r",
+              "ipa": "ˈdɑːtɪvər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dativene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dA:$tI$v@$n@",
+              "ipa": "ˈdɑːtɪvənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bc674cd4cb6d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc674cd4cb6d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc674cd4cb6d.mp3",
+            "text": "dativ",
+            "source": "generated",
+            "content_sha256": "009de7106fda8038e2c4557d181ebdbb6095d0fade5ceb578e8128d3a79d3264",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kasus som viser at et substantiv eller pronomen er indirekte objekt i en setning eller er styrt av visse preposisjoner",
+      "translation": "case that indicates that a noun or pronoun is the indirect object in a sentence or is governed by certain prepositions",
+      "examples": [
+        {
+          "no": "ha dativ i dialekten sin",
+          "en": "have the dative in one's dialect"
+        },
+        {
+          "no": "preposisjonen styrer dativ",
+          "en": "the preposition governs the dative"
+        },
+        {
+          "no": "i kasusspråk står det indirekte objektet i dativ",
+          "en": "in case languages, the indirect object is in the dative"
+        }
+      ]
+    }
+  ]
+}

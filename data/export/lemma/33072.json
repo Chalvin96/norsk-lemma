@@ -1,0 +1,106 @@
+{
+  "source_article_id": 33072,
+  "lemmas": [
+    {
+      "lemma": "kvat",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 38785,
+      "is_sub_article": false,
+      "primary_translation": "quick/brisk/capable",
+      "word_forms": [
+        {
+          "word_form": "kvat",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kvA:t",
+              "ipa": "ˈkvɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kvate",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kvA:$t@",
+              "ipa": "ˈkvɑːtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kvatt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kvAt",
+              "ipa": "ˈkvɑt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f74642b5de12.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f74642b5de12.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f74642b5de12.mp3",
+            "text": "kvat",
+            "source": "generated",
+            "content_sha256": "6999cac9557c14a63dc10e0fe196166096755ce2b374877227979545d3029789",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "snar, frisk, flink",
+      "translation": "quick, brisk, capable",
+      "examples": [
+        {
+          "no": "en kvat fyr",
+          "en": "a brisk fellow"
+        }
+      ]
+    }
+  ]
+}

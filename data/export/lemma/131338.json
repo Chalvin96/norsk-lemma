@@ -1,0 +1,121 @@
+{
+  "source_article_id": 131338,
+  "lemmas": [
+    {
+      "lemma": "søkktung",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2951763,
+      "is_sub_article": false,
+      "primary_translation": "very heavy / very soft (arena)",
+      "word_forms": [
+        {
+          "word_form": "søkktung",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœktˌuŋ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "søkktunge",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœktˌuŋə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "søkktungt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœktˌuŋt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "01fa5931584b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/01fa5931584b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/01fa5931584b.mp3",
+            "text": "søkktung",
+            "source": "generated",
+            "content_sha256": "83829b0f44273839c4d85acf7195e35c3589e82824118edec1846d11fa723b22"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "svært tung",
+      "translation": "very heavy",
+      "examples": [
+        {
+          "no": "en søkktung sekk",
+          "en": "an extremely heavy backpack"
+        }
+      ]
+    },
+    {
+      "text": "om idrettsarena: svært bløt",
+      "translation": "of a sports arena: very soft",
+      "examples": [
+        {
+          "no": "et godt løp på søkktung bane",
+          "en": "a good race on a soaking-heavy track"
+        }
+      ]
+    }
+  ]
+}

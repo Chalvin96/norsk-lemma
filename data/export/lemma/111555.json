@@ -1,0 +1,126 @@
+{
+  "source_article_id": 111555,
+  "lemmas": [
+    {
+      "lemma": "driftsleder",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 94493,
+      "is_sub_article": false,
+      "primary_translation": "operations manager",
+      "word_forms": [
+        {
+          "word_form": "driftsleder",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drIft$%sle:$d@r",
+              "ipa": "ˈdrɪftˌsleːdər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "driftslederen",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"drIft$%sle:$d@n`",
+              "ipa": "ˈdrɪftˌsleːdəɳ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "driftsledere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "drˈɪftslˌeːdərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "driftslederne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "drˈɪftslˌeːdəɳə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2503a2fb8efa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2503a2fb8efa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2503a2fb8efa.mp3",
+            "text": "driftsleder",
+            "source": "generated",
+            "content_sha256": "eea31f123514c7c0cdf348fbe855c43269405bf5aa4bbb1002c3988b03ea765c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "leder for drift av teknisk eller industrielt foretak eller avdeling",
+      "translation": "manager of operations for a technical or industrial enterprise or department",
+      "examples": [
+        {
+          "no": "hun er driftsleder i vann- og avløpsetaten i kommunen",
+          "en": "she is the operations manager in the municipality's water and sewage department"
+        }
+      ]
+    }
+  ]
+}

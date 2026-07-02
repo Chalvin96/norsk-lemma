@@ -1,0 +1,92 @@
+{
+  "source_article_id": 32565,
+  "lemmas": [
+    {
+      "lemma": "kubisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 38202,
+      "is_sub_article": false,
+      "primary_translation": "cubic",
+      "word_forms": [
+        {
+          "word_form": "kubisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:$bI$sk",
+              "ipa": "ˈkʉːbɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kubiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"k}:$bI$sk@",
+              "ipa": "ˈkʉːbɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d08150ec6cca.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d08150ec6cca.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d08150ec6cca.mp3",
+            "text": "kubisk",
+            "source": "generated",
+            "content_sha256": "13f10219f57266c29dcaf38830b4263f995fce22b5ae7df99a64837f80b255ac",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med form som en kubus",
+      "translation": "having the shape of a cube",
+      "examples": []
+    },
+    {
+      "text": "av tredje grad",
+      "translation": "of the third degree",
+      "examples": [
+        {
+          "no": "en kubisk ligning",
+          "en": "a cubic equation"
+        }
+      ]
+    }
+  ]
+}

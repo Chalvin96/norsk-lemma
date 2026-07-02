@@ -1,0 +1,87 @@
+{
+  "source_article_id": 50953,
+  "lemmas": [
+    {
+      "lemma": "sensorisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 58640,
+      "is_sub_article": false,
+      "primary_translation": "sensory",
+      "word_forms": [
+        {
+          "word_form": "sensorisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@n$\"su:$rI$sk",
+              "ipa": "sənˈsuːrɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sensoriske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "s@n$\"su:$rI$sk@",
+              "ipa": "sənˈsuːrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "be648f238876.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be648f238876.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be648f238876.mp3",
+            "text": "sensorisk",
+            "source": "generated",
+            "content_sha256": "58e1f101d7ed91088f27030270e37066c91ea7e57e3636ed0dec283b2ee4a03a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder sanseinntrykk",
+      "translation": "relating to sensory impressions",
+      "examples": [
+        {
+          "no": "sensoriske nerver leder signaler fra sanseorganene til hjernen",
+          "en": "sensory nerves carry signals from the sense organs to the brain"
+        }
+      ]
+    }
+  ]
+}

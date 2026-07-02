@@ -1,0 +1,91 @@
+{
+  "source_article_id": 43284,
+  "lemmas": [
+    {
+      "lemma": "ordrett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50147,
+      "is_sub_article": false,
+      "primary_translation": "verbatim / exact",
+      "word_forms": [
+        {
+          "word_form": "ordrett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u:$%rEt",
+              "ipa": "ˈuːˌrɛt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ordrette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"u:$%rE$t@",
+              "ipa": "ˈuːˌrɛtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "657139078690.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/657139078690.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/657139078690.mp3",
+            "text": "ordrett",
+            "source": "generated",
+            "content_sha256": "682c048c5f202f4a868262089bcba951ef157f8208d97e646516f48bf09b51f6",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjentar ord for ord",
+      "translation": "repeating word for word",
+      "examples": [
+        {
+          "no": "en ordrett gjengivelse",
+          "en": "a verbatim reproduction"
+        },
+        {
+          "no": "sitere ordrett",
+          "en": "quote verbatim"
+        }
+      ]
+    }
+  ]
+}

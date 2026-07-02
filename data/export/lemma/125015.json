@@ -1,0 +1,93 @@
+{
+  "source_article_id": 125015,
+  "lemmas": [
+    {
+      "lemma": "plantebasert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2010094,
+      "is_sub_article": false,
+      "primary_translation": "plant-based",
+      "word_forms": [
+        {
+          "word_form": "plantebasert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"plAn$t@$bA$%se:t`",
+              "ipa": "ˈplɑntəbɑˌseːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "plantebaserte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "plˈɑntəbɑsˌeːʈə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "33b39409e2de.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/33b39409e2de.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/33b39409e2de.mp3",
+            "text": "plantebasert",
+            "source": "generated",
+            "content_sha256": "cdaaef71b12780daedda60e3ea8c44bcc429c54bd3ebc165ff1fb1e2d8f85e23",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kommer fra eller er laget av planter",
+      "translation": "coming from or made of plants",
+      "examples": [
+        {
+          "no": "ha et plantebasert kosthold",
+          "en": "have a plant-based diet"
+        },
+        {
+          "no": "plantebasert mat",
+          "en": "plant-based food"
+        }
+      ]
+    }
+  ]
+}

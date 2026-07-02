@@ -1,0 +1,96 @@
+{
+  "source_article_id": 45853,
+  "lemmas": [
+    {
+      "lemma": "pottetett",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 52861,
+      "is_sub_article": false,
+      "primary_translation": "completely tight",
+      "word_forms": [
+        {
+          "word_form": "pottetett",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pO$t@$%tEt",
+              "ipa": "ˈpɔtəˌtɛt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "pottetette",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"pO$t@$%tE$t@",
+              "ipa": "ˈpɔtəˌtɛtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "97fab34bc42a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/97fab34bc42a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/97fab34bc42a.mp3",
+            "text": "pottetett",
+            "source": "generated",
+            "content_sha256": "15f4741871d77176033fb9d16c1ecbe9ba7b985052520e48e37169365dfea094",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "helt tett",
+      "translation": "completely tight",
+      "examples": []
+    },
+    {
+      "text": "jamfør tett som en potte og potte tett",
+      "translation": "",
+      "examples": [
+        {
+          "no": "taket er pottetett",
+          "en": "the roof is watertight"
+        },
+        {
+          "no": "takrenna var pottetett på grunn av for mye løv",
+          "en": "the gutter was completely clogged because of too many leaves"
+        }
+      ]
+    }
+  ]
+}

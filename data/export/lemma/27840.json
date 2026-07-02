@@ -1,0 +1,91 @@
+{
+  "source_article_id": 27840,
+  "lemmas": [
+    {
+      "lemma": "jordisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 33021,
+      "is_sub_article": false,
+      "primary_translation": "earthly",
+      "word_forms": [
+        {
+          "word_form": "jordisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"ju:$d`I$sk",
+              "ipa": "ˈjuːɖɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "jordiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jUr$dI$sk@",
+              "ipa": "ˈjʊrdɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "168ad198f9b1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/168ad198f9b1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/168ad198f9b1.mp3",
+            "text": "jordisk",
+            "source": "generated",
+            "content_sha256": "716f29fe1d321c35a543eed7e738358e7121635e1c62ae7e66fe6326d0360b4c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som hører jordeliv jordliv til",
+      "translation": "belonging to earthly life",
+      "examples": [
+        {
+          "no": "jordisk gods",
+          "en": "earthly goods"
+        },
+        {
+          "no": "det jordiske livet",
+          "en": "earthly life"
+        }
+      ]
+    }
+  ]
+}

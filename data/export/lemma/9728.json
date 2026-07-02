@@ -1,0 +1,79 @@
+{
+  "source_article_id": 9728,
+  "lemmas": [
+    {
+      "lemma": "den",
+      "hgno": 1,
+      "pos": "PRON",
+      "source_lemma_id": 11449,
+      "is_sub_article": false,
+      "primary_translation": "he/she/it/they",
+      "word_forms": [
+        {
+          "word_form": "den",
+          "tags_json": [
+            "Prs",
+            "3",
+            "Sing",
+            "Masc",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dEn",
+              "ipa": "ˈdɛn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6a9ca3d978fe.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a9ca3d978fe.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6a9ca3d978fe.mp3",
+            "text": "den",
+            "source": "generated",
+            "content_sha256": "d477efbf070f14a4067c427181f6e74d509709607e18c3fcc386a663f1df59de",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "jamfør han, hun, det, de",
+      "translation": "he, she, it, they",
+      "examples": []
+    },
+    {
+      "text": "3. person entall femininum og maskulinum",
+      "translation": "3rd person pronoun",
+      "examples": [
+        {
+          "no": "den som lever, får se",
+          "en": "he who lives will see"
+        },
+        {
+          "no": "moralen og dens voktere",
+          "en": "morality and its guardians"
+        },
+        {
+          "no": "finn fram oppskriften og les den nøye",
+          "en": "find the recipe and read it carefully"
+        }
+      ]
+    }
+  ]
+}

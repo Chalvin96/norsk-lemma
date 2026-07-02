@@ -1,0 +1,135 @@
+{
+  "source_article_id": 366,
+  "lemmas": [
+    {
+      "lemma": "agio",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1151,
+      "is_sub_article": false,
+      "primary_translation": "agio / exchange rate gain",
+      "word_forms": [
+        {
+          "word_form": "agio",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:$SI$U",
+              "ipa": "ˈɑːʃɪʊ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "agioen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"A:dt$SU$@n",
+              "ipa": "ˈɑːdtʃʊən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "agioer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑːdtʃuər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "agioene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑːdtʃuənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d67be6f806d8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d67be6f806d8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d67be6f806d8.mp3",
+            "text": "agio",
+            "source": "generated",
+            "content_sha256": "a4c50428ec83b731c6be9e9d1584500cf76dd86bd0ba30d2fdb9b50a30f7beac",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forskjell i kurs",
+      "translation": "difference in exchange rate",
+      "examples": []
+    },
+    {
+      "text": "gevinst av ulik kurs",
+      "translation": "gain from different exchange rates",
+      "examples": [
+        {
+          "no": "urealisert agio",
+          "en": "unrealized agio"
+        },
+        {
+          "no": "skattepliktig agio",
+          "en": "taxable agio"
+        }
+      ]
+    }
+  ]
+}

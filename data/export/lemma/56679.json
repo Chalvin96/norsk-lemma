@@ -1,0 +1,95 @@
+{
+  "source_article_id": 56679,
+  "lemmas": [
+    {
+      "lemma": "standsmessig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 65183,
+      "is_sub_article": false,
+      "primary_translation": "befitting one's station",
+      "word_forms": [
+        {
+          "word_form": "standsmessig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stAn$%smE$sI",
+              "ipa": "ˈstɑnˌsmɛsɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "standsmessige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stAn$%smE$sI$@",
+              "ipa": "ˈstɑnˌsmɛsɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "09cecced3f77.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09cecced3f77.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/09cecced3f77.mp3",
+            "text": "standsmessig",
+            "source": "generated",
+            "content_sha256": "3c07a8b766376f9e98f27c925bffd3da1e75de5c9e7ff36bec47fc023b40d1a1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som passer seg til den stand, stilling eller sosiale statusen en har (eller vil ha)",
+      "translation": "fitting for one's station, position, or social status (or desired status)",
+      "examples": [
+        {
+          "no": "en standsmessig bolig",
+          "en": "a residence befitting one's status"
+        },
+        {
+          "no": "få en standsmessig begravelse",
+          "en": "get a funeral befitting one's status"
+        },
+        {
+          "no": "de ankom kirken standsmessig",
+          "en": "they arrived at the church in a manner befitting their status"
+        }
+      ]
+    }
+  ]
+}

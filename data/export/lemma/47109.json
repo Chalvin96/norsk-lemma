@@ -1,0 +1,87 @@
+{
+  "source_article_id": 47109,
+  "lemmas": [
+    {
+      "lemma": "pårent",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 54133,
+      "is_sub_article": false,
+      "primary_translation": "sailed/driven upon",
+      "word_forms": [
+        {
+          "word_form": "pårent",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%rEnt",
+              "ipa": "ˈpoːˌrɛnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "pårente",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"po:$%rEn$t@",
+              "ipa": "ˈpoːˌrɛntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ed2ca4020da3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed2ca4020da3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed2ca4020da3.mp3",
+            "text": "pårent",
+            "source": "generated",
+            "content_sha256": "4f9b64da40ff9f5d0281a22fb81ab471b11649418a43ddde11cd9b53a46cdf4d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har blitt seilt, kjørt eller løpt på",
+      "translation": "that has been sailed, driven, or run upon",
+      "examples": [
+        {
+          "no": "den pårente jollen ligger ved kaien",
+          "en": "the run-down dinghy is lying by the quay"
+        }
+      ]
+    }
+  ]
+}

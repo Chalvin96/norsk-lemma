@@ -1,0 +1,128 @@
+{
+  "source_article_id": 97099,
+  "lemmas": [
+    {
+      "lemma": "diversitet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 157360,
+      "is_sub_article": false,
+      "primary_translation": "diversity",
+      "word_forms": [
+        {
+          "word_form": "diversitet",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$v@$s`I$\"te:t",
+              "ipa": "dɪvəʂɪˈteːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diversiteten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dI$v@$s`I$\"te:$tn=",
+              "ipa": "dɪvəʂɪˈteːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "diversiteter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dɪʋəʂɪtˌeːtər",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "diversitetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dɪʋəʂɪtˌeːtn̩ə",
+              "tone": null,
+              "source": "nb_g2p",
+              "tone_status": "unknown",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f6c5981112a6.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f6c5981112a6.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f6c5981112a6.mp3",
+            "text": "diversitet",
+            "source": "generated",
+            "content_sha256": "41d63a7e306406f3b9eccf5638479247e7dfe750b14e125cbf8e118e15eb180a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ulikhet, mangfold",
+      "translation": "difference, diversity",
+      "examples": [
+        {
+          "no": "biologisk diversitet",
+          "en": "biological diversity"
+        },
+        {
+          "no": "vi skal ha kulturell diversitet",
+          "en": "we shall have cultural diversity"
+        }
+      ]
+    }
+  ]
+}

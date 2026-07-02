@@ -1,0 +1,124 @@
+{
+  "source_article_id": 123143,
+  "lemmas": [
+    {
+      "lemma": "lærebedrift",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 159764,
+      "is_sub_article": false,
+      "primary_translation": "training company / apprenticeship",
+      "word_forms": [
+        {
+          "word_form": "lærebedrift",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l{:$r@$b@$%drIft",
+              "ipa": "ˈlæːrəbəˌdrɪft",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lærebedriften",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l{:$r@$b@$%drIf$tn=",
+              "ipa": "ˈlæːrəbəˌdrɪftn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lærebedrifter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"l{:$r@$b@$%drIf$t@r",
+              "ipa": "ˈlæːrəbəˌdrɪftər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lærebedriftene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈæːrəbədrˌɪftn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9881e62d8e31.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9881e62d8e31.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9881e62d8e31.mp3",
+            "text": "lærebedrift",
+            "source": "generated",
+            "content_sha256": "cc8346c4ba689663fc8be6bb9bf84b3094765119bfbcea7843a2a64122b2be66",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "bedrift som tar imot og gir opplæring til lærling",
+      "translation": "company that accepts and provides training for apprentices",
+      "examples": []
+    },
+    {
+      "text": "jamfør lære",
+      "translation": "apprenticeship",
+      "examples": []
+    }
+  ]
+}

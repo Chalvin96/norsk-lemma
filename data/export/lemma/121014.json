@@ -1,0 +1,121 @@
+{
+  "source_article_id": 121014,
+  "lemmas": [
+    {
+      "lemma": "kvistrik",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 168639,
+      "is_sub_article": false,
+      "primary_translation": "with many knots/knotwood",
+      "word_forms": [
+        {
+          "word_form": "kvistrik",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɪstrɪk",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kvistrike",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɪstrˌiːkə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kvistrikt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kʋˈɪstrɪkt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "45217aa0211f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45217aa0211f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/45217aa0211f.mp3",
+            "text": "kvistrik",
+            "source": "generated",
+            "content_sha256": "09fc1c6120ed3979c1dfa05a27964e91170cd49caa289d9f1e6ef7eb50660af7"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med mange kvist",
+      "translation": "with many knots (trees)",
+      "examples": [
+        {
+          "no": "kvistrike trær",
+          "en": "twiggy trees"
+        }
+      ]
+    },
+    {
+      "text": "med mye kvist",
+      "translation": "with much knotwood (panels)",
+      "examples": [
+        {
+          "no": "kvistrike furupaneler",
+          "en": "knotty pine paneling"
+        }
+      ]
+    }
+  ]
+}

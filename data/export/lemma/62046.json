@@ -1,0 +1,132 @@
+{
+  "source_article_id": 62046,
+  "lemmas": [
+    {
+      "lemma": "trekamp",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 70956,
+      "is_sub_article": false,
+      "primary_translation": "three-event competition / three-way competition",
+      "word_forms": [
+        {
+          "word_form": "trekamp",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$%kAmp",
+              "ipa": "ˈtreːˌkɑmp",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "trekampen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$%kAm$p@n",
+              "ipa": "ˈtreːˌkɑmpən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "trekamper",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$%kAm$p@r",
+              "ipa": "ˈtreːˌkɑmpər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "trekampene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"tre:$%kAm$p@$n@",
+              "ipa": "ˈtreːˌkɑmpənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ed737252a40a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed737252a40a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ed737252a40a.mp3",
+            "text": "trekamp",
+            "source": "generated",
+            "content_sha256": "131cc1fefb4d741ee0a38e87e1e262890222eae30817f2285b8c345adb5c94ac",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "konkurranse med tre øvelser",
+      "translation": "competition with three events",
+      "examples": [
+        {
+          "no": "vinne trekampen",
+          "en": "win the triathlon"
+        }
+      ]
+    },
+    {
+      "text": "konkurranse mellom tre konkurrenter",
+      "translation": "competition between three competitors",
+      "examples": [
+        {
+          "no": "de tre utøverne møtes til trekamp",
+          "en": "the three athletes meet in a three-way contest"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "source_article_id": 120973,
+  "lemmas": [
+    {
+      "lemma": "sommerkveld",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 141150,
+      "is_sub_article": false,
+      "primary_translation": "summer evening",
+      "word_forms": [
+        {
+          "word_form": "sommerkveld",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sO$m@r$%kvEl",
+              "ipa": "ˈsɔmərˌkvɛl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sommerkvelden",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sO$m@r$%kvE$ln=",
+              "ipa": "ˈsɔmərˌkvɛln̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sommerkvelder",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sO$m@r$%kvE$l@r",
+              "ipa": "ˈsɔmərˌkvɛlər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sommerkveldene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɔmərkʋˌɛln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "22b44954a8bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22b44954a8bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/22b44954a8bf.mp3",
+            "text": "sommerkveld",
+            "source": "generated",
+            "content_sha256": "4f5b8f73061759ffb0d1aa30dd4702b94d7033c02316405a2879969fbef7386a",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kveld om sommeren",
+      "translation": "evening in summer",
+      "examples": [
+        {
+          "no": "lange, lyse sommerkvelder",
+          "en": "long, bright summer evenings"
+        }
+      ]
+    }
+  ]
+}

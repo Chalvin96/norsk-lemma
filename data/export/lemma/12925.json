@@ -1,0 +1,130 @@
+{
+  "source_article_id": 12925,
+  "lemmas": [
+    {
+      "lemma": "epilepsi",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 15053,
+      "is_sub_article": false,
+      "primary_translation": "epilepsy",
+      "word_forms": [
+        {
+          "word_form": "epilepsi",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$pI$l@p$\"si:",
+              "ipa": "ɛpɪləpˈsɪː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "epilepsien",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$pI$l@p$\"si:$@n",
+              "ipa": "ɛpɪləpˈsɪːən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "epilepsier",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛpɪləpsˈiːər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "epilepsiene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛpɪləpsˈiːənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "04f8b497e046.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/04f8b497e046.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/04f8b497e046.mp3",
+            "text": "epilepsi",
+            "source": "generated",
+            "content_sha256": "7836b79078ae141bd7d528a1931a324cecf60e49818fb5f389de912be4611fad",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "fellesbetegnelse for tilstander med kortvarige forstyrrelser av hjernens funksjoner som kan gi anfall med bevisstløshet og kramper",
+      "translation": "collective term for conditions with temporary disturbances of brain functions that can cause seizures with unconsciousness and convulsions",
+      "examples": [
+        {
+          "no": "få påvist epilepsi",
+          "en": "be diagnosed with epilepsy"
+        },
+        {
+          "no": "bli operert for epilepsi",
+          "en": "undergo surgery for epilepsy"
+        }
+      ]
+    }
+  ]
+}

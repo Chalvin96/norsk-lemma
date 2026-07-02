@@ -1,0 +1,127 @@
+{
+  "source_article_id": 131181,
+  "lemmas": [
+    {
+      "lemma": "søppelberg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 135175,
+      "is_sub_article": false,
+      "primary_translation": "heap of garbage",
+      "word_forms": [
+        {
+          "word_form": "søppelberg",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"s9$pl=$%b{rg",
+              "ipa": "ˈsœpl̩ˌbærg",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "søppelberget",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"s9$pl=$%b{r$g@",
+              "ipa": "ˈsœpl̩ˌbærgə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "søppelberga",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœpl̩bˌærgɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "søppelbergene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈœpl̩bˌærgənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d8e56f4a87bd.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d8e56f4a87bd.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d8e56f4a87bd.mp3",
+            "text": "søppelberg",
+            "source": "generated",
+            "content_sha256": "bc3e8fba004cb9b412a06c0785cfac03f71741ad8838123e09038afa8aeca595",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stor mengde søppel eller avfall",
+      "translation": "large amount of garbage or waste",
+      "examples": [
+        {
+          "no": "søppelbergene i verden vokser",
+          "en": "the world's mountains of garbage are growing"
+        }
+      ]
+    }
+  ]
+}

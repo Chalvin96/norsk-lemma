@@ -1,0 +1,143 @@
+{
+  "source_article_id": 24799,
+  "lemmas": [
+    {
+      "lemma": "hvete",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 29245,
+      "is_sub_article": false,
+      "primary_translation": "wheat",
+      "word_forms": [
+        {
+          "word_form": "hvete",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ve:$t@",
+              "ipa": "ˈveːtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hveten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ve:$tn=",
+              "ipa": "ˈveːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hveter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"ve:$t@r",
+              "ipa": "ˈveːtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "hvetene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʋˈeːtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "185ed84b4c04.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/185ed84b4c04.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/185ed84b4c04.mp3",
+            "text": "hvete",
+            "source": "generated",
+            "content_sha256": "0b121520f0455f1a2c7ae0d99d10560015c16bc5a7ee120fb711cc2954250cdd",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "slekt med mange arter i gressfamilien",
+      "translation": "genus with many species in the grass family",
+      "examples": []
+    },
+    {
+      "text": "Triticum",
+      "translation": "Triticum",
+      "examples": [
+        {
+          "no": "dyrking av hvete",
+          "en": "cultivation of wheat"
+        }
+      ]
+    },
+    {
+      "text": "korn eller mel av hvete",
+      "translation": "grain or flour of wheat",
+      "examples": [
+        {
+          "no": "sammalt hvete",
+          "en": "whole wheat"
+        },
+        {
+          "no": "brød av hvete med hele korn",
+          "en": "bread made from wheat with whole grains"
+        }
+      ]
+    }
+  ]
+}

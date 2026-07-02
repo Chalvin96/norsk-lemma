@@ -1,0 +1,136 @@
+{
+  "source_article_id": 15716,
+  "lemmas": [
+    {
+      "lemma": "flåte",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 18173,
+      "is_sub_article": false,
+      "primary_translation": "raft / fleet",
+      "word_forms": [
+        {
+          "word_form": "flåte",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flo:$t@",
+              "ipa": "ˈfloːtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flåten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flo:$tn=",
+              "ipa": "ˈfloːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flåter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flo:$t@r",
+              "ipa": "ˈfloːtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "flåtene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"flo:$tn=$@",
+              "ipa": "ˈfloːtn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a1cbf1927958.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1cbf1927958.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a1cbf1927958.mp3",
+            "text": "flåte",
+            "source": "generated",
+            "content_sha256": "713dc431824a7cb009dd635994b8b2b414580873c176be6d7eb31b4929a259f8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "enkel, primitiv farkost av sammenfestede stokker eller lignende",
+      "translation": "simple, primitive vessel made of fastened logs",
+      "examples": [
+        {
+          "no": "bygge seg en flåte",
+          "en": "build oneself a raft"
+        }
+      ]
+    },
+    {
+      "text": "samling av fartøyer, særlig av en viss type",
+      "translation": "collection of vessels, especially of a certain type",
+      "examples": [
+        {
+          "no": "flåten av krigsfartøyer",
+          "en": "the fleet of warships"
+        },
+        {
+          "no": "selskapets flåte av nye langdistansefly",
+          "en": "the company's fleet of new long-haul aircraft"
+        }
+      ]
+    }
+  ]
+}

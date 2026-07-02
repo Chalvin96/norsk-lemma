@@ -1,0 +1,127 @@
+{
+  "source_article_id": 126871,
+  "lemmas": [
+    {
+      "lemma": "saltinnhold",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 135707,
+      "is_sub_article": false,
+      "primary_translation": "salt content",
+      "word_forms": [
+        {
+          "word_form": "saltinnhold",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAl$tIn$%hOl",
+              "ipa": "ˈsɑltɪnˌhɔl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "saltinnholdet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sAl$tIn$%hO$l@",
+              "ipa": "ˈsɑltɪnˌhɔlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "saltinnholda",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑltɪnhˌɔlɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "saltinnholdene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑltɪnhˌɔln̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "beccffc5eb5a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/beccffc5eb5a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/beccffc5eb5a.mp3",
+            "text": "saltinnhold",
+            "source": "generated",
+            "content_sha256": "c647cccec03e16c204e9fd2811c8e68efb225fa64556a730f01b604a32ac26fa",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "innhold av salt",
+      "translation": "content of salt",
+      "examples": [
+        {
+          "no": "brødet har høyt saltinnhold",
+          "en": "the bread has a high salt content"
+        }
+      ]
+    }
+  ]
+}

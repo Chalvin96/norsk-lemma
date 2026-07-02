@@ -1,0 +1,154 @@
+{
+  "source_article_id": 112096,
+  "lemmas": [
+    {
+      "lemma": "ekstremvarsel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163659,
+      "is_sub_article": false,
+      "primary_translation": "extreme weather warning",
+      "word_forms": [
+        {
+          "word_form": "ekstremvarsel",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"stre:m$%vA$s`l`=",
+              "ipa": "ɛkˈstreːmˌvɑʂɭ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ekstremvarselet",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛkstrˈeːmʋˌɑʂl̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ekstremvarsla",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛkstrˈeːmʋˌɑʂlɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ekstremvarslene",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛkstrˈeːmʋˌɑʂln̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "ekstremvarsler",
+          "tags_json": [
+            "Neuter",
+            "n.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛkstrˈeːmʋˌɑʂlər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d3cc61c6bed0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d3cc61c6bed0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d3cc61c6bed0.mp3",
+            "text": "ekstremvarsel",
+            "source": "generated",
+            "content_sha256": "a47add461447ddbd6963e7f7471c00be90623949bc86f500d3cf2c28296400cc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "værvarsel som sendes ut for å varsle om ekstremvær",
+      "translation": "weather forecast issued to warn about extreme weather",
+      "examples": [
+        {
+          "no": "dette er årets første ekstremvarsel",
+          "en": "this is the year's first extreme weather warning"
+        },
+        {
+          "no": "det kom ekstremvarsler om stormen",
+          "en": "extreme weather warnings were issued about the storm"
+        }
+      ]
+    }
+  ]
+}

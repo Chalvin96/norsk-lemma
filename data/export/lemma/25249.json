@@ -1,0 +1,92 @@
+{
+  "source_article_id": 25249,
+  "lemmas": [
+    {
+      "lemma": "høvisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 30171,
+      "is_sub_article": false,
+      "primary_translation": "courtly/polite",
+      "word_forms": [
+        {
+          "word_form": "høvisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"h2:$vI$sk",
+              "ipa": "ˈhøːvɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "høviske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"h2:$vI$sk@",
+              "ipa": "ˈhøːvɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a52cddeee266.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a52cddeee266.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a52cddeee266.mp3",
+            "text": "høvisk",
+            "source": "generated",
+            "content_sha256": "1c57e2e24047922d44585340fae65a485951d0501a480704f118a43f7393f376",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har en beleven framferd",
+      "translation": "having a pleasant demeanor",
+      "examples": []
+    },
+    {
+      "text": "dannet danna, høflig, sømmelig",
+      "translation": "cultured, polite, decent",
+      "examples": [
+        {
+          "no": "opptre høvisk",
+          "en": "behave courteously"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "source_article_id": 9450,
+  "lemmas": [
+    {
+      "lemma": "deduktiv",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 11154,
+      "is_sub_article": false,
+      "primary_translation": "deductive",
+      "word_forms": [
+        {
+          "word_form": "deduktiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dE$du0k$%ti:v",
+              "ipa": "ˈdɛdʉkˌtɪːv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "deduktive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dE$du0k$%ti:$v@",
+              "ipa": "ˈdɛdʉkˌtɪːvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "deduktivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈɛdʉktˌiːʋt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "de2e8e16e7a0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/de2e8e16e7a0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/de2e8e16e7a0.mp3",
+            "text": "deduktiv",
+            "source": "generated",
+            "content_sha256": "4c0e9dab8c3f2f12fe1e4a58bdada0991e6caf72639de0c1ba3087a0af1c3837",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "utledende ved deduksjon, som går fra det allmenne til det enkelte",
+      "translation": "derived by deduction, proceeding from the general to the specific",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra induktiv",
+      "translation": "as opposed to inductive",
+      "examples": [
+        {
+          "no": "deduktiv metode",
+          "en": "deductive method"
+        },
+        {
+          "no": "deduktive resonnementer",
+          "en": "deductive reasoning"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "source_article_id": 119287,
+  "lemmas": [
+    {
+      "lemma": "kjøleskapskald",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 113224,
+      "is_sub_article": false,
+      "primary_translation": "refrigerator-cold",
+      "word_forms": [
+        {
+          "word_form": "kjøleskapskald",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈøːləskɑːpskˌɑl",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kjøleskapskalde",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈøːləskɑːpskˌɑlə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "kjøleskapskaldt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈøːləskɑːpskˌɑlt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d9e1d23c78fc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d9e1d23c78fc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d9e1d23c78fc.mp3",
+            "text": "kjøleskapskald",
+            "source": "generated",
+            "content_sha256": "e6b4c58443bd59163bc610f70d30c4880ab396d4a8c0940954f178897573ae99"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med samme temperatur som i et kjøleskap",
+      "translation": "at the same temperature as in a refrigerator",
+      "examples": []
+    },
+    {
+      "text": "kald etter å ha stått i kjøleskap",
+      "translation": "cold after being in a refrigerator",
+      "examples": [
+        {
+          "no": "kjøleskapskaldt øl",
+          "en": "refrigerator-cold beer"
+        }
+      ]
+    }
+  ]
+}

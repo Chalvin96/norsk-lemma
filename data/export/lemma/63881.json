@@ -1,0 +1,87 @@
+{
+  "source_article_id": 63881,
+  "lemmas": [
+    {
+      "lemma": "ufødt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73145,
+      "is_sub_article": false,
+      "primary_translation": "unborn",
+      "word_forms": [
+        {
+          "word_form": "ufødt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%f9t",
+              "ipa": "ˈʉːˌfœt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ufødte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%f9$t@",
+              "ipa": "ˈʉːˌfœtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "be1ec56fb193.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be1ec56fb193.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/be1ec56fb193.mp3",
+            "text": "ufødt",
+            "source": "generated",
+            "content_sha256": "477ccb0dd45016491765da97f1c2b3f6332dca32926831a8ea68d1d9257cdac9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ennå ikke født",
+      "translation": "not yet born",
+      "examples": [
+        {
+          "no": "pels av ufødt sel",
+          "en": "fur from unborn seals"
+        }
+      ]
+    }
+  ]
+}

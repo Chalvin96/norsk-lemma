@@ -1,0 +1,131 @@
+{
+  "source_article_id": 28848,
+  "lemmas": [
+    {
+      "lemma": "kartong",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 34091,
+      "is_sub_article": false,
+      "primary_translation": "cardboard / carton",
+      "word_forms": [
+        {
+          "word_form": "kartong",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"t`ON",
+              "ipa": "kɑˈʈɔŋ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kartongen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"t`ON$@n",
+              "ipa": "kɑˈʈɔŋən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kartonger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"t`ON$@r",
+              "ipa": "kɑˈʈɔŋər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kartongene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"t`ON$@$n@",
+              "ipa": "kɑˈʈɔŋənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5ab1c133443c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ab1c133443c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ab1c133443c.mp3",
+            "text": "kartong",
+            "source": "generated",
+            "content_sha256": "abbd643e60efba91090ff61468c962ff91fe1a554bb87bb1731259f1336731bb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tynn papp",
+      "translation": "thin cardboard",
+      "examples": []
+    },
+    {
+      "text": "eske eller beholder av kartong eller annen papp",
+      "translation": "box or container made of cardboard or other thin board",
+      "examples": [
+        {
+          "no": "en kartong sigaretter",
+          "en": "a carton of cigarettes"
+        },
+        {
+          "no": "varene var pakket i kartonger",
+          "en": "the goods were packed in cartons"
+        }
+      ]
+    }
+  ]
+}

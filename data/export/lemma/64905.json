@@ -1,0 +1,96 @@
+{
+  "source_article_id": 64905,
+  "lemmas": [
+    {
+      "lemma": "urådelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74312,
+      "is_sub_article": false,
+      "primary_translation": "inadvisable",
+      "word_forms": [
+        {
+          "word_form": "urådelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"ro:$d@$lI",
+              "ipa": "ʉˈroːdəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "urådelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"ro:$d@$lI$@",
+              "ipa": "ʉˈroːdəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7ad04b2fbd8b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ad04b2fbd8b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7ad04b2fbd8b.mp3",
+            "text": "urådelig",
+            "source": "generated",
+            "content_sha256": "60b98bd7bffd07f0c51d8125aca4db58898ebde5f7d86b492100ccc278df27cf",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lite gunstig eller fornuftig",
+      "translation": "unfortunate, useless, unwise",
+      "examples": []
+    },
+    {
+      "text": "uheldig, utjenlig, uklok",
+      "translation": "",
+      "examples": [
+        {
+          "no": "et urådelig prosjekt",
+          "en": "an unwise project"
+        },
+        {
+          "no": "det er urådelig å ferdes på havet i slikt vær",
+          "en": "it is inadvisable to be at sea in this kind of weather"
+        }
+      ]
+    }
+  ]
+}

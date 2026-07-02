@@ -1,0 +1,91 @@
+{
+  "source_article_id": 3629,
+  "lemmas": [
+    {
+      "lemma": "avleggs",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4304,
+      "is_sub_article": false,
+      "primary_translation": "obsolete / old-fashioned",
+      "word_forms": [
+        {
+          "word_form": "avleggs",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$%lEgs",
+              "ipa": "ˈɑːvˌlɛgs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "avleggse",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$%lEg$s@",
+              "ipa": "ˈɑːvˌlɛgsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7910e17aa0f1.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7910e17aa0f1.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7910e17aa0f1.mp3",
+            "text": "avleggs",
+            "source": "generated",
+            "content_sha256": "eeb0cb3143c364c177ebdb94da26896939b726fab2e03b674547ec794578c5f4",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke lenger er i bruk",
+      "translation": "no longer in use",
+      "examples": [
+        {
+          "no": "et avleggs klesplagg",
+          "en": "an outdated item of clothing"
+        },
+        {
+          "no": "et slikt synspunkt er håpløst avleggs i dag",
+          "en": "such a viewpoint is hopelessly outdated today"
+        }
+      ]
+    }
+  ]
+}

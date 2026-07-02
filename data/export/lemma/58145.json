@@ -1,0 +1,608 @@
+{
+  "source_article_id": 58145,
+  "lemmas": [
+    {
+      "lemma": "stå",
+      "hgno": 3,
+      "pos": "VERB",
+      "source_lemma_id": 66451,
+      "is_sub_article": false,
+      "primary_translation": "stand / be located / take place / stream",
+      "word_forms": [
+        {
+          "word_form": "stå",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sto:",
+              "ipa": "ˈstoː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "står",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sto:r",
+              "ipa": "ˈstoːr",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "stås",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈoːs",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "sto",
+          "tags_json": [
+            "verb",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stu:",
+              "ipa": "ˈstuː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "stått",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stOt",
+              "ipa": "ˈstɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "ståtte",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"stO$t@",
+              "ipa": "ˈstɔtə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stående",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sto:$@$n@",
+              "ipa": "ˈstoːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "stod",
+          "tags_json": [
+            "verb",
+            "Past"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stu:",
+              "ipa": "ˈstuː",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e2f8648fd720.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e2f8648fd720.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e2f8648fd720.mp3",
+            "text": "stå",
+            "source": "generated",
+            "content_sha256": "eb377a9185a45eb0c5c6291f1e5e673d41232992d120da1527793399df224469",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ha kroppen i mer eller mindre oppreist, loddrett stilling",
+      "translation": "opposite of stryke",
+      "examples": []
+    },
+    {
+      "text": "være et sted i en slik stilling",
+      "translation": "be somewhere in such a position",
+      "examples": [
+        {
+          "no": "stå på beina",
+          "en": "stand on one's feet"
+        },
+        {
+          "no": "folk måtte stå på bussen",
+          "en": "people had to stand on the bus"
+        },
+        {
+          "no": "katten stod på trappa og ventet",
+          "en": "the cat stood on the steps waiting"
+        },
+        {
+          "no": "stå og fundere på noe",
+          "en": "stand pondering something"
+        }
+      ]
+    },
+    {
+      "text": "hvile kroppens tyngde i mer eller mindre loddrett stilling på noe som beveger seg over underlaget",
+      "translation": "rest the body's weight in a more or less upright position on something moving over the ground",
+      "examples": [
+        {
+          "no": "jeg liker å stå på ski",
+          "en": "I like to ski"
+        },
+        {
+          "no": "stå på surfebrett",
+          "en": "stand on a surfboard"
+        }
+      ]
+    },
+    {
+      "text": "reise seg",
+      "translation": "rise to one's feet",
+      "examples": []
+    },
+    {
+      "text": "stige oppover fra en lavere posisjon",
+      "translation": "rise upward from a lower position",
+      "examples": [
+        {
+          "no": "stå opp  av senga",
+          "en": "get up out of bed"
+        },
+        {
+          "no": "når sola har stått opp, skal jeg gå",
+          "en": "when the sun has risen, I'll go"
+        },
+        {
+          "no": "hun prøvde å stå, men falt ned igjen på stolen",
+          "en": "she tried to stand up, but fell back down onto the chair"
+        }
+      ]
+    },
+    {
+      "text": "befinne seg på et visst sted",
+      "translation": "be situated in a certain place",
+      "examples": [
+        {
+          "no": "bøkene står i hylla",
+          "en": "the books are on the shelf"
+        },
+        {
+          "no": "bilen står inntil videre i Bodø",
+          "en": "the car is in Bodø for the time being"
+        },
+        {
+          "no": "maten skal stå på bordet klokka tolv",
+          "en": "the food should be on the table at twelve o'clock"
+        },
+        {
+          "no": "trærne stod tett i tett",
+          "en": "the trees stood packed tightly together"
+        }
+      ]
+    },
+    {
+      "text": "være rettet oppover eller ut i været",
+      "translation": "be directed upward or into the air",
+      "examples": []
+    },
+    {
+      "text": "peke, stikke",
+      "translation": "point, stick out",
+      "examples": [
+        {
+          "no": "flammene stod rett opp",
+          "en": "the flames rose straight up"
+        },
+        {
+          "no": "håret står til alle kanter",
+          "en": "the hair sticks out in all directions"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: befinne seg på et bestemt punkt i forhold til en sak eller lignende",
+      "translation": "figurative: be at a certain point in relation to a matter or the like",
+      "examples": [
+        {
+          "no": "stå overfor et vanskelig dilemma",
+          "en": "face a difficult dilemma"
+        },
+        {
+          "no": "jeg vil gjerne vite hvor du står i denne saken",
+          "en": "I'd very much like to know where you stand in this matter"
+        },
+        {
+          "no": "de står  foran en stor reise",
+          "en": "they are facing a big journey"
+        }
+      ]
+    },
+    {
+      "text": "være i en viss tilstand",
+      "translation": "be in a certain condition",
+      "examples": [
+        {
+          "no": "huset står tomt",
+          "en": "the house stands empty"
+        },
+        {
+          "no": "nå står hagen i blomst",
+          "en": "now the garden is in bloom"
+        },
+        {
+          "no": "middagen stod allerede ferdig",
+          "en": "dinner was already ready"
+        },
+        {
+          "no": "hjertet stod stille",
+          "en": "the heart stood still"
+        }
+      ]
+    },
+    {
+      "text": "være i virksomhet eller holde på med noe som kan utføres i stående stilling",
+      "translation": "be at work or engaged in something that can be done standing up",
+      "examples": [
+        {
+          "no": "hun står og jobber med kunstverket",
+          "en": "she is standing there working on the artwork"
+        },
+        {
+          "no": "min sønn står i butikken hver lørdag",
+          "en": "my son works in the shop every Saturday"
+        },
+        {
+          "no": "jeg står litt opptatt, kan jeg ringe tilbake?",
+          "en": "I'm a little busy, can I call back?"
+        },
+        {
+          "no": "foreldrene stod vakt på diskoteket",
+          "en": "the parents stood guard at the disco"
+        }
+      ]
+    },
+    {
+      "text": "være i et visst forhold eller på et visst nivå overfor noen eller noe",
+      "translation": "be in a certain relation to or at a certain level in relation to someone or something",
+      "examples": [
+        {
+          "no": "partene stod temmelig likt",
+          "en": "the parties were pretty evenly matched"
+        },
+        {
+          "no": "opplysningene står i strid med hverandre",
+          "en": "the information contradicts each other"
+        },
+        {
+          "no": "toppsjefene står høyt over meg i stilling",
+          "en": "the top executives are far above me in rank"
+        },
+        {
+          "no": "jeg står på din side i denne saken",
+          "en": "I stand on your side in this matter"
+        }
+      ]
+    },
+    {
+      "text": "være i egenskap av eller i rolle som",
+      "translation": "be in the capacity of or in the role of",
+      "examples": [
+        {
+          "no": "stå brud",
+          "en": "be the bride"
+        },
+        {
+          "no": "stå konfirmant",
+          "en": "be a confirmation candidate"
+        },
+        {
+          "no": "hun stod vakt til midnatt",
+          "en": "she stood guard until midnight"
+        },
+        {
+          "no": "han stod modell for studentene",
+          "en": "he modeled for the students"
+        }
+      ]
+    },
+    {
+      "text": "ikke bevege seg",
+      "translation": "not move",
+      "examples": []
+    },
+    {
+      "text": "stanse",
+      "translation": "stop",
+      "examples": [
+        {
+          "no": "stå stille!",
+          "en": "stand still!"
+        },
+        {
+          "no": "bli stående og vente",
+          "en": "remain standing and waiting"
+        },
+        {
+          "no": "trikkene stod",
+          "en": "the trams stopped"
+        },
+        {
+          "no": "bilen stod helt fast i snøen",
+          "en": "the car was completely stuck in the snow"
+        }
+      ]
+    },
+    {
+      "text": "være på samme sted eller i samme tilstand",
+      "translation": "remain in the same place or condition",
+      "examples": []
+    },
+    {
+      "text": "bli værende",
+      "translation": "remain, stay",
+      "examples": [
+        {
+          "no": "huset har stått i flere hundre år",
+          "en": "the house has stood for several hundred years"
+        },
+        {
+          "no": "banke ned en stolpe så den står støtt",
+          "en": "hammer in a post so that it stands firmly"
+        },
+        {
+          "no": "la deigen stå natta over",
+          "en": "leave the dough overnight"
+        },
+        {
+          "no": "la bilen stå og bruk heller kollektivtrafikk",
+          "en": "leave the car and use public transport instead"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: være uendret",
+      "translation": "figurative: remain unchanged",
+      "examples": [
+        {
+          "no": "tilbudet står fremdeles",
+          "en": "the offer still stands"
+        },
+        {
+          "no": "avtalen står fast også etter regjeringsskiftet",
+          "en": "the agreement remains in force even after the change of government"
+        },
+        {
+          "no": "dere har alltid stående invitasjon hos oss",
+          "en": "you always have an open invitation with us"
+        },
+        {
+          "no": "dette er et stående samtaletema som vi stadig kommer tilbake til",
+          "en": "this is a recurring topic of conversation that we keep coming back to"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: tåle en påkjenning eller motstand uten å svekkes",
+      "translation": "figurative: withstand strain or resistance without weakening",
+      "examples": []
+    },
+    {
+      "text": "holde stand mot",
+      "translation": "hold out against",
+      "examples": [
+        {
+          "no": "jeg står det ikke ut",
+          "en": "I can't stand it"
+        },
+        {
+          "no": "læreren hadde lite å stå imot med",
+          "en": "the teacher had little to resist with"
+        },
+        {
+          "no": "han står nok ikke hele distansen i samme høye fart",
+          "en": "he probably won't last the whole distance at the same high speed"
+        }
+      ]
+    },
+    {
+      "text": "få godkjent resultat på prøve, eksamen eller lignende",
+      "translation": "get a passing result on a test, exam, or the like",
+      "examples": []
+    },
+    {
+      "text": "motsatt stryke",
+      "translation": "opposite of fail",
+      "examples": [
+        {
+          "no": "elevene håpte bare at de ville stå på eksamenen",
+          "en": "the students only hoped that they would pass the exam"
+        }
+      ]
+    },
+    {
+      "text": "finne sted",
+      "translation": "take place",
+      "examples": [
+        {
+          "no": "bryllupet skal stå til våren",
+          "en": "the wedding will be in the spring"
+        },
+        {
+          "no": "slaget på Stiklestad stod i 1030",
+          "en": "the Battle of Stiklestad took place in 1030"
+        }
+      ]
+    },
+    {
+      "text": "være skrevet",
+      "translation": "be written",
+      "examples": [
+        {
+          "no": "adressen står utenpå",
+          "en": "the address is written on the outside"
+        },
+        {
+          "no": "navnet står langt nede på lista",
+          "en": "the name is far down on the list"
+        },
+        {
+          "no": "det stod noe om det i avisen",
+          "en": "there was something about it in the newspaper"
+        },
+        {
+          "no": "hva står det i brevet?",
+          "en": "what does the letter say?"
+        }
+      ]
+    },
+    {
+      "text": "være i ens tanker",
+      "translation": "be on one's mind",
+      "examples": [
+        {
+          "no": "det er ikke annet som har stått i hodet på meg",
+          "en": "there's been nothing else on my mind"
+        },
+        {
+          "no": "stå klart for en",
+          "en": "be clear to someone"
+        },
+        {
+          "no": "barneårene står for meg som en lykkelig tid",
+          "en": "my childhood stands out to me as a happy time"
+        }
+      ]
+    },
+    {
+      "text": "sette kurs mot",
+      "translation": "set course for",
+      "examples": [
+        {
+          "no": "båten stod ut fjorden",
+          "en": "the boat headed out the fjord"
+        }
+      ]
+    },
+    {
+      "text": "drive eller strømme i en viss retning",
+      "translation": "move or stream in a certain direction",
+      "examples": [
+        {
+          "no": "spruten stod høyt i været",
+          "en": "the spray shot high into the air"
+        },
+        {
+          "no": "støvføyka stod",
+          "en": "the dust cloud billowed"
+        },
+        {
+          "no": "en frisk nordvest stod inn sundet",
+          "en": "a fresh northwesterly blew into the sound"
+        },
+        {
+          "no": "det stod en god varme fra ovnen",
+          "en": "a good warmth came from the stove"
+        }
+      ]
+    },
+    {
+      "text": "i språkvitenskap: ha en form som uttrykker en bestemt grammatisk egenskap",
+      "translation": "in linguistics: have a form that expresses a particular grammatical property",
+      "examples": [
+        {
+          "no": "substantivet står i flertall",
+          "en": "the noun is in the plural"
+        }
+      ]
+    }
+  ]
+}

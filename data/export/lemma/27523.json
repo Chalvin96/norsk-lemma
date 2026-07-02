@@ -1,0 +1,126 @@
+{
+  "source_article_id": 27523,
+  "lemmas": [
+    {
+      "lemma": "jan",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 32641,
+      "is_sub_article": false,
+      "primary_translation": "loser in card game",
+      "word_forms": [
+        {
+          "word_form": "jan",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:n",
+              "ipa": "ˈjɑːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "janen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"jA:$nn=",
+              "ipa": "ˈjɑːnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "janer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈɑːnər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "janene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "jˈɑːnn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "1313fed12d79.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1313fed12d79.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/1313fed12d79.mp3",
+            "text": "jan",
+            "source": "generated",
+            "content_sha256": "a04989ce7d5443a7128d87571ccabc07fa0b9dc9c2c35734643c5ceb5d15016b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i forskjellige kortspill: tapende spiller som ikke når et visst antall poeng",
+      "translation": "in various card games: losing player who does not reach a certain number of points",
+      "examples": [
+        {
+          "no": "bli jan",
+          "en": "end up as jan"
+        }
+      ]
+    }
+  ]
+}

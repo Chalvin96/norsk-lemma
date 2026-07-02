@@ -1,0 +1,122 @@
+{
+  "source_article_id": 32277,
+  "lemmas": [
+    {
+      "lemma": "kronekurs",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 37889,
+      "is_sub_article": false,
+      "primary_translation": "krone exchange rate",
+      "word_forms": [
+        {
+          "word_form": "kronekurs",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kru:$n@$%k}:s`",
+              "ipa": "ˈkruːnəˌkʉːʂ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kronekursen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kru:$n@$%k}:$s`n`=",
+              "ipa": "ˈkruːnəˌkʉːʂɳ̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kronekurser",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kru:$n@$%k}:$s`@r",
+              "ipa": "ˈkruːnəˌkʉːʂər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kronekursene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kru:$n@$%k}:$s`n`=$@",
+              "ipa": "ˈkruːnəˌkʉːʂɳ̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "806258997beb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/806258997beb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/806258997beb.mp3",
+            "text": "kronekurs",
+            "source": "generated",
+            "content_sha256": "cc4552561ba974c782018ae5ef096c715e8c9e4c080bc9d39148f479b621c67f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kurs på kronemynt",
+      "translation": "exchange rate of the krone (Norwegian currency)",
+      "examples": [
+        {
+          "no": "kronekursen er svekket",
+          "en": "the exchange rate of the krone has weakened"
+        }
+      ]
+    }
+  ]
+}

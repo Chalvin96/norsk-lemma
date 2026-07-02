@@ -1,0 +1,114 @@
+{
+  "source_article_id": 28697,
+  "lemmas": [
+    {
+      "lemma": "karat",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 33934,
+      "is_sub_article": false,
+      "primary_translation": "carat",
+      "word_forms": [
+        {
+          "word_form": "karat",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"rA:t",
+              "ipa": "kɑˈrɑːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "karaten",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"\"rA:$tn=",
+              "ipa": "kɑˈrɑːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "karatene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kA$\"rA:$tn=$@",
+              "ipa": "kɑˈrɑːtn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d60cb1c360ef.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d60cb1c360ef.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d60cb1c360ef.mp3",
+            "text": "karat",
+            "source": "generated",
+            "content_sha256": "bf550df69707370b0ffa9a9ce2081bd35a2e60b6516e8f768d9ae49239e8cfe9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vektenhet for edelsteiner og perler",
+      "translation": "unit of weight for gemstones and pearls",
+      "examples": [
+        {
+          "no": "metrisk karat = 0,2 g",
+          "en": "metric carat = 0.2 g"
+        }
+      ]
+    },
+    {
+      "text": "betegnelse for relativ gullmengde i legering",
+      "translation": "designation for relative gold content in an alloy",
+      "examples": [
+        {
+          "no": "18 karat= 18/24 gull",
+          "en": "18 carat = 18/24 gold"
+        }
+      ]
+    }
+  ]
+}

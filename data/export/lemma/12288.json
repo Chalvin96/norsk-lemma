@@ -1,0 +1,127 @@
+{
+  "source_article_id": 12288,
+  "lemmas": [
+    {
+      "lemma": "eldstemann",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 14355,
+      "is_sub_article": false,
+      "primary_translation": "oldest person / most senior",
+      "word_forms": [
+        {
+          "word_form": "eldstemann",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"El$st@$%mAn",
+              "ipa": "ˈɛlstəˌmɑn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eldstemannen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"El$st@$%mA$nn=",
+              "ipa": "ˈɛlstəˌmɑnn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eldstemenn",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"El$st@$%mEn",
+              "ipa": "ˈɛlstəˌmɛn",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "eldstemennene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"El$st@$%mE$nn=$@",
+              "ipa": "ˈɛlstəˌmɛnn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "62984606cfee.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62984606cfee.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/62984606cfee.mp3",
+            "text": "eldstemann",
+            "source": "generated",
+            "content_sha256": "c6cf80d176dcaa632f88c93131822c8fbb715c700984517ec1bee8f70b35261f",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person med høyest alder",
+      "translation": "person of highest age",
+      "examples": []
+    },
+    {
+      "text": "person med lengst ansiennitet",
+      "translation": "person with longest seniority",
+      "examples": [
+        {
+          "no": "eldstemannen på laget",
+          "en": "the longest-serving member of the team"
+        }
+      ]
+    }
+  ]
+}

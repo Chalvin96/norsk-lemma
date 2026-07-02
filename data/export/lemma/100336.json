@@ -1,0 +1,88 @@
+{
+  "source_article_id": 100336,
+  "lemmas": [
+    {
+      "lemma": "darwinistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 93369,
+      "is_sub_article": false,
+      "primary_translation": "Darwinian",
+      "word_forms": [
+        {
+          "word_form": "darwinistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dɑrʋɪnˈɪstɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "darwinistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dAr$vI$\"nI$stI$sk@",
+              "ipa": "dɑrvɪˈnɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5b8fff414e59.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b8fff414e59.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5b8fff414e59.mp3",
+            "text": "darwinistisk",
+            "source": "generated",
+            "content_sha256": "435e381846a25ec6de66cc9a796f3b01df08d3aec252dcdee425664e06d80a76"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder darwinisme",
+      "translation": "relating to Darwinism",
+      "examples": [
+        {
+          "no": "darwinistisk evolusjon",
+          "en": "Darwinian evolution"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "source_article_id": 24903,
+  "lemmas": [
+    {
+      "lemma": "hydraulisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 29416,
+      "is_sub_article": false,
+      "primary_translation": "hydraulic",
+      "word_forms": [
+        {
+          "word_form": "hydraulisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$\"drE*u0$lI$sk",
+              "ipa": "hʏˈdræ͡ʉlɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "hydrauliske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "hY$\"drE*u0$lI$sk@",
+              "ipa": "hʏˈdræ͡ʉlɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "eb08ec56fe07.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb08ec56fe07.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/eb08ec56fe07.mp3",
+            "text": "hydraulisk",
+            "source": "generated",
+            "content_sha256": "20453d279cda656323e8edd3ef96fc1573007540e964689e1a2ee76825acb7da",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder eller har sammenheng med hydraulikk",
+      "translation": "concerning or related to hydraulics",
+      "examples": []
+    },
+    {
+      "text": "som drives av eller virker ved hjelp av væske som er satt under trykk, eller ved hjelp av væskers bevegelse",
+      "translation": "powered by or operating by means of pressurized fluid or fluid movement",
+      "examples": [
+        {
+          "no": "hydrauliske bremser",
+          "en": "hydraulic brakes"
+        },
+        {
+          "no": "et hydraulisk system",
+          "en": "a hydraulic system"
+        }
+      ]
+    }
+  ]
+}

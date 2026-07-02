@@ -1,0 +1,131 @@
+{
+  "source_article_id": 121580,
+  "lemmas": [
+    {
+      "lemma": "lakmustest",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 168946,
+      "is_sub_article": false,
+      "primary_translation": "litmus test",
+      "word_forms": [
+        {
+          "word_form": "lakmustest",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAk$mu0$%stE$st",
+              "ipa": "ˈlɑkmʉˌstɛst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lakmustesten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"lAk$mu0$%stE$stn=",
+              "ipa": "ˈlɑkmʉˌstɛstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "lakmustester",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑkmʉstˌɛstər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lakmustestene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈɑkmʉstˌɛstn̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5527e18a4468.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5527e18a4468.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5527e18a4468.mp3",
+            "text": "lakmustest",
+            "source": "generated",
+            "content_sha256": "412521cadb427a2f9e48c3211d745a30f1c0f0a18ab5da8422f7fcab6e86a483",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "test med lakmus for å avgjøre om en kjemisk løsning er sur eller basisk",
+      "translation": "test with litmus to determine if a chemical solution is acidic or basic",
+      "examples": []
+    },
+    {
+      "text": "i overført betydning: enkelt kriterium for å avgjøre om noe er på den ene eller andre måten",
+      "translation": "single criterion for determining if something is one way or the other",
+      "examples": [
+        {
+          "no": "ja eller nei til oljeboring er selve lakmustesten for klimapolitikken",
+          "en": "yes or no to oil drilling is the very litmus test for climate policy"
+        }
+      ]
+    }
+  ]
+}

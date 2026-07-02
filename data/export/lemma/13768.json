@@ -1,0 +1,100 @@
+{
+  "source_article_id": 13768,
+  "lemmas": [
+    {
+      "lemma": "fanatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 15975,
+      "is_sub_article": false,
+      "primary_translation": "fanatical",
+      "word_forms": [
+        {
+          "word_form": "fanatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"nA:$tI$sk",
+              "ipa": "fɑˈnɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "fanatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fA$\"nA:$tI$sk@",
+              "ipa": "fɑˈnɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8bf301f3cc4c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8bf301f3cc4c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8bf301f3cc4c.mp3",
+            "text": "fanatisk",
+            "source": "generated",
+            "content_sha256": "0f2dac0b238696226dae3897ae2617f759a322211ef15cc2547903c235365cbc",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er oppglødd for en sak",
+      "translation": "enthusiastic about a cause",
+      "examples": []
+    },
+    {
+      "text": "som viser en ensidig og intolerant iver for en sak",
+      "translation": "showing one-sided and intolerant zeal for a cause",
+      "examples": [
+        {
+          "no": "ikke vær så fanatisk!",
+          "en": "don't be so fanatical!"
+        },
+        {
+          "no": "han er fanatisk på det området",
+          "en": "he is fanatical in that area"
+        },
+        {
+          "no": "fanatiske tilhengere",
+          "en": "fanatical supporters"
+        }
+      ]
+    }
+  ]
+}

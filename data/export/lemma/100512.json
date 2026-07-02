@@ -1,0 +1,106 @@
+{
+  "source_article_id": 100512,
+  "lemmas": [
+    {
+      "lemma": "polykrom",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 52512,
+      "is_sub_article": false,
+      "primary_translation": "multicolored",
+      "word_forms": [
+        {
+          "word_form": "polykrom",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$\"kru:m",
+              "ipa": "pʊlɪˈkruːm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "polykrome",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$\"kru:$m@",
+              "ipa": "pʊlɪˈkruːmə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "polykromt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pU$lI$\"kru:mt",
+              "ipa": "pʊlɪˈkruːmt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8da5d04deb33.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8da5d04deb33.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8da5d04deb33.mp3",
+            "text": "polykrom",
+            "source": "generated",
+            "content_sha256": "95e7c1ae99f77f98d8f7e309f13c085ee8e590cf42fc54bef4ee8ed65520882e",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "med flere farger",
+      "translation": "with several colors",
+      "examples": [
+        {
+          "no": "den polykrome skulpturen i middelalderen",
+          "en": "the polychrome sculpture in the Middle Ages"
+        }
+      ]
+    }
+  ]
+}

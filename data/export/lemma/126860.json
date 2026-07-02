@@ -1,0 +1,128 @@
+{
+  "source_article_id": 126860,
+  "lemmas": [
+    {
+      "lemma": "salgsdag",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 135563,
+      "is_sub_article": false,
+      "primary_translation": "sales day",
+      "word_forms": [
+        {
+          "word_form": "salgsdag",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sAlgs$%dA:g",
+              "ipa": "ˈsɑlgsˌdɑːg",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "salgsdagen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑlgsdˌɑːgən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "salgsdager",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑlgsdˌɑːgər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "salgsdagene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sˈɑlgsdˌɑːgənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8d3892ec7809.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d3892ec7809.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8d3892ec7809.mp3",
+            "text": "salgsdag",
+            "source": "generated",
+            "content_sha256": "9c4fb2424b6e23ccb0c1f3b4bafde40aadf2d00c55048fe382c905af0ba5820a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "dag som en vare blir solgt",
+      "translation": "day on which a product is sold",
+      "examples": [
+        {
+          "no": "mange av leilighetene ble solgt første salgsdag",
+          "en": "many of the apartments were sold on the first day of sale"
+        }
+      ]
+    }
+  ]
+}

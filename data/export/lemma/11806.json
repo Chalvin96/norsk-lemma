@@ -1,0 +1,87 @@
+{
+  "source_article_id": 11806,
+  "lemmas": [
+    {
+      "lemma": "egyptisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 13791,
+      "is_sub_article": false,
+      "primary_translation": "Egyptian",
+      "word_forms": [
+        {
+          "word_form": "egyptisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"gYp$tI$sk",
+              "ipa": "ɛˈgʏptɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "egyptiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$\"gYp$tI$sk@",
+              "ipa": "ɛˈgʏptɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "a31cce988f4d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a31cce988f4d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/a31cce988f4d.mp3",
+            "text": "egyptisk",
+            "source": "generated",
+            "content_sha256": "5ffc9087978525af789d3ee01aaa8490056c47614892a3ff4227a353d601932f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Egypt og egyptere",
+      "translation": "relating to Egypt and Egyptians",
+      "examples": [
+        {
+          "no": "egyptiske pyramider",
+          "en": "Egyptian pyramids"
+        }
+      ]
+    }
+  ]
+}

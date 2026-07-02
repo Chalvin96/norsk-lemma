@@ -1,0 +1,69 @@
+{
+  "source_article_id": 43502,
+  "lemmas": [
+    {
+      "lemma": "ovenstående",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 50389,
+      "is_sub_article": false,
+      "primary_translation": "above-mentioned",
+      "word_forms": [
+        {
+          "word_form": "ovenstående",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"o:$v@n$%sto:$@$n@",
+              "ipa": "ˈoːvənˌstoːənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b7b456a5c2ea.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7b456a5c2ea.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7b456a5c2ea.mp3",
+            "text": "ovenstående",
+            "source": "generated",
+            "content_sha256": "61c4658a2d4c3758b160cb25c9390b88df4340e992f6100cd037587ec27387e9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er nevnt tidligere i framstillingen",
+      "translation": "mentioned earlier in the text",
+      "examples": [
+        {
+          "no": "ovenstående bilde ble tatt like etter ulykken",
+          "en": "the above picture was taken just after the accident"
+        }
+      ]
+    }
+  ]
+}

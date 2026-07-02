@@ -1,0 +1,110 @@
+{
+  "source_article_id": 59682,
+  "lemmas": [
+    {
+      "lemma": "talentfull",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 68305,
+      "is_sub_article": false,
+      "primary_translation": "talented",
+      "word_forms": [
+        {
+          "word_form": "talentfull",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$\"lEnt$%fu0l",
+              "ipa": "tɑˈlɛntˌfʉl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "talentfulle",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$\"lEnt$%fu0$l@",
+              "ipa": "tɑˈlɛntˌfʉlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "talentfullt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "tA$\"lEnt$%fu0lt",
+              "ipa": "tɑˈlɛntˌfʉlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7f9a8c16eb77.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7f9a8c16eb77.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7f9a8c16eb77.mp3",
+            "text": "talentfull",
+            "source": "generated",
+            "content_sha256": "9af3382f627afb56d503283616cb3917b38a2db5d469bd1e2881d6161149d9c9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som eier eller viser talent",
+      "translation": "possessing talent",
+      "examples": [
+        {
+          "no": "en talentfull elev",
+          "en": "a talented student"
+        },
+        {
+          "no": "et talentfullt musikkstykke",
+          "en": "a talented piece of music"
+        }
+      ]
+    }
+  ]
+}

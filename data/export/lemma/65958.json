@@ -1,0 +1,106 @@
+{
+  "source_article_id": 65958,
+  "lemmas": [
+    {
+      "lemma": "utvendig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75717,
+      "is_sub_article": false,
+      "primary_translation": "external / superficial",
+      "word_forms": [
+        {
+          "word_form": "utvendig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%tvEn$dI",
+              "ipa": "ˈʉːˌtvɛndɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "utvendige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"}:$%tvEn$dI$@",
+              "ipa": "ˈʉːˌtvɛndɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "951731022ce2.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/951731022ce2.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/951731022ce2.mp3",
+            "text": "utvendig",
+            "source": "generated",
+            "content_sha256": "c3886f227d1759c761be92166dd87136d2dadf8aa89c1c69d566debb28e7eb7d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er på utsiden",
+      "translation": "that is on the outside",
+      "examples": []
+    },
+    {
+      "text": "motsatt innvendig",
+      "translation": "internal",
+      "examples": [
+        {
+          "no": "pusse vinduene utvendig",
+          "en": "clean the windows on the outside"
+        },
+        {
+          "no": "vise utvendig ro tross sterk indre spenning",
+          "en": "show outward calm despite intense inner tension"
+        }
+      ]
+    },
+    {
+      "text": "overflatisk overfladisk, grunn",
+      "translation": "superficial, shallow",
+      "examples": [
+        {
+          "no": "gi emnet en utvendig behandling",
+          "en": "give the subject a superficial treatment"
+        }
+      ]
+    }
+  ]
+}

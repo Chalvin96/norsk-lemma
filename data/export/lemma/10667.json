@@ -1,0 +1,122 @@
+{
+  "source_article_id": 10667,
+  "lemmas": [
+    {
+      "lemma": "dorsal",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 12461,
+      "is_sub_article": false,
+      "primary_translation": "dorsal speech sound",
+      "word_forms": [
+        {
+          "word_form": "dorsal",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dO$\"s`A:l",
+              "ipa": "dɔˈʂɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dorsalen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dO$\"s`A:$ln=",
+              "ipa": "dɔˈʂɑːln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dorsaler",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dO$\"s`A:$l@r",
+              "ipa": "dɔˈʂɑːlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "dorsalene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "dO$\"s`A:$ln=$@",
+              "ipa": "dɔˈʂɑːln̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "64a9c671ce07.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64a9c671ce07.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/64a9c671ce07.mp3",
+            "text": "dorsal",
+            "source": "generated",
+            "content_sha256": "dd64a8f8771f44962cb52187b6755630a2c96412776de943b6cd41d93504cccb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i språkvitenskap: dorsal språklyd",
+      "translation": ": dorsal speech sound",
+      "examples": [
+        {
+          "no": "‘k’ og ‘g’ er dorsaler",
+          "en": "'k' and 'g' are dorsals"
+        }
+      ]
+    }
+  ]
+}

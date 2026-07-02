@@ -1,0 +1,132 @@
+{
+  "source_article_id": 30109,
+  "lemmas": [
+    {
+      "lemma": "klin",
+      "hgno": 1,
+      "pos": "NOUN",
+      "source_lemma_id": 35514,
+      "is_sub_article": false,
+      "primary_translation": "smear / messy substance",
+      "word_forms": [
+        {
+          "word_form": "klin",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kli:n",
+              "ipa": "ˈklɪːn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "klinet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kli:$n@t",
+              "ipa": "ˈklɪːnət",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "klina",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "klˈiːnɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "klinene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "klˈiːnn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d5ca331a6d40.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5ca331a6d40.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d5ca331a6d40.mp3",
+            "text": "klin",
+            "source": "generated",
+            "content_sha256": "f92adfa8e8d32019b4a18c32e06f73e578339f2495d645c58f8d54e2bf4019eb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "noe som er klint utover",
+      "translation": "something smeared",
+      "examples": []
+    },
+    {
+      "text": "noe som det er lett å kline seg til med",
+      "translation": "something easy to smear oneself with",
+      "examples": [
+        {
+          "no": "dette var noe ordentlig klin",
+          "en": "this was a real mess"
+        }
+      ]
+    }
+  ]
+}

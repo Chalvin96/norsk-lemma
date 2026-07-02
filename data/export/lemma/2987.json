@@ -1,0 +1,96 @@
+{
+  "source_article_id": 2987,
+  "lemmas": [
+    {
+      "lemma": "astmatisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 3545,
+      "is_sub_article": false,
+      "primary_translation": "asthmatic",
+      "word_forms": [
+        {
+          "word_form": "astmatisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"smA:$tI$sk",
+              "ipa": "ɑˈsmɑːtɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "astmatiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"stmA:$tI$sk@",
+              "ipa": "ɑˈstmɑːtɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "43ce3cc0b8a0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43ce3cc0b8a0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/43ce3cc0b8a0.mp3",
+            "text": "astmatisk",
+            "source": "generated",
+            "content_sha256": "78d0d3e5c0037ab35ad4a0aba1b88a82c9a69fd6f19306f42d9f16012fbcc734",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som lider av astma",
+      "translation": "suffering from asthma",
+      "examples": []
+    },
+    {
+      "text": "som kommer av astma",
+      "translation": "caused by asthma",
+      "examples": [
+        {
+          "no": "astmatiske barn",
+          "en": "asthmatic children"
+        },
+        {
+          "no": "astmatiske plager",
+          "en": "asthmatic complaints"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_article_id": 41132,
+  "lemmas": [
+    {
+      "lemma": "norskprodusert",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 48109,
+      "is_sub_article": false,
+      "primary_translation": "Norwegian-produced",
+      "word_forms": [
+        {
+          "word_form": "norskprodusert",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$s`kprU$du0$%se:t`",
+              "ipa": "ˈnɔʂkprʊdʉˌseːʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "norskproduserte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nO$s`kprU$du0$%se:$t`@",
+              "ipa": "ˈnɔʂkprʊdʉˌseːʈə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5f95a2c2e963.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5f95a2c2e963.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5f95a2c2e963.mp3",
+            "text": "norskprodusert",
+            "source": "generated",
+            "content_sha256": "5d0e4da7836783df7e8c42775d5230a356585b6e75cbc251e0fabc8462b4f610",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "produsert i Norge",
+      "translation": "produced in Norway",
+      "examples": [
+        {
+          "no": "norskprodusert mat",
+          "en": "Norwegian-produced food"
+        },
+        {
+          "no": "norskprodusert film",
+          "en": "Norwegian-produced film"
+        },
+        {
+          "no": "kjøp norskproduserte varer!",
+          "en": "buy Norwegian-produced goods!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "source_article_id": 130046,
+  "lemmas": [
+    {
+      "lemma": "statsborgerlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 142647,
+      "is_sub_article": false,
+      "primary_translation": "civic",
+      "word_forms": [
+        {
+          "word_form": "statsborgerlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "stˈɑːtsbˌɔrgəɭɪ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "statsborgerlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"stA:ts$%bOr$g@$l`I$@",
+              "ipa": "ˈstɑːtsˌbɔrgəɭɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e7c41f04c74c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e7c41f04c74c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e7c41f04c74c.mp3",
+            "text": "statsborgerlig",
+            "source": "generated",
+            "content_sha256": "6f71ec7e8d2b69538e110b7c007fbd50c4bdf62dba3bb1314f7f874b78f45413"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder statsborgere eller statsborgerskap",
+      "translation": "relating to citizens or citizenship",
+      "examples": [
+        {
+          "no": "statsborgerlige rettigheter",
+          "en": "citizens' rights"
+        }
+      ]
+    }
+  ]
+}

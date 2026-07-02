@@ -1,0 +1,121 @@
+{
+  "source_article_id": 36062,
+  "lemmas": [
+    {
+      "lemma": "lungekreft",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 41869,
+      "is_sub_article": false,
+      "primary_translation": "lung cancer",
+      "word_forms": [
+        {
+          "word_form": "lungekreft",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lUN$@$%krEft",
+              "ipa": "ˈlʊŋəˌkrɛft",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lungekreften",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lUN$@$%krEf$tn=",
+              "ipa": "ˈlʊŋəˌkrɛftn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "lungekrefter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈuŋəkrˌɛftər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "lungekreftene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "lˈuŋəkrˌɛftn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d12409d00d29.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d12409d00d29.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d12409d00d29.mp3",
+            "text": "lungekreft",
+            "source": "generated",
+            "content_sha256": "71b6439fb9bb5310cc4144f3b4a79c0a033d3815069309e0daa3818441029da5",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "kreft i lungene",
+      "translation": "cancer in the lungs",
+      "examples": []
+    }
+  ]
+}

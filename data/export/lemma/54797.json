@@ -1,0 +1,113 @@
+{
+  "source_article_id": 54797,
+  "lemmas": [
+    {
+      "lemma": "smertefri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 83294,
+      "is_sub_article": false,
+      "primary_translation": "pain-free / without problems",
+      "word_forms": [
+        {
+          "word_form": "smertefri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm{$t`@$%fri:",
+              "ipa": "ˈsmæʈəˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "smertefrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm{$t`@$%fri:$@",
+              "ipa": "ˈsmæʈəˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "smertefritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sm{$t`@$%frIt",
+              "ipa": "ˈsmæʈəˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "08c1a221ebe4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08c1a221ebe4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08c1a221ebe4.mp3",
+            "text": "smertefri",
+            "source": "generated",
+            "content_sha256": "ac7f493a03c65b9f2335ed43dea81ee2a2416980c92905a32ffcbafec927abf9",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er fri for smerter",
+      "translation": "free from pain",
+      "examples": [
+        {
+          "no": "en smertefri sykdom",
+          "en": "a painless disease"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: uten problemer",
+      "translation": "used as an adverb: without problems",
+      "examples": [
+        {
+          "no": "reisen gikk smertefritt",
+          "en": "the journey went smoothly"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "source_article_id": 2572,
+  "lemmas": [
+    {
+      "lemma": "arbeidspress",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 3107,
+      "is_sub_article": false,
+      "primary_translation": "work pressure",
+      "word_forms": [
+        {
+          "word_form": "arbeidspress",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Id$%sprEs",
+              "ipa": "ˈɑrbæ͡ɪdˌsprɛs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidspresset",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ar$b{*Id$%sprE$s@",
+              "ipa": "ˈɑrbæ͡ɪdˌsprɛsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidspressa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑrbæ͡ɪdsprˌɛsɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "arbeidspressene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑrbæ͡ɪdsprˌɛsn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e1dec5ae5314.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e1dec5ae5314.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e1dec5ae5314.mp3",
+            "text": "arbeidspress",
+            "source": "generated",
+            "content_sha256": "7ccbd6dc92814f051033ca75955590bc45cbb3b26a0404927f754e9b94d1d182",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "press om å yte en viss mengde arbeid",
+      "translation": "pressure to achieve a certain amount of work",
+      "examples": [
+        {
+          "no": "frykte økt arbeidspress",
+          "en": "fear increased work pressure"
+        },
+        {
+          "no": "arbeidspresset ble for stort",
+          "en": "the work pressure became too great"
+        }
+      ]
+    }
+  ]
+}

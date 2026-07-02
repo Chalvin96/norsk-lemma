@@ -1,0 +1,87 @@
+{
+  "source_article_id": 44760,
+  "lemmas": [
+    {
+      "lemma": "persisk",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 51722,
+      "is_sub_article": false,
+      "primary_translation": "Persian",
+      "word_forms": [
+        {
+          "word_form": "persisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"p{$s`I$sk",
+              "ipa": "ˈpæʂɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "persiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"p{$s`I$sk@",
+              "ipa": "ˈpæʂɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "db97563849e4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db97563849e4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/db97563849e4.mp3",
+            "text": "persisk",
+            "source": "generated",
+            "content_sha256": "a0c875fc9750b0c020b7231e9d248eaa4b407e03cc9ec5647d99b318dbc2cdd9",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Persia (nå Iran) og persere (nå iranere)",
+      "translation": "relating to Persia (now Iran) and Persians (now Iranians)",
+      "examples": [
+        {
+          "no": "spise persisk mat",
+          "en": "eat Persian food"
+        }
+      ]
+    }
+  ]
+}

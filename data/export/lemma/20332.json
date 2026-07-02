@@ -1,0 +1,165 @@
+{
+  "source_article_id": 20332,
+  "lemmas": [
+    {
+      "lemma": "glupsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 23756,
+      "is_sub_article": false,
+      "primary_translation": "greedy",
+      "word_forms": [
+        {
+          "word_form": "glupsk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"glu0psk",
+              "ipa": "ˈglʉpsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "glupske",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glu0p$sk@",
+              "ipa": "ˈglʉpskə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glupskt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "glˈʉpskt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "glupskere",
+          "tags_json": [
+            "a1",
+            "Cmp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glu0p$sk@$r@",
+              "ipa": "ˈglʉpskərə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glupskest",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"glu0p$sk@$st",
+              "ipa": "ˈglʉpskəst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "glupskeste",
+          "tags_json": [
+            "a1",
+            "Sup",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glu0p$sk@$st@",
+              "ipa": "ˈglʉpskəstə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "6333320ce098.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6333320ce098.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/6333320ce098.mp3",
+            "text": "glupsk",
+            "source": "generated",
+            "content_sha256": "96e9a95eb4546504091be409c3d064110c10ba9900e47ee17bd48b870a02b40c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "grådig (etter mat)",
+      "translation": "greedy (for food)",
+      "examples": [
+        {
+          "no": "de er glupske som ulver",
+          "en": "they are as ravenous as wolves"
+        },
+        {
+          "no": "ete glupsk",
+          "en": "eat greedily"
+        }
+      ]
+    }
+  ]
+}

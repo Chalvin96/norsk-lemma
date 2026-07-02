@@ -1,0 +1,110 @@
+{
+  "source_article_id": 27444,
+  "lemmas": [
+    {
+      "lemma": "jaktbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 32536,
+      "is_sub_article": false,
+      "primary_translation": "huntable",
+      "word_forms": [
+        {
+          "word_form": "jaktbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jAkt$%bA:r",
+              "ipa": "ˈjɑktˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "jaktbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jAkt$%bA:$r@",
+              "ipa": "ˈjɑktˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "jaktbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"jAkt$%bA:t`",
+              "ipa": "ˈjɑktˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "08ee6bc9af57.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08ee6bc9af57.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/08ee6bc9af57.mp3",
+            "text": "jaktbar",
+            "source": "generated",
+            "content_sha256": "694befd6ac3e35bfcdd143c58bb52a9b501bc71e83a7a2ee1ec6733c5acf6a62",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som en kan drive jakt på",
+      "translation": "that can be hunted",
+      "examples": [
+        {
+          "no": "jaktbart vilt",
+          "en": "game that can be hunted"
+        },
+        {
+          "no": "en jaktbar hjortestamme",
+          "en": "a huntable deer population"
+        }
+      ]
+    }
+  ]
+}

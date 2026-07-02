@@ -1,0 +1,87 @@
+{
+  "source_article_id": 66154,
+  "lemmas": [
+    {
+      "lemma": "vakant",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 75944,
+      "is_sub_article": false,
+      "primary_translation": "vacant",
+      "word_forms": [
+        {
+          "word_form": "vakant",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vA$\"kAnt",
+              "ipa": "vɑˈkɑnt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "vakante",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "vA$\"kAn$t@",
+              "ipa": "vɑˈkɑntə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ba3eee9521df.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba3eee9521df.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ba3eee9521df.mp3",
+            "text": "vakant",
+            "source": "generated",
+            "content_sha256": "2c4596786491d6a26285197145a3f86621bb81ac44a0ba820e3c59aa33afa8dd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "ledig, ubesatt",
+      "translation": "vacant / unoccupied",
+      "examples": [
+        {
+          "no": "stillingen blir snart vakant",
+          "en": "the position will soon be vacant"
+        }
+      ]
+    }
+  ]
+}

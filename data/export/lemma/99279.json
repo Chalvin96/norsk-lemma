@@ -1,0 +1,90 @@
+{
+  "source_article_id": 99279,
+  "lemmas": [
+    {
+      "lemma": "allmennspråklig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 85881,
+      "is_sub_article": false,
+      "primary_translation": "general language",
+      "word_forms": [
+        {
+          "word_form": "allmennspråklig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑlmənsprˌoːklɪ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "allmennspråklige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɑlmənsprˌoːklɪə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "e89300ea9049.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e89300ea9049.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/e89300ea9049.mp3",
+            "text": "allmennspråklig",
+            "source": "generated",
+            "content_sha256": "e853a60c3658309356bec152dc1c5b3410ce64140f2061671bc7d0e6420ddfef"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder allmennspråk",
+      "translation": "relating to general language",
+      "examples": [
+        {
+          "no": "en allmennspråklig ordbok",
+          "en": "a general-language dictionary"
+        }
+      ]
+    }
+  ]
+}

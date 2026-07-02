@@ -1,0 +1,82 @@
+{
+  "source_article_id": 40426,
+  "lemmas": [
+    {
+      "lemma": "nazistisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47311,
+      "is_sub_article": false,
+      "primary_translation": "Nazi",
+      "word_forms": [
+        {
+          "word_form": "nazistisk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sI$stI$sk",
+              "ipa": "nɑˈsɪstɪsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nazistiske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nA$\"sI$stI$sk@",
+              "ipa": "nɑˈsɪstɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "abdcae828880.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/abdcae828880.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/abdcae828880.mp3",
+            "text": "nazistisk",
+            "source": "generated",
+            "content_sha256": "c4f9fe6389443f5c3d25a868c8f930f07a80869b8a5c9a0c519da084ad987989",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder nazisme",
+      "translation": "relating to Nazism",
+      "examples": []
+    }
+  ]
+}

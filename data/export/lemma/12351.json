@@ -1,0 +1,136 @@
+{
+  "source_article_id": 12351,
+  "lemmas": [
+    {
+      "lemma": "elektronikk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 14425,
+      "is_sub_article": false,
+      "primary_translation": "electronics",
+      "word_forms": [
+        {
+          "word_form": "elektronikk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$l@k$trU$\"nIk",
+              "ipa": "ɛləktrʊˈnɪk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elektronikken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "E$l@k$trU$\"nI$k@n",
+              "ipa": "ɛləktrʊˈnɪkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "elektronikker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛləktrunˈɪkər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "elektronikkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɛləktrunˈɪkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "56d748e1f9fb.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56d748e1f9fb.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/56d748e1f9fb.mp3",
+            "text": "elektronikk",
+            "source": "generated",
+            "content_sha256": "c14b777766ca1839261e686ab4ce404f736ec2c081f76279239d58d5d67f6c23",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lære om elektrisk strøm i vakuum, i gasser og i halvledere",
+      "translation": "study of electric current in a vacuum, in gases, and in semiconductors",
+      "examples": []
+    },
+    {
+      "text": "teknologi som bygger på elektronikk",
+      "translation": "technology based on electronics",
+      "examples": []
+    },
+    {
+      "text": "elektronisk system eller utstyr",
+      "translation": "electronic system or equipment",
+      "examples": [
+        {
+          "no": "hun har verktøykassen full av elektronikk",
+          "en": "her toolbox is full of electronics"
+        }
+      ]
+    }
+  ]
+}

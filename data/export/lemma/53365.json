@@ -1,0 +1,91 @@
+{
+  "source_article_id": 53365,
+  "lemmas": [
+    {
+      "lemma": "skolepliktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 61503,
+      "is_sub_article": false,
+      "primary_translation": "of compulsory school age",
+      "word_forms": [
+        {
+          "word_form": "skolepliktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sku:$l@$%plIk$tI",
+              "ipa": "ˈskuːləˌplɪktɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "skolepliktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sku:$l@$%plIk$tI$@",
+              "ipa": "ˈskuːləˌplɪktɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7700e565dc2b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7700e565dc2b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7700e565dc2b.mp3",
+            "text": "skolepliktig",
+            "source": "generated",
+            "content_sha256": "ca03cdd3c9d927e0f49cdbb963632e3b70f6c8f3e2c43d8e29619f40d3bc4e8e",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som har eller medfører skoleplikt",
+      "translation": "subject to compulsory schooling",
+      "examples": [
+        {
+          "no": "et skolepliktig barn",
+          "en": "a child of compulsory school age"
+        },
+        {
+          "no": "være i skolepliktig alder",
+          "en": "be of compulsory school age"
+        }
+      ]
+    }
+  ]
+}

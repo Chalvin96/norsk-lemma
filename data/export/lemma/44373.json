@@ -1,0 +1,125 @@
+{
+  "source_article_id": 44373,
+  "lemmas": [
+    {
+      "lemma": "passiv",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 51339,
+      "is_sub_article": false,
+      "primary_translation": "passive / passive voice",
+      "word_forms": [
+        {
+          "word_form": "passiv",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA$sIv",
+              "ipa": "ˈpɑsɪv",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "passive",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA$sI$v@",
+              "ipa": "ˈpɑsɪvə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "passivt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"pA$sIvt",
+              "ipa": "ˈpɑsɪvt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "970f1bfc104a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/970f1bfc104a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/970f1bfc104a.mp3",
+            "text": "passiv",
+            "source": "generated",
+            "content_sha256": "505c7c974840f449840ec4d25ffa78b158ba2f76693cea5ce45e12b83fa758eb",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som selv ikke deltar eller griper inn",
+      "translation": "not participating or intervening oneself",
+      "examples": [
+        {
+          "no": "forholde seg passiv",
+          "en": "remain passive"
+        },
+        {
+          "no": "laget har ca. 200 aktive og passive medlemmer",
+          "en": "the team has about 200 active and passive members"
+        }
+      ]
+    },
+    {
+      "text": "om verb: form som uttrykker at (det grammatiske) subjektet er gjenstand for verbalhandlingen",
+      "translation": "of a verb: form expressing that the (grammatical) subject is the object of the verbal action",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra aktiv",
+      "translation": "in contrast to active",
+      "examples": [
+        {
+          "no": "passiv form av verbet",
+          "en": "passive form of the verb"
+        }
+      ]
+    }
+  ]
+}

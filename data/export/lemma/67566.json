@@ -1,0 +1,119 @@
+{
+  "source_article_id": 67566,
+  "lemmas": [
+    {
+      "lemma": "vendbar",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 77991,
+      "is_sub_article": false,
+      "primary_translation": "reversible",
+      "word_forms": [
+        {
+          "word_form": "vendbar",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEn$%bA:r",
+              "ipa": "ˈvɛnˌbɑːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vendbare",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEn$%bA:$r@",
+              "ipa": "ˈvɛnˌbɑːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "vendbart",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"vEn$%bA:t`",
+              "ipa": "ˈvɛnˌbɑːʈ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "32e00f0f9f7f.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/32e00f0f9f7f.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/32e00f0f9f7f.mp3",
+            "text": "vendbar",
+            "source": "generated",
+            "content_sha256": "be9228d1b043df0efe2ebb84267b2c381db37d6611229ccfcddea5dc9780ba03",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som kan snus og brukes i begge retninger",
+      "translation": "",
+      "examples": []
+    },
+    {
+      "text": "som kan vrenges og brukes med begge sider ut",
+      "translation": "",
+      "examples": [
+        {
+          "no": "vendbare seter i toget",
+          "en": "reversible seats on the train"
+        },
+        {
+          "no": "en vendbar frakk",
+          "en": "a reversible coat"
+        },
+        {
+          "no": "et vendbart trekk",
+          "en": "a reversible cover"
+        }
+      ]
+    }
+  ]
+}

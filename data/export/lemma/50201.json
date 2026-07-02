@@ -1,0 +1,82 @@
+{
+  "source_article_id": 50201,
+  "lemmas": [
+    {
+      "lemma": "sardinsk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 57590,
+      "is_sub_article": false,
+      "primary_translation": "Sardinian",
+      "word_forms": [
+        {
+          "word_form": "sardinsk",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sA$\"d`i:nsk",
+              "ipa": "sɑˈɖɪːnsk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sardinske",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "sA$\"d`i:n$sk@",
+              "ipa": "sɑˈɖɪːnskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ac0e1fc3beb8.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac0e1fc3beb8.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ac0e1fc3beb8.mp3",
+            "text": "sardinsk",
+            "source": "generated",
+            "content_sha256": "8280476b6be058fe56554e705973a730ab044d863a8f7821948fccea33295050",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder Sardinia og sardiniere",
+      "translation": "relating to Sardinia and Sardinians",
+      "examples": []
+    }
+  ]
+}

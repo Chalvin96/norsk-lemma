@@ -1,0 +1,88 @@
+{
+  "source_article_id": 32528,
+  "lemmas": [
+    {
+      "lemma": "kråketær",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 82812,
+      "is_sub_article": false,
+      "primary_translation": "crow's feet (handwriting)",
+      "word_forms": [
+        {
+          "word_form": "kråketær",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kro:$k@$%t{:r",
+              "ipa": "ˈkroːkəˌtæːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kråketærne",
+          "tags_json": [
+            "Masc",
+            "m., f.",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "krˈoːkətˌæːɳə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ca2bc2d7447e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca2bc2d7447e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ca2bc2d7447e.mp3",
+            "text": "kråketær",
+            "source": "generated",
+            "content_sha256": "45657581e8f91047df26898ddd22af815324ef252521c779d44f570e7675ad72",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stygg, utydelig skrift",
+      "translation": "ugly, illegible handwriting",
+      "examples": [
+        {
+          "no": "det var vanskelig å tyde kråketærne hans",
+          "en": "it was difficult to decipher his scrawl"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "source_article_id": 118298,
+  "lemmas": [
+    {
+      "lemma": "intertekstuell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167167,
+      "is_sub_article": false,
+      "primary_translation": "intertextual",
+      "word_forms": [
+        {
+          "word_form": "intertekstuell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪntəʈəkstʉˈɛl",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "intertekstuelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪntəʈəkstʉˈɛlə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "intertekstuelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɪntəʈəkstʉˈɛlt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "39017f0bbb47.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39017f0bbb47.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/39017f0bbb47.mp3",
+            "text": "intertekstuell",
+            "source": "generated",
+            "content_sha256": "64d6966e8f16c65777458b0f0e465d4705b57cf6194e96245c5d996fc4282745"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som viser til et annet verk innenfor litteratur, film eller lignende",
+      "translation": "referring to another work in literature, film, or similar",
+      "examples": [
+        {
+          "no": "forfatteren knytter romanen til tidligere romaner gjennom intertekstuelle henvisninger",
+          "en": "the author connects the novel to earlier novels through intertextual references"
+        },
+        {
+          "no": "filmen har flere intertekstuelle referanser til andre filmer",
+          "en": "the film has several intertextual references to other films"
+        }
+      ]
+    }
+  ]
+}

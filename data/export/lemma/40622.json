@@ -1,0 +1,125 @@
+{
+  "source_article_id": 40622,
+  "lemmas": [
+    {
+      "lemma": "nelson",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 47549,
+      "is_sub_article": false,
+      "primary_translation": "wrestling neck hold",
+      "word_forms": [
+        {
+          "word_form": "nelson",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nEl$sOn",
+              "ipa": "ˈnɛlsɔn",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nelsonen",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nEl$sO$nn=",
+              "ipa": "ˈnɛlsɔnn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nelsoner",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "nˈɛlsɔnər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "nelsonene",
+          "tags_json": [
+            "Masc",
+            "m1, m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"nEl$sO$nn=$@",
+              "ipa": "ˈnɛlsɔnn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "17667d370c24.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17667d370c24.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/17667d370c24.mp3",
+            "text": "nelson",
+            "source": "generated",
+            "content_sha256": "d721538444f069524b7082488fbabb19dcd8651e38ca8ac0733449ddd41d06b4",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "betegnelse på visse nakkegrep i bryting",
+      "translation": "designation for certain neck holds in wrestling",
+      "examples": [
+        {
+          "no": "en hel nelson",
+          "en": "a full nelson"
+        }
+      ]
+    }
+  ]
+}

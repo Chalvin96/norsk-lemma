@@ -1,0 +1,126 @@
+{
+  "source_article_id": 42317,
+  "lemmas": [
+    {
+      "lemma": "operasjonell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49435,
+      "is_sub_article": false,
+      "primary_translation": "operational / functioning",
+      "word_forms": [
+        {
+          "word_form": "operasjonell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$p@$rA$SU$\"nEl",
+              "ipa": "ʊpərɑʃʊˈnɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "operasjonelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "O$p@$rA$SU$\"nE$l@",
+              "ipa": "ɔpərɑʃʊˈnɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "operasjonelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "U$p@$rA$SU$\"nElt",
+              "ipa": "ʊpərɑʃʊˈnɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "04aa359ecc62.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/04aa359ecc62.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/04aa359ecc62.mp3",
+            "text": "operasjonell",
+            "source": "generated",
+            "content_sha256": "af59a6bf9edd3a783622d78ad6e95cc68113f703021cea3444adf195502cc234",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som virker",
+      "translation": "functioning",
+      "examples": []
+    },
+    {
+      "text": "som er i stand",
+      "translation": "capable of functioning",
+      "examples": [
+        {
+          "no": "stridsvognene er ennå operasjonelle",
+          "en": "the tanks are still operational"
+        }
+      ]
+    },
+    {
+      "text": "praktisk anvendbar",
+      "translation": "practically applicable",
+      "examples": [
+        {
+          "no": "en operasjonell definisjon",
+          "en": "an operational definition"
+        },
+        {
+          "no": "en operasjonell risiko",
+          "en": "an operational risk"
+        },
+        {
+          "no": "flyselskapet har foretatt operasjonelle omlegninger",
+          "en": "the airline has made operational reorganizations"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source_article_id": 118159,
+  "lemmas": [
+    {
+      "lemma": "innleid",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 167099,
+      "is_sub_article": false,
+      "primary_translation": "hired in",
+      "word_forms": [
+        {
+          "word_form": "innleid",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%l{*Id",
+              "ipa": "ˈɪnˌlæ͡ɪd",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "innleide",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"In$%l{*I$d@",
+              "ipa": "ˈɪnˌlæ͡ɪdə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3936c9ffc9be.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3936c9ffc9be.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3936c9ffc9be.mp3",
+            "text": "innleid",
+            "source": "generated",
+            "content_sha256": "dd6f0ceab0116e20e7f2d4857ec2d7f8e8136d1cdd2157b638d6faffa3398122",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er leid inn",
+      "translation": "hired in",
+      "examples": [
+        {
+          "no": "innleid arbeidskraft",
+          "en": "hired labor"
+        },
+        {
+          "no": "innleide konsulenter",
+          "en": "hired consultants"
+        },
+        {
+          "no": "et innleid helikopter",
+          "en": "a hired helicopter"
+        }
+      ]
+    }
+  ]
+}

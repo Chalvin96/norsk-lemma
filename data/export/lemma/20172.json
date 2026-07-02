@@ -1,0 +1,122 @@
+{
+  "source_article_id": 20172,
+  "lemmas": [
+    {
+      "lemma": "glassvegg",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 23565,
+      "is_sub_article": false,
+      "primary_translation": "glass wall",
+      "word_forms": [
+        {
+          "word_form": "glassvegg",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glA$%svEg",
+              "ipa": "ˈglɑˌsvɛg",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glassveggen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glA$%svE$g@n",
+              "ipa": "ˈglɑˌsvɛgən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glassvegger",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glA$%svE$g@r",
+              "ipa": "ˈglɑˌsvɛgər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "glassveggene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"glA$%svE$g@$n@",
+              "ipa": "ˈglɑˌsvɛgənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7c5d53e1bda7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7c5d53e1bda7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7c5d53e1bda7.mp3",
+            "text": "glassvegg",
+            "source": "generated",
+            "content_sha256": "1310f7749846099eada40a5923a711996e636c36641893224a05ce7d420d7981",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vegg av glass",
+      "translation": "wall of glass",
+      "examples": [
+        {
+          "no": "teknikerne sitter bak en glassvegg og gjør opptak",
+          "en": "the technicians sit behind a glass wall and make recordings"
+        }
+      ]
+    }
+  ]
+}

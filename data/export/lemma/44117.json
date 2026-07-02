@@ -1,0 +1,106 @@
+{
+  "source_article_id": 44117,
+  "lemmas": [
+    {
+      "lemma": "paradoksal",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 51079,
+      "is_sub_article": false,
+      "primary_translation": "paradoxical / strange",
+      "word_forms": [
+        {
+          "word_form": "paradoksal",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$dOk$\"sA:l",
+              "ipa": "pɑrɑdɔkˈsɑːl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "paradoksale",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$dOk$\"sA:$l@",
+              "ipa": "pɑrɑdɔkˈsɑːlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "paradoksalt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "pA$rA$dOk$\"sA:lt",
+              "ipa": "pɑrɑdɔkˈsɑːlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b7733e429433.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7733e429433.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b7733e429433.mp3",
+            "text": "paradoksal",
+            "source": "generated",
+            "content_sha256": "20a2e82edea11636e1494cde30ef91fd9f067c51518817270831135ad07d960f",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "merkelig",
+      "translation": "self-contradictory",
+      "examples": [
+        {
+          "no": "det paradoksale er at mange kvinner er imot kvinnefrigjøringen",
+          "en": "the paradoxical thing is that many women are against women's liberation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "source_article_id": 99819,
+  "lemmas": [
+    {
+      "lemma": "medurs",
+      "hgno": 0,
+      "pos": "ADV",
+      "source_lemma_id": 158776,
+      "is_sub_article": false,
+      "primary_translation": "clockwise",
+      "word_forms": [
+        {
+          "word_form": "medurs",
+          "tags_json": [],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "mədˈʉːʂ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "b82536c5c533.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b82536c5c533.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/b82536c5c533.mp3",
+            "text": "medurs",
+            "source": "generated",
+            "content_sha256": "a540300351bec7c55e2043f61cdebb897520c85a05d14ac1ef7e5825dcd01707"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i samme retning som den viserne på en klokke går",
+      "translation": "in the same direction as the hands of a clock move",
+      "examples": []
+    },
+    {
+      "text": "motsatt moturs",
+      "translation": "clockwise",
+      "examples": [
+        {
+          "no": "drei skruen to omdreininger medurs",
+          "en": "turn the screw two turns clockwise"
+        }
+      ]
+    }
+  ]
+}

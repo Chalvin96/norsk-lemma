@@ -1,0 +1,90 @@
+{
+  "source_article_id": 116392,
+  "lemmas": [
+    {
+      "lemma": "gulmalt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 165928,
+      "is_sub_article": false,
+      "primary_translation": "yellow-painted",
+      "word_forms": [
+        {
+          "word_form": "gulmalt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʉːlmˌɑːlt",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "gulmalte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "gˈʉːlmˌɑːltə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5ac9da2a8c7a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ac9da2a8c7a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5ac9da2a8c7a.mp3",
+            "text": "gulmalt",
+            "source": "generated",
+            "content_sha256": "ae73501c8e53d79d9c49004cd940d4397d640682fa2251581d034bba085be2b6"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er malt gul",
+      "translation": "that is painted yellow",
+      "examples": [
+        {
+          "no": "et gulmalt hus",
+          "en": "a yellow-painted house"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "source_article_id": 681,
+  "lemmas": [
+    {
+      "lemma": "alarm",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 1473,
+      "is_sub_article": false,
+      "primary_translation": "alarm signal",
+      "word_forms": [
+        {
+          "word_form": "alarm",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"lArm",
+              "ipa": "ɑˈlɑrm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"lAr$m@n",
+              "ipa": "ɑˈlɑrmən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"lAr$m@r",
+              "ipa": "ɑˈlɑrmər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "alarmene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "A$\"lAr$m@$n@",
+              "ipa": "ɑˈlɑrmənə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "21961b1a8e7d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21961b1a8e7d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/21961b1a8e7d.mp3",
+            "text": "alarm",
+            "source": "generated",
+            "content_sha256": "fd3fe769beb51bb3b3dab16aca141ccb436846e405934515c1caabddc155f3e0",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "varselsignal varselssignal, varselrop varselsrop",
+      "translation": "warning signal, warning cry",
+      "examples": [
+        {
+          "no": "blind, falsk alarm",
+          "en": "blind, false alarm"
+        },
+        {
+          "no": "alarmen går",
+          "en": "the alarm goes off"
+        },
+        {
+          "no": "slå alarm",
+          "en": "raise the alarm"
+        },
+        {
+          "no": "brannalarm, tyverialarm",
+          "en": "fire alarm, burglar alarm"
+        }
+      ]
+    }
+  ]
+}

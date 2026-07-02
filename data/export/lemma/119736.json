@@ -1,0 +1,73 @@
+{
+  "source_article_id": 119736,
+  "lemmas": [
+    {
+      "lemma": "kollektivreisende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 114767,
+      "is_sub_article": false,
+      "primary_translation": "public transport user",
+      "word_forms": [
+        {
+          "word_form": "kollektivreisende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kO$l@k$\"ti:$%vr{*I$sn=$@",
+              "ipa": "kɔləkˈtɪːˌvræ͡ɪsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8ee02caa3cdc.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ee02caa3cdc.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8ee02caa3cdc.mp3",
+            "text": "kollektivreisende",
+            "source": "generated",
+            "content_sha256": "2fe8cad29bb933ee1b6ced66986a3d99dc04e3d2c91fee42fbdfcea465a7625c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "person som benytter kollektiv transportmiddel",
+      "translation": "person who uses public transport",
+      "examples": [
+        {
+          "no": "kollektivreisende byboere",
+          "en": "urban residents who use public transport"
+        },
+        {
+          "no": "antallet kollektivreisende øker",
+          "en": "the number of public transport users is increasing"
+        }
+      ]
+    }
+  ]
+}

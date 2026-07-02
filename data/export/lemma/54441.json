@@ -1,0 +1,135 @@
+{
+  "source_article_id": 54441,
+  "lemmas": [
+    {
+      "lemma": "slim",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 62727,
+      "is_sub_article": false,
+      "primary_translation": "slime / algae",
+      "word_forms": [
+        {
+          "word_form": "slim",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Sli:m",
+              "ipa": "ˈʃlɪːm",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slimet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Sli:$m@",
+              "ipa": "ˈʃlɪːmə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "slimene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ʃlˈiːmənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "slima",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Sli:$mA",
+              "ipa": "ˈʃlɪːmɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "2f8c5558c393.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f8c5558c393.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/2f8c5558c393.mp3",
+            "text": "slim",
+            "source": "generated",
+            "content_sha256": "c24f64bc3f0e947aa78dc687a49dfdae925df5c963b5ecaeeba1a652560c848d",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "seig, klebrig væske som skilles ut av visse kjertler i kroppen",
+      "translation": "viscous, sticky fluid secreted by certain glands in the body",
+      "examples": [
+        {
+          "no": "ha mye slim i halsen",
+          "en": "have a lot of mucus in your throat"
+        }
+      ]
+    },
+    {
+      "text": "sleipt, organisk stoff",
+      "translation": "slippery, organic substance",
+      "examples": [
+        {
+          "no": "det var masse slim på bunnen",
+          "en": "there was lots of slime on the bottom"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_article_id": 63970,
+  "lemmas": [
+    {
+      "lemma": "uhjelpelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 73253,
+      "is_sub_article": false,
+      "primary_translation": "hopeless",
+      "word_forms": [
+        {
+          "word_form": "uhjelpelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"jEl$p@$lI",
+              "ipa": "ʉˈjɛlpəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uhjelpelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$\"jEl$p@$lI$@",
+              "ipa": "ʉˈjɛlpəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3fc6b1032f3e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3fc6b1032f3e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3fc6b1032f3e.mp3",
+            "text": "uhjelpelig",
+            "source": "generated",
+            "content_sha256": "7d0eb2346b99155a45fd9312400b9e5fd4b98dee5569c5132258315f58a3fa41",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke kan hjelpes",
+      "translation": "that cannot be helped",
+      "examples": [
+        {
+          "no": "uhjelpelige stakkarer",
+          "en": "helpless wretches"
+        },
+        {
+          "no": "være uhjelpelig naiv",
+          "en": "be hopelessly naive"
+        }
+      ]
+    }
+  ]
+}

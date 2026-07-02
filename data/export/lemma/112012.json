@@ -1,0 +1,126 @@
+{
+  "source_article_id": 112012,
+  "lemmas": [
+    {
+      "lemma": "dyrevernlov",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 163612,
+      "is_sub_article": false,
+      "primary_translation": "animal welfare law",
+      "word_forms": [
+        {
+          "word_form": "dyrevernlov",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dy:$r@$v@n`$%lo:v",
+              "ipa": "ˈdyːrəvəɳˌloːv",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dyrevernloven",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dy:$r@$v@n`$%l`o:$v@n",
+              "ipa": "ˈdyːrəvəɳˌɭoːvən",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "dyrevernlover",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈyːrəʋəɳlˌoːʋər",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "dyrevernlovene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "dˈyːrəʋəɳlˌoːʋənə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3d285bb0ec87.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3d285bb0ec87.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3d285bb0ec87.mp3",
+            "text": "dyrevernlov",
+            "source": "generated",
+            "content_sha256": "460c8735a508bd454a34dfa48c92006b6e75ffd49bd4fa93230bf1ee7d9f6828",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lov som skal sikre dyr mot mishandling",
+      "translation": "law that shall protect animals from mistreatment",
+      "examples": [
+        {
+          "no": "dette er i strid med den norske dyrevernloven",
+          "en": "this is in violation of the Norwegian Animal Welfare Act"
+        }
+      ]
+    }
+  ]
+}

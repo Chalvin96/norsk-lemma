@@ -1,0 +1,89 @@
+{
+  "source_article_id": 112239,
+  "lemmas": [
+    {
+      "lemma": "ektefølt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 95335,
+      "is_sub_article": false,
+      "primary_translation": "heartfelt / sincere",
+      "word_forms": [
+        {
+          "word_form": "ektefølt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"Ek$t@$%f2:lt",
+              "ipa": "ˈɛktəˌføːlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "ektefølte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ˈɛktəfˌøːltə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "cc028f1ae9d5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc028f1ae9d5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/cc028f1ae9d5.mp3",
+            "text": "ektefølt",
+            "source": "generated",
+            "content_sha256": "a05a87b002a1ce333ceeca93a963719b417b0dfd9c4aec7d08ce1f0664335572",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som bunner i ekte følelser",
+      "translation": "stemming from genuine feelings",
+      "examples": [
+        {
+          "no": "et ektefølt ønske",
+          "en": "a heartfelt wish"
+        }
+      ]
+    }
+  ]
+}

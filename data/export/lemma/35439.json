@@ -1,0 +1,100 @@
+{
+  "source_article_id": 35439,
+  "lemmas": [
+    {
+      "lemma": "livaktig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41207,
+      "is_sub_article": false,
+      "primary_translation": "vivid / clear",
+      "word_forms": [
+        {
+          "word_form": "livaktig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"li:$%vAk$tI",
+              "ipa": "ˈlɪːˌvɑktɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "livaktige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"li:$%vAk$tI$@",
+              "ipa": "ˈlɪːˌvɑktɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "8c34705a70e5.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c34705a70e5.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/8c34705a70e5.mp3",
+            "text": "livaktig",
+            "source": "generated",
+            "content_sha256": "b396bc5ecc59f31accd84ad92d2938491aac9eeb725553f8e2a6811152f9e1f7",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som virker levende eller ser virkelig ut",
+      "translation": "appearing alive or looking real",
+      "examples": []
+    },
+    {
+      "text": "tydelig",
+      "translation": "clear",
+      "examples": [
+        {
+          "no": "en livaktig skildring",
+          "en": "a vivid depiction"
+        },
+        {
+          "no": "et livaktig minne",
+          "en": "a vivid memory"
+        },
+        {
+          "no": "dokka hadde et livaktig uttrykk",
+          "en": "the doll had a lifelike expression"
+        }
+      ]
+    }
+  ]
+}

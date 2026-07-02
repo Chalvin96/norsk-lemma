@@ -1,0 +1,118 @@
+{
+  "source_article_id": 97184,
+  "lemmas": [
+    {
+      "lemma": "funksjonsfrisk",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 101706,
+      "is_sub_article": false,
+      "primary_translation": "fully functional",
+      "word_forms": [
+        {
+          "word_form": "funksjonsfrisk",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fʉŋʃˈuːnsfrˌɪsk",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "funksjonsfriske",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "fu0N$\"Su:ns$%frI$sk@",
+              "ipa": "fʉŋˈʃuːnsˌfrɪskə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "funksjonsfriskt",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fʉŋʃˈuːnsfrˌɪskt",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "212862c2486b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/212862c2486b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/212862c2486b.mp3",
+            "text": "funksjonsfrisk",
+            "source": "generated",
+            "content_sha256": "6f0a20ed4b790622afd8c15e5239dbc6a7433167ecf1de0d0222de7581bb309a"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten nedsatt funksjonsevne",
+      "translation": "without impaired function",
+      "examples": []
+    },
+    {
+      "text": "fullt før",
+      "translation": "fully recovered",
+      "examples": [
+        {
+          "no": "han satt tre år i rullestol før han ble funksjonsfrisk",
+          "en": "he was in a wheelchair for three years before he regained full physical function"
+        },
+        {
+          "no": "i konkurransen deltar både funksjonshemmede og funksjonsfriske",
+          "en": "both disabled and able-bodied people are taking part in the competition"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "source_article_id": 107645,
+  "lemmas": [
+    {
+      "lemma": "assembler",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 87179,
+      "is_sub_article": false,
+      "primary_translation": "assembler (IT)",
+      "word_forms": [
+        {
+          "word_form": "assembler",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsˈɛmblər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "assembleren",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsˈɛmbləɳ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "assemblere",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsˈɛmblərə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "assemblerne",
+          "tags_json": [
+            "Masc",
+            "m2",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "ɑsˈɛmbləɳə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "c906e3159d7b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c906e3159d7b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/c906e3159d7b.mp3",
+            "text": "assembler",
+            "source": "generated",
+            "content_sha256": "ac4f71328552cc014facdac9c921542c2d87eecece3da4f079870d43d3f393e6"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "i IT: program som oversetter programmeringsspråk til maskinkode",
+      "translation": "in IT: program that translates a programming language into machine code",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra kompilator",
+      "translation": "as opposed to a compiler",
+      "examples": []
+    }
+  ]
+}

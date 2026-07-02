@@ -1,0 +1,205 @@
+{
+  "source_article_id": 5204,
+  "lemmas": [
+    {
+      "lemma": "belyse",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 6119,
+      "is_sub_article": false,
+      "primary_translation": "illuminate / clarify",
+      "word_forms": [
+        {
+          "word_form": "belyse",
+          "tags_json": [
+            "v2",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"ly:$s@",
+              "ipa": "bəˈlyːsə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "belyser",
+          "tags_json": [
+            "v2",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"ly:$s@r",
+              "ipa": "bəˈlyːsər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "belyses",
+          "tags_json": [
+            "v2",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"ly:$s@s",
+              "ipa": "bəˈlyːsəs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "belyste",
+          "tags_json": [
+            "v2",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"ly:$st@",
+              "ipa": "bəˈlyːstə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "belyst",
+          "tags_json": [
+            "v2",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"ly:$st",
+              "ipa": "bəˈlyːst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "belysende",
+          "tags_json": [
+            "v2",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"ly:$sn=$@",
+              "ipa": "bəˈlyːsn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "belys",
+          "tags_json": [
+            "v2",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "b@$\"ly:s",
+              "ipa": "bəˈlyːs",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "7a15d80f21d3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a15d80f21d3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/7a15d80f21d3.mp3",
+            "text": "belyse",
+            "source": "generated",
+            "content_sha256": "18fc85bd48aacbe87cee191f7f69b2248b6412fd635e95bdb3d04c809b0bb71c",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "lyse opp, vende lys(kaster) mot",
+      "translation": "to light up, to direct light (from a light source)",
+      "examples": [
+        {
+          "no": "rommet var dårlig belyst",
+          "en": "the room was poorly lit"
+        }
+      ]
+    },
+    {
+      "text": "i overført betydning: kaste lys over",
+      "translation": "to cast light on",
+      "examples": []
+    },
+    {
+      "text": "utdype utdjupe, klargjøre",
+      "translation": "to elaborate, clarify",
+      "examples": [
+        {
+          "no": "belyse et emne",
+          "en": "shed light on a topic"
+        },
+        {
+          "no": "belyse en sak",
+          "en": "shed light on a matter"
+        },
+        {
+          "no": "et eksempel kan belyse hva jeg mener",
+          "en": "an example can clarify what I mean"
+        },
+        {
+          "no": "spørsmålet er blitt grundig belyst",
+          "en": "the question has been thoroughly examined"
+        }
+      ]
+    }
+  ]
+}

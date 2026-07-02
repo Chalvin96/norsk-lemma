@@ -1,0 +1,103 @@
+{
+  "source_article_id": 3411,
+  "lemmas": [
+    {
+      "lemma": "avdragsfri",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 4056,
+      "is_sub_article": false,
+      "primary_translation": "installment-free",
+      "word_forms": [
+        {
+          "word_form": "avdragsfri",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$drA:gs$%fri:",
+              "ipa": "ˈɑːvdrɑːgsˌfrɪː",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "avdragsfrie",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$drA:gs$%fri:$@",
+              "ipa": "ˈɑːvdrɑːgsˌfrɪːə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "avdragsfritt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"A:v$drA:gs$%frIt",
+              "ipa": "ˈɑːvdrɑːgsˌfrɪt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5af36727c41a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5af36727c41a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5af36727c41a.mp3",
+            "text": "avdragsfri",
+            "source": "generated",
+            "content_sha256": "5ee25ebae5712052243fbbc4ee0db099c48ff93c45ba81df2082d3e24ca2c8d8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "uten avdrag (i en viss periode)",
+      "translation": "without installments (for a certain period)",
+      "examples": [
+        {
+          "no": "lånet er avdragsfritt i studietiden",
+          "en": "the loan is interest-only during the period of study"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "source_article_id": 50860,
+  "lemmas": [
+    {
+      "lemma": "sendetid",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 58534,
+      "is_sub_article": false,
+      "primary_translation": "broadcast time",
+      "word_forms": [
+        {
+          "word_form": "sendetid",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sE$n@$%ti:d",
+              "ipa": "ˈsɛnəˌtɪːd",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sendetida",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sE$n@$%ti:$A",
+              "ipa": "ˈsɛnəˌtɪːɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sendetider",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sE$n@$%ti:$d@r",
+              "ipa": "ˈsɛnəˌtɪːdər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sendetidene",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Masc"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sE$n@$%ti:$dn=$@",
+              "ipa": "ˈsɛnəˌtɪːdn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sendetiden",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sE$n@$%ti:$dn=",
+              "ipa": "ˈsɛnəˌtɪːdn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "57c3078eabfa.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57c3078eabfa.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/57c3078eabfa.mp3",
+            "text": "sendetid",
+            "source": "generated",
+            "content_sha256": "a7c523f0b409aa3afc90e6ba37539525b3fe1dedf45cb0064a7212e215130019",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tid da en kringkastingsstasjon sender programmer",
+      "translation": "time when a broadcasting station transmits programs",
+      "examples": [
+        {
+          "no": "kanalen utvider sendetiden til også å sende i helgene",
+          "en": "the channel is extending its broadcast hours to include weekends as well"
+        }
+      ]
+    },
+    {
+      "text": "tidspunkt da et bestemt program blir sendt",
+      "translation": "time when a specific program is broadcast",
+      "examples": [
+        {
+          "no": "nyhetene får ny sendetid på hverdager",
+          "en": "the news is getting a new airtime on weekdays"
+        }
+      ]
+    },
+    {
+      "text": "tid som et program fyller",
+      "translation": "time that a program fills",
+      "examples": [
+        {
+          "no": "programmet får utvidet sendetiden med en time",
+          "en": "the program gets its airtime extended by an hour"
+        }
+      ]
+    }
+  ]
+}

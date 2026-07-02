@@ -1,0 +1,74 @@
+{
+  "source_article_id": 122059,
+  "lemmas": [
+    {
+      "lemma": "kjønnskorrigerende",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 169178,
+      "is_sub_article": false,
+      "primary_translation": "gender-affirming",
+      "word_forms": [
+        {
+          "word_form": "kjønnskorrigerende",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "çˈœnskɔrɪgˈeːɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d270f297aa8c.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d270f297aa8c.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d270f297aa8c.mp3",
+            "text": "kjønnskorrigerende",
+            "source": "generated",
+            "content_sha256": "bfe2e987dc511a66ba769bc02bdb0dbe6cb0bdb9391a8b50c280e93ee73c2dcf"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som korrigerer kjønn ved hjelp av medisinsk behandling",
+      "translation": "that corrects gender through medical treatment",
+      "examples": [
+        {
+          "no": "kjønnskorrigerende kirurgi",
+          "en": "gender-affirming surgery"
+        },
+        {
+          "no": "han gjennomgår kjønnskorrigerende behandling",
+          "en": "he is undergoing gender-affirming treatment"
+        }
+      ]
+    }
+  ]
+}

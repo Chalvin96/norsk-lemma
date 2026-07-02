@@ -1,0 +1,133 @@
+{
+  "source_article_id": 115058,
+  "lemmas": [
+    {
+      "lemma": "fado",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 165242,
+      "is_sub_article": false,
+      "primary_translation": "Fado music",
+      "word_forms": [
+        {
+          "word_form": "fado",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɑːdu",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fadoen",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɑːduən",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fadoer",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɑːduər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fadoene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "fˈɑːduənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "047451c376d0.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/047451c376d0.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/047451c376d0.mp3",
+            "text": "fado",
+            "source": "generated",
+            "content_sha256": "28cf2f38ee708af0c12e82dc4fe9a2ede13bd31406416f29039a0f217d299835"
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "folkemusikk i todelt takt fra Portugal",
+      "translation": "folk music in duple time from Portugal",
+      "examples": [
+        {
+          "no": "synge fado",
+          "en": "sing fado"
+        },
+        {
+          "no": "de spilte en melakolsk fado",
+          "en": "they played a melancholy fado"
+        }
+      ]
+    }
+  ]
+}

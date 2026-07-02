@@ -1,0 +1,82 @@
+{
+  "source_article_id": 35243,
+  "lemmas": [
+    {
+      "lemma": "lille",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 41010,
+      "is_sub_article": false,
+      "primary_translation": "little",
+      "word_forms": [
+        {
+          "word_form": "lille",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"lI$l@",
+              "ipa": "ˈlɪlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "d532b1d9cb2a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d532b1d9cb2a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/d532b1d9cb2a.mp3",
+            "text": "lille",
+            "source": "generated",
+            "content_sha256": "55b7539e88eed272aef14029aa43059825e4eef3185f54af53a15cc640bf950d",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "oftest i bestemt form: med ganske begrenset størrelse, omfang eller mengde",
+      "translation": "often in definite form: of quite limited size, scope, or quantity",
+      "examples": []
+    },
+    {
+      "text": "jamfør liten og vesle",
+      "translation": "small and little",
+      "examples": [
+        {
+          "no": "det uskyldige lille barnet",
+          "en": "the innocent little child"
+        },
+        {
+          "no": "den lille byen",
+          "en": "the little town"
+        },
+        {
+          "no": "miste det lille en har",
+          "en": "lose the little one has"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "source_article_id": 11931,
+  "lemmas": [
+    {
+      "lemma": "eksakt",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 13962,
+      "is_sub_article": false,
+      "primary_translation": "exact / precisely",
+      "word_forms": [
+        {
+          "word_form": "eksakt",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sAkt",
+              "ipa": "ɛkˈsɑkt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "eksakte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "Ek$\"sAk$t@",
+              "ipa": "ɛkˈsɑktə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ee3bbcbec33d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee3bbcbec33d.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ee3bbcbec33d.mp3",
+            "text": "eksakt",
+            "source": "generated",
+            "content_sha256": "0067cc7a2ad8af50d59398e7ec1982de469c5b7da203ca5eeadac5400f7e126b",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "nøyaktig, presis, korrekt",
+      "translation": "accurate, precise, correct",
+      "examples": [
+        {
+          "no": "en eksakt beskrivelse",
+          "en": "an exact description"
+        },
+        {
+          "no": "han ønsker ikke å oppgi et eksakt beløp",
+          "en": "he does not want to state an exact amount"
+        },
+        {
+          "no": "det fins neppe noen eksakt forklaring",
+          "en": "there is probably no exact explanation"
+        }
+      ]
+    },
+    {
+      "text": "brukt som adverb: akkurat, nøyaktig",
+      "translation": "used as: exactly, precisely",
+      "examples": [
+        {
+          "no": "jeg vet det ikke eksakt",
+          "en": "i don't know exactly"
+        }
+      ]
+    }
+  ]
+}

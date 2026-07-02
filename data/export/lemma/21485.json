@@ -1,0 +1,87 @@
+{
+  "source_article_id": 21485,
+  "lemmas": [
+    {
+      "lemma": "gudstjenstlig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 25112,
+      "is_sub_article": false,
+      "primary_translation": "liturgical",
+      "word_forms": [
+        {
+          "word_form": "gudstjenstlig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gu0d$%stje:n$stlI",
+              "ipa": "ˈgʉdˌstjeːnstlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "gudstjenstlige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"gu0d$%stje:n$stlI$@",
+              "ipa": "ˈgʉdˌstjeːnstlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "bc9d695119c9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc9d695119c9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/bc9d695119c9.mp3",
+            "text": "gudstjenstlig",
+            "source": "generated",
+            "content_sha256": "1bd797477705d685704789e53d7035ef773c5fac2620c561e748022dfb04b722",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder gudstjeneste",
+      "translation": "relating to a church service",
+      "examples": [
+        {
+          "no": "en gudstjenstlig handling",
+          "en": "a liturgical act"
+        }
+      ]
+    }
+  ]
+}

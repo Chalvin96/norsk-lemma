@@ -1,0 +1,87 @@
+{
+  "source_article_id": 119188,
+  "lemmas": [
+    {
+      "lemma": "kalkfattig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 112039,
+      "is_sub_article": false,
+      "primary_translation": "low in lime",
+      "word_forms": [
+        {
+          "word_form": "kalkfattig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAlk$%fA$tI",
+              "ipa": "ˈkɑlkˌfɑtɪ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "kalkfattige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"kAlk$%fA$tI$@",
+              "ipa": "ˈkɑlkˌfɑtɪə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "f7322f8cf241.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f7322f8cf241.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/f7322f8cf241.mp3",
+            "text": "kalkfattig",
+            "source": "generated",
+            "content_sha256": "90311ecfe74f065ca0b56b4624d9cde3ee334495108c924ab3e3f82d1d79a13c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som inneholder lite kalk",
+      "translation": "containing little lime",
+      "examples": [
+        {
+          "no": "kalkfattig jord",
+          "en": "lime-poor soil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "source_article_id": 13379,
+  "lemmas": [
+    {
+      "lemma": "ettroms",
+      "hgno": 2,
+      "pos": "ADJ",
+      "source_lemma_id": 15548,
+      "is_sub_article": false,
+      "primary_translation": "one-room",
+      "word_forms": [
+        {
+          "word_form": "ettroms",
+          "tags_json": [
+            "a3",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Plur",
+            "Def",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"E$%trUms",
+              "ipa": "ˈɛˌtrʊms",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5236cc976364.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5236cc976364.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5236cc976364.mp3",
+            "text": "ettroms",
+            "source": "generated",
+            "content_sha256": "9c55e9f734cf703fd316537e83f1611d9d64f3090539368b7d33b7cae19690c1",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som består av ett rom",
+      "translation": "consisting of one room",
+      "examples": [
+        {
+          "no": "et ettroms skur i hagen",
+          "en": "a one-room shed in the garden"
+        }
+      ]
+    },
+    {
+      "text": "som består av ett rom utenom bad og eventuelt kjøkken",
+      "translation": "consisting of one room apart from the bathroom and possibly the kitchen",
+      "examples": [
+        {
+          "no": "en ettroms leilighet",
+          "en": "a studio apartment"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "source_article_id": 43055,
+  "lemmas": [
+    {
+      "lemma": "oppslått",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 49895,
+      "is_sub_article": false,
+      "primary_translation": "opened / hung up",
+      "word_forms": [
+        {
+          "word_form": "oppslått",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%SlOt",
+              "ipa": "ˈɔpˌʃlɔt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "oppslåtte",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"Op$%SlO$t@",
+              "ipa": "ˈɔpˌʃlɔtə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "ddb610210d59.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddb610210d59.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/ddb610210d59.mp3",
+            "text": "oppslått",
+            "source": "generated",
+            "content_sha256": "af0d72cfc3afd9910c2ecf80edfd6e69b62f704018feb2dd5308a94d80c30cbd",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som er åpnet opp",
+      "translation": "that which has been opened up",
+      "examples": []
+    },
+    {
+      "text": "åpen",
+      "translation": "open",
+      "examples": [
+        {
+          "no": "en oppslått paraply",
+          "en": "an open umbrella"
+        },
+        {
+          "no": "boka lå oppslått på bordet",
+          "en": "the book lay open on the table"
+        }
+      ]
+    },
+    {
+      "text": "som er hengt opp",
+      "translation": "that which has been hung up",
+      "examples": [
+        {
+          "no": "prislistene må henge oppslått ved inngangen så alle kan se dem",
+          "en": "the price lists must be posted at the entrance so everyone can see them"
+        }
+      ]
+    }
+  ]
+}

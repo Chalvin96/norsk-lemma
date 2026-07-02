@@ -1,0 +1,129 @@
+{
+  "source_article_id": 114511,
+  "lemmas": [
+    {
+      "lemma": "fratrekk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 100983,
+      "is_sub_article": false,
+      "primary_translation": "subtraction / deduction",
+      "word_forms": [
+        {
+          "word_form": "fratrekk",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"frA:$%trEk",
+              "ipa": "ˈfrɑːˌtrɛk",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "fratrekket",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɑːtrˌɛkə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fratrekka",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɑːtrˌɛkɑ",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "fratrekkene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "frˈɑːtrˌɛkənə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "672a648fd2a7.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/672a648fd2a7.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/672a648fd2a7.mp3",
+            "text": "fratrekk",
+            "source": "generated",
+            "content_sha256": "07dd90a3bae9f659040ca296a6fb8687c446c87fea415ef31058607e9b4cb117",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å trekke fra",
+      "translation": "the act of subtracting",
+      "examples": [
+        {
+          "no": "fratrekk på to dager for utholdt varetekt",
+          "en": "a deduction of two days for time spent in custody"
+        }
+      ]
+    }
+  ]
+}

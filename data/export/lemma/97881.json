@@ -1,0 +1,124 @@
+{
+  "source_article_id": 97881,
+  "lemmas": [
+    {
+      "lemma": "kampsport",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 112189,
+      "is_sub_article": false,
+      "primary_translation": "martial arts",
+      "word_forms": [
+        {
+          "word_form": "kampsport",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kAmp$%spOt`",
+              "ipa": "ˈkɑmpˌspɔʈ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kampsporten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kAmp$%spO$t`n`=",
+              "ipa": "ˈkɑmpˌspɔʈɳ̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kampsporter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"kAmp$%spO$t`@r",
+              "ipa": "ˈkɑmpˌspɔʈər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kampsportene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "kˈɑmpspˌɔʈɳ̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "79fa48802d79.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/79fa48802d79.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/79fa48802d79.mp3",
+            "text": "kampsport",
+            "source": "generated",
+            "content_sha256": "4acc0d9f12d139a269b10eb53e96469bb45a0c4198feca0e7780fd1ba0c33e18",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "idrettsgren der to motstandere kjemper mot hverandre med slag, spark, grep og kast",
+      "translation": "sport where two opponents fight each other with punches, kicks, holds, and throws",
+      "examples": [
+        {
+          "no": "kickboksing er en tøff kampsport",
+          "en": "kickboxing is a tough martial art"
+        }
+      ]
+    }
+  ]
+}

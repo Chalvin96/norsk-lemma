@@ -1,0 +1,128 @@
+{
+  "source_article_id": 56392,
+  "lemmas": [
+    {
+      "lemma": "sprit",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 64892,
+      "is_sub_article": false,
+      "primary_translation": "high-proof alcohol / liquor",
+      "word_forms": [
+        {
+          "word_form": "sprit",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"spri:t",
+              "ipa": "ˈsprɪːt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spriten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"spri:$tn=",
+              "ipa": "ˈsprɪːtn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "spriter",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"spri:$t@r",
+              "ipa": "ˈsprɪːtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "spritene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "sprˈiːtn̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "42c7805afc8e.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42c7805afc8e.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/42c7805afc8e.mp3",
+            "text": "sprit",
+            "source": "generated",
+            "content_sha256": "027945965502cefdc6cfe6cd0d91a7a5cf79a4c3caffe7e828671d1da3e55e64",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "væske med høyt alkoholinnhold, brukt blant annet til brensel og desinfeksjon",
+      "translation": "liquid with high alcohol content, used for fuel and disinfection, among other things",
+      "examples": [
+        {
+          "no": "en flaske med hjemmelaget sprit",
+          "en": "a bottle of homemade liquor"
+        },
+        {
+          "no": "drikke sprit",
+          "en": "drink liquor"
+        }
+      ]
+    }
+  ]
+}

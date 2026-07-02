@@ -1,0 +1,112 @@
+{
+  "source_article_id": 40959,
+  "lemmas": [
+    {
+      "lemma": "nominell",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 47914,
+      "is_sub_article": false,
+      "primary_translation": "nominal / face value",
+      "word_forms": [
+        {
+          "word_form": "nominell",
+          "tags_json": [
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$mI$\"nEl",
+              "ipa": "nʊmɪˈnɛl",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nominelle",
+          "tags_json": [
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$mI$\"nE$l@",
+              "ipa": "nʊmɪˈnɛlə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "nominelt",
+          "tags_json": [
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "nU$mI$\"nElt",
+              "ipa": "nʊmɪˈnɛlt",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "94d73ef76a42.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/94d73ef76a42.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/94d73ef76a42.mp3",
+            "text": "nominell",
+            "source": "generated",
+            "content_sha256": "8a28cf6a39d40c92daf47a39c7c1f0f9dbbb3c54c73f76d76b50edb7f2a4819a",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som gjelder (bare) i navnet",
+      "translation": "existing in name only",
+      "examples": []
+    },
+    {
+      "text": "til forskjell fra reell",
+      "translation": "real",
+      "examples": [
+        {
+          "no": "det er han som er lederen, i alle fall nominelt",
+          "en": "he is the leader, at least nominally"
+        },
+        {
+          "no": "obligasjonene har en nominell verdi på 1000 kr",
+          "en": "the bonds have a nominal value of NOK 1000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_article_id": 62337,
+  "lemmas": [
+    {
+      "lemma": "trivsel",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 71272,
+      "is_sub_article": false,
+      "primary_translation": "well-being",
+      "word_forms": [
+        {
+          "word_form": "trivsel",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trIv$sl=",
+              "ipa": "ˈtrɪvsl̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "trivselen",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"trIv$s@$ln=",
+              "ipa": "ˈtrɪvsəln̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "trivsler",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈɪʋslər",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "trivslene",
+          "tags_json": [
+            "Masc",
+            "m.",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "trˈɪʋsln̩ə",
+              "tone": 1,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 1",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "aebff2547a19.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aebff2547a19.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/aebff2547a19.mp3",
+            "text": "trivsel",
+            "source": "generated",
+            "content_sha256": "26da9e9108cc8bf765cfb0184fc469d9d913278f1d996d34c60a495d0b816b15",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "det å trives",
+      "translation": "the act of thriving",
+      "examples": [
+        {
+          "no": "sørge for skolebarnas trivsel",
+          "en": "ensure the well-being of schoolchildren"
+        }
+      ]
+    }
+  ]
+}

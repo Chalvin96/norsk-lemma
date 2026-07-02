@@ -1,0 +1,127 @@
+{
+  "source_article_id": 47847,
+  "lemmas": [
+    {
+      "lemma": "regnvær",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 54964,
+      "is_sub_article": false,
+      "primary_translation": "rainy weather",
+      "word_forms": [
+        {
+          "word_form": "regnvær",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Ind",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r{*In$%v{:r",
+              "ipa": "ˈræ͡ɪnˌvæːr",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "regnværet",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"r{*In$%v{:$r@",
+              "ipa": "ˈræ͡ɪnˌvæːrə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "regnværa",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈæ͡ɪnʋˌæːrɑ",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        },
+        {
+          "word_form": "regnværene",
+          "tags_json": [
+            "Neuter",
+            "n1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": null,
+              "ipa": "rˈæ͡ɪnʋˌæːɳ̩ə",
+              "tone": 2,
+              "source": "nb_g2p",
+              "tone_status": "known",
+              "tone_label": "Accent 2",
+              "prosody_trusted": false,
+              "needs_review": true
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "9ed8dcdacff4.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ed8dcdacff4.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9ed8dcdacff4.mp3",
+            "text": "regnvær",
+            "source": "generated",
+            "content_sha256": "f97e2166c56f6b0c366df672970f0bdd5bc3a802f2862a9f52f7a7eb46436c4c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "vær med (mye) regn",
+      "translation": "weather with (a lot of) rain",
+      "examples": [
+        {
+          "no": "regnværet skal vare fram til torsdag",
+          "en": "the rainy weather will last until Thursday"
+        }
+      ]
+    }
+  ]
+}

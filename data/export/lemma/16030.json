@@ -1,0 +1,91 @@
+{
+  "source_article_id": 16030,
+  "lemmas": [
+    {
+      "lemma": "forbundsvis",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 18589,
+      "is_sub_article": false,
+      "primary_translation": "federatively",
+      "word_forms": [
+        {
+          "word_form": "forbundsvis",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOr$bu0n$%svi:s",
+              "ipa": "ˈfɔrbʉnˌsvɪːs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "forbundsvise",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOr$bu0n$%svi:$s@",
+              "ipa": "ˈfɔrbʉnˌsvɪːsə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "49ed2bce3197.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49ed2bce3197.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/49ed2bce3197.mp3",
+            "text": "forbundsvis",
+            "source": "generated",
+            "content_sha256": "8c67eb91c87165441f38032ddb0fd91ff50f1890c3f602e7e2f1ba434d6eaf6c",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "hvert av flere forbund for seg",
+      "translation": "each of several federations separately",
+      "examples": [
+        {
+          "no": "forbundsvise forhandlinger",
+          "en": "union-by-union negotiations"
+        },
+        {
+          "no": "forhandle forbundsvis",
+          "en": "negotiate union by union"
+        }
+      ]
+    }
+  ]
+}

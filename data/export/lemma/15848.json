@@ -1,0 +1,148 @@
+{
+  "source_article_id": 15848,
+  "lemmas": [
+    {
+      "lemma": "folketetthet",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 18397,
+      "is_sub_article": false,
+      "primary_translation": "population density",
+      "word_forms": [
+        {
+          "word_form": "folketetthet",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$t@t$%he:t",
+              "ipa": "ˈfɔlkətətˌheːt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "folketettheten",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$t@t$%he:$tn=",
+              "ipa": "ˈfɔlkətətˌheːtn̩",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "folketettheter",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Ind",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$t@t$%he:$t@r",
+              "ipa": "ˈfɔlkətətˌheːtər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "folketetthetene",
+          "tags_json": [
+            "Masc",
+            "m1, f1",
+            "Plur",
+            "Def",
+            "Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$t@t$%he:$tn=$@",
+              "ipa": "ˈfɔlkətətˌheːtn̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "folketettheta",
+          "tags_json": [
+            "Fem",
+            "m1, f1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"fOl$k@$t@t$%he:$tA",
+              "ipa": "ˈfɔlkətətˌheːtɑ",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "5d3f176b037a.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d3f176b037a.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/5d3f176b037a.mp3",
+            "text": "folketetthet",
+            "source": "generated",
+            "content_sha256": "194bd9d828fc739fe220c7afa5e0d935ef81bb95e62eaca42de3d9b36e6cb8e8",
+            "tone": 2
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "forhold mellom folketall og areal",
+      "translation": "ratio between population and area",
+      "examples": [
+        {
+          "no": "folketettheten er 100 per km2",
+          "en": "the population density is 100 per km2"
+        },
+        {
+          "no": "landet med høyest folketetthet",
+          "en": "the country with the highest population density"
+        }
+      ]
+    }
+  ]
+}

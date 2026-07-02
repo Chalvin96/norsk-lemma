@@ -1,0 +1,110 @@
+{
+  "source_article_id": 2288,
+  "lemmas": [
+    {
+      "lemma": "antropomorf",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 2819,
+      "is_sub_article": false,
+      "primary_translation": "anthropomorphic",
+      "word_forms": [
+        {
+          "word_form": "antropomorf",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$trU$pU$\"mOrf",
+              "ipa": "ɑntrʊpʊˈmɔrf",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "antropomorfe",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$trU$pU$\"mOr$f@",
+              "ipa": "ɑntrʊpʊˈmɔrfə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "antropomorft",
+          "tags_json": [
+            "a1",
+            "Pos",
+            "Neuter",
+            "Ind",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "An$trU$pU$\"mOrft",
+              "ipa": "ɑntrʊpʊˈmɔrft",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "3253de7a24d9.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3253de7a24d9.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/3253de7a24d9.mp3",
+            "text": "antropomorf",
+            "source": "generated",
+            "content_sha256": "aaa743d325f1cbb059ea9fbfdc38398fb1d1c4da5be0112e29bc8e9fab8ffbfe",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som i form eller egenskap ligner på et menneske",
+      "translation": "resembling a human in form or characteristics",
+      "examples": [
+        {
+          "no": "et antropomorft gudsbilde",
+          "en": "an anthropomorphic image of a god"
+        },
+        {
+          "no": "tilskrive naturen antropomorfe egenskaper",
+          "en": "ascribe anthropomorphic qualities to nature"
+        }
+      ]
+    }
+  ]
+}

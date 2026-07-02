@@ -1,0 +1,184 @@
+{
+  "source_article_id": 50459,
+  "lemmas": [
+    {
+      "lemma": "sekk",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 57914,
+      "is_sub_article": false,
+      "primary_translation": "sack / backpack / sackful / loose garment / jumble / sac-like cavity",
+      "word_forms": [
+        {
+          "word_form": "sekk",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sEk",
+              "ipa": "ˈsɛk",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sekken",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"sE$k@n",
+              "ipa": "ˈsɛkən",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "sekker",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sE$k@r",
+              "ipa": "ˈsɛkər",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "sekkene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"sE$k@$n@",
+              "ipa": "ˈsɛkənə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "466e0fa7a88b.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/466e0fa7a88b.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/466e0fa7a88b.mp3",
+            "text": "sekk",
+            "source": "generated",
+            "content_sha256": "a3a1a3c02708e09749bcff3388658a94a033b8529a4dd368ddc68f0bddae8732",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "stor pose eller beholder av strie, plast, papir eller lignende brukt til emballasje eller til å frakte eller oppbevare noe i",
+      "translation": "large bag or container of burlap, plastic, paper used for packaging or for transporting or storing something",
+      "examples": [
+        {
+          "no": "en sekk mel",
+          "en": "a sack of flour"
+        },
+        {
+          "no": "han fylte sekken med pakker",
+          "en": "he filled the sack with packages"
+        }
+      ]
+    },
+    {
+      "text": "pose med reimer til å bære på ryggen, ofte med bæremeis og lokk",
+      "translation": "bag with straps for carrying on the back, often with a frame and lid",
+      "examples": [
+        {
+          "no": "han tok sekken på ryggen og la i vei",
+          "en": "he put the backpack on his back and set off"
+        },
+        {
+          "no": "reimene på sekken gnager på skuldrene",
+          "en": "the straps on the backpack chafe the shoulders"
+        }
+      ]
+    },
+    {
+      "text": "mengde som får plass i en sekk",
+      "translation": "amount that fits in a sack",
+      "examples": [
+        {
+          "no": "en sekk kaffe",
+          "en": "a sack of coffee"
+        }
+      ]
+    },
+    {
+      "text": "klesplagg som sitter løst på kroppen",
+      "translation": "garment that hangs loosely on the body",
+      "examples": [
+        {
+          "no": "denne kjolen er en sekk",
+          "en": "this dress is a sack"
+        },
+        {
+          "no": "hun likte å gå rundt i den gamle sekken hjemme",
+          "en": "she liked to walk around at home in the old sack"
+        }
+      ]
+    },
+    {
+      "text": "uordnet samling av noe uensartet eller uspesifisert",
+      "translation": "disordered collection of something heterogeneous or unspecified",
+      "examples": [
+        {
+          "no": "alle diagnosene er bare samlet i en sekk",
+          "en": "all the diagnoses are just lumped together in one bag"
+        }
+      ]
+    },
+    {
+      "text": "brukt som etterledd i betegnelser for poselignende organ eller hulrom i kropp",
+      "translation": "used as a suffix in designations for sac-like organs or cavities in the body",
+      "examples": []
+    },
+    {
+      "text": "brukt som etterledd i botaniske betegnelser for lite hulrom",
+      "translation": "used as a suffix in botanical terms for small cavities",
+      "examples": []
+    }
+  ]
+}

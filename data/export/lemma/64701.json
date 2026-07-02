@@ -1,0 +1,87 @@
+{
+  "source_article_id": 64701,
+  "lemmas": [
+    {
+      "lemma": "uoversettelig",
+      "hgno": 0,
+      "pos": "ADJ",
+      "source_lemma_id": 74082,
+      "is_sub_article": false,
+      "primary_translation": "untranslatable",
+      "word_forms": [
+        {
+          "word_form": "uoversettelig",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Masc/Fem",
+            "Ind",
+            "Sing",
+            "Neuter"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$o:$v@$\"s`E$t@$lI",
+              "ipa": "ʉoːvəˈʂɛtəlɪ",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "uoversettelige",
+          "tags_json": [
+            "a2",
+            "Pos",
+            "Plur",
+            "Def",
+            "Sing"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "u0$O$v@$\"s`E$t@$lI$@",
+              "ipa": "ʉɔvəˈʂɛtəlɪə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "20df402df1a3.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20df402df1a3.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/20df402df1a3.mp3",
+            "text": "uoversettelig",
+            "source": "generated",
+            "content_sha256": "f8307272825f729e431efb8e12732426cb70eef812e25cd9f188dca0a9a67547",
+            "tone": 1
+          }
+        ]
+      }
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "som ikke kan oversettes uten at noe vesentlig går tapt",
+      "translation": "that cannot be translated without losing something essential",
+      "examples": [
+        {
+          "no": "ordspill er uoversettelige",
+          "en": "puns are untranslatable"
+        }
+      ]
+    }
+  ]
+}
