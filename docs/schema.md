@@ -1,4 +1,13 @@
-# Article JSON Schema
+# Article and Export JSON Schema
+
+This repo has two JSON layers:
+
+- `data/articles/{article_id}.json` — mutable Ordbokene article cache, enriched in place.
+- `data/export/lemma/{article_id}.json` — exported release/import payload.
+
+The current exported lemma payload is **export schema v3**.
+
+## Article Cache Schema
 
 One file per Bokmålsordboka article. Filename is `{article_id}.json`.
 
@@ -148,10 +157,91 @@ pronunciations can miss stress, vowels, or pitch accent:
 | `nb_uttale_newwords` | Match in NB Uttale 2022 additions (`newwords_2022.csv`) |
 | `nb_g2p`             | Fallback transcription from NB's `nb-g2p` model. Marked `prosody_trusted=false`, `needs_review=true`. |
 
+## Export schema v3
+
+Exported lemma files live in `data/export/lemma/{article_id}.json`. They are
+derived from the enriched article cache and are the JSON files intended for
+release/import.
+
+```jsonc
+{
+  "source_article_id": 123,
+  "lemmas": [
+    {
+      "lemma": "strekke seg",
+      "hgno": 0,
+      "pos": "VERB",
+      "primary_translation": "stretch",
+      "word_forms": [
+        {
+          "word_form": "strekke",
+          "tags": ["Inf"],
+          "pronunciation": [
+            {
+              "ipa": "²strekə",
+              "tone": 2,
+              "tone_status": "known",
+              "source": "nb_uttale"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "file": "9e1c4b4f2a7d.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/9e1c4b4f2a7d.mp3"
+          }
+        ]
+      },
+      "frequency_rank": 342,          // Kelly rank (int) or null; lower = more frequent
+      "frequency_ambiguous": true     // present only when the rank is shared (see below)
+    }
+  ],
+  "definitions": [
+    {
+      "text": "rette ut kroppen",
+      "translation": "stretch the body",
+      "examples": [
+        {
+          "no": "hun strakte seg etter boken",
+          "en": "she stretched to reach the book"
+        }
+      ]
+    }
+  ]
+}
+```
+
+Schema v3 changes:
+
+- Definition examples are `{ "no", "en" }` pairs instead of bare Norwegian strings.
+- Each definition includes at most two examples.
+- Reused pre-v3 translations may emit example pairs with `en: ""` until backfilled.
+- Exported product files live under `data/export/lemma/`; generated audio lives under
+  `data/export/audio/`.
+- Additive (post-v3): each lemma carries `frequency_rank` (+ optional
+  `frequency_ambiguous`) from the Kelly list — see [Frequency rank](#frequency-rank).
+
+| Field | Type | Notes |
+|-------|------|-------|
+| `source_article_id` | integer | Ordbokene article id and filename stem. |
+| `lemmas` | array | One or more exported lemma entries. |
+| `lemmas[].primary_translation` | string or null | Short English label; null for expressions where no single lemma label is appropriate. |
+| `lemmas[].frequency_rank` | integer or null | Norwegian Kelly-list corpus rank (1 = most frequent). `null` when the lemma is not in the Kelly list. See [Frequency rank](#frequency-rank). |
+| `lemmas[].frequency_ambiguous` | boolean or absent | `true` only when this rank is shared by more than one lemma (homographs). Absent means `false`. See [Frequency rank](#frequency-rank). |
+| `definitions` | array | Exported definitions in article order. |
+| `definitions[].text` | string | Norwegian definition text. |
+| `definitions[].translation` | string | English gloss for the definition. |
+| `definitions[].examples` | array | Up to two `{ "no", "en" }` example translation pairs. |
+
 ## Audio field reference
 
-Audio is added only to audio-enriched release JSON (`dist/lemma-with-audio/`), not
-to the clean `lemma/` builder output.
+Audio is written into `data/export/lemma/` by the audio step. MP3s and manifests
+live under `data/export/audio/`.
 
 | Field | Type | Notes |
 |-------|------|-------|
@@ -178,15 +268,14 @@ The audio release asset (`norsk-lemma-audio-google-{version}.tar.gz`) unpacks to
 
 ```
 README.md
-data/audio/
+data/export/audio/
   manifest-google-{voice}.json
   lemma/
     google/
       {voice}/
         {sha256_prefix}.mp3   # one file per unique (text, tone) pair
-dist/
-  lemma-with-audio/
-    {article_id}.json         # same shape as lemma/ but with audio[] on each lemma
+data/export/lemma/
+  {article_id}.json           # same exported lemma payload with audio[] on each lemma
 ```
 
 ### Resolving audio to a URL
@@ -200,7 +289,7 @@ Each audio entry already carries the resolved location:
 For on-disk resolution, `path` is rooted differently depending on where you are:
 
 ```
-repo working tree:   data/{path}  →  data/audio/lemma/google/{voice}/...mp3
+repo working tree:   data/export/{path}  →  data/export/audio/lemma/google/{voice}/...mp3
 release archives:     {path}      →  audio/lemma/google/{voice}/...mp3   (archive root)
 ```
 
@@ -211,7 +300,7 @@ The `file` field is a stable content-addressed name (SHA-256 of `provider|voice|
 
 ### Manifest
 
-`data/audio/manifest-google-{voice}.json` lists every synthesized file:
+`data/export/audio/manifest-google-{voice}.json` lists every synthesized file:
 
 ```jsonc
 {
@@ -244,9 +333,9 @@ Use the manifest to:
 
 | Use case | Import from |
 |----------|-------------|
-| Vocabulary, pronunciation, inflection — no audio | `lemma/` |
-| Dictionary with audio playback | `dist/lemma-with-audio/` |
-| Serve audio from CDN / object storage | Copy `data/audio/lemma/` tree; use `path` from manifest as the object key |
+| Vocabulary, pronunciation, inflection — no audio | `data/export/lemma/` before running `audio` |
+| Dictionary with audio playback | `data/export/lemma/` after running `audio` |
+| Serve audio from CDN / object storage | Copy `data/export/audio/lemma/` tree; use `path` from manifest as the object key |
 
 ### Tonal homographs
 
@@ -293,3 +382,45 @@ For learner-facing UI:
 `body.pronunciation[]` entries are the original Norwegian phonetic respelling from
 Ordbøkene (~4,500 articles). Not IPA, not SAMPA. Preserved as-is; separate from the
 `pronunciation` field added by this pipeline.
+
+## Frequency rank
+
+Each exported lemma carries a `frequency_rank` derived from the **Norwegian Kelly
+list** (UiO Text Laboratory, tekstlab.uio.no/kelly, CC BY-SA 4.0 — see
+[data-sources.md](data-sources.md) and `NOTICE`). It is written by the
+`frequency` stage (`python pipeline.py frequency`), which joins the vendored
+`data/vendor/kelly/kelly.csv` onto lemmas by `(lemma, pos)`.
+
+| Field | Type | Meaning |
+|-------|------|---------|
+| `frequency_rank` | integer or null | Kelly corpus rank. **1 = most frequent.** `null` when the lemma is not in the Kelly list. |
+| `frequency_ambiguous` | boolean or absent | `true` only when this `(lemma, pos)` matched more than one lemma; absent means `false`. |
+
+### What "ambiguous" means
+
+The Kelly list ranks **surface word forms** — it counted how often a spelling
+appears in a corpus and never distinguished homographs (same spelling + same POS,
+different `hgno`). When one Kelly `(lemma, pos)` matches **more than one** lexicon
+lemma, the rank is applied to **all** of them and each is flagged
+`frequency_ambiguous: true`, rather than picking a single winner by `hgno`
+(editorial ordering, not frequency). The flag tells a consumer: *this is the
+frequency of the word form, not proof that this specific sense is the frequent
+one.* Unshared matches get the rank with no flag.
+
+Example — both `være` (VERB) homographs share rank 1:
+
+```jsonc
+{ "lemma": "være", "pos": "VERB", "hgno": 2,
+  "frequency_rank": 1, "frequency_ambiguous": true }
+```
+
+### Consuming it
+
+- Order/pick "most frequent" by ascending `frequency_rank`; ignore `null`.
+- Ambiguity is informational — you may show all shared-rank homographs (they are
+  distinct lemmas with their own definitions) or dedupe downstream if you need a
+  unique winner per rank. Ranking every match keeps the honest signal in the data.
+- Coverage and the matched/unmatched/ambiguous breakdown are recorded in
+  `data/vendor/kelly/match-report.json` (regenerated by the `frequency` stage).
+  Current export: 5,710 of 5,999 Kelly keys matched, 410 ambiguous, 6,201 lemmas
+  ranked.

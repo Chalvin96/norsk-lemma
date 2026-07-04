@@ -32,7 +32,7 @@ from tqdm import tqdm
 
 REPO = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO / "data"
-DEFAULT_MANIFEST = DATA_DIR / "audio" / "manifest-google-nb-NO-Chirp3-HD-Aoede.json"
+DEFAULT_MANIFEST = DATA_DIR / "export" / "audio" / "manifest-google-nb-NO-Chirp3-HD-Aoede.json"
 
 CONTENT_TYPE = "audio/mpeg"
 # Keys are content-addressed and never change, so cache them forever.

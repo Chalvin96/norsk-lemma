@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import time
+from collections.abc import Iterator
 from pathlib import Path
 from typing import Any
 
@@ -10,10 +11,13 @@ from .settings import logger
 ExplodedEntry = tuple[int, dict[str, Any]]
 
 
-def explode(articles_dir: Path) -> list[ExplodedEntry]:
-    """Walk articles/*.json, explode inline-only sub-articles as peers."""
-    results: list[ExplodedEntry] = []
+def iter_exploded(articles_dir: Path) -> Iterator[ExplodedEntry]:
+    """Stream articles/*.json one file at a time, exploding inline sub-articles.
 
+    Lazy: holds only the current article in memory, so callers that process
+    per-file (e.g. translate-examples over the full corpus) stay at constant
+    memory instead of materializing ~100k article dicts at once.
+    """
     for file_path in sorted(
         articles_dir.glob("*.json"),
         key=lambda path: int(path.stem) if path.stem.isdigit() else path.stem,
@@ -31,7 +35,7 @@ def explode(articles_dir: Path) -> list[ExplodedEntry]:
         if article_id is None:
             continue
 
-        results.append((article_id, data))
+        yield article_id, data
 
         for sub_article in _find_inline_sub_articles(data):
             sub_id = sub_article.get("article_id")
@@ -39,9 +43,12 @@ def explode(articles_dir: Path) -> list[ExplodedEntry]:
                 continue
             if (articles_dir / f"{sub_id}.json").exists():
                 continue
-            results.append((sub_id, _wrap_sub_as_article(article_id, sub_article)))
+            yield sub_id, _wrap_sub_as_article(article_id, sub_article)
 
-    return results
+
+def explode(articles_dir: Path) -> list[ExplodedEntry]:
+    """Materialize :func:`iter_exploded` into a list (legacy callers)."""
+    return list(iter_exploded(articles_dir))
 
 
 def _find_inline_sub_articles(data: dict[str, Any]) -> list[dict[str, Any]]:
@@ -91,7 +98,11 @@ def collect_pending(
 def write_lemma(lemma_dir: Path, article_id: int, data: dict[str, Any]) -> Path:
     lemma_dir.mkdir(parents=True, exist_ok=True)
     output_path = lemma_dir / f"{article_id}.json"
-    output_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Trailing newline matches the committed export and the frequency stage's
+    # writer, so export -> frequency doesn't rewrite every file just for a newline.
+    output_path.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     return output_path
 
 

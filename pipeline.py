@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Entry point: python pipeline.py <command> [options]
 
-Commands: fetch  translate  pronounce  export  build
+Commands: fetch  hydrate  translate  translate-examples  pronounce  export
+          audio  review  apply-review  build
 Run with --help for full usage.
 """
 import sys

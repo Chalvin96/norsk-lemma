@@ -3,7 +3,7 @@
 # Cut a release: tag HEAD, build the archives locally, publish a GitHub release
 # with both tarballs attached.
 #
-# Audio (data/audio/) is gitignored and lives only on this machine, so the
+# Audio (data/export/audio/) is gitignored and lives only on this machine, so the
 # release MUST be built here — CI has no audio to bundle. That is by design:
 # the repo stays light to clone, the heavy MP3s ship as release assets.
 #
@@ -12,7 +12,7 @@
 #
 # Produces (under dist/release/, gitignored):
 #   norsk-lemma-<tag>.tar.gz                 README + lemma/ + audio/lemma/ (Flyt import bundle)
-#   norsk-lemma-audio-google-<tag>.tar.gz    README + data/audio/ (audio-only, incl. manifest)
+#   norsk-lemma-audio-google-<tag>.tar.gz    README + data/export/audio/ (audio-only, incl. manifest)
 #
 set -euo pipefail
 
@@ -33,8 +33,8 @@ cd "$repo_root"
 command -v gh >/dev/null 2>&1 || { echo "error: gh CLI not found" >&2; exit 1; }
 gh auth status >/dev/null 2>&1 || { echo "error: gh not authenticated — run 'gh auth login'" >&2; exit 1; }
 
-if [[ ! -d data/audio/lemma ]]; then
-  echo "error: data/audio/lemma missing — run scripts/generate_audio.py first" >&2
+if [[ ! -d data/export/audio/lemma ]]; then
+  echo "error: data/export/audio/lemma missing — run scripts/generate_audio.py first" >&2
   exit 1
 fi
 # Refuse if the tag already exists so a failed prior run can't leave a tag we'd silently reuse.
@@ -50,7 +50,7 @@ if [[ "${2:-}" != "--allow-dirty" ]] && ! git diff --quiet HEAD --; then
 fi
 
 echo "Releasing ${tag} from $(git rev-parse --short HEAD) on branch $(git rev-parse --abbrev-ref HEAD)."
-echo "Audio source: $(find data/audio/lemma -name '*.mp3' | wc -l | tr -d ' ') mp3 files."
+echo "Audio source: $(find data/export/audio/lemma -name '*.mp3' | wc -l | tr -d ' ') mp3 files."
 
 # --- build archives ----------------------------------------------------------
 out="${repo_root}/dist/release"
@@ -66,13 +66,13 @@ echo "Building $(basename "$main_archive") ..."
 cp README.md "$stage/"
 cp -r data/export/lemma "$stage/lemma"
 mkdir -p "$stage/audio"
-cp -r data/audio/lemma "$stage/audio/lemma"
+cp -r data/export/audio/lemma "$stage/audio/lemma"
 tar -czf "$main_archive" -C "$stage" .
 
 # Audio-only archive. Lay audio at the archive root (audio/lemma/...) so the
 # `path` field in the data resolves identically here and in the main archive.
 echo "Building $(basename "$audio_archive") ..."
-tar -czf "$audio_archive" -C "$repo_root" README.md -C "$repo_root/data" audio
+tar -czf "$audio_archive" -C "$repo_root" README.md -C "$repo_root/data/export" audio
 
 echo "Archives:"
 du -h "$main_archive" "$audio_archive"

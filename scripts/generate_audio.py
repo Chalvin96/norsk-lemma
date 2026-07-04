@@ -3,8 +3,8 @@ from __future__ import annotations
 import argparse
 import itertools
 import json
-import time
 import threading
+import time
 from collections.abc import Callable
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -15,15 +15,15 @@ from ordbokene.audio import (
     _is_expression,
     _is_unaudioable,
     audio_filename,
+    embed_audio_into_articles,
     file_sha256,
     jobs_from_manifest,
     normalize_audio_text,
     output_path_for_job,
-    write_audio_into_lemmas,
     write_manifest,
 )
 from ordbokene.google_tts import list_google_voices, synthesize_google_mp3
-from ordbokene.settings import DEFAULT_LEMMA_DIR, REPO_ROOT
+from ordbokene.settings import DEFAULT_ARTICLES_DIR, DEFAULT_AUDIO_DIR, DEFAULT_LEMMA_DIR
 
 DEFAULT_GOOGLE_VOICE = "nb-NO-Chirp3-HD-Aoede"
 DEFAULT_PRICE_PER_MILLION_CHARS = 30.0
@@ -42,6 +42,7 @@ def _iter_jobs(
     seen: set[str],
 ):
     """Yield AudioJobs one file at a time, skipping already-synthesized entries."""
+    jobs_by_filename: dict[str, AudioJob] = {}
     for path in sorted(lemma_dir.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         article_id = int(data.get("source_article_id") or path.stem)
@@ -57,16 +58,24 @@ def _iter_jobs(
             tone_status = pron.get("tone_status") if pron else None
             tone = pron.get("tone") if pron else None
             filename = audio_filename(provider, voice, language_code, text, tone_status, tone)
+            source_lemma_id = lemma.get("source_lemma_id")
 
-            if filename in seen:
+            existing = jobs_by_filename.get(filename)
+            if existing is not None:
+                if article_id not in existing.article_ids:
+                    existing.article_ids.append(article_id)
+                if (
+                    isinstance(source_lemma_id, int)
+                    and source_lemma_id not in existing.source_lemma_ids
+                ):
+                    existing.source_lemma_ids.append(source_lemma_id)
                 continue
             seen.add(filename)
 
             if not force and (audio_dir / "lemma" / provider / voice / filename).exists():
                 continue
 
-            source_lemma_id = lemma.get("source_lemma_id")
-            yield AudioJob(
+            job = AudioJob(
                 key=(text, tone_status, tone),
                 text=text,
                 provider=provider,
@@ -79,6 +88,8 @@ def _iter_jobs(
                 tone_status=tone_status,
                 tone=tone,
             )
+            jobs_by_filename[filename] = job
+            yield job
 
 
 def run(
@@ -92,6 +103,7 @@ def run(
     force: bool,
     confirm_cost: bool,
     price_per_million_chars: float,
+    articles_dir: Path = DEFAULT_ARTICLES_DIR,
     list_voices: bool = False,
     enrich_only: bool = False,
     workers: int = DEFAULT_WORKERS,
@@ -107,8 +119,11 @@ def run(
 
     if enrich_only:
         all_jobs = jobs_from_manifest(manifest_path, provider="google", voice=voice, language_code=language_code)
-        written = write_audio_into_lemmas(lemma_dir, all_jobs)
-        print(f"wrote audio into {written} lemma JSON files")
+        # Embed into articles/ (the source of truth); a subsequent `export`
+        # propagates the audio into lemma/. This survives re-export, unlike the
+        # old in-place lemma write which export --force would wipe.
+        written = embed_audio_into_articles(articles_dir, all_jobs)
+        print(f"embedded audio into {written} article JSON files (run `export` to propagate to lemma/)")
         return 0
 
     seen: set[str] = set()
@@ -166,16 +181,18 @@ def run(
 
     write_manifest(audio_dir, "google", voice, language_code, list(completed.values()))
     all_jobs = jobs_from_manifest(manifest_path, provider="google", voice=voice, language_code=language_code)
-    write_audio_into_lemmas(lemma_dir, all_jobs)
+    embedded = embed_audio_into_articles(articles_dir, all_jobs)
 
     print(f"synthesized {synthesized_count} audio file(s)")
+    print(f"embedded audio into {embedded} article JSON files (run `export` to propagate to lemma/)")
     return 0
 
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Generate lemma audio with Google Cloud Text-to-Speech.")
     parser.add_argument("--lemma-dir", type=Path, default=DEFAULT_LEMMA_DIR)
-    parser.add_argument("--audio-dir", type=Path, default=REPO_ROOT / "data" / "audio")
+    parser.add_argument("--articles-dir", type=Path, default=DEFAULT_ARTICLES_DIR)
+    parser.add_argument("--audio-dir", type=Path, default=DEFAULT_AUDIO_DIR)
     parser.add_argument("--voice", default=DEFAULT_GOOGLE_VOICE)
     parser.add_argument("--language-code", default="nb-NO")
     parser.add_argument("--limit", type=int)
@@ -185,7 +202,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--price-per-million-chars", type=float, default=DEFAULT_PRICE_PER_MILLION_CHARS)
     parser.add_argument("--list-voices", action="store_true")
     parser.add_argument("--enrich-only", action="store_true",
-                        help="Skip synthesis; write audio metadata into lemma/ JSON files from existing manifest.")
+                        help="Skip synthesis; embed audio metadata into articles/ from existing manifest (run export to propagate to lemma/).")
     parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS)
     return parser
 
@@ -202,6 +219,7 @@ def main(argv: list[str] | None = None) -> int:
         force=args.force,
         confirm_cost=args.confirm_cost,
         price_per_million_chars=args.price_per_million_chars,
+        articles_dir=args.articles_dir.resolve(),
         list_voices=args.list_voices,
         enrich_only=args.enrich_only,
         workers=args.workers,

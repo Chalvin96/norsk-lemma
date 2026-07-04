@@ -2,6 +2,8 @@ from __future__ import annotations
 
 from typing import Any
 
+from .settings import MAX_EXAMPLES
+
 
 def build_prompt(entries: list[dict[str, Any]]) -> str:
     rendered_entries: list[str] = []
@@ -9,7 +11,7 @@ def build_prompt(entries: list[dict[str, Any]]) -> str:
         definition_parts: list[str] = []
         for definition in entry["definitions"]:
             lines = [f"    source_id {definition['source_id']}: {definition['text']}"]
-            for example in definition.get("examples", [])[:2]:
+            for example in definition.get("examples", [])[:MAX_EXAMPLES]:
                 lines.append(f"      example: {example}")
             definition_parts.append("\n".join(lines))
 
@@ -56,6 +58,10 @@ For each article below, provide:
    - If a source_id appears more than once (two explanation elements under the
      same definition node), include one translation entry per occurrence in the
      same order they appear — even when the source_id value is repeated.
+
+The "example:" lines under each definition are Norwegian example sentences
+shown as read-only sense context. Do NOT translate them in this call; example
+translations are handled separately.
 
 Before choosing lemma_primary, mentally translate the definitions first. If
 lemma_primary does not fit the listed definition glosses, choose a better

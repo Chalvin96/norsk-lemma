@@ -246,6 +246,55 @@ def write_audio_enriched_lemmas(lemma_dir: Path, output_dir: Path, jobs: list[Au
     return written
 
 
+def embed_audio_into_articles(articles_dir: Path, jobs: list[AudioJob]) -> int:
+    """Embed audio metadata into raw article lemma dicts, keyed by lemma id.
+
+    Mirrors the example/definition translation round-trip: audio lives in
+    ``articles/`` (the source of truth) so ``export`` reproduces it into
+    ``lemma/`` losslessly. Matching is by ``source_lemma_id`` -- the raw lemma
+    ``id`` -- which sidesteps the pronunciation-key drift that breaks
+    manifest-key matching after an article re-hydrate.
+
+    Returns the number of article files written (sub-articles are promoted to
+    their own file by :func:`embed.write_article`, exactly as examples do).
+    """
+    from .embed import write_article
+    from .io import iter_exploded
+
+    # source_lemma_id -> audio metadata item. source_lemma_id is a GLOBAL
+    # ordbokene lexeme id, so it uniquely identifies the word+pronunciation the
+    # MP3 was synthesized for; matching on it alone attaches the correct audio
+    # wherever that lexeme appears (main or sub article), and avoids any
+    # article_id x source_lemma_id cross-product ambiguity.
+    index: dict[int, dict[str, Any]] = {}
+    for job in jobs:
+        item = audio_metadata(job)
+        for source_lemma_id in job.source_lemma_ids:
+            index[source_lemma_id] = item
+
+    if not index:
+        return 0
+
+    written = 0
+    for article_id, raw in iter_exploded(articles_dir):
+        changed = False
+        for lemma in raw.get("lemmas", []):
+            if not isinstance(lemma, dict):
+                continue
+            item = index.get(lemma.get("id"))
+            if item is None:
+                continue
+            block = {"lemma": [item]}
+            if lemma.get("audio") != block:
+                lemma["audio"] = block
+                changed = True
+        if changed:
+            write_article(articles_dir, article_id, raw)
+            written += 1
+
+    return written
+
+
 def audio_metadata(job: AudioJob) -> dict[str, Any]:
     item: dict[str, Any] = {
         "type": "tts",

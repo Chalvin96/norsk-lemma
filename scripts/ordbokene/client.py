@@ -1,17 +1,19 @@
 from __future__ import annotations
 
 import json
-import os
 import re
-import time
 from typing import Any, Protocol
 
 import requests
 
 from .extract import extract_definitions
 from .io import ExplodedEntry
+from .llm import PROVIDERS, LlmConfig, LlmError
 from .prompt import build_prompt
-from .settings import KNOWN_POS, OPENROUTER_URL, REQUEST_TIMEOUT, logger
+from .settings import KNOWN_POS, MAX_EXAMPLES, logger
+
+# Harnesses whose transport does not thread a reasoning-effort knob.
+_EFFORT_IGNORED = frozenset({"openrouter", "claude"})
 
 
 class TranslationConfig(Protocol):
@@ -46,69 +48,47 @@ def request_translations(
             }
         )
 
-    payload = {
-        "model": config.model,
-        "messages": [{"role": "user", "content": build_prompt(prompt_entries)}],
-        "max_tokens": max(
-            len(batch) * 400
+    # Example strings ride along in the prompt on this branch, so their length
+    # feeds the token budget alongside each definition's text.
+    max_tokens = max(
+        len(batch) * 400
+        + sum(
+            len(definition["text"])
             + sum(
-                len(definition["text"])
-                for entry in prompt_entries
-                for definition in entry["definitions"]
+                len(ex)
+                for ex in definition.get("examples", [])[:MAX_EXAMPLES]
+                if isinstance(ex, str)
             )
-            // 2,
-            1024,
-        ),
-        "temperature": 0.1,
-    }
-    api_key = os.environ.get("OPENROUTER_API_KEY", "")
-    if not api_key:
-        return {index: "missing_api_key" for index in range(len(batch))}
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
+            for entry in prompt_entries
+            for definition in entry["definitions"]
+        )
+        // 2,
+        1024,
+    )
 
-    for attempt in range(1, config.max_retries + 1):
-        try:
-            response = session.post(
-                OPENROUTER_URL,
-                headers=headers,
-                json=payload,
-                timeout=REQUEST_TIMEOUT,
-            )
-        except requests.RequestException as exc:
-            if attempt == config.max_retries:
-                return {index: f"request_error: {exc}" for index in range(len(batch))}
-            logger.warning("Request failed on attempt %s/%s: %s", attempt, config.max_retries, exc)
-            # Short cap for transient network blips; rate-limit sleeps use the full retry_delay.
-            _NETWORK_ERROR_MAX_SLEEP = 5
-            time.sleep(min(_NETWORK_ERROR_MAX_SLEEP, config.retry_delay))
-            continue
+    llm_config = LlmConfig(
+        model=config.model,
+        harness=getattr(config, "harness", "openrouter"),
+        max_retries=config.max_retries,
+        retry_delay=config.retry_delay,
+        reasoning_effort=getattr(config, "reasoning_effort", None),
+    )
+    if llm_config.reasoning_effort and llm_config.harness in _EFFORT_IGNORED:
+        logger.warning("--reasoning-effort is ignored by the %s harness", llm_config.harness)
 
-        if response.status_code in {429, 500, 502, 503, 504} and attempt < config.max_retries:
-            logger.warning(
-                "Transient HTTP %s on attempt %s/%s",
-                response.status_code,
-                attempt,
-                config.max_retries,
-            )
-            time.sleep(config.retry_delay)
-            continue
-        if response.status_code != 200:
-            return {index: f"http_{response.status_code}" for index in range(len(batch))}
+    provider = PROVIDERS.get(llm_config.harness)
+    if provider is None:
+        return {index: f"unknown_harness: {llm_config.harness}" for index in range(len(batch))}
 
-        try:
-            content = response.json()["choices"][0]["message"]["content"]
-        except (KeyError, IndexError, TypeError, ValueError) as exc:
-            return {index: f"invalid_response: {exc}" for index in range(len(batch))}
+    try:
+        content = provider(session, llm_config, build_prompt(prompt_entries), max_tokens=max_tokens)
+    except LlmError as exc:
+        return {index: str(exc) for index in range(len(batch))}
 
-        article_ids = [
-            int(entry["article_id"]) for entry in prompt_entries if entry["article_id"] is not None
-        ]
-        return _parse_json_response(content, article_ids)
-
-    return {index: "unknown_error" for index in range(len(batch))}
+    article_ids = [
+        int(entry["article_id"]) for entry in prompt_entries if entry["article_id"] is not None
+    ]
+    return _parse_json_response(content, article_ids)
 
 
 def _parse_json_response(content: str, article_ids: list[int]) -> dict[int, Any]:

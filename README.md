@@ -8,15 +8,58 @@ ready for import into [Flyt](https://github.com/Chalvin/flyt).
 
 ---
 
+## Dataset at a Glance
+
+Measured over the current export (`data/export/lemma/`, 2026-07-03):
+
+| Metric | Value |
+|---|---|
+| Source articles | 96,459 |
+| Lemmas | 109,136 |
+| Lemmas with English gloss | 98,704 (90.4%) |
+| Definitions translated | 131,705 / 143,369 (91.9%) |
+| Word forms | 430,830 |
+| Word forms with IPA | 419,772 (97.4%) |
+| Pronunciations with known pitch accent (tone 1/2) | 415,997 (99.1%) |
+| Lemmas with TTS audio | 97,154 (89.0%) |
+| Lemmas with frequency rank | 6,201 (Kelly list; 5,710 of 5,999 Kelly entries matched) |
+| IPA provenance | NB Uttale 303,111 · nb-g2p fallback 116,661 |
+
+---
+
 ## Pipeline
 
-| Stage | Script | Output |
+```mermaid
+flowchart LR
+    A[ord.uib.no<br/>article dump] -->|fetch| B[data/articles/*.json]
+    B -->|translate<br/>LLM gloss via OpenRouter| C[articles + embedded<br/>English translations]
+    C -->|pronounce<br/>NB Uttale → newwords → nb-g2p| D[articles + IPA,<br/>pitch accent]
+    D -->|export| E[data/export/lemma/*.json]
+    E -->|audio<br/>Google Cloud TTS| F[data/audio/…/*.mp3<br/>+ SHA-256 manifest]
+    F -->|upload_audio.py| G[(object storage)]
+    E -->|release.sh| H[norsk-lemma-vX.tar.gz]
+```
+
+All stages run through one CLI:
+
+| Stage | Command | Output |
 |---|---|---|
-| Fetch | `scripts/translate.py fetch` | `data/articles/*.json` |
-| Normalize + LLM gloss | `scripts/translate.py` | `data/lemma/*.json` |
-| Pronunciation (IPA + tone) | `scripts/enrich_pronunciation.py` | fields in `data/lemma/` |
-| Audio (MP3) | `scripts/generate_audio.py` | `data/audio/lemma/google/{voice}/*.mp3` |
-| Release | `scripts/release.sh` | `norsk-lemma-vX.tar.gz` |
+| Fetch | `python pipeline.py fetch` | `data/articles/*.json` |
+| LLM gloss | `python pipeline.py translate` | translations embedded into articles |
+| Pronunciation (IPA + tone) | `python pipeline.py pronounce` | pronunciation fields in articles |
+| Export | `python pipeline.py export` | `data/export/lemma/*.json` |
+| Frequency rank | `python pipeline.py frequency` | `frequency_rank` field in `lemma/*.json` + match report |
+| Review | `python pipeline.py review` | translation QA report |
+| Audio (MP3) | `python pipeline.py audio` | `data/export/audio/lemma/google/{voice}/*.mp3` |
+| Everything | `python pipeline.py build` | fetch → translate → pronounce → export |
+| Release | `scripts/release.sh vX.Y.Z` | `norsk-lemma-vX.Y.Z.tar.gz` |
+
+Every stage is idempotent: finished work is skipped on re-run, so the pipeline
+is safe to interrupt and resume (`--force` rebuilds).
+
+The `translate`, `review`, and `build` stages accept `--harness {openrouter,codex,claude,opencode,droid,pi}`
+(default `openrouter`) to choose the transport — the OpenRouter HTTP API or a
+locally-installed agentic CLI. See [`scripts/README.md`](scripts/README.md#harness-backends).
 
 ---
 
@@ -25,23 +68,27 @@ ready for import into [Flyt](https://github.com/Chalvin/flyt).
 ```bash
 uv sync
 export OPENROUTER_API_KEY=sk-or-...
-uv run python scripts/translate.py
+uv run python pipeline.py build
 ```
 
-If `data/articles/` is empty, the script downloads the Bokmålsordboka source archive automatically.
+If `data/articles/` is empty, the pipeline downloads the Bokmålsordboka source archive automatically.
 
 Preview pending work without API calls:
 
 ```bash
-uv run python scripts/translate.py --limit 50 --dry-run
+uv run python pipeline.py translate --limit 50 --dry-run
+```
+
+Review exported translations with a stronger model:
+
+```bash
+uv run python pipeline.py review --review-model openai/gpt-5.4 --limit 100 --output translation-review.json
 ```
 
 ### Pronunciation Enrichment
 
 ```bash
-uv run python scripts/enrich_pronunciation.py \
-  --input data/articles/ \
-  --workers 8
+uv run python pipeline.py pronounce --workers 8
 ```
 
 Lookup chain: **NB Uttale** → **NB Uttale newwords** → **nb-g2p fallback**.
@@ -51,33 +98,38 @@ See [`docs/pronunciation-pipeline.md`](docs/pronunciation-pipeline.md).
 
 ```bash
 # Dry-run: estimate cost
-uv run --group audio python scripts/generate_audio.py --dry-run
+uv run --group audio python pipeline.py audio --dry-run
 
 # Generate all
-uv run --group audio python scripts/generate_audio.py \
+uv run --group audio python pipeline.py audio \
   --voice nb-NO-Chirp3-HD-Aoede \
   --confirm-cost
 ```
 
-Audio fields are written in-place into `data/lemma/`. MP3s go under
-`data/audio/lemma/google/{voice}/`. See [`docs/audio-strategy.md`](docs/audio-strategy.md).
+Audio metadata is written into the exported lemma JSONs under `data/export/lemma/`.
+MP3s go under `data/export/audio/lemma/google/{voice}/` with a SHA-256 manifest.
+See [`docs/audio-strategy.md`](docs/audio-strategy.md).
 
 ---
 
 ## Repository Layout
 
 ```
+pipeline.py              ← CLI entry point (fetch/translate/pronounce/export/audio/build)
 data/
-  lemma/      ← enriched lemma JSONs (translations + IPA + audio fields)
-  audio/
-    lemma/google/{voice}/*.mp3   ← TTS audio files
-    manifest-google-{voice}.json ← file index with SHA-256 checksums
-  articles/   ← raw Ordbokene articles (git-ignored, fetched on demand)
+  articles/     ← raw Ordbokene articles (git-ignored, fetched on demand)
+  export/
+    lemma/      ← exported lemma JSONs (translations + IPA + audio fields, git-tracked)
+    audio/
+      lemma/google/{voice}/*.mp3   ← TTS audio files (git-ignored)
+      manifest-google-{voice}.json ← file index with SHA-256 checksums
 scripts/
-  translate.py           ← main pipeline CLI
+  translate.py           ← compatibility wrapper
+  ordbokene/             ← pipeline modules (client, extract, build, prompt, audio, …)
   enrich_pronunciation.py
   generate_audio.py
-  ordbokene/             ← pipeline modules
+  upload_audio.py
+  release.sh
 docs/                    ← schema, data sources, audio strategy
 ```
 
@@ -123,11 +175,22 @@ Each lemma JSON entry:
   "definitions": [
     {
       "text": "ol som blir drukket ute i fint ver",
-      "translation": "beer enjoyed outside in good weather"
+      "translation": "beer enjoyed outside in good weather",
+      "examples": [
+        {
+          "no": "vi tok en utepils i solen",
+          "en": "we had an outdoor beer in the sun"
+        }
+      ]
     }
   ]
 }
 ```
+
+Each definition carries up to two example sentences as `{ "no", "en" }` pairs:
+the original Norwegian and its English translation, produced in the same LLM call
+as the sense. Entries built from the reuse path (pre-example data) have `en: ""`
+until backfilled.
 
 Full field reference: [`docs/schema.md`](docs/schema.md).
 
@@ -135,7 +198,7 @@ Full field reference: [`docs/schema.md`](docs/schema.md).
 
 ## Audio Hosting
 
-Audio (`data/audio/`) is gitignored — it stays out of git so the repo is light
+Audio (`data/export/audio/`) is gitignored — it stays out of git so the repo is light
 to clone. The MP3s are served from object storage and streamed by the app on
 demand.
 
@@ -174,9 +237,17 @@ backup of the paid, non-reproducible TTS audio.
 
 ```bash
 uv sync --dev
-uv run pytest scripts/test_translate.py
+uv run pytest scripts/
 uv run ruff check
 ```
+
+---
+
+## Roadmap
+
+- **CI quality gates** — schema validation and coverage-regression checks over the exported dataset on every push.
+- **Eval harness** — deterministic data checks plus an LLM-judge pass on a curated golden set, with committed eval reports per gloss model.
+- **Frequency & difficulty data** — corpus-derived frequency ranks and heuristic difficulty tiers per lemma.
 
 ---
 
@@ -190,5 +261,5 @@ uv run ruff check
 
 Full attribution: [`docs/data-sources.md`](docs/data-sources.md) · License: [`LICENSE`](LICENSE) · [`NOTICE`](NOTICE)
 
-> The source dictionary data in `data/articles/` and derived data in `data/lemma/`
+> The source dictionary data in `data/articles/` and derived data in `data/export/lemma/`
 > remain subject to the Ordbokene attribution and CC BY 4.0 terms.

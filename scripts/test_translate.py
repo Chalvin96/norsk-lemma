@@ -4,6 +4,12 @@ from pathlib import Path
 
 import translate
 from ordbokene import pipeline
+from ordbokene.review import (
+    TranslationReviewItem,
+    build_review_prompt,
+    collect_translation_reviews,
+    parse_review_response,
+)
 
 
 def test_extract_senses_merges_sub_definition_examples_and_skips_subarticles() -> None:
@@ -200,6 +206,8 @@ def test_build_prompt_includes_examples_under_sense() -> None:
                         "examples": [
                             "han gikk hjem",
                             "de gikk fort",
+                            "tre forsok",
+                            "fjerde eksempel",
                             "should be capped",
                         ],
                     }
@@ -209,9 +217,98 @@ def test_build_prompt_includes_examples_under_sense() -> None:
     )
 
     assert "source_id 3: move on foot" in prompt
+    # Norwegian examples are SHOWN as read-only gloss context, capped at MAX_EXAMPLES=4.
     assert "example: han gikk hjem" in prompt
-    assert "example: de gikk fort" in prompt
+    assert "example: fjerde eksempel" in prompt
     assert "should be capped" not in prompt
+
+
+def test_build_prompt_includes_definition_text_when_no_examples() -> None:
+    prompt = translate.build_prompt(
+        [
+            {
+                "article_id": 1,
+                "lemmas": ["gå"],
+                "hgno": 0,
+                "tags": ["VERB"],
+                "pos": "VERB",
+                "is_expression": False,
+                "definitions": [{"source_id": 3, "text": "move on foot"}],
+            }
+        ]
+    )
+    # Definition text is still present even with no examples shown.
+    assert "source_id 3: move on foot" in prompt
+
+
+def test_collect_translation_reviews_includes_primary_definitions_and_examples(tmp_path: Path) -> None:
+    lemma_dir = tmp_path / "lemma"
+    lemma_dir.mkdir()
+    (lemma_dir / "123.json").write_text(
+        json.dumps(
+            {
+                "lemmas": [{"lemma": "gå", "primary_translation": "walk"}],
+                "definitions": [
+                    {
+                        "text": "flytte seg til fots",
+                        "translation": "move on foot",
+                        "examples": [{"no": "han gikk hjem", "en": "he walked home"}],
+                    }
+                ],
+            }
+        ),
+        encoding="utf-8",
+    )
+
+    items = collect_translation_reviews(lemma_dir)
+
+    assert len(items) == 1
+    assert items[0].article_id == 123
+    assert items[0].lemma == "gå"
+    assert items[0].primary_translation == "walk"
+    assert items[0].definitions == [
+        {
+            "index": 0,
+            "text": "flytte seg til fots",
+            "translation": "move on foot",
+            "examples": [{"no": "han gikk hjem", "en": "he walked home"}],
+        }
+    ]
+
+
+def test_build_review_prompt_checks_all_translation_fields() -> None:
+    prompt = build_review_prompt(
+        [
+            TranslationReviewItem(
+                article_id=1,
+                lemma="gå",
+                primary_translation="walk",
+                definitions=[
+                    {
+                        "index": 0,
+                        "text": "flytte seg til fots",
+                        "translation": "move on foot",
+                        "examples": [{"no": "han gikk hjem", "en": "he walked home"}],
+                    }
+                ],
+            )
+        ]
+    )
+
+    assert "`primary_translation`" in prompt
+    assert 'definition `translation`' in prompt
+    assert "example `en`" in prompt
+    assert "primary_mismatch" in prompt
+    assert "definitions[0].translation" in prompt
+    assert "definitions[0].examples[0].en" in prompt
+
+
+def test_parse_review_response_accepts_fenced_json() -> None:
+    parsed = parse_review_response(
+        '```json\n{"issues": [{"id": 0, "field": "primary_translation"}]}\n```'
+    )
+
+    assert parsed == {"issues": [{"id": 0, "field": "primary_translation"}]}
 
 
 def test_build_prompt_includes_part_of_speech_when_present() -> None:
@@ -347,32 +444,32 @@ def _article_with_pos(pos_tag: str) -> dict:
     }
 
 
-def test_build_lemma_pos_prep() -> None:
+def test_build_lemma_assigns_prep_tag_to_pos_field() -> None:
     lemma = translate.build_lemma(_article_with_pos("PREP"), {}, 1)
     assert lemma["lemmas"][0]["pos"] == "PREP"
 
 
-def test_build_lemma_pos_pron() -> None:
+def test_build_lemma_assigns_pron_tag_to_pos_field() -> None:
     lemma = translate.build_lemma(_article_with_pos("PRON"), {}, 1)
     assert lemma["lemmas"][0]["pos"] == "PRON"
 
 
-def test_build_lemma_pos_conj() -> None:
+def test_build_lemma_assigns_conj_tag_to_pos_field() -> None:
     lemma = translate.build_lemma(_article_with_pos("CONJ"), {}, 1)
     assert lemma["lemmas"][0]["pos"] == "CONJ"
 
 
-def test_build_lemma_pos_interj() -> None:
+def test_build_lemma_assigns_interj_tag_to_pos_field() -> None:
     lemma = translate.build_lemma(_article_with_pos("INTERJ"), {}, 1)
     assert lemma["lemmas"][0]["pos"] == "INTERJ"
 
 
-def test_build_lemma_pos_det() -> None:
+def test_build_lemma_assigns_det_tag_to_pos_field() -> None:
     lemma = translate.build_lemma(_article_with_pos("DET"), {}, 1)
     assert lemma["lemmas"][0]["pos"] == "DET"
 
 
-def test_build_lemma_pos_num() -> None:
+def test_build_lemma_assigns_num_tag_to_pos_field() -> None:
     lemma = translate.build_lemma(_article_with_pos("NUM"), {}, 1)
     assert lemma["lemmas"][0]["pos"] == "NUM"
 
@@ -382,7 +479,7 @@ def test_build_lemma_pos_unknown_tag_falls_back_to_unknown() -> None:
     assert lemma["lemmas"][0]["pos"] == "UNKNOWN"
 
 
-def test_build_lemma_produces_correct_shape() -> None:
+def test_build_lemma_produces_lemma_with_translations_pos_and_word_forms() -> None:
     raw_dict = {
         "article_id": 14903,
         "lemmas": [
@@ -440,7 +537,7 @@ def test_build_lemma_produces_correct_shape() -> None:
     assert any(wf["word_form"] == "fisk" for wf in lemma["lemmas"][0]["word_forms"])
 
 
-def test_build_lemma_handles_redirect() -> None:
+def test_build_lemma_emits_cross_reference_when_definition_is_redirect() -> None:
     raw_dict = {
         "article_id": 99999,
         "lemmas": [{"id": 1, "lemma": "praktildkvede", "hgno": 1, "paradigm_info": []}],
@@ -499,12 +596,12 @@ def test_collect_pending_force_returns_all(tmp_path: Path) -> None:
     assert len(pending) == 2
 
 
-def test_render_item_handles_fraction() -> None:
+def test_render_item_formats_fraction_as_numerator_over_denominator() -> None:
     item = {"numerator": 1, "denominator": 2}
     assert translate._render_item(item) == "1/2"
 
 
-def test_render_item_handles_language_abbreviation(monkeypatch) -> None:
+def test_render_item_expands_language_abbreviation_to_full_form(monkeypatch) -> None:
     monkeypatch.setitem(translate.ABBREVIATIONS, "lang_en", "English")
     item = {"id": "lang_en"}
     assert translate._render_item(item) == "English"
@@ -604,6 +701,217 @@ def test_build_lemma_repeated_source_id_preserves_order() -> None:
     assert len(lemma["definitions"]) == 2
     assert lemma["definitions"][0]["translation"] == "not urgent"
     assert lemma["definitions"][1]["translation"] == "not important"
+
+
+def test_build_lemma_pairs_norwegian_examples_with_english_by_index() -> None:
+    raw_dict = {
+        "article_id": 1,
+        "lemmas": [{"id": 1, "lemma": "gå", "hgno": 1, "paradigm_info": []}],
+        "body": {
+            "definitions": [
+                {
+                    "type_": "definition",
+                    "id": 2,
+                    "elements": [
+                        {"type_": "explanation", "content": "move on foot", "items": []},
+                        {"type_": "example", "quote": {"content": "han gikk hjem"}},
+                        {"type_": "example", "quote": {"content": "de gikk fort"}},
+                    ],
+                }
+            ]
+        },
+    }
+    llm_result = {
+        "definitions": [
+            {
+                "source_id": 2,
+                "translation": "walk",
+                "examples": ["he walked home", "they walked fast"],
+            }
+        ],
+        "lemma_primary": "walk",
+    }
+
+    lemma = translate.build_lemma(raw_dict, llm_result, 1)
+
+    examples = lemma["definitions"][0]["examples"]
+    assert examples == [
+        {"no": "han gikk hjem", "en": "he walked home"},
+        {"no": "de gikk fort", "en": "they walked fast"},
+    ]
+
+
+def test_build_lemma_caps_output_examples_to_max_examples() -> None:
+    raw_dict = {
+        "article_id": 1,
+        "lemmas": [{"id": 1, "lemma": "gå", "hgno": 1, "paradigm_info": []}],
+        "body": {
+            "definitions": [
+                {
+                    "type_": "definition",
+                    "id": 2,
+                    "elements": [
+                        {"type_": "explanation", "content": "move on foot", "items": []},
+                        {"type_": "example", "quote": {"content": "first"}},
+                        {"type_": "example", "quote": {"content": "second"}},
+                        {"type_": "example", "quote": {"content": "third"}},
+                        {"type_": "example", "quote": {"content": "fourth"}},
+                        {"type_": "example", "quote": {"content": "fifth"}},
+                    ],
+                }
+            ]
+        },
+    }
+    llm_result = {
+        "definitions": [
+            {
+                "source_id": 2,
+                "translation": "walk",
+                "examples": ["en first", "en second", "en third", "en fourth"],
+            }
+        ],
+        "lemma_primary": "walk",
+    }
+
+    lemma = translate.build_lemma(raw_dict, llm_result, 1)
+
+    examples = lemma["definitions"][0]["examples"]
+    assert len(examples) == 4
+    assert examples[0] == {"no": "first", "en": "en first"}
+    assert examples[1] == {"no": "second", "en": "en second"}
+    assert examples[3] == {"no": "fourth", "en": "en fourth"}
+
+
+def test_build_lemma_pads_en_with_empty_when_model_returns_fewer() -> None:
+    raw_dict = {
+        "article_id": 1,
+        "lemmas": [{"id": 1, "lemma": "gå", "hgno": 1, "paradigm_info": []}],
+        "body": {
+            "definitions": [
+                {
+                    "type_": "definition",
+                    "id": 2,
+                    "elements": [
+                        {"type_": "explanation", "content": "move on foot", "items": []},
+                        {"type_": "example", "quote": {"content": "first"}},
+                        {"type_": "example", "quote": {"content": "second"}},
+                    ],
+                }
+            ]
+        },
+    }
+    # Model returned only one example translation
+    llm_result = {
+        "definitions": [
+            {
+                "source_id": 2,
+                "translation": "walk",
+                "examples": ["en first"],
+            }
+        ],
+        "lemma_primary": "walk",
+    }
+
+    lemma = translate.build_lemma(raw_dict, llm_result, 1)
+
+    examples = lemma["definitions"][0]["examples"]
+    assert examples == [
+        {"no": "first", "en": "en first"},
+        {"no": "second", "en": ""},
+    ]
+
+
+def test_build_lemma_repeated_source_id_pops_per_definition_examples_in_order() -> None:
+    raw_dict = {
+        "article_id": 1,
+        "lemmas": [{"id": 1, "lemma": "gå", "hgno": 1, "paradigm_info": []}],
+        "body": {
+            "definitions": [
+                {
+                    "type_": "definition",
+                    "id": 2,
+                    "elements": [
+                        {"type_": "explanation", "content": "sense one", "items": []},
+                        {"type_": "example", "quote": {"content": "ex one"}},
+                        {"type_": "explanation", "content": "sense two", "items": []},
+                        {"type_": "example", "quote": {"content": "ex two"}},
+                    ],
+                }
+            ]
+        },
+    }
+    llm_result = {
+        "definitions": [
+            {"source_id": 2, "translation": "one", "examples": ["en one"]},
+            {"source_id": 2, "translation": "two", "examples": ["en two"]},
+        ],
+        "lemma_primary": "walk",
+    }
+
+    lemma = translate.build_lemma(raw_dict, llm_result, 1)
+
+    assert len(lemma["definitions"]) == 2
+    assert lemma["definitions"][0]["translation"] == "one"
+    assert lemma["definitions"][0]["examples"] == [{"no": "ex one", "en": "en one"}]
+    assert lemma["definitions"][1]["translation"] == "two"
+    assert lemma["definitions"][1]["examples"] == [{"no": "ex two", "en": "en two"}]
+
+
+def test_build_lemma_empty_queue_yields_empty_translation_and_examples() -> None:
+    raw_dict = {
+        "article_id": 1,
+        "lemmas": [{"id": 1, "lemma": "gå", "hgno": 1, "paradigm_info": []}],
+        "body": {
+            "definitions": [
+                {
+                    "type_": "definition",
+                    "id": 2,
+                    "elements": [
+                        {"type_": "explanation", "content": "move on foot", "items": []},
+                        {"type_": "example", "quote": {"content": "han gikk"}},
+                    ],
+                }
+            ]
+        },
+    }
+    # No matching source_id in the LLM result
+    llm_result = {"definitions": [], "lemma_primary": ""}
+
+    lemma = translate.build_lemma(raw_dict, llm_result, 1)
+
+    assert lemma["definitions"][0]["translation"] == ""
+    assert lemma["definitions"][0]["examples"] == [{"no": "han gikk", "en": ""}]
+
+
+def test_build_lemma_reuse_path_emits_empty_en_for_examples() -> None:
+    """R1: extract_existing_translations returns no examples key, so reused
+    entries emit en="" for every example. This is deliberate."""
+    raw_dict = {
+        "article_id": 1,
+        "lemmas": [{"id": 1, "lemma": "gå", "hgno": 1, "paradigm_info": []}],
+        "body": {
+            "definitions": [
+                {
+                    "type_": "definition",
+                    "id": 2,
+                    "elements": [
+                        {"type_": "explanation", "content": "move on foot", "items": []},
+                        {"type_": "example", "quote": {"content": "han gikk hjem"}},
+                    ],
+                }
+            ]
+        },
+    }
+    # Simulates extract_existing_translations output: no "examples" key.
+    llm_result = {
+        "definitions": [{"source_id": 2, "translation": "walk"}],
+        "lemma_primary": "walk",
+    }
+
+    lemma = translate.build_lemma(raw_dict, llm_result, 1)
+
+    assert lemma["definitions"][0]["translation"] == "walk"
+    assert lemma["definitions"][0]["examples"] == [{"no": "han gikk hjem", "en": ""}]
 
 
 def test_build_lemma_given_hgno_zero_preserves_zero() -> None:
@@ -1080,17 +1388,30 @@ def test_generate_audio_dry_run_lists_jobs_without_google_import(tmp_path: Path,
     assert "bønner" in captured.out
 
 
-def test_generate_audio_with_fake_synthesizer_writes_manifest_and_enriched_json(tmp_path: Path) -> None:
+def test_generate_audio_with_fake_synthesizer_writes_manifest_and_enriches_articles(tmp_path: Path) -> None:
     import generate_audio
 
     lemma_dir = tmp_path / "lemma"
     audio_dir = tmp_path / "audio"
+    articles_dir = tmp_path / "articles"
     lemma_dir.mkdir()
+    articles_dir.mkdir()
     (lemma_dir / "1.json").write_text(
         json.dumps(
             {
                 "source_article_id": 1,
                 "lemmas": [{"lemma": "bønner", "source_lemma_id": 10, "is_sub_article": False, "word_forms": []}],
+            },
+            ensure_ascii=False,
+        ),
+        encoding="utf-8",
+    )
+    (articles_dir / "1.json").write_text(
+        json.dumps(
+            {
+                "article_id": 1,
+                "lemmas": [{"lemma": "bønner", "id": 10}],
+                "body": {"definitions": []},
             },
             ensure_ascii=False,
         ),
@@ -1111,6 +1432,7 @@ def test_generate_audio_with_fake_synthesizer_writes_manifest_and_enriched_json(
         force=False,
         confirm_cost=False,
         price_per_million_chars=30.0,
+        articles_dir=articles_dir,
         synthesize=fake_synthesize,
     )
 
@@ -1120,10 +1442,80 @@ def test_generate_audio_with_fake_synthesizer_writes_manifest_and_enriched_json(
     assert item["file"].endswith(".mp3")
     assert item["path"] == f"audio/lemma/google/nb-NO-Chirp3-HD-Aoede/{item['file']}"
     assert item["content_sha256"]
-    # audio fields written in-place into lemma_dir
-    audio = json.loads((lemma_dir / "1.json").read_text(encoding="utf-8"))["lemmas"][0]["audio"]["lemma"][0]
+    # Audio fields are embedded into articles/ as the source of truth; export propagates them to lemma/.
+    audio = json.loads((articles_dir / "1.json").read_text(encoding="utf-8"))["lemmas"][0]["audio"]["lemma"][0]
     assert audio["file"] == item["file"]
     assert audio["content_sha256"] == item["content_sha256"]
+
+
+def test_generate_audio_manifest_tracks_all_articles_for_shared_audio(tmp_path: Path) -> None:
+    import generate_audio
+
+    lemma_dir = tmp_path / "lemma"
+    audio_dir = tmp_path / "audio"
+    articles_dir = tmp_path / "articles"
+    lemma_dir.mkdir()
+    articles_dir.mkdir()
+
+    for article_id, source_lemma_id in [(1, 10), (2, 20)]:
+        (lemma_dir / f"{article_id}.json").write_text(
+            json.dumps(
+                {
+                    "source_article_id": article_id,
+                    "lemmas": [
+                        {
+                            "lemma": "bønner",
+                            "source_lemma_id": source_lemma_id,
+                            "is_sub_article": False,
+                            "word_forms": [],
+                        }
+                    ],
+                },
+                ensure_ascii=False,
+            ),
+            encoding="utf-8",
+        )
+        (articles_dir / f"{article_id}.json").write_text(
+            json.dumps(
+                {
+                    "article_id": article_id,
+                    "lemmas": [{"lemma": "bønner", "id": source_lemma_id}],
+                    "body": {"definitions": []},
+                },
+                ensure_ascii=False,
+            ),
+            encoding="utf-8",
+        )
+
+    def fake_synthesize(_job, output_path: Path) -> None:
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        output_path.write_bytes(b"fake mp3")
+
+    rc = generate_audio.run(
+        lemma_dir=lemma_dir,
+        audio_dir=audio_dir,
+        voice="nb-NO-Chirp3-HD-Aoede",
+        language_code="nb-NO",
+        dry_run=False,
+        limit=2,
+        force=False,
+        confirm_cost=False,
+        price_per_million_chars=30.0,
+        articles_dir=articles_dir,
+        synthesize=fake_synthesize,
+    )
+
+    assert rc == 0
+    manifest = json.loads((audio_dir / "manifest-google-nb-NO-Chirp3-HD-Aoede.json").read_text(encoding="utf-8"))
+    assert len(manifest["items"]) == 1
+    item = manifest["items"][0]
+    assert item["article_ids"] == [1, 2]
+    assert item["source_lemma_ids"] == [10, 20]
+
+    for article_id in [1, 2]:
+        article = json.loads((articles_dir / f"{article_id}.json").read_text(encoding="utf-8"))
+        audio = article["lemmas"][0]["audio"]["lemma"][0]
+        assert audio["file"] == item["file"]
 
 
 def test_ordbokene_cli_has_audio_subcommand() -> None:
@@ -1136,10 +1528,176 @@ def test_ordbokene_cli_has_audio_subcommand() -> None:
     assert args.dry_run is True
 
 
+def test_ordbokene_cli_has_review_subcommand() -> None:
+    from ordbokene.cli import build_parser
+
+    args = build_parser().parse_args(
+        ["review", "--review-model", "openai/gpt-5.4", "--limit", "7", "--dry-run"]
+    )
+
+    assert args.command == "review"
+    assert args.review_model == "openai/gpt-5.4"
+    assert args.limit == 7
+    assert args.dry_run is True
+
+
 def test_release_script_builds_both_archives() -> None:
     script = Path("scripts/release.sh").read_text(encoding="utf-8")
 
     assert "norsk-lemma-${tag}.tar.gz" in script
     assert "norsk-lemma-audio-google-${tag}.tar.gz" in script
-    assert "data/audio" in script
+    assert "data/export/audio" in script
     assert "gh release create" in script
+
+
+def test_request_translations_uses_selected_harness(monkeypatch) -> None:
+    """config.harness picks the PROVIDERS entry; result keyed back by batch index."""
+    from argparse import Namespace
+
+    from ordbokene import client
+
+    captured = {}
+
+    def fake_provider(session, llm_config, prompt, *, max_tokens=0):
+        captured["harness"] = llm_config.harness
+        captured["model"] = llm_config.model
+        return '{"7": {"lemma_primary": "fish", "definitions": []}}'
+
+    monkeypatch.setitem(client.PROVIDERS, "codex", fake_provider)
+
+    batch = [(7, {"article_id": 7, "lemmas": [{"lemma": "fisk"}], "body": {"definitions": []}})]
+    config = Namespace(model="gpt-x", harness="codex", max_retries=1, retry_delay=0, reasoning_effort="high")
+    result = client.request_translations(None, config, batch)
+
+    assert captured == {"harness": "codex", "model": "gpt-x"}
+    assert result[0] == {"lemma_primary": "fish", "definitions": []}
+
+
+def test_request_translations_defaults_to_openrouter(monkeypatch) -> None:
+    from argparse import Namespace
+
+    from ordbokene import client
+
+    seen = {}
+
+    def fake_provider(session, llm_config, prompt, *, max_tokens=0):
+        seen["harness"] = llm_config.harness
+        return "{}"
+
+    monkeypatch.setitem(client.PROVIDERS, "openrouter", fake_provider)
+
+    batch = [(7, {"article_id": 7, "lemmas": [{"lemma": "fisk"}], "body": {"definitions": []}})]
+    config = Namespace(model="m", max_retries=1, retry_delay=0)  # no harness attr
+    client.request_translations(None, config, batch)
+    assert seen["harness"] == "openrouter"
+
+
+def test_parser_translate_accepts_harness_and_effort() -> None:
+    from ordbokene.cli import build_parser
+
+    args = build_parser().parse_args(
+        ["translate", "--harness", "codex", "--reasoning-effort", "high"]
+    )
+    assert args.harness == "codex"
+    assert args.reasoning_effort == "high"
+
+
+def test_parser_translate_harness_defaults_to_openrouter() -> None:
+    from ordbokene.cli import build_parser
+
+    args = build_parser().parse_args(["translate"])
+    assert args.harness == "openrouter"
+    assert args.reasoning_effort is None
+
+
+def test_parser_rejects_unknown_harness() -> None:
+    import pytest
+    from ordbokene.cli import build_parser
+
+    with pytest.raises(SystemExit):
+        build_parser().parse_args(["translate", "--harness", "gpt4all"])
+
+
+def test_request_translations_unknown_harness_returns_error() -> None:
+    from argparse import Namespace
+
+    from ordbokene import client
+
+    batch = [(7, {"article_id": 7, "lemmas": [{"lemma": "x"}], "body": {"definitions": []}})]
+    config = Namespace(model="m", harness="bogus", max_retries=1, retry_delay=0)
+    result = client.request_translations(None, config, batch)
+    assert result[0].startswith("unknown_harness")
+
+
+def test_request_translations_warns_when_effort_ignored(monkeypatch, caplog) -> None:
+    import logging
+    from argparse import Namespace
+
+    from ordbokene import client
+
+    def fake_provider(session, cfg, prompt, *, max_tokens=0):
+        return "{}"
+
+    monkeypatch.setitem(client.PROVIDERS, "claude", fake_provider)
+    batch = [(7, {"article_id": 7, "lemmas": [{"lemma": "x"}], "body": {"definitions": []}})]
+    config = Namespace(
+        model="m", harness="claude", max_retries=1, retry_delay=0, reasoning_effort="high"
+    )
+    with caplog.at_level(logging.WARNING):
+        client.request_translations(None, config, batch)
+    assert any("reasoning-effort is ignored" in r.message for r in caplog.records)
+
+
+def test_request_translation_review_uses_selected_harness(monkeypatch) -> None:
+    """Review routes through the same PROVIDERS registry, at temperature 0.0."""
+    from argparse import Namespace
+
+    from ordbokene import review
+    from ordbokene.review import TranslationReviewItem
+
+    captured = {}
+
+    def fake_provider(session, cfg, prompt, *, max_tokens=0, temperature=0.1):
+        captured["harness"] = cfg.harness
+        captured["model"] = cfg.model
+        captured["temperature"] = temperature
+        return '{"issues": []}'
+
+    monkeypatch.setitem(review.PROVIDERS, "codex", fake_provider)
+    items = [
+        TranslationReviewItem(
+            article_id=7, lemma="fisk", primary_translation="fish",
+            definitions=[{"text": "vanndyr", "translation": "aquatic animal"}],
+        )
+    ]
+    config = Namespace(
+        review_model="gpt-x", harness="codex", max_retries=1, retry_delay=0, reasoning_effort="high"
+    )
+    result = review.request_translation_review(None, config, items)
+
+    assert captured == {"harness": "codex", "model": "gpt-x", "temperature": 0.0}
+    assert result == {"issues": []}
+
+
+def test_request_translation_review_unknown_harness_returns_error() -> None:
+    from argparse import Namespace
+
+    from ordbokene import review
+    from ordbokene.review import TranslationReviewItem
+
+    items = [
+        TranslationReviewItem(
+            article_id=7, lemma="fisk", primary_translation="fish", definitions=[],
+        )
+    ]
+    config = Namespace(review_model="m", harness="bogus", max_retries=1, retry_delay=0)
+    result = review.request_translation_review(None, config, items)
+    assert isinstance(result, str) and result.startswith("unknown_harness")
+
+
+def test_parser_review_accepts_harness() -> None:
+    from ordbokene.cli import build_parser
+
+    args = build_parser().parse_args(["review", "--harness", "droid", "--reasoning-effort", "medium"])
+    assert args.harness == "droid"
+    assert args.reasoning_effort == "medium"

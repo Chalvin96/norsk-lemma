@@ -3,8 +3,8 @@ from __future__ import annotations
 from collections import defaultdict, deque
 from typing import Any
 
-from .extract import extract_cross_reference, extract_definitions
-from .settings import KNOWN_POS, UD_TAG_ALIASES
+from .extract import extract_cross_reference, extract_definitions, extract_see_also
+from .settings import KNOWN_POS, MAX_EXAMPLES, UD_TAG_ALIASES
 
 MORPHOLOGY_TAGS = {
     "Masc": "Masc",
@@ -28,24 +28,59 @@ def build_lemma(
         or raw_dict.get("article_type") == "SUB_ARTICLE"
     )
     cross_reference = extract_cross_reference(raw_dict)
+    see_also = extract_see_also(raw_dict)
 
     definitions: list[dict[str, Any]] = []
     primary_translation: str | None = None
 
     if cross_reference is None and isinstance(llm_result, dict):
-        llm_queue: dict[int, deque[str]] = defaultdict(deque)
+        # Each queue entry holds {"translation": str, "examples": list[str]}.
+        # The examples list is the English translations returned by the model,
+        # order-aligned with the Norwegian examples shown in the prompt.
+        llm_queue: dict[int, deque[dict[str, Any]]] = defaultdict(deque)
         for llm_definition in llm_result.get("definitions", []):
             if isinstance(llm_definition, dict) and llm_definition.get("source_id") is not None:
-                llm_queue[llm_definition["source_id"]].append(llm_definition.get("translation", ""))
+                # Built defensively so the reuse path (extract_existing_translations,
+                # which returns definitions with no "examples" key) safely emits
+                # examples with en="". This is DELIBERATE, not a bug: reused /
+                # pre-v2 entries get blank English example text until backfilled.
+                llm_queue[llm_definition["source_id"]].append(
+                    {
+                        "translation": llm_definition.get("translation", ""),
+                        "examples": llm_definition.get("examples", []),
+                    }
+                )
 
         for definition in extract_definitions(raw_dict):
             source_id = definition.get("source_id")
             queue = llm_queue.get(source_id)
+            # Empty-queue fallback: dict analog of the previous "" if not queue.
+            entry: dict[str, Any] = queue.popleft() if queue else {
+                "translation": "",
+                "examples": [],
+            }
+
+            norwegian_examples = definition.get("examples", [])[:MAX_EXAMPLES]
+            english_examples = entry.get("examples", []) if isinstance(
+                entry.get("examples"), list
+            ) else []
+
+            # Positional zip of Norwegian with returned English; pad en="" when
+            # the model returns fewer entries than examples shown.
+            paired_examples = [
+                {"no": no_text, "en": en_text if isinstance(en_text, str) else ""}
+                for no_text, en_text in zip(
+                    norwegian_examples,
+                    [*english_examples, *[""] * len(norwegian_examples)],
+                    strict=False,
+                )
+            ]
+
             definitions.append(
                 {
                     "text": definition["text"],
-                    "translation": queue.popleft() if queue else "",
-                    "examples": definition.get("examples", []),
+                    "translation": entry.get("translation", ""),
+                    "examples": paired_examples,
                 }
             )
 
@@ -67,36 +102,44 @@ def build_lemma(
             {"word_form": form, "tags_json": tags, "pronunciation": pron}
             for form, (tags, pron) in _collect_word_forms(lemma).items()
         ]
-        lemma_entries.append(
-            {
-                "lemma": lemma.get("lemma", ""),
-                "hgno": lemma.get("hgno") if lemma.get("hgno") is not None else 1,
-                "pos": pos or "UNKNOWN",
-                "source_lemma_id": lemma.get("id"),
-                "is_sub_article": is_sub_article or is_expression,
-                "primary_translation": None if is_expression else primary_translation,
-                "word_forms": word_forms,
-            }
-        )
+        entry: dict[str, Any] = {
+            "lemma": lemma.get("lemma", ""),
+            "hgno": lemma.get("hgno") if lemma.get("hgno") is not None else 1,
+            "pos": pos or "UNKNOWN",
+            "source_lemma_id": lemma.get("id"),
+            "is_sub_article": is_sub_article or is_expression,
+            "primary_translation": None if is_expression else primary_translation,
+            "word_forms": word_forms,
+        }
+        # Audio is round-tripped through the raw article lemma (embedded by the
+        # audio step), so a re-export reproduces it losslessly instead of wiping
+        # in-place lemma audio. Mirrors the example/definition translation flow.
+        audio = lemma.get("audio")
+        if audio:
+            entry["audio"] = audio
+        lemma_entries.append(entry)
 
     if not lemma_entries and lemmas_raw:
-        lemma_entries.append(
-            {
-                "lemma": lemmas_raw[0].get("lemma", ""),
-                "hgno": 1,
-                "pos": "UNKNOWN",
-                "source_lemma_id": lemmas_raw[0].get("id"),
-                "is_sub_article": is_sub_article,
-                "primary_translation": primary_translation,
-                "word_forms": [],
-            }
-        )
+        fallback: dict[str, Any] = {
+            "lemma": lemmas_raw[0].get("lemma", ""),
+            "hgno": 1,
+            "pos": "UNKNOWN",
+            "source_lemma_id": lemmas_raw[0].get("id"),
+            "is_sub_article": is_sub_article,
+            "primary_translation": primary_translation,
+            "word_forms": [],
+        }
+        audio = lemmas_raw[0].get("audio")
+        if audio:
+            fallback["audio"] = audio
+        lemma_entries.append(fallback)
 
     return {
         "source_article_id": article_id,
         "lemmas": lemma_entries,
         "cross_reference": cross_reference,
         "definitions": definitions,
+        "see_also": see_also,
     }
 
 

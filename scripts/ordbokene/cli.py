@@ -1,14 +1,18 @@
 """Unified CLI for the Bokmål lexicon data pipeline.
 
 Stages in order:
-  fetch      Download raw article JSONs from Ordbøkene into data/articles/.
-  hydrate    Embed translations from an existing lemma/ release into articles
-             (alternative to running translate; no LLM needed).
-  translate  Call LLM for untranslated articles; embed results back into articles.
-  pronounce  Enrich articles with IPA pronunciation in-place.
-  export     Build tracked lemma/ from enriched articles (no LLM needed).
-  audio      Generate lemma audio from exported lemma JSON.
-  build      Run fetch → translate → pronounce → export in sequence.
+  fetch               Download article JSONs from Ordbøkene into data/articles/.
+  hydrate             Embed translations from an existing lemma/ release into articles
+                      (alternative to running translate; no LLM needed).
+  translate           Call LLM for untranslated articles; embed results back into articles.
+  translate-examples  Call LLM for untranslated example sentences; embed en into articles.
+  pronounce           Enrich articles with IPA pronunciation in-place.
+  export              Build tracked lemma/ from enriched articles (no LLM needed).
+  frequency           Annotate lemma/ with Kelly frequency_rank (post-export).
+  audio               Generate lemma audio from exported lemma JSON.
+  review              Review exported English translations via LLM.
+  apply-review        Apply review suggested_en values back into articles.
+  build               Run fetch → translate → pronounce → export in sequence.
 
 Typical workflow when a release already exists:
   python pipeline.py fetch
@@ -29,19 +33,27 @@ from pathlib import Path
 import requests
 from tqdm import tqdm
 
+from . import frequency
 from .build import build_lemma
 from .client import request_translations
 from .embed import embed_translations, write_article
 from .extract import extract_definitions, extract_existing_translations
 from .io import ExplodedEntry, explode, write_error, write_lemma
+from .review import build_review_prompt, collect_translation_reviews, request_translation_review
 from .settings import (
     DEFAULT_ARTICLES_DIR,
+    DEFAULT_AUDIO_DIR,
     DEFAULT_BATCH_SIZE,
     DEFAULT_ERROR_LOG,
+    DEFAULT_HARNESS,
+    DEFAULT_KELLY_CSV,
+    DEFAULT_KELLY_REPORT,
     DEFAULT_LEMMA_DIR,
     DEFAULT_MODEL,
     DEFAULT_RETRIES,
     DEFAULT_RETRY_DELAY,
+    DEFAULT_REVIEW_MODEL,
+    HARNESS_CHOICES,
     logger,
 )
 from .source import ensure_articles_dir
@@ -57,6 +69,18 @@ def _add_dir_args(p: argparse.ArgumentParser) -> None:
 
 def _add_llm_args(p: argparse.ArgumentParser) -> None:
     p.add_argument("--model", default=DEFAULT_MODEL)
+    p.add_argument(
+        "--harness",
+        default=DEFAULT_HARNESS,
+        choices=HARNESS_CHOICES,
+        help="Transport backend: openrouter (HTTP) or a local agentic CLI.",
+    )
+    p.add_argument(
+        "--reasoning-effort",
+        default=None,
+        metavar="EFFORT",
+        help="Reasoning effort passed to CLI harnesses that support it (ignored by openrouter).",
+    )
     p.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE)
     p.add_argument("--max-retries", type=int, default=DEFAULT_RETRIES)
     p.add_argument("--retry-delay", type=int, default=DEFAULT_RETRY_DELAY)
@@ -346,6 +370,32 @@ def cmd_build(args: argparse.Namespace) -> None:
     cmd_translate(args)
     cmd_pronounce(args)
     cmd_export(args)
+    dry_run = getattr(args, "dry_run", False)
+    frequency.run(
+        args.lemma_dir.resolve(),
+        DEFAULT_KELLY_CSV,
+        None if dry_run else DEFAULT_KELLY_REPORT,
+        dry_run=dry_run,
+    )
+
+
+# ---------------------------------------------------------------------------
+# frequency
+# ---------------------------------------------------------------------------
+
+def cmd_frequency(args: argparse.Namespace) -> None:
+    lemma_dir = args.lemma_dir.resolve()
+    csv_path = args.kelly_csv.resolve()
+    report_path = None if args.dry_run else args.report.resolve()
+    report = frequency.run(lemma_dir, csv_path, report_path, dry_run=args.dry_run)
+    logger.info(
+        "frequency done — %d/%d Kelly keys matched, %d unmatched, %d ambiguous, %d lemmas ranked",
+        report["matched_keys"],
+        report["kelly_entries"],
+        report["unmatched_keys"],
+        report["ambiguous_keys"],
+        report["lemmas_ranked"],
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -361,6 +411,7 @@ def cmd_audio(args: argparse.Namespace) -> None:
 
     generate_audio.run(
         lemma_dir=args.lemma_dir.resolve(),
+        articles_dir=args.articles_dir.resolve(),
         audio_dir=args.audio_dir.resolve(),
         voice=args.voice,
         language_code=args.language_code,
@@ -373,6 +424,72 @@ def cmd_audio(args: argparse.Namespace) -> None:
         list_voices=args.list_voices,
         workers=args.workers,
     )
+
+
+# ---------------------------------------------------------------------------
+# review
+# ---------------------------------------------------------------------------
+
+def cmd_review(args: argparse.Namespace) -> None:
+    lemma_dir = args.lemma_dir.resolve()
+    items = collect_translation_reviews(lemma_dir, limit=args.limit)
+    logger.info("review — %d lemma entries selected", len(items))
+
+    if args.dry_run:
+        print(build_review_prompt(items))
+        return
+
+    result = request_translation_review(requests.Session(), args, items)
+    if not isinstance(result, dict):
+        sys.exit(f"review failed: {result}")
+
+    text = json.dumps(result, ensure_ascii=False, indent=2)
+    if args.output:
+        args.output.write_text(text + "\n", encoding="utf-8")
+        logger.info("review written to %s", args.output)
+    else:
+        print(text)
+
+
+# ---------------------------------------------------------------------------
+# translate-examples
+# ---------------------------------------------------------------------------
+
+def cmd_translate_examples(args: argparse.Namespace) -> None:
+    from .examples import run as run_examples
+
+    articles_dir = args.articles_dir.resolve()
+    count = run_examples(
+        articles_dir,
+        model=args.model,
+        batch_size=args.batch_size,
+        limit=args.limit,
+        force=args.force,
+        dry_run=args.dry_run,
+        provider=args.provider,
+        max_retries=args.max_retries,
+        retry_delay=args.retry_delay,
+        workers=args.workers,
+        reasoning_effort=args.reasoning_effort,
+    )
+    logger.info("translate-examples — %d articles updated", count)
+
+
+# ---------------------------------------------------------------------------
+# apply-review
+# ---------------------------------------------------------------------------
+
+def cmd_apply_review(args: argparse.Namespace) -> None:
+    from .examples import apply_review
+
+    articles_dir = args.articles_dir.resolve()
+    count = apply_review(
+        articles_dir,
+        args.review,
+        severity_threshold=args.severity_threshold,
+        dry_run=args.dry_run,
+    )
+    logger.info("apply-review — %d articles updated", count)
 
 
 # ---------------------------------------------------------------------------
@@ -431,11 +548,21 @@ def build_parser() -> argparse.ArgumentParser:
     _add_dir_args(p_ex)
     _add_run_args(p_ex)
 
+    # frequency
+    p_freq = sub.add_parser(
+        "frequency",
+        help="Annotate lemma/ with Kelly frequency_rank (post-export, in place).",
+    )
+    _add_dir_args(p_freq)
+    p_freq.add_argument("--kelly-csv", type=Path, default=DEFAULT_KELLY_CSV)
+    p_freq.add_argument("--report", type=Path, default=DEFAULT_KELLY_REPORT)
+    p_freq.add_argument("--dry-run", action="store_true")
+
     # audio
     p_audio = sub.add_parser("audio", help="Generate lemma audio with Google Cloud Text-to-Speech.")
     _add_dir_args(p_audio)
     _add_run_args(p_audio)
-    p_audio.add_argument("--audio-dir", type=Path, default=REPO_ROOT / "data" / "audio")
+    p_audio.add_argument("--audio-dir", type=Path, default=DEFAULT_AUDIO_DIR)
     p_audio.add_argument("--voice", default="nb-NO-Chirp3-HD-Aoede")
     p_audio.add_argument("--language-code", default="nb-NO")
     p_audio.add_argument("--enrich-only", action="store_true")
@@ -443,6 +570,75 @@ def build_parser() -> argparse.ArgumentParser:
     p_audio.add_argument("--price-per-million-chars", type=float, default=30.0)
     p_audio.add_argument("--list-voices", action="store_true")
     p_audio.add_argument("--workers", type=int, default=8)
+
+    # review
+    p_review = sub.add_parser("review", help="Review exported English translations via LLM.")
+    _add_dir_args(p_review)
+    p_review.add_argument("--review-model", default=DEFAULT_REVIEW_MODEL)
+    p_review.add_argument(
+        "--harness",
+        default=DEFAULT_HARNESS,
+        choices=HARNESS_CHOICES,
+        help="Transport backend: openrouter (HTTP) or a local agentic CLI.",
+    )
+    p_review.add_argument(
+        "--reasoning-effort",
+        default=None,
+        metavar="EFFORT",
+        help="Reasoning effort passed to CLI harnesses that support it (ignored by openrouter).",
+    )
+    p_review.add_argument("--max-retries", type=int, default=DEFAULT_RETRIES)
+    p_review.add_argument("--retry-delay", type=int, default=DEFAULT_RETRY_DELAY)
+    p_review.add_argument("--limit", type=int, default=100)
+    p_review.add_argument("--dry-run", action="store_true")
+    p_review.add_argument("--output", type=Path)
+
+    # translate-examples
+    p_te = sub.add_parser(
+        "translate-examples",
+        help="Translate example sentences via LLM; embed en into articles.",
+    )
+    _add_dir_args(p_te)
+    p_te.add_argument("--model", default=DEFAULT_MODEL)
+    p_te.add_argument(
+        "--provider",
+        choices=["openrouter", "codex"],
+        default="openrouter",
+        help="LLM provider for example translation. 'codex' uses the local Codex CLI.",
+    )
+    p_te.add_argument("--batch-size", type=int, default=25)
+    p_te.add_argument(
+        "--workers",
+        type=int,
+        default=1,
+        help="Concurrent in-flight LLM requests (bounded). Stops refilling on a "
+        "billing/usage limit; run is resumable.",
+    )
+    p_te.add_argument(
+        "--reasoning-effort",
+        choices=["minimal", "low", "medium", "high"],
+        default=None,
+        help="Codex reasoning effort. Omit to use the Codex config default.",
+    )
+    p_te.add_argument("--max-retries", type=int, default=DEFAULT_RETRIES)
+    p_te.add_argument("--retry-delay", type=int, default=DEFAULT_RETRY_DELAY)
+    p_te.add_argument("--error-log", type=Path, default=DEFAULT_ERROR_LOG)
+    _add_run_args(p_te)
+
+    # apply-review
+    p_ar = sub.add_parser(
+        "apply-review",
+        help="Apply review suggested_en values back into articles.",
+    )
+    _add_dir_args(p_ar)
+    p_ar.add_argument("--review", type=Path, required=True, help="Review issues JSON file.")
+    p_ar.add_argument(
+        "--severity-threshold",
+        default="medium",
+        choices=["low", "medium", "high"],
+        help="Apply issues at or above this severity.",
+    )
+    p_ar.add_argument("--dry-run", action="store_true")
 
     # build
     p_build = sub.add_parser("build", help="Run fetch → translate → pronounce → export.")
@@ -474,9 +670,13 @@ def main() -> None:
         "fetch": cmd_fetch,
         "hydrate": cmd_hydrate,
         "translate": cmd_translate,
+        "translate-examples": cmd_translate_examples,
         "pronounce": cmd_pronounce,
         "export": cmd_export,
+        "frequency": cmd_frequency,
         "audio": cmd_audio,
+        "review": cmd_review,
+        "apply-review": cmd_apply_review,
         "build": cmd_build,
     }
     dispatch[args.command](args)
