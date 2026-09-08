@@ -1,0 +1,8 @@
+target-version = "py312"
+line-length = 100
+
+[lint]
+select = ["E", "F", "I", "UP", "B"]
+# ruff-format handles code line length; E501 only fires on unwrappable
+# strings such as the example lines inside the translation prompt.
+ignore = ["E501"]

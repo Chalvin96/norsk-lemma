@@ -1,0 +1,134 @@
+from __future__ import annotations
+
+import json
+import os
+import tempfile
+import time
+from collections.abc import Iterator
+from pathlib import Path
+from typing import Any
+
+from .settings import logger
+
+ExplodedEntry = tuple[int, dict[str, Any]]
+
+
+def write_text_atomically(path: Path, content: str) -> None:
+    """Write content beside path and replace path atomically.
+
+    A uniquely named sibling temp file keeps the operation on one filesystem;
+    os.replace also replaces an existing destination on Windows.
+    """
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fd, temp_name = tempfile.mkstemp(prefix=f".{path.name}.", suffix=".tmp", dir=path.parent)
+    temp_path = Path(temp_name)
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8", newline="") as handle:
+            handle.write(content)
+            handle.flush()
+            os.fsync(handle.fileno())
+        os.replace(temp_path, path)
+    except BaseException:
+        temp_path.unlink(missing_ok=True)
+        raise
+
+
+def iter_exploded(articles_dir: Path) -> Iterator[ExplodedEntry]:
+    """Stream articles/*.json one file at a time, exploding inline sub-articles.
+
+    Lazy: holds only the current article in memory, so callers that process
+    per-file (e.g. translate-examples over the full corpus) stay at constant
+    memory instead of materializing ~100k article dicts at once.
+    """
+    for file_path in sorted(
+        articles_dir.glob("*.json"),
+        key=lambda path: int(path.stem) if path.stem.isdigit() else path.stem,
+    ):
+        try:
+            data = json.loads(file_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError) as exc:
+            logger.warning("Skipping %s: %s", file_path.name, exc)
+            continue
+
+        if data.get("edit_state") == "På vent":
+            continue
+
+        article_id = data.get("article_id")
+        if article_id is None:
+            continue
+
+        yield article_id, data
+
+        for sub_article in _find_inline_sub_articles(data):
+            sub_id = sub_article.get("article_id")
+            if sub_id is None:
+                continue
+            if (articles_dir / f"{sub_id}.json").exists():
+                continue
+            yield sub_id, _wrap_sub_as_article(article_id, sub_article)
+
+
+def explode(articles_dir: Path) -> list[ExplodedEntry]:
+    """Materialize :func:`iter_exploded` into a list (legacy callers)."""
+    return list(iter_exploded(articles_dir))
+
+
+def _find_inline_sub_articles(data: dict[str, Any]) -> list[dict[str, Any]]:
+    sub_articles: list[dict[str, Any]] = []
+
+    def walk(elements: list[Any]) -> None:
+        for element in elements:
+            if not isinstance(element, dict):
+                continue
+            if element.get("type_") == "sub_article":
+                article = element.get("article")
+                if isinstance(article, dict):
+                    sub_articles.append(article)
+                continue
+            walk(element.get("elements", []))
+
+    walk(data.get("body", {}).get("definitions", []))
+    return sub_articles
+
+
+def _wrap_sub_as_article(parent_article_id: int, sub_article: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "article_id": sub_article.get("article_id"),
+        "_parent_article_id": parent_article_id,
+        "lemmas": sub_article.get("lemmas", []),
+        "body": sub_article.get("body", {}),
+        "edit_state": (sub_article.get("properties") or {}).get("edit_state", "Eksisterende"),
+        "article_type": sub_article.get("article_type", "SUB_ARTICLE"),
+        "word_class": sub_article.get("word_class", ""),
+    }
+
+
+def collect_pending(
+    exploded: list[ExplodedEntry],
+    lemma_dir: Path,
+    force: bool,
+) -> list[ExplodedEntry]:
+    if force:
+        return exploded
+    return [
+        (article_id, raw)
+        for article_id, raw in exploded
+        if not (lemma_dir / f"{article_id}.json").exists()
+    ]
+
+
+def write_lemma(lemma_dir: Path, article_id: int, data: dict[str, Any]) -> Path:
+    lemma_dir.mkdir(parents=True, exist_ok=True)
+    output_path = lemma_dir / f"{article_id}.json"
+    # Trailing newline matches the committed export and the frequency stage's
+    # writer, so export -> frequency doesn't rewrite every file just for a newline.
+    write_text_atomically(output_path, json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+    return output_path
+
+
+def write_error(error_log: Path, file_path: Path, word: str, error: str) -> None:
+    error_log.parent.mkdir(parents=True, exist_ok=True)
+    with error_log.open("a", encoding="utf-8") as handle:
+        handle.write(
+            f"{time.strftime('%Y-%m-%d %H:%M:%S')} | {file_path.name} | {word} | {error}\n"
+        )
