@@ -1,0 +1,127 @@
+{
+  "source_article_id": 31002,
+  "lemmas": [
+    {
+      "lemma": "kommunist",
+      "hgno": 0,
+      "pos": "NOUN",
+      "source_lemma_id": 36513,
+      "is_sub_article": false,
+      "primary_translation": "communist",
+      "word_forms": [
+        {
+          "word_form": "kommunist",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$mu0$\"nI$st",
+              "ipa": "kʊmʉˈnɪst",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kommunisten",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Sing",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$mu0$\"nI$stn=",
+              "ipa": "kʊmʉˈnɪstn̩",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kommunister",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Ind"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$mu0$\"nI$st@r",
+              "ipa": "kʊmʉˈnɪstər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "kommunistene",
+          "tags_json": [
+            "Masc",
+            "m1",
+            "Plur",
+            "Def"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "kU$mu0$\"nI$stn=$@",
+              "ipa": "kʊmʉˈnɪstn̩ə",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "97c87cfe22bf.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/97c87cfe22bf.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/97c87cfe22bf.mp3",
+            "text": "kommunist",
+            "source": "generated",
+            "content_sha256": "d5a4ba8e4270b7397c381a82ea1a8adad2d9b5009c104f9ac9f183555dd55b17",
+            "tone": 1
+          }
+        ]
+      },
+      "frequency_rank": 3737
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "tilhenger av kommunisme",
+      "translation": "supporter of communism",
+      "examples": [
+        {
+          "no": "kommunister og sosialister",
+          "en": "communists and socialists"
+        },
+        {
+          "no": "hun er gammel kommunist",
+          "en": "she is an old communist"
+        }
+      ]
+    }
+  ]
+}

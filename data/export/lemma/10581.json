@@ -1,0 +1,188 @@
+{
+  "source_article_id": 10581,
+  "lemmas": [
+    {
+      "lemma": "domfelle",
+      "hgno": 0,
+      "pos": "VERB",
+      "source_lemma_id": 12373,
+      "is_sub_article": false,
+      "primary_translation": "convict",
+      "word_forms": [
+        {
+          "word_form": "domfelle",
+          "tags_json": [
+            "verb",
+            "Inf"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dOm$%fE$l@",
+              "ipa": "ˈdɔmˌfɛlə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "domfeller",
+          "tags_json": [
+            "verb",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"dOm$%fE$l@r",
+              "ipa": "ˈdɔmˌfɛlər",
+              "tone": 1,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 1"
+            }
+          ]
+        },
+        {
+          "word_form": "domfelles",
+          "tags_json": [
+            "verb",
+            "Inf",
+            "Pass",
+            "Pres"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dOm$%fE$l@s",
+              "ipa": "ˈdɔmˌfɛləs",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "domfelte",
+          "tags_json": [
+            "verb",
+            "Past",
+            "Adj",
+            "<PerfPart>",
+            "Def",
+            "Sing",
+            "Plur"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dOm$%fEl$t@",
+              "ipa": "ˈdɔmˌfɛltə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "domfelt",
+          "tags_json": [
+            "verb",
+            "<PerfPart>",
+            "Adj",
+            "Neuter",
+            "Ind",
+            "Sing",
+            "Masc/Fem"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dOm$%fElt",
+              "ipa": "ˈdɔmˌfɛlt",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "domfellende",
+          "tags_json": [
+            "verb",
+            "Adj",
+            "<PresPart>"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dOm$%fE$ln=$@",
+              "ipa": "ˈdɔmˌfɛln̩ə",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        },
+        {
+          "word_form": "domfell",
+          "tags_json": [
+            "verb",
+            "Imp"
+          ],
+          "pronunciation": [
+            {
+              "sampa": "\"\"dOm$%fEl",
+              "ipa": "ˈdɔmˌfɛl",
+              "tone": 2,
+              "source": "nb_uttale",
+              "tone_status": "known",
+              "tone_label": "Accent 2"
+            }
+          ]
+        }
+      ],
+      "audio": {
+        "lemma": [
+          {
+            "type": "tts",
+            "provider": "google",
+            "voice": "nb-NO-Chirp3-HD-Aoede",
+            "language_code": "nb-NO",
+            "format": "mp3",
+            "file": "90ce1bbed1ef.mp3",
+            "path": "audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90ce1bbed1ef.mp3",
+            "url": "https://media.umebocchi.my.id/audio/lemma/google/nb-NO-Chirp3-HD-Aoede/90ce1bbed1ef.mp3",
+            "text": "domfelle",
+            "source": "generated",
+            "content_sha256": "41fad571aa12f206f8a3afad0d25a4e45b9dbaf12bdeab16c65ceef413fcd41f",
+            "tone": 2
+          }
+        ]
+      },
+      "frequency_rank": null
+    }
+  ],
+  "cross_reference": null,
+  "definitions": [
+    {
+      "text": "avsi dom over",
+      "translation": "to pass sentence on",
+      "examples": []
+    },
+    {
+      "text": "dømme skyldig",
+      "translation": "to convict of guilt",
+      "examples": [
+        {
+          "no": "domfelle for uforsvarlig omgang med skytevåpen",
+          "en": "convict for negligent handling of firearms"
+        },
+        {
+          "no": "domfelte over den kriminelle lavalder",
+          "en": "those convicted above the age of criminal responsibility"
+        }
+      ]
+    }
+  ]
+}
