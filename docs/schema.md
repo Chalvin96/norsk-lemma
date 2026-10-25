@@ -343,19 +343,22 @@ into `data/export/lemma/` by `export`. MP3s and manifests live under
 
 ### Release archive layout
 
-The audio release asset (`norsk-lemma-audio-google-{version}.tar.gz`) unpacks to:
+The main import asset (`norsk-lemma-{version}.tar.gz`) unpacks to:
 
-```
+```text
 README.md
-data/export/audio/
-  manifest-google-{voice}.json
-  lemma/
-    google/
-      {voice}/
-        {sha256_prefix}.mp3   # one file per unique (text, tone) pair
-data/export/lemma/
-  {article_id}.json           # same exported lemma payload with audio[] on each lemma
+LICENSE
+NOTICE
+docs/data-sources.md
+lemma/
+  {article_id}.json
+audio/lemma/google/{voice}/
+  {sha256_prefix}.mp3
 ```
+
+The audio-only asset (`norsk-lemma-audio-google-{version}.tar.gz`) contains the
+same attribution files and an `audio/` directory with both the MP3s and the
+`manifest-google-{voice}.json` manifest. It does not contain the lemma JSON files.
 
 ### Resolving audio to a URL
 
