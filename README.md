@@ -339,11 +339,21 @@ Public playback requires public-read object access. Uploader dry-run checks
 local files only; it does not query which objects already exist remotely.
 
 Release from the machine that holds the MP3s, after rebuilding, checking the
-dataset, and committing the intended files. Install and authenticate
-[GitHub CLI](https://cli.github.com/) first.
+dataset, and committing the intended files.
+
+Build archives without publishing:
 
 ```bash
-scripts/release.sh vX.Y.Z
+bash scripts/release.sh vX.Y.Z --build-only
+```
+
+This checks local inputs and builds both archives without GitHub authentication,
+network access, tags, or publication. Use an unused version for a new release.
+After inspecting the archives, install and authenticate
+[GitHub CLI](https://cli.github.com/), then publish with:
+
+```bash
+bash scripts/release.sh vX.Y.Z
 ```
 
 Replace `vX.Y.Z` with a new numeric version tag. **This command publishes a
@@ -353,8 +363,8 @@ changes. It creates two files in `dist/release/`:
 
 | Archive | Contents |
 | --- | --- |
-| `norsk-lemma-{tag}.tar.gz` | `README.md`, `lemma/`, and `audio/lemma/`. |
-| `norsk-lemma-audio-google-{tag}.tar.gz` | `README.md` and `audio/`, including manifests. |
+| `norsk-lemma-{tag}.tar.gz` | `README.md`, attribution files, `lemma/`, and `audio/lemma/`. |
+| `norsk-lemma-audio-google-{tag}.tar.gz` | `README.md`, attribution files, and `audio/`, including manifests. |
 
 The script does not run tests or dataset validation. Archive the paid TTS
 output because later synthesis may not reproduce it.
@@ -373,8 +383,10 @@ They do not certify the entire dataset or verify live LLM, TTS, storage, or
 GitHub release integrations. Before a release, also inspect the export diff,
 frequency match report, representative glosses/pronunciations,
 and manifest-to-file integrity and playback. Record coverage against the same
-source snapshot. There is currently no repository CI workflow enforcing
-dataset-wide schema or coverage gates.
+source snapshot. The repository CI workflow runs the locked dependency install,
+Ruff, shell syntax validation, and fixture-based tests on pull requests and
+pushes to `main`.
+It does not run paid providers or enforce dataset-wide schema or coverage gates.
 
 Useful next steps are automated dataset validation and coverage regression
 checks, plus a curated evaluation set for translations and pronunciation.
