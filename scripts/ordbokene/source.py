@@ -19,6 +19,11 @@ def ensure_articles_dir(articles_dir: Path) -> None:
 
     articles_dir.mkdir(parents=True, exist_ok=True)
     if marker.exists():
+        for path in articles_dir.parent.glob(".fetch-*"):
+            if path.is_dir() and not path.is_symlink():
+                shutil.rmtree(path)
+            else:
+                path.unlink()
         logger.info("Resuming interrupted download from %s", ARTICLES_ARCHIVE_URL)
     else:
         logger.info(
@@ -37,7 +42,7 @@ def _download_and_extract_articles(articles_dir: Path) -> None:
     with requests.get(ARTICLES_ARCHIVE_URL, stream=True, timeout=REQUEST_TIMEOUT) as response:
         response.raise_for_status()
         with tempfile.NamedTemporaryFile(
-            suffix=".tar.gz", delete=False, dir=articles_dir.parent
+            prefix=".fetch-", suffix=".tar.gz", delete=False, dir=articles_dir.parent
         ) as tmp_file:
             archive_path = Path(tmp_file.name)
             total = 0
@@ -51,7 +56,7 @@ def _download_and_extract_articles(articles_dir: Path) -> None:
     # Extract to a temp dir, then flatten into articles_dir so explode() finds *.json
     # at the top level.
     logger.info("Extracting archive to %s", articles_dir)
-    with tempfile.TemporaryDirectory(dir=articles_dir.parent) as tmp_dir:
+    with tempfile.TemporaryDirectory(prefix=".fetch-", dir=articles_dir.parent) as tmp_dir:
         try:
             with tarfile.open(archive_path, "r:gz") as archive:
                 archive.extractall(tmp_dir, filter="data")

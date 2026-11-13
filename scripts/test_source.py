@@ -46,6 +46,8 @@ def test_resume_extracts_on_article_filesystem_and_logs_resume(tmp_path, monkeyp
         info.size = 2
         archive.addfile(info, io.BytesIO(b"{}"))
 
+    temp_paths = []
+
     class Response:
         def __enter__(self):
             return self
@@ -57,6 +59,7 @@ def test_resume_extracts_on_article_filesystem_and_logs_resume(tmp_path, monkeyp
             pass
 
         def iter_content(self, **_kwargs):
+            temp_paths.extend(articles.parent.glob("*.tar.gz"))
             yield content.getvalue()
 
     monkeypatch.setattr(source.requests, "get", lambda *_args, **_kwargs: Response())
@@ -65,11 +68,31 @@ def test_resume_extracts_on_article_filesystem_and_logs_resume(tmp_path, monkeyp
 
     def flatten(src, dst):
         parents.append(src.parent)
+        temp_paths.append(src)
         original(src, dst)
 
     monkeypatch.setattr(source, "_flatten_into", flatten)
     with caplog.at_level("INFO"):
         source.ensure_articles_dir(articles)
     assert parents == [articles.parent]
+    assert len(temp_paths) == 2
+    assert all(path.name.startswith(".fetch-") for path in temp_paths)
     assert "resuming interrupted download" in caplog.text.lower()
     assert (articles / "1.json").read_text() == "{}"
+
+
+def test_resume_removes_stale_fetch_files_and_directories(tmp_path, monkeypatch):
+    articles = tmp_path / "articles"
+    articles.mkdir()
+    (articles / ".fetch-incomplete").touch()
+    stale_file = tmp_path / ".fetch-old.tar.gz"
+    stale_file.write_text("old")
+    stale_dir = tmp_path / ".fetch-olddir"
+    stale_dir.mkdir()
+    (stale_dir / "partial").write_text("old")
+    monkeypatch.setattr(source, "_download_and_extract_articles", lambda _: None)
+
+    source.ensure_articles_dir(articles)
+
+    assert not stale_file.exists()
+    assert not stale_dir.exists()
