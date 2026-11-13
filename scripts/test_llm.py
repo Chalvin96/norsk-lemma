@@ -53,6 +53,16 @@ def test_is_quota_error_matches_markers(message: str) -> None:
     assert is_quota_error(message)
 
 
+@pytest.mark.parametrize("message", ["status_429", "HTTP429 Too Many"])
+def test_quota_codes_match_next_to_nondigits(message: str) -> None:
+    assert is_quota_error(message)
+
+
+@pytest.mark.parametrize("message", ["targets=[(43429, None)]", "id 14290"])
+def test_quota_codes_do_not_match_inside_numbers(message: str) -> None:
+    assert not is_quota_error(message)
+
+
 def test_is_quota_error_ignores_unrelated() -> None:
     assert not is_quota_error("connection reset by peer")
 

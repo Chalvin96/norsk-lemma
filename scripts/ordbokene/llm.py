@@ -73,7 +73,7 @@ _WINDOWS_MAX_ARG_PROMPT_CODE_UNITS = 28_000
 def is_quota_error(message: str) -> bool:
     """Return True if *message* signals a billing/usage/rate limit (hard stop)."""
     low = (message or "").lower()
-    return bool(re.search(r"\b(?:402|429)\b", low)) or any(
+    return bool(re.search(r"(?<!\d)(?:402|429)(?!\d)", low)) or any(
         marker in low for marker in _QUOTA_ERROR_MARKERS
     )
 
