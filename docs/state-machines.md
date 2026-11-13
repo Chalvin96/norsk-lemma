@@ -47,16 +47,8 @@ Transitions:
 
 Invariants:
 
-- **I1.1 One writer per article directory at a time.** Unenforced, reachable.
-  `cmd_translate` reads the whole corpus at start (`cli.py:359`) and rewrites
-  each file from that snapshot when its batch returns (`cli.py:411-413`), hours
-  later on a full run. A `pronounce`, `translate-examples`, `apply-review` or
-  `audio` run in that window is overwritten. `translate-examples` with
-  `--workers` and `pronounce` with its thread pool are safe within one process
-  because each article is owned by one batch. Atomic rename
-  (`io.py:write_text_atomically`) prevents torn files only.
-  `docs/pronunciation-pipeline.md` says "safe for concurrent runs", which is
-  true only for torn files. **SM-2.**
+- **I1.1 One writer per article directory at a time.** Enforced (SM-2).
+  Mutating commands hold an advisory process lock across their article writes.
 - **I1.2 `fetched` means the whole archive landed.** Unenforced, reachable.
   `_has_article_json` (`source.py:28`) is true after one file. `_flatten_into`
   moves files one at a time, so an interrupted fetch leaves a partial cache
@@ -261,7 +253,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | ID | Status |
 |---|---|
 | SM-1 | fixed |
-| SM-2 | open |
+| SM-2 | fixed |
 | SM-3 | open |
 | SM-4 | open |
 | SM-5 | open |

@@ -3117,3 +3117,97 @@ def test_translate_stops_after_transport_quota_error(tmp_path, monkeypatch):
     monkeypatch.setitem(client.PROVIDERS, "openrouter", provider)
     cli.cmd_translate(args)
     assert len(calls) == 1
+
+
+@pytest.fixture
+def locked_articles(tmp_path: Path):
+    pytest.importorskip("fcntl")
+    import subprocess
+    import sys
+
+    articles = tmp_path / "articles"
+    articles.mkdir()
+    holder = subprocess.Popen(
+        [
+            sys.executable,
+            "-c",
+            "import fcntl, os, pathlib, sys; "
+            "f = (pathlib.Path(sys.argv[1]) / '.pipeline.lock').open('w+'); "
+            "fcntl.flock(f, fcntl.LOCK_EX); "
+            "f.write(f'holder-command pid {os.getpid()}'); f.flush(); "
+            "print(os.getpid(), flush=True); sys.stdin.read()",
+            str(articles),
+        ],
+        stdin=subprocess.PIPE,
+        stdout=subprocess.PIPE,
+        text=True,
+    )
+    pid = holder.stdout.readline().strip()
+    try:
+        yield articles, pid
+    finally:
+        holder.stdin.close()
+        holder.wait(timeout=5)
+
+
+def test_article_lock_rejects_another_process_and_names_holder(locked_articles) -> None:
+    import subprocess
+    import sys
+
+    articles, pid = locked_articles
+    result = subprocess.run(
+        [
+            sys.executable,
+            "-c",
+            "from pathlib import Path; from ordbokene.io import articles_lock; "
+            "import sys; "
+            "exec('with articles_lock(Path(sys.argv[1]), \\\"contender\\\"):\\n pass')",
+            str(articles),
+        ],
+        env={**__import__("os").environ, "PYTHONPATH": "scripts"},
+        capture_output=True,
+        text=True,
+        timeout=5,
+    )
+    assert result.returncode != 0
+    assert "holder-command" in result.stderr
+    assert pid in result.stderr
+
+
+def test_fetch_does_not_clear_articles_when_another_process_holds_lock(locked_articles) -> None:
+    import subprocess
+    import sys
+
+    articles, pid = locked_articles
+    article = articles / "1.json"
+    article.write_text("{}", encoding="utf-8")
+    result = subprocess.run(
+        [
+            sys.executable,
+            "-c",
+            "import sys; sys.path.insert(0, 'scripts'); "
+            "from ordbokene import cli; from argparse import Namespace; from pathlib import Path; "
+            "cli.ensure_articles_dir = lambda _: None; "
+            "cli.cmd_fetch(Namespace(articles_dir=Path(sys.argv[1]), force=True, dry_run=False))",
+            str(articles),
+        ],
+        capture_output=True,
+        text=True,
+        timeout=5,
+    )
+    assert result.returncode != 0
+    assert "holder-command" in result.stderr
+    assert pid in result.stderr
+    assert article.read_text(encoding="utf-8") == "{}"
+
+
+def test_article_lock_records_command_and_pid(tmp_path: Path) -> None:
+    import os
+
+    pytest.importorskip("fcntl")
+    from ordbokene.io import articles_lock
+
+    with articles_lock(tmp_path, "translate"):
+        assert (tmp_path / ".pipeline.lock").read_text(encoding="utf-8").strip() == (
+            f"translate pid {os.getpid()}"
+        )

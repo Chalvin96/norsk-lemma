@@ -105,7 +105,7 @@ data/articles/{id}.json
     │
     ▼
 4. ATOMIC WRITE  data/articles/{id}.json  (in-place)
-   Write to .tmp then rename — safe for concurrent runs and Ctrl+C.
+   Write to .tmp then rename to prevent torn files on interruption; an article-directory lock prevents concurrent writers.
 
 5. COVERAGE REPORT
    Per-source counts + percentages printed at end of run.

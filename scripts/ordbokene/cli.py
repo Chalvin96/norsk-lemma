@@ -31,6 +31,8 @@ import os
 import shutil
 import sys
 import uuid
+from contextvars import ContextVar
+from functools import wraps
 from pathlib import Path
 
 import requests
@@ -47,7 +49,7 @@ from .extract import (
     extract_existing_translations,
     iter_definition_cores,
 )
-from .io import ExplodedEntry, explode, write_error, write_lemma
+from .io import ExplodedEntry, articles_lock, explode, write_error, write_lemma
 from .llm import LlmErrorResult
 from .review import build_review_prompt, collect_translation_reviews, request_translation_review
 from .settings import (
@@ -124,6 +126,32 @@ def _add_run_args(p: argparse.ArgumentParser) -> None:
 # ---------------------------------------------------------------------------
 
 
+_build_locked: ContextVar[bool] = ContextVar("build_locked", default=False)
+
+
+def _locks_articles(command):
+    def decorate(func):
+        @wraps(func)
+        def wrapped(args):
+            if (
+                getattr(args, "dry_run", False)
+                or getattr(args, "list_voices", False)
+                or _build_locked.get()
+            ):
+                return func(args)
+            with articles_lock(args.articles_dir.resolve(), command):
+                token = _build_locked.set(command == "build")
+                try:
+                    return func(args)
+                finally:
+                    _build_locked.reset(token)
+
+        return wrapped
+
+    return decorate
+
+
+@_locks_articles("fetch")
 def cmd_fetch(args: argparse.Namespace) -> None:
     articles_dir = args.articles_dir.resolve()
     if getattr(args, "dry_run", False):
@@ -258,6 +286,7 @@ def _download_lemma_release(tag: str | None, lemma_dir: Path) -> str:
     return resolved_tag
 
 
+@_locks_articles("hydrate")
 def cmd_hydrate(args: argparse.Namespace) -> None:
     """Download a release by tag (default: latest), then embed translations into articles."""
     articles_dir = args.articles_dir.resolve()
@@ -349,6 +378,7 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("translate")
 def cmd_translate(args: argparse.Namespace) -> None:
     articles_dir = args.articles_dir.resolve()
     if args.dry_run and (not articles_dir.exists() or not any(articles_dir.glob("*.json"))):
@@ -439,6 +469,7 @@ def cmd_translate(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("pronounce")
 def cmd_pronounce(args: argparse.Namespace) -> None:
     if getattr(args, "dry_run", False):
         logger.info("dry-run — skipping pronounce")
@@ -521,6 +552,7 @@ def cmd_export(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("build")
 def cmd_build(args: argparse.Namespace) -> None:
     cmd_fetch(args)
     cmd_translate(args)
@@ -560,6 +592,7 @@ def cmd_frequency(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("audio")
 def cmd_audio(args: argparse.Namespace) -> None:
     try:
         import generate_audio  # type: ignore[import]
@@ -615,6 +648,7 @@ def cmd_review(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("translate-examples")
 def cmd_translate_examples(args: argparse.Namespace) -> None:
     from .examples import run as run_examples
 
@@ -640,6 +674,7 @@ def cmd_translate_examples(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("apply-review")
 def cmd_apply_review(args: argparse.Namespace) -> None:
     from .examples import apply_review
 

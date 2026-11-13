@@ -525,14 +525,17 @@ def main(argv: list[str] | None = None) -> None:
     parser.add_argument("--force", action="store_true")
     parser.add_argument("--limit", type=int, default=None)
     args = parser.parse_args(argv)
-    run(
-        Path(args.input),
-        Path(args.leksika),
-        Path(args.newwords),
-        workers=args.workers,
-        force=args.force,
-        limit=args.limit,
-    )
+    from ordbokene.io import articles_lock
+
+    with articles_lock(Path(args.input), "enrich_pronunciation"):
+        run(
+            Path(args.input),
+            Path(args.leksika),
+            Path(args.newwords),
+            workers=args.workers,
+            force=args.force,
+            limit=args.limit,
+        )
 
 
 if __name__ == "__main__":
