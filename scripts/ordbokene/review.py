@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import logging
 import re
 from dataclasses import dataclass
 from pathlib import Path
@@ -9,6 +10,8 @@ from typing import Any, Protocol
 import requests
 
 from .llm import PROVIDERS, LlmConfig, LlmError
+
+logger = logging.getLogger(__name__)
 
 
 @dataclass(frozen=True)
@@ -41,8 +44,7 @@ def collect_translation_reviews(
                 "text": str(definition.get("text") or ""),
                 "translation": str(definition.get("translation") or ""),
                 "examples": [
-                    _coerce_example(example)
-                    for example in definition.get("examples", [])
+                    _coerce_example(example) for example in definition.get("examples", [])
                 ],
             }
             for index, definition in enumerate(data.get("definitions", []))
@@ -199,10 +201,35 @@ def _enrich_with_article_ids(
     """Add ``article_id`` to each issue based on the batch ``id`` mapping."""
     if not isinstance(result, dict):
         return result
-    id_to_article_id = {i: item.article_id for i, item in enumerate(items)}
+    kept = []
+    dropped = 0
     for issue in result.get("issues", []):
-        if isinstance(issue, dict) and isinstance(issue.get("id"), (int, float)):
-            issue.setdefault("article_id", id_to_article_id.get(int(issue["id"])))
+        if not isinstance(issue, dict):
+            dropped += 1
+            continue
+        index = issue.get("id")
+        if type(index) is not int or not 0 <= index < len(items):
+            dropped += 1
+            continue
+        item = items[index]
+        if "article_id" in issue and issue["article_id"] != item.article_id:
+            dropped += 1
+            continue
+        issue["article_id"] = item.article_id
+        match = re.fullmatch(
+            r"definitions\[(\d+)\]\.examples\[(\d+)\]\.en", str(issue.get("field", ""))
+        )
+        if match:
+            try:
+                example = item.definitions[int(match[1])]["examples"][int(match[2])]
+                issue["no"] = _coerce_example(example)["no"]
+            except (IndexError, KeyError, TypeError):
+                dropped += 1
+                continue
+        kept.append(issue)
+    result["issues"] = kept
+    if dropped:
+        logger.warning("dropped %d invalid review issues", dropped)
     return result
 
 

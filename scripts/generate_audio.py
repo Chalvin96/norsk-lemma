@@ -74,7 +74,7 @@ def run(
             )
             return 0
         # Audio metadata belongs in articles/ so export can reproduce it.
-        written = embed_audio_into_articles(articles_dir, all_jobs)
+        written = embed_audio_into_articles(articles_dir, all_jobs, current_jobs=current_jobs)
         print(
             f"embedded audio into {written} article JSON files (run `export` to propagate to lemma/)"
         )
@@ -174,7 +174,7 @@ def run(
     all_jobs = jobs_from_manifest(
         manifest_path, provider="google", voice=voice, language_code=language_code
     )
-    embedded = embed_audio_into_articles(articles_dir, all_jobs)
+    embedded = embed_audio_into_articles(articles_dir, all_jobs, current_jobs=current_jobs)
 
     print(f"synthesized {synthesized_count} audio file(s)")
     print(
@@ -198,21 +198,31 @@ def build_parser() -> argparse.ArgumentParser:
 
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
-    return run(
-        lemma_dir=args.lemma_dir.resolve(),
-        audio_dir=args.audio_dir.resolve(),
-        voice=args.voice,
-        language_code=args.language_code,
-        dry_run=args.dry_run,
-        limit=args.limit,
-        force=args.force,
-        confirm_cost=args.confirm_cost,
-        price_per_million_chars=args.price_per_million_chars,
-        articles_dir=args.articles_dir.resolve(),
-        list_voices=args.list_voices,
-        enrich_only=args.enrich_only,
-        workers=args.workers,
+    from contextlib import nullcontext
+
+    from ordbokene.io import articles_lock
+
+    lock = (
+        nullcontext()
+        if args.dry_run or args.list_voices
+        else articles_lock(args.articles_dir.resolve(), "generate_audio")
     )
+    with lock:
+        return run(
+            lemma_dir=args.lemma_dir.resolve(),
+            audio_dir=args.audio_dir.resolve(),
+            voice=args.voice,
+            language_code=args.language_code,
+            dry_run=args.dry_run,
+            limit=args.limit,
+            force=args.force,
+            confirm_cost=args.confirm_cost,
+            price_per_million_chars=args.price_per_million_chars,
+            articles_dir=args.articles_dir.resolve(),
+            list_voices=args.list_voices,
+            enrich_only=args.enrich_only,
+            workers=args.workers,
+        )
 
 
 def _merge_manifest_jobs(existing: list[AudioJob], updates: list[AudioJob]) -> list[AudioJob]:

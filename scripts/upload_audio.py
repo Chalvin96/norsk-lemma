@@ -2,7 +2,7 @@
 """Upload pronunciation MP3s to the media bucket (any S3-compatible store).
 
 Reads the audio manifest, uploads each clip under its manifest ``path`` key, skips
-objects already present, and tags them with a long-lived immutable cache header.
+objects with matching checksums, and tags them with a long-lived immutable cache header.
 
 Public URL of an uploaded file is the bucket host + the same path, e.g.
 
@@ -36,7 +36,7 @@ DATA_DIR = REPO / "data"
 DEFAULT_MANIFEST = DATA_DIR / "export" / "audio" / "manifest-google-nb-NO-Chirp3-HD-Aoede.json"
 
 CONTENT_TYPE = "audio/mpeg"
-# Keys are content-addressed and never change, so cache them forever.
+# Keys hash synthesis inputs; replacing a clip may require a CDN purge.
 CACHE_CONTROL = "public, max-age=31536000, immutable"
 
 
@@ -65,15 +65,14 @@ def make_client():
     )
 
 
-def object_exists(client, bucket: str, key: str) -> bool:
-    """Return False for 403/AccessDenied so a restricted bucket triggers re-upload instead of abort."""
+def object_metadata(client, bucket: str, key: str) -> dict | None:
+    """Return None for missing or inaccessible objects."""
     try:
-        client.head_object(Bucket=bucket, Key=key)
-        return True
+        return client.head_object(Bucket=bucket, Key=key).get("Metadata", {})
     except ClientError as exc:
         code = str(exc.response.get("Error", {}).get("Code", ""))
         if code in ("404", "NoSuchKey", "NotFound", "403", "AccessDenied", "Forbidden"):
-            return False
+            return None
         raise
 
 
@@ -121,7 +120,7 @@ def main() -> int:
             sys.exit("error: missing env var: S3_BUCKET (see .env.example)")
         client = make_client()
 
-    uploaded = skipped = missing_local = bad_key = 0
+    uploaded = replaced = skipped = missing_local = bad_key = 0
     for item in tqdm(items, desc="audio", unit="file"):
         key = item.get("path")
         if not key:
@@ -141,16 +140,27 @@ def main() -> int:
             uploaded += 1
             continue
 
-        if not args.force and object_exists(client, bucket, key):
-            skipped += 1
-            continue
-
-        client.upload_file(str(local), bucket, key, ExtraArgs=extra_args)
+        checksum = item.get("content_sha256")
+        metadata = object_metadata(client, bucket, key)
+        if metadata is not None:
+            if not args.force and (not checksum or metadata.get("sha256") == checksum):
+                skipped += 1
+                continue
+        upload_args = dict(extra_args)
+        if checksum:
+            upload_args["Metadata"] = {"sha256": checksum}
+        client.upload_file(str(local), bucket, key, ExtraArgs=upload_args)
         uploaded += 1
+        if metadata is not None:
+            replaced += 1
+            tqdm.write(
+                f"warning: replaced {key}; the CDN may serve the old clip until purged "
+                "because Cache-Control is immutable"
+            )
 
     verb = "would upload" if args.dry_run else "uploaded"
     print(
-        f"\n{verb}: {uploaded}  skipped (already present): {skipped}  "
+        f"\n{verb}: {uploaded}  replaced: {replaced}  skipped (already present): {skipped}  "
         f"missing local: {missing_local}  unsafe keys: {bad_key}"
     )
     if uploaded and not args.dry_run:

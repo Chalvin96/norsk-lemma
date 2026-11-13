@@ -13,15 +13,25 @@ ARTICLES_ARCHIVE_URL = "https://ord.uib.no/bm/fil/article.tar.gz"
 
 
 def ensure_articles_dir(articles_dir: Path) -> None:
-    if _has_article_json(articles_dir):
+    marker = articles_dir / ".fetch-incomplete"
+    if _has_article_json(articles_dir) and not marker.exists():
         return
 
     articles_dir.mkdir(parents=True, exist_ok=True)
-    logger.info(
-        "Articles directory is empty, downloading source archive from %s",
-        ARTICLES_ARCHIVE_URL,
-    )
+    if marker.exists():
+        for path in articles_dir.parent.glob(".fetch-*"):
+            if path.is_dir() and not path.is_symlink():
+                shutil.rmtree(path)
+            else:
+                path.unlink()
+        logger.info("Resuming interrupted download from %s", ARTICLES_ARCHIVE_URL)
+    else:
+        logger.info(
+            "Articles directory is empty, downloading source archive from %s", ARTICLES_ARCHIVE_URL
+        )
+    marker.touch()
     _download_and_extract_articles(articles_dir)
+    marker.unlink()
 
 
 def _has_article_json(articles_dir: Path) -> bool:
@@ -31,7 +41,9 @@ def _has_article_json(articles_dir: Path) -> bool:
 def _download_and_extract_articles(articles_dir: Path) -> None:
     with requests.get(ARTICLES_ARCHIVE_URL, stream=True, timeout=REQUEST_TIMEOUT) as response:
         response.raise_for_status()
-        with tempfile.NamedTemporaryFile(suffix=".tar.gz", delete=False) as tmp_file:
+        with tempfile.NamedTemporaryFile(
+            prefix=".fetch-", suffix=".tar.gz", delete=False, dir=articles_dir.parent
+        ) as tmp_file:
             archive_path = Path(tmp_file.name)
             total = 0
             for chunk in response.iter_content(chunk_size=1024 * 1024):
@@ -44,7 +56,7 @@ def _download_and_extract_articles(articles_dir: Path) -> None:
     # Extract to a temp dir, then flatten into articles_dir so explode() finds *.json
     # at the top level.
     logger.info("Extracting archive to %s", articles_dir)
-    with tempfile.TemporaryDirectory() as tmp_dir:
+    with tempfile.TemporaryDirectory(prefix=".fetch-", dir=articles_dir.parent) as tmp_dir:
         try:
             with tarfile.open(archive_path, "r:gz") as archive:
                 archive.extractall(tmp_dir, filter="data")
@@ -62,6 +74,8 @@ def _flatten_into(src: Path, dst: Path) -> None:
     """Move all *.json files found anywhere under src into dst (flat)."""
     moved = 0
     for json_file in src.rglob("*.json"):
+        if (dst / json_file.name).exists():
+            continue
         shutil.move(str(json_file), dst / json_file.name)
         moved += 1
     if moved == 0:

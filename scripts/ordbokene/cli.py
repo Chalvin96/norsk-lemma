@@ -8,6 +8,7 @@ Stages in order:
   translate-examples  Call LLM for untranslated example sentences; embed en into articles.
   pronounce           Enrich articles with IPA pronunciation in-place.
   export              Build tracked lemma/ from enriched articles (no LLM needed).
+  prune               Remove lemma files that cannot be rebuilt.
   frequency           Annotate lemma/ with Kelly frequency_rank (post-export).
   audio               Generate lemma audio from exported lemma JSON.
   review              Review exported English translations via LLM.
@@ -31,6 +32,8 @@ import os
 import shutil
 import sys
 import uuid
+from contextvars import ContextVar
+from functools import wraps
 from pathlib import Path
 
 import requests
@@ -47,8 +50,8 @@ from .extract import (
     extract_existing_translations,
     iter_definition_cores,
 )
-from .io import ExplodedEntry, explode, write_error, write_lemma
-from .llm import is_quota_error
+from .io import ExplodedEntry, articles_lock, explode, write_error, write_lemma
+from .llm import LlmErrorResult
 from .review import build_review_prompt, collect_translation_reviews, request_translation_review
 from .settings import (
     DEFAULT_ARTICLES_DIR,
@@ -124,6 +127,32 @@ def _add_run_args(p: argparse.ArgumentParser) -> None:
 # ---------------------------------------------------------------------------
 
 
+_build_locked: ContextVar[bool] = ContextVar("build_locked", default=False)
+
+
+def _locks_articles(command):
+    def decorate(func):
+        @wraps(func)
+        def wrapped(args):
+            if (
+                getattr(args, "dry_run", False)
+                or getattr(args, "list_voices", False)
+                or _build_locked.get()
+            ):
+                return func(args)
+            with articles_lock(args.articles_dir.resolve(), command):
+                token = _build_locked.set(command == "build")
+                try:
+                    return func(args)
+                finally:
+                    _build_locked.reset(token)
+
+        return wrapped
+
+    return decorate
+
+
+@_locks_articles("fetch")
 def cmd_fetch(args: argparse.Namespace) -> None:
     articles_dir = args.articles_dir.resolve()
     if getattr(args, "dry_run", False):
@@ -258,6 +287,7 @@ def _download_lemma_release(tag: str | None, lemma_dir: Path) -> str:
     return resolved_tag
 
 
+@_locks_articles("hydrate")
 def cmd_hydrate(args: argparse.Namespace) -> None:
     """Download a release by tag (default: latest), then embed translations into articles."""
     articles_dir = args.articles_dir.resolve()
@@ -284,20 +314,10 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
         raw = article_map.get(article_id)
         if raw is None:
             continue
-        if not args.force and extract_existing_translations(raw) is not None:
-            continue
         pending.append((article_id, raw, lemma_path))
 
-    logger.info("hydrate — %d articles to update", len(pending))
-    if args.dry_run:
-        logger.info("dry-run — would hydrate %d articles", len(pending))
-        return
-
-    if args.limit:
-        pending = pending[: args.limit]
-
-    written = 0
-    for article_id, raw, lemma_path in tqdm(pending, unit="article", desc="Hydrating"):
+    updated = 0
+    for article_id, raw, lemma_path in pending:
         lemma_data = json.loads(lemma_path.read_text(encoding="utf-8"))
 
         primary = next(
@@ -338,10 +358,36 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
 
         article = copy.deepcopy(raw)
         embed_translations(article, {"lemma_primary": primary, "definitions": synthetic_defs})
-        write_article(articles_dir, article_id, article)
-        written += 1
+        if not args.force:
+            for old, new in zip(raw.get("lemmas", []), article.get("lemmas", []), strict=True):
+                if isinstance(old, dict) and isinstance(new, dict):
+                    value = old.get("primary_translation")
+                    if isinstance(value, str) and value.strip():
+                        new["primary_translation"] = value
+            for old, new in zip(
+                iter_definition_cores(raw), iter_definition_cores(article), strict=True
+            ):
+                value = old["explanation_element"].get("translation")
+                if isinstance(value, str) and value.strip():
+                    new["explanation_element"]["translation"] = value
+                for old_example, new_example in zip(
+                    old["example_elements"], new["example_elements"], strict=True
+                ):
+                    value = old_example.get("en")
+                    if isinstance(value, str) and value.strip():
+                        new_example["en"] = value
+        if article != raw:
+            updated += 1
+            if not args.dry_run:
+                write_article(articles_dir, article_id, article)
+                if args.limit and updated >= args.limit:
+                    break
 
-    logger.info("hydrate done — %d articles updated", written)
+    logger.info("hydrate — %d articles to update", updated)
+    if args.dry_run:
+        logger.info("dry-run — would hydrate %d articles", updated)
+        return
+    logger.info("hydrate done — %d articles updated", updated)
 
 
 # ---------------------------------------------------------------------------
@@ -349,6 +395,7 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("translate")
 def cmd_translate(args: argparse.Namespace) -> None:
     articles_dir = args.articles_dir.resolve()
     if args.dry_run and (not articles_dir.exists() or not any(articles_dir.glob("*.json"))):
@@ -384,12 +431,16 @@ def cmd_translate(args: argparse.Namespace) -> None:
     batch_starts = range(0, len(pending), args.batch_size)
     progress = tqdm(batch_starts, unit="batch", desc="Translating")
     stopped = False
+    missing_key = False
     for start in progress:
         batch = pending[start : start + args.batch_size]
         results = request_translations(session, args, batch)
         for local_idx, (article_id, raw) in enumerate(batch):
             result = results.get(local_idx)
-            if isinstance(result, str) and is_quota_error(result):
+            if isinstance(result, LlmErrorResult) and result.code == "missing_api_key":
+                missing_key = True
+                continue
+            if isinstance(result, LlmErrorResult) and result.is_quota:
                 stopped = True
                 # Continue through this batch so successful responses already
                 # returned alongside the quota error are still persisted.
@@ -413,6 +464,9 @@ def cmd_translate(args: argparse.Namespace) -> None:
             write_article(articles_dir, article_id, article)
             written += 1
         progress.set_postfix(written=written)
+        if missing_key:
+            logger.error("missing_api_key — stopping translation; set OPENROUTER_API_KEY.")
+            break
         if stopped:
             logger.error(
                 "BILLING/QUOTA LIMIT hit — stopping after current batch; "
@@ -421,7 +475,9 @@ def cmd_translate(args: argparse.Namespace) -> None:
             break
 
     logger.info(
-        "translate %s — %d articles updated", "stopped at limit" if stopped else "done", written
+        "translate %s — %d articles updated",
+        "stopped" if missing_key else "stopped at limit" if stopped else "done",
+        written,
     )
 
 
@@ -430,6 +486,7 @@ def cmd_translate(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("pronounce")
 def cmd_pronounce(args: argparse.Namespace) -> None:
     if getattr(args, "dry_run", False):
         logger.info("dry-run — skipping pronounce")
@@ -456,6 +513,48 @@ def cmd_pronounce(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+def _build_exportable(article_id: int, raw: dict | None) -> tuple[str, dict | None]:
+    if raw is None:
+        return "missing", None
+    if not raw.get("lemmas"):
+        return "no_lemmas", None
+    existing = extract_existing_translations(raw)
+    if existing is None:
+        return "no_translations", None
+    result = build_lemma(copy.deepcopy(raw), existing, article_id)
+    return ("ok", result) if result.get("lemmas") else ("no_lemmas", None)
+
+
+@_locks_articles("prune")
+def cmd_prune(args: argparse.Namespace) -> None:
+    articles_dir = args.articles_dir.resolve()
+    lemma_dir = args.lemma_dir.resolve()
+    if (articles_dir / ".fetch-incomplete").exists():
+        sys.exit(f"article cache is incomplete: {articles_dir}")
+    if not any(articles_dir.glob("*.json")):
+        sys.exit(f"article cache is empty: {articles_dir}")
+    articles = dict(explode(articles_dir))
+    if not any(extract_existing_translations(raw) is not None for raw in articles.values()):
+        sys.exit(
+            "article cache has no embedded translations; run hydrate or translate before prune"
+        )
+    stale = [
+        path
+        for path in sorted(lemma_dir.glob("*.json"))
+        if path.stem.isdigit()
+        and _build_exportable(int(path.stem), articles.get(int(path.stem)))[0] != "ok"
+    ]
+    logger.info(
+        "prune — %d stale lemma files%s: %s",
+        len(stale),
+        " (dry-run)" if args.dry_run else "",
+        ", ".join(path.stem for path in stale[:20]),
+    )
+    if not args.dry_run:
+        for path in stale:
+            path.unlink()
+
+
 def cmd_export(args: argparse.Namespace) -> None:
     articles_dir = args.articles_dir.resolve()
     lemma_dir = args.lemma_dir.resolve()
@@ -473,23 +572,17 @@ def cmd_export(args: argparse.Namespace) -> None:
         pending = pending[: args.limit]
 
     written = 0
+    rebuilt = set()
     for article_id, raw in tqdm(pending, unit="article", desc="Exporting"):
         output_path = lemma_dir / f"{article_id}.json"
-        if not raw.get("lemmas"):
-            if output_path.exists():
+        reason, lemma_data = _build_exportable(article_id, raw)
+        if lemma_data is None:
+            if reason == "no_lemmas" and output_path.exists():
                 output_path.unlink()
-                logger.info("export — removed stale empty-lemma file %s", output_path)
             continue
-        existing = extract_existing_translations(raw)
-        if existing is None:
-            logger.debug("article %d has no embedded translations — skipping", article_id)
-            continue
-        lemma_data = build_lemma(copy.deepcopy(raw), existing, article_id)
-        if not lemma_data.get("lemmas"):
-            if output_path.exists():
-                output_path.unlink()
-                logger.info("export — removed stale empty-lemma file %s", output_path)
-            continue
+        rebuilt.add(article_id)
+        for lemma in lemma_data["lemmas"]:
+            lemma.setdefault("frequency_rank", None)
         old_data: dict[str, object] = {}
         if output_path.exists():
             try:
@@ -505,6 +598,13 @@ def cmd_export(args: argparse.Namespace) -> None:
         written += 1
 
     logger.info("export done — %d lemma files written to %s", written, lemma_dir)
+    if not args.limit:
+        unreconstructed = sum(
+            1
+            for path in lemma_dir.glob("*.json")
+            if path.stem.isdigit() and int(path.stem) not in rebuilt
+        )
+        logger.info("export — %d existing lemma files not rebuilt; run prune", unreconstructed)
 
 
 # ---------------------------------------------------------------------------
@@ -512,6 +612,7 @@ def cmd_export(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("build")
 def cmd_build(args: argparse.Namespace) -> None:
     cmd_fetch(args)
     cmd_translate(args)
@@ -551,6 +652,7 @@ def cmd_frequency(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("audio")
 def cmd_audio(args: argparse.Namespace) -> None:
     try:
         import generate_audio  # type: ignore[import]
@@ -606,6 +708,7 @@ def cmd_review(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("translate-examples")
 def cmd_translate_examples(args: argparse.Namespace) -> None:
     from .examples import run as run_examples
 
@@ -631,6 +734,7 @@ def cmd_translate_examples(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+@_locks_articles("apply-review")
 def cmd_apply_review(args: argparse.Namespace) -> None:
     from .examples import apply_review
 
@@ -692,6 +796,10 @@ def build_parser() -> argparse.ArgumentParser:
     _add_dir_args(p_pr)
     _add_run_args(p_pr)
     add_pronunciation_args(p_pr)
+
+    p_prune = sub.add_parser("prune", help="Remove lemma files that cannot be rebuilt.")
+    _add_dir_args(p_prune)
+    p_prune.add_argument("--dry-run", action="store_true")
 
     # export
     p_ex = sub.add_parser("export", help="Build lemma/ from enriched articles.")
@@ -805,6 +913,7 @@ def main() -> None:
         "translate-examples": cmd_translate_examples,
         "pronounce": cmd_pronounce,
         "export": cmd_export,
+        "prune": cmd_prune,
         "frequency": cmd_frequency,
         "audio": cmd_audio,
         "review": cmd_review,

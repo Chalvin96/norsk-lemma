@@ -5,12 +5,41 @@ import os
 import tempfile
 import time
 from collections.abc import Iterator
+from contextlib import contextmanager
 from pathlib import Path
 from typing import Any
 
 from .settings import logger
 
 ExplodedEntry = tuple[int, dict[str, Any]]
+
+
+@contextmanager
+def articles_lock(articles_dir: Path, command: str) -> Iterator[None]:
+    articles_dir.mkdir(parents=True, exist_ok=True)
+    lock_path = articles_dir / ".pipeline.lock"
+    try:
+        import fcntl
+    except ImportError:
+        logger.warning("Article locking is unavailable on this platform")
+        yield
+        return
+
+    with lock_path.open("a+", encoding="utf-8") as handle:
+        try:
+            fcntl.flock(handle.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except BlockingIOError:
+            handle.seek(0)
+            holder = handle.read().strip() or "unknown holder"
+            raise SystemExit(f"Articles directory locked by {holder}") from None
+        try:
+            handle.seek(0)
+            handle.truncate()
+            handle.write(f"{command} pid {os.getpid()}\n")
+            handle.flush()
+            yield
+        finally:
+            fcntl.flock(handle.fileno(), fcntl.LOCK_UN)
 
 
 def write_text_atomically(path: Path, content: str) -> None:

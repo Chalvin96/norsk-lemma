@@ -2744,7 +2744,7 @@ def test_quota_preserves_prior_success_and_stops_retries(tmp_path, monkeypatch):
         calls.append(1)
         if len(calls) == 1:
             return json.dumps({"1": _translation_result()})
-        raise LlmError("quota", "limit reached")
+        raise LlmError("quota", "limit reached", is_quota=True)
 
     monkeypatch.setitem(client.PROVIDERS, "codex", provider)
     cfg = _translation_config(tmp_path, max_retries=3)
@@ -3024,3 +3024,392 @@ def _run_audio(
         options["synthesize"] = synthesize
     options.update(kwargs)
     return generate_audio.run(**options)
+
+
+def test_translate_continues_after_source_error_containing_article_id(tmp_path, monkeypatch):
+    from ordbokene import cli
+
+    args = cli.build_parser().parse_args(
+        [
+            "translate",
+            "--articles-dir",
+            str(tmp_path),
+            "--error-log",
+            str(tmp_path / "errors.log"),
+            "--batch-size",
+            "1",
+            "--force",
+        ]
+    )
+    monkeypatch.setattr(cli, "ensure_articles_dir", lambda *_: None)
+    monkeypatch.setattr(cli, "explode", lambda *_: [(i, _translation_article(i)) for i in (1, 2)])
+    seen = []
+
+    def request(_session, _args, batch):
+        seen.append(batch[0][0])
+        if len(seen) == 1:
+            return {
+                0: "unresolved_semantic_reference: multi_target targets=[(43429, None), (27991, None)]"
+            }
+        return {0: _translation_result()}
+
+    monkeypatch.setattr(cli, "request_translations", request)
+    cli.cmd_translate(args)
+    assert seen == [1, 2]
+    assert (tmp_path / "2.json").exists()
+
+
+def test_translate_stops_after_first_batch_when_api_key_missing(tmp_path, monkeypatch, caplog):
+    from ordbokene import cli
+
+    args = cli.build_parser().parse_args(
+        [
+            "translate",
+            "--articles-dir",
+            str(tmp_path),
+            "--error-log",
+            str(tmp_path / "errors.log"),
+            "--batch-size",
+            "1",
+            "--force",
+        ]
+    )
+    monkeypatch.setattr(cli, "ensure_articles_dir", lambda *_: None)
+    monkeypatch.setattr(cli, "explode", lambda *_: [(i, _translation_article(i)) for i in (1, 2)])
+    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
+    calls = []
+    original = cli.request_translations
+
+    def request(*args):
+        calls.append(1)
+        return original(*args)
+
+    monkeypatch.setattr(cli, "request_translations", request)
+    cli.cmd_translate(args)
+    assert len(calls) == 1
+    assert "missing_api_key" in caplog.text
+
+
+def test_translate_stops_after_transport_quota_error(tmp_path, monkeypatch):
+    from ordbokene import cli, client
+    from ordbokene.llm import LlmError
+
+    args = cli.build_parser().parse_args(
+        [
+            "translate",
+            "--articles-dir",
+            str(tmp_path),
+            "--error-log",
+            str(tmp_path / "errors.log"),
+            "--batch-size",
+            "1",
+            "--force",
+        ]
+    )
+    monkeypatch.setattr(cli, "ensure_articles_dir", lambda *_: None)
+    monkeypatch.setattr(cli, "explode", lambda *_: [(i, _translation_article(i)) for i in (1, 2)])
+    calls = []
+
+    def provider(*args, **kwargs):
+        calls.append(1)
+        raise LlmError("provider_failure", is_quota=True)
+
+    monkeypatch.setitem(client.PROVIDERS, "openrouter", provider)
+    cli.cmd_translate(args)
+    assert len(calls) == 1
+
+
+@pytest.fixture
+def locked_articles(tmp_path: Path):
+    pytest.importorskip("fcntl")
+    import subprocess
+    import sys
+
+    articles = tmp_path / "articles"
+    articles.mkdir()
+    holder = subprocess.Popen(
+        [
+            sys.executable,
+            "-c",
+            "import fcntl, os, pathlib, sys; "
+            "f = (pathlib.Path(sys.argv[1]) / '.pipeline.lock').open('w+'); "
+            "fcntl.flock(f, fcntl.LOCK_EX); "
+            "f.write(f'holder-command pid {os.getpid()}'); f.flush(); "
+            "print(os.getpid(), flush=True); sys.stdin.read()",
+            str(articles),
+        ],
+        stdin=subprocess.PIPE,
+        stdout=subprocess.PIPE,
+        text=True,
+    )
+    pid = holder.stdout.readline().strip()
+    try:
+        yield articles, pid
+    finally:
+        holder.stdin.close()
+        holder.wait(timeout=5)
+
+
+def test_article_lock_rejects_another_process_and_names_holder(locked_articles) -> None:
+    import subprocess
+    import sys
+
+    articles, pid = locked_articles
+    result = subprocess.run(
+        [
+            sys.executable,
+            "-c",
+            "from pathlib import Path; from ordbokene.io import articles_lock; "
+            "import sys; "
+            "exec('with articles_lock(Path(sys.argv[1]), \\\"contender\\\"):\\n pass')",
+            str(articles),
+        ],
+        env={**__import__("os").environ, "PYTHONPATH": "scripts"},
+        capture_output=True,
+        text=True,
+        timeout=5,
+    )
+    assert result.returncode != 0
+    assert "holder-command" in result.stderr
+    assert pid in result.stderr
+
+
+def test_fetch_does_not_clear_articles_when_another_process_holds_lock(locked_articles) -> None:
+    import subprocess
+    import sys
+
+    articles, pid = locked_articles
+    article = articles / "1.json"
+    article.write_text("{}", encoding="utf-8")
+    result = subprocess.run(
+        [
+            sys.executable,
+            "-c",
+            "import sys; sys.path.insert(0, 'scripts'); "
+            "from ordbokene import cli; from argparse import Namespace; from pathlib import Path; "
+            "cli.ensure_articles_dir = lambda _: None; "
+            "cli.cmd_fetch(Namespace(articles_dir=Path(sys.argv[1]), force=True, dry_run=False))",
+            str(articles),
+        ],
+        capture_output=True,
+        text=True,
+        timeout=5,
+    )
+    assert result.returncode != 0
+    assert "holder-command" in result.stderr
+    assert pid in result.stderr
+    assert article.read_text(encoding="utf-8") == "{}"
+
+
+def test_article_lock_records_command_and_pid(tmp_path: Path) -> None:
+    import os
+
+    pytest.importorskip("fcntl")
+    from ordbokene.io import articles_lock
+
+    with articles_lock(tmp_path, "translate"):
+        assert (tmp_path / ".pipeline.lock").read_text(encoding="utf-8").strip() == (
+            f"translate pid {os.getpid()}"
+        )
+
+
+def test_hydrate_fills_missing_gloss_and_skips_unchanged_articles(tmp_path, monkeypatch):
+    from ordbokene import cli
+    from ordbokene.extract import iter_definition_cores
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    raw = _translation_article()
+    core = next(iter(iter_definition_cores(raw)))
+    core["explanation_element"]["translation"] = "existing gloss"
+    raw["body"]["definitions"].append(
+        {
+            "type_": "definition",
+            "id": 8,
+            "elements": [{"type_": "explanation", "content": "ny betydning"}],
+        }
+    )
+    (articles / "1.json").write_text(json.dumps(raw), encoding="utf-8")
+    definitions = extract_definitions(raw)
+    (lemmas / "1.json").write_text(
+        json.dumps(
+            {
+                "lemmas": [],
+                "definitions": [
+                    {"text": definitions[0]["text"], "translation": "replacement"},
+                    {"text": definitions[1]["text"], "translation": "new gloss"},
+                ],
+            }
+        ),
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(cli, "_download_lemma_release", lambda *_args: None)
+    writes = []
+    original = cli.write_article
+
+    def write(*args):
+        writes.append(args[1])
+        original(*args)
+
+    monkeypatch.setattr(cli, "write_article", write)
+    args = Namespace(
+        articles_dir=articles, lemma_dir=lemmas, force=False, dry_run=False, limit=None
+    )
+    cli.cmd_hydrate(args)
+    hydrated = json.loads((articles / "1.json").read_text(encoding="utf-8"))
+    cores = list(iter_definition_cores(hydrated))
+    assert [c["explanation_element"]["translation"] for c in cores] == [
+        "existing gloss",
+        "new gloss",
+    ]
+    cli.cmd_hydrate(args)
+    assert writes == [1]
+
+
+def test_prune_reports_and_removes_orphans_and_export_adds_frequency(tmp_path, caplog):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    raw = _translation_article()
+    raw["lemmas"][0]["primary_translation"] = "interest"
+    (articles / "1.json").write_text(json.dumps(raw), encoding="utf-8")
+    (lemmas / "2.json").write_text("{}", encoding="utf-8")
+    args = Namespace(
+        articles_dir=articles, lemma_dir=lemmas, dry_run=False, limit=None, force=False
+    )
+    cli.cmd_export(args)
+    assert (lemmas / "2.json").exists()
+    assert json.loads((lemmas / "1.json").read_text())["lemmas"][0]["frequency_rank"] is None
+    args.dry_run = True
+    with caplog.at_level("INFO"):
+        cli.cmd_prune(args)
+    assert "2" in caplog.text
+    assert (lemmas / "2.json").exists()
+    args.dry_run = False
+    cli.cmd_prune(args)
+    assert not (lemmas / "2.json").exists()
+    assert (lemmas / "1.json").exists()
+
+
+@pytest.mark.parametrize("dry_run", [False, True])
+def test_prune_refuses_cache_without_translations(tmp_path, dry_run):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    (articles / "1.json").write_text(json.dumps(_translation_article()))
+    output = lemmas / "1.json"
+    output.write_text("{}")
+    with pytest.raises(SystemExit, match="article cache has no embedded translations"):
+        cli.cmd_prune(Namespace(articles_dir=articles, lemma_dir=lemmas, dry_run=dry_run))
+    assert output.exists()
+
+
+@pytest.mark.parametrize("incomplete", [False, True])
+def test_prune_refuses_untrusted_cache(tmp_path, incomplete):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    (lemmas / "2.json").write_text("{}")
+    if incomplete:
+        (articles / "1.json").write_text("{}")
+        (articles / ".fetch-incomplete").touch()
+    with pytest.raises(SystemExit, match="(?i)(empty|incomplete)"):
+        cli.cmd_prune(Namespace(articles_dir=articles, lemma_dir=lemmas, dry_run=False))
+    assert (lemmas / "2.json").exists()
+
+
+def test_g2p_dropped_or_mismatched_word_never_receives_another_pronunciation(monkeypatch) -> None:
+    import enrich_pronunciation
+
+    monkeypatch.setattr(
+        enrich_pronunciation.nb_g2p,
+        "transcribe_words",
+        lambda words: [("hund", ["H", "UH1", "N"]), ("katt", ["K", "AH1", "T"])],
+    )
+    assert enrich_pronunciation.g2p_entries(["hund", "…", "katt"]) == {}
+    assert enrich_pronunciation.g2p_entries(["hund", "annet"]) == {}
+
+
+def test_export_preserves_untranslated_file_until_prune(tmp_path, caplog):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    (articles / "1.json").write_text(json.dumps(_translation_article()))
+    translated = _translation_article(2)
+    translated["lemmas"][0]["primary_translation"] = "word"
+    (articles / "2.json").write_text(json.dumps(translated))
+    output = lemmas / "1.json"
+    output.write_text('{"old": true}')
+    args = Namespace(articles_dir=articles, lemma_dir=lemmas, dry_run=False, limit=1, force=False)
+    with caplog.at_level("INFO"):
+        cli.cmd_export(args)
+    assert output.read_text() == '{"old": true}'
+    assert "not rebuilt" not in caplog.text
+    cli.cmd_prune(args)
+    assert not output.exists()
+
+
+def test_hydrate_limit_writes_one_article_and_stops_processing(tmp_path, monkeypatch):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    for aid in (1, 2):
+        (articles / f"{aid}.json").write_text(json.dumps(_translation_article(aid)))
+        (lemmas / f"{aid}.json").write_text(
+            json.dumps({"lemmas": [{"primary_translation": "word"}], "definitions": []})
+        )
+    before = (articles / "2.json").read_text()
+    monkeypatch.setattr(cli, "_download_lemma_release", lambda *_args: None)
+    writes = []
+    original_write = cli.write_article
+    original_embed = cli.embed_translations
+    processed = []
+
+    def write(*args):
+        writes.append(args[1])
+        original_write(*args)
+
+    def embed(*args):
+        processed.append(1)
+        return original_embed(*args)
+
+    monkeypatch.setattr(cli, "write_article", write)
+    monkeypatch.setattr(cli, "embed_translations", embed)
+    cli.cmd_hydrate(
+        Namespace(articles_dir=articles, lemma_dir=lemmas, force=False, dry_run=False, limit=1)
+    )
+    assert writes == [1]
+    assert len(processed) == 1
+    assert (articles / "2.json").read_text() == before
+
+
+def test_g2p_recovers_aligned_words_when_batch_drops_empty_word(monkeypatch):
+    import enrich_pronunciation
+
+    calls = []
+
+    def transcribe(words):
+        calls.append(words)
+        return [(word, ["H", "UH1", "N"]) for word in words if word]
+
+    monkeypatch.setattr(enrich_pronunciation.nb_g2p, "transcribe_words", transcribe)
+    entries = enrich_pronunciation.g2p_entries(["hund", "", "katt"])
+    assert set(entries) == {"hund", "katt"}
+    assert calls == [["hund", "", "katt"], ["hund"], [""], ["katt"]]

@@ -56,8 +56,8 @@ if [[ "$build_only" == false ]] && { git rev-parse -q --verify "refs/tags/${tag}
   echo "error: tag ${tag} already exists (local or remote)" >&2
   exit 1
 fi
-# Refuse a dirty tree so the archive and the release tag can't diverge.
-if [[ "$allow_dirty" == false ]] && ! git diff --quiet HEAD --; then
+# Refuse changes to tracked release contents, including untracked files.
+if [[ "$allow_dirty" == false ]] && [[ -n "$(git status --porcelain -- README.md LICENSE NOTICE docs/data-sources.md data/export/lemma)" ]]; then
   echo "error: working tree has uncommitted changes (pass --allow-dirty to override)" >&2
   exit 1
 fi

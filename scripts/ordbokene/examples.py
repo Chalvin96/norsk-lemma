@@ -32,7 +32,7 @@ import requests
 
 from .embed import write_article
 from .extract import _example_text, iter_definition_cores
-from .llm import PROVIDERS, LlmConfig, LlmError, is_quota_error, parse_fenced_json
+from .llm import PROVIDERS, LlmConfig, LlmError, LlmErrorResult, parse_fenced_json
 from .settings import (
     DEFAULT_MODEL,
     logger,
@@ -242,7 +242,7 @@ def parse_example_response(
 def embed_example_translations(
     article: dict[str, Any],
     translations: dict[int, dict[int, dict[int, str]]],
-) -> None:
+) -> bool:
     """Embed ``en`` values onto the raw example element refs via the §0 core.
 
     Mutates *article* in place.  *translations* is the full batch result
@@ -253,11 +253,12 @@ def embed_example_translations(
     """
     article_id = article.get("article_id")
     if article_id is None:
-        return
+        return False
     article_translations = translations.get(article_id, {})
     if not article_translations:
-        return
+        return False
 
+    changed = False
     cores = iter_definition_cores(article)
     for def_index, core in enumerate(cores):
         def_translations = article_translations.get(def_index, {})
@@ -270,8 +271,10 @@ def embed_example_translations(
             if en is None:
                 continue
             no_text = _example_text(el)
-            if _is_valid_translation(en, no_text, gloss):
+            if _is_valid_translation(en, no_text, gloss) and el.get("en") != en.strip():
                 el["en"] = en.strip()
+                changed = True
+    return changed
 
 
 # ---------------------------------------------------------------------------
@@ -371,7 +374,7 @@ def run(
         """Embed a completed batch. Return True if a quota/billing stop was hit."""
         nonlocal written
         if isinstance(result, str):
-            if is_quota_error(result):
+            if isinstance(result, LlmErrorResult) and result.is_quota:
                 logger.error(
                     "BILLING/QUOTA LIMIT hit (%s) — stopping. Re-run the same command "
                     "later to resume from where it left off (already-translated "
@@ -384,7 +387,8 @@ def run(
         for article_id, raw, _defs in batch:
             if article_id not in result:
                 continue
-            embed_example_translations(raw, result)
+            if not embed_example_translations(raw, result):
+                continue
             write_article(articles_dir, article_id, raw)
             written += 1
         return False
@@ -458,7 +462,8 @@ def apply_review(
     issues = review_data.get("issues", []) if isinstance(review_data, dict) else []
 
     # Group issues by article_id to minimise file I/O.
-    by_article: dict[int, list[dict[str, Any]]] = {}
+    by_article: dict[int, list[tuple[int, int, str, Any, bool]]] = {}
+    legacy_count = 0
     for issue in issues:
         if not isinstance(issue, dict):
             continue
@@ -476,7 +481,14 @@ def apply_review(
             continue
         def_index = int(match.group(1))
         example_index = int(match.group(2))
-        by_article.setdefault(article_id, []).append((def_index, example_index, suggested.strip()))
+        by_article.setdefault(article_id, []).append(
+            (def_index, example_index, suggested.strip(), issue.get("no"), "no" in issue)
+        )
+        if "no" not in issue:
+            legacy_count += 1
+
+    if legacy_count:
+        logger.warning("%d legacy review issues lack Norwegian text", legacy_count)
 
     if dry_run:
         logger.info(
@@ -497,7 +509,7 @@ def apply_review(
         cores = iter_definition_cores(article)
         changed = False
 
-        for def_index, example_index, suggested in suggestions:
+        for def_index, example_index, suggested, norwegian, has_norwegian in suggestions:
             if def_index >= len(cores):
                 logger.warning(
                     "article %d: def_index %d out of range (%d defs) — skipping",
@@ -515,6 +527,9 @@ def apply_review(
                     example_index,
                     len(source_examples),
                 )
+                continue
+            if has_norwegian and _example_text(source_examples[example_index]) != norwegian:
+                logger.warning("article %d: Norwegian example mismatch — skipping", article_id)
                 continue
             source_examples[example_index]["en"] = suggested
             changed = True
@@ -587,7 +602,7 @@ def _request_example_translations_with_harness(
             temperature=0.0,
         )
     except LlmError as exc:
-        return str(exc)
+        return LlmErrorResult(exc)
     return parse_example_response(content, batch)
 
 

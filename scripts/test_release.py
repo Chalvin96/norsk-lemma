@@ -5,7 +5,9 @@ import tarfile
 from pathlib import Path
 
 
-def test_release_given_build_only_expect_archives_with_attribution_and_no_publication(tmp_path: Path) -> None:
+def test_release_given_build_only_expect_archives_with_attribution_and_no_publication(
+    tmp_path: Path,
+) -> None:
     root = tmp_path / "release"
     scripts = root / "scripts"
     scripts.mkdir(parents=True)
@@ -27,11 +29,24 @@ def test_release_given_build_only_expect_archives_with_attribution_and_no_public
     gh.write_text('#!/bin/sh\necho called >> "$CALL_LOG"\nexit 99\n')
     gh.chmod(0o755)
     call_log = tmp_path / "gh-calls"
-    environment = {**os.environ, "PATH": f"{binaries}:{os.environ['PATH']}", "CALL_LOG": str(call_log)}
+    environment = {
+        **os.environ,
+        "PATH": f"{binaries}:{os.environ['PATH']}",
+        "CALL_LOG": str(call_log),
+    }
     subprocess.run(["git", "init", "-q", str(root)], check=True, capture_output=True)
     subprocess.run(["git", "add", "."], cwd=root, check=True, capture_output=True)
     subprocess.run(
-        ["git", "-c", "user.name=Test", "-c", "user.email=test@example.com", "commit", "-qm", "fixture"],
+        [
+            "git",
+            "-c",
+            "user.name=Test",
+            "-c",
+            "user.email=test@example.com",
+            "commit",
+            "-qm",
+            "fixture",
+        ],
         cwd=root,
         check=True,
         capture_output=True,
@@ -50,7 +65,9 @@ def test_release_given_build_only_expect_archives_with_attribution_and_no_public
     assert subprocess.check_output(["git", "tag"], cwd=root) == b""
     with tarfile.open(root / "dist/release/norsk-lemma-v1.2.3.tar.gz") as archive:
         assert archive.extractfile("lemma/1.json").read() == b'{"source_article_id":1,"lemmas":[]}'
-        assert archive.extractfile("audio/lemma/google/test-voice/word.mp3").read() == b"audio fixture"
+        assert (
+            archive.extractfile("audio/lemma/google/test-voice/word.mp3").read() == b"audio fixture"
+        )
         for name in ("LICENSE", "NOTICE", "docs/data-sources.md"):
             assert archive.extractfile(name).read() == name.encode()
     with tarfile.open(root / "dist/release/norsk-lemma-audio-google-v1.2.3.tar.gz") as archive:
@@ -69,3 +86,44 @@ def test_release_given_unknown_option_expect_error_before_side_effects(tmp_path:
     assert result.returncode == 1
     assert "unknown option" in result.stderr
     assert not (tmp_path / "dist").exists()
+
+
+def test_release_rejects_untracked_shipped_lemma_unless_allowed(tmp_path: Path) -> None:
+    root = tmp_path / "repo"
+    (root / "scripts").mkdir(parents=True)
+    shutil.copyfile(Path(__file__).with_name("release.sh"), root / "scripts/release.sh")
+    for name in (
+        "README.md",
+        "LICENSE",
+        "NOTICE",
+        "docs/data-sources.md",
+        "data/export/lemma/1.json",
+    ):
+        path = root / name
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text("fixture")
+    (root / "data/export/audio/lemma").mkdir(parents=True)
+    subprocess.run(["git", "init", "-q", str(root)], check=True)
+    subprocess.run(["git", "add", "."], cwd=root, check=True)
+    subprocess.run(
+        [
+            "git",
+            "-c",
+            "user.name=Test",
+            "-c",
+            "user.email=test@example.com",
+            "commit",
+            "-qm",
+            "fixture",
+        ],
+        cwd=root,
+        check=True,
+    )
+    (root / "data/export/lemma/2.json").write_text("untracked")
+    command = ["bash", str(root / "scripts/release.sh"), "v1.2.3", "--build-only"]
+    rejected = subprocess.run(command, cwd=root, text=True, capture_output=True)
+    assert rejected.returncode != 0
+    assert "uncommitted" in rejected.stderr
+    assert not (root / "dist").exists()
+    allowed = subprocess.run([*command, "--allow-dirty"], cwd=root, text=True, capture_output=True)
+    assert allowed.returncode == 0

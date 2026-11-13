@@ -760,6 +760,8 @@ def test_run_stops_on_quota_error_and_is_resumable(tmp_path: Path) -> None:
     for aid in range(1, 6):
         (tmp_path / f"{aid}.json").write_text(json.dumps(_make_article(aid)), encoding="utf-8")
 
+    from ordbokene.llm import LlmError, LlmErrorResult
+
     # Sequential (workers=1): the 3rd batch hits a quota error → stop before it.
     seen = []
 
@@ -767,7 +769,7 @@ def test_run_stops_on_quota_error_and_is_resumable(tmp_path: Path) -> None:
         aid = batch[0][0]
         seen.append(aid)
         if aid == 3:
-            return "codex_quota: usage limit reached"
+            return LlmErrorResult(LlmError("codex_quota", "usage limit reached", is_quota=True))
         return {aid: {0: {0: "en0", 1: "en1"}} for aid, _raw, _defs in batch}
 
     count = run(tmp_path, request_fn=fake_request, batch_size=1, workers=1)
@@ -1013,7 +1015,7 @@ def test_enrich_review_issues_with_article_id() -> None:
             article_id=42,
             lemma="gå",
             primary_translation="walk",
-            definitions=[],
+            definitions=[{"examples": [{"no": "han gikk"}]}],
         )
     ]
     enriched = _enrich_with_article_ids(result, items)
@@ -1055,3 +1057,109 @@ def test_cli_has_apply_review_subcommand() -> None:
     )
     assert args.command == "apply-review"
     assert args.severity_threshold == "high"
+
+
+def test_run_stops_after_transport_quota_error(tmp_path: Path, monkeypatch) -> None:
+    from ordbokene import examples
+    from ordbokene.llm import LlmError
+
+    for aid in (1, 2):
+        (tmp_path / f"{aid}.json").write_text(json.dumps(_make_article(aid)), encoding="utf-8")
+    calls = []
+
+    def provider(*args, **kwargs):
+        calls.append(1)
+        raise LlmError("provider_failure", is_quota=True)
+
+    monkeypatch.setitem(examples.PROVIDERS, "openrouter", provider)
+    assert examples.run(tmp_path, batch_size=1) == 0
+    assert len(calls) == 1
+
+
+def test_run_does_not_write_or_count_rejected_or_unchanged_examples(tmp_path: Path) -> None:
+    from ordbokene.examples import run
+
+    article = _make_article()
+    path = tmp_path / "1.json"
+    original = json.dumps(article)
+    path.write_text(original, encoding="utf-8")
+
+    def rejected(*args):
+        return {1: {0: {0: "han gikk", 1: "de løp"}}}
+
+    assert run(tmp_path, request_fn=rejected) == 0
+    assert path.read_text(encoding="utf-8") == original
+
+    article["body"]["definitions"][0]["elements"][1]["en"] = "he walked"
+    original = json.dumps(article)
+    path.write_text(original, encoding="utf-8")
+
+    def unchanged(*args):
+        return {1: {0: {0: "he walked"}}}
+
+    assert run(tmp_path, request_fn=unchanged, force=True) == 0
+    assert path.read_text(encoding="utf-8") == original
+
+
+def test_review_uses_batch_identity_and_reviewed_example(caplog) -> None:
+    from ordbokene.review import TranslationReviewItem, _enrich_with_article_ids
+
+    items = [TranslationReviewItem(42, "gå", "walk", [{"examples": [{"no": "han gikk"}]}])]
+    result = {
+        "issues": [
+            {"id": 0, "field": "definitions[0].examples[0].en", "article_id": 42, "no": "wrong"},
+            {"id": 0, "field": "primary_translation"},
+            {"id": 0, "article_id": 99},
+            {"id": 2},
+            {},
+        ]
+    }
+    enriched = _enrich_with_article_ids(result, items)
+    assert enriched["issues"] == [
+        {"id": 0, "field": "definitions[0].examples[0].en", "article_id": 42, "no": "han gikk"},
+        {"id": 0, "field": "primary_translation", "article_id": 42},
+    ]
+    assert "3" in caplog.text
+
+
+def test_apply_review_checks_norwegian_and_warns_once_for_legacy(tmp_path: Path, caplog) -> None:
+    from ordbokene.examples import apply_review
+
+    (tmp_path / "1.json").write_text(json.dumps(_make_article()), encoding="utf-8")
+    issues = [
+        {
+            "article_id": 1,
+            "field": "definitions[0].examples[0].en",
+            "severity": "high",
+            "suggested_en": "wrong",
+            "no": "old text",
+        },
+        {
+            "article_id": 1,
+            "field": "definitions[0].examples[1].en",
+            "severity": "high",
+            "suggested_en": "ran",
+            "no": "de løp",
+        },
+        {
+            "article_id": 1,
+            "field": "definitions[0].examples[1].en",
+            "severity": "high",
+            "suggested_en": "legacy",
+        },
+        {
+            "article_id": 1,
+            "field": "definitions[0].examples[1].en",
+            "severity": "high",
+            "suggested_en": "legacy again",
+        },
+    ]
+    path = tmp_path / "review.json"
+    path.write_text(json.dumps({"issues": issues}), encoding="utf-8")
+    assert apply_review(tmp_path, path) == 1
+    examples = json.loads((tmp_path / "1.json").read_text())["body"]["definitions"][0]["elements"][
+        1:
+    ]
+    assert [e["en"] for e in examples] == ["", "legacy again"]
+    assert "mismatch" in caplog.text.lower()
+    assert caplog.text.lower().count("legacy") == 1

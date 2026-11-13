@@ -4,6 +4,7 @@ Audio must persist into articles/ (the source of truth) so that a re-export
 reproduces it into lemma/ losslessly, instead of being wiped by
 ``export --force``. This mirrors the example/definition-translation flow.
 """
+
 import json
 from pathlib import Path
 
@@ -90,3 +91,36 @@ def test_embed_skips_unmatched_lemma_id(tmp_path: Path) -> None:
     assert written == 0
     raw = json.loads((articles / "8969.json").read_text())
     assert "audio" not in raw["lemmas"][0]
+
+
+def test_conflicting_jobs_choose_same_clip_in_either_order(tmp_path: Path, capsys) -> None:
+    from dataclasses import replace
+
+    articles = tmp_path / "articles"
+    articles.mkdir()
+    path = articles / "8969.json"
+    first = _job(8969, 10622)
+    second = replace(first, filename="other.mp3", text="other", content_sha256=None)
+    winners = []
+    for jobs in ([first, second], [second, first]):
+        path.write_text(json.dumps(_article(8969, 10622)), encoding="utf-8")
+        embed_audio_into_articles(articles, jobs)
+        winners.append(json.loads(path.read_text())["lemmas"][0]["audio"]["lemma"][0]["file"])
+        assert "conflict" in capsys.readouterr().out.lower()
+    assert winners == [first.filename, first.filename]
+
+
+def test_current_pronunciation_job_wins_conflict(tmp_path: Path) -> None:
+    from dataclasses import replace
+
+    articles = tmp_path / "articles"
+    articles.mkdir()
+    path = articles / "8969.json"
+    path.write_text(json.dumps(_article(8969, 10622)), encoding="utf-8")
+    old = _job(8969, 10622)
+    current = replace(
+        old, key=("coulomb", "known", 2), tone_status="known", tone=2, filename="current.mp3"
+    )
+    embed_audio_into_articles(articles, [current, old], current_jobs=[current])
+    item = json.loads(path.read_text())["lemmas"][0]["audio"]["lemma"][0]
+    assert item["file"] == current.filename

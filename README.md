@@ -67,6 +67,7 @@ flowchart LR
 | `translate-examples` | Backfill example translations without regenerating sense glosses. |
 | `pronounce` | Add IPA and pitch accent using NB Uttale, its additions, then `nb-g2p`. |
 | `export` | Build lemma JSON from articles with embedded translations. |
+| `prune` | Remove lemma files that cannot be rebuilt from the article cache. |
 | `frequency` | Match the vendored Kelly list to exported lemma/POS pairs. |
 | `review` | Ask an LLM to inspect exported translations and report issues. |
 | `apply-review` | Apply supported example-translation suggestions to articles. |
@@ -129,6 +130,7 @@ uv run python pipeline.py fetch
 uv run python pipeline.py hydrate
 uv run python pipeline.py pronounce
 uv run python pipeline.py export
+uv run python pipeline.py prune
 uv run python pipeline.py frequency
 ```
 
@@ -136,7 +138,7 @@ Hydration validates the release in a staging directory, then swaps it into
 `--lemma-dir`; an existing export remains available if download, validation, or
 installation fails. The swap completes before article hydration, and `--limit`
 applies only to that article step. Use a separate directory if you need to
-retain a local export. Existing article translations are skipped unless
+retain a local export. Existing nonblank article translations are preserved unless
 `--force` is supplied. Hydration restores headword glosses, definition glosses,
 and example translations. It matches definitions and examples by Norwegian text,
 using occurrence order when duplicate texts occur. Use a compatible article
@@ -149,6 +151,7 @@ For articles already enriched locally, the rebuild requires no model calls:
 
 ```bash
 uv run python pipeline.py export
+uv run python pipeline.py prune
 uv run python pipeline.py frequency
 ```
 
@@ -158,8 +161,11 @@ preserved when the source lemma ID, spelling, homograph number, and POS match.
 Run `frequency` to calculate ranks for new or changed entries and refresh the
 match report. Audio survives a rebuild when it is present in the article cache;
 export alone cannot recover audio metadata that exists only in an older export.
-Export does not remove old files for articles that are now absent or skipped;
-check for stale files when changing source snapshots.
+`prune` removes files that cannot be rebuilt, including articles absent from the cache.
+It requires at least one article with embedded translations; run hydrate or translate first.
+It deletes tracked files; review `git status` before committing. Use `prune --dry-run`
+to preview the count and first 20 IDs. Run hydrate → export → prune → frequency
+when rebuilding from a release.
 
 ### Translate examples and review
 
@@ -167,6 +173,7 @@ check for stale files when changing source snapshots.
 uv run python pipeline.py translate-examples --dry-run --limit 20
 uv run python pipeline.py translate-examples --limit 20
 uv run python pipeline.py export
+uv run python pipeline.py prune
 uv run python pipeline.py frequency
 
 uv run python pipeline.py review --limit 100 --dry-run
@@ -183,6 +190,7 @@ Inspect the report before applying its example fixes:
 uv run python pipeline.py apply-review --review translation-review.json --dry-run
 uv run python pipeline.py apply-review --review translation-review.json
 uv run python pipeline.py export
+uv run python pipeline.py prune
 uv run python pipeline.py frequency
 ```
 
@@ -196,6 +204,7 @@ to the article translations.
 ```bash
 uv run python pipeline.py pronounce --workers 8
 uv run python pipeline.py export
+uv run python pipeline.py prune
 uv run python pipeline.py frequency --dry-run
 uv run python pipeline.py frequency
 ```
@@ -229,6 +238,7 @@ The default voice is `nb-NO-Chirp3-HD-Aoede`. Unbounded synthesis requires
 ```bash
 uv run --group audio python pipeline.py audio --confirm-cost
 uv run python pipeline.py export
+uv run python pipeline.py prune
 uv run python pipeline.py frequency
 ```
 
@@ -245,6 +255,7 @@ preview with `audio --enrich-only --dry-run`, then run:
 ```bash
 uv run --group audio python pipeline.py audio --enrich-only
 uv run python pipeline.py export
+uv run python pipeline.py prune
 uv run python pipeline.py frequency
 ```
 

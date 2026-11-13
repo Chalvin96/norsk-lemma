@@ -378,7 +378,7 @@ release archives:     {path}      →  audio/lemma/google/{voice}/...mp3   (arch
 Both release tarballs lay the audio at `audio/lemma/...` from their root, so
 `path` resolves directly there.
 
-The `file` field is a stable content-addressed name (SHA-256 of `provider|voice|language_code|text|tone_status|tone`). It does not change if the same word is re-synthesized with the same parameters, so `url`/`path` are equally stable.
+The `file` field is a stable input-addressed name (SHA-256 of `provider|voice|language_code|text|tone_status|tone`). It does not change if the same word is re-synthesized with the same parameters, so `url`/`path` are equally stable.
 
 ### Manifest
 
