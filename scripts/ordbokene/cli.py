@@ -513,14 +513,16 @@ def cmd_pronounce(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
-def _build_exportable(article_id: int, raw: dict | None) -> dict | None:
-    if raw is None or not raw.get("lemmas"):
-        return None
+def _build_exportable(article_id: int, raw: dict | None) -> tuple[str, dict | None]:
+    if raw is None:
+        return "missing", None
+    if not raw.get("lemmas"):
+        return "no_lemmas", None
     existing = extract_existing_translations(raw)
     if existing is None:
-        return None
+        return "no_translations", None
     result = build_lemma(copy.deepcopy(raw), existing, article_id)
-    return result if result.get("lemmas") else None
+    return ("ok", result) if result.get("lemmas") else ("no_lemmas", None)
 
 
 @_locks_articles("prune")
@@ -536,7 +538,7 @@ def cmd_prune(args: argparse.Namespace) -> None:
         path
         for path in sorted(lemma_dir.glob("*.json"))
         if path.stem.isdigit()
-        and _build_exportable(int(path.stem), articles.get(int(path.stem))) is None
+        and _build_exportable(int(path.stem), articles.get(int(path.stem)))[0] != "ok"
     ]
     logger.info(
         "prune — %d stale lemma files%s: %s",
@@ -569,9 +571,9 @@ def cmd_export(args: argparse.Namespace) -> None:
     rebuilt = set()
     for article_id, raw in tqdm(pending, unit="article", desc="Exporting"):
         output_path = lemma_dir / f"{article_id}.json"
-        lemma_data = _build_exportable(article_id, raw)
+        reason, lemma_data = _build_exportable(article_id, raw)
         if lemma_data is None:
-            if output_path.exists():
+            if reason == "no_lemmas" and output_path.exists():
                 output_path.unlink()
             continue
         rebuilt.add(article_id)
@@ -592,12 +594,13 @@ def cmd_export(args: argparse.Namespace) -> None:
         written += 1
 
     logger.info("export done — %d lemma files written to %s", written, lemma_dir)
-    unreconstructed = sum(
-        1
-        for path in lemma_dir.glob("*.json")
-        if path.stem.isdigit() and int(path.stem) not in rebuilt
-    )
-    logger.info("export — %d existing lemma files not rebuilt; run prune", unreconstructed)
+    if not args.limit:
+        unreconstructed = sum(
+            1
+            for path in lemma_dir.glob("*.json")
+            if path.stem.isdigit() and int(path.stem) not in rebuilt
+        )
+        logger.info("export — %d existing lemma files not rebuilt; run prune", unreconstructed)
 
 
 # ---------------------------------------------------------------------------

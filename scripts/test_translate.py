@@ -3323,3 +3323,22 @@ def test_g2p_dropped_or_mismatched_word_never_receives_another_pronunciation(mon
     )
     assert enrich_pronunciation.g2p_entries(["hund", "…", "katt"]) == {}
     assert enrich_pronunciation.g2p_entries(["hund", "annet"]) == {}
+
+
+def test_export_preserves_untranslated_file_until_prune(tmp_path, caplog):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    (articles / "1.json").write_text(json.dumps(_translation_article()))
+    output = lemmas / "1.json"
+    output.write_text('{"old": true}')
+    args = Namespace(articles_dir=articles, lemma_dir=lemmas, dry_run=False, limit=1, force=False)
+    with caplog.at_level("INFO"):
+        cli.cmd_export(args)
+    assert output.read_text() == '{"old": true}'
+    assert "not rebuilt" not in caplog.text
+    cli.cmd_prune(args)
+    assert not output.exists()
