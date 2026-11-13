@@ -1015,7 +1015,7 @@ def test_enrich_review_issues_with_article_id() -> None:
             article_id=42,
             lemma="gå",
             primary_translation="walk",
-            definitions=[],
+            definitions=[{"examples": [{"no": "han gikk"}]}],
         )
     ]
     enriched = _enrich_with_article_ids(result, items)
@@ -1099,3 +1099,67 @@ def test_run_does_not_write_or_count_rejected_or_unchanged_examples(tmp_path: Pa
 
     assert run(tmp_path, request_fn=unchanged, force=True) == 0
     assert path.read_text(encoding="utf-8") == original
+
+
+def test_review_uses_batch_identity_and_reviewed_example(caplog) -> None:
+    from ordbokene.review import TranslationReviewItem, _enrich_with_article_ids
+
+    items = [TranslationReviewItem(42, "gå", "walk", [{"examples": [{"no": "han gikk"}]}])]
+    result = {
+        "issues": [
+            {"id": 0, "field": "definitions[0].examples[0].en", "article_id": 42, "no": "wrong"},
+            {"id": 0, "field": "primary_translation"},
+            {"id": 0, "article_id": 99},
+            {"id": 2},
+            {},
+        ]
+    }
+    enriched = _enrich_with_article_ids(result, items)
+    assert enriched["issues"] == [
+        {"id": 0, "field": "definitions[0].examples[0].en", "article_id": 42, "no": "han gikk"},
+        {"id": 0, "field": "primary_translation", "article_id": 42},
+    ]
+    assert "3" in caplog.text
+
+
+def test_apply_review_checks_norwegian_and_warns_once_for_legacy(tmp_path: Path, caplog) -> None:
+    from ordbokene.examples import apply_review
+
+    (tmp_path / "1.json").write_text(json.dumps(_make_article()), encoding="utf-8")
+    issues = [
+        {
+            "article_id": 1,
+            "field": "definitions[0].examples[0].en",
+            "severity": "high",
+            "suggested_en": "wrong",
+            "no": "old text",
+        },
+        {
+            "article_id": 1,
+            "field": "definitions[0].examples[1].en",
+            "severity": "high",
+            "suggested_en": "ran",
+            "no": "de løp",
+        },
+        {
+            "article_id": 1,
+            "field": "definitions[0].examples[1].en",
+            "severity": "high",
+            "suggested_en": "legacy",
+        },
+        {
+            "article_id": 1,
+            "field": "definitions[0].examples[1].en",
+            "severity": "high",
+            "suggested_en": "legacy again",
+        },
+    ]
+    path = tmp_path / "review.json"
+    path.write_text(json.dumps({"issues": issues}), encoding="utf-8")
+    assert apply_review(tmp_path, path) == 1
+    examples = json.loads((tmp_path / "1.json").read_text())["body"]["definitions"][0]["elements"][
+        1:
+    ]
+    assert [e["en"] for e in examples] == ["", "legacy again"]
+    assert "mismatch" in caplog.text.lower()
+    assert caplog.text.lower().count("legacy") == 1

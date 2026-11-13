@@ -462,7 +462,8 @@ def apply_review(
     issues = review_data.get("issues", []) if isinstance(review_data, dict) else []
 
     # Group issues by article_id to minimise file I/O.
-    by_article: dict[int, list[dict[str, Any]]] = {}
+    by_article: dict[int, list[tuple[int, int, str, Any, bool]]] = {}
+    legacy_count = 0
     for issue in issues:
         if not isinstance(issue, dict):
             continue
@@ -480,7 +481,14 @@ def apply_review(
             continue
         def_index = int(match.group(1))
         example_index = int(match.group(2))
-        by_article.setdefault(article_id, []).append((def_index, example_index, suggested.strip()))
+        by_article.setdefault(article_id, []).append(
+            (def_index, example_index, suggested.strip(), issue.get("no"), "no" in issue)
+        )
+        if "no" not in issue:
+            legacy_count += 1
+
+    if legacy_count:
+        logger.warning("%d legacy review issues lack Norwegian text", legacy_count)
 
     if dry_run:
         logger.info(
@@ -501,7 +509,7 @@ def apply_review(
         cores = iter_definition_cores(article)
         changed = False
 
-        for def_index, example_index, suggested in suggestions:
+        for def_index, example_index, suggested, norwegian, has_norwegian in suggestions:
             if def_index >= len(cores):
                 logger.warning(
                     "article %d: def_index %d out of range (%d defs) — skipping",
@@ -519,6 +527,9 @@ def apply_review(
                     example_index,
                     len(source_examples),
                 )
+                continue
+            if has_norwegian and _example_text(source_examples[example_index]) != norwegian:
+                logger.warning("article %d: Norwegian example mismatch — skipping", article_id)
                 continue
             source_examples[example_index]["en"] = suggested
             changed = True

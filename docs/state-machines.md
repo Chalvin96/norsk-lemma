@@ -184,13 +184,10 @@ Invariants:
 `definitions[N].examples[M].en`. `apply-review` writes `suggested_en` at that
 position.
 
-- **I7.1 An issue's `article_id` comes from the batch mapping.** Violated.
-  `_enrich_with_article_ids` uses `setdefault` (`review.py:205`), so an
-  `article_id` the model writes wins over the batch mapping. **SM-7.**
-- **I7.2 The target example is the one reviewed.** Unenforced. Issues carry
-  no Norwegian text, and `apply-review` writes by index (`examples.py:519`).
-  A re-fetch or hydrate between review and apply writes English onto a
-  different sentence. **SM-7.**
+- **I7.1 An issue's `article_id` comes from the batch mapping.** Enforced (SM-7).
+  Review drops invalid or conflicting IDs and assigns the mapped article ID.
+- **I7.2 The target example is the one reviewed.** Enforced (SM-7).
+  Review records Norwegian example text and apply checks it, warning for legacy issues without text.
 
 ## 8. Release (`scripts/release.sh`)
 
@@ -237,7 +234,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-4 | fixed |
 | SM-5 | fixed |
 | SM-6 | fixed |
-| SM-7 | open |
+| SM-7 | fixed |
 | SM-8 | open |
 | SM-9 | fixed |
 | SM-10 | open |
