@@ -1,4 +1,5 @@
 """Tests for the shared LLM transport (ordbokene.llm)."""
+
 import json
 from types import SimpleNamespace
 
@@ -230,7 +231,10 @@ def test_complete_cli_stdout_success(monkeypatch) -> None:
         return SimpleNamespace(returncode=0, stdout='{"1": {}}', stderr="")
 
     monkeypatch.setattr(llm.subprocess, "run", fake_run)
-    assert complete_cli(HARNESSES["claude"], LlmConfig(model="m", retry_delay=0), "prompt") == '{"1": {}}'
+    assert (
+        complete_cli(HARNESSES["claude"], LlmConfig(model="m", retry_delay=0), "prompt")
+        == '{"1": {}}'
+    )
 
 
 def test_complete_cli_file_output_success(monkeypatch) -> None:
@@ -241,7 +245,10 @@ def test_complete_cli_file_output_success(monkeypatch) -> None:
         return SimpleNamespace(returncode=0, stdout="", stderr="")
 
     monkeypatch.setattr(llm.subprocess, "run", fake_run)
-    assert complete_cli(HARNESSES["codex"], LlmConfig(model="m", retry_delay=0), "prompt") == '{"2": {}}'
+    assert (
+        complete_cli(HARNESSES["codex"], LlmConfig(model="m", retry_delay=0), "prompt")
+        == '{"2": {}}'
+    )
 
 
 def test_complete_cli_arg_input_appends_prompt(monkeypatch) -> None:
@@ -357,3 +364,20 @@ def test_complete_cli_passes_prompt_on_stdin_for_stdin_mode(monkeypatch) -> None
     complete_cli(HARNESSES["claude"], LlmConfig(model="m", retry_delay=0), "PROMPT")
     assert seen.get("input") == "PROMPT"
     assert "stdin" not in seen
+
+
+def test_numeric_quota_codes_do_not_match_inside_article_ids() -> None:
+    assert not is_quota_error("targets=[(43429, None), (27991, None)]")
+
+
+@pytest.mark.parametrize("status", [402, 429])
+def test_http_billing_errors_are_marked_as_quota(monkeypatch, status) -> None:
+    monkeypatch.setenv("OPENROUTER_API_KEY", "k")
+    with pytest.raises(LlmError) as excinfo:
+        complete_openrouter(
+            _FakeSession([_FakeResponse(status)]),
+            LlmConfig(model="m", max_retries=1),
+            "p",
+            max_tokens=10,
+        )
+    assert excinfo.value.is_quota

@@ -760,6 +760,8 @@ def test_run_stops_on_quota_error_and_is_resumable(tmp_path: Path) -> None:
     for aid in range(1, 6):
         (tmp_path / f"{aid}.json").write_text(json.dumps(_make_article(aid)), encoding="utf-8")
 
+    from ordbokene.llm import LlmError, LlmErrorResult
+
     # Sequential (workers=1): the 3rd batch hits a quota error → stop before it.
     seen = []
 
@@ -767,7 +769,7 @@ def test_run_stops_on_quota_error_and_is_resumable(tmp_path: Path) -> None:
         aid = batch[0][0]
         seen.append(aid)
         if aid == 3:
-            return "codex_quota: usage limit reached"
+            return LlmErrorResult(LlmError("codex_quota", "usage limit reached", is_quota=True))
         return {aid: {0: {0: "en0", 1: "en1"}} for aid, _raw, _defs in batch}
 
     count = run(tmp_path, request_fn=fake_request, batch_size=1, workers=1)
@@ -1055,3 +1057,20 @@ def test_cli_has_apply_review_subcommand() -> None:
     )
     assert args.command == "apply-review"
     assert args.severity_threshold == "high"
+
+
+def test_run_stops_after_transport_quota_error(tmp_path: Path, monkeypatch) -> None:
+    from ordbokene import examples
+    from ordbokene.llm import LlmError
+
+    for aid in (1, 2):
+        (tmp_path / f"{aid}.json").write_text(json.dumps(_make_article(aid)), encoding="utf-8")
+    calls = []
+
+    def provider(*args, **kwargs):
+        calls.append(1)
+        raise LlmError("provider_failure", is_quota=True)
+
+    monkeypatch.setitem(examples.PROVIDERS, "openrouter", provider)
+    assert examples.run(tmp_path, batch_size=1) == 0
+    assert len(calls) == 1

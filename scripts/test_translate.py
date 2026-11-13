@@ -2744,7 +2744,7 @@ def test_quota_preserves_prior_success_and_stops_retries(tmp_path, monkeypatch):
         calls.append(1)
         if len(calls) == 1:
             return json.dumps({"1": _translation_result()})
-        raise LlmError("quota", "limit reached")
+        raise LlmError("quota", "limit reached", is_quota=True)
 
     monkeypatch.setitem(client.PROVIDERS, "codex", provider)
     cfg = _translation_config(tmp_path, max_retries=3)
@@ -3024,3 +3024,96 @@ def _run_audio(
         options["synthesize"] = synthesize
     options.update(kwargs)
     return generate_audio.run(**options)
+
+
+def test_translate_continues_after_source_error_containing_article_id(tmp_path, monkeypatch):
+    from ordbokene import cli
+
+    args = cli.build_parser().parse_args(
+        [
+            "translate",
+            "--articles-dir",
+            str(tmp_path),
+            "--error-log",
+            str(tmp_path / "errors.log"),
+            "--batch-size",
+            "1",
+            "--force",
+        ]
+    )
+    monkeypatch.setattr(cli, "ensure_articles_dir", lambda *_: None)
+    monkeypatch.setattr(cli, "explode", lambda *_: [(i, _translation_article(i)) for i in (1, 2)])
+    seen = []
+
+    def request(_session, _args, batch):
+        seen.append(batch[0][0])
+        if len(seen) == 1:
+            return {
+                0: "unresolved_semantic_reference: multi_target targets=[(43429, None), (27991, None)]"
+            }
+        return {0: _translation_result()}
+
+    monkeypatch.setattr(cli, "request_translations", request)
+    cli.cmd_translate(args)
+    assert seen == [1, 2]
+    assert (tmp_path / "2.json").exists()
+
+
+def test_translate_stops_after_first_batch_when_api_key_missing(tmp_path, monkeypatch, caplog):
+    from ordbokene import cli
+
+    args = cli.build_parser().parse_args(
+        [
+            "translate",
+            "--articles-dir",
+            str(tmp_path),
+            "--error-log",
+            str(tmp_path / "errors.log"),
+            "--batch-size",
+            "1",
+            "--force",
+        ]
+    )
+    monkeypatch.setattr(cli, "ensure_articles_dir", lambda *_: None)
+    monkeypatch.setattr(cli, "explode", lambda *_: [(i, _translation_article(i)) for i in (1, 2)])
+    monkeypatch.delenv("OPENROUTER_API_KEY", raising=False)
+    calls = []
+    original = cli.request_translations
+
+    def request(*args):
+        calls.append(1)
+        return original(*args)
+
+    monkeypatch.setattr(cli, "request_translations", request)
+    cli.cmd_translate(args)
+    assert len(calls) == 1
+    assert "missing_api_key" in caplog.text
+
+
+def test_translate_stops_after_transport_quota_error(tmp_path, monkeypatch):
+    from ordbokene import cli, client
+    from ordbokene.llm import LlmError
+
+    args = cli.build_parser().parse_args(
+        [
+            "translate",
+            "--articles-dir",
+            str(tmp_path),
+            "--error-log",
+            str(tmp_path / "errors.log"),
+            "--batch-size",
+            "1",
+            "--force",
+        ]
+    )
+    monkeypatch.setattr(cli, "ensure_articles_dir", lambda *_: None)
+    monkeypatch.setattr(cli, "explode", lambda *_: [(i, _translation_article(i)) for i in (1, 2)])
+    calls = []
+
+    def provider(*args, **kwargs):
+        calls.append(1)
+        raise LlmError("provider_failure", is_quota=True)
+
+    monkeypatch.setitem(client.PROVIDERS, "openrouter", provider)
+    cli.cmd_translate(args)
+    assert len(calls) == 1

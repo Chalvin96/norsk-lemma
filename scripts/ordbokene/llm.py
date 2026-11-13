@@ -51,11 +51,9 @@ _QUOTA_ERROR_MARKERS = (
     "rate limit",
     "rate_limit",
     "too many requests",
-    "429",
     "insufficient",
     "billing",
     "payment required",
-    "402",
     "credit",
     "limit reached",
     "limit exceeded",
@@ -75,7 +73,9 @@ _WINDOWS_MAX_ARG_PROMPT_CODE_UNITS = 28_000
 def is_quota_error(message: str) -> bool:
     """Return True if *message* signals a billing/usage/rate limit (hard stop)."""
     low = (message or "").lower()
-    return any(marker in low for marker in _QUOTA_ERROR_MARKERS)
+    return bool(re.search(r"\b(?:402|429)\b", low)) or any(
+        marker in low for marker in _QUOTA_ERROR_MARKERS
+    )
 
 
 @dataclass(frozen=True)
@@ -91,10 +91,19 @@ class LlmConfig:
 class LlmError(Exception):
     """Transport-level failure. ``code`` is the stable machine-readable token."""
 
-    def __init__(self, code: str, detail: str = "") -> None:
+    def __init__(self, code: str, detail: str = "", *, is_quota: bool = False) -> None:
         super().__init__(f"{code}: {detail}" if detail else code)
         self.code = code
         self.detail = detail
+        self.is_quota = is_quota
+
+
+class LlmErrorResult(str):
+    def __new__(cls, error: LlmError):
+        result = super().__new__(cls, str(error))
+        result.code = error.code
+        result.is_quota = error.is_quota
+        return result
 
 
 def parse_fenced_json(content: str) -> Any | None:
@@ -175,7 +184,11 @@ def complete_openrouter(
             time.sleep(config.retry_delay)
             continue
         if response.status_code != 200:
-            raise LlmError(f"http_{response.status_code}", detail=response.text[:200])
+            raise LlmError(
+                f"http_{response.status_code}",
+                detail=response.text[:200],
+                is_quota=response.status_code in {402, 429},
+            )
 
         try:
             return response.json()["choices"][0]["message"]["content"]
@@ -344,7 +357,7 @@ def complete_cli(harness: CliHarness, config: LlmConfig, prompt: str) -> str:
             if completed.returncode != 0:
                 message = (completed.stderr or completed.stdout or "").strip()
                 if is_quota_error(message):
-                    raise LlmError(f"{harness.name}_quota", message[:500])
+                    raise LlmError(f"{harness.name}_quota", message[:500], is_quota=True)
                 if attempt == config.max_retries:
                     raise LlmError(f"{harness.name}_exit_{completed.returncode}", message[:500])
                 logger.warning(
@@ -369,7 +382,7 @@ def complete_cli(harness: CliHarness, config: LlmConfig, prompt: str) -> str:
         # Exit 0 but no usable answer: a quota/limit message on stderr means stop,
         # not retry (the CLI swallowed the limit into a clean exit).
         if is_quota_error(diagnostic):
-            raise LlmError(f"{harness.name}_quota", diagnostic[:500])
+            raise LlmError(f"{harness.name}_quota", diagnostic[:500], is_quota=True)
         if attempt == config.max_retries:
             raise LlmError(f"{harness.name}_empty_response")
         time.sleep(min(_NETWORK_ERROR_MAX_SLEEP, config.retry_delay))

@@ -95,7 +95,7 @@ Per article in a batch:
 | pending | valid result | accepted (cache write before return) |
 | pending | invalid result, attempts left | pending (sleep `retry_delay`) |
 | pending | invalid result, last attempt | rejected:llm |
-| pending | `missing_api_key` | rejected:llm for all pending |
+| pending | `missing_api_key` | stopped |
 | pending | quota error | stopped |
 
 Invariants:
@@ -104,19 +104,10 @@ Invariants:
   `PIPELINE_VERSION`, model, harness, effort, full prompt (`client.py:481`).
 - **I2.2 Accepted results are durable before the caller writes articles.**
   Enforced (`client.py:536-538`).
-- **I2.3 "Quota" means a provider billing or rate limit.** Violated.
-  `is_quota_error` (`llm.py:75`) substring-matches `429`, `402`, `credit`,
-  `quota` and others against any string. `cmd_translate` (`cli.py:392`)
-  applies it to source-validation errors that embed article ids. 135 upstream
-  articles produce such an error, for example article 1153:
-  `unresolved_semantic_reference: multi_target targets=[(43429, None), ...]`
-  contains `429`. Translate treats it as a billing stop. The error is
-  deterministic, so every resumed run stops at the same article; article 1153
-  sits in batch 68 of a fresh run. `examples.py:374` and `client.py:533` share
-  the same classifier. **SM-1.**
-- **I2.4 A missing API key stops the run.** Violated. `missing_api_key` is not
-  a quota error, so `cmd_translate` walks every batch and logs one error per
-  article. **SM-1.**
+- **I2.3 "Quota" means a provider billing or rate limit.** Enforced (SM-1).
+  Transport errors carry a quota flag from HTTP status or CLI diagnostics, and callers use that flag rather than classifying validation errors.
+- **I2.4 A missing API key stops the run.** Enforced (SM-1).
+  Translate stops after the first affected batch and logs the missing key once.
 
 ## 3. Example translation (`examples.run`)
 
@@ -136,7 +127,7 @@ Invariants:
 - **I3.2 Written means changed.** Violated. An article whose every returned
   translation is rejected is still rewritten and counted (`examples.py:384-389`).
   **SM-9.**
-- **I3.3 Quota classification.** Shares I2.3. **SM-1.**
+- **I3.3 Quota classification.** Enforced (SM-1). Example translation uses the transport error quota flag.
 
 ## 4. Lemma export file (`data/export/lemma/{id}.json`)
 
@@ -271,7 +262,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 
 | ID | Status |
 |---|---|
-| SM-1 | open |
+| SM-1 | fixed |
 | SM-2 | open |
 | SM-3 | open |
 | SM-4 | open |

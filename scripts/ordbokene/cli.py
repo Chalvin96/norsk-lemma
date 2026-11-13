@@ -48,7 +48,7 @@ from .extract import (
     iter_definition_cores,
 )
 from .io import ExplodedEntry, explode, write_error, write_lemma
-from .llm import is_quota_error
+from .llm import LlmErrorResult
 from .review import build_review_prompt, collect_translation_reviews, request_translation_review
 from .settings import (
     DEFAULT_ARTICLES_DIR,
@@ -384,12 +384,16 @@ def cmd_translate(args: argparse.Namespace) -> None:
     batch_starts = range(0, len(pending), args.batch_size)
     progress = tqdm(batch_starts, unit="batch", desc="Translating")
     stopped = False
+    missing_key = False
     for start in progress:
         batch = pending[start : start + args.batch_size]
         results = request_translations(session, args, batch)
         for local_idx, (article_id, raw) in enumerate(batch):
             result = results.get(local_idx)
-            if isinstance(result, str) and is_quota_error(result):
+            if isinstance(result, LlmErrorResult) and result.code == "missing_api_key":
+                missing_key = True
+                continue
+            if isinstance(result, LlmErrorResult) and result.is_quota:
                 stopped = True
                 # Continue through this batch so successful responses already
                 # returned alongside the quota error are still persisted.
@@ -413,6 +417,9 @@ def cmd_translate(args: argparse.Namespace) -> None:
             write_article(articles_dir, article_id, article)
             written += 1
         progress.set_postfix(written=written)
+        if missing_key:
+            logger.error("missing_api_key — stopping translation; set OPENROUTER_API_KEY.")
+            break
         if stopped:
             logger.error(
                 "BILLING/QUOTA LIMIT hit — stopping after current batch; "
@@ -421,7 +428,9 @@ def cmd_translate(args: argparse.Namespace) -> None:
             break
 
     logger.info(
-        "translate %s — %d articles updated", "stopped at limit" if stopped else "done", written
+        "translate %s — %d articles updated",
+        "stopped" if missing_key else "stopped at limit" if stopped else "done",
+        written,
     )
 
 

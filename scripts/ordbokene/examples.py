@@ -32,7 +32,7 @@ import requests
 
 from .embed import write_article
 from .extract import _example_text, iter_definition_cores
-from .llm import PROVIDERS, LlmConfig, LlmError, is_quota_error, parse_fenced_json
+from .llm import PROVIDERS, LlmConfig, LlmError, LlmErrorResult, parse_fenced_json
 from .settings import (
     DEFAULT_MODEL,
     logger,
@@ -371,7 +371,7 @@ def run(
         """Embed a completed batch. Return True if a quota/billing stop was hit."""
         nonlocal written
         if isinstance(result, str):
-            if is_quota_error(result):
+            if isinstance(result, LlmErrorResult) and result.is_quota:
                 logger.error(
                     "BILLING/QUOTA LIMIT hit (%s) — stopping. Re-run the same command "
                     "later to resume from where it left off (already-translated "
@@ -587,7 +587,7 @@ def _request_example_translations_with_harness(
             temperature=0.0,
         )
     except LlmError as exc:
-        return str(exc)
+        return LlmErrorResult(exc)
     return parse_example_response(content, batch)
 
 

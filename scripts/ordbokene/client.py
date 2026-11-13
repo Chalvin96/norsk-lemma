@@ -16,7 +16,7 @@ from .extract import (
     source_packet,
 )
 from .io import ExplodedEntry, write_text_atomically
-from .llm import PROVIDERS, LlmConfig, LlmError, is_quota_error
+from .llm import PROVIDERS, LlmConfig, LlmError, LlmErrorResult
 from .prompt import build_prompt, response_schema
 from .settings import logger
 
@@ -113,16 +113,16 @@ def request_translations(
             parsed = _parse_json_response(content, [p["article_id"] for p in packets])
         except LlmError as exc:
             if exc.code == "missing_api_key":
-                results.update({index: str(exc) for index in pending})
+                results.update({index: LlmErrorResult(exc) for index in pending})
                 break
-            parsed = {i: str(exc) for i in range(len(packets))}
+            parsed = {i: LlmErrorResult(exc) for i in range(len(packets))}
         stopped = False
         for local_index, (index, packet) in enumerate(list(pending.items())):
             result = parsed.get(local_index, "missing_result")
             error = result if isinstance(result, str) else validate_translation(packet, result)
             if error:
                 results[index] = error
-                stopped = stopped or is_quota_error(error)
+                stopped = stopped or (isinstance(error, LlmErrorResult) and error.is_quota)
                 continue
             results[index] = result
             if index in paths:
