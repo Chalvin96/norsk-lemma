@@ -242,7 +242,7 @@ def parse_example_response(
 def embed_example_translations(
     article: dict[str, Any],
     translations: dict[int, dict[int, dict[int, str]]],
-) -> None:
+) -> bool:
     """Embed ``en`` values onto the raw example element refs via the §0 core.
 
     Mutates *article* in place.  *translations* is the full batch result
@@ -253,11 +253,12 @@ def embed_example_translations(
     """
     article_id = article.get("article_id")
     if article_id is None:
-        return
+        return False
     article_translations = translations.get(article_id, {})
     if not article_translations:
-        return
+        return False
 
+    changed = False
     cores = iter_definition_cores(article)
     for def_index, core in enumerate(cores):
         def_translations = article_translations.get(def_index, {})
@@ -270,8 +271,10 @@ def embed_example_translations(
             if en is None:
                 continue
             no_text = _example_text(el)
-            if _is_valid_translation(en, no_text, gloss):
+            if _is_valid_translation(en, no_text, gloss) and el.get("en") != en.strip():
                 el["en"] = en.strip()
+                changed = True
+    return changed
 
 
 # ---------------------------------------------------------------------------
@@ -384,7 +387,8 @@ def run(
         for article_id, raw, _defs in batch:
             if article_id not in result:
                 continue
-            embed_example_translations(raw, result)
+            if not embed_example_translations(raw, result):
+                continue
             write_article(articles_dir, article_id, raw)
             written += 1
         return False

@@ -116,7 +116,7 @@ Batch states: `queued`, `in-flight`, `embedded`, `failed`, `stopped`.
 | From | Event | To |
 |---|---|---|
 | queued | worker free and not stopped | in-flight |
-| in-flight | dict result | embedded (each article in result written) |
+| in-flight | dict result | embedded (articles with changed examples written) |
 | in-flight | non-quota error string | failed (logged, examples stay pending) |
 | in-flight | quota error string | stopped (no refill; in-flight drained) |
 
@@ -124,9 +124,7 @@ Invariants:
 
 - **I3.1 Each article belongs to one batch.** Enforced by the single
   `iter_pending_examples` generator.
-- **I3.2 Written means changed.** Violated. An article whose every returned
-  translation is rejected is still rewritten and counted (`examples.py:384-389`).
-  **SM-9.**
+- **I3.2 Written means changed.** Enforced (SM-9). An article is written and counted only when embedding changes an example translation.
 - **I3.3 Quota classification.** Enforced (SM-1). Example translation uses the transport error quota flag.
 
 ## 4. Lemma export file (`data/export/lemma/{id}.json`)
@@ -270,5 +268,5 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-6 | open |
 | SM-7 | open |
 | SM-8 | open |
-| SM-9 | open |
+| SM-9 | fixed |
 | SM-10 | open |

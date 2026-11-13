@@ -1074,3 +1074,28 @@ def test_run_stops_after_transport_quota_error(tmp_path: Path, monkeypatch) -> N
     monkeypatch.setitem(examples.PROVIDERS, "openrouter", provider)
     assert examples.run(tmp_path, batch_size=1) == 0
     assert len(calls) == 1
+
+
+def test_run_does_not_write_or_count_rejected_or_unchanged_examples(tmp_path: Path) -> None:
+    from ordbokene.examples import run
+
+    article = _make_article()
+    path = tmp_path / "1.json"
+    original = json.dumps(article)
+    path.write_text(original, encoding="utf-8")
+
+    def rejected(*args):
+        return {1: {0: {0: "han gikk", 1: "de løp"}}}
+
+    assert run(tmp_path, request_fn=rejected) == 0
+    assert path.read_text(encoding="utf-8") == original
+
+    article["body"]["definitions"][0]["elements"][1]["en"] = "he walked"
+    original = json.dumps(article)
+    path.write_text(original, encoding="utf-8")
+
+    def unchanged(*args):
+        return {1: {0: {0: "he walked"}}}
+
+    assert run(tmp_path, request_fn=unchanged, force=True) == 0
+    assert path.read_text(encoding="utf-8") == original
