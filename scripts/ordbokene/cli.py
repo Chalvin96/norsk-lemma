@@ -34,6 +34,7 @@ import sys
 import uuid
 from contextvars import ContextVar
 from functools import wraps
+from itertools import islice
 from pathlib import Path
 
 import requests
@@ -50,7 +51,7 @@ from .extract import (
     extract_existing_translations,
     iter_definition_cores,
 )
-from .io import ExplodedEntry, articles_lock, explode, write_error, write_lemma
+from .io import ExplodedEntry, articles_lock, explode, iter_exploded, write_error, write_lemma
 from .llm import LlmErrorResult
 from .review import build_review_prompt, collect_translation_reviews, request_translation_review
 from .settings import (
@@ -303,21 +304,11 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
         logger.info("dry-run — article directory is empty; skipping source download")
         return
     ensure_articles_dir(articles_dir)
-    exploded = explode(articles_dir)
-    article_map = {aid: raw for aid, raw in exploded}
-
-    pending = []
-    for lemma_path in sorted(lemma_dir.glob("*.json")):
-        if not lemma_path.stem.isdigit():
-            continue
-        article_id = int(lemma_path.stem)
-        raw = article_map.get(article_id)
-        if raw is None:
-            continue
-        pending.append((article_id, raw, lemma_path))
-
     updated = 0
-    for article_id, raw, lemma_path in pending:
+    for article_id, raw in iter_exploded(articles_dir):
+        lemma_path = lemma_dir / f"{article_id}.json"
+        if not lemma_path.exists():
+            continue
         lemma_data = json.loads(lemma_path.read_text(encoding="utf-8"))
 
         primary = next(
@@ -533,16 +524,21 @@ def cmd_prune(args: argparse.Namespace) -> None:
         sys.exit(f"article cache is incomplete: {articles_dir}")
     if not any(articles_dir.glob("*.json")):
         sys.exit(f"article cache is empty: {articles_dir}")
-    articles = dict(explode(articles_dir))
-    if not any(extract_existing_translations(raw) is not None for raw in articles.values()):
+    exportable_ids = set()
+    has_translations = False
+    for article_id, raw in iter_exploded(articles_dir):
+        if extract_existing_translations(raw) is not None:
+            has_translations = True
+        if _build_exportable(article_id, raw)[0] == "ok":
+            exportable_ids.add(article_id)
+    if not has_translations:
         sys.exit(
             "article cache has no embedded translations; run hydrate or translate before prune"
         )
     stale = [
         path
         for path in sorted(lemma_dir.glob("*.json"))
-        if path.stem.isdigit()
-        and _build_exportable(int(path.stem), articles.get(int(path.stem)))[0] != "ok"
+        if path.stem.isdigit() and int(path.stem) not in exportable_ids
     ]
     logger.info(
         "prune — %d stale lemma files%s: %s",
@@ -559,17 +555,16 @@ def cmd_export(args: argparse.Namespace) -> None:
     articles_dir = args.articles_dir.resolve()
     lemma_dir = args.lemma_dir.resolve()
 
-    exploded = explode(articles_dir)
-    pending = exploded
-
-    logger.info("export — %d/%d articles pending", len(pending), len(exploded))
+    count = sum(1 for _ in iter_exploded(articles_dir))
+    logger.info("export — %d/%d articles pending", count, count)
 
     if args.dry_run:
-        logger.info("dry-run — would export %d lemma files", len(pending))
+        logger.info("dry-run — would export %d lemma files", count)
         return
 
+    pending = iter_exploded(articles_dir)
     if args.limit:
-        pending = pending[: args.limit]
+        pending = islice(pending, max(0, count + args.limit) if args.limit < 0 else args.limit)
 
     written = 0
     rebuilt = set()

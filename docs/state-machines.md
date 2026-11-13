@@ -84,6 +84,13 @@ Invariants:
   examples, 66 other). They are retried and re-logged on every run. This is
   expected behavior, documented here so it is not mistaken for a bug.
 
+- **I1.7 Corpus-wide stages run in bounded memory.** Violated: `hydrate`,
+  `export`, and `prune` materialized the exploded corpus, approximately 97,613
+  articles and 418 MB of JSON. Hydrate was OOM-killed (exit 137) on a 24 GB
+  host shared with other work. **SM-11.**
+  **Enforced (SM-11).** Hydrate, export, and prune stream articles, retaining only counters or article IDs across iterations.
+  **Fixed (SM-11, this commit).** Translate still holds its pending batch list in memory.
+
 ## 2. Translation request (`client.request_translations`)
 
 Per article in a batch:
@@ -296,6 +303,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-8 | Low. Archive differs from tag. | Dirty check includes untracked files under shipped paths. |
 | SM-9 | Low. No-op writes. | Write only when an example changed. |
 | SM-10 | Medium. Misattributed pronunciations. | Retry misaligned batches one word at a time. |
+| SM-11 | High. Corpus stages can exhaust memory. | Stream articles in hydrate, export, and prune. |
 
 ## Status
 
@@ -311,6 +319,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-8 | fixed 79f04100462 |
 | SM-9 | fixed a961ad5fab8 |
 | SM-10 | fixed 901b8ddfdb2, 9184b7fd677 |
+| SM-11 | fixed |
 
 Operational notes:
 

@@ -3413,3 +3413,43 @@ def test_g2p_recovers_aligned_words_when_batch_drops_empty_word(monkeypatch):
     entries = enrich_pronunciation.g2p_entries(["hund", "", "katt"])
     assert set(entries) == {"hund", "katt"}
     assert calls == [["hund", "", "katt"], ["hund"], [""], ["katt"]]
+
+
+@pytest.mark.parametrize("command", ["hydrate", "export", "prune"])
+def test_corpus_stages_process_articles_without_materializing_corpus(
+    tmp_path, monkeypatch, command
+):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    raw = _translation_article()
+    if command != "hydrate":
+        raw["lemmas"][0]["primary_translation"] = "interest"
+    (articles / "1.json").write_text(json.dumps(raw))
+    (lemmas / "1.json").write_text(
+        json.dumps({"lemmas": [{"primary_translation": "interest"}], "definitions": []})
+    )
+    (lemmas / "2.json").write_text("{}")
+    monkeypatch.setattr(cli, "_download_lemma_release", lambda *_args: None)
+
+    def fail_explode(*_args):
+        raise AssertionError("corpus materialized")
+
+    monkeypatch.setattr(cli, "explode", fail_explode)
+    args = Namespace(
+        articles_dir=articles, lemma_dir=lemmas, dry_run=False, limit=None, force=False
+    )
+    getattr(cli, f"cmd_{command}")(args)
+    if command == "hydrate":
+        assert (
+            json.loads((articles / "1.json").read_text())["lemmas"][0]["primary_translation"]
+            == "interest"
+        )
+    elif command == "export":
+        assert json.loads((lemmas / "1.json").read_text())["lemmas"][0]["frequency_rank"] is None
+    else:
+        assert (lemmas / "1.json").exists()
+        assert not (lemmas / "2.json").exists()
