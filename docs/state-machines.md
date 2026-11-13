@@ -193,10 +193,8 @@ position.
 
 States: `clean`, `archives-built`, `published`.
 
-- **I8.1 Archive contents equal the tagged tree.** Violated for untracked
-  files. `git diff --quiet HEAD` (`release.sh:60`) ignores untracked files, so
-  a new, uncommitted `data/export/lemma/*.json` ships in the archive but not
-  in the tag. **SM-8.**
+- **I8.1 Archive contents equal the tagged tree.** Enforced (SM-8).
+  Release rejects modified and untracked shipped paths unless `--allow-dirty` is set; audio is intentionally local.
 - **I8.2 Tag is new.** Enforced locally and on `origin`.
 
 ## 9. Pronunciation enrichment
@@ -235,6 +233,6 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-5 | fixed |
 | SM-6 | fixed |
 | SM-7 | fixed |
-| SM-8 | open |
+| SM-8 | fixed |
 | SM-9 | fixed |
 | SM-10 | open |
