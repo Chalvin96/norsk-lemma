@@ -170,17 +170,10 @@ States: `live`, `staged` (sibling temp dir), `backed-up` (old dir renamed),
 
 Invariants:
 
-- **I6.1 A bucket key always serves the bytes the manifest describes.**
-  Violated. `upload_audio.py:144` skips any key that exists. Keys hash
-  provider, voice, text and tone (`audio.py:55`), not bytes, so `audio --force`
-  changes the local file and `content_sha256` while the bucket keeps the old
-  clip under an `immutable` cache header. The module docstring calls keys
-  "content-addressed"; they are input-addressed. **SM-6.**
-- **I6.2 One audio clip per source lemma id.** Violated.
-  `embed_audio_into_articles` builds `source_lemma_id -> item` last-wins
-  (`audio.py:243-246`). When a lemma's pronunciation key changes, old and new
-  jobs both list the id and the winner depends on manifest order. Committed
-  export has 4 lemma ids carrying more than one audio file. **SM-6.**
+- **I6.1 A bucket key matches the bytes the manifest describes.** Enforced (SM-6).
+  Upload compares checksum metadata when available and replaces mismatched objects, warning that cached clips require a CDN purge.
+- **I6.2 One audio clip per source lemma id.** Enforced (SM-6).
+  Embedding selects the current pronunciation job when available and resolves other conflicts deterministically.
 - **I6.3 Manifest is written before embedding.** Enforced.
 - **I6.4 Partial synthesis is resumable.** Enforced: manifest flushed every
   100 jobs, files checksummed on resume.
@@ -243,7 +236,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-3 | fixed |
 | SM-4 | fixed |
 | SM-5 | fixed |
-| SM-6 | open |
+| SM-6 | fixed |
 | SM-7 | open |
 | SM-8 | open |
 | SM-9 | fixed |

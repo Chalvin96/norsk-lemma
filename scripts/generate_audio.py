@@ -74,7 +74,7 @@ def run(
             )
             return 0
         # Audio metadata belongs in articles/ so export can reproduce it.
-        written = embed_audio_into_articles(articles_dir, all_jobs)
+        written = embed_audio_into_articles(articles_dir, all_jobs, current_jobs=current_jobs)
         print(
             f"embedded audio into {written} article JSON files (run `export` to propagate to lemma/)"
         )
@@ -174,7 +174,7 @@ def run(
     all_jobs = jobs_from_manifest(
         manifest_path, provider="google", voice=voice, language_code=language_code
     )
-    embedded = embed_audio_into_articles(articles_dir, all_jobs)
+    embedded = embed_audio_into_articles(articles_dir, all_jobs, current_jobs=current_jobs)
 
     print(f"synthesized {synthesized_count} audio file(s)")
     print(

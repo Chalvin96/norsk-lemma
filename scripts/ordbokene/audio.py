@@ -219,7 +219,9 @@ def is_existing_audio_valid(
     return expected is None or file_sha256(path) == expected
 
 
-def embed_audio_into_articles(articles_dir: Path, jobs: list[AudioJob]) -> int:
+def embed_audio_into_articles(
+    articles_dir: Path, jobs: list[AudioJob], *, current_jobs: list[AudioJob] | None = None
+) -> int:
     """Embed audio metadata into raw article lemma dicts, keyed by lemma id.
 
     Mirrors the example/definition translation round-trip: audio lives in
@@ -234,16 +236,18 @@ def embed_audio_into_articles(articles_dir: Path, jobs: list[AudioJob]) -> int:
     from .embed import write_article
     from .io import iter_exploded
 
-    # source_lemma_id -> audio metadata item. source_lemma_id is a GLOBAL
-    # ordbokene lexeme id, so it uniquely identifies the word+pronunciation the
-    # MP3 was synthesized for; matching on it alone attaches the correct audio
-    # wherever that lexeme appears (main or sub article), and avoids any
-    # article_id x source_lemma_id cross-product ambiguity.
-    index: dict[int, dict[str, Any]] = {}
+    index: dict[int, list[AudioJob]] = {}
     for job in jobs:
-        item = audio_metadata(job)
         for source_lemma_id in job.source_lemma_ids:
-            index[source_lemma_id] = item
+            index.setdefault(source_lemma_id, []).append(job)
+
+    current_keys: dict[int, set[tuple[str, str | None, int | None]]] = {}
+    for job in current_jobs or []:
+        for source_lemma_id in job.source_lemma_ids:
+            current_keys.setdefault(source_lemma_id, set()).add(job.key)
+    for source_lemma_id, candidates in index.items():
+        if len(candidates) > 1:
+            print(f"audio conflict for source lemma {source_lemma_id}: {len(candidates)} jobs")
 
     if not index:
         return 0
@@ -254,10 +258,22 @@ def embed_audio_into_articles(articles_dir: Path, jobs: list[AudioJob]) -> int:
         for lemma in raw.get("lemmas", []):
             if not isinstance(lemma, dict):
                 continue
-            item = index.get(lemma.get("id"))
-            if item is None:
+            lemma_id = lemma.get("id")
+            candidates = index.get(lemma_id)
+            if not candidates:
                 continue
-            block = {"lemma": [item]}
+            text = normalize_audio_text(str(lemma.get("lemma") or ""))
+            keys = current_keys.get(lemma_id, set())
+            job = min(
+                candidates,
+                key=lambda candidate: (
+                    candidate.key not in keys,
+                    candidate.text != text,
+                    not bool(candidate.content_sha256),
+                    candidate.filename,
+                ),
+            )
+            block = {"lemma": [audio_metadata(job)]}
             if lemma.get("audio") != block:
                 lemma["audio"] = block
                 changed = True
