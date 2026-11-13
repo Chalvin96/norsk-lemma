@@ -3296,6 +3296,22 @@ def test_prune_reports_and_removes_orphans_and_export_adds_frequency(tmp_path, c
     assert (lemmas / "1.json").exists()
 
 
+@pytest.mark.parametrize("dry_run", [False, True])
+def test_prune_refuses_cache_without_translations(tmp_path, dry_run):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    (articles / "1.json").write_text(json.dumps(_translation_article()))
+    output = lemmas / "1.json"
+    output.write_text("{}")
+    with pytest.raises(SystemExit, match="article cache has no embedded translations"):
+        cli.cmd_prune(Namespace(articles_dir=articles, lemma_dir=lemmas, dry_run=dry_run))
+    assert output.exists()
+
+
 @pytest.mark.parametrize("incomplete", [False, True])
 def test_prune_refuses_untrusted_cache(tmp_path, incomplete):
     from ordbokene import cli
@@ -3333,6 +3349,9 @@ def test_export_preserves_untranslated_file_until_prune(tmp_path, caplog):
     articles.mkdir()
     lemmas.mkdir()
     (articles / "1.json").write_text(json.dumps(_translation_article()))
+    translated = _translation_article(2)
+    translated["lemmas"][0]["primary_translation"] = "word"
+    (articles / "2.json").write_text(json.dumps(translated))
     output = lemmas / "1.json"
     output.write_text('{"old": true}')
     args = Namespace(articles_dir=articles, lemma_dir=lemmas, dry_run=False, limit=1, force=False)

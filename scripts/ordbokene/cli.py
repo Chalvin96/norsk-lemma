@@ -534,6 +534,10 @@ def cmd_prune(args: argparse.Namespace) -> None:
     if not any(articles_dir.glob("*.json")):
         sys.exit(f"article cache is empty: {articles_dir}")
     articles = dict(explode(articles_dir))
+    if not any(extract_existing_translations(raw) is not None for raw in articles.values()):
+        sys.exit(
+            "article cache has no embedded translations; run hydrate or translate before prune"
+        )
     stale = [
         path
         for path in sorted(lemma_dir.glob("*.json"))
