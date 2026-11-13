@@ -49,10 +49,8 @@ Invariants:
 
 - **I1.1 One writer per article directory at a time.** Enforced (SM-2).
   Mutating commands hold an advisory process lock across their article writes.
-- **I1.2 `fetched` means the whole archive landed.** Unenforced, reachable.
-  `_has_article_json` (`source.py:28`) is true after one file. `_flatten_into`
-  moves files one at a time, so an interrupted fetch leaves a partial cache
-  that every later stage accepts as complete. **SM-4.**
+- **I1.2 `fetched` means the whole archive landed.** Enforced (SM-4).
+  An incomplete marker triggers a resume that preserves existing files.
 - **I1.3 Article ids are unique after explosion.** Unenforced in `iter_exploded`,
   checked per batch (`client.py:466`). Holds today: 0 duplicates in upstream.
 - **I1.4 Definition order is one traversal.** Enforced. `iter_definition_cores`
@@ -240,7 +238,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-1 | High. `translate` cannot pass article 1153. | Classify quota where transport errors are raised; carry a typed flag; never text-match validation errors. Stop on `missing_api_key`. |
 | SM-2 | High. Silent lost updates across stages. | Advisory lock on the articles directory for every mutating command; fail fast with the holder's command. |
 | SM-3 | Medium. Export not reproducible. | `export --prune` removes files it cannot rebuild; export reports stale count. Regenerating the committed export is a separate data task. |
-| SM-4 | Medium. Partial cache accepted. | Completion marker written after flatten; resume without clobbering. |
+| SM-4 | Medium. Partial cache accepted. | Incomplete marker surrounds download and flatten; resume without clobbering. |
 | SM-5 | Medium. Hydrate misses new senses. | Non-force hydrate fills blanks only and skips no-op writes. |
 | SM-6 | Medium. Stale public audio. | Upload compares stored checksum metadata; embed resolves one clip per lemma id deterministically. |
 | SM-7 | Low-medium. Misapplied review. | Batch mapping wins; issues carry `no` text; apply checks it. |
@@ -255,7 +253,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-1 | fixed |
 | SM-2 | fixed |
 | SM-3 | open |
-| SM-4 | open |
+| SM-4 | fixed |
 | SM-5 | open |
 | SM-6 | open |
 | SM-7 | open |

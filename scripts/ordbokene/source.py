@@ -13,7 +13,8 @@ ARTICLES_ARCHIVE_URL = "https://ord.uib.no/bm/fil/article.tar.gz"
 
 
 def ensure_articles_dir(articles_dir: Path) -> None:
-    if _has_article_json(articles_dir):
+    marker = articles_dir / ".fetch-incomplete"
+    if _has_article_json(articles_dir) and not marker.exists():
         return
 
     articles_dir.mkdir(parents=True, exist_ok=True)
@@ -21,7 +22,9 @@ def ensure_articles_dir(articles_dir: Path) -> None:
         "Articles directory is empty, downloading source archive from %s",
         ARTICLES_ARCHIVE_URL,
     )
+    marker.touch()
     _download_and_extract_articles(articles_dir)
+    marker.unlink()
 
 
 def _has_article_json(articles_dir: Path) -> bool:
@@ -62,6 +65,8 @@ def _flatten_into(src: Path, dst: Path) -> None:
     """Move all *.json files found anywhere under src into dst (flat)."""
     moved = 0
     for json_file in src.rglob("*.json"):
+        if (dst / json_file.name).exists():
+            continue
         shutil.move(str(json_file), dst / json_file.name)
         moved += 1
     if moved == 0:
