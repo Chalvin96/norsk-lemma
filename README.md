@@ -162,6 +162,7 @@ Run `frequency` to calculate ranks for new or changed entries and refresh the
 match report. Audio survives a rebuild when it is present in the article cache;
 export alone cannot recover audio metadata that exists only in an older export.
 `prune` removes files that cannot be rebuilt, including articles absent from the cache.
+It requires at least one article with embedded translations; run hydrate or translate first.
 It deletes tracked files; review `git status` before committing. Use `prune --dry-run`
 to preview the count and first 20 IDs. Run hydrate → export → prune → frequency
 when rebuilding from a release.

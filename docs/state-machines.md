@@ -64,6 +64,7 @@ Invariants:
   moves files one at a time, so an interrupted fetch leaves a partial cache
   that every later stage accepts as complete. **SM-4.**
   **Fixed (SM-4, b71efda831d, 55855188672).** An incomplete marker triggers a resume, and extraction stages on the cache filesystem.
+  Review follow-up (8cbcd064720): Fetch uses ignored temporary paths and removes stale paths on resume.
 
 - **I1.3 Article ids are unique after explosion.** Unenforced in `iter_exploded`,
   checked per batch (`client.py:466`). Holds today: 0 duplicates in upstream.
@@ -121,6 +122,7 @@ Invariants:
   sits in batch 68 of a fresh run. `examples.py:374` and `client.py:533` share
   the same classifier. **SM-1.**
   **Fixed (SM-1, bcc46c43b57).** Transport errors carry a quota flag instead of classifying validation errors.
+  Review follow-up (d0f9f21cdc5): Numeric quota codes match next to nondigits but not inside larger numbers.
 
 - **I2.4 A missing API key stops the run.** Violated. `missing_api_key` is not
   a quota error, so `cmd_translate` walks every batch and logs one error per
@@ -178,6 +180,7 @@ Invariants:
   definition `marbakke`) has no embedded translation, so `export` skips it and
   the old file survives. 163 files have no upstream article file. **SM-3.**
   **Fixed (SM-3, 2c0f316c8ac, a22865bb48c).** Export rebuilds eligible articles; standalone prune removes files that cannot be rebuilt.
+  Review follow-up (2db37e3a8c5): Prune refuses caches without embedded translations, including in dry runs.
 
 - **I4.2 Every lemma has `frequency_rank`.** Violated by one file (136507).
   `export` preserves frequency fields from the old file but a new file gets
@@ -298,10 +301,10 @@ Priority by impact. Each fix lands with a regression test that fails first.
 
 | ID | Status |
 |---|---|
-| SM-1 | fixed bcc46c43b57 |
+| SM-1 | fixed bcc46c43b57, d0f9f21cdc5 |
 | SM-2 | fixed 499b1b7a71c |
-| SM-3 | fixed 2c0f316c8ac, a22865bb48c |
-| SM-4 | fixed b71efda831d, 55855188672 |
+| SM-3 | fixed 2c0f316c8ac, a22865bb48c, 2db37e3a8c5 |
+| SM-4 | fixed b71efda831d, 55855188672, 8cbcd064720 |
 | SM-5 | fixed 638c3624cc3, 39a7ec2bac5 |
 | SM-6 | fixed 91a7d2afadb |
 | SM-7 | fixed 93b204d7df1 |
