@@ -3342,3 +3342,40 @@ def test_export_preserves_untranslated_file_until_prune(tmp_path, caplog):
     assert "not rebuilt" not in caplog.text
     cli.cmd_prune(args)
     assert not output.exists()
+
+
+def test_hydrate_limit_writes_one_article_and_stops_processing(tmp_path, monkeypatch):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    for aid in (1, 2):
+        (articles / f"{aid}.json").write_text(json.dumps(_translation_article(aid)))
+        (lemmas / f"{aid}.json").write_text(
+            json.dumps({"lemmas": [{"primary_translation": "word"}], "definitions": []})
+        )
+    before = (articles / "2.json").read_text()
+    monkeypatch.setattr(cli, "_download_lemma_release", lambda *_args: None)
+    writes = []
+    original_write = cli.write_article
+    original_embed = cli.embed_translations
+    processed = []
+
+    def write(*args):
+        writes.append(args[1])
+        original_write(*args)
+
+    def embed(*args):
+        processed.append(1)
+        return original_embed(*args)
+
+    monkeypatch.setattr(cli, "write_article", write)
+    monkeypatch.setattr(cli, "embed_translations", embed)
+    cli.cmd_hydrate(
+        Namespace(articles_dir=articles, lemma_dir=lemmas, force=False, dry_run=False, limit=1)
+    )
+    assert writes == [1]
+    assert len(processed) == 1
+    assert (articles / "2.json").read_text() == before

@@ -316,7 +316,7 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
             continue
         pending.append((article_id, raw, lemma_path))
 
-    updates = []
+    updated = 0
     for article_id, raw, lemma_path in pending:
         lemma_data = json.loads(lemma_path.read_text(encoding="utf-8"))
 
@@ -377,17 +377,17 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
                     if isinstance(value, str) and value.strip():
                         new_example["en"] = value
         if article != raw:
-            updates.append((article_id, article))
+            updated += 1
+            if not args.dry_run:
+                write_article(articles_dir, article_id, article)
+                if args.limit and updated >= args.limit:
+                    break
 
-    logger.info("hydrate — %d articles to update", len(updates))
+    logger.info("hydrate — %d articles to update", updated)
     if args.dry_run:
-        logger.info("dry-run — would hydrate %d articles", len(updates))
+        logger.info("dry-run — would hydrate %d articles", updated)
         return
-    if args.limit:
-        updates = updates[: args.limit]
-    for article_id, article in tqdm(updates, unit="article", desc="Hydrating"):
-        write_article(articles_dir, article_id, article)
-    logger.info("hydrate done — %d articles updated", len(updates))
+    logger.info("hydrate done — %d articles updated", updated)
 
 
 # ---------------------------------------------------------------------------
