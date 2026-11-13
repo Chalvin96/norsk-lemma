@@ -10,7 +10,7 @@ Evidence was gathered against `main` at `053c54684da`, the committed
 `https://ord.uib.no/bm/fil/article.tar.gz` downloaded 2026-11-12 (98,182 files,
 97,613 articles after sub-article explosion).
 
-Issue IDs (`SM-n`) match the fix list at the end.
+Issue IDs (`SM-n`) match the fix list at the end. Invariant evidence below describes the historical findings; the fixed notes describe current enforcement.
 
 ## 1. Article cache (`data/articles/{id}.json`)
 
@@ -47,17 +47,36 @@ Transitions:
 
 Invariants:
 
-- **I1.1 One writer per article directory at a time.** Enforced (SM-2).
-  Mutating commands hold an advisory process lock across their article writes.
-- **I1.2 `fetched` means the whole archive landed.** Enforced (SM-4).
-  An incomplete marker triggers a resume that preserves existing files.
+- **I1.1 One writer per article directory at a time.** Unenforced, reachable.
+  `cmd_translate` reads the whole corpus at start (`cli.py:359`) and rewrites
+  each file from that snapshot when its batch returns (`cli.py:411-413`), hours
+  later on a full run. A `pronounce`, `translate-examples`, `apply-review` or
+  `audio` run in that window is overwritten. `translate-examples` with
+  `--workers` and `pronounce` with its thread pool are safe within one process
+  because each article is owned by one batch. Atomic rename
+  (`io.py:write_text_atomically`) prevents torn files only.
+  `docs/pronunciation-pipeline.md` says "safe for concurrent runs", which is
+  true only for torn files. **SM-2.**
+  **Fixed (SM-2, 499b1b7a71c).** Mutating commands hold an advisory process lock across article writes.
+
+- **I1.2 `fetched` means the whole archive landed.** Unenforced, reachable.
+  `_has_article_json` (`source.py:28`) is true after one file. `_flatten_into`
+  moves files one at a time, so an interrupted fetch leaves a partial cache
+  that every later stage accepts as complete. **SM-4.**
+  **Fixed (SM-4, b71efda831d, 55855188672).** An incomplete marker triggers a resume, and extraction stages on the cache filesystem.
+
 - **I1.3 Article ids are unique after explosion.** Unenforced in `iter_exploded`,
   checked per batch (`client.py:466`). Holds today: 0 duplicates in upstream.
 - **I1.4 Definition order is one traversal.** Enforced. `iter_definition_cores`
   is the single source of ordering; `embed_translations` checks
   `source_id` list and example cardinality before writing (`embed.py:20-30`).
-- **I1.5 `hydrate` without `--force` fills what is missing.** Enforced (SM-5).
-  Hydrate preserves nonblank values and writes only changed articles.
+- **I1.5 `hydrate` without `--force` fills what is missing.** Violated by
+  design gap. Any primary, gloss, or single example `en` marks the article as
+  done (`cli.py:287`), so a newer release's definitions never reach a
+  partially translated article. Without `--force` it also rewrites and counts
+  articles where the release has nothing to add. **SM-5.**
+  **Fixed (SM-5, 638c3624cc3, 39a7ec2bac5).** Hydrate fills blanks, skips unchanged articles, and writes changes as it processes them.
+
 - **I1.6 `blocked` articles are a known, stable set.** Unenforced. 15,717
   upstream articles raise in `source_packet` (8,532 unscoped multi-sense alias
   targets, 5,850 multi-target aliases, 1,233 without definitions, 61 reordered
@@ -91,10 +110,22 @@ Invariants:
   `PIPELINE_VERSION`, model, harness, effort, full prompt (`client.py:481`).
 - **I2.2 Accepted results are durable before the caller writes articles.**
   Enforced (`client.py:536-538`).
-- **I2.3 "Quota" means a provider billing or rate limit.** Enforced (SM-1).
-  Transport errors carry a quota flag from HTTP status or CLI diagnostics, and callers use that flag rather than classifying validation errors.
-- **I2.4 A missing API key stops the run.** Enforced (SM-1).
-  Translate stops after the first affected batch and logs the missing key once.
+- **I2.3 "Quota" means a provider billing or rate limit.** Violated.
+  `is_quota_error` (`llm.py:75`) substring-matches `429`, `402`, `credit`,
+  `quota` and others against any string. `cmd_translate` (`cli.py:392`)
+  applies it to source-validation errors that embed article ids. 135 upstream
+  articles produce such an error, for example article 1153:
+  `unresolved_semantic_reference: multi_target targets=[(43429, None), ...]`
+  contains `429`. Translate treats it as a billing stop. The error is
+  deterministic, so every resumed run stops at the same article; article 1153
+  sits in batch 68 of a fresh run. `examples.py:374` and `client.py:533` share
+  the same classifier. **SM-1.**
+  **Fixed (SM-1, bcc46c43b57).** Transport errors carry a quota flag instead of classifying validation errors.
+
+- **I2.4 A missing API key stops the run.** Violated. `missing_api_key` is not
+  a quota error, so `cmd_translate` walks every batch and logs one error per
+  article. **SM-1.**
+  **Fixed (SM-1, bcc46c43b57).** Translate stops after the first affected batch and logs the missing key once.
 
 ## 3. Example translation (`examples.run`)
 
@@ -111,8 +142,13 @@ Invariants:
 
 - **I3.1 Each article belongs to one batch.** Enforced by the single
   `iter_pending_examples` generator.
-- **I3.2 Written means changed.** Enforced (SM-9). An article is written and counted only when embedding changes an example translation.
-- **I3.3 Quota classification.** Enforced (SM-1). Example translation uses the transport error quota flag.
+- **I3.2 Written means changed.** Violated. An article whose every returned
+  translation is rejected is still rewritten and counted (`examples.py:384-389`).
+  **SM-9.**
+  **Fixed (SM-9, a961ad5fab8).** Example translation writes and counts only changed articles.
+
+- **I3.3 Quota classification.** Shares I2.3. **SM-1.**
+  **Fixed (SM-1, bcc46c43b57).** Example translation uses the transport error quota flag.
 
 ## 4. Lemma export file (`data/export/lemma/{id}.json`)
 
@@ -125,16 +161,30 @@ Invariants:
 | From | Condition in `cmd_export` | To |
 |---|---|---|
 | any | article has no lemmas | absent (`cli.py:478`) |
-| any | article has embedded translations | current |
-| any | article has no embedded translations | absent |
+| any | article has embedded translations and build yields lemmas | current |
+| any | build yields no lemmas | absent |
+| any | article has no embedded translations | unchanged until `prune` |
 | any | article missing from cache | unchanged until `prune` |
 
 Invariants:
 
-- **I4.1 The export is a function of the article cache and code.** Enforced (SM-3).
-  Export rebuilds eligible articles and standalone prune removes files that cannot be rebuilt.
-- **I4.2 Every lemma has `frequency_rank`.** Enforced (SM-3).
-  Export initializes the field to null and preserves existing frequency values.
+- **I4.1 The export is a function of the article cache and code.** Violated.
+  Files whose article lost its translations, became blocked, or left the cache
+  are never rewritten or removed. Committed evidence: all 96,401 files lack
+  the `see_also` key that current `build_lemma` always emits, so the whole
+  export predates current code. 5,646 files have empty `definitions` and null
+  `cross_reference` (the shape `extract.py:262` says fails import). Of those,
+  4,432 have definitions upstream today; example 38901 (`molbakke`, alias
+  definition `marbakke`) has no embedded translation, so `export` skips it and
+  the old file survives. 163 files have no upstream article file. **SM-3.**
+  **Fixed (SM-3, 2c0f316c8ac, a22865bb48c).** Export rebuilds eligible articles; standalone prune removes files that cannot be rebuilt.
+
+- **I4.2 Every lemma has `frequency_rank`.** Violated by one file (136507).
+  `export` preserves frequency fields from the old file but a new file gets
+  none until `frequency` runs. `cmd_build` runs it; standalone `export` does
+  not. **SM-3.**
+  **Fixed (SM-3, 2c0f316c8ac).** Export initializes frequency rank to null and preserves existing frequency values.
+
 - **I4.3 Definitions carry glosses.** 9,197 files have some blank definition
   `translation`, 2 have all blank. Partial translation is allowed by schema
   v3 for examples only; the doc does not say blank glosses are allowed.
@@ -170,10 +220,21 @@ States: `live`, `staged` (sibling temp dir), `backed-up` (old dir renamed),
 
 Invariants:
 
-- **I6.1 A bucket key matches the bytes the manifest describes.** Enforced (SM-6).
-  Upload compares checksum metadata when available and replaces mismatched objects, warning that cached clips require a CDN purge.
-- **I6.2 One audio clip per source lemma id.** Enforced (SM-6).
-  Embedding selects the current pronunciation job when available and resolves other conflicts deterministically.
+- **I6.1 A bucket key always serves the bytes the manifest describes.**
+  Violated. `upload_audio.py:144` skips any key that exists. Keys hash
+  provider, voice, text and tone (`audio.py:55`), not bytes, so `audio --force`
+  changes the local file and `content_sha256` while the bucket keeps the old
+  clip under an `immutable` cache header. The module docstring calls keys
+  "content-addressed"; they are input-addressed. **SM-6.**
+  **Fixed (SM-6, 91a7d2afadb).** Upload compares checksum metadata and replaces mismatched objects with a CDN purge warning.
+
+- **I6.2 One audio clip per source lemma id.** Violated.
+  `embed_audio_into_articles` builds `source_lemma_id -> item` last-wins
+  (`audio.py:243-246`). When a lemma's pronunciation key changes, old and new
+  jobs both list the id and the winner depends on manifest order. Committed
+  export has 4 lemma ids carrying more than one audio file. **SM-6.**
+  **Fixed (SM-6, 91a7d2afadb).** Embedding selects the current pronunciation job and resolves other conflicts deterministically.
+
 - **I6.3 Manifest is written before embedding.** Enforced.
 - **I6.4 Partial synthesis is resumable.** Enforced: manifest flushed every
   100 jobs, files checksummed on resume.
@@ -184,23 +245,37 @@ Invariants:
 `definitions[N].examples[M].en`. `apply-review` writes `suggested_en` at that
 position.
 
-- **I7.1 An issue's `article_id` comes from the batch mapping.** Enforced (SM-7).
-  Review drops invalid or conflicting IDs and assigns the mapped article ID.
-- **I7.2 The target example is the one reviewed.** Enforced (SM-7).
-  Review records Norwegian example text and apply checks it, warning for legacy issues without text.
+- **I7.1 An issue's `article_id` comes from the batch mapping.** Violated.
+  `_enrich_with_article_ids` uses `setdefault` (`review.py:205`), so an
+  `article_id` the model writes wins over the batch mapping. **SM-7.**
+  **Fixed (SM-7, 93b204d7df1).** Review drops invalid or conflicting IDs and assigns the mapped article ID.
+
+- **I7.2 The target example is the one reviewed.** Unenforced. Issues carry
+  no Norwegian text, and `apply-review` writes by index (`examples.py:519`).
+  A re-fetch or hydrate between review and apply writes English onto a
+  different sentence. **SM-7.**
+  **Fixed (SM-7, 93b204d7df1).** Review records Norwegian example text and apply checks it, warning for legacy issues.
 
 ## 8. Release (`scripts/release.sh`)
 
 States: `clean`, `archives-built`, `published`.
 
-- **I8.1 Archive contents equal the tagged tree.** Enforced (SM-8).
-  Release rejects modified and untracked shipped paths unless `--allow-dirty` is set; audio is intentionally local.
+- **I8.1 Archive contents equal the tagged tree.** Violated for untracked
+  files. `git diff --quiet HEAD` (`release.sh:60`) ignores untracked files, so
+  a new, uncommitted `data/export/lemma/*.json` ships in the archive but not
+  in the tag. **SM-8.**
+  **Fixed (SM-8, 79f04100462).** Release rejects modified and untracked shipped paths unless `--allow-dirty` is set.
+
 - **I8.2 Tag is new.** Enforced locally and on `origin`.
 
 ## 9. Pronunciation enrichment
 
-- **I9.1 G2P results align with inputs.** Enforced (SM-10).
-  The pipeline leaves the batch unresolved if result count or word identities differ; an offline probe confirmed the model drops empty and `…` inputs.
+- **I9.1 G2P results align with inputs.** Unverified.
+  `g2p_entries` zips inputs with `phonetisaurus.predict` output using
+  `strict=False` (`enrich_pronunciation.py:308`). If the model ever drops or
+  merges an input, later words receive earlier words' pronunciation silently.
+  **SM-10**: probe first, fix only if reachable.
+  **Fixed (SM-10, 901b8ddfdb2, 9184b7fd677).** Misaligned batches fall back to individual transcription and accept only matching words.
 
 ## Fix list
 
@@ -217,19 +292,26 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-7 | Low-medium. Misapplied review. | Batch mapping wins; issues carry `no` text; apply checks it. |
 | SM-8 | Low. Archive differs from tag. | Dirty check includes untracked files under shipped paths. |
 | SM-9 | Low. No-op writes. | Write only when an example changed. |
-| SM-10 | Medium. Misattributed pronunciations. | Reject batches with misaligned G2P results. |
+| SM-10 | Medium. Misattributed pronunciations. | Retry misaligned batches one word at a time. |
 
 ## Status
 
 | ID | Status |
 |---|---|
-| SM-1 | fixed |
-| SM-2 | fixed |
-| SM-3 | fixed |
-| SM-4 | fixed |
-| SM-5 | fixed |
-| SM-6 | fixed |
-| SM-7 | fixed |
-| SM-8 | fixed |
-| SM-9 | fixed |
-| SM-10 | fixed |
+| SM-1 | fixed bcc46c43b57 |
+| SM-2 | fixed 499b1b7a71c |
+| SM-3 | fixed 2c0f316c8ac, a22865bb48c |
+| SM-4 | fixed b71efda831d, 55855188672 |
+| SM-5 | fixed 638c3624cc3, 39a7ec2bac5 |
+| SM-6 | fixed 91a7d2afadb |
+| SM-7 | fixed 93b204d7df1 |
+| SM-8 | fixed 79f04100462 |
+| SM-9 | fixed a961ad5fab8 |
+| SM-10 | fixed 901b8ddfdb2, 9184b7fd677 |
+
+Operational notes:
+
+- SM-3: Regenerating the committed export (all 96,401 files lack `see_also`) is a separate data task: hydrate -> export -> prune -> frequency.
+- SM-6: Objects uploaded before this change have no `sha256` metadata, so the first upload after merge re-uploads every existing clip once and prints a CDN warning per clip.
+- SM-8: The dirty check covers shipped paths only (`README.md`, `LICENSE`, `NOTICE`, `docs/data-sources.md`, `data/export/lemma`), not the whole tree.
+- SM-10: The offline probe showed that `""` and `…` are dropped by the model.
