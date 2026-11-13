@@ -3379,3 +3379,18 @@ def test_hydrate_limit_writes_one_article_and_stops_processing(tmp_path, monkeyp
     assert writes == [1]
     assert len(processed) == 1
     assert (articles / "2.json").read_text() == before
+
+
+def test_g2p_recovers_aligned_words_when_batch_drops_empty_word(monkeypatch):
+    import enrich_pronunciation
+
+    calls = []
+
+    def transcribe(words):
+        calls.append(words)
+        return [(word, ["H", "UH1", "N"]) for word in words if word]
+
+    monkeypatch.setattr(enrich_pronunciation.nb_g2p, "transcribe_words", transcribe)
+    entries = enrich_pronunciation.g2p_entries(["hund", "", "katt"])
+    assert set(entries) == {"hund", "katt"}
+    assert calls == [["hund", "", "katt"], ["hund"], [""], ["katt"]]

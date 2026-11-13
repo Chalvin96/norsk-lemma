@@ -305,13 +305,18 @@ def g2p_entries(wordforms: list[str]) -> dict[str, PronEntry]:
     try:
         with _g2p_lock:
             results = list(nb_g2p.transcribe_words(unique_wordforms))
-        if len(results) != len(unique_wordforms) or any(
-            word != result[0] for word, result in zip(unique_wordforms, results, strict=True)
-        ):
-            return {}
-        for input_word, (_result_word, nofabet_tokens) in zip(
-            unique_wordforms, results, strict=True
-        ):
+            if len(results) != len(unique_wordforms) or any(
+                word != result[0] for word, result in zip(unique_wordforms, results, strict=True)
+            ):
+                results = []
+                for word in unique_wordforms:
+                    try:
+                        single = list(nb_g2p.transcribe_words([word]))
+                    except Exception:
+                        continue
+                    if len(single) == 1 and single[0][0] == word:
+                        results.append(single[0])
+        for input_word, nofabet_tokens in results:
             nofabet = " ".join(nofabet_tokens)
             tone = extract_tone(nofabet)
             ipa = nofabet_to_ipa(nofabet)
