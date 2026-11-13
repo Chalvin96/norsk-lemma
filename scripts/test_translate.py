@@ -3266,3 +3266,48 @@ def test_hydrate_fills_missing_gloss_and_skips_unchanged_articles(tmp_path, monk
     ]
     cli.cmd_hydrate(args)
     assert writes == [1]
+
+
+def test_prune_reports_and_removes_orphans_and_export_adds_frequency(tmp_path, caplog):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    raw = _translation_article()
+    raw["lemmas"][0]["primary_translation"] = "interest"
+    (articles / "1.json").write_text(json.dumps(raw), encoding="utf-8")
+    (lemmas / "2.json").write_text("{}", encoding="utf-8")
+    args = Namespace(
+        articles_dir=articles, lemma_dir=lemmas, dry_run=False, limit=None, force=False
+    )
+    cli.cmd_export(args)
+    assert (lemmas / "2.json").exists()
+    assert json.loads((lemmas / "1.json").read_text())["lemmas"][0]["frequency_rank"] is None
+    args.dry_run = True
+    with caplog.at_level("INFO"):
+        cli.cmd_prune(args)
+    assert "2" in caplog.text
+    assert (lemmas / "2.json").exists()
+    args.dry_run = False
+    cli.cmd_prune(args)
+    assert not (lemmas / "2.json").exists()
+    assert (lemmas / "1.json").exists()
+
+
+@pytest.mark.parametrize("incomplete", [False, True])
+def test_prune_refuses_untrusted_cache(tmp_path, incomplete):
+    from ordbokene import cli
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    (lemmas / "2.json").write_text("{}")
+    if incomplete:
+        (articles / "1.json").write_text("{}")
+        (articles / ".fetch-incomplete").touch()
+    with pytest.raises(SystemExit, match="(?i)(empty|incomplete)"):
+        cli.cmd_prune(Namespace(articles_dir=articles, lemma_dir=lemmas, dry_run=False))
+    assert (lemmas / "2.json").exists()

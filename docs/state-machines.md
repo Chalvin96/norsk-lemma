@@ -126,24 +126,15 @@ Invariants:
 |---|---|---|
 | any | article has no lemmas | absent (`cli.py:478`) |
 | any | article has embedded translations | current |
-| any | article has no embedded translations | unchanged (`cli.py:484-486`) |
-| any | article missing from cache | unchanged |
+| any | article has no embedded translations | absent |
+| any | article missing from cache | unchanged until `prune` |
 
 Invariants:
 
-- **I4.1 The export is a function of the article cache and code.** Violated.
-  Files whose article lost its translations, became blocked, or left the cache
-  are never rewritten or removed. Committed evidence: all 96,401 files lack
-  the `see_also` key that current `build_lemma` always emits, so the whole
-  export predates current code. 5,646 files have empty `definitions` and null
-  `cross_reference` (the shape `extract.py:262` says fails import). Of those,
-  4,432 have definitions upstream today; example 38901 (`molbakke`, alias
-  definition `marbakke`) has no embedded translation, so `export` skips it and
-  the old file survives. 163 files have no upstream article file. **SM-3.**
-- **I4.2 Every lemma has `frequency_rank`.** Violated by one file (136507).
-  `export` preserves frequency fields from the old file but a new file gets
-  none until `frequency` runs. `cmd_build` runs it; standalone `export` does
-  not. **SM-3.**
+- **I4.1 The export is a function of the article cache and code.** Enforced (SM-3).
+  Export rebuilds eligible articles and standalone prune removes files that cannot be rebuilt.
+- **I4.2 Every lemma has `frequency_rank`.** Enforced (SM-3).
+  Export initializes the field to null and preserves existing frequency values.
 - **I4.3 Definitions carry glosses.** 9,197 files have some blank definition
   `translation`, 2 have all blank. Partial translation is allowed by schema
   v3 for examples only; the doc does not say blank glosses are allowed.
@@ -234,7 +225,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 |---|---|---|
 | SM-1 | High. `translate` cannot pass article 1153. | Classify quota where transport errors are raised; carry a typed flag; never text-match validation errors. Stop on `missing_api_key`. |
 | SM-2 | High. Silent lost updates across stages. | Advisory lock on the articles directory for every mutating command; fail fast with the holder's command. |
-| SM-3 | Medium. Export not reproducible. | `export --prune` removes files it cannot rebuild; export reports stale count. Regenerating the committed export is a separate data task. |
+| SM-3 | Medium. Export not reproducible. | Standalone `prune` removes files export cannot rebuild; export reports files not rebuilt. Regenerating the committed export is a separate data task. |
 | SM-4 | Medium. Partial cache accepted. | Incomplete marker surrounds download and flatten; resume without clobbering. |
 | SM-5 | Medium. Hydrate misses new senses. | Non-force hydrate fills blanks only and skips no-op writes. |
 | SM-6 | Medium. Stale public audio. | Upload compares stored checksum metadata; embed resolves one clip per lemma id deterministically. |
@@ -249,7 +240,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 |---|---|
 | SM-1 | fixed |
 | SM-2 | fixed |
-| SM-3 | open |
+| SM-3 | fixed |
 | SM-4 | fixed |
 | SM-5 | fixed |
 | SM-6 | open |

@@ -8,6 +8,7 @@ Stages in order:
   translate-examples  Call LLM for untranslated example sentences; embed en into articles.
   pronounce           Enrich articles with IPA pronunciation in-place.
   export              Build tracked lemma/ from enriched articles (no LLM needed).
+  prune               Remove lemma files that cannot be rebuilt.
   frequency           Annotate lemma/ with Kelly frequency_rank (post-export).
   audio               Generate lemma audio from exported lemma JSON.
   review              Review exported English translations via LLM.
@@ -512,6 +513,42 @@ def cmd_pronounce(args: argparse.Namespace) -> None:
 # ---------------------------------------------------------------------------
 
 
+def _build_exportable(article_id: int, raw: dict | None) -> dict | None:
+    if raw is None or not raw.get("lemmas"):
+        return None
+    existing = extract_existing_translations(raw)
+    if existing is None:
+        return None
+    result = build_lemma(copy.deepcopy(raw), existing, article_id)
+    return result if result.get("lemmas") else None
+
+
+@_locks_articles("prune")
+def cmd_prune(args: argparse.Namespace) -> None:
+    articles_dir = args.articles_dir.resolve()
+    lemma_dir = args.lemma_dir.resolve()
+    if (articles_dir / ".fetch-incomplete").exists():
+        sys.exit(f"article cache is incomplete: {articles_dir}")
+    if not any(articles_dir.glob("*.json")):
+        sys.exit(f"article cache is empty: {articles_dir}")
+    articles = dict(explode(articles_dir))
+    stale = [
+        path
+        for path in sorted(lemma_dir.glob("*.json"))
+        if path.stem.isdigit()
+        and _build_exportable(int(path.stem), articles.get(int(path.stem))) is None
+    ]
+    logger.info(
+        "prune — %d stale lemma files%s: %s",
+        len(stale),
+        " (dry-run)" if args.dry_run else "",
+        ", ".join(path.stem for path in stale[:20]),
+    )
+    if not args.dry_run:
+        for path in stale:
+            path.unlink()
+
+
 def cmd_export(args: argparse.Namespace) -> None:
     articles_dir = args.articles_dir.resolve()
     lemma_dir = args.lemma_dir.resolve()
@@ -529,23 +566,17 @@ def cmd_export(args: argparse.Namespace) -> None:
         pending = pending[: args.limit]
 
     written = 0
+    rebuilt = set()
     for article_id, raw in tqdm(pending, unit="article", desc="Exporting"):
         output_path = lemma_dir / f"{article_id}.json"
-        if not raw.get("lemmas"):
+        lemma_data = _build_exportable(article_id, raw)
+        if lemma_data is None:
             if output_path.exists():
                 output_path.unlink()
-                logger.info("export — removed stale empty-lemma file %s", output_path)
             continue
-        existing = extract_existing_translations(raw)
-        if existing is None:
-            logger.debug("article %d has no embedded translations — skipping", article_id)
-            continue
-        lemma_data = build_lemma(copy.deepcopy(raw), existing, article_id)
-        if not lemma_data.get("lemmas"):
-            if output_path.exists():
-                output_path.unlink()
-                logger.info("export — removed stale empty-lemma file %s", output_path)
-            continue
+        rebuilt.add(article_id)
+        for lemma in lemma_data["lemmas"]:
+            lemma.setdefault("frequency_rank", None)
         old_data: dict[str, object] = {}
         if output_path.exists():
             try:
@@ -561,6 +592,12 @@ def cmd_export(args: argparse.Namespace) -> None:
         written += 1
 
     logger.info("export done — %d lemma files written to %s", written, lemma_dir)
+    unreconstructed = sum(
+        1
+        for path in lemma_dir.glob("*.json")
+        if path.stem.isdigit() and int(path.stem) not in rebuilt
+    )
+    logger.info("export — %d existing lemma files not rebuilt; run prune", unreconstructed)
 
 
 # ---------------------------------------------------------------------------
@@ -753,6 +790,10 @@ def build_parser() -> argparse.ArgumentParser:
     _add_run_args(p_pr)
     add_pronunciation_args(p_pr)
 
+    p_prune = sub.add_parser("prune", help="Remove lemma files that cannot be rebuilt.")
+    _add_dir_args(p_prune)
+    p_prune.add_argument("--dry-run", action="store_true")
+
     # export
     p_ex = sub.add_parser("export", help="Build lemma/ from enriched articles.")
     _add_dir_args(p_ex)
@@ -865,6 +906,7 @@ def main() -> None:
         "translate-examples": cmd_translate_examples,
         "pronounce": cmd_pronounce,
         "export": cmd_export,
+        "prune": cmd_prune,
         "frequency": cmd_frequency,
         "audio": cmd_audio,
         "review": cmd_review,
