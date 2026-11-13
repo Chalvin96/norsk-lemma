@@ -3211,3 +3211,58 @@ def test_article_lock_records_command_and_pid(tmp_path: Path) -> None:
         assert (tmp_path / ".pipeline.lock").read_text(encoding="utf-8").strip() == (
             f"translate pid {os.getpid()}"
         )
+
+
+def test_hydrate_fills_missing_gloss_and_skips_unchanged_articles(tmp_path, monkeypatch):
+    from ordbokene import cli
+    from ordbokene.extract import iter_definition_cores
+
+    articles = tmp_path / "articles"
+    lemmas = tmp_path / "lemma"
+    articles.mkdir()
+    lemmas.mkdir()
+    raw = _translation_article()
+    core = next(iter(iter_definition_cores(raw)))
+    core["explanation_element"]["translation"] = "existing gloss"
+    raw["body"]["definitions"].append(
+        {
+            "type_": "definition",
+            "id": 8,
+            "elements": [{"type_": "explanation", "content": "ny betydning"}],
+        }
+    )
+    (articles / "1.json").write_text(json.dumps(raw), encoding="utf-8")
+    definitions = extract_definitions(raw)
+    (lemmas / "1.json").write_text(
+        json.dumps(
+            {
+                "lemmas": [],
+                "definitions": [
+                    {"text": definitions[0]["text"], "translation": "replacement"},
+                    {"text": definitions[1]["text"], "translation": "new gloss"},
+                ],
+            }
+        ),
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(cli, "_download_lemma_release", lambda *_args: None)
+    writes = []
+    original = cli.write_article
+
+    def write(*args):
+        writes.append(args[1])
+        original(*args)
+
+    monkeypatch.setattr(cli, "write_article", write)
+    args = Namespace(
+        articles_dir=articles, lemma_dir=lemmas, force=False, dry_run=False, limit=None
+    )
+    cli.cmd_hydrate(args)
+    hydrated = json.loads((articles / "1.json").read_text(encoding="utf-8"))
+    cores = list(iter_definition_cores(hydrated))
+    assert [c["explanation_element"]["translation"] for c in cores] == [
+        "existing gloss",
+        "new gloss",
+    ]
+    cli.cmd_hydrate(args)
+    assert writes == [1]

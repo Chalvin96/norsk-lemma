@@ -313,20 +313,10 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
         raw = article_map.get(article_id)
         if raw is None:
             continue
-        if not args.force and extract_existing_translations(raw) is not None:
-            continue
         pending.append((article_id, raw, lemma_path))
 
-    logger.info("hydrate — %d articles to update", len(pending))
-    if args.dry_run:
-        logger.info("dry-run — would hydrate %d articles", len(pending))
-        return
-
-    if args.limit:
-        pending = pending[: args.limit]
-
-    written = 0
-    for article_id, raw, lemma_path in tqdm(pending, unit="article", desc="Hydrating"):
+    updates = []
+    for article_id, raw, lemma_path in pending:
         lemma_data = json.loads(lemma_path.read_text(encoding="utf-8"))
 
         primary = next(
@@ -367,10 +357,36 @@ def cmd_hydrate(args: argparse.Namespace) -> None:
 
         article = copy.deepcopy(raw)
         embed_translations(article, {"lemma_primary": primary, "definitions": synthetic_defs})
-        write_article(articles_dir, article_id, article)
-        written += 1
+        if not args.force:
+            for old, new in zip(raw.get("lemmas", []), article.get("lemmas", []), strict=True):
+                if isinstance(old, dict) and isinstance(new, dict):
+                    value = old.get("primary_translation")
+                    if isinstance(value, str) and value.strip():
+                        new["primary_translation"] = value
+            for old, new in zip(
+                iter_definition_cores(raw), iter_definition_cores(article), strict=True
+            ):
+                value = old["explanation_element"].get("translation")
+                if isinstance(value, str) and value.strip():
+                    new["explanation_element"]["translation"] = value
+                for old_example, new_example in zip(
+                    old["example_elements"], new["example_elements"], strict=True
+                ):
+                    value = old_example.get("en")
+                    if isinstance(value, str) and value.strip():
+                        new_example["en"] = value
+        if article != raw:
+            updates.append((article_id, article))
 
-    logger.info("hydrate done — %d articles updated", written)
+    logger.info("hydrate — %d articles to update", len(updates))
+    if args.dry_run:
+        logger.info("dry-run — would hydrate %d articles", len(updates))
+        return
+    if args.limit:
+        updates = updates[: args.limit]
+    for article_id, article in tqdm(updates, unit="article", desc="Hydrating"):
+        write_article(articles_dir, article_id, article)
+    logger.info("hydrate done — %d articles updated", len(updates))
 
 
 # ---------------------------------------------------------------------------

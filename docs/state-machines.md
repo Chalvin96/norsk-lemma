@@ -39,7 +39,7 @@ Transitions:
 | translated:none, partial | `translate` | translated:complete | `cli.py:389-414` |
 | blocked | `translate` | blocked (error logged each run) | `client.py:476` |
 | translated:none | `hydrate` | partial or complete | `cli.py:300-342` |
-| translated:partial | `hydrate` (no `--force`) | unchanged | `cli.py:287` |
+| translated:partial | `hydrate` (no `--force`) | blanks filled from release | `cli.py` |
 | any | `translate-examples` | example `en` filled | `examples.py:384` |
 | any | `apply-review` | example `en` replaced | `examples.py:519` |
 | any | `pronounce` | pronounced | `enrich_pronunciation.py:410` |
@@ -56,11 +56,8 @@ Invariants:
 - **I1.4 Definition order is one traversal.** Enforced. `iter_definition_cores`
   is the single source of ordering; `embed_translations` checks
   `source_id` list and example cardinality before writing (`embed.py:20-30`).
-- **I1.5 `hydrate` without `--force` fills what is missing.** Violated by
-  design gap. Any primary, gloss, or single example `en` marks the article as
-  done (`cli.py:287`), so a newer release's definitions never reach a
-  partially translated article. Without `--force` it also rewrites and counts
-  articles where the release has nothing to add. **SM-5.**
+- **I1.5 `hydrate` without `--force` fills what is missing.** Enforced (SM-5).
+  Hydrate preserves nonblank values and writes only changed articles.
 - **I1.6 `blocked` articles are a known, stable set.** Unenforced. 15,717
   upstream articles raise in `source_packet` (8,532 unscoped multi-sense alias
   targets, 5,850 multi-target aliases, 1,233 without definitions, 61 reordered
@@ -254,7 +251,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-2 | fixed |
 | SM-3 | open |
 | SM-4 | fixed |
-| SM-5 | open |
+| SM-5 | fixed |
 | SM-6 | open |
 | SM-7 | open |
 | SM-8 | open |

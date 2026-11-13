@@ -136,7 +136,7 @@ Hydration validates the release in a staging directory, then swaps it into
 `--lemma-dir`; an existing export remains available if download, validation, or
 installation fails. The swap completes before article hydration, and `--limit`
 applies only to that article step. Use a separate directory if you need to
-retain a local export. Existing article translations are skipped unless
+retain a local export. Existing nonblank article translations are preserved unless
 `--force` is supplied. Hydration restores headword glosses, definition glosses,
 and example translations. It matches definitions and examples by Norwegian text,
 using occurrence order when duplicate texts occur. Use a compatible article
