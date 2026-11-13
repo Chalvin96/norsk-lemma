@@ -199,11 +199,8 @@ States: `clean`, `archives-built`, `published`.
 
 ## 9. Pronunciation enrichment
 
-- **I9.1 G2P results align with inputs.** Unverified.
-  `g2p_entries` zips inputs with `phonetisaurus.predict` output using
-  `strict=False` (`enrich_pronunciation.py:308`). If the model ever drops or
-  merges an input, later words receive earlier words' pronunciation silently.
-  **SM-10**: probe first, fix only if reachable.
+- **I9.1 G2P results align with inputs.** Enforced (SM-10).
+  The pipeline leaves the batch unresolved if result count or word identities differ; an offline probe confirmed the model drops empty and `…` inputs.
 
 ## Fix list
 
@@ -220,7 +217,7 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-7 | Low-medium. Misapplied review. | Batch mapping wins; issues carry `no` text; apply checks it. |
 | SM-8 | Low. Archive differs from tag. | Dirty check includes untracked files under shipped paths. |
 | SM-9 | Low. No-op writes. | Write only when an example changed. |
-| SM-10 | Unknown. | Probe alignment; enforce `strict=True` or per-word fallback. |
+| SM-10 | Medium. Misattributed pronunciations. | Reject batches with misaligned G2P results. |
 
 ## Status
 
@@ -235,4 +232,4 @@ Priority by impact. Each fix lands with a regression test that fails first.
 | SM-7 | fixed |
 | SM-8 | fixed |
 | SM-9 | fixed |
-| SM-10 | open |
+| SM-10 | fixed |

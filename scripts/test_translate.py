@@ -3311,3 +3311,15 @@ def test_prune_refuses_untrusted_cache(tmp_path, incomplete):
     with pytest.raises(SystemExit, match="(?i)(empty|incomplete)"):
         cli.cmd_prune(Namespace(articles_dir=articles, lemma_dir=lemmas, dry_run=False))
     assert (lemmas / "2.json").exists()
+
+
+def test_g2p_dropped_or_mismatched_word_never_receives_another_pronunciation(monkeypatch) -> None:
+    import enrich_pronunciation
+
+    monkeypatch.setattr(
+        enrich_pronunciation.nb_g2p,
+        "transcribe_words",
+        lambda words: [("hund", ["H", "UH1", "N"]), ("katt", ["K", "AH1", "T"])],
+    )
+    assert enrich_pronunciation.g2p_entries(["hund", "…", "katt"]) == {}
+    assert enrich_pronunciation.g2p_entries(["hund", "annet"]) == {}
